@@ -1,0 +1,2 @@
+# glossary
+Cloud Native Glossary
