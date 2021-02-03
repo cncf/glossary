@@ -309,7 +309,7 @@ In addition, having a system in one place exposes itself to risks of failure. Be
 
 ***How it helps***
 
-Some words go here ;)
+Real how it helps information.
 
 ### Immutable infrastructure
 
