@@ -24,6 +24,15 @@ Status: Feedback Appreciated
 
 Status: Completed-v1
 
+## Business impact of cloud native defined
+
+Business operating models in today’s world have shifted dramatically. The ability to adjust to changing customer demands, technology stacks across supply chains, mergers and divestitures, and manage people dynamically are all contributing toward a move toward becoming Digital.  Digital transformation has now led to a world where organizations largely derive value and revenue through digital interactions.No longer is technology merely supporting business processes, it has become a strategic differentiator. 
+
+Cloud native technologies allow companies to deliver digital products and services to market faster with increased scalability, stability, and resiliency to adapt as market needs shift while minimizing operations cost. loud native technologies automate operations to improve efficiency, elastically scale based on customer needs, and ensure business continuity.
+
+The Cloud Native Computing Foundation seeks to drive adoption of this paradigm by fostering and sustaining a community and ecosystem of open source, vendor-neutral projects which focus on driving business value. We are a neutral space for open collaboration and innovation that enables the creation of new billion-dollar markets.
+
+
 ## Terms
 
 ### Abstraction
