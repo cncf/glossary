@@ -22,3 +22,6 @@ collaborators:
 
   - username: jasonmorgan
     permission: admin
+
+  - username: CathPag
+    permission: admin
