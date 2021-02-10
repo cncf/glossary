@@ -1,3 +1,4 @@
+# Get more info on the settings.yaml here:https://github.com/apps/settings
 repository:
   # See https://developer.github.com/v3/repos/#edit for all available settings.
 
@@ -24,4 +25,7 @@ collaborators:
     permission: admin
 
   - username: CathPag
-    permission: admin
+    permission: maintain
+
+  - username: IdealUsrname
+    permission: maintain
