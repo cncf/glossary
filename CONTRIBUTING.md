@@ -18,6 +18,9 @@ The Co-chairs of the BVS are:
 * Catherine Paganini (catherine@buoyant.io)
 * Jason Morgan (jason@buoyant.io)
 
+## Glossary Entry Format
+Each entry should have the following format. Start with a short paragraph of **what it is**, then explain the **problem it addresses**, and close with **how it helps**. Each section shouldn't exceed 100 words (a total of 300 words max per term).
+
 ## Guidelines
 * To propose specific changes to a glossary entry, edit that entry in your branch and issue a pull request.
 * To request that an entry be clarified, updated, or reconsidered, you may alternatively open an issue.
