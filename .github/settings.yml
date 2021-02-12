@@ -25,7 +25,7 @@ collaborators:
     permission: admin
 
   - username: CathPag
-    permission: maintain
+    permission: push
 
   - username: IdealUsrname
-    permission: maintain
+    permission: push
