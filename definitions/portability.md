@@ -5,8 +5,6 @@ category: concept
 ---
 ## Portability
 
-**Status:** Not Started
-
 A Quick summary of the concept, what it is.
 
 A few lines of the problem it's addressing.

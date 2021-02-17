@@ -5,8 +5,6 @@ category: concept
 ---
 ## Abstraction
 
-**Status:** In Progress
-
 Abstraction is a process of hiding details and complex information that is not relevant to people who are using them. It also allows us to extract the essence of the details and replace them with more generalized information. 
 
 Without abstraction, users (people and programs) would be exposed to a large amount of information that is irrelevant to them. Just like people do not need to know all the details of how a computer works in order to use it, not all information needs to be available in order for us to consume the output of what runs beneath. 

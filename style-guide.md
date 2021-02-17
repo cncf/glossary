@@ -148,10 +148,11 @@ The **definition** label will be the final label in the md file. The definition 
 The three sections should total no more than 300 words, with each section residing on its own line. See the following example:
 
 ```md
+---
 title: Definition Template
+status: Feedback Appreciated
 category: Concept
-status: Feedback Appreciated 
-definition: |
+---
   A Quick summary of the concept, what it is.
 
   A few lines of the problem it's addressing.
