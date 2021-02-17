@@ -9,7 +9,7 @@ Anyone who wishes to make a contribution, may submit a GitHub issue or create a 
 All issues and pull requests are evaluated by the Glossary Maintainers. The current maintainers are, in alphabetical order:
 * Catherine Paganini (catherine@buoyant.io)
 * Daniel Jones (daniel.jones@engineerbetter.com)
-* Michael Foster (email)
+* Michael Foster (mfosterche@gmail.com)
 * Jason Morgan (jason@buoyant.io)
 From time to time, the project will consider changing or expanding its committers.
 
