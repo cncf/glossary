@@ -1,9 +1,9 @@
 ---
-title: Observability.yaml
+title: Observability
 status: Not Started
 category: concept
 ---
-## Observability.yaml
+## Observability
 
 Observability is a measure of how a system's state, or status, can be understood from its external outputs. Computers systems can be measured by observing CPU time, memory, disk space, latency, errors, etc. The information pulled explains how the system is performing, although these metrics can be interpreted differently by different users. Users will infer unique interpretations from the same data of a system. The more aligned and more correct these interpretations are, the more observable a system is.
 
