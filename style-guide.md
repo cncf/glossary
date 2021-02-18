@@ -35,7 +35,7 @@ The CNCF glossary follows the [default style guide](https://github.com/cncf/foun
 6. [No exclamation marks outside of quotations](https://www.grammarly.com/blog/exclamation-mark/)
 7. Do not exaggerate
 8. Avoid repetition
-9.  Be concise
+9. Be concise
 
 # Repository Structure
 
@@ -100,7 +100,7 @@ title: Definition Template
 
 # Status
 
-The **status** label will come after the tile label. The status label helps us understand which definitions are thoroughly vetted or require more effort.
+The **status** label will come after the title label. The status label helps us understand which definitions are thoroughly vetted or require more effort.
 
 Valid values are: 
 
@@ -118,7 +118,7 @@ status: Feedback Appreciated
 
 # Category
 
-The **category** label will come after the status label, it's contents will be capitalized, and consist of the following options:
+The **category** label will come after the status label, its contents will be capitalized, and consist of the following options:
 
 - Concept
 - Tool
