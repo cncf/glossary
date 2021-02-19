@@ -121,13 +121,8 @@ status: Feedback Appreciated
 The **category** label will come after the status label, its contents will be capitalized, and consist of the following options:
 
 - Concept
-- Tool
-- Opposite of "Other Definition"
-- Application
-- Objective
-- Application
 
-These options give more context about the definition. At least one category needs to be selected, however, multiple categories may be used.
+These options give more context as to how the definition is interpreted. For now, **concept** is the only category required.
 
 ```md
 ---
