@@ -5,8 +5,6 @@ category: concept
 ---
 ## Cloud Native Security
 
-**Status:** Completed
-
 Cloud native security is an approach for securing cloud native applications. This approach ensures that security requirements are included throughout a cloud native applications lifecycle (develop, distribute, deploy, and runtime). Cloud native security seeks to ensure the same conditions of diligence, integrity, trust, and threat prevention as traditional security models while integrating modern concepts of ephemerality, distribution, and immutability.
 
 The traditional perimeter-based security approaches are designed for static environments and are hard to scale across highly dynamic, interconnected, and distributed architectures

@@ -5,8 +5,6 @@ category: concept
 ---
 ## Loosely Coupled Architecture
 
-**Status:** Feedback Appreciated
-
 A loosely coupled architecture is a system design approach in which an application has little knowledge or reliance on a separate application. Microservices are an example of this architectural approach with a focus on narrowing an application's external dependencies. 
 
 Loosely coupled architecture is the opposite of tightly coupled architecture.
