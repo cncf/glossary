@@ -9,4 +9,4 @@ Observability is a measurement of how well a system's state, or status, can be u
 
 Like most control systems, users rely on system outputs to diagnose or interpret its state. If users cannot interpret a system's state, it won't be easy to take corrective action during an incident. The longer a system is inoperative, the more expensive the system is.
 
-The observability of a system has a significant impact on its cost. Observable systems yield meaningful, actionable data to their users, leading to more favorable outcomes and less downtime. More information does not always mean more observable, and decision-makers should consider the tools and metrics that are feeding information for their decisions.
+The observability of a system has a significant impact on its cost. Observable systems yield meaningful, actionable data to their users, leading to more favorable outcomes and less downtime. But note, more information does not necessarily mean your system is more observable. Decision-makers should consider the tools and metrics that are feeding information for their specific decisions and requirements.
