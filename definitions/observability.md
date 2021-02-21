@@ -1,11 +1,9 @@
 ---
-title: Observability.yaml
+title: Observability
 status: Not Started
 category: concept
 ---
-## Observability.yaml
-
-**Status:** Not Started
+## Observability
 
 A Quick summary of the concept, what it is.
 
