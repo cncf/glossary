@@ -5,8 +5,6 @@ category: concept
 ---
 ## Continuous Delivery (CD)
 
-**Status:** Feedback Appreciated
-
 Continuous Delivery (CD) is a set of practices in which code changes are automatically deployed into either acceptance environments or production. CD crucially includes procedures to ensure that software is adequately tested before deployment as well as provide a way to rollback changes if deemed necessary. Continuous Integration is the first step towards Continuous Delivery (i.e. changes have to merge cleanly before they can be tested and deployed).
 
 Deploying reliable updates becomes a problem at scale.  Ideally, we would like to be able to have more update cycles to give better value to our end users but doing it manually incurs high transaction costs for every change. To avoid these costs, historically organisations have released less frequently, deploying more changes at once, and therefore increasing the risk that something goes wrong. Continuous Delivery ensures a  deployment strategy that adequately tests the software and allows rollback to a previously working version if the end result isn’t desirable. 

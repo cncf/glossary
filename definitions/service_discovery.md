@@ -5,8 +5,6 @@ category: concept
 ---
 ## Service Discovery
 
-**Status:** Feedback Appreciated
-
 Modern applications are composed of multiple individual services that need to collaborate to provide value to the end user. To collaborate, they communicate over a network, and to communicate, they must first locate one another. Service discovery is the process of figuring out how to do that.
 
 Cloud native architectures are dynamic and fluid, meaning they are constantly changing. When a container crashes on one node, a new container is spun up on a different node to replace it. Or, when an app scales, replicas are spread out throughout the network. There is no one place where a particular service is; the location of everything is constantly changing. Service discovery keeps track of services within the network so services can find one another when needed. 
