@@ -5,8 +5,6 @@ category: concept
 ---
 ## Bare Metal Machine
 
-**Status:** Feedback Appreciated
-
 A computer consists of hardware — mainly the central processing unit (CPU), memory, and storage — needed to run applications or programs. An operating system is the software (OS) that sits on top of the hardware, manages these resources, and runs the applications (e.g. Outlook or the Microsoft stack on a laptop) on your laptop. The OS schedules when each app has access to a resource, ensuring each application has enough to run smoothly. 
 
 Machines without virtual machines but rather just compute resources are referred to as “bare metal.”

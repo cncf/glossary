@@ -5,8 +5,6 @@ category: concept
 ---
 ## Microservices
 
-**Status:** Feedback Appreciated
-
 Microservices is an architectural approach where an application is broken down into multiple smaller components, or microservices. Each microservice does some work when requested, and also has a well-defined single responsibility. A legacy online store might be deployed as one large application (pejoratively referred to as a “monolith”) that handles baskets, customers, inventory and checkouts. By contrast a Microservices-based system would separate each of these functions out into individual Microservices - so a ‘Basket Microservice’, ‘Customer Microservice’ and so on. 
 
 Different parts of an application may need to be scaled separately - for instance in an online store there are going to be many more product views than checkouts, and so we may need to have more copies of the product logic running than the checkout logic. In a monolithic application, we can’t deploy those bits of logic separately, and instead we have to duplicate the entire app, which leads to inefficient use of resources. In addition, we cannot update only the product logic without also updating the checkout logic. This dependency forces us into big batches of change, which are riskier.
