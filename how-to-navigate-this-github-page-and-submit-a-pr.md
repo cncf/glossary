@@ -6,7 +6,7 @@ The landing page can be found on github.com/cncf/glossary. The most important se
 - **Persona:** the persona this glossary is targeting,
 - **Style guide:** format and style of glossary entries.
 
-![some-name](images/how-to/filename.png)
+![some-name](images/how-to/1.png)
 
 ## Navigate the page using the tabs
 To navigate this page, use the tabs. Most relevant to you are:
@@ -14,16 +14,16 @@ To navigate this page, use the tabs. Most relevant to you are:
 - **Pull requests (PR):** once you created a pull request is should appear here (more to PRs below),
 - **Discussions:** where conversations about the project take place. You can participate or start a new one.
 
-![some-name](images/how-to/filename.png)
+![some-name](images/how-to/2.png)
 
 ## Issues
 In the "issues" tab, you'll find current open issues. Issues are tasks that have been identified. Most relevant to you are those with a "good first issue" or "help wanted" tag. Some have already been assigned to people (see arrows). 
 
-![some-name](images/how-to/filename.png)
+![some-name](images/how-to/3.png)
 
 Before getting started, make sure someone else didn't "claim" that issue already. Click on the issue to learn more about it. In this case, someone already claimed the container image term, so pick a different issue.
 
-![some-name](images/how-to/filename.png)
+![some-name](images/how-to/4.png)
 
 # Updating a glossary term (aka submitting a PR)
 Now, let's update a glossary entry. Go to the [definitions page:](https://github.com/cncf/glossary/tree/main/definitions)
@@ -35,10 +35,10 @@ Now, let's update a glossary entry. Go to the [definitions page:](https://github
 
 Check out this screen recording:
 
-![some-name](images/how-to/filename.png)
+![some-name](images/how-to/screenRec.png)
  
 After successfully submitting your PR, you should see it here:
 
-![some-name](images/how-to/filename.png)
+![some-name](images/how-to/5.png)
 
 Didn't work? Please reach out on Slack in the marketing-business-value channel. We'll be happy to help! 
