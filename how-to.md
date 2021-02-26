@@ -1,5 +1,5 @@
 # How to navigate this GitHub page and submit a PR
-## The lading page
+## The landing page
 The landing page can be found on github.com/cncf/glossary. The most important sections are:
 - **Definitions:** all definitions that are part of the glossary in separate files, including a template for new terms,
 - **Contributing:** info about the project, how to contribute, and project guidelines,
