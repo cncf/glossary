@@ -6,12 +6,13 @@ category: concept
 ## API Gateway
 
 ### What it is
-An API is a way for computer programs to interact with each other. Just as humans interact with a website via a web page, an API allows computer programs to interact with each other. Unlike human interactions, APIs have limitations on what can and cannot be asked of them. The limitation on interaction helps to create stable and functional communication between programs.
+An API gateway is a tool that aggregates unique application APIs, making them all available in one place. It allows organizations to move key functions, such as authentication and authorization or limiting the number of requests between applications, to a centrally managed location. An API gateway functions as a common interface to (often external) API consumers. 
 
-### Problem it Addresses
-As applications become more complex, small code changes can have drastic effects on other functionality. Applications need to take a modular approach to their functionality if they can grow and maintain stability simultaneously. Without APIs, there is a lack of a framework for the interaction between applications. Without a shared framework, it is challenging for applications to scale and integrate.
+### Problem it addresses
+If you’re making APIs available to external consumers, you'll want one entry point to manage and control all access. Additionally, if you need to apply functionality on those interactions, an API gateway allows you to uniformly apply it to all traffic without requiring any app code changes.
 
 ### How it helps
-APIs allow computer programs or applications to interact and share information in a defined and understandable manner. They are the building blocks for modern applications and they provide developers with a way to integrate applications together. Whenever you hear about microservices working together, you can infer that they interact via an API. 
+Providing one single access point for various APIs in an application, API gateways make it easier for organizations to apply cross-cutting business or security logic in a central location. They also allow application consumers to go to a single address for all their needs. An API gateway can simplify operational concerns like security and observability by providing a single access point for requests to all web services in a system. As all requests flow through the API gateway, it presents a single place to add functionality like metrics-gathering, rate-limiting, and authorization.
+
 
 
