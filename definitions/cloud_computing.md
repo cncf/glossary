@@ -1,13 +1,17 @@
 ---
 title: Cloud Computing
-status: Feedback Appreciated
+status: Completed
 category: concept
 ---
 ## Cloud Computing
 
-Cloud computing is a method to offer and deliver services over the internet. Cloud computing gives users the ability to access and use computing power in a remote physical location. The types of services delivered over the cloud can include software, data storage, networking resources, analytic tools, databases, and more. There are countless cloud locations and services available, allowing organizations to determine how to distribute their workloads. . The principal types of cloud computing architectures are public cloud, private cloud, hybrid cloud, and community cloud.
+### What it is
+Cloud computing is a model that offers compute resources like CPU, network, and disk capabilities on-demand over the internet. Cloud computing gives users the ability to access and use computing power in a remote physical location. Cloud providers like AWS, GCP, Azure, DigitalOcean, and others all offer third parties the ability to rent access to compute resources in multiple geographic locations. 
 
-Before the arrival of cloud computing, organizations had to set up large IT departments and physical infrastructure on premise, called data centers. Any significant form of upgrade or revamp came with problems such as large costs, time and resource allocations, and downtime for the organization’s websites. The physical system restricted operational access from remote locations. Without proper backup mechanisms in place, organizations also faced the danger of losing all data in the event of a crisis or natural calamity.
+### Problem it Addresses
+Organizations traditionally faced two main problems when attempting to expand their use of computing power. They either acquire, support, design, and pay for facilities to host their physical servers and network or expand and maintain those facilities. Cloud computing allows organizations to outsource some portion of their computing needs to another organization.
 
-Cloud computing allows enterprises to reduce the need for big IT infrastructure set-ups within organizations. organizations can focus more on business operations since all IT needs, including hardware and software upgrades, are taken care of by the cloud provider. The need-based service structure of cloud computing allows for great cost-efficiency, flexibility, and scalability. Cloud environments are normally set up with dedicated servers in highly secure data centers with proper backups in place. This makes businesses run smoothly even in the event of a crisis. 
+### How it Helps
+Cloud providers offer organizations the ability to rent compute resources on-demand and pay for usage. This allows for two major innovations: organizations can try things without wasting time planning and spending CAPEX on new physical infrastructure and they can scale as needed and on-demand. Cloud computing allows organizations to adopt as much or as little infrastructure as they need. 
+
 
