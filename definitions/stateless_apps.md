@@ -1,6 +1,6 @@
 ---
 title: Stateless Apps
-status: Not Started
+status: Feedback Appreciated
 category: concept
 ---
 ## Stateless Apps
