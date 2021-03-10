@@ -1,7 +1,6 @@
 ---
 title: Canary Deployment
 status: Completed
-
 category: concept
 ---
 ## Canary Deployment
