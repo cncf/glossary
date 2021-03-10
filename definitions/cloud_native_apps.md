@@ -1,15 +1,17 @@
 ---
 title: Cloud Native Apps
-status: Feedback Appreciated
+status: Completed
 category: concept
 ---
 ## Cloud Native Apps
 
-Cloud native applications are specifically designed to take advantage of cloud computing models while keeping it independent of any particular cloud stack. It provides consistent deployment as they are optimized to run across public, on-premises and hybrid clouds. Cloud native applications are intended to be scaled with speed and agility as business systems constantly evolve.
+### What it is
+Cloud native applications are specifically designed to take advantage of innovations in cloud computing. These applications integrate easily with their respective cloud architectures, taking advantage of the cloud’s resources and scaling capabilities. It also refers to applications that take advantage of innovations in infrastructure driven by cloud computing. Cloud native applications today include apps that run in a cloud provider’s datacenter and on cloud native platforms on-premise.
 
-The two main classes of applications are stateful and stateless, which have very different requirements for production readiness. Most importantly being how both the state and the data are protected and preserved.  In the early years of Kubernetes, the platform primarily supported and ran stateless applications, defined as applications that do not need to retain data from one session to the next when containers are restarted. With the growing adoption and community contribution of Kubernetes, it has evolved as one of the leading platforms for every type of application, including the deployment and management of scalable and highly available stateful applications.
+### Problem it Addresses
+Traditionally, on-premise environments provided compute resources in a fairly bespoke way. Each datacenter had services that tightly coupled applications to specific environments, often relying heavily on manual provisioning for infrastructure, like virtual machines and services. This, in turn, constrained developers and their applications to that specific datacenter. Applications that weren't designed for the cloud couldn't take advantage of a cloud environment’s resiliency and scaling capabilities.  For example, apps that require manual intervention to start correctly cannot scale automatically, nor can they be automatically restarted in the event of a failure.  
 
-There is no “one size fits all” path to cloud native applications as it varies by organization and the different priorities when they begin to modernize their existing application architecture and infrastructure to evolve with cloud native principles. Cloud native applications need to be portable across environments, which is why they rely on containers instead of specific cloud APIs. Compared to legacy applications, there can be hurdles when running and deploying cloud native applications  in production. 
+### How it Helps
+While there is no “one size fits all” path to cloud native applications, they do have some commonalities. Cloud native apps are resilient, manageable, and aided by the suite of cloud services that accompany them. The various cloud services enable a high degree of observability, enabling users to detect and address issues before they escalate. Combined with robust automation, they allow engineers to make high-impact changes frequently and predictably with minimal toil.
 
-Cloud native applications are on the rise. The evolution of cloud computing has been remarkable, resulting not only in a rapidly growing market and innovation, but also in shifting mindsets and practices pointing toward a new IT operating model and software development paradigm for DevOps and Microservices. Evolving toward cloud native application development and delivery is multifaceted, affecting aspects throughout the organization including culture, processes, architecture, and technology. Decide whether to build or buy a Kubernetes platform.
 
