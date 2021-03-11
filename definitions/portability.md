@@ -1,6 +1,6 @@
 ---
 title: Portability
-status: Feedback Apreciated
+status: Feedback Appreciated
 category: concept
 ---
 ## Portability
