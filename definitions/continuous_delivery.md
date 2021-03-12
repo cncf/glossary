@@ -1,13 +1,16 @@
 ---
 title: Continuous Delivery (CD)
-status: Feedback Appreciated
+status: Completed
 category: concept
 ---
-## Continuous Delivery (CD)
+## Continuous Delivery/Deployment (CD)
 
-Continuous Delivery (CD) is a set of practices in which code changes are automatically deployed into either acceptance environments or production. CD crucially includes procedures to ensure that software is adequately tested before deployment as well as provide a way to rollback changes if deemed necessary. Continuous Integration is the first step towards Continuous Delivery (i.e. changes have to merge cleanly before they can be tested and deployed).
+### What it is
+Continuous delivery, often abbreviated as  CD, [is a set of practices](https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912/ref=pd_lpo_14_t_0/145-7791002-8430115?_encoding=UTF8&pd_rd_i=0321601912&pd_rd_r=5fdc1752-6348-4ac4-9689-7f8122aa2722&pd_rd_w=lizN1&pd_rd_wg=SoOLk&pf_rd_p=16b28406-aa34-451d-8a2e-b3930ada000c&pf_rd_r=QZW9GYHYD0FPSKPR6WBK&psc=1&refRID=QZW9GYHYD0FPSKPR6WBK) in which code changes are automatically deployed into an acceptance environment (or, in the case of continuous deployment, into production). CD crucially includes procedures to ensure that software is adequately tested before deployment and provides a way to rollback changes if deemed necessary. Continuous integration (CI) is the first step towards continuous delivery (i.e., changes have to merge cleanly before being tested and deployed).
 
-Deploying reliable updates becomes a problem at scale.  Ideally, we would like to be able to have more update cycles to give better value to our end users but doing it manually incurs high transaction costs for every change. To avoid these costs, historically organisations have released less frequently, deploying more changes at once, and therefore increasing the risk that something goes wrong. Continuous Delivery ensures a  deployment strategy that adequately tests the software and allows rollback to a previously working version if the end result isn’t desirable. 
+### Problem it Addresses
+Deploying reliable updates becomes a problem at scale. Ideally, we'd deploy more frequently to deliver better value to end-users. However, doing it manually translates into high transaction costs for every change. Historically, to avoid these costs, organizations have released less frequently, deploying more changes at once and increasing the risk that something goes wrong.
 
-CD strategies create a fully automated platform that tests and deploys the software using a variety of deployment strategies such as canary builds or blue-green tests. This allows developers to have a regular and frequent update cycle while also giving them peace of mind that the new revision has been tested and that they have a way to minimize the blast radius if things go sideways. Typically, the trunk-based development is used in CD strategies as opposed to feature branching. 
+### How it Helps
+CD strategies create a fully automated path to production that tests and deploys the software using various deployment strategies such as canary or blue-green releases. This allows developers to deploy code frequently,  giving them peace of mind that the new revision has been tested. Typically, trunk-based development is used in CD strategies as opposed to feature branching or pull requests.
 
