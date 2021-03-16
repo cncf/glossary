@@ -1,17 +1,17 @@
 ---
-title: DevSecOps/SecDevOps/OpsSecDev/OpsDevSec/DevOpsSec/SecOpsDev
-status: Feedback Appreciated
+title: DevSecOps 
+status: Completed
 category: concept
 ---
-## DevSecOps/SecDevOps/OpsSecDev/OpsDevSec/DevOpsSec/SecOpsDev
+## DevSecOps 
 
-The term DevSecOps refers to a cultural merger of the development, security, and operations responsibilities. It extends the DevOps approach, where operation teams provide and manage tools to increase developers' productivity to include security. DevSecOps focuses on implementing security considerations into the daily developer workflow without hampering the developers' productivity. Like DevOps, DevSecOps is a cultural shift, pushed by the technologies adopted, with unique adoption methods.  
+### What it is
+The term DevSecOps refers to a cultural merger of the development, operational, and security responsibilities. It extends the DevOps approach to include security priorities with minimal to no disruption in the developer and operational workflow. Like DevOps, DevSecOps is a cultural shift, pushed by the technologies adopted, with unique adoption methods.
 
-Without DevSecOps, the development, security, and operations teams exist in silos. Each team has conflicting goals about where, when, and how to deploy infrastructure and software. DevSecOps focuses on breaking down these silos so teams can create secure, automated workflows and avoid production downtime. 
+### Problem it Addresses
+DevOps practices include continuous integration and continuous deployment and accelerate application development and release cycles. Unfortunately, automated release processes that fail to represent all organizational stakeholders adequately can exacerbate existing issues. A process that rapidly releases new software without considering security needs can degrade an organizations’ security posture.
 
-DevSecOps will help to:
-  * Increase productivity from automation and communication
-  * Reduce security mishaps and the cost incurred from them
-  * Foster better team communication and understanding of priorities
-  * Reduce friction between teams --- DevOps + Security
+### How it Helps
+DevSecOps focuses on breaking down team silos and promotes the creation of secure, automated workflows. When selecting security applications, organizations must take advantage of automated CI/CD workflows and policy enforcement that empower the developer. The goal is not to be a blocker but to enforce security policies while giving users accurate information on how to move their project forward. When properly implemented, an organization will gain better team communication and reduce security mishaps and associated costs.
+
 
