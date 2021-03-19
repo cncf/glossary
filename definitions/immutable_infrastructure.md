@@ -1,13 +1,17 @@
 ---
 title: Immutable Infrastructure
-status: Feedback Appreciated
+status: Completed
 category: concept
 ---
 ## Immutable Infrastructure
 
-Immutable Infrastructure is computer infrastructure (virtual machines, containers, network appliances) that cannot be changed once it has been deployed. This may be effectively immutable in the sense that unauthorized changes are overwritten by an automated process, or more strongly immutable in the sense that changes cannot be made in the first place. Some systems will use characteristics of the deployment infrastructure to identify elements that have diverged, and present these in a report to operators.
+### What it is
+Immutable Infrastructure is computer infrastructure (virtual machines, containers, network appliances) that cannot be changed once deployed. This can be enforced by an automated process that overwrites unauthorized changes or through a system that won't allow changes in the first place. Containers are a good example of immutable infrastructure because persistent changes to containers can only be made by creating a new version of the container or recreating the existing container from its image.
 
-Security and compliance can be undermined by administrators making changes to running production systems. Often this is necessary for debugging live problems, but in the hands of undisciplined operators it can present an environment where no assumptions can be made about the state of the system, and even worse, no audit history is available. 
+### Problem it Addresses
+[Infrastructure as Code](https://github.com/cncf/glossary/blob/main/definitions/infrastructure_as_code.md) (IaC) systems became very popular with the rise of [cloud computing](https://github.com/cncf/glossary/blob/main/definitions/cloud_computing.md). They provide value by helping users configure virtual or physical machines. Unfortunately, most IaC systems only provide limited controls on the managed infrastructure, and changes that occur to systems outside IaC tools persist in the environment. That may lead to unexpected behaviors, security vulnerabilities, and potentially break the automation.
 
-By preventing or identifying unauthorized changes, immutable infrastructure makes it easier to identify and mitigate security risks. It aids operability by ensuring that administrators can make given assumptions about a system, knowing that no-one else has made changes that they’ve forgotten to communicate. Immutable Infrastructure often goes hand-in-hand with Infrastructure-as-Code, wherein all automation that leads to the creation of infrastructure is stored in version control (eg Git). This combination of immutability and version control means that there is a durable audit log of every authorised change to a system.
+### How it Helps
+By preventing or identifying unauthorized changes, immutable infrastructures make it easier to identify and mitigate security risks. Operating such a system becomes a lot more straightforward because administrators can make assumptions about it. After all, they know no one made mistakes or changes they forgot to communicate. 
+Immutable infrastructure goes hand-in-hand with IaC where all automation needed to create infrastructure is stored in version control (e.g. Git). This combination of immutability and version control means that there is a durable audit log of every authorized change to a system.
 
