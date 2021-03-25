@@ -1,16 +1,21 @@
 ---
-title: Distributed Systems
-status: Feedback Appreciated
+title: Distributed System
+status: Completed
 category: concept
 ---
-## Distributed Systems
+## Distributed System
 
 ### What it is
-Distributed systems consist of small components that exist across various locations / machines that are connected under the same network. They communicate with each other in order to achieve a common goal. It is likened to how a remote team works. Regardless of where they are, the team completes tasks by collaborating from various locations and produces the same result as it would an on-site team. 
+A distributed system is a collection of autonomous computing elements connected over a network that appears to users as a single coherent system. Generally referred to as nodes, these components can be hardware devices (e.g. computers, mobile phones) or software processes. Nodes are programmed to achieve a common goal and, to collaborate, they exchange messages over the network. 
 
 ### Problem it Addresses
-In a traditional system, scaling vertically gets expensive and time consuming as it requires constant updates to a single machine. Too many devices on the traditonal system can slow the system down and overwhelm the server.
+Numerous modern applications today are so big they'd need supercomputers to operate. Think Gmail or Netflix. No single computer is powerful enough to host the entire application. By connecting multiple computers, compute power becomes nearly limitless. Without distributed computing, many applications we rely on today wouldn't be possible. 
 
-### How it helps
-To solve this, the Distributed systems approach allows horizontal scaling which can handle a sudden increase in workloads or resources consumption. In addition, having a system in one place exposes itself to risks of failure. Because of the redundancy in distributed systems, even if other machines go down, it can still keep working to produce the same result. 
+Traditionally, systems would scale vertically. That's when you add more CPU or memory to an individual machine. Vertical scaling is time-consuming, requires downtime, and reaches its limit quickly. 
+
+### How it Helps
+Distributed systems allow for horizontal scaling (e.g. adding more nodes to the system whenever needed). This can be automated allowing a system to handle a sudden increase in workload or resource consumption. 
+
+A non-distributed system exposes itself to risks of failure because if one machine fails, the entire system fails. A distributed system can be designed in such a way that, even if some machines go down, the overall system can still keep working to produce the same result.
+
 
