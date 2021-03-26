@@ -1,15 +1,19 @@
 ---
 title: Microservices
-status: Feedback Appreciated
+status: Completed
 category: concept
 ---
 ## Microservices
 
-Microservices is an architectural approach where an application is broken down into multiple smaller components, or microservices. Each microservice does some work when requested, and also has a well-defined single responsibility. A legacy online store might be deployed as one large application (pejoratively referred to as a “monolith”) that handles baskets, customers, inventory and checkouts. By contrast a Microservices-based system would separate each of these functions out into individual Microservices - so a ‘Basket Microservice’, ‘Customer Microservice’ and so on. 
+### What it is
+Microservices are a modern approach to application development that takes advantage of cloud native technologies. While modern applications, like Netflix, appear to be a single app, they are actually a collection of smaller services – all closely working together. For instance, a single page that allows you to access, search, and preview videos is likely powered by smaller services that each handle one aspect of it (e.g. search, authentication, and running previews in your browser). In short, microservices refer to an application architecture pattern usually contrasted with [monolithic applications](https://github.com/cncf/glossary/blob/main/definitions/monolithic_apps.md).
 
-Different parts of an application may need to be scaled separately - for instance in an online store there are going to be many more product views than checkouts, and so we may need to have more copies of the product logic running than the checkout logic. In a monolithic application, we can’t deploy those bits of logic separately, and instead we have to duplicate the entire app, which leads to inefficient use of resources. In addition, we cannot update only the product logic without also updating the checkout logic. This dependency forces us into big batches of change, which are riskier.
+### The Problem it Addresses
+Microservices are a response to challenges posed by monolithic applications. Generally, different parts of an application will need to be [scaled](https://github.com/cncf/glossary/blob/main/definitions/scalability.md) separately. An online store, for example, is going to have more product views than checkouts. That means you'll need more copies of the product view functionality running than the checkout. In a monolithic application, those bits of logic can't be deployed separately. If you can't scale the product functionality individually, you'll have to duplicate the entire app with all other components you don't need – an inefficient use of resources.
+Monolithic applications also make it easy for developers to succumb to design pitfalls. Because all the code is in one place, it is easier to make that code tightly-coupled and harder to enforce the principle of separation of concerns. Monoliths often require developers to understand the entire codebase before they can be productive.
 
-Monolithic applications also make it easy for developers to succumb to design pitfalls. Because all the code is in one place, it is easier to make that code tightly-coupled and harder to enforce the principle of separation of concerns.
+### How it helps
+Separating functionality into different microservices makes them easier to deploy, update, and scale independently. By allowing different teams to focus on their own small part of a bigger application you also make it easier for them to work on their apps without negatively impacting the rest of the organization.
+While microservices solve many problems, they also create operational overhead—the things you need to deploy and keep track of increase by order of magnitude or more. Many cloud-native technologies aim to make microservices easier to deploy and manage.
 
-Separating areas of functionality into different Microservices makes it easier to deploy, update and scale them independently. Storing each Microservice in its own source code repository also means that it is harder for developers to entangle unrelated areas of functionality, ensuring that they can remain independent. Whilst Microservices solve many problems, they create operational overhead in that the number of things to deploy and keep track of increases by an order of magnitude or more. Many cloud-native technologies aim to make Microservices easier to deploy and manager.
 
