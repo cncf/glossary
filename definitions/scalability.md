@@ -1,13 +1,12 @@
 ---
 title: Scalability
-status: Feedback Appreciated
+status: Completed
 category: concept
 ---
 ## Scalability
 
-Scalability is the property of a system to be responsive in the presence of load.
+Scalability refers to how well a system can grow. That is increasing the ability to do whatever the system is supposed to do. For example, a Kubernetes cluster scales by increasing or reducing the number of containerized apps, but that scalability depends on several factors. How many nodes does it have, how many containers can each node handle, and how many records and operations can the control plane support?
 
-A system's responsiveness, that is, its ability to meet its service level objectives, is a function of load and failure. Increased presence of load or an increased presence of failure leads to a decrease of responsiveness.
+A scalable system makes it easy to add more capacity. We differentiate between two scaling approaches. On the one hand, there is horizontal scaling which adds more nodes to handle increased load. In contrast, in vertical scaling individual nodes are made more powerful to perform more transactions (e.g. by adding more memory or CPU to an individual machine). A scalable system is able to change easily and meet user needs.
 
-Scalability ensures a system is responsive in the presence of load. However, Scalability does not ensure a system is responsive in the presence of failure (See Reliability)
 
