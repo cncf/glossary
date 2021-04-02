@@ -1,13 +1,15 @@
 ---
 title: Service Discovery
-status: Feedback Appreciated
+status: Completed
 category: concept
 ---
 ## Service Discovery
 
-Modern applications are composed of multiple individual services that need to collaborate to provide value to the end user. To collaborate, they communicate over a network, and to communicate, they must first locate one another. Service discovery is the process of figuring out how to do that.
+### What it is
+Service discovery is the process of finding individual instances that make up a service. A service discovery tool keeps track of the various nodes or endpoints that make up a service. 
 
-Cloud native architectures are dynamic and fluid, meaning they are constantly changing. When a container crashes on one node, a new container is spun up on a different node to replace it. Or, when an app scales, replicas are spread out throughout the network. There is no one place where a particular service is; the location of everything is constantly changing. Service discovery keeps track of services within the network so services can find one another when needed. 
+### The Problem it Addresses
+Cloud native architectures are dynamic and fluid, meaning they are constantly changing. A containerized app will likely end up starting and stopping multiple times in its lifetime. Each time that happens, it will have a new address and any app that wants to find it needs a tool to provide the new location information. 
 
-Service discovery tools address this problem by providing a common place to find and potentially identify individual services. There are basically two types of tools in this category: (1) Service discovery engines are database-like tools that store info about what services exist and how to locate them. And (2) name resolution tools (e.g. Core DNS) receive service location requests and return network address information.
-
+### How it helps
+Service discovery keeps track of apps within the network so they can find one another when needed. It provides a common place to find and potentially identify individual services. Service discovery engines are database-like tools that store info about what services exist and how to locate them.
