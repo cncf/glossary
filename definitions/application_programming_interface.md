@@ -1,7 +1,7 @@
 ---
 title: Application Programming Interface
 status: Completed
-category: concept
+category: technology
 ---
 ## Application Programming Interface (API)
 
