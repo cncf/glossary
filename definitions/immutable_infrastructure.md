@@ -1,7 +1,7 @@
 ---
 title: Immutable Infrastructure
 status: Completed
-category: concept
+category: property
 ---
 ## Immutable Infrastructure
 
