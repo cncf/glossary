@@ -1,7 +1,7 @@
 ---
 title: Scalability
 status: Completed
-category: concept
+category: property
 ---
 ## Scalability
 
