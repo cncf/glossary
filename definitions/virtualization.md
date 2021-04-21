@@ -1,7 +1,7 @@
 ---
 title: Virtualization
 status: completed
-category: concept
+category: technology
 ---
 ## Virtualization
 
