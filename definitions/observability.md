@@ -1,7 +1,7 @@
 ---
 title: Observability
 status: Completed
-category: concept
+category: property
 ---
 ## Observability
 
