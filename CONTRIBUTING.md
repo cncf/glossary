@@ -11,6 +11,7 @@ All issues and pull requests are evaluated by the Glossary Maintainers. The curr
 * Daniel Jones (daniel.jones@engineerbetter.com)
 * Michael Foster (mfosterche@gmail.com)
 * Jason Morgan (jason@buoyant.io)
+
 From time to time, the project will consider changing or expanding its committers.
 
 ## CNCF Business Value Subcommittee
@@ -19,7 +20,7 @@ The Co-chairs of the BVS are:
 * Jason Morgan (jason@buoyant.io)
 
 ## Glossary Entry Format
-Each entry should have the following format. Start with a short paragraph of **what it is**, then explain the **problem it addresses**, and close with **how it helps**. Each section shouldn't exceed 100 words (a total of 300 words max per term).
+Each entry should follow the format and guidelines specified in the [style guide](https://github.com/cncf/glossary/blob/main/style-guide.md). 
 
 ## Guidelines
 * To propose specific changes to a glossary entry, edit that entry in your branch and issue a pull request.
@@ -31,6 +32,7 @@ Each entry should have the following format. Start with a short paragraph of **w
 * If you see anything you think can be improved, feel free to open an issue or, even, better submit your suggestions via a pull request.
 * Please title your pull requests appropriately, summing up what your commits are about.
 * For new terms, make sure that your entry doesn't already exist somewhere else in the Glossary.
+* For a quick overview on how to navigate this GitHub page and create a pull request, please refer to the [how to doc](https://github.com/cncf/glossary/blob/main/how-to.md)
 
 ## Requests
 * For Glossary entry changes and additions, please raise separate pull requests for each entry. This makes it easier to discuss and shepherd updates in self-contained units.
