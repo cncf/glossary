@@ -1,7 +1,7 @@
 ---
 title: Kubernetes
 status: Completed
-category: concept
+category: technology
 ---
 ## Kubernetes
 
