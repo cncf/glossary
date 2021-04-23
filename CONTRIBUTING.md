@@ -20,7 +20,7 @@ The Co-chairs of the BVS are:
 * Jason Morgan (jason@buoyant.io)
 
 ## Glossary Entry Format
-Each entry should follow the format and guidelines specified in the [stlyeguide](https://github.com/cncf/glossary/blob/main/style-guide.md). 
+Each entry should follow the format and guidelines specified in the [style guide](https://github.com/cncf/glossary/blob/main/style-guide.md). 
 
 ## Guidelines
 * To propose specific changes to a glossary entry, edit that entry in your branch and issue a pull request.
