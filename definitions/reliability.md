@@ -1,7 +1,7 @@
 ---
 title: Reliability
 status: Completed
-category: concept
+category: property
 ---
 ## Reliability
 
