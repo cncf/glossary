@@ -1,7 +1,7 @@
 ---
 title: Service Proxy
 status: Completed
-category: concept
+category: technology
 ---
 ## Service Proxy
 
