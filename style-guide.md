@@ -59,7 +59,7 @@ glossary/
 
 # Definition Layout
 
-Each definition uses a markdown file to display information about the definition. Currently, there are four requirements for the definition layout to be complete. 
+Each definition uses a markdown file. Currently, there are four requirements for the definition layout to be complete.
 
 ```md
 ---
@@ -70,14 +70,20 @@ category:
 
 ## Definition
 
-A Quick summary of the concept, what it is.
+# What it is
+
+A Quick summary of the technology or concept.
+
+# Problem it Addresses 
 
 A few lines of the problem it's addressing.
+
+# How it Helps
 
 A few lines of how the thing solves the problem.
 ```
 
-The first three requirements are contained by two three dash lines.
+The meta description, the first three requirements, are contained by two three dash lines.
 
 ```md
 ---
@@ -120,9 +126,11 @@ status: Feedback Appreciated
 
 The **category** label will come after the status label, its contents will be capitalized, and consist of the following options:
 
+- Technology
+- Property
 - Concept
 
-These options give more context as to how the definition is interpreted. For now, **concept** is the only category required.
+These options give more context as to how the definition is interpreted. 
 
 ```md
 ---
@@ -140,7 +148,7 @@ The **definition** label will be the final label in the md file. The definition 
 2. The issue it is addressing
 3. How it solves or approaches the issue
 
-The three sections should total no more than 300 words, with each section residing on its own line. See the following example:
+Three sections are required for terms in the technology and concept categories. Property definitions only require the first section. 
 
 ```md
 ---
