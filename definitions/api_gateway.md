@@ -1,7 +1,7 @@
 ---
 title: API Gateway
 status: Completed
-category: concept
+category: technology
 ---
 ## API Gateway
 
