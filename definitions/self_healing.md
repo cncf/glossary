@@ -1,7 +1,7 @@
 ---
 title: Self Healing
 status: Completed
-category: concept
+category: property
 ---
 ## Self Healing
 
