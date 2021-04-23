@@ -1,7 +1,7 @@
 ---
 title: Autoscaling
 status: Completed
-category: Concept
+category: property
 ---
 ## Autoscaling
 
