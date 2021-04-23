@@ -1,7 +1,7 @@
 ---
 title: Service Mesh
 status: Completed
-category: concept
+category: technology
 ---
 ## Service Mesh
 
