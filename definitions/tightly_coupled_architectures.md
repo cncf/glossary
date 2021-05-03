@@ -9,6 +9,6 @@ Tightly Couple Architectures are a concept of system design and computing where 
 
 A major disadvantage of Loosely Coupled Architecture is that it has a very low data rate and is very inconsistent. 
 
-Whereas, Tightly Coupled Architectures' major advantage  is that it enables the rapid and efficient processing of large volumes of data, provides a single point of truth instead of several, often redundant, data sources, and enables open access to data throughout the organization. And hence this type of architecture is also used in parallel procesing systems.
+Whereas, Tightly Coupled Architectures' major advantage  is that it enables the rapid and efficient processing of large volumes of data, provides a single point of truth instead of several, often redundant, data sources, and enables open access to data throughout the organization. And hence this type of architecture is also used in parallel processing systems.
 
 
