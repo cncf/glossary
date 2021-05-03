@@ -154,3 +154,6 @@ lifecycle
 reusability
 APIs
 filesystem
+VM
+cpu
+CPU
