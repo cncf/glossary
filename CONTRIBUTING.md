@@ -40,4 +40,4 @@ Each entry should follow the format and guidelines specified in the [style guide
 
 ## Descriptive vs Prescriptive
 * The definition of a term should be based on empirical evidence of contemporary usage as published in literature, academic articles, talks, and white papers.
-* In some cases, a term will suffer from conflation, imprecise usage, or, even worse, outright conflicting defintions. In these cases, the Glossary Committers will consider proposed clarifications or focused definitions on a case-by-case basis.
+* In some cases, a term will suffer from conflation, imprecise usage, or, even worse, outright conflicting definitions. In these cases, the Glossary Committers will consider proposed clarifications or focused definitions on a case-by-case basis.
