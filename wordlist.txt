@@ -92,6 +92,7 @@ Tasklist
 Tilde
 CHANGELOG
 CNCF
+cncf
 CNCF's
 KEDA
 Kubernetes
@@ -183,3 +184,4 @@ overdemand
 virtualizing
 navbar
 engineerbetter
+handoffs
