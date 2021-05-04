@@ -4,7 +4,6 @@ dic
 Dockerfile
 docstrings
 entrypoint
-ENTRYPOINT
 facelessuser
 fu
 github
@@ -16,7 +15,6 @@ md
 PWD
 py
 pyspelling
-PySpelling
 tmp
 txt
 utf
@@ -92,22 +90,14 @@ Tasklist
 Tilde
 CHANGELOG
 CNCF
-cncf
 CNCF's
 KEDA
-Kubernetes
 kubernetes
-Microservices
 microservices
-Runtime
 runtime
-Autoscaling
 autoscaling
-Autoscale
 autoscale
-Autoscaler
 autoscaler
-Scalability
 scalability
 Scalable
 scalable
@@ -116,9 +106,7 @@ CKA
 CKAD
 CKS
 CIO
-Orchestrator
 orchestrator
-Differentiator
 differentiator
 Ramer
 Aniszczyk
@@ -138,7 +126,6 @@ stateful
 balancer
 impactful
 DevSecOps
-Observability
 observability
 datacenter
 virtualized
@@ -174,7 +161,6 @@ GMail
 hackable
 wifi
 RDBMS
-OpenContainers
 opencontainers
 underdefined
 prem
