@@ -7,7 +7,7 @@ category: concept
 
 ### What it is
 
-Portability is a characteristic attributed to a computer program if it can be used in an operating system, other than the one in which it was created without requiring major rework. A computer software application is considered portable to a new environment if the effort required to adapt it to the new environment is within reasonable limits. The phrase "to port" means to modify software and make it adaptable to work on a different computer system.
+Portability is a characteristic attributed to a computer program if it can be used in an operating environment, e.g. public cloud or operating system, other than the one in which it was created without requiring major rework. A computer software application is considered portable to a new environment if the effort required to adapt it to the new environment is within reasonable limits. The phrase "to port" means to modify software and make it adaptable to work on a different computer system.
 
 ### Problem it Addresses
 
