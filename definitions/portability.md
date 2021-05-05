@@ -15,4 +15,4 @@ Portability is a form of reusability. Some kinds of software are known to be les
 
 ### How it helps
 
-This problem is solved by portability by building executable programs for different platforms from source code; this is what is usually understood by "porting".
+This problem is solved by portability by building executable programs for different platforms from source code; this is what is usually understood by "porting". Portability helps to avoid "lock-in" to certain operating environments, e.g. cloud providers or vendors. It allows the users to choose from a wider range of operating environments.
