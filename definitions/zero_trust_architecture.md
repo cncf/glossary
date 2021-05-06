@@ -6,12 +6,10 @@ category: concept
 ## Zero Trust Architecture (ZTA)
 
 ### What it is
-An API gateway is a tool that aggregates unique application APIs, making them all available in one place. It allows organizations to move key functions, such as authentication and authorization or limiting the number of requests between applications, to a centrally managed location. An API gateway functions as a common interface to (often external) API consumers. 
+Zero Trust Architecture prescribes to an approach to the design and implementation of IT systems where trust is completely removed. The core principle being "never trust, always verify", devices or systems themselves, whilst communicating to other components of a system, always verify themselves before doing so. In many networks today, within the corporate network, systems and devices inside may freely communicate with each other as they are within the trusted boundary of the corporate network perimeter. ZTA takes the opposite approach where although inside the network perimeter, components within the system first have to pass verification before any communication is made.
 
 ### Problem it addresses
-If you’re making APIs available to external consumers, you'll want one entry point to manage and control all access. Additionally, if you need to apply functionality on those interactions, an API gateway allows you to uniformly apply it to all traffic without requiring any app code changes.
+With the traditional trust based approach where systems and devices that exist within a corporate network perimeter, the assumption is that because there is trust, there is no problem. ZTA however, recognises that trust is a vulnerability. In the event where an attacker has gained access to a trusted device, depending on the level of trust and access that has been given to that device, the system is now vulnerable to attack as the attacker is within the "trusted" network perimeter and is able to move laterally throughout the system. In a ZTA, trust is removed, therefore reducing the attack surface as an attacker is now forced to verify before going any further throughout the system.
 
 ### How it helps
-Providing one single access point for various APIs in an application, API gateways make it easier for organizations to apply cross-cutting business or security logic in a central location. They also allow application consumers to go to a single address for all their needs. An API gateway can simplify operational concerns like security and observability by providing a single access point for requests to all web services in a system. As all requests flow through the API gateway, it presents a single place to add functionality like metrics-gathering, rate-limiting, and authorization.
-
-
+Adopting a ZTA brings the principal benefit of increased security with a reduction in the attack surface. Removing trust from your corporate system now increases the number and strength of security gates that an attacker has to go through to gain access to other areas of the system.
