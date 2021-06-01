@@ -1,6 +1,6 @@
 ---
 title: Zero Trust Architecture (ZTA)
-status: Completed
+status: Feedback Appreciated
 category: concept
 ---
 ## Zero Trust Architecture (ZTA)
