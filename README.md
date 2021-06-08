@@ -2,6 +2,12 @@
 
 The [CNCF](https://www.cncf.io/) Cloud Native Glossary Project is intended to be used as a reference for common terms used when talking about cloud native applications. You can [view and download the current version here](https://github.com/cncf/glossary/blob/main/cloudnative-glossary.pdf).
 
+## Getting Started
+
+If you'd like to help with the glossary we'd love to have your contributions! You can primarily help in 1 of 2 ways, by looking at the current completed definitions and making edits as needed or by heading over to the [project board](https://github.com/cncf/glossary/projects/1) and grabbing an in progress item. We're in the middle of preparing the next 25 terms for the v2 release and any work you do would be extremely valuable.
+
+Be sure to check out our [style guide](https://github.com/cncf/glossary/blob/main/style-guide.md) to see what's already completed, every entry has a bit of status metadata with it.
+
 ## Working with definitions
 
 To make it easier to work on individual terms, we've moved them into individual files in the [definitions folder](https://github.com/cncf/glossary/tree/main/definitions). Each term falls under one of three categories: 1) technology, 2) property, and 3) concept. 
