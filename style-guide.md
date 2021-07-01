@@ -148,7 +148,7 @@ The **definition** label will be the final label in the md file. The definition 
 2. The issue it is addressing
 3. How it solves or approaches the issue
 
-Three sections are required for terms in the technology and concept categories. Property definitions only require the first section. 
+NOTE: Three sections are required for terms in the technology and concept categories. Property definitions only require the first section. 
 
 ```md
 ---
@@ -156,10 +156,10 @@ title: Definition Template
 status: Feedback Appreciated
 category: Concept
 ---
-  A Quick summary of the concept, what it is.
+  A Quick summary of the concept, what it is. [for all three categories]
 
-  A few lines of the problem it's addressing.
+  A few lines of the problem it's addressing. [technology and concept only]
 
-  A few lines of how the thing solves the problem.
+  A few lines of how the thing solves the problem. [technology and concept only]
 ```
 
