@@ -5,9 +5,14 @@ category: concept
 ---
 ## Cloud Native Security
 
-Cloud native security is an approach for securing cloud native applications. This approach ensures that security requirements are included throughout a cloud native applications lifecycle (develop, distribute, deploy, and runtime). Cloud native security seeks to ensure the same conditions of diligence, integrity, trust, and threat prevention as traditional security models while integrating modern concepts of ephemerality, distribution, and immutability.
+### What it is
 
-The traditional perimeter-based security approaches are designed for static environments and are hard to scale across highly dynamic, interconnected, and distributed architectures
+Cloud native security is an approach that builds security into cloud native applications. It ensures that security is part of the entire application lifecycle from development to production. Cloud native security seeks to ensure the same standards as traditional security models while adapting to the particulars of cloud native environments, namely rapid code changes and highly ephemeral infrastructure.
 
-Cloud native security introduces a new paradigm that protects applications by migrating from a perimeter-based approach to one where security moves closer to dynamic workloads. This approach identifies and secures workloads to meet the scale needs of cloud native applications while accommodating constant flux. It also requires the adoption of increased automation in the application security lifecycle to ensure availability, assurance, resilience, and redundancy at scale. 
+### The problem it addresses
 
+Traditional security models were built with a number of assumptions that are no longer valid. Cloud native apps change frequently, use a large number of open source tools and libraries, often run in vendor-controlled infrastructure, and are subject to rapid infrastructure changes. Code reviews, long quality assurance cycles, host-based vulnerability scanning, and last minute security reviews cannot scale with cloud native applications.
+
+### How it helps
+
+Cloud native security introduces a new way of working that protects applications by migrating from traditional security models to one where security is involved in every step of the release cycle. Manual audits and checks are largely replaced with automated scans. Rapid code release pipelines are integrated with tools that scan code for vulnerabilities before they’re compiled. Open source libraries are pulled from trusted sources and monitored for vulnerabilities. Instead of slowing change a cloud native security model embraces it by frequently updated vulnerable components or ensuring infrastructure is regularly replaced.
