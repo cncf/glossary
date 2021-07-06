@@ -1,7 +1,7 @@
 ---
 title: Abstraction
-status: In Progress
-category: concept
+status: Completed
+category: Property
 ---
 ## Abstraction
 
