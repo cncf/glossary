@@ -5,9 +5,15 @@ category: concept
 ---
 ## Distributed Apps
 
-A distributed application is one where the logic required to perform a useful action is split amongst many programs that run as distinct processes and may be located on different computers, perhaps even in different data centres.
+### What it is
 
-An application running on one single computer is fragile - if that one computer fails for any reason, the application is totally unavailable. 
+A distributed application is an application where the functionality is broken down into multiple smaller independent parts. Distributed applications are usually composed of individual [microservices](https://github.com/cncf/glossary/blob/main/definitions/microservices.md) that handle different concerns within the broader application. In a cloud native environment the individual components typically run as [containers](https://github.com/cncf/glossary/blob/main/definitions/container.md) on a [cluster](https://github.com/cncf/glossary/blob/main/definitions/cluster.md). 
 
-By splitting the application up into pieces and running those in many places, the overall system can tolerate more failures. This does however, come at a cost of increased complexity and operational overhead - you’re now running lots of applications instead of one!
+### The problem it addresses 
+
+An application running on one single computer represents a single point of failure — if that computer fails, the application becomes unavailable.
+
+### How it helps
+
+When splitting an application into different pieces and running them in many places, the overall system can tolerate more failures. It also allows an application to take advantage of scaling features not available to a single application instance, namely the ability to [scale horizontally](https://github.com/cncf/glossary/blob/main/definitions/horizontal-scaling.md). This does, however, come at a cost: increased complexity and operational overhead — you’re now running lots of application components instead of one app.
 
