@@ -16,3 +16,4 @@ With growing demands of the application the system should be able to scale by in
 
 ### How it helps
 Horizontal scaling helps as it can provide limitless scaling with endless additions to server instances. It enhances the I/O concurrency, and also reduces the load on existing nodes and expands disk capacity.
+
