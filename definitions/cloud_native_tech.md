@@ -15,4 +15,4 @@ The cloud native stack has many different technology categories, addressing a va
 
 ### How it helps
 
-While each technology addresses a very specific problem, as a group, cloud native technologies enable loosely coupled systems that are resilient, manageable, and observable. Combined with robust automation, they allow engineers to make high-impact changes frequently and predictably with minimal toil. Desirable traits of cloud-native systems are easier to achieve with the cloud native stack.
+While each technology addresses a very specific problem, as a group, cloud native technologies enable loosely coupled systems that are resilient, manageable, and observable. Combined with robust automation, they allow engineers to make high-impact changes frequently and predictably with minimal toil. Desirable traits of cloud native systems are easier to achieve with the cloud native stack.
