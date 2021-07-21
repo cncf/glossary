@@ -11,7 +11,7 @@ Cloud native technologies, also referred to as the cloud native or new stack, ar
 
 ### The problem it addresses 
 
-The cloud native stack has many different technology categories, addressing a variety of challenges. If you have a look at the [CNCF Cloud Native Landscape](https://landscape.cncf.io/), you'll see how many different areas it touches upon. But on a high level, they address one main set of challenges: the downsides of traditional IT operations models, some of which may be more prevalent than others. Challenges include hard to scale, not fault-tolerant, not self-healing, inefficient due to poor utilization of resources, the list goes on.
+The cloud native stack has many different technology categories, addressing a variety of challenges. If you have a look at the [CNCF Cloud Native Landscape](https://landscape.cncf.io/), you'll see how many different areas it touches upon. But on a high level, they address one main set of challenges: the downsides of traditional IT operations models, some of which may be more prevalent than others. Challenges include difficulties creating scalable, fault-tolerant, self-healing applications, as well as inefficient resource utilization, among others.
 
 ### How it helps
 
