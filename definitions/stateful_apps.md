@@ -7,13 +7,13 @@ category: Concept
 
 ### What it is
 
-In a Kubernetes environment, stateful applications store state information generated from requests. To run, all pods within a stateful container must have a local volume of persistent storage. By contrast, stateless applications are containerized microservices that have a single function or service. They leverage a server to process requests, but the server doesn’t retain state information between requests, and different requests can be processed by different servers. They don’t require storage to run, because they don’t retain any data.
+In a Kubernetes environment, stateful applications store state information generated from requests. To run, all pods within a stateful container must have a local volume of persistent storage. "State" refers to any changeable condition, including the results of internal operations, interactions with other applications or services, user-set preferences, environment variables, the contents of memory or temporary storage, or files opened, read from, or written to. By contrast, stateless applications are containerized microservices that have a single function or service.
 
 ### Problem it Addresses
 
-Stateless applications tackle the problem of resiliency, because different pods across a cluster can work independently, with multiple requests coming to them at the same time. If there’s a problem, you can easily restart the application, and it will return to its initial state with little or no downtime. As such, the benefits of stateless applications include resiliency, elasticity, and high availability. However, most applications we use today are at least partly stateful, as they store things like preferences and settings to improve the user experience.
+Stateful applications and the data they contain are common in most organizations. Being able to support data-driven applications with Kubernetes enables more organizations to take advantage of containers for modernizing their legacy apps as well as for supporting additional mission-critical use cases which are often stateful. A lot of the applications that we encounter on a day-to-day basis are at least somewhat stateful. For example, they can store setting preferences, keep track of window size and location, and recent activity.
 
 ### How it Helps
 
-Depending on what application you’re deploying, you may choose to use either stateful or stateless. Stateless containers are easier to deploy, and you don’t need to worry about saving container data on persistent storage volumes. You also don't have to worry about backing up the data. However, if your application needs to retain state information to do what it’s supposed to do, stateful is the only option. If you choose stateful, make sure you have a Kubernetes-native backup solution to prevent accidental data loss or corruption.
+Depending on what application you’re deploying, you may choose to use either stateful or stateless. When a stateful application is interrupted, the context and history can be stored, so you can pick up where you left off with ease. If your application needs to retain state information to do what it’s supposed to do, stateful is the only option. If you choose stateful, make sure you have a Kubernetes-native backup solution to prevent accidental data loss or corruption.
 
