@@ -1,7 +1,7 @@
 ---
 title: Stateless Apps
 status: Feedback Appreciated
-category: concept
+category: Property
 ---
 ## Stateless Apps
 
