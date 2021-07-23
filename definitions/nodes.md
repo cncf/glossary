@@ -1,13 +1,13 @@
 ---
 title: Nodes
 status: Feedback Appreciated
-category: concept
+category: Concept
 ---
 ## Nodes
 
-A node is a computer that works in concert with other computers, or nodes, to accomplish a common task. When we talk about cloud native platforms a node could be a physical computer, a virtual computer, referred to as a VM, or even a container.
+A node is the smallest unit of computer hardware in Kubernetes. Each node may be a virtual or physical machine, depending on the cluster.  
 
-A node exists to run apps or processes as part of a group of computers. A node is part of a cluster, or group, of nodes that works together in concert.
+A node has the services necessary to run application containers and be managed from the master systems.A node is part of a cluster, or group, of nodes that works together in concert.
 
-A node gives you a distinct unit of compute, memory/cpu/network, that you can assign to a cluster. In a cloud native platform or app a node represents a single unit that can perform work. Ideally, individual nodes are undifferentiated in that any one node of a particular type is indistinguishable from any other node of the same type.
+In a cloud native platform or app a node represents a single unit that can perform work. The nodes share resources with each other and act as a single powerful machine -- the cluster. A cluster keeps things moving by determining what runs on the cluster’s worker nodes. These worker nodes run the services that support the containers inside of them, starting and stopping app activity all according to the cluster master requests.
 
