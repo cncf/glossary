@@ -168,3 +168,5 @@ category: Concept
 The glossary is for a technical AND non-technical audience. So please ensure definitions are explained in simple terms and don't assume technical context. When appropriate, use real-world examples that help readers (especially non-technical readers) better understand when and why the concept you're explaining is relevant. Also, link back to a glossary term when used in your definition (only the first mention should be hyperlinked) and make sure to run your text through a spell check program before posting.
 
 Take the "what it is" section of the [service mesh definition](https://github.com/cncf/glossary/edit/main/definitions/service_mesh.md). It links back to the microservices, service, reliability, and observability definitions and uses a real-world example so (non-technical) readers can better relate to network challenges (comparing it to a wifi network everyone is familiar with).
+
+Before getting started, please read some of the terms that are ready so you get a feeling for the level of detail and difficulty as well as when examples are appropriate.
