@@ -1,7 +1,7 @@
 ---
 title: Serverless
 status: Feedback Appreciated
-category: concept
+category: Concept
 ---
 ## Serverless
 
