@@ -32,3 +32,6 @@ collaborators:
 
   - username: DanielJonesEB
     permission: push
+    
+  - username: murillodigital
+    permission: push

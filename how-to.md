@@ -11,7 +11,7 @@ The landing page can be found on github.com/cncf/glossary. The most important se
 ## Navigate the page using the tabs
 To navigate this page, use the tabs. Most relevant to you are:
 - **Issues:** tasks that have been flagged and help is needed,
-- **Pull requests (PR):** once you created a pull request is should appear here (more to PRs below),
+- **Pull requests (PR):** once you have created a pull request, it should appear here (more to PRs below),
 - **Discussions:** where conversations about the project take place. You can participate or start a new one.
 
 ![tabs](images/how-to/2.png)

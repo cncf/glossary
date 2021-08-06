@@ -70,15 +70,15 @@ category:
 
 ## Definition
 
-# What it is
+### What it is
 
 A Quick summary of the technology or concept.
 
-# Problem it Addresses 
+### Problem it Addresses 
 
 A few lines of the problem it's addressing.
 
-# How it Helps
+### How it Helps
 
 A few lines of how the thing solves the problem.
 ```
@@ -148,7 +148,7 @@ The **definition** label will be the final label in the md file. The definition 
 2. The issue it is addressing
 3. How it solves or approaches the issue
 
-Three sections are required for terms in the technology and concept categories. Property definitions only require the first section. 
+NOTE: Three sections are required for terms in the technology and concept categories. Property definitions only require the first section. 
 
 ```md
 ---
@@ -156,10 +156,17 @@ title: Definition Template
 status: Feedback Appreciated
 category: Concept
 ---
-  A Quick summary of the concept, what it is.
+  A Quick summary of the concept, what it is. [for all three categories]
 
-  A few lines of the problem it's addressing.
+  A few lines of the problem it's addressing. [technology and concept only]
 
-  A few lines of how the thing solves the problem.
+  A few lines of how the thing solves the problem. [technology and concept only]
 ```
 
+# Content
+
+The glossary is for a technical AND non-technical audience. So please ensure definitions are explained in simple terms and don't assume technical context. When appropriate, use real-world examples that help readers (especially non-technical readers) better understand when and why the concept you're explaining is relevant. Also, link back to a glossary term when used in your definition (only the first mention should be hyperlinked) and make sure to run your text through a spell check program before posting.
+
+Take the "what it is" section of the [service mesh definition](https://github.com/cncf/glossary/blob/main/definitions/service_mesh.md). It links back to the microservices, service, reliability, and observability definitions and uses a real-world example so (non-technical) readers can better relate to network challenges (comparing it to a wifi network everyone is familiar with).
+
+Before getting started, please read some of the terms that are ready so you get a feeling for the level of detail and difficulty as well as when examples are appropriate.
