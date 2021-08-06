@@ -11,7 +11,7 @@ A distributed application is an application where the functionality is broken do
 
 ### The problem it addresses 
 
-An application running on one single computer represents a single point of failure — if that computer fails, the application becomes unavailable.
+An application running on one single computer represents a single point of failure — if that computer fails, the application becomes unavailable. Distributed applications are often contrasted to monolithic applications. A monolithic app can be harder to scale as the various components can't be scaled independantly. They can also become a drag on developer velocity as they grow because more developers need to work on a shared codebase that doesn't necessarily have well defined boundaries.
 
 ### How it helps
 
