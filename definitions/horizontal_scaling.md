@@ -12,9 +12,9 @@ In [cloud computing](https://github.com/cncf/glossary/blob/main/definitions/clou
 
 For example, let us consider we have a system of 4GB RAM and we want to increase it's capacity to 16GB RAM, Horizontal Scaling means doing this by making a system of 4 X 4GB RAM rather than switching to a 16GB RAM system.
 
-It is an approach to enhance the performance of the server [node](https://github.com/cncf/glossary/blob/main/definitions/nodes.md) by adding new instances of the server to already existing servers in order to distribute the workload equally. In simple words it aims to decrease the server's load rather than expanding capacity of the individual server.
+It is an approach to enhance the performance of an application by adding new instances, or [nodes](https://github.com/cncf/glossary/blob/main/definitions/nodes.md), in order to better distribute the workload. In simple words it aims to decrease the server's load rather than expanding capacity of the individual server.
 
-Load balancing, clustering, and distributed file systems are some of the crucial and popular strategies of horizontal scaling. It caters to portioning of data where each [node]((https://github.com/cncf/glossary/blob/main/definitions/nodes.md)) contains single part of the data.
+Load balancing, clustering, and distributed file systems are some of the crucial and popular strategies of horizontal scaling. It caters to portioning of data where each [node](https://github.com/cncf/glossary/blob/main/definitions/nodes.md) contains single part of the data.
 
 ### Problem it addresses
 
