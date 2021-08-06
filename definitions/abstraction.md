@@ -3,11 +3,11 @@ title: Abstraction
 status: Completed
 category: Property
 ---
+
 ## Abstraction
 
-Abstraction is a process of hiding details and complex information that is not relevant to people who are using them. It also allows us to extract the essence of the details and replace them with more generalized information. 
+In the context of computing, an abstraction is a representation that hides specifics from a consumer of services, making a system more generic and thus easily understood. A good example is your laptop's operating system (OS). It abstracts away all the details of how your computer works. You don't need to know anything about CPU, memory, and how programs are handled, you just operate the OS and the OS deals with the details. All these details are hidden behind the OS "curtain" or abstraction. 
 
-Without abstraction, users (people and programs) would be exposed to a large amount of information that is irrelevant to them. Just like people do not need to know all the details of how a computer works in order to use it, not all information needs to be available in order for us to consume the output of what runs beneath. 
+Systems typically have multiple abstraction layers. This significantly simplifies development. When programming, developers build components compatible with a particular abstraction layer and don't have to worry about all underlying specifics that can be very heterogeneous. If it works with the abstraction layer, it works with the system — no matter what's under the hood. 
 
-With abstraction, all the details could be hidden, which helps reduce complexity and unnecessary redundancy. and people who are using them could focus on what is relevant to accomplishing their goals..
 
