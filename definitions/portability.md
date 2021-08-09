@@ -1,18 +1,10 @@
 ---
 title: Portability
 status: Feedback Appreciated
-category: Concept
+category: Property
 ---
 ## Portability
 
-### What it is
+A software characteristic, portability is a form of reusability that helps to avoid "lock-in" to certain operating environments, e.g. cloud providers, operating systems or vendors. 
 
-Portability is a characteristic attributed to a computer program if it can be used in an operating environment, other than the one in which it was created without requiring major rework. A computer software application is considered portable to a new environment if the effort required to adapt it to the new environment is within reasonable limits. The phrase "to port" means to modify software and make it adaptable to work on a different computer system.
-
-### Problem it Addresses
-
-Portability is a form of reusability. Some kinds of software are known to be less portable than others. When a software is not portable then its behavior will differ across environments. This distinction in execution often leads to poorly functioning software: it seemingly works in one place, but is buggy when you run it somewhere else.
-
-### How it Helps
-
-Portability helps to avoid "lock-in" to certain operating environments, e.g. cloud providers, operating systems or vendors. It allows the users to choose from a wider range of operating environments.
+Traditionally, software is often built for specific environments (e.g. AWS or Linux). Portable software, on the other hand, works in different operating environments without needing major rework. An application is considered portable if the effort required to adapt it to a new environment is within reasonable limits. The phrase "to port" means to modify software and make it adaptable to work on a different computer system.
