@@ -1,6 +1,6 @@
 ---
 title: Horizontal Scaling
-status: Feedback Appreciated
+status: Completed
 category: Concept
 ---
 
@@ -18,4 +18,4 @@ As demand for an application grows beyond the current capacity of that applicati
 
 ### How it helps
 
-Horizontal scaling allows applications to scale nearly infinitely. By adding more instances to the system, the app can process a greater number of requests. If a single node can handle 1,000 requests per second, each additional node will increase the total number of requests by 1,000 requests per second. This enhances the input-output concurrency while reducing the load on existing nodes and expanding disk capacity.
+Horizontal scaling allows applications to scale to whatever limits the underlying cluster provides. By adding more instances to the system, the app can process a greater number of requests. If a single node can handle 1,000 requests per second, each additional node should increase the total number of requests by around 1,000 requests per second. This allows the application to do more work concurrently without needing to increase the capacity of any node in particular.
