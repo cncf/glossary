@@ -1,17 +1,20 @@
 ---
 title: Bare Metal Machine
-status: Feedback Appreciated
-category: concept
+status: Completed
+category: technology
 ---
 ## Bare Metal Machine
 
-A computer consists of hardware — mainly the central processing unit (CPU), memory, and storage — needed to run applications or programs. An operating system is the software (OS) that sits on top of the hardware, manages these resources, and runs the applications (e.g. Outlook or the Microsoft stack on a laptop) on your laptop. The OS schedules when each app has access to a resource, ensuring each application has enough to run smoothly. 
+### What it is
 
-Machines without virtual machines but rather just compute resources are referred to as “bare metal.”
+Bare metal refers to a physical computer, more specifically a server, that has one, and only one, operating system. The distinction is important in modern computing because many, if not most, servers are virtual machines. A physical server is typically a fairly large computer with powerful hardware built-in. Installing an operating system and running applications directly on that physical hardware, without virtualization, is referred to as running on “bare metal.”
 
-A bare metal environment consists of single tenant (resources allocated to only that user) servers. The single user has access to all of the computing resources (RAM and CPU), unlike a multi-tenant environment where others have access to the resources.  A Bare Metal environment is generally one without an Operating System and allows you to work on runtimes versus virtual machines.
+### The problem it addresses
 
-Bare metal gives you more control and computational power and is typically less expensive than VMs because you can purchase only the resources you need for the time that you need them. Application and web traffic can be “bursty” in nature  and often has heavy simultaneous usage from end users while also having long periods of low traffic or almost no usage.  When hosting in a cloud or hybrid cloud/ prem environment often you need to buy and configure resources to sustain the peak and high points of the traffic and usage but you also end up with long periods of over-configuration because of low traffic and this leads to higher cost for both hosting and maintenance.  
+Pairing one operating system with one physical computer is the original pattern of computing. All the resources of the physical computer are available directly to the operating system and with no virtualization layer present, there is no artificial delay in translating operating system instructions to hardware.
 
-By utilizing bare metal resources and contracting with cloud providers for a usage-based model you can scale the hosting resources up when traffic is heavy and reduce the resources down when it subsides. When configured properly this can be done in less than a minute so you instantly have more hosting when you need it and less when you don’t, only paying for what you actually use.  Because the resources are yours alone and not shared with others the application is inherently more secure and you can do more with less resources compared to a virtualized environment.
+### How it helps
 
+By dedicating all compute resources of a computer to a single operating system, you potentially provide the best possible performance to the operating system. If you need to run a workload that must have extremely fast access to hardware resources, bare metal may be the right solution. 
+
+In the context of cloud native apps, we generally think of performance in terms of scaling to a large number of concurrent events, which can be handled by horizontal scaling (adding more machines to your resource pool). But some workloads may require vertical scaling (adding more power to an existing physical machine) and/or an extremely fast physical hardware response in which case bare metal is better suited. Bare metal also allows you to tune the physical hardware and possibly even hardware drivers to help accomplish your task.
