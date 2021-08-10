@@ -7,7 +7,7 @@ category: Technology
 
 ### What it is
 
-Loosely Coupled Architecture is a system design approach in which applications are lean, with a single responsibility, without many dependencies, allowing teams to work, deploy, fail and scale independently, increasing business responsiveness. Microservices are an example of this architectural approach with a focus on narrowing an application's external dependencies.
+Loosely Coupled Architecture is a system design approach in which applications are lean, with a single responsibility, without many dependencies, allowing teams to work, deploy, fail and scale independently, increasing business responsiveness. [Microservices](https://github.com/cncf/glossary/blob/main/definitions/microservices.md) are an example of this architectural approach with a focus on narrowing an application's external dependencies.
 
 ### Problem it addresses
 
