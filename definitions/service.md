@@ -15,9 +15,13 @@ In other contexts, a service might mean a web service (one that communicates via
 
 ### The problem it addresses
 
+A service in general, allows multiply system across the web to exchange information in a standardised and structured way.
+
 Services in Kubernetes allow workloads to communicate with an application without having to know how many instances of it are running, or the IP addresses of all of those instances. 
 
 ### How it helps
+
+A web service standarises the exchange of information using web protocals like HTTP(S), XML. JSON and WebSockets. where XML and JSON are the data format used to contain data.
 
 A Kubernetes Service registers a new IP address and forwards traffic on to the workloads that implement the required functionality. This removes the need for clients of that application to know about and track the addresses of all of the instances of the application, thus reducing complexity and overhead for developers.
 
