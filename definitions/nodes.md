@@ -8,11 +8,10 @@ category: Concept
 
 ### What it is
 
-A node is a computer that works in concert with other computers, or nodes, to accomplish a common task. When we talk about cloud native platforms a node could be a physical computer, a virtual computer, referred to as a [VM](virtual_machine.md), or even a [container](container.md).
+A node is an independent compute unit that is connected with other nodes over a network forming a [cluster](cluster.md). Nodes can be multi-functional physical or [virtual machines](virtual_machine.md), or perform a very specific function within the network. Take your laptop, modem, and printer, for example. They are all connected over your wifi network communicating and collaborating, each representing one node. In [cloud computing](cloud_computing.md), nodes generally refer to [VMs](virtual_machine.md) or [containers](container.md) that accomplish a common goal.
 
 ### Problem it Addresses
-
-A node exists to run apps or processes as part of a group of computers. A node is part of a [cluster](cluster.md), or group, of nodes that works together in concert.
+While an application could (and many do) run on one single machine, there are some risks involved with that. Processes that share a machine aren't properly separated and, if one process crashes, it can drag other processes down with it. To address this, developers started creating distributed applications where each process runs on its own node. Thus, a node exists to run apps or processes as part of a group of computers and is part of a [cluster](cluster.md), or group, of nodes that works together in concert.
 
 ### How it Helps
 
