@@ -7,7 +7,7 @@ category: Concept
 
 ### What it is
 
-A cluster is a group of computers or applications that work together towards a common goal. In the context of cloud native computing, the term is most often applied to Kubernetes. A Kubernetes cluster is a set of services (or workloads) that run in their own containers, usually on different machines. The collection of all these containerized services, connected over a network, represent a cluster.
+A cluster is a group of computers or applications that work together towards a common goal. In the context of cloud native computing, the term is most often applied to Kubernetes. A Kubernetes cluster is a set of services (or workloads) that run in their own containers, usually on different machines. The collection of all these [containerized](https://github.com/cncf/glossary/blob/main/definitions/containerization.md) services, connected over a network, represent a cluster.
 
 ### The problem it addresses 
 
