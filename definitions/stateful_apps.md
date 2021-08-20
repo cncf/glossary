@@ -1,13 +1,21 @@
 ---
 title: Stateful Apps
 status: Feedback Appreciated
-category: concept
+category: technology
 ---
+
 ## Stateful Apps
 
-In a Kubernetes environment, stateful applications store state information generated from requests. To run, all pods within a stateful container must have a local volume of persistent storage. By contrast, stateless applications are containerized microservices that have a single function or service. They leverage a server to process requests, but the server doesn’t retain state information between requests, and different requests can be processed by different servers. They don’t require storage to run, because they don’t retain any data.
+### What it is
 
-Stateless applications tackle the problem of resiliency, because different pods across a cluster can work independently, with multiple requests coming to them at the same time. If there’s a problem, you can easily restart the application, and it will return to its initial state with little or no downtime. As such, the benefits of stateless applications include resiliency, elasticity, and high availability. However, most applications we use today are at least partly stateful, as they store things like preferences and settings to improve the user experience.
+Stateful apps save data to persistent disk storage for use by the server, by clients, and by other applications. The data that is saved is called the application’s state. An example of a stateful application is a database or key-value store to which data is saved and retrieved by other applications.
 
-Depending on what application you’re deploying, you may choose to use either stateful or stateless. Stateless containers are easier to deploy, and you don’t need to worry about saving container data on persistent storage volumes. You also don't have to worry about backing up the data. However, if your application needs to retain state information to do what it’s supposed to do, stateful is the only option. If you choose stateful, make sure you have a Kubernetes-native backup solution to prevent accidental data loss or corruption.
+### Problem it addresses
 
+Apps can be stateful or [stateless](stateless_apps.md). When an app is stateful, client data is either stored locally or on a remote host until the user logs out or the session expires after a predetermined time limit. The session data that is saved to persistent disk storage is accessible to the server, to the client and to other applications.
+
+For example, your shopping cart while using any website in Cloud. Each time you select an item and add it in your cart, you add it with the items added previously and eventually, you navigate to the checkout page. For these reasons, stateful apps use the same servers each time they process a request from a user.
+
+### How it helps
+
+A web server does not retain information from multiple sessions, so when a state is needed for a web app, it must be built in. If desired, stateful features can be built in with dynamic pages. These pages can retain sessions by way of web address variables and server- and client-side stored data. Cookies are a common way such data is stored. The majority of applications we use day to day are stateful, but as technology advances, [microservices](microservices.md) and [containers](container.md) make it easier to build and deploy applications in the cloud.
