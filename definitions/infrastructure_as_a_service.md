@@ -8,8 +8,7 @@ category: Concept
 
 ### What it is
 
-Infrastructure as a service i.e. IaaS is a [cloud computing](https://github.com/cncf/glossary/blob/main/definitions/cloud_computing.md) service model that offers either [physical](https://github.com/cncf/glossary/blob/main/definitions/bare_metal_machine.md) or [virtualized](https://github.com/cncf/glossary/blob/main/definitions/virtualization.md) compute, storage, and network resources on-demand over the internet to consumers on a pay-as-you-go cost model.
-In the IaaS model, cloud providers own and operate the hardware and software, it is available in Public Cloud, Private Cloud, and Hybrid Cloud deployment options. 
+Infrastructure as a service i.e. IaaS is a [cloud computing](https://github.com/cncf/glossary/blob/main/definitions/cloud_computing.md) service model that offers either [physical](https://github.com/cncf/glossary/blob/main/definitions/bare_metal_machine.md) or [virtualized](https://github.com/cncf/glossary/blob/main/definitions/virtualization.md) compute, storage, and network resources on-demand over the internet to consumers on a pay-as-you-go cost model. In the IaaS model, cloud providers own and operate the hardware and software, it is available in public cloud, private cloud, and hybrid cloud deployment options. 
 
 ### Problem it addresses
 
@@ -17,5 +16,5 @@ Organizations often struggle with effective computing resource utilization in a 
 
 ### How it helps
 
-Organizations no longer need to purchase and manage their equipment and the physical space required to host the equipment, it is both costly and labor-intensive in a traditional on-premise setup.  With infrastructure being made available on demand by cloud providers, it reduces the need for high upfront CAPEX, while giving the flexibility to scale up or down IT resources based on demand. It also saves time and cost of provisioning and scaling new development and test environments, which helps developers to experiment and innovate.
+IaaS allows organizations to avoid purchasing and maintaining compute and data center space for a given application. On demand infrastructure allows an organization to rent access to compute on an on demand basis. This allows them to defer large capital expenditures, or [CAPEX](https://en.wikipedia.org/wiki/Capital_expenditure), while giving them the flexibility to scale up or down as needed. IaaS offerings reduce the upfront costs of experimenting or trying a new application and provide facilities to rapidly deploy infrastructure. This can make a cloud provider an excellent option for providing development or test environments, which helps developers to experiment and innovate.
 
