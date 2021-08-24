@@ -13,7 +13,7 @@ A node is a computer that works in concert with other computers, or nodes, to ac
 
 ### Problem it Addresses
 
-While an application could (and many do) run on one single machine, there are some risks involved with that. Namely that the failure of the underlying system will disrupt the application. To address this, developers started creating distributed applications where each process runs on its own node. Thus, nodes run apps or processes as part of a group forming a [cluster](cluster.md), or group, of nodes that works together to achieve a common goal.
+While an application could (and many do) run on one single machine, there are some risks involved with that. Namely that the failure of the underlying system will disrupt the application. To address this, developers started creating [distributed applications](https://github.com/cncf/glossary/blob/main/definitions/distributed_apps.md) where each process runs on its own node. Thus, nodes run apps or processes as part of a group forming a [cluster](cluster.md), or group, of nodes that works together to achieve a common goal.
 
 ### How it Helps
 
