@@ -175,3 +175,7 @@ serverless
 Serverless
 iaas
 IaaS
+CDN
+saas
+SaaS
+CRM

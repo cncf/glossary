@@ -6,7 +6,7 @@ category: concept
 ## Continuous integration (CI)
 
 ### What it is 
-Continuous integration, often abbreviated as CI, is the practice of integrating code changes as regularly as possible. CI is a prerequisite for continuous delivery (CD). Traditionally, the CI process begins when code changes are committed to a source control system (Git, Mercurial, or Subversion) and ends with a tested artifact ready to be consumed by a CD system. 
+Continuous integration, often abbreviated as CI, is the practice of integrating code changes as regularly as possible. CI is a prerequisite for [continuous delivery](https://github.com/cncf/glossary/blob/main/definitions/continuous_delivery.md) (CD). Traditionally, the CI process begins when code changes are committed to a source control system (Git, Mercurial, or Subversion) and ends with a tested artifact ready to be consumed by a CD system. 
 
 ### Problem it Addresses
 Software systems are often large and complex, with numerous developers maintaining and updating them. Working in parallel on different parts of the system, these developers may make conflicting changes and inadvertently break each other’s work. Additionally, with multiple developers working on the same project, any everyday tasks such as testing and calculating code quality would need to be repeated by each developer, wasting time.
