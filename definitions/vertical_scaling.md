@@ -8,7 +8,7 @@ category: Concept
 
 ### What it is
 
-The ability for an application to scale, typically by adding CPU and memory as the workload increases. Also known as “scale up”, this refers to adding resources to a single node.
+Vertical scaling, also known as "scaling up and down", is a technique where a system's capacity is increased by adding CPU and memory to individual [nodes](https://github.com/cncf/glossary/blob/main/definitions/nodes.md) as the workload increases. Let's say, you have a computer of 4GB RAM and want to increase its capacity to 16GB RAM, scaling it vertically means switching to a 16GB RAM system. (Please refer to [horizontal scaling](https://github.com/cncf/glossary/blob/main/definitions/horizontal_scaling.md) for a different scaling approach.)
 
 ### Problem it Addresses
 
