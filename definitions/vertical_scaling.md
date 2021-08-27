@@ -17,4 +17,4 @@ As demand for an application grows beyond the current capacity of that applicati
 
 ### How it helps
 
-Vertical scaling allows you to resize your server with no change to your code. It is the ability to increase the capacity of an existing application by adding compute resources.
+Vertical scaling allows you to resize your server without changing the application code. That contrasts to horizontal scaling, where the app must be replicable to scale, potentially requiring code updates. Vertical scaling increases the capacity of an existing application by adding compute resources, allowing the app to process more requests and do more work concurrently.
