@@ -176,3 +176,5 @@ Serverless
 iaas
 IaaS
 CDN
+replicable
+Replicable
