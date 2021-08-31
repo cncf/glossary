@@ -14,7 +14,7 @@ This approach enhances the performance of an application by adding new instances
 
 ### Problem it addresses
 
-As demand for an application grows beyond the current capacity of that application instance, we need to find a way to scale (add capacity to) the system. We can either add more nodes to the system (horizontal scaling) or more compute resources to existing nodes (vertical scaling).
+As demand for an application grows beyond the current capacity of that application instance, we need to find a way to [scale](https://github.com/cncf/glossary/blob/main/definitions/scalability.md) (add capacity to) the system. We can either add more nodes to the system (horizontal scaling) or more compute resources to existing nodes (vertical scaling).
 
 ### How it helps
 

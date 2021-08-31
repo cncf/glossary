@@ -178,3 +178,6 @@ IaaS
 CDN
 replicable
 Replicable
+saas
+SaaS
+CRM
