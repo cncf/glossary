@@ -7,7 +7,7 @@ category: concept
 
 ### What it is
 
-A distributed application is an application where the functionality is broken down into multiple smaller independent parts,each running in its own [virtualized](https://github.com/cncf/glossary/blob/main/definitions/virtualization.md) environment. Distributed applications are usually composed of individual [microservices](https://github.com/cncf/glossary/blob/main/definitions/microservices.md) that handle different concerns within the broader application. In a cloud native environment, the individual components typically run as [containers](https://github.com/cncf/glossary/blob/main/definitions/container.md) on a [cluster](https://github.com/cncf/glossary/blob/main/definitions/cluster.md). 
+A distributed application is an application where the functionality is broken down into multiple smaller independent parts. Distributed applications are usually composed of individual [microservices](https://github.com/cncf/glossary/blob/main/definitions/microservices.md) that handle different concerns within the broader application. In a cloud native environment, the individual components typically run as [containers](https://github.com/cncf/glossary/blob/main/definitions/container.md) on a [cluster](https://github.com/cncf/glossary/blob/main/definitions/cluster.md). 
 
 ### The problem it addresses 
 
