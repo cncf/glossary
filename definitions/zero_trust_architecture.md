@@ -1,7 +1,7 @@
 ---
 title: Zero Trust Architecture
-status: Feedback Appreciated
-category: concept
+status: Completed
+category: Concept
 ---
 ## Zero Trust Architecture
 
