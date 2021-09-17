@@ -1,18 +1,11 @@
 ---
 title: Loosely Coupled Architecture
-status: Feedback Appreciated
-category: Technology
+status: Completed
+category: Property
 ---
 ## Loosely Coupled Architecture
 
-### What it is
+Loosely coupled architecture is an architectural style where the individual components of an application are built independently from one another (the opposite paradigm of [tightly coupled architectures](https://github.com/cncf/glossary/blob/main/definitions/tightly_coupled_architectures.md)). Each component, sometimes referred to as a [microservice](https://github.com/cncf/glossary/blob/main/definitions/microservices.md), is built to perform a specific function in a way that can be used by any number of other services. This pattern is generally slower to implement than tightly coupled architecture but has a number of benefits, particularly as applications scale.
 
-Loosely Coupled Architecture is a system design approach in which applications are lean, with a single responsibility, without many dependencies, allowing teams to work, deploy, fail and scale independently, increasing business responsiveness. [Microservices](https://github.com/cncf/glossary/blob/main/definitions/microservices.md) are an example of this architectural approach with a focus on narrowing an application's external dependencies.
+Loosely coupled applications allow teams to develop features, deploy, and scale independently, which allows organizations to iterate quickly on individual components. Application development is faster and teams can be structured around their competency, focusing on their specific application. 
 
-### Problem it addresses
-
-When applications and processes are reliant on each other, the development lifecycle also needs to be intertwined. Updating, scaling, testing, and adding new features against an extensive codebase increases technical debt and decreases feasibility. 
-
-### How it helps
-
-By decoupling an application, application development will be quicker since external dependencies will not hamper it. At an organizational level, teams can be structured around their competency, focusing on the specific application.
