@@ -1,18 +1,10 @@
 ---
 title: Tightly Coupled Architectures
-status: Feedback Appreciated
-category: concept
+status: Completed
+category: Property
 ---
 ## Tightly Coupled Architectures
 
-### What it is
+Tightly coupled architecture is an architectural style where a number of application components are interdependent (the opposite paradigm of [loosely coupled architectures](https://github.com/cncf/glossary/blob/main/definitions/loosely_coupled_architecture.md)). This means that a change in one component will likely impact other components. It is generally easier to implement than more loosely coupled architectural styles, but can leave a system more vulnerable to cascading failures. They also tend to require coordinated rollouts of components which can become a drag on developer productivity.
 
-Tightly Couple Architectures are a concept of system design and computing where every hardware and software components that are linked together in such manner that each component is dependent upon each other. It promotes interdependent applications and code which are fragile as minor issue in one segment can bring the whole system down. Tightly Coupled Architectures integrates enterprise applications around a single point of truth, which is often a single spatially-enabled RDBMS.
-
-### Problem it addresses
-
-A major disadvantage of Loosely Coupled Architecture is that it has a very low data rate and is very inconsistent. 
-
-### How it helps
-
-Whereas, Tightly Coupled Architectures' major advantage  is that it enables the rapid and efficient processing of large volumes of data, provides a single point of truth instead of several, often redundant, data sources, and enables open access to data throughout the organization. And hence this type of architecture is also used in parallel processing systems.
+Tightly coupled application architectures are a fairly traditional way of building applications. While not necessarily consistent with all the best practices of [microservice](https://github.com/cncf/glossary/blob/main/definitions/microservices.md) development they can be useful in specific circumstances. They tend to be faster and simpler to implement and much like [monolithic applications](https://github.com/cncf/glossary/blob/main/definitions/monolithic_apps.md) they can speed up the initial development cycle.
