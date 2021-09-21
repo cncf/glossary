@@ -1,7 +1,7 @@
 ---
 Title: Serverless
 Status: Completed
-Category: Concept
+Category: Technology
 ---
 ## Serverless
 
