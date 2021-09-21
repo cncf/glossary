@@ -94,6 +94,7 @@ CNCF's
 KEDA
 kubernetes
 microservices
+microservice
 runtime
 autoscaling
 autoscale
