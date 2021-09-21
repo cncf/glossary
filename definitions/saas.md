@@ -1,7 +1,7 @@
 ---
 Title: SaaS
 Status: Completed
-Category: Concept
+Category: Technology
 ---
 
 ## Software as a Service (SaaS)
