@@ -3,7 +3,6 @@ title: Scalability
 status: Completed
 category: property
 ---
-## Scalability
 
 Scalability refers to how well a system can grow. That is increasing the ability to do whatever the system is supposed to do. For example, a [Kubernetes](https://github.com/cncf/glossary/blob/main/definitions/kubernetes.md) [cluster](https://github.com/cncf/glossary/blob/main/definitions/cluster.md) scales by increasing or reducing the number of [containerized](https://github.com/cncf/glossary/blob/main/definitions/containerization.md) apps, but that scalability depends on several factors. How many [nodes](https://github.com/cncf/glossary/blob/main/definitions/nodes.md) does it have, how many [containers](https://github.com/cncf/glossary/blob/main/definitions/container.md) can each node handle, and how many records and operations can the control plane support?
 

@@ -3,7 +3,6 @@ title: Immutable Infrastructure
 status: Completed
 category: property
 ---
-## Immutable Infrastructure
 
 Immutable Infrastructure refers to computer infrastructure ([virtual machines](https://github.com/cncf/glossary/blob/main/definitions/virtual_machine.md), [containers](https://github.com/cncf/glossary/blob/main/definitions/container.md), network appliances) that cannot be changed once deployed. This can be enforced by an automated process that overwrites unauthorized changes or through a system that won't allow changes in the first place. Containers are a good example of immutable infrastructure because persistent changes to containers can only be made by creating a new version of the container or recreating the existing container from its image.
 

@@ -3,7 +3,6 @@ title: Service
 status: Feedback Appreciated
 category: concept
 ---
-## Service
 
 A “Service” is a term with more meanings than virtually any other used in IT today. Traditionally a service represented a software system of which requests were made, as opposed to ‘fat client’ applications where all logic was contained in the program running on a user’s desktop. 
 

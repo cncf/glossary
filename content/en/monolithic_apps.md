@@ -3,7 +3,6 @@ title: Monolithic Apps
 status: Feedback Appreciated
 category: concept
 ---
-## Monolithic Apps
 
 A monolithic application is one that contains all functionality in a single deployable program. This is often the simplest and easiest place to start when making an application, however, once the application grows in complexity, monoliths can become hard to maintain. Many developers will all need to be changing the same codebase, which increases the likelihood of conflicting changes, and increases the need for interpersonal communication between developers.
 

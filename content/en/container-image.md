@@ -3,7 +3,6 @@ title: Container Image
 status: Feedback Appreciated
 category: concept
 ---
-## Container Image
 
 A container image is an immutable, static file containing the dependencies for the creation of a container. These dependencies may include a single executable binary file, system libraries, system tools, environment variables, and other required platform settings. Container images result from an application's containerization and are typically stored in container registries, where they can be downloaded and run as an isolated process using a Container Runtime Interface (CRI). A container image framework must follow the standard schema defined by the Open Container Initiative (OCI).
 
