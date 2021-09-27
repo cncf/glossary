@@ -108,7 +108,7 @@ version = "0.0"
 url_latest_version = "https://example.com"
 
 # Repository configuration (URLs for in-page links to opening issues and suggesting changes)
-github_repo = "https://github.com/cncf/glossary-docsy"
+github_repo = "https://github.com/cncf/glossary"
 # An optional link to a related project repo. For example, the sibling repository where your product code lives.
 # github_project_repo = "https://github.com/google/docsy"
 
@@ -151,8 +151,8 @@ footer_about_disable = true
 [params.ui.feedback]
 enable = true
 # The responses that the user sees after clicking "yes" (the page was helpful) or "no" (the page was not helpful).
-yes = 'Glad to hear it! Please <a href="https://github.com/cncf/glossary-docsy/issues/new">tell us how we can improve</a>.'
-no = 'Sorry to hear that. Please <a href="https://github.com/cncf/glossary-docsy/issues/new">tell us how we can improve</a>.'
+yes = 'Glad to hear it! Please <a href="https://github.com/cncf/glossary/issues/new">tell us how we can improve</a>.'
+no = 'Sorry to hear that. Please <a href="https://github.com/cncf/glossary/issues/new">tell us how we can improve</a>.'
 
 # Adds a reading time to the top of each doc.
 # If you want this feature, but occasionally need to remove the Reading time from a single page, 
@@ -179,7 +179,7 @@ enable = false
         desc = "Join the CNCF Slack"
 [[params.links.user]]
 	name = "GitHub"
-	url = "https://github.com/cncf/glossary-docsy"
+	url = "https://github.com/cncf/glossary"
 	icon = "fab fa-github"
         desc = "Glossary GitHub repo"
 
