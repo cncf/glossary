@@ -1,7 +1,7 @@
 ---
 title: Infrastructure as a Service (IaaS)
 status: Completed
-category: Concept
+category: Technology
 ---
 
 ## What it is
