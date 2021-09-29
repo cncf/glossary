@@ -6,11 +6,11 @@ category: Technology
 
 ## What it is
 
-Containerization is the process of bundling an application and its dependencies into a [container image](https://github.com/cncf/glossary/blob/main/definitions/container-image.md). The container build process requires adherence to the [Open Container Initiative](https://opencontainers.org) (OCI) standard. As long as the output is a container image that adheres to this standard, which containerization tool is used doesn't matter.
+Containerization is the process of bundling an application and its dependencies into a [container image](https://github.com/cncf/glossary/blob/main/content/en/container-image.md). The container build process requires adherence to the [Open Container Initiative](https://opencontainers.org) (OCI) standard. As long as the output is a container image that adheres to this standard, which containerization tool is used doesn't matter.
 
 ## The problem it addresses 
 
-Before containers became prevalent, organizations relied on virtual machines (VMs) to orchestrate multiple applications on a single [bare-metal machine](https://github.com/cncf/glossary/blob/main/definitions/bare_metal_machine.md). VMs are significantly larger than containers and require a hypervisor to run. Due to the storage, backup, and transfer of these larger VM templates, creating the VM templates is also slow. Additionally, VMs can suffer from configuration drift which violates the principle of [immutability](https://github.com/cncf/glossary/blob/main/definitions/immutable_infrastructure.md).
+Before containers became prevalent, organizations relied on virtual machines (VMs) to orchestrate multiple applications on a single [bare-metal machine](https://github.com/cncf/glossary/blob/main/content/en/bare_metal_machine.md). VMs are significantly larger than containers and require a hypervisor to run. Due to the storage, backup, and transfer of these larger VM templates, creating the VM templates is also slow. Additionally, VMs can suffer from configuration drift which violates the principle of [immutability](https://github.com/cncf/glossary/blob/main/content/en/immutable_infrastructure.md).
 
 ## How it helps
 

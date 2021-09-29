@@ -11,4 +11,4 @@ A managed service is a software offering where operations and management are tak
 Managing software is complex, especially considering all the different technologies that make up a modern stack. Managing each aspect of it and/or having in-house experts able to do so may be too expensive or not worth your engineers' time. Your team is likely better off building new capabilities than taking care of the operational tasks that can be easily outsourced.
 
 ## How it Helps
-Managed services are ready to use from day one with very little operational overhead. They allow organizations to effectively outsource tasks that fall outside of their core competency with well defined, and usually [API](https://github.com/cncf/glossary/blob/main/definitions/application_programming_interface.md) driven, boundaries.
+Managed services are ready to use from day one with very little operational overhead. They allow organizations to effectively outsource tasks that fall outside of their core competency with well defined, and usually [API](https://github.com/cncf/glossary/blob/main/content/en/application_programming_interface.md) driven, boundaries.

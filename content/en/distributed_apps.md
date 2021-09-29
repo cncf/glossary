@@ -6,7 +6,7 @@ category: concept
 
 ## What it is
 
-A distributed application is an application where the functionality is broken down into multiple smaller independent parts. Distributed applications are usually composed of individual [microservices](https://github.com/cncf/glossary/blob/main/definitions/microservices.md) that handle different concerns within the broader application. In a cloud native environment, the individual components typically run as [containers](https://github.com/cncf/glossary/blob/main/definitions/container.md) on a [cluster](https://github.com/cncf/glossary/blob/main/definitions/cluster.md). 
+A distributed application is an application where the functionality is broken down into multiple smaller independent parts. Distributed applications are usually composed of individual [microservices](https://github.com/cncf/glossary/blob/main/content/en/microservices.md) that handle different concerns within the broader application. In a cloud native environment, the individual components typically run as [containers](https://github.com/cncf/glossary/blob/main/content/en/container.md) on a [cluster](https://github.com/cncf/glossary/blob/main/content/en/cluster.md). 
 
 ## The problem it addresses 
 
@@ -14,5 +14,5 @@ An application running on one single computer represents a single point of failu
 
 ## How it helps
 
-When splitting an application into different pieces and running them in many places, the overall system can tolerate more failures. It also allows an application to take advantage of scaling features not available to a single application instance, namely the ability to [scale horizontally](https://github.com/cncf/glossary/blob/main/definitions/horizontal-scaling.md). This does, however, come at a cost: increased complexity and operational overhead — you’re now running lots of application components instead of one app.
+When splitting an application into different pieces and running them in many places, the overall system can tolerate more failures. It also allows an application to take advantage of scaling features not available to a single application instance, namely the ability to [scale horizontally](https://github.com/cncf/glossary/blob/main/content/en/horizontal-scaling.md). This does, however, come at a cost: increased complexity and operational overhead — you’re now running lots of application components instead of one app.
 

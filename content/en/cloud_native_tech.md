@@ -6,7 +6,7 @@ category: Concept
 
 ## What it is
 
-Cloud native technologies, also referred to as the cloud native stack, are the technologies used to build [cloud native applications](https://github.com/cncf/glossary/blob/main/definitions/cloud_native_apps.md). Enabling organizations to build and run scalable applications in modern, dynamic environments such as public, private, and hybrid clouds, they uphold the ‘promise of the cloud’ and leverage cloud computing benefits to their fullest. They are designed from the ground up to exploit the capabilities of cloud computing and containers, service meshes, microservices, and immutable infrastructure exemplify this approach.
+Cloud native technologies, also referred to as the cloud native stack, are the technologies used to build [cloud native applications](https://github.com/cncf/glossary/blob/main/content/en/cloud_native_apps.md). Enabling organizations to build and run scalable applications in modern, dynamic environments such as public, private, and hybrid clouds, they uphold the ‘promise of the cloud’ and leverage cloud computing benefits to their fullest. They are designed from the ground up to exploit the capabilities of cloud computing and containers, service meshes, microservices, and immutable infrastructure exemplify this approach.
 
 ## The problem it addresses 
 
