@@ -1,0 +1,115 @@
+/*
+
+Add styles or override variables from the theme here.
+
+*/
+
+$primary: #446CA9;
+$link-color: #FF00AA;
+$blue: #FF00AA;
+$body-color: #2A0054;
+$td-enable-google-fonts: false;
+$td-sidebar-tree-root-color: $primary;
+
+a:hover {
+    color: #f0a !important;
+    text-decoration: underline !important;
+}
+
+.navbar-nav a.nav-link:hover {
+    color: rgba(255,255,255,.5) !important;
+    text-decoration: none !important;
+}
+
+a.tree-root:hover {
+    color: $primary !important;
+    text-decoration: none !important;
+}
+
+.td-sidebar-nav .td-sidebar-link__page {
+    color: $body-color !important;
+    font-weight: 300;
+}
+
+.td-sidebar-nav .td-sidebar-link__page:hover {
+    color: $link-color !important;
+    text-decoration: none !important;
+}
+
+footer a {
+    color: #fff;
+    font-weight: 600;
+}
+
+footer a:hover {
+    color: #fff !important;
+    text-decoration: none !important;
+}
+
+h2 a:hover, h3 a:hover {
+    text-decoration: none !important;
+}
+
+h2.feedback--title {
+    margin-top: 3rem;
+}
+
+div.category {
+    margin: 0 0 .5rem .2rem;
+}
+
+.td-page-meta a {
+    font-weight: 400 !important;
+    margin-bottom: 0.3rem;
+}
+
+i.technology, i.property, i.concept {
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    display: inline-block;
+    font-style: normal;
+    font-variant: normal;
+    text-rendering: auto;
+    line-height: 1;
+    font-family: 'Font Awesome 5 Free';
+    font-weight: 900;
+    padding-right: 0.5em;
+}
+
+i.technology:before {
+    content: "\f7d9";
+}
+
+i.property:before {
+    content: "\f1ad";
+}
+
+i.concept:before {
+    content: "\f0eb";
+}
+
+.td-navbar .navbar-brand svg {
+    height: 40px !important;
+}
+
+footer {
+    min-height: unset !important;
+    background-color: $primary;
+    color: #eee;
+}
+
+footer small a {
+    color: #eee !important;
+}
+
+#cncf-logo {
+    margin: 1rem 0;
+
+}
+
+// temoporary removal of navbar for mobile while we have no elements in it
+@media (max-width: 768px) {
+    .td-navbar .td-navbar-nav-scroll {
+        display: none
+    }
+}
