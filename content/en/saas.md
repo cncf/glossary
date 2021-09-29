@@ -10,7 +10,7 @@ Software as a service (SaaS) allows users to connect to and use cloud-based serv
 
 ## Problem it Addresses
 
-Traditionally, business software is installed on individual computers, requiring an admin to maintain and update. As an example: An organization may use on-premise software for customer relationship management (CRM). This software needs to be purchased, installed, secured, maintained, and regularly upgraded by the internal IT department, placing a burden on the IT team. The up front cost associated with licenses, installation, and potentially additional hardware can be prohibitive. It can also be difficult to respond to demand and [scale](https://github.com/cncf/glossary/blob/main/content/en/scalability.md) up and down as needed quickly in response to growth or change.
+Traditionally, business software is installed on individual computers, requiring an admin to maintain and update. As an example: An organization may use on-premise software for customer relationship management (CRM). This software needs to be purchased, installed, secured, maintained, and regularly upgraded by the internal IT department, placing a burden on the IT team. The up front cost associated with licenses, installation, and potentially additional hardware can be prohibitive. It can also be difficult to respond to demand and [scale](/scalability/) up and down as needed quickly in response to growth or change.
 
 ## How it Helps
 

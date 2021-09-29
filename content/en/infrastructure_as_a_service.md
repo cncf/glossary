@@ -6,7 +6,7 @@ category: Technology
 
 ## What it is
 
-Infrastructure as a service, or IaaS, is a [cloud computing](https://github.com/cncf/glossary/blob/main/content/en/cloud_computing.md) service model that offers [physical](https://github.com/cncf/glossary/blob/main/content/en/bare_metal_machine.md) or [virtualized](https://github.com/cncf/glossary/blob/main/content/en/virtualization.md) compute, storage, and network resources on-demand on a pay-as-you-go model. Cloud providers own and operate the hardware and software, available to consumers in public, private, or hybrid cloud deployments.
+Infrastructure as a service, or IaaS, is a [cloud computing](/cloud_computing/) service model that offers [physical](/bare_metal_machine/) or [virtualized](/virtualization/) compute, storage, and network resources on-demand on a pay-as-you-go model. Cloud providers own and operate the hardware and software, available to consumers in public, private, or hybrid cloud deployments.
 
 ## Problem it addresses
 
