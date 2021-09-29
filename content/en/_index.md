@@ -1,7 +1,6 @@
 
 ---
 title: "Cloud Native Glossary"
-linkTitle: "Cloud Native Glossary"
 ---
 
 
