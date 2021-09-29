@@ -26,7 +26,7 @@ All code contributions are under the Apache 2.0 license, any documentation distr
 
 ## Setting up a local instance
 
-To improve the CNCF Glossary site itself, install a local copy with these instructions:
+To improve the Cloud Native Glossary site itself, install a local copy with these instructions:
 
 ```
 git clone https://github.com/cncf/glossary.git
