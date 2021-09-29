@@ -23,3 +23,16 @@ The Cloud Native Glossary was initiated by the CNCF Marketing Committee (Busines
 ## License 
 
 All code contributions are under the Apache 2.0 license, any documentation distributed under CC BY 4.0.
+
+## Setting up a local instance
+
+To improve the CNCF Glossary site itself, install a local copy with these instructions:
+
+```
+git clone https://github.com/cncf/glossary.git
+cd glossary
+git submodule update --init --recursive
+npm install
+```
+
+You can then run the site locally using `hugo server`.
