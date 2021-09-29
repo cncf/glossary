@@ -51,13 +51,13 @@ id = "UA-140890431-2"
 
 # Language configuration
 
-#[languages]
-#[languages.en]
-#title = "CNCF Glossary"
-#description = "Glossary of Cloud Native terms"
-#languageName ="English"
-## Weight used for sorting.
-#weight = 1
+[languages]
+[languages.en]
+title = "Cloud Native Glossary"
+description = "The CNCF Cloud Native Glossary Project is intended to be used as a reference for common terms used when talking about cloud native applications."
+languageName ="English"
+# Weight used for sorting.
+weight = 1
 #[languages.no]
 #title = "CNCF Glossary"
 #description = "Docsy er operativsystem for skyen"
