@@ -8,12 +8,11 @@ title: "Cloud Native Glossary"
 
 The CNCF Cloud Native Glossary Project is intended to be used as a reference for common terms used when talking about cloud native applications.
 
-## Working With Definitions
+## Working with definitions
 
-Each term falls under one of three categories: 1) technology, 2) property, or 3) concept.
-To learn how to navigate this GitHub page and submit issues and/
-or PRs, please refer to the [how-to guide](/how-to/). Before submitting a PR,
-please ensure you follow the [style guide](/style-guide/). 
+Each term falls under one of three categories: Technology, Property, or Concept.
+Please see [How To Contribute](/how-to/) for information on how to help with this project. Before submitting a PR,
+please ensure you follow the [Style Guide](/style-guide/). 
 
 ## Acknowledgements
 

@@ -9,30 +9,7 @@ menu:
 
 The following style guide is designed to help you understand the glossary definitions and structure and maintain a consistent style throughout the glossary.
 
-The CNCF glossary is stored and edited in Markdown for the following reasons:
-
-- Source text is readable and portable.
-- Text is easily found and contributed to.
-- Markdown files are maintainable over time.
-- Storage in a VCS (such as GitHub) enables structured changes.
-- The syntax is simple and easy to remember.
-- We can programmatically make changes if needed.
-
-Contents:
-
-- [CNCF Glossary Style Guide](#cncf-glossary-style-guide)
-- [CNCF Default Style Guide](#cncf-default-style-guide)
-- [Repository Structure](#repository-structure)
-- [Definition Layout](#definition-layout)
-- [Title](#title)
-- [Status](#status)
-- [Category](#category)
-- [Definition](#definition)
-
-# CNCF Default Style Guide
-
-The CNCF glossary follows the [default style guide](https://github.com/cncf/foundation/blob/master/style-guide.md) located in the CNCF's repository. 
-
+The Cloud Native Glossary follows the [default style guide](https://github.com/cncf/foundation/blob/master/style-guide.md) located in the CNCF's repository.  Additionally it follows the following rules:
 
 1. [Avoid colloquial language](https://en.wikipedia.org/wiki/Colloquialism)
 2. [Use literal and concrete language](http://guidetogrammar.org/grammar/composition/abstract.htm)
@@ -44,29 +21,9 @@ The CNCF glossary follows the [default style guide](https://github.com/cncf/foun
 8. Avoid repetition
 9. Be concise
 
-# Repository Structure
+## Definition Template
 
-The following outline represents the repository structure for the glossary. If there is a movement of folders or files, the change can be found here.
-
-```shell
-glossary/
-└ .github/
-    └ settings.yml
-└ definitions/
-    └ all_glossary_definition_files.md
-└ images/
-    └ all_glossary_images.*
-└ CONTRIBUTING.md
-└ glossary.md
-└ LICENSE
-└ persona.md
-└ readme.md
-└ style-guide.md
-```
-
-# Definition Layout
-
-Each definition uses a markdown file. Currently, there are four requirements for the definition layout to be complete.
+Each definition is stored in a markdown file and follows this template:
 
 ```md
 ---
@@ -75,43 +32,29 @@ status:
 category: 
 ---
 
-## Definition
-
-### What it is
+## What it is
 
 A Quick summary of the technology or concept.
 
-### Problem it Addresses 
+## Problem it Addresses 
 
 A few lines of the problem it's addressing.
 
-### How it Helps
+## How it Helps
 
 A few lines of how the thing solves the problem.
 ```
 
-The meta description, the first three requirements, are contained by two three dash lines.
+### Title
 
-```md
----
-title: 
-status: 
-category: 
----
-```
-
-With the definition located underneath.
-
-# Title
-
-The **title** label will always be at the top of a definition layout and it's contents will be capitalized. 
+The **title** label will always be at the top of a definition layout and its value should be in title case. 
 
 ```md
 ---
 title: Definition Template
 ```
 
-# Status
+### Status
 
 The **status** label will come after the title label. The status label helps us understand which definitions are thoroughly vetted or require more effort.
 
@@ -129,9 +72,9 @@ title: Definition Template
 status: Feedback Appreciated
 ```
 
-# Category
+### Category
 
-The **category** label will come after the status label, its contents will be capitalized, and consist of the following options:
+The **category** label will come after the status label. Its value should be capitalized and consist of the following options:
 
 - Technology
 - Property
@@ -147,33 +90,15 @@ category: Concept
 ---
 ```
 
-# Definition
+### Definition
 
-The **definition** label will be the final label in the md file. The definition contains three sections to help the give readers context about the core definition. The three sections are:
+The definition contains three subheadings to help give the readers context about the core definition: "What it is", "Problem it Addresses", and "How it Helps". All three are required for terms in the Technology and Concept categories, however, Property definitions do not require these headings. 
 
-1. The core definition 
-2. The issue it is addressing
-3. How it solves or approaches the issue
 
-NOTE: Three sections are required for terms in the technology and concept categories. Property definitions only require the first section. 
+## Audience
 
-```md
----
-title: Definition Template
-status: Feedback Appreciated
-category: Concept
----
-  A Quick summary of the concept, what it is. [for all three categories]
+The glossary is for a technical AND non-technical audience. So please ensure definitions are explained in simple terms and don't assume technical context. When appropriate, use real-world examples that help readers (especially non-technical readers) better understand when and why the concept you're explaining is relevant. Also, link directly to glossary terms when used in your definition (only the first mention should be hyperlinked) and make sure to run your text through a spell check program.
 
-  A few lines of the problem it's addressing. [technology and concept only]
+Take a look at the "what it is" section of the [service mesh definition](/service_mesh). It links back to the microservices, service, reliability, and observability definitions and uses a real-world example so (non-technical) readers can better relate to network challenges (comparing it to a wifi network everyone is familiar with).
 
-  A few lines of how the thing solves the problem. [technology and concept only]
-```
-
-# Content
-
-The glossary is for a technical AND non-technical audience. So please ensure definitions are explained in simple terms and don't assume technical context. When appropriate, use real-world examples that help readers (especially non-technical readers) better understand when and why the concept you're explaining is relevant. Also, link back to a glossary term when used in your definition (only the first mention should be hyperlinked) and make sure to run your text through a spell check program before posting.
-
-Take the "what it is" section of the [service mesh definition](https://github.com/cncf/glossary/blob/main/content/en/service_mesh.md). It links back to the microservices, service, reliability, and observability definitions and uses a real-world example so (non-technical) readers can better relate to network challenges (comparing it to a wifi network everyone is familiar with).
-
-Before getting started, please read some of the terms that are ready so you get a feeling for the level of detail and difficulty as well as when examples are appropriate.
+Before getting started, please read some of the published terms on this site so you get a feeling for the level of detail and difficulty as well as when examples are appropriate.
