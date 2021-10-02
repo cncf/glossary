@@ -7,7 +7,7 @@ category: technology
 ## What it is
 A service proxy intercepts traffic to or from a given [service](/service/), applies some logic to it, then forwards that traffic to another service. It essentially acts as a “go-between” that collects information about network traffic and/or applies rules to it.
 
-## The Problem it Addresses
+## Problem it addresses
 To keep track of service to service communication (aka network traffic) and potentially transform or redirect it, we need to collect data. Traditionally, the code enabling data collection and network traffic management was embedded within each application.
 
 ## How it helps

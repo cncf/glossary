@@ -36,11 +36,11 @@ category:
 
 A Quick summary of the technology or concept.
 
-## Problem it Addresses 
+## Problem it addresses 
 
 A few lines of the problem it's addressing.
 
-## How it Helps
+## How it helps
 
 A few lines of how the thing solves the problem.
 ```
