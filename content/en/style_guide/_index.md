@@ -1,4 +1,11 @@
-# CNCF Glossary Style Guide 
+---
+title: Style Guide
+toc_hide: true
+menu:
+  main:
+    weight: 10
+    pre: <i class='fas fa-ruler-horizontal'></i>
+---
 
 The following style guide is designed to help you understand the glossary definitions and structure and maintain a consistent style throughout the glossary.
 
