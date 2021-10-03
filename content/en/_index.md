@@ -21,5 +21,4 @@ contributions from [Catherine Paganini](https://www.linkedin.com/in/catherinepag
 
 ## License
 
-All code contributions are under the Apache 2.0 license and any
-documentation is distributed under CC BY 4.0.
+All code contributions are under the Apache 2.0 license. Documentation is distributed under CC BY 4.0.
