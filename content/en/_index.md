@@ -3,16 +3,15 @@
 title: "Cloud Native Glossary"
 ---
 
-
 # Cloud Native Glossary
 
-The CNCF Cloud Native Glossary Project is intended to be used as a reference for common terms used when talking about cloud native applications.
+## Origin
+The Cloud Native Glossary is a project led by the CNCF Business Value Subcommittee (BVS). Its goal is to explain cloud native concepts in clear and simple language without requiring any previous technological knowledge.
 
-## Working with definitions
+## Contributing
+Everybody is invited to suggest changes, additions, and improvements to the Cloud Native Glossary. We employ a community-driven process governed by the CNCF to develop and improve upon this shared lexicon. This Glossary provides a vendor-neutral platform to organize a shared vocabulary around cloud native technologies. Contributions are welcome from all participants who abide by the project's purpose and charter.
 
-Each term falls under one of three categories: Technology, Property, or Concept.
-Please see [How To Contribute](/how-to/) for information on how to help with this project. Before submitting a PR,
-please ensure you follow the [Style Guide](/style-guide/). 
+Anyone who wishes to make a contribution, may submit a GitHub issue or create a pull request.  For more information please see [How To Contribute](/how-to/) please ensure you follow the [Style Guide](/style-guide/).
 
 ## Acknowledgements
 

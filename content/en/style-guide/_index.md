@@ -102,3 +102,5 @@ The glossary is for a technical AND non-technical audience. So please ensure def
 Take a look at the "what it is" section of the [service mesh definition](/service_mesh). It links back to the microservices, service, reliability, and observability definitions and uses a real-world example so (non-technical) readers can better relate to network challenges (comparing it to a wifi network everyone is familiar with).
 
 Before getting started, please read some of the published terms on this site so you get a feeling for the level of detail and difficulty as well as when examples are appropriate.
+
+The definition of a term should be based on empirical evidence of contemporary usage as published in literature, academic articles, talks, and white papers. In some cases, a term will suffer from conflation, imprecise usage, or, even worse, outright conflicting definitions. In these cases, the Glossary Committers will consider proposed clarifications or focused definitions on a case-by-case basis.
