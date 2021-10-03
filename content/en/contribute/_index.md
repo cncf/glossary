@@ -1,6 +1,5 @@
 ---
-title: How to contribute to the glossary
-linktitle: How To Contribute
+title: How To Contribute
 toc_hide: true
 menu:
   main:
