@@ -15,11 +15,11 @@ To propose specific changes to a glossary entry, edit that entry in your branch 
 
 ## Issues
 
-Please jump in and help us out by reviewing [open issues](https://github.com/cncf/glossary/issues) and making pull requests to resolve them.  The easiest ones have been marked with the “good first issue” or “help wanted” tags.  Some have already been assigned to people.
+Please jump in and help us out by reviewing [open issues](https://github.com/cncf/glossary/issues) and making pull requests to resolve them.  The easiest ones have been marked with the “good first issue” or “help wanted” tags.  Choose one that hasn't already been assigned to someone:
 
 ![issues](/images/how-to/3.png)
 
-Before getting started, make sure someone else hasn't "claimed" the issue. Click on the issue to learn more about it. The example below is already claimed:
+Other that haven't yet been assigned may have been "claimed" by someone. Click on the issue to learn more about it. The example below is already claimed:
 
 ![claims](/images/how-to/4.png)
 
