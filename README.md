@@ -6,14 +6,14 @@ The [CNCF](https://www.cncf.io/) Cloud Native Glossary Project is hosted at [htt
 
 ## Getting started
 
-If you'd like to help with the glossary we'd love to have your contributions! Plase see [How to Contribute](https://glossary.cncf.io/contribute).
+If you'd like to help with the glossary we'd love to have your contributions! Please see [How to Contribute](https://glossary.cncf.io/contribute).
 
 
 ## Acknowledgements
 
-The Cloud Native Glossary was initiated by the CNCF Marketing
-Committee (Business Value Subcommittee) and includes
-contributions from [Catherine Paganini](https://www.linkedin.com/in/catherinepaganini/en/), [Chris Aniszczyk](https://www.linkedin.com/in/caniszczyk/),
+The Cloud Native Glossary was initiated by the CNCF Marketing 
+Committee (Business Value Subcommittee) and includes contributions 
+from [Catherine Paganini](https://www.linkedin.com/in/catherinepaganini/en/), [Chris Aniszczyk](https://www.linkedin.com/in/caniszczyk/),
 [Daniel Jones](https://www.linkedin.com/in/danieljoneseb/?originalSubdomain=uk), [Jason Morgan](https://www.linkedin.com/in/jasonmorgan2/), [Katelin Ramer](https://www.linkedin.com/in/katelinramer/) and [Mike Foster](https://www.linkedin.com/in/mfosterche/?originalSubdomain=ca).
 
 ## License 
