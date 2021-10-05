@@ -1,6 +1,6 @@
 ---
 title: Function as a Service (FaaS)
-status: Feedback Appreciated
+status: Completed
 category: Technology
 ---
 ## Function as a Service (FaaS)
