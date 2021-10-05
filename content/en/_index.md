@@ -3,28 +3,22 @@
 title: "Cloud Native Glossary"
 ---
 
-
 # Cloud Native Glossary
 
-The CNCF Cloud Native Glossary Project is intended to be used as a reference for common terms used when talking about cloud native applications.
+The Cloud Native Glossary is a project led by the CNCF Business Value Subcommittee (BVS). Its goal is to explain cloud native concepts in clear and simple language without requiring any previous technical knowledge.
 
-## Working With Definitions
+## Contributing
+Everybody is invited to suggest changes, additions, and improvements to the Cloud Native Glossary. We employ a community-driven process governed by the CNCF to develop and improve upon this shared lexicon. This Glossary provides a vendor-neutral platform to organize a shared vocabulary around cloud native technologies. Contributions are welcome from all participants who abide by the project's purpose and charter.
 
-To make it easier to work on individual terms, we’ve moved them into
-individual files in the [content folder](https://github.com/cncf/glossary/tree/main/content). Each term falls under one of
-three categories: 1) technology, 2) property, or 3) concept.
-To learn how to navigate this GitHub page and submit issues and/
-or PRs, please refer to the [how-to guide](https://github.com/cncf/glossary/blob/main/how-to.md). Before submitting a PR,
-please ensure you follow the [style guide](https://github.com/cncf/glossary/blob/main/style-guide.md). 
+Anyone who wishes to make a contribution may submit a GitHub issue or create a pull request.  See [How To Contribute](/contribute/) for more information and please ensure you follow the [Style Guide](/style-guide/).
 
 ## Acknowledgements
 
 The Cloud Native Glossary was initiated by the CNCF Marketing
-Committee (Business Value Subcommittee), including
+Committee (Business Value Subcommittee) and includes
 contributions from [Catherine Paganini](https://www.linkedin.com/in/catherinepaganini/en/), [Chris Aniszczyk](https://www.linkedin.com/in/caniszczyk/),
 [Daniel Jones](https://www.linkedin.com/in/danieljoneseb/?originalSubdomain=uk), [Jason Morgan](https://www.linkedin.com/in/jasonmorgan2/), [Katelin Ramer](https://www.linkedin.com/in/katelinramer/) and [Mike Foster](https://www.linkedin.com/in/mfosterche/?originalSubdomain=ca).
 
 ## License
 
-All code contributions are under the Apache 2.0 license, any
-documentation distributed under CC BY 4.0.
+All code contributions are under the Apache 2.0 license. Documentation is distributed under CC BY 4.0.

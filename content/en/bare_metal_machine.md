@@ -8,7 +8,7 @@ category: technology
 
 Bare metal refers to a physical computer, more specifically a server, that has one, and only one, operating system. The distinction is important in modern computing because many, if not most, servers are [virtual machines](/virtual_machine/). A physical server is typically a fairly large computer with powerful hardware built-in. Installing an operating system and running applications directly on that physical hardware, without [virtualization](/virtualization/), is referred to as running on “bare metal.”
 
-## The problem it addresses
+## Problem it addresses
 
 Pairing one operating system with one physical computer is the original pattern of computing. All the resources of the physical computer are available directly to the operating system and with no virtualization layer present, there is no artificial delay in translating operating system instructions to hardware.
 
