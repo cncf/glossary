@@ -3,7 +3,6 @@ title: Function as a Service (FaaS)
 status: Completed
 category: Technology
 ---
-## Function as a Service (FaaS)
 
 ### What it is
 Function as a Service (FaaS) is a type of [serverless](https://glossary.cncf.io/serverless/) [cloud computing](https://glossary.cncf.io/cloud_computing/) [service](https://glossary.cncf.io/service/) that allows executing code in response to events without maintaining the complex infrastructure typically associated with building and launching [microservices](https://glossary.cncf.io/microservices/) applications. With FaaS, users manage only functions and data while the cloud provider manages the application. This allows developers to get the functions they need without paying for services when code isn’t running. Some popular FaaS examples include: [Amazon's AWS Lambda](https://aws.amazon.com/lambda/), [Google Cloud Functions](https://cloud.google.com/functions/) and [Microsoft Azure Functions](https://azure.microsoft.com/en-us/services/functions/).   
