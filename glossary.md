@@ -11,4 +11,4 @@ The Cloud Native Computing Foundation seeks to drive adoption of this paradigm b
 
 ## Terms
 
-Moved terms into their own files. You can find them [here](/definitions)
+Moved terms into their own files. You can find them [here](/content/en)
