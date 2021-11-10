@@ -4,9 +4,14 @@ status: Feedback Appreciated
 category: concept
 ---
 
-In a Kubernetes environment, stateful applications store state information generated from requests. To run, all pods within a stateful container must have a local volume of persistent storage. By contrast, stateless applications are containerized microservices that have a single function or service. They leverage a server to process requests, but the server doesn’t retain state information between requests, and different requests can be processed by different servers. They don’t require storage to run, because they don’t retain any data.
+## What it is
 
-Stateless applications tackle the problem of resiliency, because different pods across a cluster can work independently, with multiple requests coming to them at the same time. If there’s a problem, you can easily restart the application, and it will return to its initial state with little or no downtime. As such, the benefits of stateless applications include resiliency, elasticity, and high availability. However, most applications we use today are at least partly stateful, as they store things like preferences and settings to improve the user experience.
+When we speak of stateful (and stateless) apps, state refers to any data the app needs to store to function as designed. Any kind of online shop that remembers your cart is a stateful app for example. 
 
-Depending on what application you’re deploying, you may choose to use either stateful or stateless. Stateless containers are easier to deploy, and you don’t need to worry about saving container data on persistent storage volumes. You also don't have to worry about backing up the data. However, if your application needs to retain state information to do what it’s supposed to do, stateful is the only option. If you choose stateful, make sure you have a Kubernetes-native backup solution to prevent accidental data loss or corruption.
+## Problem it addresses
 
+Using an app generally requires multiple requests. For example, when online banking, you'll authenticate yourself by entering your password (request #1), then you may transfer money to a friend (request #2), and finally, you'll want to view transfer details (request #3). To function correctly, each step has to remember the previous ones, and the bank needs to remember the state of everyone’s accounts. Today, most applications we use are at least partly stateful, as they store things like preferences and settings to improve the user experience.
+
+## How it helps
+
+There are several ways to store state for a stateful application. The simplest is to hold the state in memory and not persist it anywhere. The problem with that is, whenever the application has to be restartet, all state is lost. In order to prevent that, state is persisted either locally (on disk) or in database systems. 
