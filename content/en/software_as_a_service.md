@@ -1,5 +1,5 @@
 ---
-Title: SaaS
+Title: Software as a Service (SaaS)
 Status: Completed
 Category: Technology
 ---
