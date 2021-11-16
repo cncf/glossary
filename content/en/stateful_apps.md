@@ -14,4 +14,4 @@ Using an app generally requires multiple requests. For example, when online bank
 
 ## How it helps
 
-There are several ways to store state for a stateful application. The simplest is to hold the state in memory and not persist it anywhere. The problem with that is, whenever the application has to be restartet, all state is lost. In order to prevent that, state is persisted either locally (on disk) or in database systems. 
+There are several ways to store state for a stateful application. The simplest is to hold the state in memory and not persist it anywhere. The problem with that is, whenever the application has to be restarted, all state is lost. In order to prevent that, state is persisted either locally (on disk) or in database systems. 
