@@ -58,6 +58,6 @@ Following list is for minimum required contents to initiate a new localization.
  - Home: `content/en/_index.md`
  - How to contribute: `content/en/contribute/_index.md`
  - Style guide: `content/en/style-guide/_index.md`
- - 20 translated terms
+ - 10 translated terms
 
 Translate contents and add the files to `content/<localization>`.
