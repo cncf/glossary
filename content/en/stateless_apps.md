@@ -6,7 +6,7 @@ category: technology
 
 ## What it is
 
-A stateless application doesn’t save any client session (state) data on the server where the application lives. Each session is carried out as if it was the first time and responses are not dependent upon data from a previous session and provides functionality to use print services, CDN (Content Delivery Network) or the Web Servers in order to process every short-term request. For example, someone is searching a question in the search engine and pressed the Enter button. In case if the searching operation gets interrupted or closed due to some reason, you have to start a new one as there is no saved data for your previous request.
+A stateless application is a program that does not save client data generated during interaction with the user in one session, for use in the next session. An example for stateless application could be a calculator that always starts with zero without storing the calculations or data from before.
 
 ## Problem it addresses
 
