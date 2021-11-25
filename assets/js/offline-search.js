@@ -55,7 +55,6 @@
                     // this.field('projects', { boost: 3 }); // example for an individual toxonomy called projects
                     // this.field('description', { boost: 2 });
                     this.field('body');
-                    this.field('status');
 
                     data.forEach((doc) => {
                         if ( 'completed' == doc.status.toLowerCase() ) {
