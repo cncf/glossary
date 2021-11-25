@@ -59,7 +59,6 @@
 
                     data.forEach((doc) => {
                         if ( 'completed' == doc.status.toLowerCase() ) {
-                            console.log(doc.title + ' ' + doc.status);
                             this.add(doc);
                             resultDetails.set(doc.ref, {
                                 title: doc.title,
