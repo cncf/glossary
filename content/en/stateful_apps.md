@@ -1,6 +1,6 @@
 ---
 title: Stateful Apps
-status: Feedback Appreciated
+status: Completed
 category: concept
 ---
 
