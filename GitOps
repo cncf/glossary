@@ -1,8 +1,10 @@
 What it is
-GitOps describes the desired state of the whole system using a declarative specification for each environment — the system of record. You may describe environments such as test, stage, and production in a code repository with the application version that resides in that environment.
+GitOps describes the desired state of the whole system using a declarative specification for each environment — the system of record. You may describe environments such as test, stage, and production in a code repository with the application version that resides in that environment. GitOps is a set of principles for operating and managing software systems. These principles are derived from modern software operations, but are also rooted in pre-existing and widely adopted best practices
 
 Problem it addresses
 GitOps helps administrators and operators manage environments using declarative code vs scripts, notes, and other manual operations.
 
 How it helps
 With GitOps operators have a complete history of how the environment was modified over time. Error recovery is simplified by issuing a git revert and the environment is restored.
+
+The CNCF GitOps working group is here https://github.com/open-gitops/documents/blob/main/GLOSSARY.md
