@@ -1,7 +1,7 @@
 # Localization
 
 Now that the first version of the cloud native glossary is live,
-we'd love to start translating it into different languages. 
+we'd love to start localizing it into different languages. 
 
 ## Basic requirements for a localization team
 
@@ -11,6 +11,15 @@ we'd love to start translating it into different languages.
   - Unanimous consent must be reached to be approved 
 
 ## Instruction to initiate a new localization
+
+### Open an Issue to notify initiation of a new localization 
+
+[Open an Issue](https://github.com/cncf/glossary/issues/new/choose) 
+baed on the `Initiate a New Localization Team` Issue-template.
+
+Through this Issue, the new localiztion team will
+ - get a permission for approving localization contents.
+ - get a development branch for the localization works. (use the development branch for following localization tasks)
 
 ### Add a new language setting to site configuration
 
@@ -52,12 +61,22 @@ contents/en
 contents/ko
 ...
 ```
+
 ### Localize and add minimum required contents
 
-Following list is for minimum required contents to initiate a new localization.
+Localize contents and add the files to `content/<localization>`.
+
+Following list is for minimum required contents to make a new localization to go live with the website.
+
  - Home: `content/en/_index.md`
  - How to contribute: `content/en/contribute/_index.md`
  - Style guide: `content/en/style-guide/_index.md`
  - 10 translated terms
 
-Translate contents and add the files to `content/<localization>`.
+### Merge the localization branch into `main` branch
+
+After the team completes the minimum required contents for a new localization,
+Open a PR to merge commits in localization branch into `main` branch.
+
+Then the localized contents will go live with the website.
+
