@@ -30,8 +30,8 @@ collaborators:
   - username: IdealUsrname
     permission: push
 
-  - username: DanielJonesEB
-    permission: push
+  # - username: DanielJonesEB
+  #   permission: push
     
   - username: murillodigital
     permission: push
