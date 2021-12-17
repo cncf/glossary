@@ -1,10 +1,13 @@
-What it is
-GitOps is a set of principles for operating and managing software systems. In GitOps, environment specifics are defined, or "declared," in a repository with the application code — your so-called system of record.
+## What it is
 
-Problem it addresses
+GitOps is a [set of principles](https://github.com/open-gitops/documents/blob/main/PRINCIPLES.md) for operating and managing software systems. In GitOps, environment specifics are defined, or "declared," in a repository with the application code — your so-called system of record.
+
+## Problem it addresses
+
 Configuration management often via YAML or JSON files becomes unwieldy at scale. In large organizations, thousands of developers making  frequent code changes these files can exponentially grow.
 
-How it helps
+## How it helps
+
 A GitOps approach provides a complete history of how environments have been modified over time. Configurations are stored in Git repositories. That allows operators to revert to a previous state if needed, significantly easing error recovery.
 
 The CNCF GitOps working group is here https://github.com/open-gitops/documents/blob/main/GLOSSARY.md
