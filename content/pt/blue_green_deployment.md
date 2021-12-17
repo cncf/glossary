@@ -11,7 +11,7 @@ Um atende ao tráfego de produção (a versão que os usuários estão usando at
 
 ## Qual problema é resolvido
 
-Blue-green deployments permitem tempo mínimo de inatividade ao atualizar o software que deve ser alterado em "lockstep" devido à falta de compatibilidade com versões anteriores. Por exemplo, blue-green deployment poderia ser apropriado para uma loja online consistindo de um site e um banco de dados que precisam ser atualizados, mas a nova versão do banco de dados não funciona com a versão antiga do site, e vice-versa. Neste caso, ambos precisam ser alterados ao mesmo tempo. Se isso fosse feito em um sistema de produção, os clientes perceberiam um tempo de indisponibilidade.
+Blue-green deployments permitem um tempo mínimo de indisponibilidade ao atualizar o software que deve ser alterado em "lockstep" devido à falta de compatibilidade com versões anteriores. Por exemplo, blue-green deployment poderia ser apropriado para uma loja online consistindo de um site e um banco de dados que precisam ser atualizados, mas a nova versão do banco de dados não funciona com a versão antiga do site, e vice-versa. Neste caso, ambos precisam ser alterados ao mesmo tempo. Se isso fosse feito em um sistema de produção, os clientes perceberiam um tempo de indisponibilidade.
 
 ## No que isso ajuda
 
