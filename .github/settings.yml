@@ -27,8 +27,8 @@ collaborators:
   - username: CathPag
     permission: push
 
-  - username: IdealUsrname
-    permission: push
+  # - username: IdealUsrname
+  #   permission: push
 
   # - username: DanielJonesEB
   #   permission: push
