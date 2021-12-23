@@ -26,15 +26,13 @@ collaborators:
 
   - username: CathPag
     permission: push
-
-  # - username: IdealUsrname
-  #   permission: push
-
-  # - username: DanielJonesEB
-  #   permission: push
+    
+  - username: seokho-son
+    permission: push
     
   - username: murillodigital
     permission: push
+    
 branches:
   - name: portuguese
     protection:
