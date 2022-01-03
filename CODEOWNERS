@@ -3,3 +3,9 @@
 # We require at least two maintainers to sign off on a new term
 
 * @caniszczyk @CathPag @jasonmorgan 
+
+
+# These are the approvers for localization contents
+# in each `/content/language/` directory
+
+/content/ko/ @seokho-son @Eviekim @jihoon-seo
