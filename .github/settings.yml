@@ -25,29 +25,59 @@ collaborators:
     permission: admin
 
   - username: CathPag
-    permission: push
+    permission: maintain
     
   - username: seokho-son
-    permission: push
+    permission: admin
     
   - username: murillodigital
-    permission: push
+    permission: maintain
+
+  # l10n ko approvers
+  # Note: seokho-son is both a maintainer (maintain) and Korean approver (push)
+  - username: jihoon-seo
+  permission: push
+
+  - username: Eviekim
+  permission: push
+
     
 branches:
-  - name: portuguese
+
+  # Default branch of this repository for configurations and English contents
+  - name: main
     protection:
       required_pull_request_reviews:
         required_approving_review_count: 2
+        require_code_owner_reviews: true
+      required_status_checks: null
       restrictions:
+        apps: []
+        # En approvers (including Chairs)
         users:
-         - edsoncelio
+         - caniszczyk
+         - jasonmorgan
+         - CathPag
+         - seokho-son
+         - murillodigital
+        teams: []
+      enforce_admins: null
+      required_linear_history: null
+
+  # l10n branch for Korean contents only
   - name: dev-ko
     protection:
       required_pull_request_reviews:
         required_approving_review_count: 2
+        require_code_owner_reviews: true
+      required_status_checks: null
       restrictions:
+        apps: []
+        # Ko approvers
         users:
          - seokho-son
          - Eviekim
          - jihoon-seo
- 
+        teams: []
+      enforce_admins: null
+      required_linear_history: null
