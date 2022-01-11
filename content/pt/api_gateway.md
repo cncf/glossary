@@ -1,6 +1,6 @@
 ---
 title: API Gateway
-status: Draft
+status: Completed
 category: technology
 ---
 
