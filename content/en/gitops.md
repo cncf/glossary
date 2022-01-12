@@ -1,6 +1,6 @@
 ---
 title: GitOps
-status: Feedback Needed
+status: Feedback Appreciated
 category: Concept
 ---
 
