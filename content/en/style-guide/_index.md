@@ -95,16 +95,25 @@ category: Concept
 
 ## Definition
 
-### Three sections
+### Three subheadings
 
-The definitions for **technology** and **concept** categories contain three subheadings: “What it is”, “Problem it addresses”, and “How it helps”. Note that **properties** don't require separate sections, a definition will suffice. 
+The definitions for **technology** and **concept** categories contain three subheadings: 
+
+- **What it is**: provide a short and clear overview of what we are talking about.
+- **Problem it addresses**: focus on the problem, not the solution (that comes in the next section). In fact, avoid mentioning the term that is defined. The problem focuses on *what* led us to needing that thing. 
+- **How it helps**: now come back to the term. How does it address the problem described above.
+
+Note that **properties** don't require separate sections, a definition will suffice. 
 
 ### Keeping it simple
 
-The Glossary aims at explaining complex concepts in simple words — that is a surprisingly difficult task that will likely take multiple revisions. Always keep the audience in mind when drafting your definition. Avoid using industry terms and buzzwords — you'll likely catch yourself going back to them and may need to autocorrect. 
+The Glossary aims at **explaining complex concepts in simple words** — that is a surprisingly difficult task that will likely take multiple revisions. Always keep the audience in mind when drafting your definition. Avoid using industry terms and buzzwords — you'll likely catch yourself going back to them and may need to autocorrect. 
 
-When appropriate, use real-world examples that help readers (especially non-technical ones) better understand when and why the concept you’re explaining is relevant. Also, always link to existing glossary terms when used in your definition (only the first mention should be hyperlinked).
-As an example, take a look at the “What it is” section of the [service mesh definition](https://glossary.cncf.io/service_mesh/). It links back to the microservices, service, reliability, and observability definitions and uses a real-world example so (non-technical) readers can better relate to network challenges.
+When appropriate, use **real-world examples** that help readers (especially non-technical ones) better understand *when* and *why* the concept you’re explaining is relevant. 
+
+Always **link to existing glossary terms** when used in your definition (only the first mention should be hyperlinked).
+
+**Example**: take a look at the “What it is” section of the [service mesh definition](https://glossary.cncf.io/service_mesh/). It links back to the microservices, service, reliability, and observability definitions and uses a real-world example so (non-technical) readers can better relate to network challenges.
 
 ### Start with a Google or Word doc
 
@@ -117,6 +126,6 @@ Before getting started, please read some of the published Glossary terms to get 
 
 ## The review process: what to expect
 
-Please note that we are currently only three maintainers who are doing this in their spare time. Occasionally, we'll be able to review terms quickly on other occasions it may take some time — we really appreciate your patience. If you have any questions, please contact us in the #glossary Slack channel (for where and how to find it, please refer to our [How To Contribute](https://glossary.cncf.io/contribute/) doc).
+Please note that we are currently only three maintainers who are doing this in their spare time. Occasionally, we'll be able to review terms quickly on other occasions it may take some time — we really appreciate your patience. If you have any questions, please contact us in the #glossary Slack channel (for *where* and *how* to find it, please refer to our [How To Contribute](https://glossary.cncf.io/contribute/) doc).
 
-Our goal is for the Glossary to be the best possible resource. Once you submit a PR we may ask for one or more revisions. Don't be frustrated — that is the case with many PRs. Those backs and forth and our collaboration will ensure that your contribution becomes a truly useful definition read and referred to by readers all around the globe. 
+Our goal is for the Glossary to be the best possible resource. Once you submit a PR we may ask for one or more revisions. Don't be frustrated — that is the case for many PRs. Those backs and forth and our collaboration will ensure that your contribution becomes a truly useful definition read and referred to by readers all around the globe. 
