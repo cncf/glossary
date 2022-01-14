@@ -109,6 +109,11 @@ kubernetes
 lang
 lifecycle
 linters
+localization
+localizations
+ValueError
+config
+ubuntu
 lxml
 MagicLink
 Mark
@@ -212,6 +217,7 @@ replicable
 Replicable
 saas
 SaaS
+Seokho
 CRM
 datadog
 Datadog
