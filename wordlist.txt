@@ -43,6 +43,7 @@ Brømsø
 Volkman
 albertvolkman
 linters
+localization
 ValueError
 config
 ubuntu
@@ -181,6 +182,7 @@ replicable
 Replicable
 saas
 SaaS
+Seokho
 CRM
 datadog
 Datadog
