@@ -26,12 +26,28 @@ collaborators:
 
   - username: CathPag
     permission: push
-
-  - username: IdealUsrname
-    permission: push
-
-  - username: DanielJonesEB
+    
+  - username: seokho-son
     permission: push
     
   - username: murillodigital
     permission: push
+    
+branches:
+  - name: portuguese
+    protection:
+      required_pull_request_reviews:
+        required_approving_review_count: 2
+      restrictions:
+        users:
+         - edsoncelio
+  - name: dev-ko
+    protection:
+      required_pull_request_reviews:
+        required_approving_review_count: 2
+      restrictions:
+        users:
+         - seokho-son
+         - Eviekim
+         - jihoon-seo
+ 
