@@ -110,6 +110,7 @@ lang
 lifecycle
 linters
 localization
+localizations
 ValueError
 config
 ubuntu
