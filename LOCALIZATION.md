@@ -10,14 +10,14 @@ we'd love to start localizing it into different languages.
   - Each term must be approved by two approvers
   - Unanimous consent must be reached to be approved 
 
-## Instruction to initiate a new localization
+## Instructions to initiate a new localization
 
 ### Open an Issue to notify initiation of a new localization 
 
 [Open an Issue](https://github.com/cncf/glossary/issues/new/choose) 
-baed on the `Initiate a New Localization Team` Issue-template.
+based on the `Initiate a New Localization Team` Issue-template.
 
-Through this Issue, the new localiztion team will
+Through this issue, the new localization team will
  - get a permission for approving localization contents.
  - get a development branch for the localization works. (use the development branch for following localization tasks)
 
