@@ -1,5 +1,5 @@
 ---
-title: Client-Server Architecture
+title: Arquitetura Cliente-Servidor
 status: Completed
 category: concept
 ---
