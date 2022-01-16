@@ -15,7 +15,9 @@ Also referred to as soft automation, this type of automation is utilized in comp
 Integrated automation involves the total automation of manufacturing plants as it is entirely handled by computers and control processes with minimal human involvement. Computers can design the necessary parts, test the designs, and fabricate the parts. Integrated automation, like flexible automation, is compatible with both batch process manufacturing and continuous process manufacturing.
 
 **Problem it addresses**
+
 Automation helps administrators and operators manage environments by automating previously manual operations.
 
 **How it helps**
+
 Speeds up administration and configuration of environments
