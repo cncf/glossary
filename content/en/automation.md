@@ -18,4 +18,4 @@ Integrated automation involves the total automation of manufacturing plants as i
 * Automation helps administrators and operators manage environments by automating previously manual operations.
 
 **How it helps**
-*Automation speeds up administration and configuration of environments
+* Automation speeds up administration and configuration of environments
