@@ -7,7 +7,7 @@ menu:
     pre: <i class='fas fa-pen-square'></i>
 ---
 
-The Cloud Native Glossary content is stored in [this GitHub repo](https://github.com/cncf/glossary) where you'll find a list of [issues](https://github.com/cncf/glossary/issues), [PRs](https://github.com/cncf/glossary/pulls), and [discussions](https://github.com/cncf/glossary/discussions) about the glossary. Consider joining our monthly Glossary Working Group meetings if you want to contribute regularly. You can find meeting details in the [CNCF calendar](https://www.cncf.io/calendar/). We look forward to meeting you there!
+The Cloud Native Glossary content is stored in [this GitHub repo](https://github.com/cncf/glossary) where you'll find a list of [issues](https://github.com/cncf/glossary/issues), [PRs](https://github.com/cncf/glossary/pulls), and [discussions](https://github.com/cncf/glossary/discussions) about the glossary. 
 
 There are three ways you can contribute:
 
@@ -15,6 +15,8 @@ There are three ways you can contribute:
 2) Update existing ones 
 3) Help translate the glossary
 
+## Join the Glossary community! 
+Consider joining our monthly Glossary Working Group meetings if you want to contribute regularly. You can find meeting details in the CNCF calendar. You can also connect with the maintainers and fellow contributors in our #glossary channel on the [CNCF calendar](https://www.cncf.io/calendar/) — we'd love to meet you! 
 
 ## Propose new terms
 You can propose a new term for others to work on or create a new definition yourself. Either way, you'll start by creating an issue (note that you'll need a GitHub account to do this).
