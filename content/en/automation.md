@@ -1,5 +1,5 @@
 ***Automation is a term for technology applications where human input is minimized.***
-When any process is set-up in a way which requires less human intervention or zero intervention is known as automation.
+When any process is set-up in a way which requires less or zero human intervention is known as automation.
 
 TYPES OF AUTOMATION SYSTEMS
 
