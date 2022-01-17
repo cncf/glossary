@@ -26,21 +26,21 @@ Below is a step-by-step guide for those not yet familiar with GitHub. **If you a
 ### Creating an issue
 Go to the [Glossary GitHub repo](https://github.com/cncf/glossary/issues) issues and click on "new issue."
 
-ADD IMAGE 1
+![issues](static/images/how-to/howto-01.png)
 
 You'll see a variety of templates. To propose a new term in English, select "English Language Glossary Request."
 
-ADD IMAGE 2
+![templates](static/images/how-to/howto-02.png)
 
 Add the word you're suggesting and hit "submit new issue." If you're just proposing a new term, you're done! To work on it, follow the next steps.
 
-ADD IMAGE 3
+![new issue](static/images/how-to/howto-03.png)
 
 Please join the #glossary channel on the CNCF Slack and let @Catherine Paganini, @jmo, and @Seokho Son know that you've submitted an issue and would like to work on it. They'll assign the issue to you signaling to everyone else that the term is already taken.
 
 Here you can see that the first three terms are available while the next term has been assigned to someone.
 
-ADD IMAGE 4
+![assigning a term](static/images/how-to/howto-04.png)
 
 Note that you can only claim one term at a time. If you want to work on multiple terms, please finish one before claiming the next.
 
@@ -50,39 +50,39 @@ Before getting started, please read the [Style Guide](https://glossary.cncf.io/s
 
 Once the term is ready to submit, go to content (under code)…
 
-ADD IMAGE 5
+![content](static/images/how-to/howto-05.png)
 
 …then "en" (or the language you are submitting for)…
 
-ADD IMAGE 6
+![language folder](static/images/how-to/howto-06.png)
 
 …and select  _TEMPLATE.md
 
-ADD IMAGE 7
+![template](static/images/how-to/howto-07.png)
 
 Copy the content…
 
-ADD IMAGE 8
+![copy content](static/images/how-to/howto-08.png)
 
 …and go back to the "en" folder. Hit "add file" and select "create new file."
 
-ADD IMAGE 9
+![create new file](static/images/how-to/howto-09.png)
 
 Add the term name in the URL (no capitalization and no space) and .md at the end (if you the preview doesn't work, you probably forgot to add .md). Now past the template content below. Copy and paste your definition into the file. Note that GitHub uses markdown to format the text (e.g., hyperlink, bold, italic). Please refer to this [markdown cheat sheet](https://www.markdownguide.org/cheat-sheet/). To view how this will look like, go to "preview."
 
-ADD IMAGE 10
+![finalize term](static/images/how-to/howto-10.png)
 
 Scroll down and name the new commit file when you are ready to submit. You are now about to commit the term to your own branch. Submitting a PR requires one more step. Hit "commit new file" and…
 
-ADD IMAGE 11
+![commit new file](static/images/how-to/howto-11.png)
 
 …now you're creating an PR:
 
-ADD IMAGE 12
+![create a pr](static/images/how-to/howto-12.png)
 
 You should now see your PR under "Pull requests."
 
-ADD IMAGE 13
+![prs](static/images/how-to/howto-13.png)
 
 ## Update an existing term
 To update an existing term, you can either suggest a change via an issue or go ahead and update the term directly by submitting a pull request (PR).
@@ -90,16 +90,16 @@ To update an existing term, you can either suggest a change via an issue or go a
 ### Request a change via an issue
 If you want to flag a problem with a term but don't know how or want to fix it yourself, click on "report issue."
 
-ADD IMAGE 14
+![report issue](static/images/how-to/howto-14.png)
 
 This will directly open an issue. Please elaborate on which change is needed and why. Hit submit, and that's it. 
 
-ADD IMAGE 15
+![submit issue](static/images/how-to/howto-15.png)
 
 ### Update a term directly
 To change a term directly, go to "edit this page." 
 
-ADD IMAGE 16
+![edit this page](static/images/how-to/howto-16.png)
 
 This will open the term's GitHub page. Make your changes and submit a PR. Please refer to "submitting a new term" above for a detailed description (jump to the section that speaks about markdown).
 
