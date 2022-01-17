@@ -1,22 +1,18 @@
-***Automation is a term for technology applications where human input is minimized.***
+---
+title: Definition Template
+status: Feedback Appreciated
+category: Concept
+---
+
+## What it is
+
+Automation is a term for technology applications where human input is minimized.
 When any process is set-up in a way which requires less or zero human intervention is known as automation.
 
-TYPES OF AUTOMATION SYSTEMS
+## Problem it addresses 
 
-* 1. **FIXED AUTOMATION**
-Also referred to as hard automation, fixed automation systems carry out a single set of tasks without deviation. Because of its function, this type of system would typically be used for discrete mass production and continuous flow systems. 
- 
-* 2. **PROGRAMMABLE AUTOMATION**
-As the names suggests, programmable automation runs through commands delivered by a computer program. This means that the resulting processes can vary widely with changing instructions given to the computer through a series of code. 
+Automation helps administrators and operators manage environments by automating previously manual operations.
 
-* 3. **FLEXIBLE AUTOMATION**
-Also referred to as soft automation, this type of automation is utilized in computer-controlled flexible manufacturing systems and allows for a more flexible production. 
+## How it helps
 
-* 4. **INTEGRATED AUTOMATION**
-Integrated automation involves the total automation of manufacturing plants as it is entirely handled by computers and control processes with minimal human involvement. Computers can design the necessary parts, test the designs, and fabricate the parts. Integrated automation, like flexible automation, is compatible with both batch process manufacturing and continuous process manufacturing.
-
-**Problem it addresses**
-* Automation helps administrators and operators manage environments by automating previously manual operations.
-
-**How it helps**
-* Automation speeds up administration and configuration of environments
+Automation speeds up administration and configuration of environments thus requiring less man power.
