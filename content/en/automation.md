@@ -15,4 +15,4 @@ Automation helps administrators and operators manage environments by automating 
 
 ## How it helps
 
-Automation speeds up administration and configuration of environments thus requiring less man power.
+Automation speeds up administration and configuration of environments thus requiring less man power
