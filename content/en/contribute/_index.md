@@ -58,7 +58,7 @@ Once the term is ready to submit, go to content (under code)…
 
 …and select  _TEMPLATE.md
 
-![template](static/images/how-to/howto-07.png)
+![template](/images/how-to/howto-07.png)
 
 Copy the content…
 
