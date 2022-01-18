@@ -1,6 +1,6 @@
 ---
 title: Containers as a Service
-status: Feedback Appreciated
+status: Completed
 category: Technology
 ---
 
