@@ -68,7 +68,7 @@ Copy the content…
 
 ![create new file](/images/how-to/howto-09.png)
 
-Add the term name in the URL (no capitalization and no space) and .md at the end (if you the preview doesn't work, you probably forgot to add .md). Now past the template content below. Copy and paste your definition into the file. Note that GitHub uses markdown to format the text (e.g., hyperlink, bold, italic). Please refer to this [markdown cheat sheet](https://www.markdownguide.org/cheat-sheet/). To view how this will look like, go to "preview."
+Add the term name in the URL (no capitalization and no space) and .md at the end (note: if your preview doesn't work, you probably forgot to add .md at the end). Now paste the template content below. Copy and paste your definition into the file. Note that GitHub uses markdown to format the text (e.g., hyperlink, bold, italic). Please refer to this [markdown cheat sheet](https://www.markdownguide.org/cheat-sheet/). To verify you've used markdown as intended, go to "preview."
 
 ![finalize term](/images/how-to/howto-10.png)
 
