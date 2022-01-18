@@ -9,7 +9,7 @@ repository:
   description: Cloud Native Glossary
 
   # A URL with more information about the repository
-  homepage: https://cncf.io/projects
+  homepage: https://glossary.cncf.io/
   
   # Collaborators: give specific users access to this repository.
   # see /governance/roles.md for details on write access policy
@@ -33,10 +33,10 @@ collaborators:
   # l10n ko approvers
   # Note: seokho-son is both a maintainer (maintain) and Korean approver (push)
   - username: jihoon-seo
-  permission: push
+    permission: push
 
   - username: Eviekim
-  permission: push
+    permission: push
 
     
 branches:
