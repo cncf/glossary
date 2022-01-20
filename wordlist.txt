@@ -90,6 +90,7 @@ impactful
 inelasticity
 inlinehilite
 io
+iot
 jason
 jonasbn
 jones
@@ -164,6 +165,7 @@ superfences
 tabbed
 tasklist
 tilde
+tls
 tmp
 toolchain
 transcodes
