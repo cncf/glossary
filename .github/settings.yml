@@ -44,6 +44,19 @@ collaborators:
 
   - username: brunoguidone
     permission: push
+
+  # l10n hi approvers
+  - username: Garima-Negi
+    permission: push
+
+  - username: sayantani11
+    permission: push
+
+  - username: anubha-v-ardhan
+    permission: push
+
+  - username: jayesh-srivastava
+    permission: push
     
 branches:
 
@@ -97,6 +110,25 @@ branches:
         users:
          - edsoncelio
          - brunoguidone
+        teams: []
+      enforce_admins: null
+      required_linear_history: null
+
+  # l10n branch for hi contents only
+  - name: dev-hi
+    protection:
+      required_pull_request_reviews:
+        required_approving_review_count: 2
+        require_code_owner_reviews: true
+      required_status_checks: null
+      restrictions:
+        apps: []
+        # hi approvers
+        users:
+         - Garima-Negi
+         - sayantani11
+         - anubha-v-ardhan
+         - jayesh-srivastava
         teams: []
       enforce_admins: null
       required_linear_history: null
