@@ -57,7 +57,13 @@ collaborators:
 
   - username: jayesh-srivastava
     permission: push
-    
+
+  # l10n de approvers
+  # Note: CathPag is both a maintainer (maintain) and de approver (push)
+  - username: iamNoah1
+    permission: push
+
+
 branches:
 
   # Default branch of this repository for configurations and English contents
@@ -129,6 +135,23 @@ branches:
          - sayantani11
          - anubha-v-ardhan
          - jayesh-srivastava
+        teams: []
+      enforce_admins: null
+      required_linear_history: null
+
+  # l10n branch for de contents only
+  - name: dev-de
+    protection:
+      required_pull_request_reviews:
+        required_approving_review_count: 2
+        require_code_owner_reviews: true
+      required_status_checks: null
+      restrictions:
+        apps: []
+        # de approvers
+        users:
+         - CathPag
+         - iamNoah1
         teams: []
       enforce_admins: null
       required_linear_history: null
