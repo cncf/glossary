@@ -63,6 +63,18 @@ collaborators:
   - username: iamNoah1
     permission: push
 
+  # l10n it approvers
+  - username: Giulia-dipietro
+    permission: push
+
+  - username: meryem-ldn
+    permission: push
+
+  - username: annalisag-spark
+    permission: push
+
+  - username: sistella
+    permission: push
 
 branches:
 
@@ -152,6 +164,25 @@ branches:
         users:
          - CathPag
          - iamNoah1
+        teams: []
+      enforce_admins: null
+      required_linear_history: null
+
+  # l10n branch for it contents only
+  - name: dev-it
+    protection:
+      required_pull_request_reviews:
+        required_approving_review_count: 2
+        require_code_owner_reviews: true
+      required_status_checks: null
+      restrictions:
+        apps: []
+        # it approvers
+        users:
+         - Giulia-dipietro
+         - meryem-ldn
+         - annalisag-spark
+         - sistella
         teams: []
       enforce_admins: null
       required_linear_history: null
