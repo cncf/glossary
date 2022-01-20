@@ -38,6 +38,12 @@ collaborators:
   - username: Eviekim
     permission: push
 
+  # l10n pt approvers
+  - username: edsoncelio
+    permission: push
+
+  - username: brunoguidone
+    permission: push
     
 branches:
 
@@ -77,3 +83,21 @@ branches:
         teams: []
       enforce_admins: null
       required_linear_history: null
+
+  # l10n branch for pt contents only
+  - name: dev-pt
+    protection:
+      required_pull_request_reviews:
+        required_approving_review_count: 2
+        require_code_owner_reviews: true
+      required_status_checks: null
+      restrictions:
+        apps: []
+        # pt approvers
+        users:
+         - edsoncelio
+         - brunoguidone
+        teams: []
+      enforce_admins: null
+      required_linear_history: null
+
