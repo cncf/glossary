@@ -89,6 +89,16 @@ collaborators:
   - username: hacktron95
     permission: push
 
+  # l10n bn approvers
+  - username: mitul3737
+    permission: push
+
+  - username: Mouly22
+    permission: push
+
+  - username: ikramulkayes
+    permission: push
+
 branches:
 
   # Default branch of this repository for configurations and English contents
@@ -215,6 +225,24 @@ branches:
          - same7ammar
          - AShabana
          - hacktron95
+        teams: []
+      enforce_admins: null
+      required_linear_history: null
+
+  # l10n branch for bn contents only
+  - name: dev-bn
+    protection:
+      required_pull_request_reviews:
+        required_approving_review_count: 2
+        require_code_owner_reviews: true
+      required_status_checks: null
+      restrictions:
+        apps: []
+        # bn approvers
+        users:
+         - mitul3737
+         - Mouly22
+         - ikramulkayes
         teams: []
       enforce_admins: null
       required_linear_history: null
