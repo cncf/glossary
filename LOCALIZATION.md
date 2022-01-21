@@ -6,7 +6,7 @@ we'd love to start localizing it into different languages.
  - [Initiate a new localization team](#initiate-a-new-localization-team)
  - [Get involved in an existing localization team](#get-involved-in-an-existing-localization-team)
 
-Contributions to improve following localization guides and localization policies are also welcome.
+Contributions to improving the following localization guides and localization policies are also welcome.
 
 ---
 
@@ -14,42 +14,40 @@ Contributions to improve following localization guides and localization policies
 
 ## Basic requirements to initiate a new localization team
 
-- Glossary project does not have a localization team for your language yet
-  - check language list from [localization progress](https://github.com/cncf/glossary/projects/2) or ask it to [glossary-localizations channel in Slack](https://cloud-native.slack.com/archives/C02N2RGFXDF)
+- The Glossary project does not have a localization team for your language yet
+  - check the language list from [localization progress](https://github.com/cncf/glossary/projects/2) and ask in the [glossary-localizations channel in Slack](https://cloud-native.slack.com/archives/C02N2RGFXDF). There may be a group of volunteers who haven't gotten started yet.
 - At least three volunteers
 - At least two approvers 
-  - each term must be approved by two approvers
+  - two approvers must approve each term
   - unanimous consent must be reached to be approved 
-  - candidates need to have basic knowledge in Github (such as PR, review process, branch, ..)
+  - at least one volunteer must have basic GitHub knowledge and be willing to help the others get up to speed (such as PR, review process, branch, ..)
 
 ## Instructions to initiate a new localization
 
-### 1. Open an Issue to notify initiation of a new localization 
+### 1. Open an issue to notify initiation of a new localization 
 
-[Open an Issue](https://github.com/cncf/glossary/issues/new/choose) 
-based on the `Initiate a New Localization Team` Issue-template.
+[Open an issue](https://github.com/cncf/glossary/issues/new/choose) 
+and select the `Initiate a New Localization Team` template.
 
-Through this issue, the new localization team will
- - get a development branch for the localization works (ex: [dev-ko](https://github.com/cncf/glossary/tree/dev-ko) branch). 
- - get a permission for approving localization contents.
+With this issue, new localization teams are requesting:
+ - their own development branch (ex: [dev-ko](https://github.com/cncf/glossary/tree/dev-ko) branch). 
+ - permission for approving localized content
    ```
-   The approvers of l10n team will have a push permission to this repository.
-   It is to make l10n approvers manage (merge) PRs for l10n contributions in your development branch.
-   Merging a PR to the `main` branch by l10n approvers is restricted.
-   Even if they are possible to review a PR to the `main` branch and give an approval to the PR, they should not approve ths PR. 
-   So, please do not approve if a PR is not related with your localization.
+   l10n team approvers will have push permission to this repository.
+   They will manage (merge) PRs for their l10n contributions in their development branch.
+   However, their ability to merge PRs to the `main` branch is restricted.
+   Please note: although they can review and approve PRs to the `main` branch, they should not approve PRs that aren't related to their own localization teams.
    ``` 
 
-The localization team needs to use assigned development branch for following localization tasks.
-For instance, Korean localization team is using [dev-ko](https://github.com/cncf/glossary/tree/dev-ko) branch.
+Localization teams should use their assigned development branch for the following localization tasks (example of a dev branch: https://github.com/cncf/glossary/tree/dev-ko; dev-ko stands for Korean dev branch). 
 
-### 2. Configure a new language to the site
+### 2. Configuring a new language
 
-Fulfill following tasks and open a PR. (ex: https://github.com/cncf/glossary/pull/291)
-
+Open a PR with the localization initiation following this example: https://github.com/cncf/glossary/pull/291.
 
 
-#### 2-1. Add a new language setting to site configuration
+
+#### 2-1. Adding a new language setting to site configuration
 
 New languages need to be set up inside of `config.toml`.
 Find existing `[languages]` block in `config.toml` and add a block for the new language below other language blocks.
@@ -72,17 +70,17 @@ Find existing `[languages]` block in `config.toml` and add a block for the new l
   +weight = 2
   ```
 
-#### 2-2. Add a file for site strings
+#### 2-2. Adding a file for site strings
 
-With `i18n/<localization>.toml`, we can setup language-specific site strings.
+`i18n/<localization>.toml` sets up language-specific site strings.
 For a new localization, add a file `i18n/<localization>.toml` based on `i18n/en.toml`.
 `other = "<English site strings>"` in `i18n/<localization>.toml` can be translated.
 
-#### 2-3. Add a new localization directory
+#### 2-3. Adding a new localization directory
 
-Translations of glossary terms should go in the appropriate language directory inside of `/content/`.
+Translated Glossary terms are saved in the appropriate language directory inside `/content/`.
 
-Add a subdirectory in two-letter language code to `content` (`content/<localization>`). 
+Create a subdirectory in `content` and name it using the appropriate two-letter language code (`content/<localization>`).
 For example, 
 ```
 contents/en
@@ -90,11 +88,11 @@ contents/ko
 ...
 ```
 
-#### 2-4. Add minimum required contents
+#### 2-4. Minimum required content
 
-Localize contents and add the files to `content/<localization>`.
+Localize content and save to `content/<localization>`.
 
-Following list is for minimum required contents for the first PR.
+Your first PR should include these pages: 
 
  - Home: `content/en/_index.md` -> `content/<localization>/_index.md`
  - How to contribute: `content/en/contribute/_index.md` -> `content/<localization>/contribute/_index.md`
@@ -102,39 +100,31 @@ Following list is for minimum required contents for the first PR.
 
 #### 2-5. Check configuration works and open a PR
 
-Contributor needs to test that the website works with the updated configuration
-by running [Hugo server](https://github.com/cncf/glossary#setting-up-a-local-instance) before open a PR.
-
-If the configuration works, you can select the new language in the local website.
+Before opening a PR, ensure the website with the updated configuration works by running [Hugo server](https://github.com/cncf/glossary#setting-up-a-local-instance). If it does, select the new language on the local website.
 
 ![image](https://user-images.githubusercontent.com/5966944/150203331-c535a95c-c36e-4c01-85a8-5261ce6f70de.png)
 
-Open a PR. (ex: https://github.com/cncf/glossary/pull/291)
+Open a PR (ex: https://github.com/cncf/glossary/pull/291) and wait for it to be reviewed by the [maintainers](https://github.com/cncf/glossary/blob/main/CODEOWNERS#L6).
 
-The PR will be reviewed by [maintainers](https://github.com/cncf/glossary/blob/main/CODEOWNERS#L6).
+### 3. Localizing and adding minimum required terms
 
-### 3. Localize and add minimum required terms
-
-To make a new localization to go live with the website, we requires
+Before going live with a localized Glossary, you need at least:
 
  - 10 translated terms
 
-Every localization teams are free to determine a strategy to fulfill this requirement.
-For instance, they can use an Issue to assign contributors to translation items and track progress. (ex: https://github.com/cncf/glossary/issues/269)
+How localization teams achieve that, is up to them. For instance, they can use issues to assign contributors to translation terms and track progress (ex: https://github.com/cncf/glossary/issues/269).
 
-### 4. Merge the localization branch into `main` branch
+### 4. Merging the localization branch into `main` branch
 
-After the team completes the minimum required terms for a new localization,
+After completing the minimum required terms for a new localization, open a PR to merge commits in the localization branch into the `main` branch. (ex: `dev-ko` to `main`).
 
-Open a PR to merge commits in localization branch into `main` branch. (ex: `dev-ko` to `main`)
-
-Then the localized contents will go live with the website.
+Once the PR is merged, the localized content will go live on its website 🎉
 
 ---
 
-# Get involved in an existing localization team
+# Join an existing localization team
 
-This section needs to be improved.
+To join an existing team, hop on the #glossary-localizations and #glossary-[language name] channels on the CNCF Slack. Introduce yourself, let the team know you want to contribute, and the team will take it from there.
 
-In the meanwhile, please contact with a localization team for your language and get a guidance.
+If the team seems inactive (no response after several days), reach out to @Seokho Son, @Catherine Paganini, and @jmo on the #glossary-localizations channel.  
 
