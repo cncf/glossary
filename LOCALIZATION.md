@@ -10,7 +10,7 @@ Contributions to improving the following localization guides and localization po
 
 ---
 
-# Initiate a new localization team
+# Initiating a new localization team
 
 ## Basic requirements to initiate a new localization team
 
@@ -24,7 +24,7 @@ Contributions to improving the following localization guides and localization po
 
 ## Instructions to initiate a new localization
 
-### 1. Open an issue to notify initiation of a new localization 
+### 1. Opening an issue to notify initiation of a new localization 
 
 [Open an issue](https://github.com/cncf/glossary/issues/new/choose) 
 and select the `Initiate a New Localization Team` template.
