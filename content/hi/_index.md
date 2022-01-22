@@ -1,0 +1,23 @@
+---
+title: क्लाउड नेटिव शब्दावली
+---
+
+# क्लाउड नेटिव शब्दावली
+
+क्लाउड नेटिव शब्दावली(Cloud Native Glossary), CNCF बिजनेस वैल्यू उपसमिति(BVS, Business Value Subcommittee) के नेतृत्व में एक परियोजना है| इसका लक्ष्य बिना किसी पूर्व तकनीकी ज्ञान की आवश्यकता के स्पष्ट और सरल भाषा में क्लाउड नेटिव अवधारणाओं की व्याख्या करना है। [आप पीडीएफ संस्करण यहां देख या डाउनलोड कर सकते हैं](https://github.com/cncf/glossary/blob/main/cloudnative-glossary.pdf)|
+
+## योगदान
+
+क्लाउड नेटिव शब्दावली में परिवर्तन, परिवर्धन और सुधार का सुझाव देने के लिए सभी को आमंत्रित किया जाता है। हम इस साझा शब्दकोष को विकसित करने और उसमें सुधार करने के लिए CNCF द्वारा शासित एक समुदाय-संचालित प्रक्रिया(lexicon) का उपयोग करते हैं। यह शब्दावली क्लाउड नेटिव(Cloud Native) तकनीकों के इर्द-गिर्द साझा शब्दावली को व्यवस्थित करने के लिए एक विक्रेता-तटस्थ मंच प्रदान करती है। परियोजना के उद्देश्य और चार्टर का पालन करने वाले सभी प्रतिभागियों के योगदान का स्वागत है।
+
+जो कोई भी योगदान देना चाहता है, वह GitHub मुद्दा(issue) सबमिट कर सकता है या पुल रिक्वेस्ट(pull request) बना सकता है। कृपया सुनिश्चित करें कि आप [स्टाइल गाइड](/hi/style-guide/) का पालन करें, [कैसे योगदान दें](/hi/contribute/) 
+डाक्यूमेंट पढ़ें, और CNCF Slack पर #glossary-localization-hindi चैनल से जुड़ें।
+
+## स्वीकृतियाँ
+
+क्लाउड नेटिव शब्दावली की शुरुआत CNCF मार्केटिंग समिति(CNCF Marketing Committee, BVS) द्वारा की गई थी और इसमें शामिल हैं Catherine Paganini](https://www.linkedin.com/in/catherinepaganini/en/), [Chris Aniszczyk](https://www.linkedin.com/in/caniszczyk/),
+[Daniel Jones](https://www.linkedin.com/in/danieljoneseb/?originalSubdomain=uk), [Jason Morgan](https://www.linkedin.com/in/jasonmorgan2/), [Katelin Ramer](https://www.linkedin.com/in/katelinramer/), [Mike Foster](https://www.linkedin.com/in/mfosterche/?originalSubdomain=ca), [Seokho Son](https://www.linkedin.com/in/seokho-son/) और कई अन्य योगदानकर्ताओं से योगदान।
+
+## लाइसेंस
+
+सभी कोड योगदान अपाचे 2.0 लाइसेंस के अंतर्गत हैं। दस्तावेज़ीकरण CC BY 4.0 के तहत वितरित किया जाता है।
