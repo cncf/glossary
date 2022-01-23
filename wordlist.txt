@@ -90,6 +90,7 @@ impactful
 inelasticity
 inlinehilite
 io
+iot
 jason
 jonasbn
 jones
@@ -113,6 +114,7 @@ microservice
 microservices
 misconfiguration
 mkdn
+mtls
 navbar
 observability
 oci
@@ -163,6 +165,7 @@ superfences
 tabbed
 tasklist
 tilde
+tls
 tmp
 toolchain
 transcodes
