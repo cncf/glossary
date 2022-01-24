@@ -6,8 +6,8 @@ category: Concept
 
 ## What it is
 
-GitOps is a set of best practices based on [shared principles](https://opengitops.dev/), applied to a workflow that depends on software tools that enable automation to reconcile a declared system state or configuration in a git repository.
-These tools and practices are used to execute a cohesive workflow that leverages a source control system like Git as the “single source of truth” and extends this practice to applications, infrastructure, and operational procedures.
+GitOps is a set of best practices based on [shared principles](https://opengitops.dev/), applied to a workflow that depends on software agents that enable automation to reconcile a declared system state or configuration in a git repository.
+These software agents and practices are used to execute a cohesive workflow that leverages a source control system like Git as the “single source of truth” and extends this practice to applications, infrastructure, and operational procedures.
 
 ## Problem it addresses
 
