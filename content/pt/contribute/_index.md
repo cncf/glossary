@@ -7,15 +7,18 @@ menu:
     pre: <i class='fas fa-pen-square'></i>
 ---
 
-The Cloud Native Glossary content is stored in [this GitHub repo](https://github.com/cncf/glossary) where you'll find a list of [issues](https://github.com/cncf/glossary/issues), [PRs](https://github.com/cncf/glossary/pulls), and [discussions](https://github.com/cncf/glossary/discussions) about the glossary. 
+O projeto do glossário Cloud Native é mantido [nesse repositório do Github](https://github.com/cncf/glossary), onde você consegue encontrar todas as [*issues*](https://github.com/cncf/glossary/issues), [*pull requests*]https://github.com/cncf/glossary/pulls) e [discussões](https://github.com/cncf/glossary/discussions) em aberto.
 
-There are three ways you can contribute:
+Você pode contribuir de três formas:
 
-1) Propose new terms
-2) Update existing ones 
-3) Help translate the glossary
+1) Sugerindo novos termos
+2) Atualizando termos existentes
+3) Traduzindo o glossário para seu idioma nativo
 
-## Join the Glossary community! 
+<!--
+## Faça parte da comunidade do glossário!
+
+
 Consider joining our monthly Glossary Working Group meetings if you want to contribute regularly. You can find meeting details in the CNCF calendar. You can also connect with the maintainers and fellow contributors in our #glossary channel on the [CNCF calendar](https://www.cncf.io/calendar/) — we'd love to meet you! 
 
 ## Propose new terms
@@ -105,6 +108,8 @@ This will open the term's GitHub page. Make your changes and submit a PR. Please
 
 ## Help translate the glossary
 To help translate the glossary into your native language, please join the #glossary-localizations channel on the CNCF Slack and let us know. You can either join an existing team or create a new one. Please also join our monthly Glossary Working Group meetings. You can find meeting details in the [CNCF calendar](https://www.cncf.io/calendar/). We look forward to meeting you there!
+
+-->
 
 
 
