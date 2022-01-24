@@ -4,8 +4,8 @@ status: Completed
 category: Property
 ---
 
-कंप्यूटिंग के संदर्भ में, ऐब्स्ट्रैक्शन एक निरूपण है जो सेवाओं के उपभोक्ता से विशिष्टताओं को छुपाता है, एक प्रणाली को अधिक सामान्य बनाता है और इस प्रकार आसानी से समझा जाता है।. A good example is your laptop's operating system (OS). It abstracts away all the details of how your computer works. You don't need to know anything about CPU, memory, and how programs are handled, you just operate the OS and the OS deals with the details. All these details are hidden behind the OS "curtain" or abstraction. 
+कंप्यूटिंग के संदर्भ में, ऐब्स्ट्रैक्शन एक निरूपण है जो सेवाओं के उपभोक्ता से विशिष्टताओं को छुपाता है, एक सिस्टम को अधिक सामान्य बनाता है और इस प्रकार आसानी से समझा जाता है। आपके लैपटॉप का ऑपरेटिंग सिस्टम (OS) एक अच्छा उदाहरण है। यह आपके कंप्यूटर के काम करने के तरीके के सभी विवरणों को छुपा देता है। आपको सीपीयू, मेमोरी के बारे में और प्रोग्राम को कैसे हैंडल किया जाता है, इसके बारे में कुछ भी जानने की जरूरत नहीं है, आप बस OS को संचालित करते हैं और OS विवरण के साथ काम करता है। ये सभी विवरण OS "पर्दे" या ऐब्स्ट्रैक्शन के पीछे छिपे हुए हैं।
 
-Systems typically have multiple abstraction layers. This significantly simplifies development. When programming, developers build components compatible with a particular abstraction layer and don't have to worry about all underlying specifics that can be very heterogeneous. If it works with the abstraction layer, it works with the system — no matter what's under the hood. 
+सिस्टम में आमतौर पर कई ऐब्स्ट्रैक्शन कि परतें होती हैं। इसे डेवलपमेंट करना काफी सरल हो जाता है। प्रोग्रामिंग करते समय, डेवलपर्स एक विशेष ऐब्स्ट्रैक्शन परत के साथ संगत घटकों का निर्माण करते हैं और सभी अंतर्निहित बारीकियों के बारे में चिंता करने की ज़रूरत नहीं है जो बहुत विजातीय हो सकते हैं। यदि यह ऐब्स्ट्रैक्शन परत के साथ काम करता है, तो यह सिस्टम के साथ काम करता है।
 
 
