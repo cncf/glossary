@@ -24,7 +24,11 @@ Contributions to improving the following localization guides and localization po
 
 ## Instructions to initiate a new localization
 
-### 1. Opening an issue to notify initiation of a new localization 
+# 1. Join the Slack channel and saying hello
+
+If you're interested in creating a new localization team, whether you have a team or are on your own, please join the #glossary-localizations channel on the CNCF slack and say hi. If you have at least three volunteers and are ready to start, request a localization channel for your language (e.g., #glossary-localization-korean). If you are still looking for more volunteers, let everyone in the channel know. There may be someone in there looking for a team as well. 
+
+### 2. Opening an issue to notify initiation of a new localization 
 
 [Open an issue](https://github.com/cncf/glossary/issues/new/choose) 
 and select the `Initiate a New Localization Team` template.
@@ -41,13 +45,13 @@ With this issue, new localization teams are requesting:
 
 Localization teams should use their assigned development branch for the following localization tasks (example of a dev branch: https://github.com/cncf/glossary/tree/dev-ko; dev-ko stands for Korean dev branch). 
 
-### 2. Configuring a new language
+### 3. Configuring a new language
 
 Open a PR with the localization initiation following this example: https://github.com/cncf/glossary/pull/291.
 
 
 
-#### 2-1. Adding a new language setting to site configuration
+#### 3-1. Adding a new language setting to site configuration
 
 New languages need to be set up inside of `config.toml`.
 Find existing `[languages]` block in `config.toml` and add a block for the new language below other language blocks.
@@ -70,13 +74,13 @@ Find existing `[languages]` block in `config.toml` and add a block for the new l
   +weight = 2
   ```
 
-#### 2-2. Adding a file for site strings
+#### 3-2. Adding a file for site strings
 
 `i18n/<localization>.toml` sets up language-specific site strings.
 For a new localization, add a file `i18n/<localization>.toml` based on `i18n/en.toml`.
 `other = "<English site strings>"` in `i18n/<localization>.toml` can be translated.
 
-#### 2-3. Adding a new localization directory
+#### 3-3. Adding a new localization directory
 
 Translated Glossary terms are saved in the appropriate language directory inside `/content/`.
 
@@ -88,7 +92,7 @@ contents/ko
 ...
 ```
 
-#### 2-4. Minimum required content
+#### 3-4. Minimum required content
 
 Localize content and save to `content/<localization>`.
 
@@ -98,7 +102,7 @@ Your first PR should include these pages:
  - How to contribute: `content/en/contribute/_index.md` -> `content/<localization>/contribute/_index.md`
  - Style guide: `content/en/style-guide/_index.md` -> `content/<localization>/style-guide/_index.md`
 
-#### 2-5. Check configuration works and open a PR
+#### 3-5. Check configuration works and open a PR
 
 Before opening a PR, ensure the website with the updated configuration works by running [Hugo server](https://github.com/cncf/glossary#setting-up-a-local-instance). If it does, select the new language on the local website.
 
@@ -106,7 +110,7 @@ Before opening a PR, ensure the website with the updated configuration works by 
 
 Open a PR (ex: https://github.com/cncf/glossary/pull/291) and wait for it to be reviewed by the [maintainers](https://github.com/cncf/glossary/blob/main/CODEOWNERS#L6).
 
-### 3. Localizing and adding minimum required terms
+### 4. Localizing and adding minimum required terms
 
 Before going live with a localized Glossary, you need at least:
 
@@ -114,7 +118,7 @@ Before going live with a localized Glossary, you need at least:
 
 How localization teams achieve that, is up to them. For instance, they can use issues to assign contributors to translation terms and track progress (ex: https://github.com/cncf/glossary/issues/269).
 
-### 4. Merging the localization branch into `main` branch
+### 5. Merging the localization branch into `main` branch
 
 After completing the minimum required terms for a new localization, open a PR to merge commits in the localization branch into the `main` branch. (ex: `dev-ko` to `main`).
 
