@@ -221,10 +221,7 @@ branches:
         apps: []
         # ar approvers
         users:
-         - TarekMSayed
-         - same7ammar
-         - AShabana
-         - hacktron95
+         - seokho-son
         teams: []
       enforce_admins: null
       required_linear_history: null
