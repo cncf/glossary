@@ -237,9 +237,7 @@ branches:
         apps: []
         # bn approvers
         users:
-         - mitul3737
-         - Mouly22
-         - ikramulkayes
+         - seokho-son
         teams: []
       enforce_admins: null
       required_linear_history: null
