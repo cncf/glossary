@@ -77,27 +77,9 @@ collaborators:
     permission: push
 
   # l10n ar approvers
-  - username: TarekMSayed
-    permission: push
-
-  - username: same7ammar
-    permission: push
-
-  - username: AShabana
-    permission: push
-
-  - username: hacktron95
-    permission: push
 
   # l10n bn approvers
-  - username: mitul3737
-    permission: push
 
-  - username: Mouly22
-    permission: push
-
-  - username: ikramulkayes
-    permission: push
 
 branches:
 
