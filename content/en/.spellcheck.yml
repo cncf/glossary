@@ -8,23 +8,22 @@
 # http://www.apache.org/licenses/LICENSE-2.0
 ##############################################################################
 
-name: Spellcheck CI
-# yamllint disable-line rule:truthy
-on:
-  pull_request:
-    paths:
+matrix:
+  - name: English content
+    sources:
       - 'content/en/*.md'
-    branches:
-      - main
-  workflow_dispatch:
-
-jobs:
-  check-english-spellcheck:
-    name: Run PySpelling tool to verify spelling issues
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - name: GitHub Spellcheck Action
-        uses: rojopolis/spellcheck-github-actions@0.21.1
-        with:
-          config_path: content/en/.spellcheck.yml
+    default_encoding: utf-8
+    aspell:
+      lang: en
+      ignore-case: true
+    dictionary:
+      wordlists:
+        - content/en/.wordlist.txt
+      encoding: utf-8
+    pipeline:
+      - pyspelling.filters.markdown:
+      - pyspelling.filters.html:
+          comments: false
+          ignores:
+            - code
+            - pre
