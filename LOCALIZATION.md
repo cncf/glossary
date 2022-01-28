@@ -3,7 +3,7 @@
 Now that the first version of the cloud native glossary is live,
 we'd love to start localizing it into different languages. 
 
- - [Initiate a new localization team](#initiate-a-new-localization-team)
+ - [Initiate a new localization team](#initiating-a-new-localization-team)
  - [Join an existing localization team](#join-an-existing-localization-team)
 
 Contributions to improving the following localization guides and localization policies are also welcome.
