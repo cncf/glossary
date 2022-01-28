@@ -130,7 +130,7 @@ Once the PR is merged, the localized content will go live on its website 🎉
 
 # Join an existing localization team
 
-To join an existing team, hop on the #glossary-localizations and #glossary-[language name] channels on the CNCF Slack. Introduce yourself, let the team know you want to contribute, and the team will take it from there.
+To join an existing team, hop on the #glossary-localizations and #glossary-localization-[language name] channels on the CNCF Slack. Introduce yourself, let the team know you want to contribute, and the team will take it from there.
 
 If the team seems inactive (no response after several days), reach out to @Seokho Son, @Catherine Paganini, and @jmo on the #glossary-localizations channel.  
 
