@@ -62,6 +62,9 @@ collaborators:
   # Note: CathPag is both a maintainer (maintain) and de approver (push)
   - username: iamNoah1
     permission: push
+    
+  - username: DaveVentura
+    permission: push
 
   # l10n it approvers
   - username: Giulia-dipietro
@@ -169,6 +172,7 @@ branches:
         users:
          - CathPag
          - iamNoah1
+         - DaveVentura
         teams: []
       enforce_admins: null
       required_linear_history: null
