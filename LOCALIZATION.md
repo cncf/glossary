@@ -36,6 +36,7 @@ and select the `Initiate a New Localization Team` template.
 With this issue, new localization teams are requesting:
  - their own development branch (ex: [dev-ko](https://github.com/cncf/glossary/tree/dev-ko) branch). 
  - permission for approving localized content
+   - teams will select the most suitable team members as approvers (no more than 4 per localization team)
    ```
    l10n team approvers will have push permission to this repository.
    They will manage (merge) PRs for their l10n contributions in their development branch.
