@@ -24,7 +24,7 @@ Contributions to improving the following localization guides and localization po
 
 ## Instructions to initiate a new localization
 
-# 1. Join the Slack channel and saying hello
+### 1. Join the Slack channel and say hello
 
 If you're interested in creating a new localization team, whether you have a team or are on your own, please join the #glossary-localizations channel on the CNCF slack and say hi. If you have at least three volunteers and are ready to start, request a localization channel for your language (e.g., #glossary-localization-korean). If you are still looking for more volunteers, let everyone in the channel know. There may be someone in there looking for a team as well. 
 
