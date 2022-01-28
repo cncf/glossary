@@ -8,12 +8,12 @@ category: Concept
 
 Automation is a term for technology applications where human input is minimized.
 When any process is set-up in a way which requires less or zero human intervention is known as automation.
-For example ChatBots - You must have visited a page which as soon as you open responds with a "hi" message thus adressing your presence, that is automation. Like this automation is being used in variety of industries like medical, automobile, packaging etc.
+For example Chatbots - You must have visited a page which as soon as you open responds with a "hi" message thus addressing your presence, that is automation. Like this automation is being used in variety of industries like medical, automobile, packaging etc.
 
 ## Problem it addresses 
 
 Automation helps administrators and operators manage environments by automating previously manual operations.
-Considering the same example of chatbot here, earlier the website owner had to hire many officials to address the queries of the person visiting the website, thus increasing the cost of the product or service, increasing the hassle of the attender to interact with so many visitors, incrasing the chances of mistakes in the process.
+Considering the same example of chatbot here, earlier the website owner had to hire many officials to address the queries of the person visiting the website, thus increasing the cost of the product or service, increasing the hassle of the attender to interact with so many visitors, increasing the chances of mistakes in the process.
 
 ## How it helps
 
