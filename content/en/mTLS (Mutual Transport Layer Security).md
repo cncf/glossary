@@ -5,7 +5,7 @@ category: Concept
 ---
 
 ## What it is
-Mutual TLS (mTLS) is a technique used to authenticate and encrypt messages sent between two [services](https://glossary.cncf.io/service/). Mutual TLS is the standard Transport Layer Security (TLS) protocol but, instead of validating the identity of just one connection, both sides are validated.
+Mutual TLS (mTLS) is a technique used to authenticate and encrypt messages sent between two [services](https://glossary.cncf.io/service/). Mutual TLS is the standard [Transport Layer Security](https://glossary.cncf.io/tlstransport-layer-security/) (TLS) protocol but, instead of validating the identity of just one connection, both sides are validated.
 
 ## Problem it addresses
 [Microservices](https://glossary.cncf.io/microservices/) communicate over a network and, just like your wifi network, communication in transit over that network can be hacked. mTLS ensures that no unauthorized party can listen in on or impersonate legitimate requests.
