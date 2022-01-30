@@ -21,7 +21,7 @@ menu:
 ## नए शब्द प्रस्तावित करें
 आप दूसरों के द्वारा परिभाषित होने को नये शब्द प्रस्तावित कर सकते हैं या स्वयं एक नई परिभाषा लिख सकते हैं। किसी भी तरह से, आप एक समस्या बनाकर शुरू करेंगे (ध्यान दें कि ऐसा करने के लिए आपको एक GitHub खाते की आवश्यकता होगी)।
 
-नीचे उन लोगों के लिए चरण-दर-चरण मार्गदर्शिका दी गई है जो GitHub से परिचित नहीं हैं। **यदि आप एक गिटहब में निपुण हैं**, तो कृपया सुनिश्चित *करें* कि आप हमारे इशू टेम्प्लेट, उपयुक्त नामकरण परंपराओं का उपयोग करते हैं, Slack पर एक PR पर दावा करते हैं (अन्यथा हमसे चूक हो सकती है), और फ़ाइल टेम्पलेट कहां खोजें। कृपया शुरू करने से पहले [स्टाइल गाइड](https://glossary.cncf.io/style-guide/) पढ़ना सुनिश्चित करें — धन्यवाद!
+नीचे उन लोगों के लिए चरण-दर-चरण मार्गदर्शिका दी गई है जो GitHub से परिचित नहीं हैं। **यदि आप गिटहब में निपुण हैं**, तो कृपया सुनिश्चित *करें* कि आप हमारे इशू टेम्प्लेट, उपयुक्त नामकरण परंपराओं का उपयोग करते हैं, Slack पर एक PR पर दावा करते हैं (अन्यथा हमसे चूक हो सकती है), और फ़ाइल टेम्पलेट कहां खोजें। कृपया शुरू करने से पहले [शैली मार्गदर्शिका](https://glossary.cncf.io/style-guide/) पढ़ना सुनिश्चित करें — धन्यवाद!
 
 ### इशू बनाना
 [शब्दावली गिटहब रेपो](https://github.com/cncf/glossary/issues) issue पर जाएं और "new issue" पर क्लिक करें।
@@ -36,56 +36,56 @@ menu:
 
 ![नया इशू](/images/how-to/howto-03.png)
 
-Please join the #glossary channel on the CNCF Slack and let @Catherine Paganini, @jmo, and @Seokho Son know that you've submitted an issue and would like to work on it. They'll assign the issue to you signaling to everyone else that the term is already taken.
+कृपया CNCF Slack पर #glossary चैनल से जुड़ें और @Catherine Paganini, @jmo, और @Seokho Son को सुचना दें कि आपने एक इशू जमा कर दी है और उस पर काम करना चाहते हैं। वे आपको वह इशू सौंपेंगे जो अन्य सभी को संकेत देगा कि यह शब्द पहले ही लिया जा चुका है।
 
-Here you can see that the first three terms are available while the next term has been assigned to someone.
+यहां आप देख सकते हैं कि पहले तीन शब्द उपलब्ध हैं जबकि अगला शब्द किसी को सौंपा गया है।
 
-![assigning a term](/images/how-to/howto-04.png)
+![शब्द पे दावा करना](/images/how-to/howto-04.png)
 
-Note that you can only claim one term at a time. If you want to work on multiple terms, please finish one before claiming the next.
+ध्यान दें कि आप एक बार में केवल एक शब्द का दावा कर सकते हैं। यदि आप एक से अधिक शब्दों पर काम करना चाहते हैं, तो कृपया अगली पर दावा करने से पहले एक को समाप्त करें।
 
-### Submitting a new term (creating a PR)
+### नया शब्द जमा करना (PR बनाना)
 
-Before getting started, please read the [Style Guide](https://glossary.cncf.io/style-guide/) — it will help minimize backs and forth. As stated in the style guide, we highly recommend starting with a Google or Word doc. 
+शुरू करने से पहले, कृपया [शैली मार्गदर्शिका](https://glossary.cncf.io/style-guide/) पढ़ें — यह कार्य को आसान बनाने में मदद करेगा। जैसा कि शैली मार्गदर्शिका में कहा गया है, हम Google या Word दस्तावेज़ से शुरुआत करने की अत्यधिक अनुशंसा करते हैं।
 
-Once the term is ready to submit, go to content (under code)…
+एक बार जब टर्म सबमिट करने के लिए तैयार हो जाए, तो content पर जाएं (code के तहत)…
 
 ![content](/images/how-to/howto-05.png)
 
-…then "en" (or the language you are submitting for)…
+…फिर "en" (या जिस भाषा के लिए आप सबमिट कर रहे हैं)…
 
-![language folder](/images/how-to/howto-06.png)
+![भाषा फ़ोल्डर](/images/how-to/howto-06.png)
 
-…and select  _TEMPLATE.md
+…और _TEMPLATE.md . चुनें
 
 ![template](/images/how-to/howto-07.png)
 
-Copy the content…
+कंटेंट की प्रतिलिपि बनाएँ…
 
-![copy content](/images/how-to/howto-08.png)
+![कंटेंट की प्रतिलिपि](/images/how-to/howto-08.png)
 
-…and go back to the "en" folder. Hit "add file" and select "create new file."
+…और "en" फ़ोल्डर में वापस जाएं। "add file" दबाएं और "create new file" चुनें।
 
 ![create new file](/images/how-to/howto-09.png)
 
-Add the term name in the URL (no capitalization and no space) and .md at the end (note: if your preview doesn't work, you probably forgot to add .md at the end). Now paste the template content below. Copy and paste your definition into the file. Note that GitHub uses markdown to format the text (e.g., hyperlink, bold, italic). Please refer to this [markdown cheat sheet](https://www.markdownguide.org/cheat-sheet/). To verify you've used markdown as intended, go to "preview."
+URL में शब्द (कोई कैपिटलाइज़ेशन(capitalization) नहीं और कोई अवधि(space) नहीं) और अंत में .md जोड़ें (ध्यान दें कि यदि आपका पूर्वावलोकन काम नहीं करता है, तो आप शायद अंत में .md जोड़ना भूल गए हैं)। अब नीचे टेम्पलेट कंटेंट पेस्ट करें। अपनी परिभाषा को फ़ाइल में कॉपी और पेस्ट करें। ध्यान दें कि GitHub टेक्स्ट को प्रारूपित करने के लिए मार्कडाउन का उपयोग करता है (उदाहरण के लिए, हाइपरलिंक, बोल्ड, इटैलिक)। कृपया [मार्कडाउन चीट शीट](https://www.markdownguide.org/cheat-sheet/) देखें। मार्कडाउन के सही प्रयोग को सत्यापित करने के लिए "preview" पर जाएं।
 
 ![finalize term](/images/how-to/howto-10.png)
 
-Scroll down and name the new commit file when you are ready to submit. You are now about to commit the term to your own branch. Submitting a PR requires one more step. Hit "commit new file" and…
+जब आप सबमिट करने के लिए तैयार हों तो नीचे स्क्रॉल करें और नये कमिट फ़ाइल को नाम दें। अब आप इस शब्द को अपने ब्रांच पर कमिट करने वाले हैं। PR सबमिट करने के लिए एक और चरण की आवश्यकता होती है। "commit new file" दबाएं और…
 
 ![commit new file](/images/how-to/howto-11.png)
 
-…now you're creating an PR:
+…अब आप एक PR बना रहे हैं:
 
-![create a pr](/images/how-to/howto-12.png)
+![pr बनाना](/images/how-to/howto-12.png)
 
-You should now see your PR under "Pull requests."
+अब आपको अपना pr "Pull requests" के तहत दिखना चाहिए।
 
 ![prs](/images/how-to/howto-13.png)
 
-## Update an existing term
-To update an existing term, you can either suggest a change via an issue or go ahead and update the term directly by submitting a pull request (PR).
+## मौजूदा शब्द अपडेट करें
+किसी मौजूदा शब्द को अपडेट करने के लिए, आप या तो किसी इशू के माध्यम से बदलाव का सुझाव दे सकते हैं या पुल अनुरोध (PR) सबमिट करके सीधे शब्द को अपडेट कर सकते हैं।
 
 ### Request a change via an issue
 If you want to flag a problem with a term but don't know how or want to fix it yourself, click on "report issue."
