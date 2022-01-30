@@ -24,7 +24,7 @@ Ihr könnt neue Begriffe vorschlagen, an dem andere arbeiten sollen, oder selbst
 Es folgt eine Schritt-für-Schritt-Anleitung für diejenigen, die mit GitHub noch nicht vertraut sind. **Wenn Du bereits ein GitHub-Profi** bist, verwende bitte unsere Vorlagen für die Erstellung eines neuen GitHub-Issue, achte darauf die richtigen Namenskonventionen und den [Style Guide] (https://glossary.cncf.io/style-guide/) einzuhalten, mach dich vertraut mit unseren Vorlagen und informiere uns über eingestellte Pull Requests über Slack (damit wir sie nicht übersehen). Vielen Dank! 
 
 ### Neues GitHub Issue anlegen
-Gehe zu den [Github Issues](https://github.com/cncf/glossary/issues) des Glossar Repositories und klicke auf "new issue".
+Gehe zu den [Github Issues](https://github.com/cncf/glossary/issues) des Glossar Repositories und klicke auf "New issue".
 
 ![issues](/images/how-to/howto-01.png)
 
@@ -32,76 +32,79 @@ Dort sind eine Vielzahl von Vorlagen zu sehen. Um einen neuen Begriff in deutsch
 
 ![templates](/images/how-to/howto-02.png)
 
-Add the word you're suggesting and hit "submit new issue." If you're just proposing a new term, you're done! To work on it, follow the next steps.
+Füge den gewünschten Begriff ein, und klicke auf "Submit new issue". Falls du den Begriff lediglich vorschlagen wolltest, bist du jetzt bereits fertig! Falls du auch daran arbeiten möchtest, folge den nächsten Schritten. 
 
-![new issue](/images/how-to/howto-03.png)
+![neues issue](/images/how-to/howto-03.png)
 
-Please join the #glossary channel on the CNCF Slack and let @Catherine Paganini, @jmo, and @Seokho Son know that you've submitted an issue and would like to work on it. They'll assign the issue to you signaling to everyone else that the term is already taken.
+Treten dem #glossary Kanal in dem CNCF Slack bei und teile  @Catherine Paganini, @jmo und @Seokho Son mit, dass du einen neuen Vorschlag eingereicht hast und daran arbeiten möchtest. Sie werden dir das GitHub-Issue zuweisen und allen anderen signalisieren, dass der Begriff bereits jemandem zugewiesen ist.
 
-Here you can see that the first three terms are available while the next term has been assigned to someone.
+Hier kannst du sehen, dass die ersten drei Begriffe verfügbar sind, während der letzte Begriff bereits jemandem zugewiesen wurde.
 
-![assigning a term](/images/how-to/howto-04.png)
+![Begriff zuweisen](/images/how-to/howto-04.png)
 
-Note that you can only claim one term at a time. If you want to work on multiple terms, please finish one before claiming the next.
+Beachte bitte, dass du jeweils nur an einen Begriff gleichzeitig arbeiten kannst. Falls du an mehreren Begriffen arbeiten möchtest, schließe bitte zuerst den einen ab, bevor du an dem anderen arbeitest. 
 
-### Submitting a new term (creating a PR)
+### Begriff einreichen (Erstellen eines Pull Request)
 
-Before getting started, please read the [Style Guide](https://glossary.cncf.io/style-guide/) — it will help minimize backs and forth. As stated in the style guide, we highly recommend starting with a Google or Word doc. 
+Vor dem Start bitte sicherstellen, dass der [Style Guide] (https://glossary.cncf.io/style-guide/) beachtet wird - das hilft dabei, die weiteren Interaktionen zu minimieren. Wie im Style Guide angegeben, empfehlen wir, mit einem Google- oder Word-Dokument zu beginnen. 
 
-Once the term is ready to submit, go to content (under code)…
+Sobald der Begriff fertig ist, innerhalb der Registerkarte "Code" bitte auf "content" klicken ...
 
-![content](/images/how-to/howto-05.png)
+![Inhalt](/images/how-to/howto-05.png)
 
-…then "en" (or the language you are submitting for)…
+... danach auf "de" ... 
 
-![language folder](/images/how-to/howto-06.png)
+![Sprachen-Ordner](/images/how-to/howto-06.png)
 
-…and select  _TEMPLATE.md
+... _TEMPLATE.md auswählen
 
-![template](/images/how-to/howto-07.png)
+![Vorlage](/images/how-to/howto-07.png)
 
-Copy the content…
+den Inhalt kopieren ... 
 
-![copy content](/images/how-to/howto-08.png)
+![Inhalt füllen](/images/how-to/howto-08.png)
 
-…and go back to the "en" folder. Hit "add file" and select "create new file."
+... und wieder eine Ebene höher in den "de" Ordner wechseln. Jetzt einfach auf "add file" und "create new file" auswählen.
 
-![create new file](/images/how-to/howto-09.png)
+![Neue Datei anlegen](/images/how-to/howto-09.png)
 
-Add the term name in the URL (no capitalization and no space) and .md at the end (if you the preview doesn't work, you probably forgot to add .md). Now past the template content below. Copy and paste your definition into the file. Note that GitHub uses markdown to format the text (e.g., hyperlink, bold, italic). Please refer to this [markdown cheat sheet](https://www.markdownguide.org/cheat-sheet/). To view how this will look like, go to "preview."
+Füge den Namen des Begriffs in die URL ein (keine Großschreibung und kein Leerzeichen) mit dem Appendix ".md" (wenn die Vorschau nicht funktioniert, wurde das Appendix ".md" nicht korrekt hinzuzugefügt). Jetzt kann die ausgefüllte Vorlage eingefügt werden. Bitte beachten, dass GitHub Markdown verwendet wird um den Text zu formatieren (z. B. Hyperlink, fett, kursiv). Hier ein [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/). Unter "Vorschau" kann man sehen wie der Text aussehen wird.
 
-![finalize term](/images/how-to/howto-10.png)
+![Finalisieren](/images/how-to/howto-10.png)
 
-Scroll down and name the new commit file when you are ready to submit. You are now about to commit the term to your own branch. Submitting a PR requires one more step. Hit "commit new file" and…
+Weiter unten kannst du unter "Commit new file" den Commit benennen und bestätigen sobald du dein Beitrag einreichen möchtest. Dafür wird der Commit zunächst auf einem eigenen Branch erstellt. Bestätige indem du auf "Commit new file" klickst ... 
 
-![commit new file](/images/how-to/howto-11.png)
+![Neue Datei commiten](/images/how-to/howto-11.png)
 
-…now you're creating an PR:
+...und erstelle einen Pull Request
 
-![create a pr](/images/how-to/howto-12.png)
+![Pull Request erstellen](/images/how-to/howto-12.png)
 
-You should now see your PR under "Pull requests."
+Ab jetzt kannst du deinen erstellten Pull Requests hier verfolgen: 
 
-![prs](/images/how-to/howto-13.png)
+![Pull Requests](/images/how-to/howto-13.png)
 
-## Update an existing term
-To update an existing term, you can either suggest a change via an issue or go ahead and update the term directly by submitting a pull request (PR).
+## Bestehenden Begriff aktualisieren
 
-### Request a change via an issue
-If you want to flag a problem with a term but don't know how or want to fix it yourself, click on "report issue."
+Um einen bestehenden Begriff zu aktualisieren, kannst Du entweder eine Änderung über ein neues GitHub Issue vorschlagen oder den Begriff direkt aktualisieren, indem du einen Pull Request einreichst.
 
-![report issue](/images/how-to/howto-14.png)
+### Problem melden via GitHub Issue
 
-This will directly open an issue. Please elaborate on which change is needed and why. Hit submit, and that's it. 
+Falls Du ein Problem mit einem Begriff melden, es aber nicht selber beheben möchtest oder kannst, klicke einfach auf "Problem melden".
+
+![Problem melden](/images/how-to/howto-14.png)
+
+Dadurch wird direkt ein GitHub Issue angelegt. Bitte beschreibe welche Änderung erforderlich ist und warum. Klicke auf "Submit new issue", und das war's. 
 
 ![submit issue](/images/how-to/howto-15.png)
 
-### Update a term directly
-To change a term directly, go to "edit this page." 
+### Änderungen direkt vornehmen
 
-![edit this page](/images/how-to/howto-16.png)
+Um einen Begriff direkt zu ändern, klicke auf "Diese Seite anpassen". 
 
-This will open the term's GitHub page. Make your changes and submit a PR. Please refer to "submitting a new term" above for a detailed description (jump to the section that speaks about markdown).
+![Seite anpassen](/images/how-to/howto-16.png)
 
-## Help translate the glossary
-To help translate the glossary into your native language, please join the #glossary-localizations channel on the CNCF Slack and let us know. You can either join an existing team or create a new one. Please also join our monthly Glossary Working Group meetings. You can find meeting details in the [CNCF calendar](https://www.cncf.io/calendar/). We look forward to meeting you there!
+Dadurch wird die GitHub-Seite des Begriffs geöffnet. Du kannst jetzt Anpassungen durchführen und einen Pull Request einreichen. Eine ausführliche Beschreibung findet sich weiter oben unter "Begriff einreichen" (Du kannst direkt zu dem Abschnitt springen, in dem es um Markdown geht).
+
+## Hilf bei der Übersetzung des Glossars
+Falls du helfen möchtest, das Glossar in deine Muttersprache zu übersetzen, tritt dem Kanal #glossary-localizations auf dem CNCF Slack bei und lass es uns wissen. Du kannst entweder einem bestehenden Team beitreten oder ein neues Team gründen. Bitte nimm dazu auch an unseren monatlichen Treffen der Glossar-Arbeitsgruppe teil. Details zu den Treffen finden sich im [CNCF-Kalender] (https://www.cncf.io/calendar/). Wir freuen uns darauf, euch dort zu treffen!
