@@ -188,3 +188,4 @@ PaaS
 rollouts
 FaaS
 transcodes
+GitOps
