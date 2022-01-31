@@ -87,24 +87,24 @@ URL में शब्द (कोई कैपिटलाइज़ेशन(ca
 ## मौजूदा शब्द अपडेट करें
 किसी मौजूदा शब्द को अपडेट करने के लिए, आप या तो किसी इशू के माध्यम से बदलाव का सुझाव दे सकते हैं या पुल अनुरोध (PR) सबमिट करके सीधे शब्द को अपडेट कर सकते हैं।
 
-### Request a change via an issue
-If you want to flag a problem with a term but don't know how or want to fix it yourself, click on "report issue."
+### इशू के ज़रिए बदलाव का अनुरोध करें
+यदि आप कसी शब्द में किसी त्रुटि की सुचना देना चाहते हैं, लेकिन यह नहीं जानते कि इसे स्वयं कैसे ठीक करना है या नहीं करना चाहते हैं, तो "report issue" पर क्लिक करें।
 
 ![report issue](/images/how-to/howto-14.png)
 
-This will directly open an issue. Please elaborate on which change is needed and why. Hit submit, and that's it. 
+यह सीधे एक इशू खोलेगा। कृपया विस्तार से बताएं कि किस परिवर्तन की आवश्यकता है और क्यों। इसके बाद "submit" बटन दबाएं।
 
 ![submit issue](/images/how-to/howto-15.png)
 
-### Update a term directly
-To change a term directly, go to "edit this page." 
+### शब्द को सीधे अपडेट करें
+किसी शब्द को सीधे बदलने के लिए, "edit this page" पर जाएं।
 
 ![edit this page](/images/how-to/howto-16.png)
 
-This will open the term's GitHub page. Make your changes and submit a PR. Please refer to "submitting a new term" above for a detailed description (jump to the section that speaks about markdown).
+इससे शब्द का GitHub पेज खुल जाएगा. अपने परिवर्तन करें और एक PR जमा करें। विस्तृत विवरण के लिए कृपया ऊपर "नया शब्द जमा करना" देखें (मार्कडाउन के बारे में बात करने वाले अनुभाग पर जाएं)।
 
-## Help translate the glossary
-To help translate the glossary into your native language, please join the #glossary-localizations channel on the CNCF Slack and let us know. You can either join an existing team or create a new one (to see what it takes, check out or [Localization Guide](https://github.com/cncf/glossary/blob/main/LOCALIZATION.md)). Please also join our monthly Glossary Working Group meetings. You can find meeting details in the [CNCF calendar](https://www.cncf.io/calendar/). We look forward to meeting you there!
+## शब्दावली के अनुवाद में सहायता करें
+शब्दावली का अपनी मूल भाषा में अनुवाद करने में सहायता के लिए, कृपया CNCF Slack पर #glossary-localizations चैनल से जुड़ें और हमें बताएं। आप किसी मौजूदा टीम में शामिल हो सकते हैं या एक नई टीम बना सकते हैं (विस्तृत विवरण के लिए [स्थानीयकरण मार्गदर्शिका](https://github.com/cncf/glossary/blob/main/LOCALIZATION.md) देखें)। कृपया हमारी मासिक शब्दावली कार्य समूह की बैठकों में भी शामिल हों। आप [CNCF कैलेंडर](https://www.cncf.io/calendar/) में मीटिंग विवरण पा सकते हैं। हम आपसे वहां मिलने के लिए उत्सुक हैं!
 
 
 
