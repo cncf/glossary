@@ -1,7 +1,7 @@
 ---
 title: परिभाषा टेम्पलेट
 status: Feedback Appreciated
-category: concept
+category: संकल्पना
 ---
 
 ## यह क्या है
