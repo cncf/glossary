@@ -1,6 +1,6 @@
 ---
 title: ক্লাউড নেটিভ প্রযুক্তি
-status: সম্পন্ন
+status: Completed
 category: ধারণা
 ---
 
