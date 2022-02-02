@@ -16,7 +16,7 @@ Ci sono tre modi in cui puoi contribuire:
 3) Aiutare nella traduzione del glossario
 
 ## Entra nella Glossary community! 
-Valuta di entrare anche tu nei nostri meeting mensili del _Glossary Working Group_, se hai intenzione di contribuire regolarmente. Puoi trovare i dettagli del meeting nel [calendario del CNCF](https://www.cncf.io/calendar/). Puoi anche connetterti con i gestori e i contributors nel nostro canale #glossary-localizations del [CNCF Slack](cloud-native.slack.com) — ti aspettiamo! 
+Valuta di entrare anche tu nei nostri meeting mensili del _Glossary Working Group_, se hai intenzione di contribuire regolarmente. Puoi trovare i dettagli del meeting nel [calendario del CNCF](https://www.cncf.io/calendar/). Puoi anche connetterti con i gestori e i contributors nel nostro canale #glossary-localizations del [CNCF Slack](http://cloud-native.slack.com/) — ti aspettiamo! 
 
 ## Proporre nuove voci
 Puoi sia proporre nuove voci su cui altri possono lavorare, o crearne tu stesso anche la definizione. In entrambi i casi dovrai iniziare creando una _issue_ (avrai bisogno di un account di Github per farlo).
@@ -102,10 +102,10 @@ Per aggiornare direttamente il termine, vai su "edit this page."
 
 ![edit this page](/images/how-to/howto-16.png)
 
-ti si aprirà la pagina di Github relativa al termine. Fai le tue modifiche e apri una PR. Fai riferimento al paragrafo [Proporre un nuovo termine](#proporre_un_nuovo_termine) per una descrizione dettagliata di come modificare un file markdown.
+ti si aprirà la pagina di Github relativa al termine. Fai le tue modifiche e apri una PR. Fai riferimento al paragrafo [Proporre un nuovo termine](#proporre-un-nuovo-termine-creare-una-pr) per una descrizione dettagliata di come modificare un file markdown.
 
 ## Aiutaci a tradurre il Glossario
-Per aiutare a tradurre il Glossario nella tua lingua madre, entra nel canale #glossary-localizations del [CNCF Slack](cloud-native.slack.com) e faccelo sapere. Puoi entrare a far parte di un team già esistente o crearne uno nuovo. Puoi anche partecipare al nostro meeting del Glossary Working Group. Trovi tutte le informazioni per il meeting nel [calendario del CNCF](https://www.cncf.io/calendar/). Ti aspettiamo!
+Per aiutare a tradurre il Glossario nella tua lingua madre, entra nel canale #glossary-localizations del [CNCF Slack](http://cloud-native.slack.com/) e faccelo sapere. Puoi entrare a far parte di un team già esistente o crearne uno nuovo. Puoi anche partecipare al nostro meeting del Glossary Working Group. Trovi tutte le informazioni per il meeting nel [calendario del CNCF](https://www.cncf.io/calendar/). Ti aspettiamo!
 
 
 
