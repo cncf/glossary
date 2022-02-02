@@ -38,7 +38,52 @@ collaborators:
   - username: Eviekim
     permission: push
 
+  # l10n pt approvers
+  - username: edsoncelio
+    permission: push
+
+  - username: brunoguidone
+    permission: push
+
+  # l10n hi approvers
+  - username: Garima-Negi
+    permission: push
+
+  - username: sayantani11
+    permission: push
+
+  - username: anubha-v-ardhan
+    permission: push
+
+  - username: jayesh-srivastava
+    permission: push
+
+  # l10n de approvers
+  # Note: CathPag is both a maintainer (maintain) and de approver (push)
+  - username: iamNoah1
+    permission: push
     
+  - username: DaveVentura
+    permission: push
+
+  # l10n it approvers
+  - username: Giulia-dipietro
+    permission: push
+
+  - username: meryem-ldn
+    permission: push
+
+  - username: annalisag-spark
+    permission: push
+
+  - username: sistella
+    permission: push
+
+  # l10n ar approvers
+
+  # l10n bn approvers
+
+
 branches:
 
   # Default branch of this repository for configurations and English contents
@@ -74,6 +119,111 @@ branches:
          - seokho-son
          - Eviekim
          - jihoon-seo
+        teams: []
+      enforce_admins: null
+      required_linear_history: null
+
+  # l10n branch for pt contents only
+  - name: dev-pt
+    protection:
+      required_pull_request_reviews:
+        required_approving_review_count: 2
+        require_code_owner_reviews: true
+      required_status_checks: null
+      restrictions:
+        apps: []
+        # pt approvers
+        users:
+         - edsoncelio
+         - brunoguidone
+        teams: []
+      enforce_admins: null
+      required_linear_history: null
+
+  # l10n branch for hi contents only
+  - name: dev-hi
+    protection:
+      required_pull_request_reviews:
+        required_approving_review_count: 2
+        require_code_owner_reviews: true
+      required_status_checks: null
+      restrictions:
+        apps: []
+        # hi approvers
+        users:
+         - Garima-Negi
+         - sayantani11
+         - anubha-v-ardhan
+         - jayesh-srivastava
+        teams: []
+      enforce_admins: null
+      required_linear_history: null
+
+  # l10n branch for de contents only
+  - name: dev-de
+    protection:
+      required_pull_request_reviews:
+        required_approving_review_count: 2
+        require_code_owner_reviews: true
+      required_status_checks: null
+      restrictions:
+        apps: []
+        # de approvers
+        users:
+         - CathPag
+         - iamNoah1
+         - DaveVentura
+        teams: []
+      enforce_admins: null
+      required_linear_history: null
+
+  # l10n branch for it contents only
+  - name: dev-it
+    protection:
+      required_pull_request_reviews:
+        required_approving_review_count: 2
+        require_code_owner_reviews: true
+      required_status_checks: null
+      restrictions:
+        apps: []
+        # it approvers
+        users:
+         - Giulia-dipietro
+         - meryem-ldn
+         - annalisag-spark
+         - sistella
+        teams: []
+      enforce_admins: null
+      required_linear_history: null
+
+  # l10n branch for ar contents only
+  - name: dev-ar
+    protection:
+      required_pull_request_reviews:
+        required_approving_review_count: 2
+        require_code_owner_reviews: true
+      required_status_checks: null
+      restrictions:
+        apps: []
+        # ar approvers
+        users:
+         - seokho-son
+        teams: []
+      enforce_admins: null
+      required_linear_history: null
+
+  # l10n branch for bn contents only
+  - name: dev-bn
+    protection:
+      required_pull_request_reviews:
+        required_approving_review_count: 2
+        require_code_owner_reviews: true
+      required_status_checks: null
+      restrictions:
+        apps: []
+        # bn approvers
+        users:
+         - seokho-son
         teams: []
       enforce_admins: null
       required_linear_history: null
