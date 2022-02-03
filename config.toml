@@ -70,6 +70,7 @@ weight = 1
 title = "Cloud Native Glossar"
 description = "Das CNCF Cloud Native Glossar soll als Referenz für gängige Begriffe dienen, die im Zusammenhang mit Cloud Native Anwendungen verwendet werden."
 languageName ="Deutsch"
+contentDir = "content/de"
 weight = 3
 
 
