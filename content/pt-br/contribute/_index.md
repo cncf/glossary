@@ -7,7 +7,7 @@ menu:
     pre: <i class='fas fa-pen-square'></i>
 ---
 
-O projeto do glossário Cloud Native é mantido [nesse repositório do Github](https://github.com/cncf/glossary), onde você consegue encontrar todas as [*issues*](https://github.com/cncf/glossary/issues), [*pull requests*]https://github.com/cncf/glossary/pulls) e [discussões](https://github.com/cncf/glossary/discussions) em aberto.
+O projeto do glossário Cloud Native é mantido [nesse repositório do Github](https://github.com/cncf/glossary), onde você consegue encontrar todas as [*issues*](https://github.com/cncf/glossary/issues), [pull requests](https://github.com/cncf/glossary/pulls) e [discussões](https://github.com/cncf/glossary/discussions) em aberto.
 
 Você pode contribuir de três formas:
 
@@ -15,23 +15,25 @@ Você pode contribuir de três formas:
 2) Atualizando termos existentes
 3) Traduzindo o glossário para seu idioma nativo
 
-<!--
 ## Faça parte da comunidade do glossário!
 
-
+<!--
 Consider joining our monthly Glossary Working Group meetings if you want to contribute regularly. You can find meeting details in the CNCF calendar. You can also connect with the maintainers and fellow contributors in our #glossary channel on the [CNCF calendar](https://www.cncf.io/calendar/) — we'd love to meet you! 
 
-## Propose new terms
-You can propose a new term for others to work on or create a new definition yourself. Either way, you'll start by creating an issue (note that you'll need a GitHub account to do this).
+-->
+## Sugira novos termos
+Você pode sugerir um novo termo para outra pessoas trabalharem na definição ou criar você mesmo. De qualquer forma, você deve 
+começar abrindo uma *issue* (importante notar que você precisa de uma conta do Github para isso).
 
-Below is a step-by-step guide for those not yet familiar with GitHub. **If you are a GitHub Pro**, please *do* have a quick look to make sure you use our issue templates, appropriate naming conventions, claim a PR on Slack (otherwise we may miss it), and where to find the file template. And please make sure to read the [Style Guide](https://glossary.cncf.io/style-guide/) before getting started — thank you! 
+Abaixo, temos um passo a passo para caso você ainda não esteja familiarizado com o Github. Caso você já seja familiar com o Github, garanta apenas que você está usando nossos templates de *issues*, com a convenção de nomes correta e seguindo o
+[guia de estilo](https://glossary.cncf.io/style-guide/).
 
-### Creating an issue
-Go to the [Glossary GitHub repo](https://github.com/cncf/glossary/issues) issues and click on "new issue."
+### Abrindo uma issue 
+Vá para as *issues* do [repositório no Github](https://github.com/cncf/glossary/issues) e clique em "nova issue".
 
 ![issues](/images/how-to/howto-01.png)
 
-You'll see a variety of templates. To propose a new term in English, select "English Language Glossary Request."
+Você vai ver alguns modelos, para sugerir um novo termo em Português, selecione "Portuguese Language Glossary Request".
 
 ![templates](/images/how-to/howto-02.png)
 

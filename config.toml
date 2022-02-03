@@ -67,11 +67,11 @@ weight = 1
 #time_format_default = "02.01.2006"
 #time_format_blog = "02.01.2006"
 
-[languages.pt]
+[languages.pt-br]
 title = "Glossário Cloud Native"
 description = "O Projeto CNCF Glossário Cloud Native se destina a ser usado como uma referência para termos comuns usados ao falar sobre aplicações nativas de nuvem."
 languageName = "Português"
-contentDir =  "content/pt"
+contentDir =  "content/pt-br"
 weight = 1
 
 [markup]
