@@ -29,6 +29,7 @@ Cavalcanti
 cd
 CDN
 CHANGELOG
+chatbot
 CIO
 CKA
 CKAD
