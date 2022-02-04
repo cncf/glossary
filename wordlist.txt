@@ -78,7 +78,9 @@ flaxman
 fu
 gcp
 github
+gitops
 gmail
+gmail's
 hackable
 handoffs
 highlight
