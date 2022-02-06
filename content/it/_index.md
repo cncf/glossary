@@ -16,9 +16,9 @@ Chiunque voglia contribuire può aprire una issue o una pull request su GitHub. 
 
 ## Riconoscimenti
 
-Il progetto del Glossario Cloud Native è un'iniziativa del Marketing Committee della CNCF (nello specifico del Business Value Subcommittee) e include contributi da[Catherine Paganini](https://www.linkedin.com/in/catherinepaganini/en/), [Chris Aniszczyk](https://www.linkedin.com/in/caniszczyk/),
+Il progetto del Glossario Cloud Native è un'iniziativa del Marketing Committee della CNCF (nello specifico del Business Value Subcommittee) e include contributi da [Catherine Paganini](https://www.linkedin.com/in/catherinepaganini/en/), [Chris Aniszczyk](https://www.linkedin.com/in/caniszczyk/),
 [Daniel Jones](https://www.linkedin.com/in/danieljoneseb/?originalSubdomain=uk), [Jason Morgan](https://www.linkedin.com/in/jasonmorgan2/), [Katelin Ramer](https://www.linkedin.com/in/katelinramer/) e [Mike Foster](https://www.linkedin.com/in/mfosterche/?originalSubdomain=ca). 
-
+La localizzazione del progetto in italiano è a cura di [Giulia Di Pietro](https://www.linkedin.com/in/giulia-dp/), [Meryem Fourdaous](https://www.linkedin.com/in/meryem-fourdaous-022346102/), [Annalisa Gennaro](https://www.linkedin.com/in/annalisagennaro/) [Francesco Sbaraglia](https://www.linkedin.com/in/fsbaraglia/) e [Simone Stella](https://www.linkedin.com/in/simostella/).
 
 ## Licenza
 
