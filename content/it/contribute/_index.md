@@ -88,7 +88,7 @@ Ora dovesti vedere la tua PR tra le "Pull requests".
 ## Modifica un termine esistente
 Per modificare un termine esistente, puoi decidere di proporre una modifica tramite una _issue_ o modificare direttamente il termine e creare una pull request (PR).
 
-### Richiedere una modifca tramite una _issue_
+### Richiedere una modifica tramite una _issue_
 Se vuoi riportare un problema con un termine ma non puoi/vuoi risolverlo da solo, clicca su "report issue"
 
 ![report issue](/images/how-to/howto-14.png)
