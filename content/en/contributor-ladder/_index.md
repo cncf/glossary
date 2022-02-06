@@ -51,7 +51,7 @@ There are three types of approvers:
 
 The Glossary also has localization approvers. These are approvers for one of the localization teams (teams translating the glossary). Localization approvers are only permitted to perform approver duties for their own team and have the ability to merge PRs to their dedicated development branch. Any localization approver can also become an approver for the English Glossary if they meet the requirements. 
 
-### Becoming an approver
+### Becoming an Approver
 
 Approver candidates should have a proven track record of submitting high-quality PRs and helping others get their PRs in a mergeable state. If their timezone permits, they should also regularly attend the [Glossary Working Group meetings](https://www.cncf.io/calendar/).
 
@@ -68,13 +68,13 @@ Maintainers are approvers who can also merge PRs. Anyone can become a Glossary m
 
 If a maintainer is no longer interested in or cannot perform the duties listed above, they should move themselves to emeritus status.  
 
-### Becoming a maintainer
+### Becoming a Maintainer
 
 Maintainers should have a proven track record of being successful approvers and submitting high-quality PRs. If their timezone permits, they should also regularly attend the Glossary Working Group meetings.
 
 To become a maintainer, start by expressing interest to existing maintainers. Existing maintainers will then ask you to demonstrate the qualifications above by contributing PRs, doing reviews, and doing other such tasks under their guidance. After some time of working together, maintainers will decide whether to grant maintainer status. This decision will be based on demonstrated level of proficiency and responsiveness.  
 
-## 4. Community managers
+## 4. Community Managers
 
 Community managers help foster a welcoming and engaging community.  Any community member can become a community manager. They are expected to:
 
@@ -82,7 +82,7 @@ Community managers help foster a welcoming and engaging community.  Any communit
 - Help answer questions from the community or identify someone who can help,
 - Moderate conversations on Slack.
 
-### Become a community manager
+### Become a Community Manager
 
 Anyone can become a Glossary community manager. Community managers must have a solid understanding of the contribution and localization process and enjoy interacting and helping others. To become a community manager, start by expressing interest to existing maintainers. After an onboarding/trial period, maintainers will decide whether to grant community manager status based on performance. 
 
