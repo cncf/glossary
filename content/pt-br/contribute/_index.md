@@ -17,10 +17,9 @@ Você pode contribuir de três formas:
 
 ## Faça parte da comunidade do glossário!
 
-<!--
-Consider joining our monthly Glossary Working Group meetings if you want to contribute regularly. You can find meeting details in the CNCF calendar. You can also connect with the maintainers and fellow contributors in our #glossary channel on the [CNCF calendar](https://www.cncf.io/calendar/) — we'd love to meet you! 
-
--->
+Considere participar das nossas reuniões mensais do grupo de trabalho do glossário se quiser contribuir regularmente. Você
+pode encontrar detalhes da reunião no calendário da CNCF. Você também pode falar com as pessoas mantenedoras e colaboradoras 
+em nosso canal `#glossary` no slack da CNCF. 
 ## Sugira novos termos
 Você pode sugerir um novo termo para outra pessoas trabalharem na definição ou criar você mesmo. De qualquer forma, você deve 
 começar abrindo uma *issue* (importante notar que você precisa de uma conta do Github para isso).
@@ -33,85 +32,92 @@ Vá para as *issues* do [repositório no Github](https://github.com/cncf/glossar
 
 ![issues](/images/how-to/howto-01.png)
 
-Você vai ver alguns modelos, para sugerir um novo termo em Português, selecione "Portuguese Language Glossary Request".
+Você vai ver alguns modelos, para sugerir um novo termo em Inglês, por exemplo, selecione "English Language Glossary Request".
 
 ![templates](/images/how-to/howto-02.png)
 
-Add the word you're suggesting and hit "submit new issue." If you're just proposing a new term, you're done! To work on it, follow the next steps.
+Adicione o termo que está sugerindo e clique em "submit new issue". Se você está apenas sugerindo um novo termo, está feito,
+para trabalhar nele siga os próximos passos.
 
 ![new issue](/images/how-to/howto-03.png)
 
-Please join the #glossary channel on the CNCF Slack and let @Catherine Paganini, @jmo, and @Seokho Son know that you've submitted an issue and would like to work on it. They'll assign the issue to you signaling to everyone else that the term is already taken.
+Entre no canal `#glossary` no slack da CNCF e fale com @CatherinePaganini, @jmo e @SeokhoSon informando que você abriu uma
+*issue* para um novo termo e gostaria de trabalhar nisso. Assim, eles irão atribuir a *issue* a você, sinalizando que você
+já está trabalhando naquele termo.
 
-Here you can see that the first three terms are available while the next term has been assigned to someone.
+Aqui você pode ver que os três primeiros termos estão disponíveis enquanto que o último foi atribuído a alguém. 
 
 ![assigning a term](/images/how-to/howto-04.png)
 
-Note that you can only claim one term at a time. If you want to work on multiple terms, please finish one before claiming the next.
+Observe que você só pode solicitar a atribuição de um termo por vez. Se você quiser trabalhar em vários termos, termine um antes de solicitar o próximo.
 
-### Submitting a new term (creating a PR)
+### Propondo um novo termo (criando um pull request)
 
-Before getting started, please read the [Style Guide](https://glossary.cncf.io/style-guide/) — it will help minimize backs and forth. As stated in the style guide, we highly recommend starting with a Google or Word doc. 
+Antes de começar, leia o [guia de estilo](https://glossary.cncf.io/style-guide/), isso vai ajudar nos processos de revisão. Como citado no guia de estilo, recomendamos
+que você comece escrevendo um documento de texto.
 
-Once the term is ready to submit, go to content (under code)…
+Uma vez que o termo esteja pronto para submeter o pull request, vá para o diretório `content/`:
 
 ![content](/images/how-to/howto-05.png)
 
-…then "en" (or the language you are submitting for)…
+
+Então `en/` (ou o diretório da linguagem que está propondo o termo):
 
 ![language folder](/images/how-to/howto-06.png)
 
-…and select  _TEMPLATE.md
+e selecione o arquivo `_TEMPLATE.md`:
 
 ![template](/images/how-to/howto-07.png)
 
-Copy the content…
+Copie o conteúdo:
 
 ![copy content](/images/how-to/howto-08.png)
 
-…and go back to the "en" folder. Hit "add file" and select "create new file."
+E de volta ao diretório `en/`, clique em "add file" e selecione "Create new file":
 
 ![create new file](/images/how-to/howto-09.png)
 
-Add the term name in the URL (no capitalization and no space) and .md at the end (if you the preview doesn't work, you probably forgot to add .md). Now past the template content below. Copy and paste your definition into the file. Note that GitHub uses markdown to format the text (e.g., hyperlink, bold, italic). Please refer to this [markdown cheat sheet](https://www.markdownguide.org/cheat-sheet/). To view how this will look like, go to "preview."
+Adicione o nome do termo na URL (sem letras maiúsculas ou espaços) e com a extensão`.md` no final do arquivo. Agora cole o conteúdo do modelo abaixo. Copie e cole sua definição
+no arquivo. Observe que o Github usa markdown para formatar o texto (por exemplo, links, negrito, itálico). Para mais informações sobre markdown, consulte essa 
+[folha de dicas de markdown](https://www.markdownguide.org/cheat-sheet/). Para ver como ficou, vá para "preview'.
 
 ![finalize term](/images/how-to/howto-10.png)
 
-Scroll down and name the new commit file when you are ready to submit. You are now about to commit the term to your own branch. Submitting a PR requires one more step. Hit "commit new file" and…
+Role para baixo e nomeie o arquivo que vai ser submetido quando estiver pronto. Agora você está prestes a enviar o termo para a sua própria *branch* do Github. Para submeter o pull request você tem que realizar mais um passo. Clique em "commit new file":
 
 ![commit new file](/images/how-to/howto-11.png)
 
-…now you're creating an PR:
+Agora, criando o pull request:
 
 ![create a pr](/images/how-to/howto-12.png)
 
-You should now see your PR under "Pull requests."
+Agora você já deve ver seu pull request em "Pull Requests":
 
 ![prs](/images/how-to/howto-13.png)
 
-## Update an existing term
-To update an existing term, you can either suggest a change via an issue or go ahead and update the term directly by submitting a pull request (PR).
+## Atualizando um termo existente
+Para atualizar um termo existente, você pode sugerir uma mudança abrindo uma *issue* ou diretamente criando um pull request.
 
-### Request a change via an issue
-If you want to flag a problem with a term but don't know how or want to fix it yourself, click on "report issue."
-
+### Solicitando uma mudança por meio de uma issue
+Se você quer informar um problema com um termo mas não sabe ou não quer corrigir você mesmo, clique em "report issue":
+ 
 ![report issue](/images/how-to/howto-14.png)
 
-This will directly open an issue. Please elaborate on which change is needed and why. Hit submit, and that's it. 
+Isso vai imediatamente vai abrir uma *issue*. Escreva quais mudanças são necessárias e o motivo. Clique em "submit" para enviar:
 
 ![submit issue](/images/how-to/howto-15.png)
 
-### Update a term directly
-To change a term directly, go to "edit this page." 
+### Atualizando diretamente um termo
+Para alterar um termo diretamente, vá para "edit this page":
 
 ![edit this page](/images/how-to/howto-16.png)
 
-This will open the term's GitHub page. Make your changes and submit a PR. Please refer to "submitting a new term" above for a detailed description (jump to the section that speaks about markdown).
+Isso vai abrir a definição do termo no Github. Faça suas alterações e envie um pull request. Consulte a seção "Propondo um novo termo (criando um pull request)" acima para 
+informações detalhadas sobre como fazer isso.
 
-## Help translate the glossary
-To help translate the glossary into your native language, please join the #glossary-localizations channel on the CNCF Slack and let us know. You can either join an existing team or create a new one. Please also join our monthly Glossary Working Group meetings. You can find meeting details in the [CNCF calendar](https://www.cncf.io/calendar/). We look forward to meeting you there!
-
--->
+## Ajude a traduzir o glossário
+Para ajudar a traduzir o glossário para o seu idioma nativo, participe do canal `#glossary-localizations` no slack da CNCF. Você pode fazer parte de um time existente ou
+criar uma novo. Participe também das reuniões mensais do grupo de trabalho do glossário. Você pode encontrar detalhes da reunião no [calendário da CNCF](https://www.cncf.io/calendar/).
 
 
 
