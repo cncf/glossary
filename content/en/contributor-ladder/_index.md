@@ -1,5 +1,5 @@
 ---
-title: CNCF Cloud Native Glossary Contributor Ladder
+title: Contributor Ladder
 toc_hide: true
 menu:
   main:
