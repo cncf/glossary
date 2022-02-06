@@ -7,28 +7,28 @@ menu:
     pre: <i class='fas fa-ruler-horizontal'></i>
 ---
 
-This style guide will help you understand the Glossary audience, definition structure, required level of detail, and how to maintain a consistent style.
+Este guia de estilo ajudará você a entender o público algo do glossário, estrutura das definições, nível de detalhamento necessário e como manter um estilo consistente.
 
-The Cloud Native Glossary follows the [default style guide](https://github.com/cncf/foundation/blob/master/style-guide.md) of the CNCF repository. Additionally, it follows the following rules:
+O glossário Cloud Native segue o [guia de estilo padrão da CNCF](https://github.com/cncf/foundation/blob/master/style-guide.md). Além disso, segue as seguintes regras:
 
-1. Use simple, accessible language, avoiding technical jargon and buzzwords
-2. [Avoid colloquial language](https://en.wikipedia.org/wiki/Colloquialism)
-3. [Use literal and concrete language](http://guidetogrammar.org/grammar/composition/abstract.htm)
-4. [Omit contractions](https://en.wikipedia.org/wiki/Contraction_(grammar))
-5. [Use passive voice sparingly](https://www.ef.com/ca/english-resources/english-grammar/passive-voice/)
-6. [Aim to phrase statements in a positive form](https://examples.yourdictionary.com/positive-sentence-examples.html) 
-7. [No exclamation marks outside of quotations](https://www.grammarly.com/blog/exclamation-mark/)
-8. Do not exaggerate
-9. Avoid repetition
-10. Be concise
+1. Use uma linguagem simples e acessível, evitando jargões técnicos e *buzzwords*
+2. Evite usar [linguagem coloquial](https://pt.wikipedia.org/wiki/Linguagem_coloquial)
+3. Use uma [linguagem literal e concreta](http://guidetogrammar.org/grammar/composition/abstract.htm)
+4. Evite usar [contrações](https://en.wikipedia.org/wiki/Contraction_(grammar))
+5. Use a [voz passiva]((https://www.ef.com/ca/english-resources/english-grammar/passive-voice/)) com moderação
+6. Busque usar [declarações de forma positiva](https://examples.yourdictionary.com/positive-sentence-examples.html) 
+7. Em citações, não use [pontos de exclamação fora das aspas](https://www.grammarly.com/blog/exclamation-mark/)
+8. Evita usar exageros
+9. Evite usar repetições
+10. Seja conciso
 
-## Audience
+## Público alvo
 
-The Glossary is written for a technical AND non-technical audience. Please ensure definitions are explained in simple terms and don’t assume technical knowledge. More do that below under Definition.
+O glossário foi escrito para um público alvo técnico e não técnico. Certifique-se de que as definições estejam explicadas em termos simples que não presumam conhecimento técnico prévio. 
 
-## Definition Template
+## Modelo para as definições
 
-Each glossary term is stored in a markdown file and follows this template:
+Cada definição do glossário é escrita em um arquivo markdown, baseada no seguinte modelo:
 
 ```md
 ---
@@ -37,95 +37,98 @@ status:
 category: 
 ---
 
-## What it is
+## What it is (em português:  )
 
-A quick summary of the technology or concept.
+Um breve resumo da tecnologia ou conceito.
 
-## Problem it addresses 
+## Problem it addresses (em português)
 
-A few lines about the problem it's addressing.
+Algumas linhas sobre o problema que está abordando.
 
 ## How it helps
 
-A few lines on how the thing solves the problem.
+Algumas linhas sobre como como a tecnologia ou o conceito resolve o problema abordado.
 ```
 
-### Title
+### Título
 
-The **title** label will always be at the top of a definition layout, and its value should be in title case. 
+A label `title` sempre vai estar no início de uma definição contendo o título, o valor sempre deve começar com letras maiúsculas.
 
 ```md
 ---
-title: Definition Template
+title: Modelo de Definição
 ```
 
 ### Status
 
-The **status** label will come after the title label. The status label indicates whether definitions are thoroughly vetted or require more effort.
+> Importante: para localização em português o valor dessa *label* não deve ser traduzido.
 
-Valid values are: 
+A label `status` vem logo depois da label de título. Essa label serve para indicar se a definição já está completamente revisada e aprovada, ou se requer mais esforços.
 
-- Completed
-- Feedback Appreciated 
-- Not Started
 
-You can always open an issue against a completed definition. While a definition is in flux, its status will be changed to *Feedback Appreciated*.
+Os valores aceitos são:
+- Completed (em português, finalizado)
+- Feedback Appreciated  (em português, aceitando feedbacks)
+- Not Started (em português, não iniciado)
 
-```md
----
-title: Definition Template
-status: Feedback Appreciated
-```
-
-### Category
-
-The **category** label will come after the status label. Its value should be one of the following values:
-
-- Technology
-- Property
-- Concept
+Você sempre pode abrir um bug (uma *issue* do Github) para uma definição que já está concluída. Enquanto estiver em um fluxo de mudanças, o status vai ser alterado para *Feedback Appreciated*.
 
 ```md
 ---
-title: Definition Template
+title: Modelo de Definição
 status: Feedback Appreciated
-category: Concept
+```
+
+### Categoria
+
+A label `categoria` vem logo depois da label de status. O valor deve ser um dos seguintes:
+
+- tecnologia
+- propriedade
+- conceito
+
+```md
+---
+title: Modelo de Definição
+status: Feedback Appreciated
+category: Conceito
 ---
 ```
 
-### Definition
+### Definição do glossário
 
-#### Three subheadings
+#### Subcabeçalhos
+As definições para **tecnologia** e **conceito** contém três subcabeçalhos:
 
-The definitions for **technology** and **concept** categories contain three subheadings: 
+- **O que é**: forneça uma visão curta e clara da definição abordada.
+- **Que problema isso resolve**: foque no problema e não na solução (que vem na seção seguinte), e se puder, não mencione o termo que está sendo definido.
+- **Como isso resolve o problema**: nessa seção volte ao termo e explique como ele resolve o problema da seção anterior.
 
-- **What it is**: provide a short and clear overview of what we are talking about.
-- **Problem it addresses**: focus on the problem, not the solution (that comes in the next section). In fact, avoid mentioning the term that is defined. The problem focuses on *what* led us to need that thing. 
-- **How it helps**: now, come back to the term. How does it address the problem described above?
+As definições de **propriedade** não requerem essas três seções separadas, apenas a definição do termo é suficiente.
 
-Note that **properties** don't require separate sections. A definition will suffice. 
+#### Busque manter as definições simples
 
-#### Keeping it simple
+O glossário busca ***explicar conceitos complexos em poucas palavras**, o que torna uma tarefa muito difícil e que provavelmente vai exigir muitas revisões. Sempre tenha em mente
+o público alvo ao escrever (ou traduzir) sua definição e evite usar termos e jargões técnicos.
 
-The Glossary aims at **explaining complex concepts in simple words** — that is a surprisingly difficult task that will likely take multiple revisions. Always keep the audience in mind when drafting your definition. Avoid using industry terms and buzzwords — you'll probably catch yourself going back to them and may need to autocorrect. 
+Quando apropriado, use **exemplos do mundo real** que ajudam os leitores (especialmente não técnicos) a entender melhor *quando* e *por que* a definição explicada é relevante.
 
-When appropriate, use **real-world examples** that help readers (especially non-technical ones) better understand *when* and *why* the concept you’re explaining is relevant. 
+Quando usado na sua definição, sempre aponte para termos existentes do glossário (apenas a primeira menção deve ser um *link*).
 
-When used in your definition, always **link to existing glossary terms** (only the first mention should be hyperlinked).
+**Exemplo**: veja seção "O que é" da definição de [service mesh](https://glossary.cncf.io/service_mesh/). Ele se refere aos conceitos de microsserviços, serviços, confiabilidade e observabilidade. Além disso, é usado um exemplo do mundo real comparando desafios de rede em um ambiente de microsserviços (algo que pessoas não técnicas pode não ter conhecimento prévio) a problemas de *wifi* (algo que qualquer pessoa usando um computador pode entender). Sempre que possível tente fazer esse tipo de conexão. 
 
-**Example**: take a look at the “What it is” section of the [service mesh definition](https://glossary.cncf.io/service_mesh/). It links back to the microservices, service, reliability, and observability definitions. Additionally, it uses a real-world example comparing network challenges in a microservices environment (something non-technical people can't relate to) to wifi problems (something anyone using a laptop can understand). Where possible, try to make that connection. 
+#### Comece com um documento de texto
 
-#### Start with a Google or Word doc
+Recomendamos começar com um documento de texto, revisando por alguns algumas vezes durante alguns dias. Isso vai permitir que você identifique frases ou expressões que poderiam
+ser escritas de uma forma mais simples e acessíveis. Além disso, execute uma revisão ortográfica antes de enviar o Pull Request.
 
-We recommend starting with a Google or Word doc, letting it sit for a few days, and revisiting again. This will allow you to catch phrases or expressions that could be worded in a simpler and more accessible way. Also, make sure to run a spellcheck before submitting a PR.
+Para garantir que outra pessoa não envie um Pull Request enquanto estiver trabalhando em uma definição, tenha certeza de solicitar que uma *issue* (caso exista) seja atribuída a você ou crie uma caso não exista. Mais informações sobre isso consulte a página sobre [como contribuir](https://glossary.cncf.io/contribute/).
 
-To ensure no one else submits a PR while working on a term, make sure to claim an issue (or create one) and that it is assigned to you.  More to that in the [How To Contribute](https://glossary.cncf.io/contribute/) doc.
+Além disso, antes de começar leia algumas das definições já publicadas no glossário para ter uma ideia do nível de detalhes, dificuldades e quando é apropriado usar exemplos.
 
-Before getting started, please read some of the published Glossary terms to get a feeling for the level of detail and difficulty and when examples are appropriate.
+## O que esperar do processo de revisão
 
+É importante ressaltar que até o momento somos apenas três pessoas mantenedoras fazendo isso no tempo livre. Ocasionalmente os termos podem ser revisados rapidamente ou podem levar algum tempo, por isso agradecemos a paciência. Se tive alguma dúvida, entre em contato no canal `#glossary`do slack, para saber onde e como encontrá-lo, consulte a página 
+de [como contribuir](https://glossary.cncf.io/contribute/).
 
-## The review process: what to expect
-
-Please note that we are currently only three maintainers doing this in their spare time. Occasionally, we'll be able to review terms quickly; on other occasions, it may take some time — we appreciate your patience. If you have any questions, please get in touch with us in the #glossary Slack channel (for where and how to find it, please refer to our [How To Contribute](https://glossary.cncf.io/contribute/) doc).
-
-Our goal is for the Glossary to be the best possible resource. Once you submit a PR, we may ask for one or more revisions. Don't be frustrated — that is the case for many PRs. Those backs and forth and our collaboration will ensure that your contribution becomes a truly useful definition read and referred to by readers all around the globe.
+Nosso objetivo é que o glossário seja o melhor recurso possível, por isso é normal que depois que envie um Pull Request solicitarmos uma ou mais revisões. Não se frustre, esse processo de revisão  e a nossa colaboração é o que vai garantir que a sua contribuição se torne uma definição verdadeiramente útil lida e consultada por leitores de todo o mundo. 
