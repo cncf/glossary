@@ -7,7 +7,7 @@ menu:
     pre: <i class='fas fa-ruler-horizontal'></i>
 ---
 
-Este guia de estilo ajudará você a entender o público algo do glossário, estrutura das definições, nível de detalhamento necessário e como manter um estilo consistente.
+Este guia de estilo ajudará você a entender o público alvo do glossário, estrutura das definições, nível de detalhamento necessário e como manter um estilo consistente.
 
 O glossário Cloud Native segue o [guia de estilo padrão da CNCF](https://github.com/cncf/foundation/blob/master/style-guide.md). Além disso, segue as seguintes regras:
 
@@ -37,11 +37,11 @@ status:
 category: 
 ---
 
-## What it is (em português:  )
+## What it is
 
 Um breve resumo da tecnologia ou conceito.
 
-## Problem it addresses (em português)
+## Problem it addresses
 
 Algumas linhas sobre o problema que está abordando.
 
