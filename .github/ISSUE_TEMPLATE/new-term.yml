@@ -1,0 +1,24 @@
+name: Request to add a new term (English)
+description: Issue to add a new term in English
+title: "[New term] `GlossaryTermHere`"
+labels: ["lang/en","new term"]
+body:
+  - type: textarea
+    id: details
+    attributes:
+      label: Please describe why this term needs to be added
+      value: |
+        #### What this term is about? (briefly)
+        - 
+        #### Why this term needs to be added? (briefly) 
+        - 
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: |
+        ---
+        ## Thanks for taking the time to add a request to the glossary!
+        To claim this issue, please ask for it below. 
+        The maintainers will assign a contributor to this issue.
+        Before getting started, please refer to the [style guide](https://glossary.cncf.io/style-guide/).
