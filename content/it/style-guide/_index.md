@@ -130,6 +130,6 @@ Ultimo suggerimento di carattere redazionale, prima di buttarti nella scrittura,
 
 ## Il processo di revisione: cosa aspettarsi 
 
-Innanzitutto vorremmo far presente che i maintainer di questo progetto sono solo tre e che se ne occupano nel loro tempo libero, per cui a volte saranno più rapidi, altre volte avranno bisogno di più tempo per rispondere e revisionare: abbi pazienza. Per qualunque domanda, però, mettiti in contatto con loro o con i gruppi di lavoro sul canale #glossary dello Slack CNCF (per approfondimenti ti rimandiamo a [Come contribuire](https://glossary.cncf.io/contribute/) doc).
+Innanzitutto vorremmo far presente che i maintainer di questo progetto sono solo tre e che se ne occupano nel loro tempo libero, per cui a volte saranno più rapidi, altre volte avranno bisogno di più tempo per rispondere e revisionare: abbi pazienza. Per qualunque domanda, però, mettiti in contatto con loro o con i gruppi di lavoro sul canale #glossary dello Slack CNCF (per approfondimenti ti rimandiamo alla sezione [Come contribuire](https://glossary.cncf.io/contribute/)).
 
 L'obiettivo è quello di realizzare una risorsa, il Glossario, che sia migliore possibile. Quando aprirai una PR, probabilmente ti verranno richieste una o più revisioni. Non lasciarti andare alla frustrazione: si tratta di richieste comuni alla maggior parte delle PR aperte. L'andirivieni, insieme alla collaborazione di più teste, assicurerà un contributo davvero utile per l'intero parco lettori sparsi per il mondo. 
