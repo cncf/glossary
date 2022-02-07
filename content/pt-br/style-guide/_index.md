@@ -108,7 +108,7 @@ As definições de **propriedade** não requerem essas três seções separadas,
 
 #### Busque manter as definições simples
 
-O glossário busca ***explicar conceitos complexos em poucas palavras**, o que torna uma tarefa muito difícil e que provavelmente vai exigir muitas revisões. Sempre tenha em mente
+O glossário busca **explicar conceitos complexos em poucas palavras**, o que torna uma tarefa muito difícil e que provavelmente vai exigir muitas revisões. Sempre tenha em mente
 o público alvo ao escrever (ou traduzir) sua definição e evite usar termos e jargões técnicos.
 
 Quando apropriado, use **exemplos do mundo real** que ajudam os leitores (especialmente não técnicos) a entender melhor *quando* e *por que* a definição explicada é relevante.
