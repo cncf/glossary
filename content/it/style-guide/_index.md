@@ -117,7 +117,7 @@ Quando opportuno, fa' riferimenti ad **esempi reali** che aiutino i lettori (sop
 
 Se vengono menzionati lemmi che sono già disponibili, ricordati di **inserire un link alla definizione presente nel Glossario** (linka il termine la prima volta che viene usato nel testo, non è necessario tu lo faccia ancora se il termine viene ripetuto).
 
-**Esempio**: dà un'occhiata al paragrafo "Cos'è" del [lemma service mesh] (https://glossary.cncf.io/service_mesh/). Se noti, contiene link ai termini microservices, service, reliability e observability. Inoltre, il confronto tra le criticità della network in un ambiente a microservizi (qualcosa di tecnico con cui è difficile relazionarsi da non tecnici) con le problematiche di una rete wi-fi (un esempio che chiunque usi un portatile può capire)) permette una migliore comprensione generale. Quando possibile, cerca di individuare una connessione simile tra i due mondi.
+**Esempio**: dà un'occhiata al paragrafo "Cos'è" del [lemma service mesh] (https://glossary.cncf.io/service_mesh/). Se noti, contiene link ai termini microservices, service, reliability e observability. Inoltre, il confronto tra le criticità della network in un ambiente a microservizi (qualcosa di tecnico con cui è difficile relazionarsi da non tecnici) con le problematiche di una rete wi-fi (un esempio che chiunque usi un portatile può capire) permette una migliore comprensione generale. Quando possibile, cerca di individuare una connessione simile tra i due mondi.
 
 #### Inizia con un Word o un Google doc
 
