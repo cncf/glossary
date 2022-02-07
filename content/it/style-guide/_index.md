@@ -28,7 +28,7 @@ Consigliamo di dare un'occhiata a questi [set di regole grammaticali](https://gr
 
 ## Audience
 
-Il Glossario è scritto sia per un'audience tecnica sia per un'audience NON-tecnica. Per questa ragione assicurati che le definizioni siano espresse in termini semplici e che non diano per scontata una conoscenza tecnica pregressa. Lo spieghiamo meglio nel paragrafo *Definizioni*.
+Il Glossario è scritto sia per un'audience tecnica sia per un'audience NON-tecnica. Per questa ragione assicurati che le definizioni siano espresse in termini semplici e che non diano per scontata una conoscenza tecnica pregressa. Lo spieghiamo meglio nel paragrafo [*Definizioni*](#template-definizioni).
 
 ## Template Definizioni
 
