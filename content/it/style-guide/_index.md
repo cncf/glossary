@@ -26,7 +26,7 @@ Il Glossario Cloud Native rispetta la [style guide di base](https://github.com/c
 Consigliamo di dare un'occhiata a questi [set di regole grammaticali](https://grammatica-italiana.dossier.net/grammatica-italiana-17.htm) e alle [40 regole di scrittura di Umberto Eco per scrivere bene in italiano](https://bologna.unicusano.it/universita/scrivere-correttamente-in-italiano/). Possono essere di aiuto.
 
 
-## Audience
+## Destinatari
 
 Il Glossario è scritto sia per un'audience tecnica sia per un'audience NON-tecnica. Per questa ragione assicurati che le definizioni siano espresse in termini semplici e che non diano per scontata una conoscenza tecnica pregressa. Lo spieghiamo meglio nel paragrafo [*Definizioni*](#template-definizioni).
 
