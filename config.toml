@@ -72,7 +72,7 @@ title = "Glossário Cloud Native"
 description = "O Projeto CNCF Glossário Cloud Native se destina a ser usado como uma referência para termos comuns usados ao falar sobre aplicações nativas de nuvem."
 languageName = "Português"
 contentDir =  "content/pt-br"
-weight = 1
+weight = 2
 
 [markup]
   [markup.goldmark]
