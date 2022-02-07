@@ -63,6 +63,7 @@ weight = 1
 title = "Glossario Cloud Native"
 description = "Il progetto del Glossario CNCF Cloud Native è pensato per essere un riferimento per i termini comuni, usati nell'ambito delle applicazioni cloud native."
 languageName = "Italiano"
+contentDir = "content/it"
 # Weight used for sorting.
 weight = 2
 
