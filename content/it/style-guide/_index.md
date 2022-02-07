@@ -125,7 +125,7 @@ Ti suggeriamo di iniziare a lavorare su un Word o un Google doc, in modo da lasc
 
 Per avere la certezza di non aprire una PR sovrapponendoti a qualcun altro o viceversa, fa' in modo di richiedere l'assegnazione di una issue (o di aprirne una). Per saperne di più leggi [Come contribuire](https://glossary.cncf.io/contribute/).
 
-Ultimo suggerimento di carattere redazionale, prima di buttarti nella scrittura, prova a leggere qualche termine già pubblicato nel Glossario in modo da intuire il livello di dettaglio richiesto e le relative difficoltà, nonché l'utilizzo di esempi, come già citato sopra.
+Ultimo suggerimento di carattere redazionale, prima di buttarti nella scrittura: prova a leggere qualche termine già pubblicato nel Glossario in modo da intuire il livello di dettaglio richiesto e le relative difficoltà, nonché l'utilizzo di esempi, come già citato sopra.
 
 
 ## Il processo di revisione: cosa aspettarsi 
