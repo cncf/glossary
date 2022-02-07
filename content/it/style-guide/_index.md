@@ -7,7 +7,7 @@ menu:
     pre: <i class='fas fa-ruler-horizontal'></i>
 ---
 
-Questa guida ti aiuterà a comprendere la target audience del Glossario, la struttura delle definizioni, il livello di dettaglio richiesto e come mantenere uno stile coerente.
+Questa guida ti aiuterà a comprendere chi sono i destinatari del Glossario, la struttura delle definizioni, il livello di dettaglio richiesto e come mantenere uno stile coerente.
 
 Il Glossario Cloud Native rispetta la [style guide di base](https://github.com/cncf/foundation/blob/master/style-guide.md) del repository CNCF, ma si è posto regole aggiuntive e specifiche:
 
