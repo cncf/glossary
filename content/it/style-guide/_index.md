@@ -49,7 +49,7 @@ Una breve spiegazione della tecnologia o del concetto.
 
 Qualche riga per inquadrare il problema che viene affrontato. 
 
-## In cosa aiuta
+## In che modo aiuta
 
 Un breve paragrafo per spiegare come la tecnologia o il concetto in questione risolvano il problema delineato.
 ```
