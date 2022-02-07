@@ -56,7 +56,7 @@ Un breve paragrafo per spiegare come la tecnologia o il concetto in questione ri
 
 ### Title
 
-All'inizio di una definizione si troverà l'etichetta **title** il cui valore deve essere espresso in title case (ogni elemento costituente il titolo deve iniziare con la maiuscola).
+All'inizio di una definizione si troverà l'etichetta **title** il cui valore deve essere espresso in *title case* (ogni elemento costituente il titolo deve iniziare con la maiuscola).
 
 ```md
 ---
