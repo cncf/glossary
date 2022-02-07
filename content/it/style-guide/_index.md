@@ -45,7 +45,7 @@ category:
 
 Una breve spiegazione della tecnologia o del concetto. 
 
-## Quali problematiche risolve
+## Quali problematiche affronta
 
 Qualche riga per inquadrare il problema che viene affrontato. 
 
