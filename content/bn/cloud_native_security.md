@@ -6,7 +6,7 @@ category: concept
 
 ## এটা কি
 
-Cloud native security is an approach that builds security into [cloud native applications](/cloud_native_apps/). It ensures that security is part of the entire application lifecycle from development to production. Cloud native security seeks to ensure the same standards as traditional security models while adapting to the particulars of cloud native environments, namely rapid code changes and highly ephemeral infrastructure. Cloud native security is highly related to the practice called [DevSecOps](/devsecops/).
+ক্লাউড নেটিভ সিকিউরিটি এমন একটি পদ্ধতি যা [ক্লাউড নেটিভ অ্যাপ্লিকেশন](/cloud_native_apps/) এ নিরাপত্তা তৈরি করে। এটি নিশ্চিত করে যে নিরাপত্তা উন্নয়ন থেকে উৎপাদন পর্যন্ত সমগ্র অ্যাপ্লিকেশন জীবনচক্রের অংশ। ক্লাউড নেটিভ সিকিউরিটি ক্লাউড নেটিভ এনভায়রনমেন্টের বিবরণ, যথা দ্রুত কোড পরিবর্তন এবং অত্যন্ত ক্ষণস্থায়ী অবকাঠামোর সাথে খাপ খাওয়ানোর সময় প্রথাগত নিরাপত্তা মডেলের মতো একই মান নিশ্চিত করতে চায়। ক্লাউড নেটিভ নিরাপত্তা [DevSecOps](/devsecops/) নামক অনুশীলনের সাথে অত্যন্ত সম্পর্কিত।
 
 ## Problem it addresses
 
