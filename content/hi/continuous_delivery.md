@@ -1,7 +1,7 @@
 ---
 title: निरंतर डिलीवरी (CD)
 status: Completed
-category: concept
+category: अवधारणा
 ---
 
 ## यह क्या है 
