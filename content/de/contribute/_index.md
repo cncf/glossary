@@ -16,7 +16,7 @@ Es gibt drei Möglichkeiten sich zu beteiligen:
 3) Bei der Übersetzung helfen
 
 ## Werde Mitglied der Glossar-Community!
-Wer regelmäßig einen Beitrag leisten möchten, sollte an den monatlichen Treffen der Glossar-Arbeitsgruppe teilnehmen. Details zu den Treffen befinden sich im CNCF-Kalender. Ihr könnt euch auch mit den Betreuern und anderen Mitwirkenden in unserem #glossary Kanal über den [CNCF Kalender] (https://www.cncf.io/calendar/) austauschen - wir freuen uns auf euch! 
+Wer regelmäßig einen Beitrag leisten möchten, sollte an den monatlichen Treffen der Glossar-Arbeitsgruppe teilnehmen. Details zu den Treffen befinden sich im [CNCF Kalender] (https://www.cncf.io/calendar/). Ihr könnt euch auch mit den Betreuern und anderen Mitwirkenden in unserem #glossary Kanal über Slack austauschen - wir freuen uns auf euch! 
 
 ## Neue Begriffe vorschlagen
 Ihr könnt neue Begriffe vorschlagen, an dem andere arbeiten sollen, oder selbst eine neue Definition erstellen. Der erste Schritt ist jedenfalls das Erstellen eines GitHub Issues für ein neues Anliegen (ein GitHub-Konto wird benötigt).
@@ -68,7 +68,7 @@ den Inhalt kopieren ...
 
 ![Neue Datei anlegen](/images/how-to/howto-09.png)
 
-Füge den Namen des Begriffs in die URL ein (keine Großschreibung und kein Leerzeichen) mit dem Appendix ".md" (wenn die Vorschau nicht funktioniert, wurde das Appendix ".md" nicht korrekt hinzuzugefügt). Jetzt kann die ausgefüllte Vorlage eingefügt werden. Bitte beachten, dass GitHub Markdown verwendet wird um den Text zu formatieren (z. B. Hyperlink, fett, kursiv). Hier ein [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/). Unter "Vorschau" kann man sehen wie der Text aussehen wird.
+Füge den Namen des Begriffs in die URL ein (keine Großschreibung und kein Leerzeichen) mit dem Appendix ".md" (wenn die Vorschau nicht funktioniert, wurde das Appendix ".md" nicht korrekt hinzuzugefügt). Jetzt kann die ausgefüllte Vorlage eingefügt werden. Bitte beachte, dass GitHub Markdown verwendet um den Text zu formatieren (z. B. Hyperlink, fett, kursiv). Hier ein [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/). Unter "Vorschau" kann man sehen wie der Text aussehen wird.
 
 ![Finalisieren](/images/how-to/howto-10.png)
 
@@ -86,11 +86,11 @@ Ab jetzt kannst du deinen erstellten Pull Requests hier verfolgen:
 
 ## Bestehenden Begriff aktualisieren
 
-Um einen bestehenden Begriff zu aktualisieren, kannst Du entweder eine Änderung über ein neues GitHub Issue vorschlagen oder den Begriff direkt aktualisieren, indem du einen Pull Request einreichst.
+Um einen bestehenden Begriff zu aktualisieren, kannst du entweder eine Änderung über ein neues GitHub Issue vorschlagen oder den Begriff direkt aktualisieren, indem du einen Pull Request einreichst.
 
 ### Problem melden via GitHub Issue
 
-Falls Du ein Problem mit einem Begriff melden, es aber nicht selber beheben möchtest oder kannst, klicke einfach auf "Problem melden".
+Falls du ein Problem mit einem Begriff melden, es aber nicht selber beheben möchtest oder kannst, klicke einfach auf "Problem melden".
 
 ![Problem melden](/images/how-to/howto-14.png)
 
@@ -104,7 +104,7 @@ Um einen Begriff direkt zu ändern, klicke auf "Diese Seite anpassen".
 
 ![Seite anpassen](/images/how-to/howto-16.png)
 
-Dadurch wird die GitHub-Seite des Begriffs geöffnet. Du kannst jetzt Anpassungen durchführen und einen Pull Request einreichen. Eine ausführliche Beschreibung findet sich weiter oben unter "Begriff einreichen" (Du kannst direkt zu dem Abschnitt springen, in dem es um Markdown geht).
+Dadurch wird die GitHub-Seite des Begriffs geöffnet. Du kannst jetzt Anpassungen durchführen und einen Pull Request einreichen. Eine ausführliche Beschreibung findet sich weiter oben unter "Begriff einreichen" (du kannst direkt zu dem Abschnitt springen, in dem es um Markdown geht).
 
 ## Hilf bei der Übersetzung des Glossars
 Falls du helfen möchtest, das Glossar in deine Muttersprache zu übersetzen, tritt dem Kanal #glossary-localizations auf dem CNCF Slack bei und lass es uns wissen. Du kannst entweder einem bestehenden Team beitreten oder ein neues Team gründen. Bitte nimm dazu auch an unseren monatlichen Treffen der Glossar-Arbeitsgruppe teil. Details zu den Treffen finden sich im [CNCF-Kalender] (https://www.cncf.io/calendar/). Wir freuen uns darauf, euch dort zu treffen!
