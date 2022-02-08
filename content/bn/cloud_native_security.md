@@ -8,7 +8,7 @@ category: concept
 
 ক্লাউড নেটিভ সিকিউরিটি এমন একটি পদ্ধতি যা [ক্লাউড নেটিভ অ্যাপ্লিকেশন](/cloud_native_apps/) এ নিরাপত্তা তৈরি করে। এটি নিশ্চিত করে যে নিরাপত্তা উন্নয়ন থেকে উৎপাদন পর্যন্ত সমগ্র অ্যাপ্লিকেশন জীবনচক্রের অংশ। ক্লাউড নেটিভ সিকিউরিটি ক্লাউড নেটিভ এনভায়রনমেন্টের বিবরণ, যথা দ্রুত কোড পরিবর্তন এবং অত্যন্ত ক্ষণস্থায়ী অবকাঠামোর সাথে খাপ খাওয়ানোর সময় প্রথাগত নিরাপত্তা মডেলের মতো একই মান নিশ্চিত করতে চায়। ক্লাউড নেটিভ নিরাপত্তা [DevSecOps](/devsecops/) নামক অনুশীলনের সাথে অত্যন্ত সম্পর্কিত।
 
-## Problem it addresses
+## এটা যেসব সমস্যাতে ফোকাস করে
 
 Traditional security models were built with a number of assumptions that are no longer valid. Cloud native apps change frequently, use a large number of open source tools and libraries, often run in vendor-controlled infrastructure, and are subject to rapid infrastructure changes. Code reviews, long quality assurance cycles, host-based vulnerability scanning, and last minute security reviews cannot scale with cloud native applications.
 
