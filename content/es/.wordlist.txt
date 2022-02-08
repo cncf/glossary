@@ -14,6 +14,7 @@ Committee
 Completed
 concept
 Daniel
+DevOps
 DigitalOcean
 Foster
 GCP
