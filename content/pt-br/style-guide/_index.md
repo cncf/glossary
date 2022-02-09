@@ -1,9 +1,17 @@
 ---
+<<<<<<< HEAD
 title: Guia de Estilo
+=======
+title: Guia de estilo
+>>>>>>> Settings and initial contents for Portuguese localization (#343)
 toc_hide: true
 menu:
   main:
     weight: 10
+<<<<<<< HEAD
+=======
+    pre: <i class='fas fa-ruler-horizontal'></i>
+>>>>>>> Settings and initial contents for Portuguese localization (#343)
 ---
 
 Este guia de estilo ajudará você a entender o público alvo do glossário, estrutura das definições, nível de detalhamento necessário e como manter um estilo consistente.
