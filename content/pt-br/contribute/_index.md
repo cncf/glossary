@@ -1,9 +1,17 @@
 ---
+<<<<<<< HEAD
 title: Como Contribuir
+=======
+title: Como contribuir
+>>>>>>> Settings and initial contents for Portuguese localization (#343)
 toc_hide: true
 menu:
   main:
     weight: 10
+<<<<<<< HEAD
+=======
+    pre: <i class='fas fa-pen-square'></i>
+>>>>>>> Settings and initial contents for Portuguese localization (#343)
 ---
 
 O projeto do glossário Cloud Native é mantido [nesse repositório do Github](https://github.com/cncf/glossary), onde você consegue encontrar todas as [*issues*](https://github.com/cncf/glossary/issues), [pull requests](https://github.com/cncf/glossary/pulls) e [discussões](https://github.com/cncf/glossary/discussions) em aberto.
