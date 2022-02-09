@@ -58,6 +58,15 @@ description = "The CNCF Cloud Native Glossary Project is intended to be used as 
 languageName ="English"
 # Weight used for sorting.
 weight = 1
+
+[languages.it]
+title = "Glossario Cloud Native"
+description = "Il progetto del Glossario CNCF Cloud Native è pensato per essere un riferimento per i termini comuni, usati nell'ambito delle applicazioni cloud native."
+languageName = "Italiano"
+contentDir = "content/it"
+# Weight used for sorting.
+weight = 2
+
 #[languages.no]
 #title = "CNCF Glossary"
 #description = "Docsy er operativsystem for skyen"
