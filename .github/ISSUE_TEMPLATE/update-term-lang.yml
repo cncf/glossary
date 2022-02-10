@@ -1,4 +1,4 @@
-name: Request to update existing term (non-English)
+name: Request to update existing term (Non-English)
 description: Issue to update existing term in non-English
 title: "[Update term] `GlossaryTermHere` for `LanguageHere`"
 labels: ["update term"]
