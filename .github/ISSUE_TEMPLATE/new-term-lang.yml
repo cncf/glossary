@@ -1,7 +1,7 @@
-name: Request to add a new term (Defalt:English)
-description: Issue to add a new term in English
-title: "[New term] `GlossaryTermHere` for `En`"
-labels: ["lang/en","new term"]
+name: Request to add a new term (Optional:Non-English)
+description: Issue to add a new term in other languages (not for localization)
+title: "[New term] `GlossaryTermHere` for `LanguageHere`"
+labels: ["new term non-english"]
 body:
   - type: textarea
     id: details
@@ -11,6 +11,8 @@ body:
         #### What this term is about? (briefly)
         - 
         #### Why this term needs to be added? (briefly) 
+        - 
+        #### Languages that use this term? (briefly)
         - 
     validations:
       required: true

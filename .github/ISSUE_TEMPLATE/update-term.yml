@@ -1,6 +1,6 @@
 name: Request to update existing term (English)
 description: Issue to update existing term in English
-title: "[Update term] `GlossaryTermHere`"
+title: "[Update term] `GlossaryTermHere` for `En`"
 labels: ["lang/en","update term"]
 body:
   - type: textarea
