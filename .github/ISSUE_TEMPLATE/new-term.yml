@@ -1,4 +1,4 @@
-name: Request to add a new term (Defalt:English)
+name: Request to add a new term (Default:English)
 description: Issue to add a new term in English
 title: "[New term] `GlossaryTermHere` for `En`"
 labels: ["lang/en","new term"]
