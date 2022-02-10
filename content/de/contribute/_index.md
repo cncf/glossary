@@ -46,7 +46,7 @@ Beachte bitte, dass du jeweils nur an einen Begriff gleichzeitig arbeiten kannst
 
 ### Begriff einreichen (Erstellen eines Pull Request)
 
-Vor dem Start bitte sicherstellen, dass der [Style Guide] (https://glossary.cncf.io/style-guide/) beachtet wird - das hilft dabei, die weiteren Interaktionen zu minimieren. Wie im Style Guide angegeben, empfehlen wir, mit einem Google- oder Word-Dokument zu beginnen. 
+Stelle bitte vor dem Start sicher, den [Style Guide] (https://glossary.cncf.io/style-guide/) zu beachten - das wird weitere Interaktionen minimieren. Wie im Style Guide angegeben, empfehlen wir, mit einem Google- oder Word-Dokument zu beginnen. 
 
 Sobald der Begriff fertig ist, innerhalb der Registerkarte "Code" bitte auf "content" klicken ...
 
