@@ -14,4 +14,4 @@ Il _cloud native stack_ è formato da molte categorie di tecnologie diverse tra 
 
 ## In che modo aiuta
 
-Sebbene ogni tecnologia risponda ad un bisogno specifico, collettivamente le tecnologie _cloud native_ consentono sistemi disaccoppiati che sono insieme _resilient_(affidabili), gestibili ed osservabili. Queste caratteristiche, combinate ad un'automazione stabile, consentono agli sviluppatori di implementare cambiamenti ad alto impatto frequentemente e con esito certo a fronte di uno sforzo minimo. In sostanza, gli aspetti peculiari dei sistemi _cloud native_ si ottengono più facilmente con l'utilizzo del _cloud native stack_.
+Sebbene ogni tecnologia risponda ad un bisogno specifico, collettivamente le tecnologie _cloud native_ consentono sistemi disaccoppiati che sono insieme resilienti, gestibili ed osservabili. Queste caratteristiche, combinate ad un'automazione stabile, consentono agli sviluppatori di implementare cambiamenti ad alto impatto frequentemente e con esito certo a fronte di uno sforzo minimo. In sostanza, gli aspetti peculiari dei sistemi _cloud native_ si ottengono più facilmente con l'utilizzo del _cloud native stack_.
