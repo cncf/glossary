@@ -6,12 +6,18 @@ category: technology
 
 ## What it is
 
-A stateless application doesn’t save any client session (state) data on the server where the application lives. Each session is carried out as if it was the first time and responses are not dependent upon data from a previous session and provides functionality to use print services, CDN (Content Delivery Network) or the Web Servers in order to process every short-term request. For example, someone is searching a question in the search engine and pressed the Enter button. In case if the searching operation gets interrupted or closed due to some reason, you have to start a new one as there is no saved data for your previous request.
+When we speak of stateless (and [stateful](https://glossary.cncf.io/stateful_apps/)) apps, state refers to any data the app needs to store to function as designed. As its name suggests (stateless) i.e it neither reads nor stores information about its state. Assume it is like a chalkboard or slate.
+
+ Example:
+ Search engine (incognito mode): Doing a search online to answer a question you’ve thought of. You type your question into a search engine and hit enter. You got the answer you are looking for. While reading accidentally refreshed or closed. When you open it again everything will be new. To find the answer have to search again. 
+
 
 ## Problem it addresses
 
-Stateless applications tackle the problem of resiliency, because different pods across a [cluster](/cluster/) can work independently, with multiple requests coming to them at the same time. If there’s a problem, you can easily restart the application, and it will return to its initial state with little or no downtime. As such, the benefits of stateless applications include resiliency, elasticity, and high availability. However, most applications we use today are at least partly [stateful](/stateful_apps/), as they store things like preferences and settings to improve the user experience.
+ statelessness doesn’t mean that there isn’t a state. It just means that the state is held somewhere else. For example, when you use an ATM machine, you’re the one who maintains the state. After Withdrawing, the machine doesn’t remember what’s the password you have entered. Privacy is maintained. (Stateless applications tackle the problem of resiliency)If you are stuck at some point while doing a transaction on  ATM  machine you can easily restart the application/machine, and it will return to its initial state with little or no downtime.
 
 ## How it helps
 
-Boiling everything down, in a Stateless Application the only thing your cluster is responsible for is the code, and other static content, being hosted on it. That’s it, no changing databases, no writes and no left over files when the pod is deleted. Stateless [containers](/container/) are easier to deploy, and you don’t need to worry about saving container data on persistent storage volumes. You also don't have to worry about backing up the data.
+Stateless Protocols/apps works better at the time of crash or accidentally if your application is closed because there is no state that must be restored, a failed server can simply restart after a crash. hence you don’t have to worry about backing up the data if an application/server crashes.
+
+
