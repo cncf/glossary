@@ -19,5 +19,3 @@ When we speak of stateless (and [stateful](https://glossary.cncf.io/stateful_app
 ## How it helps
 
 Stateless Protocols/apps works better at the time of crash or accidentally if your application is closed because there is no state that must be restored, a failed server can simply restart after a crash. hence you don’t have to worry about backing up the data if an application/server crashes.
-
-
