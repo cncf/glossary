@@ -66,6 +66,15 @@ weight = 1
 #time_format_default = "02.01.2006"
 #time_format_blog = "02.01.2006"
 
+[languages.ar]
+title = "مصطلحات التطبيقات السحابية الأصيلة"
+description = "يهدف مشروع معجم التطبيقات السحابية الأصيلة تحت رعاية مؤسسة الحوسبة السحابية الأصيلة إلى استخدامه كمرجع للمصطلحات الشائعة المستخدمة عند الحديث عن التطبيقات السحابية الأصيلة."
+languageName ="Arabic"
+contentDir = "content/ar"
+weight = 3
+time_format_default = "02.01.2006"
+time_format_blog = "02.01.2006"
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
