@@ -8,7 +8,7 @@ category: Concept
 
 Un cluster è un gruppo di computer o applicazioni che lavorano insieme verso un comune obiettivo.  Nel contesto del cloud computing nativo, il termine è più spesso riferito a Kubernetes. Un cluster Kubernetes è un insieme di servizi (o workloads) che vengono eseguiti nei loro containers, di solito su macchine diverse. L'insieme di tutti questi servizi [containerizzati](/containerization/), collegati su una rete, rappresentano un cluster.
 
-## Quale problema affronta
+## Quali problematiche affronta
 
 Il software che gira su un singolo computer presenta un singolo punto di vulnerabilità  - se quel computer si blocca, o qualcuno accidentalmente stacca il cavo di alimentazione, significa che parte del sistema critico al business potrebbe andare offline. Ecco perché il software moderno è generalmente sviluppato come un'[applicazioni distribuita](/distributed_apps/), raggruppato in clusters. 
 
