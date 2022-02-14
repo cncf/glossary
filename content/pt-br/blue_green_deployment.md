@@ -1,7 +1,7 @@
 ---
 title: Blue Green Deployment
 status: Completed
-category: concept
+category: Conceito
 ---
 
 ## O que é
