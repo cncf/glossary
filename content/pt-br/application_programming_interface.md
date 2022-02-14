@@ -1,7 +1,7 @@
 ---
 title: Interface de programação de aplicações
 status: Completed
-category: technology
+category: Tecnologia
 ---
 
 ## O que é
