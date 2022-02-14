@@ -41,7 +41,7 @@
 {{ $show := cond (or (lt $ulNr $ulShow) $activePath (and (not $shouldDelayActive) (eq $s.Parent $p.Parent)) (and (not $shouldDelayActive) (eq $s.Parent $p)) (not $p.Site.Params.ui.sidebar_menu_compact) (and (not $shouldDelayActive) ($p.IsDescendant $s.Parent))) true false -}}
 {{ $mid := printf "m-%s" ($s.RelPermalink | anchorize) -}}
 {{ $pages_tmp := (where $s.Pages ".Params.status" "Completed") | union (where $s.Pages ".Params.status" "completed") -}}
-{{ $pages := $pages_tmp -}}
+{{ $pages := $pages_tmp | first $sidebarMenuTruncate -}}
 {{ $withChild := gt (len $pages) 0 -}}
 {{ $manualLink := cond (isset $s.Params "manuallink") $s.Params.manualLink ( cond (isset $s.Params "manuallinkrelref") (relref $s $s.Params.manualLinkRelref) $s.RelPermalink) -}}
 {{ $manualLinkTitle := cond (isset $s.Params "manuallinktitle") $s.Params.manualLinkTitle $s.Title -}}
