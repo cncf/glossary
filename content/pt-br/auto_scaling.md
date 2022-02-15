@@ -1,7 +1,7 @@
 ---
 title: Autoscaling
 status: Completed
-category: property
+category: Propriedade
 ---
 
 O Autoscaling é a capacidade de um sistema de [escalar](/escalabilidade/) automaticamente, normalmente, em termos de recursos de computação. Com um sistema de autoscaling, os recursos são adicionados automaticamente quando necessário e podem ser dimensionados para atender às demandas esporadicas dos usuários. O processo de autoscaling varia e é configurável para escalar com base em diferentes métricas, como memória ou tempo de processamento. Os serviços de nuvem gerenciados geralmente estão associados à funcionalidade de autoscaling, pois há mais opções e implementações disponíveis do que a maioria das implantações no local.
