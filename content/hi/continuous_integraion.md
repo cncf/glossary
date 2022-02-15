@@ -1,5 +1,5 @@
 ---
-title: निरंतर एकीकरण
+title: निरंतर एकीकरण (Continuous_Integration)
 status: Completed
 category: अवधारणा
 ---
