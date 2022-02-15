@@ -48,7 +48,7 @@ Beachte bitte, dass du jeweils nur an einen Begriff gleichzeitig arbeiten kannst
 
 Stelle bitte vor dem Start sicher, den [Style Guide] (https://glossary.cncf.io/style-guide/) zu beachten - das wird weitere Interaktionen minimieren. Wie im Style Guide angegeben, empfehlen wir, mit einem Google- oder Word-Dokument zu beginnen. 
 
-Sobald der Begriff fertig ist, innerhalb der Registerkarte "Code" bitte auf "content" klicken ...
+Sobald der Begriff fertig ist, klicke bitte innerhalb der Registerkarte "Code" auf "content"  ...
 
 ![Inhalt](/images/how-to/howto-05.png)
 
@@ -56,15 +56,15 @@ Sobald der Begriff fertig ist, innerhalb der Registerkarte "Code" bitte auf "con
 
 ![Sprachen-Ordner](/images/how-to/howto-06.png)
 
-... _TEMPLATE.md auswählen
+... wähle _TEMPLATE.md aus
 
 ![Vorlage](/images/how-to/howto-07.png)
 
-den Inhalt kopieren ... 
+kopiere den Inhalt ... 
 
 ![Inhalt füllen](/images/how-to/howto-08.png)
 
-... und wieder eine Ebene höher in den "de" Ordner wechseln. Jetzt einfach auf "add file" und "create new file" auswählen.
+... wechsle wieder eine Ebene höher in den "de" Ordner. Jetzt einfach auf "add file" klicken und "create new file" auswählen.
 
 ![Neue Datei anlegen](/images/how-to/howto-09.png)
 

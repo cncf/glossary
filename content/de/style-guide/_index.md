@@ -24,7 +24,7 @@ Das Cloud Native Glossar richtet sich nach dem [Standard Style Guide](https://gi
 
 ## Audienz
 
-Das Glossar ist für ein technisches UND ein nichttechnisches Publikum geschrieben. Bitte stelle sicher, dass die Begriffe mit einfachen Worten erklärt werden keine technischen Kenntnisse voraussetzen. Mehr dazu weiter unten unter Definition.
+Das Glossar ist für ein technisches UND ein nichttechnisches Publikum geschrieben. Bitte stelle sicher, dass die Begriffe mit einfachen Worten erklärt werden, die keine technischen Kenntnisse voraussetzen. Mehr dazu weiter unten unter Definition.
 
 ## Vorlage einer Definition
 
@@ -66,7 +66,7 @@ Gültige Werte sind die folgenden:
 - Feedback erwünscht 
 - Nicht begonnen
 
-Du kannst jederzeit ein GitHub-Issue für eine bereits bestehende Begriffsdefinition öffnen. Falls Feedback gewünscht wird, wird der Status auf *Feedback Appreciated* geändert.
+Du kannst jederzeit ein GitHub-Issue für eine bereits bestehende Begriffsdefinition öffnen. Falls Feedback gewünscht wird, wird der Status auf *Feedback erwünscht* geändert.
 
 ```md
 ---
@@ -104,7 +104,7 @@ Anmerkung: Begriffsdefinitionen der Kategorie **Eigenschaft** benötigen keine E
 
 #### Einfachheit
 
-Ziel des Glossars ist es, **komplexe Begriffe in einfachen Worten zu erklären** - das ist eine erstaunlich schwierige Aufgabe, die wahrscheinlich eine mehrfache Überarbeitung eines Begriffs benötigen. Die Zielgruppe sollte beim Verfassen einer Begriffsdefinition sollte bei deren Erstellung immer im Fokus sein. Vermeide bitte die Verwendung von Fachbegriffen und Buzzwords - Du wirst dich wahrscheinlich dabei ertappen, dass du auf diese zurückgreifen wirst.  
+Ziel des Glossars ist es, **komplexe Begriffe in einfachen Worten zu erklären** - das ist eine erstaunlich schwierige Aufgabe, die wahrscheinlich eine mehrfache Überarbeitung eines Begriffs benötigen. Die Zielgruppe sollte beim Verfassen einer Begriffsdefinition und deren Erstellung immer im Fokus sein. Vermeide bitte die Verwendung von Fachbegriffen und Buzzwords - Du wirst dich wahrscheinlich dabei ertappen, dass du auf diese zurückgreifen wirst.  
 
 Verwende gegebenenfalls **Beispiele aus der Praxis**, die den Lesern (vor allem Nicht-Technikern) helfen, besser zu verstehen, *wann* und *warum* der von dir erläuterte Begriff relevant ist. 
 
