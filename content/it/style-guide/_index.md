@@ -111,7 +111,7 @@ La label **properties** non richiede un paragrafo a sé. La definizione è più 
 
 #### Semplice è meglio!
 
-Il Glossario ha come obiettivo ultimo **spiegare concetti complessi in parole semplici** — qualcosa di sorprendentemente difficile che richiederà quasi per certo svariate revisioni. Il consiglio è di tenere sempre ben presente l'audience, mentre si descrive un termine. Bisognerebbe evitare l'uso di espressioni eccessivamente tecniche e buzzword di varia natura. Lo evidenziamo perché ti troverai quasi per certo a farlo anche tu involontariamente e dovrai rivedere i tuoi contenuti.
+Il Glossario ha come ultimo obiettivo **spiegare concetti complessi in parole semplici** — qualcosa di sorprendentemente difficile che richiederà quasi per certo svariate revisioni. Il consiglio è di tenere sempre ben presente l'audience, mentre si descrive un termine. Bisognerebbe evitare l'uso di espressioni eccessivamente tecniche e buzzword di varia natura. Lo evidenziamo perché ti troverai quasi per certo a farlo anche tu involontariamente e dovrai rivedere i tuoi contenuti.
 
 Quando opportuno, fa' riferimenti ad **esempi reali** che aiutino i lettori (soprattutto quelli senza background tecnico) a capire meglio *quando* e *perché* il termine che stai descrivendo è rilevante.
 
