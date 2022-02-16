@@ -104,7 +104,7 @@ category: Concept
 Le definizioni categorizzate come **technology** e **concept** prevedono tre paragrafi distinti:
 
 - **Cos'è**: chiara e breve introduzione di quanto stiamo parlando. 
-- **Quali problematiche affronta**: il focus è sul problema e non sulla soluzione (proposta nel paragrafo appena successivo). Di fatto si cerca di evitare il termine che si sta spiegando e ci si concentra su *cosa* spinga ad avere bisogno della tecnologia o della pratica in questione. 
+- **Quali problematiche affronta**: il focus è sul problema e non sulla soluzione (proposta nel paragrafo successivo). Di fatto si cerca di evitare l'uso del termine che si sta spiegando e ci si concentra su *cosa* spinga ad avere bisogno della tecnologia o della pratica in questione. 
 - **In che modo aiuta**: in questa parte della definizione, si torna al termine che si sta spiegando e si chiarisce in che modo possa aiutare a risolvere il problema identificato. 
 
 La label **properties** non richiede un paragrafo a sé. La definizione è più che sufficiente. 
