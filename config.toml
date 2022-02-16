@@ -66,6 +66,14 @@ weight = 1
 #time_format_default = "02.01.2006"
 #time_format_blog = "02.01.2006"
 
+[languages.de]
+title = "Cloud Native Glossar"
+description = "Das CNCF Cloud Native Glossar soll als Referenz für gängige Begriffe dienen, die im Zusammenhang mit Cloud Native Anwendungen verwendet werden."
+languageName ="Deutsch"
+contentDir = "content/de"
+weight = 3
+
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
