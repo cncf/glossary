@@ -10,10 +10,10 @@
 # in each `/content/language/` directory.
 
 # Owners of Korean contents
-/content/ko/ @seokho-son @Eviekim @jihoon-seo
+/content/ko/ @seokho-son @Eviekim @jihoon-seo @yunkon-kim
 
 # Owners of Portuguese contents
-/content/pt/ @edsoncelio @brunoguidone
+/content/pt/ @edsoncelio @brunoguidone @jessicalins
 
 # Owners of Hindi contents
 /content/hi/ @Garima-Negi @sayantani11 @anubha-v-ardhan @jayesh-srivastava
@@ -25,7 +25,10 @@
 /content/it/ @Giulia-dipietro @meryem-ldn @annalisag-spark @sistella
 
 # Owners of Arabic contents
-# /content/ar/ @TarekMSayed @same7ammar @AShabana @hacktron95
+/content/ar/ @TarekMSayed @same7ammar @AShabana @hacktron95
 
 # Owners of Bengali contents
-# /content/bn/ @mitul3737 @Mouly22 @ikramulkayes
+/content/bn/ @mitul3737 @Mouly22 @ikramulkayes
+
+# Owners of Spanish contents
+/content/es/ @CathPag @raelga @electrocucaracha
