@@ -66,6 +66,13 @@ weight = 1
 #time_format_default = "02.01.2006"
 #time_format_blog = "02.01.2006"
 
+[languages.es]
+title = "Cloud Native Glosario"
+description = "El proyecto de CNCF Cloud Native Glosario pretende ser usado como una referencia para los terminos comunes usados cuando se habla acerca de las aplicaciones nativas para la nube."
+languageName ="Español(Spanish)"
+weight = 2
+contentDir = "content/es"
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
