@@ -1,8 +1,7 @@
----	 
-title: Debugging	 
-status: Completed	 
-category: Concept	 
 ---
+title: Debugging
+status: Completed
+category: Concept
 
 ## What it is
 
