@@ -95,6 +95,12 @@ languageName ="한국어(Korean)"
 contentDir = "content/ko"
 weight = 5
 
+[languages.es]
+title = "Cloud Native Glosario"
+description = "El proyecto de CNCF Cloud Native Glosario pretende ser usado como una referencia para los terminos comunes usados cuando se habla acerca de las aplicaciones nativas para la nube."
+languageName ="Español(Spanish)"
+contentDir = "content/es"
+weight = 6
 
 [markup]
   [markup.goldmark]
