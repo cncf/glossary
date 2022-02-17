@@ -22,6 +22,7 @@
 /content/ar/ @TarekMSayed @same7ammar @AShabana @arezk84
 /i18n/ar.toml @TarekMSayed @same7ammar @AShabana @arezk84
 
+
 # Approvers for Bengali contents
 /content/bn/ @Arindam200 @Imtiaz1234 @mitul3737 @sajibAdhi
 /i18n/bn.toml @Arindam200 @Imtiaz1234 @mitul3737 @sajibAdhi
@@ -33,6 +34,7 @@
 # Approvers for Spanish contents
 /content/es/ @raelga @ramrodo @electrocucaracha @krol3 @92nqb
 /i18n/es.toml @raelga @ramrodo @electrocucaracha @krol3 @92nqb
+
 
 # Approvers for French contents
 /content/fr/ @huats @fydrah @Krast76 @sestegra @guillaumebernard84
@@ -77,4 +79,3 @@
 # Approvers for Traditional Chinese contents
 /content/zh-tw/ @pichuang @ydFu @hwchiu @johnlinp
 /i18n/zh-tw.toml @pichuang @ydFu @hwchiu @johnlinp
-
