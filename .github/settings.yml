@@ -38,11 +38,17 @@ collaborators:
   - username: Eviekim
     permission: push
 
+  - username: yunkon-kim
+    permission: push
+
   # l10n pt approvers
   - username: edsoncelio
     permission: push
 
   - username: brunoguidone
+    permission: push
+
+  - username: jessicalins
     permission: push
 
   # l10n hi approvers
@@ -80,9 +86,35 @@ collaborators:
     permission: push
 
   # l10n ar approvers
+  - username: TarekMSayed
+    permission: push
+
+  - username: same7ammar
+    permission: push
+
+  - username: AShabana
+    permission: push
+
+  - username: hacktron95
+    permission: push
 
   # l10n bn approvers
+  - username: mitul3737
+    permission: push
 
+  - username: Mouly22
+    permission: push
+
+  - username: ikramulkayes
+    permission: push
+
+  # l10n es approvers
+  # Note: CathPag is both a maintainer (maintain) and de approver (push)
+  - username: raelga
+    permission: push
+    
+  - username: electrocucaracha
+    permission: push
 
 branches:
 
@@ -119,6 +151,7 @@ branches:
          - seokho-son
          - Eviekim
          - jihoon-seo
+         - yunkon-kim
         teams: []
       enforce_admins: null
       required_linear_history: null
@@ -136,6 +169,7 @@ branches:
         users:
          - edsoncelio
          - brunoguidone
+         - jessicalins
         teams: []
       enforce_admins: null
       required_linear_history: null
@@ -207,7 +241,10 @@ branches:
         apps: []
         # ar approvers
         users:
-         - seokho-son
+         - TarekMSayed
+         - same7ammar
+         - AShabana
+         - hacktron95
         teams: []
       enforce_admins: null
       required_linear_history: null
@@ -223,7 +260,27 @@ branches:
         apps: []
         # bn approvers
         users:
-         - seokho-son
+         - mitul3737
+         - Mouly22
+         - ikramulkayes
+        teams: []
+      enforce_admins: null
+      required_linear_history: null
+
+  # l10n branch for es contents only
+  - name: dev-es
+    protection:
+      required_pull_request_reviews:
+        required_approving_review_count: 2
+        require_code_owner_reviews: true
+      required_status_checks: null
+      restrictions:
+        apps: []
+        # es approvers
+        users:
+         - CathPag
+         - raelga
+         - electrocucaracha
         teams: []
       enforce_admins: null
       required_linear_history: null
