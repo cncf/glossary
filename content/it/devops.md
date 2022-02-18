@@ -13,4 +13,4 @@ Tradizionalmente, nelle organizzazioni complesse con [applicazioni monolitiche](
 Quando il codice arrivava finalmente in produzione, passava da così tanti sviluppatori, stando in attesa in così tante code, che diventava difficile rintracciare l'origine del problema se il codice non funzionava. DevOps inverte questo approccio.
 
 ## In che modo aiuta
-Avere un team che è responsabile dell'intero ciclo di vita di un'applicazione porta a minimizzare i passaggi di mano, a ridurre il rischio quando si installa in produzione, a migliorare la qualità del codice perché i team sono anche responsabili di come il codice si comporta in produzione e ad aumentare la soddisfazione dei dipendenti grazie alla maggiore autonomia e proprietà (ownership).
+Avere un team che sia responsabile dell'intero ciclo di vita di un'applicazione, porta a minimizzare i passaggi di mano, a ridurre i rischi di installazione in produzione, a migliorare la qualità del codice (perché i team sono anche responsabili di come il codice "si comporta" in produzione) e ad aumentare la soddisfazione dei dipendenti grazie alla maggiore autonomia e ownership.
