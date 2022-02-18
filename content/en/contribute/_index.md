@@ -16,7 +16,7 @@ There are three ways you can contribute:
 3) Help translate the glossary
 
 ## Join the Glossary community! 
-Consider joining our monthly Glossary Working Group meetings if you want to contribute regularly. You can find meeting details in the CNCF calendar. You can also connect with the maintainers and fellow contributors in our #glossary channel on the [CNCF calendar](https://www.cncf.io/calendar/) — we'd love to meet you! 
+Consider joining our monthly Glossary Working Group meetings if you want to contribute regularly. You can find meeting details in the [CNCF calendar](https://www.cncf.io/calendar/). You can also connect with the maintainers and fellow contributors in our #glossary channel on the CNCF Slack — we'd love to meet you! 
 
 ## Propose new terms
 You can propose a new term for others to work on or create a new definition yourself. Either way, you'll start by creating an issue (note that you'll need a GitHub account to do this).
@@ -68,7 +68,7 @@ Copy the content…
 
 ![create new file](/images/how-to/howto-09.png)
 
-Add the term name in the URL (no capitalization and no space) and .md at the end (if you the preview doesn't work, you probably forgot to add .md). Now past the template content below. Copy and paste your definition into the file. Note that GitHub uses markdown to format the text (e.g., hyperlink, bold, italic). Please refer to this [markdown cheat sheet](https://www.markdownguide.org/cheat-sheet/). To view how this will look like, go to "preview."
+Add the term name in the URL (no capitalization and no space) and .md at the end (note: if your preview doesn't work, you probably forgot to add .md at the end). Now paste the template content below. Copy and paste your definition into the file. Note that GitHub uses markdown to format the text (e.g., hyperlink, bold, italic). Please refer to this [markdown cheat sheet](https://www.markdownguide.org/cheat-sheet/). To verify you've used markdown as intended, go to "preview."
 
 ![finalize term](/images/how-to/howto-10.png)
 
@@ -104,7 +104,7 @@ To change a term directly, go to "edit this page."
 This will open the term's GitHub page. Make your changes and submit a PR. Please refer to "submitting a new term" above for a detailed description (jump to the section that speaks about markdown).
 
 ## Help translate the glossary
-To help translate the glossary into your native language, please join the #glossary-localizations channel on the CNCF Slack and let us know. You can either join an existing team or create a new one. Please also join our monthly Glossary Working Group meetings. You can find meeting details in the [CNCF calendar](https://www.cncf.io/calendar/). We look forward to meeting you there!
+To help translate the glossary into your native language, please join the #glossary-localizations channel on the CNCF Slack and let us know. You can either join an existing team or create a new one (to see what it takes, check out or [Localization Guide](https://github.com/cncf/glossary/blob/main/LOCALIZATION.md)). Please also join our monthly Glossary Working Group meetings. You can find meeting details in the [CNCF calendar](https://www.cncf.io/calendar/). We look forward to meeting you there!
 
 
 
