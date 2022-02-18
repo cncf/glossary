@@ -6,7 +6,7 @@ category: Technology
 
 ## What it is
 
-A virtual machine (VM) is a computer and its operating system that is not bound to a particular piece of hardware. VMs rely on [virtualization](https://glossary.cncf.io/virtualization/) to carve a single physical computer into multiple virtual computers. That separation allows organizations and infrastructure providers to create and destroy VMs without impacting the underlying hardware — they’re simply files that can be easily created and deleted.
+A virtual machine (VM) is a computer and its operating system that is not bound to a particular piece of hardware. VMs rely on [virtualization](https://glossary.cncf.io/virtualization/) to carve a single physical computer into multiple virtual computers. That separation allows organizations and infrastructure providers to easily create and destroy VMs without impacting the underlying hardware.
 
 ## Problem it addresses
 
