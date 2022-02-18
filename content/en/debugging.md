@@ -1,7 +1,8 @@
 ---
 title: Debugging
-status: feedback appreciated
+status: Completed
 category: Concept
+---
 
 ## What it is
 
