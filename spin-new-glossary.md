@@ -44,4 +44,4 @@ You can configure the feedback buttons at the bottom of each page to post to you
 
 ## Netlify configuration
 
-- adsf
+To deploy your site to Netlify, follow [the instructions for the Docsy theme here](https://www.docsy.dev/docs/deployment/#deployment-with-netlify).

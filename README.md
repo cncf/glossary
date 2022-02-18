@@ -4,7 +4,7 @@
 
 The [CNCF](https://www.cncf.io/) Cloud Native Glossary Project is hosted at [https://glossary.cncf.io/](https://glossary.cncf.io/) and is intended to be used as a reference for common terms when talking about cloud native applications. You can [view and download the PDF version here](https://github.com/cncf/glossary/blob/main/cloudnative-glossary.pdf).
 
-You are welcome to use this code to spin up your own glossary. Here are [instructions for creating your own glossary](spin-new-glossary.md).
+You are welcome to use this code for your own glossary project. Here are [instructions for creating your own glossary](spin-new-glossary.md).
 
 ## Getting started
 
