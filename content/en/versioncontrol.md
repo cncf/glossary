@@ -1,14 +1,17 @@
 ---
 title: Version Control
-status: Feedback Appreciated
+status: Completed
 category: Technology
 ---
 
 ## What it is
-Source control (or version control) is the practice of tracking and managing changes to code. To explain further, it is a system that records changes to a file or set of files over time so that you can recall specific versions later. 
+
+Source control (or version control) is the practice of tracking and managing changes to a document. It is a system that records changes to a file or set of files over time so that you can recall specific versions later. 
 
 ## Problem it addresses
-Before Version control, changes made in one part of the software can be incompatible with those made by another developer working at the same time. And, it is more like developing a software without backups. Now, If you are a developer(literally everyone who writes code) and want to keep every version of the code you write, a Version Control System (VCS) is a very wise thing to use. Using Version control, it allows you to revert selected files back to a previous state, revert the entire project back to a previous state, compare changes over time, see who last modified something that might be causing a problem, who introduced an issue and when, and more.
+
+Version control systems work to address the following problems, backing up a document or code base as it changes over time, allowing multiple users to resolve conflicts when there are overlapping changes, and storing a log of changes over time. Application code can often be complex and critical to key business processes so it is important to track who changed what, when it was changed, and why. Also many, if not most, applications are modified by multiple developers and there are often conflicts between the changes introduced by different developers.
 
 ## How it helps
-Version control helps developers move faster and allows software teams to preserve efficiency. It allows us to have the entire project data to be stored in a repository and the software teams can track changes to the code, while enhancing communication and collaboration between team members as explained above.
+
+Version control helps developers move fast and preserve efficiency while storing a record of changes and providing a facility to resolve conflicts. It allows them to store application code in a repository and simplify collaboration. Modern application development relies heavily on version control systems, like git, to store their code.
