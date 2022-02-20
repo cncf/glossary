@@ -8,9 +8,9 @@ category: ধারণা
 ডেভওপস হল একটি পদ্ধতি যেখানে দলগুলি অ্যাপ্লিকেশন ডেভেলপমেন্ট থেকে প্রোডাকশন অপারেশন পর্যন্ত সম্পূর্ণ প্রক্রিয়ার পরিচালনা করে থাকে। এটি সাধারণ প্রযুক্তি থেকে উচ্চ পর্যায় রয়েছে এবং সাধারণ ধরন থেকে আলাদা হয়। ডেভওপস প্রকৌশলীদের দলদের জন্য আহ্বান করে যারা ছোট উপাদানগুলিতে কাজ করে (একটি সম্পূর্ণ বৈশিষ্ট্যের বিপরীতে), হ্যান্ডঅফগুলি হ্রাস করে – যা সাধারণ ভুলের কারন।
 
 ## এটি যেই সমস্যাটি নির্দেশ করে
-Traditionally, in complex organizations with [tightly-coupled](/tightly_coupled_architectures/) [monolithic apps](/monolithic_apps/), work was generally fragmented between multiple groups. This led to numerous handoffs and long lead times. Each time a component or update was ready, it was placed in a queue for the next team. Because individuals only worked on one small piece of the project, this approach led to a lack of ownership. Their goal was to get the work to the next group, not deliver the right functionality to the customer — a clear misalignment of priorities. 
+ঐতিহ্যগতভাবে, জটিল সংস্থা সাথে [tightly-coupled](/tightly_coupled_architectures/) [monolithic apps](/monolithic_apps/) , কাজ সাধারণত একাধিক দলের মধ্যে খণ্ডিত ছিল. এটি অসংখ্য হ্যান্ডঅফ এবং দীর্ঘ পরবর্তী সময়, প্রতিবার একটি উপাদান বা আপডেট প্রস্তুত ছিল, এটি পরবর্তী দলের জন্য একটি সারিতে স্থাপন করা হয়েছিল। যেহেতু ব্যক্তিরা কেবলমাত্র প্রকল্পের একটি ছোট অংশে কাজ করেছিল, এই পদ্ধতির ফলে মালিকানার অভাব দেখা দেয়। তাদের লক্ষ্য ছিল পরবর্তী দল কাছে কাজটি পৌঁছে দেওয়া, গ্রাহকের কাছে সঠিক কার্যকারিতা সরবরাহ না করা - অগ্রাধিকারগুলির একটি স্পষ্ট বিভ্রান্তি।
 
-By the time code finally got into production, it went through so many developers, waiting in so many queues that it was difficult to trace the origin of the problem if the code didn’t work. DevOps turns this approach upside down.
+কোডটি শেষ পর্যন্ত  আসার সময় পর্যন্ত, এটি এত বেশি ডেভেলপারের মধ্য দিয়ে গিয়েছিল, এত সারিতে অপেক্ষা করেছিল যে কোডটি কাজ না করলে সমস্যার উত্স খুঁজে বের করা কঠিন ছিল। ডেভওপস এই পদ্ধতিকে উল্টো করে দেয়।
 
 ## এটা কিভাবে সাহায্য করে
-Having one team own the entire lifecycle of an application results in minimized handoffs, reduce risk when deploying into production, better code quality as teams are also responsible for how code performs in production and increased employee satisfaction due to more autonomy and ownership.
+একটি অ্যাপ্লিকেশনের সমগ্র জীবনচক্রের মালিক একটি দল থাকার ফলে হ্যান্ডঅফগুলি ন্যূনতম হয়, উৎপাদনে মোতায়েন করার সময় ঝুঁকি হ্রাস পায়, কোডের গুণমান আরও ভাল হয় কারণ দলগুলি আরও স্বায়ত্তশাসন এবং মালিকানার কারণে কোড কীভাবে উত্পাদন করে এবং কর্মীদের সন্তুষ্টি বৃদ্ধি করে তার জন্যও দায়ী৷
