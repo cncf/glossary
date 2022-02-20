@@ -1,5 +1,5 @@
 ---
-title: ডেভওপস 
+title: ডেভওপস (DevOps)
 status: Completed
 category: ধারণা
 ---
