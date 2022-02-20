@@ -5,10 +5,10 @@ category: Technology
 ---
 
 ## Che cos’è
-Una macchina virtuale (VM) è un computer e il suo sistema operativo che non è legato a un particolare componente hardware. Le macchine virtuali si basano sulla virtualizzazione "(link dependency del termine virtualizzazione)" per suddividere un singolo computer fisico in più computer virtuali. Questa separazione consente alle organizzazioni e ai fornitori di infrastrutture di creare e distruggere VM senza influire sull'hardware sottostante.
+Una macchina virtuale (VM) è un computer e il suo sistema operativo che non è legato a un particolare componente hardware. Le macchine virtuali si basano sulla [virtualizzazione] (/virtualization/) per suddividere un singolo computer fisico in più computer virtuali. Questa separazione consente alle organizzazioni e ai fornitori di infrastrutture di creare e distruggere VM senza influire sull'hardware sottostante.
 
 ## Quale problema affronta
-Le macchine virtuali sfruttano la virtualizzazione. Quando una macchina di metallo (bare metal) (link traduzione della bare metal machine) è vincolata a un singolo sistema operativo (OS), il modo in cui le risorse della macchina possono essere utilizzate è alquanto limitato. Inoltre, quando un sistema operativo è legato a una singola macchina fisica, la sua disponibilità è direttamente legata a quell'hardware. Se la macchina fisica è offline a causa di manutenzione o guasti hardware, lo è anche il sistema operativo.
+Le macchine virtuali sfruttano la virtualizzazione. Quando una macchina di metallo [bare metal] (/bare_metal_machine/) è vincolata a un singolo sistema operativo (OS), il modo in cui le risorse della macchina possono essere utilizzate è alquanto limitato. Inoltre, quando un sistema operativo è legato a una singola macchina fisica, la sua disponibilità è direttamente legata a quell'hardware. Se la macchina fisica è offline a causa di manutenzione o guasti hardware, lo è anche il sistema operativo.
 
 ## In che modo aiuta
 Rimuovendo la relazione diretta tra un sistema operativo e una singola macchina fisica, si risolvono diversi problemi delle macchine bare metal: tempo di approvigionamento (provisioning), utilizzo dell'hardware e resilienza.
