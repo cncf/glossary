@@ -1,17 +1,17 @@
 ---
 title: ক্লাউড নেটিভ  নিরাপত্তা (Cloud Native Security)
 status: Completed
-category: concept
+category: ধারণা
 ---
 
 ## এটা কি
 
 ক্লাউড নেটিভ সিকিউরিটি এমন একটি পদ্ধতি যা [ক্লাউড নেটিভ অ্যাপ্লিকেশন](/cloud_native_apps/) এ নিরাপত্তা তৈরি করে। এটি নিশ্চিত করে যে নিরাপত্তা উন্নয়ন থেকে উৎপাদন পর্যন্ত সমগ্র অ্যাপ্লিকেশন জীবনচক্রের অংশ। ক্লাউড নেটিভ সিকিউরিটি ক্লাউড নেটিভ এনভায়রনমেন্টের বিবরণ, যথা দ্রুত কোড পরিবর্তন এবং অত্যন্ত ক্ষণস্থায়ী অবকাঠামোর সাথে খাপ খাওয়ানোর সময় প্রথাগত নিরাপত্তা মডেলের মতো একই মান নিশ্চিত করতে চায়। ক্লাউড নেটিভ নিরাপত্তা [DevSecOps](/devsecops/) নামক অনুশীলনের সাথে অত্যন্ত সম্পর্কিত।
 
-## এটা যেসব সমস্যাতে ফোকাস করে
+## এটা যেসব সমস্যাতে দৃষ্টিপাত করে
 
-Traditional security models were built with a number of assumptions that are no longer valid. Cloud native apps change frequently, use a large number of open source tools and libraries, often run in vendor-controlled infrastructure, and are subject to rapid infrastructure changes. Code reviews, long quality assurance cycles, host-based vulnerability scanning, and last minute security reviews cannot scale with cloud native applications.
+প্রথাগত নিরাপত্তা মডেলগুলি অনেকগুলি অনুমানের সাথে তৈরি করা হয়েছিল যা আর বৈধ নয়৷ ক্লাউড নেটিভ অ্যাপ্লিকেশানগুলি ঘন ঘন পরিবর্তিত হয়, প্রচুর সংখ্যক ওপেন সোর্স (Open-Source) টুল এবং লাইব্রেরি ব্যবহার করে, প্রায়শই বিক্রেতা-নিয়ন্ত্রিত পরিকাঠামোতে চালিত হয় এবং দ্রুত পরিকাঠামো পরিবর্তনের বিষয়। কোড পর্যালোচনা, দীর্ঘ মানের নিশ্চয়তা চক্র, হোস্ট-ভিত্তিক দুর্বলতা স্ক্যানিং, এবং শেষ মুহূর্তের নিরাপত্তা পর্যালোচনাগুলি ক্লাউড নেটিভ অ্যাপ্লিকেশনগুলির সাথে স্কেল (Scale) করতে পারে না।
 
-## How it helps
+## এটা কিভাবে সাহায্য করে
 
-Cloud native security introduces a new way of working that protects applications by migrating from traditional security models to one where security is involved in every step of the release cycle. Manual audits and checks are largely replaced with automated scans. Rapid code release pipelines are integrated with tools that scan code for vulnerabilities before they’re compiled. Open source libraries are pulled from trusted sources and monitored for vulnerabilities. Instead of slowing change a cloud native security model embraces it by frequently updated vulnerable components or ensuring infrastructure is regularly replaced.
+ক্লাউড নেটিভ সিকিউরিটি (Cloud Native Security)  কাজ করার একটি নতুন উপায় প্রবর্তন করে যা প্রথাগত নিরাপত্তা মডেল (security model) থেকে এমন একটিতে স্থানান্তরিত করে যেখানে রিলিজ চক্রের (release cycle) প্রতিটি ধাপে নিরাপত্তা জড়িত থাকে অ্যাপ্লিকেশনগুলিকে রক্ষা করে৷ ম্যানুয়াল অডিট (audit) এবং চেকগুলি মূলত স্বয়ংক্রিয় স্ক্যানগুলির সাথে প্রতিস্থাপিত হয়। দ্রুত কোড রিলিজ পাইপলাইনগুলি কম্পাইল (compile) করার আগে দুর্বলতার জন্য কোড স্ক্যান (scan)করে এমন সরঞ্জামগুলির সাথে একত্রিত করা হয়। ওপেন সোর্স (open-Source) লাইব্রেরিগুলি বিশ্বস্ত উৎস থেকে টেনে আনা হয় এবং দুর্বলতার জন্য পর্যবেক্ষণ করা হয়। ধীরগতির পরিবর্তনের পরিবর্তে একটি ক্লাউড নেটিভ নিরাপত্তা মডেল (Cloud Native Security Model) ঘন ঘন  হালনাগাদ করা দুর্বল উপাদানগুলির দ্বারা বা পরিকাঠামো নিয়মিতভাবে প্রতিস্থাপন করা নিশ্চিত করে এটিকে আলিঙ্গন করে।    
