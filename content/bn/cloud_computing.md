@@ -1,5 +1,5 @@
 ---
-title: ক্লাউড কম্পিউটিং (Cloud Computing)
+title: ক্লাউড কম্পিউটিং 9Cloud Computing)
 status: Completed
 category: ধারণা
 ---
