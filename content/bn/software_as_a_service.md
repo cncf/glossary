@@ -1,5 +1,5 @@
 ---
-Title: সফ্টওয়্যার এজ আ সার্ভিস(Software as a Service)(SaaS)
+Title: সফ্টওয়্যার এজ এ সার্ভিস(Software as a Service)(SaaS)
 Status: Completed
 Category: প্রযুক্তি
 ---
