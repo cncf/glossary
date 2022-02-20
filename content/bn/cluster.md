@@ -1,5 +1,5 @@
 ---
-title: ক্লাস্টার (cluster)
+title: ক্লাস্টার (Cluster)
 status: Completed
 category: ধারণা
 ---
