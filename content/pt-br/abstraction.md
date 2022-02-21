@@ -1,7 +1,7 @@
 ---
 title: Abstração
 status: Completed
-category: Property
+category: propriedade
 ---
 No contexto computacional, uma abstração é uma representação que oculta especificidades para um consumidor de serviços, tornando sua utilização mais genérica e de fácil entendimento. Um bom exemplo é o sistema operacional(S.O) do seu laptop. Ele abstrai todos os detalhes de como o computador funciona. Você não precisa ter nenhum conhecimento sobre CPU, memória e como os programas são executados, você apenas opera o S.O e o S.O lida com os detalhes. Todos esses detalhes são ocultos por trás das cortinas do S.O ou seja, uma abstração. 
 

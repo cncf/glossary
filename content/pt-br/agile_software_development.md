@@ -1,7 +1,7 @@
 ---
 title: Desenvolvimento Ágil de Software
 status: Completed
-category: concept
+category: conceito
 ---
 
 ## O que é
