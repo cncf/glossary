@@ -1,28 +1,33 @@
-lang/ko:
-- content/ko/*
+lang/ar:
+- content/ar/*
 
 lang/bn:
 - content/bn/*
+
+lang/de:
+- content/de/*
+
 lang/en:
 - content/en/*
+
 lang/es:
 - content/es/*
-lang/ar:
-- content/ar/*
-lang/de:
-- content/de/*
-lang/pt:
-- content/pt-br/*
-lang/it:
-- content/it/*
-lang/hi:
-- content/hi/*
-lang/de:
-- content/de/*
-lang/ar:
-- content/ar/*
+
 lang/fr:
 - content/fr/*
+
+lang/it:
+- content/it/*
+
+lang/hi:
+- content/hi/*
+
+lang/ko:
+- content/ko/*
+
+lang/pt:
+- content/pt-br/*
+
 lang/zh:
 - content/zh/*
 
