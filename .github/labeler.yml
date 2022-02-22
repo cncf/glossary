@@ -1,7 +1,6 @@
-- name: Labeler
-  uses: actions/labeler@v3
 lang/ko:
 - content/ko/*
+
 lang/bn:
 - content/bn/*
 lang/en:
@@ -24,7 +23,7 @@ lang/ar:
 - content/ar/*
 lang/fr:
 - content/fr/*
-
-
+lang/zh:
+- content/zh/*
 
 
