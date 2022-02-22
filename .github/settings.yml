@@ -29,12 +29,19 @@ collaborators:
     
   - username: seokho-son
     permission: admin
-
-  # l10n ko approvers
-  # Note: seokho-son is both a maintainer (maintain) and Korean approver (push)
+  
+  # English approvers (approver for all files in repository)
   - username: jihoon-seo
     permission: push
 
+  - username: iamNoah1
+    permission: push  
+  
+
+  # Localization approvers
+  # l10n ko approvers
+  # Note: seokho-son is both Maintainer (maintain) and Korean approver (push)
+  # Note: jihoon-seo is both English approver (push) and Korean approver (push)
   - username: Eviekim
     permission: push
 
@@ -65,10 +72,8 @@ collaborators:
     permission: push
 
   # l10n de approvers
-  # Note: CathPag is both a maintainer (maintain) and de approver (push)
-  - username: iamNoah1
-    permission: push
-    
+  # Note: CathPag is both Maintainer (maintain) and de approver (push)
+  # Note: iamNoah1 is both English approver (push) and de approver (push)
   - username: DaveVentura
     permission: push
 
@@ -133,6 +138,8 @@ branches:
          - jasonmorgan
          - CathPag
          - seokho-son
+         - iamNoah1
+         - jihoon-seo
         teams: []
       enforce_admins: null
       required_linear_history: null
