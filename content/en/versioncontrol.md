@@ -10,7 +10,7 @@ Source control (or version control) is the practice of tracking and managing cha
 
 ## Problem it addresses
 
-Version control systems work to address the following problems, backing up a document or code base as it changes over time, allowing multiple users to resolve conflicts when there are overlapping changes, and storing a log of changes over time. Application code can often be complex and critical to key business processes so it is important to track who changed what, when it was changed, and why. Also many, if not most, applications are modified by multiple developers and there are often conflicts between the changes introduced by different developers.
+Version control systems work to address the following problems, backing up a document or codebase as it changes over time, allowing multiple users to resolve conflicts when there are overlapping changes, and storing a log of changes over time. Application code can often be complex and critical to key business processes, so it is important to track who changed what, when it was changed, and why. Also, many, if not most applications, are modified by multiple developers, and there are often conflicts between the changes introduced by different developers.
 
 ## How it helps
 
