@@ -113,3 +113,13 @@ footer small a {
         display: none
     }
 }
+
+.td-sidebar-nav a.td-sidebar-link {
+    padding: 0.2rem 6px !important;
+}
+
+.td-sidebar-nav a.active {
+    border-left: 2px solid $primary;
+    background-color: white;
+    padding-left: 4px !important;
+}
