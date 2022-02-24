@@ -36,7 +36,7 @@ Add the word you're suggesting and hit "submit new issue." If you're just propos
 
 ![new issue](/images/how-to/howto-03.png)
 
-Please join the #glossary channel on the CNCF Slack and let @Catherine Paganini, @jmo, and @Seokho Son know that you've submitted an issue and would like to work on it. They'll assign the issue to you signaling to everyone else that the term is already taken.
+Please join the #glossary channel on the CNCF Slack and let @Catherine Paganini, @jmo, @Seokho Son, @Jihoon Seo and @iamnoah know that you've submitted an issue and would like to work on it. They'll assign the issue to you signaling to everyone else that the term is already taken.
 
 Here you can see that the first three terms are available while the next term has been assigned to someone.
 
