@@ -2,7 +2,8 @@ name: "Pull Request Labeler"
 on:
   pull_request:
     types: [opened]
-
+    paths:
+      - 'content/**'
 jobs:
   triage:
     runs-on: ubuntu-latest
