@@ -25,8 +25,15 @@ All code contributions are under the Apache 2.0 license. Documentation is distri
 ## Setting up a local instance
 
 To improve the Cloud Native Glossary site itself, install a local copy with these instructions:
+## Prerequisite - Hugo Installation
+[Create a Hugo site using the beautiful Ananke theme](https://gohugo.io/getting-started/quick-start/)
 
 ```
+brew install hugo
+# or
+port install hugo
+```
+
 git clone https://github.com/cncf/glossary.git
 cd glossary
 git submodule update --init --recursive
