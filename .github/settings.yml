@@ -121,6 +121,19 @@ collaborators:
   - username: electrocucaracha
     permission: push
 
+  # l10n zh approvers
+  - username: hanyuancheung
+    permission: push
+
+  - username: Jacob953
+    permission: push
+
+  - username: Rocksnake
+    permission: push
+
+  - username: Submarinee
+    permission: push
+
 branches:
 
   # Default branch of this repository for configurations and English contents
@@ -288,6 +301,25 @@ branches:
          - CathPag
          - raelga
          - electrocucaracha
+        teams: []
+      enforce_admins: null
+      required_linear_history: null
+
+  # l10n branch for zh contents only
+  - name: dev-zh
+    protection:
+      required_pull_request_reviews:
+        required_approving_review_count: 2
+        require_code_owner_reviews: true
+      required_status_checks: null
+      restrictions:
+        apps: []
+        # zh approvers
+        users:
+         - hanyuancheung
+         - Jacob953
+         - Rocksnake
+         - Submarinee
         teams: []
       enforce_admins: null
       required_linear_history: null
