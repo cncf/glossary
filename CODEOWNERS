@@ -12,29 +12,29 @@
 # These are the owners (approvers) for localization contents
 # in each `/content/language/` directory.
 
-# Approvers for Korean contents
-/content/ko/ @seokho-son @Eviekim @jihoon-seo @yunkon-kim
-
-# Approvers for Portuguese contents
-/content/pt-br/ @edsoncelio @brunoguidone @jessicalins
-
-# Approvers for Hindi contents
-/content/hi/ @Garima-Negi @sayantani11 @anubha-v-ardhan @jayesh-srivastava
-
-# Approvers for German contents
-/content/de/ @CathPag @iamNoah1 @DaveVentura
-
-# Approvers for Italian contents
-/content/it/ @Giulia-dipietro @meryem-ldn @annalisag-spark @sistella
-
 # Approvers for Arabic contents
 /content/ar/ @TarekMSayed @same7ammar @AShabana @hacktron95
 
 # Approvers for Bengali contents
 /content/bn/ @mitul3737 @Mouly22 @ikramulkayes
 
+# Approvers for German contents
+/content/de/ @CathPag @iamNoah1 @DaveVentura
+
 # Approvers for Spanish contents
 /content/es/ @CathPag @raelga @electrocucaracha
+
+# Approvers for Hindi contents
+/content/hi/ @Garima-Negi @sayantani11 @anubha-v-ardhan @jayesh-srivastava
+
+# Approvers for Italian contents
+/content/it/ @Giulia-dipietro @meryem-ldn @annalisag-spark @sistella
+
+# Approvers for Korean contents
+/content/ko/ @seokho-son @Eviekim @jihoon-seo @yunkon-kim
+
+# Approvers for Portuguese contents
+/content/pt-br/ @edsoncelio @brunoguidone @jessicalins
 
 # Approvers for Chinese contents
 /content/zh/ @hanyuancheung @Jacob953 @Rocksnake @Submarinee
