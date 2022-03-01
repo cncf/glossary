@@ -1,7 +1,7 @@
 ---
 title: Cluster
 status: Completed
-category: Concept
+category: Concetto
 ---
 
 ## Cos'è

@@ -1,7 +1,7 @@
 ---
-title: Nodes
+title: Nodi
 status: Completed
-category: Concept
+category: Concetto
 ---
 
 ## Cos'è
