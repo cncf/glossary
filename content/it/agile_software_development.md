@@ -1,7 +1,7 @@
 ---
-title: Agile Software Development
+title: Sviluppo Agile del Software
 status: Completed
-category: concept
+category: Concetto
 ---
 
 ## Cos'è
