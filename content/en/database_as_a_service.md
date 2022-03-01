@@ -10,7 +10,7 @@ Database-as-a-Service (DBaaS) is a service managed by a cloud operator (public o
 
 ## Problem it addresses 
 
-Traditionally in on-premise setups, organizations have to invest in additional storage and processing capacity on a regular basis to accommodate database expansion. Developers also need to provision and configure database with the help of IT infrastructure team. Deployment speed and database driven applications takes longer time to load and execute. This lack of features and scalibilty leads to increased costs and slow applications.
+Traditionally in on-premises setups, organizations have to invest in additional storage and processing capacity on a regular basis to accommodate database expansion. Developers also need to provision and configure database with the help of IT infrastructure team. Deployment speed and database driven applications takes longer time to load and execute. This lack of features and scalibilty leads to increased costs and slow applications.
 
 ## How it helps
 
