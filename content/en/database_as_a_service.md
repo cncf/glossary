@@ -14,4 +14,4 @@ Traditionally, in on-premise setups, organizations regularly have to invest in a
 
 ## How it helps
 
-Once a database is deployed, the cloud-based service provider is in charge of all administration/administrative operations to keep it running smoothly. This includes configuration management, backups, patches, upgrades, service monitoring, and more, with a user-friendly interface to manage it all. DBaaS helps organizations develop enterprise-grade applications faster while minimizing database costs.
+DBaaS allows developers to outsource all administration/administrative operations to the cloud-based service provider. The service provider ensures the database is running smoothly, including configuration management, backups, patches, upgrades, service monitoring, and more, with a user-friendly interface to manage it all. DBaaS helps organizations develop enterprise-grade applications faster while minimizing database costs.
