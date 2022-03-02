@@ -24,7 +24,7 @@ All code contributions are under the Apache 2.0 license. Documentation is distri
 
 ## Setting up a local instance
 
-To improve the Cloud Native Glossary site itself, install a local copy with these instructions:
+To improve the Cloud Native Glossary site itself, install a local copy with these instructions. Note you must have [npm](https://www.npmjs.com/) and [Hugo](https://gohugo.io/) installed.
 
 ```
 git clone https://github.com/cncf/glossary.git
