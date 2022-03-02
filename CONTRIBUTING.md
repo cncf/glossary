@@ -4,7 +4,7 @@ Thanks for your interest in contributing to the project. Contributions will be r
 
 Please read the [CNCF Code of Conduct](https://github.com/cncf/foundation/blob/master/code-of-conduct.md).
 
-Below are the guidelines for how to contribute to the code that runs the CNCF Glossary website. For guidlines on contributing to the content of the Glossary itself, however, please see [How to Contribute](https://glossary.cncf.io/contribute/).
+Below are the guidelines for how to contribute to the code that runs the CNCF Glossary website. For guidelines on contributing to the content of the Glossary itself, however, please see [How to Contribute](https://glossary.cncf.io/contribute/).
 
 ## How can I contribute?
 
