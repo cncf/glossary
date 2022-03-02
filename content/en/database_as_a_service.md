@@ -14,4 +14,4 @@ Traditionally, in on-premise setups, organizations regularly have to invest in a
 
 ## How it helps
 
-DBaaS allows users to manage a diverse set of databases from a cloud platform. Once a database is deployed, the cloud-based service provider is in charge of all administration/administrative operations to keep it running smoothly. This includes configuration management, backups, patches, upgrades, service monitoring, and more, with a user-friendly interface to manage it all. DBaaS helps organizations develop enterprise-grade applications faster while minimizing database costs.
+Once a database is deployed, the cloud-based service provider is in charge of all administration/administrative operations to keep it running smoothly. This includes configuration management, backups, patches, upgrades, service monitoring, and more, with a user-friendly interface to manage it all. DBaaS helps organizations develop enterprise-grade applications faster while minimizing database costs.
