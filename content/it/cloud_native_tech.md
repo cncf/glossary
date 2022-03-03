@@ -1,7 +1,7 @@
 ---
 title: Cloud Native Technology
 status: Completed
-category: Concept
+category: Concetto
 ---
 
 ## Cos'è
