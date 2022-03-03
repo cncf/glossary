@@ -77,6 +77,9 @@ collaborators:
   - username: DaveVentura
     permission: push
 
+  - username: Petria3s
+    permission: push
+
   # l10n it approvers
   - username: Giulia-dipietro
     permission: push
@@ -224,9 +227,9 @@ branches:
         apps: []
         # de approvers
         users:
-         - CathPag
          - iamNoah1
          - DaveVentura
+         - Petria3s
         teams: []
       enforce_admins: null
       required_linear_history: null
