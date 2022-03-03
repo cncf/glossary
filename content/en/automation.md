@@ -18,4 +18,4 @@ Considering the same example of Chatbot here, earlier the website owner had to h
 ## How it helps
 
 Automation speeds up administration and configuration of environments thus requiring less engineering time.
-Continuing the Chatbot example - now after automating the task, bot asks the mandatory questions like the details of the person and answers most of the common query of the visitors, thus no need to hire many officials, no more hassle, will even decrease the chances of mistake and increase the profits of the organization.
+Continuing the Chatbot example - now after automating the task, bot asks the mandatory questions like the details of the person and answers most of the common query of the visitors, thus no need to hire many officials, no more hassle, will increase accuracy and increase the profits of the organization.
