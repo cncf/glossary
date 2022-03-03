@@ -227,7 +227,6 @@ branches:
         apps: []
         # de approvers
         users:
-         - CathPag
          - iamNoah1
          - DaveVentura
          - Petria3s
