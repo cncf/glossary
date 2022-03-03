@@ -1,7 +1,7 @@
 ---
 title: Technical Ddebt
 status: Feedback Appreciated
-category: concept
+category: property
 ---
 
 ## What it is
