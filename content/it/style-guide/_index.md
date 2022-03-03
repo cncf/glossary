@@ -28,7 +28,7 @@ Consigliamo di dare un'occhiata a questi [set di regole grammaticali](https://gr
 
 ## Destinatari
 
-Il Glossario è scritto sia per un'audience tecnica sia per un'audience NON-tecnica. Per questa ragione assicurati che le definizioni siano espresse in termini semplici e che non diano per scontata una conoscenza tecnica pregressa. Lo spieghiamo meglio nel paragrafo [*Definizioni*](#template-definizioni).
+Il Glossario è scritto sia per un pubblico di destinazione tecnico sia per un pubblico di destinazione NON-tecnico. Per questa ragione assicurati che le definizioni siano espresse in termini semplici e che non diano per scontata una conoscenza tecnica pregressa. Lo spieghiamo meglio nel paragrafo [*Definizioni*](#template-definizioni).
 
 ## Template Definizioni
 
@@ -104,20 +104,20 @@ category: Concept
 Le definizioni categorizzate come **technology** e **concept** prevedono tre paragrafi distinti:
 
 - **Cos'è**: chiara e breve introduzione di quanto stiamo parlando. 
-- **Quali problematiche affronta**: il focus è sul problema e non sulla soluzione (proposta nel paragrafo appena successivo). Di fatto si cerca di evitare il termine che si sta spiegando e ci si concentra su *cosa* spinga ad avere bisogno della tecnologia o della pratica in questione. 
+- **Quali problematiche affronta**: il focus è sul problema e non sulla soluzione (proposta nel paragrafo successivo). Di fatto si cerca di evitare l'uso del termine che si sta spiegando e ci si concentra su *cosa* spinga ad avere bisogno della tecnologia o della pratica in questione. 
 - **In che modo aiuta**: in questa parte della definizione, si torna al termine che si sta spiegando e si chiarisce in che modo possa aiutare a risolvere il problema identificato. 
 
 La label **properties** non richiede un paragrafo a sé. La definizione è più che sufficiente. 
 
 #### Semplice è meglio!
 
-Il Glossario ha come obiettivo ultimo **spiegare concetti complessi in parole semplici** — qualcosa di sorprendentemente difficile che richiederà quasi per certo svariate revisioni. Il consiglio è di tenere sempre ben presente l'audience, mentre si descrive un termine. Bisognerebbe evitare l'uso di espressioni eccessivamente tecniche e buzzword di varia natura. Lo evidenziamo perché ti troverai quasi per certo a farlo anche tu involontariamente e dovrai rivedere i tuoi contenuti.
+Il Glossario ha come ultimo obiettivo **spiegare concetti complessi in parole semplici** — qualcosa di sorprendentemente difficile che richiederà quasi per certo svariate revisioni. Il consiglio è di tenere sempre ben presente il pubblico di destinazione, mentre si descrive un termine. Bisognerebbe evitare l'uso di espressioni eccessivamente tecniche e buzzword di varia natura. Lo evidenziamo perché ti troverai quasi per certo a farlo anche tu involontariamente e dovrai rivedere i tuoi contenuti.
 
 Quando opportuno, fa' riferimenti ad **esempi reali** che aiutino i lettori (soprattutto quelli senza background tecnico) a capire meglio *quando* e *perché* il termine che stai descrivendo è rilevante.
 
 Se vengono menzionati lemmi che sono già disponibili, ricordati di **inserire un link alla definizione presente nel Glossario** (è sufficiente farlo solo la prima volta che viene usato nel testo).
 
-**Esempio**: dà un'occhiata al paragrafo "Cos'è" del [lemma service mesh] (https://glossary.cncf.io/service_mesh/). Se noti, contiene link ai termini microservices, service, reliability e observability. Inoltre, il confronto tra le criticità della network in un ambiente a microservizi (qualcosa di tecnico con cui è difficile relazionarsi da non tecnici) con le problematiche di una rete wi-fi (un esempio che chiunque usi un portatile può capire) permette una migliore comprensione generale. Quando possibile, cerca di individuare una connessione simile tra i due mondi.
+**Esempio**: dà un'occhiata al paragrafo "Cos'è" del [lemma service mesh] (https://glossary.cncf.io/service_mesh/). Se noti, contiene link ai termini microservices, service, reliability e observability. Inoltre, il confronto tra le criticità del network in un ambiente a microservizi (qualcosa di tecnico con cui è difficile relazionarsi da non tecnici) con le problematiche di una rete wi-fi (un esempio che chiunque usi un portatile può capire) permette una migliore comprensione generale. Quando possibile, cerca di individuare una connessione simile tra i due mondi.
 
 #### Inizia con un Word o un Google doc
 
@@ -130,6 +130,6 @@ Ultimo suggerimento di carattere redazionale, prima di buttarti nella scrittura:
 
 ## Il processo di revisione: cosa aspettarsi 
 
-Innanzitutto vorremmo far presente che i maintainer di questo progetto sono solo tre e che se ne occupano nel loro tempo libero, per cui a volte saranno più rapidi, altre volte avranno bisogno di più tempo per rispondere e revisionare: abbi pazienza. Per qualunque domanda, però, mettiti in contatto con loro o con i gruppi di lavoro sul canale #glossary dello Slack CNCF (per approfondimenti ti rimandiamo alla sezione [Come contribuire](https://glossary.cncf.io/contribute/)).
+Innanzitutto vorremmo far presente che i maintainers di questo progetto sono solo tre e che se ne occupano nel loro tempo libero, per cui a volte saranno più rapidi, altre volte avranno bisogno di più tempo per rispondere e revisionare: abbi pazienza. Per qualunque domanda, però, mettiti in contatto con loro o con i gruppi di lavoro sul canale #glossary dello Slack CNCF (per approfondimenti ti rimandiamo alla sezione [Come contribuire](https://glossary.cncf.io/contribute/)).
 
-L'obiettivo è quello di realizzare una risorsa, il Glossario, che sia migliore possibile. Quando aprirai una PR, probabilmente ti verranno richieste una o più revisioni. Non lasciarti andare alla frustrazione: si tratta di richieste comuni alla maggior parte delle PR aperte. L'andirivieni, insieme alla collaborazione di più teste, assicurerà un contributo davvero utile per l'intero parco lettori sparsi per il mondo. 
+Il nostro obiettivo è rendere il Glossario, la migliore risorsa possibile. Quando aprirai una PR, potremmo richiedere una o più revisioni. Non abbatterti: si tratta di richieste comuni alla maggior parte delle PR aperte. L'andirivieni, insieme alla collaborazione di più teste, assicurerà un contributo davvero utile per tutti i lettori sparsi nel mondo. 
