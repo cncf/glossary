@@ -6,12 +6,10 @@ category: Concept
 
 ## What it is
 
-To explain debugging, first we want to know what is a bug, it is an 
-error or fault in a software program, which affects the program to 
-print incorrect (or) unexpected output, To resolve these kinds of
-unexpected behavior we do debug, in simple words debugging
-is the process or activity of finding and removing these errors 
-from a computer program or software, We do this to get the desired output.
+When a programmer develops a game, software, or mathematical computation if an error occurs,
+that program will likely not function as desired (undefined behavior). To identify the source
+of the problem the developer has to review the code line-by-line. Without context, i.e. 
+variables, data, location in memory, etc., catching errors is quite hard.
 
 ## Problem it addresses
 
@@ -29,4 +27,3 @@ where the developer writes code in it, and another tool is a debug pointer, it i
 powerful tool, it can show us how the program behaves at a certain point in the code, 
 debugging helps you not only get logical understanding but also analytical understanding 
 of the problem, and debugging is one of the important skills a developer can have.
-
