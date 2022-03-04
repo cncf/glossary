@@ -1,7 +1,7 @@
 ---
 title: حاوية
 status: مكتملة
-category:تقنية
+category: تقنية
 ---
 
 ## ما هذا
