@@ -5,29 +5,20 @@ category: concept
 ---
 
 ## What it is
-Golden signals are metrics that provide a wide view of a service from the user's perspective . It is the gold standard for monitoring an application’s performance using the following criterias :
+[Golden signals](https://sre.google/sre-book/monitoring-distributed-systems/#xref_monitoring_golden-signals) are metrics that help us understand how [services](https://glossary.cncf.io/service/) are experienced by users. Today, it is the gold standard for monitoring application performance and focuses on four specific metrics: Latency, traffic, errors, and saturation. The first three metrics relate to requests. A request is a message sent from one service to another. Services do that to collaborate and work as a [distributed app](https://glossary.cncf.io/distributed_apps/).
 
-#### Latency
-It is the time taken to service a request. e.g. : It’s important to track error latency, as opposed to just filtering out errors.<br />
-#### Traffic
-It is the measure of how much demand is being placed on the application.<br />
-#### Errors
-It is the measurement of rate of requests that fail, either explicitly (e.g. :technical errors), implicitly (e.g. : success response with wrong content), or by policy (e.g. : any response generation that breaches an agreement).<br />
-#### Saturation
-It measures how "full" your application is. It measures the application fraction, emphasizing the resources that are most constrained (e.g.: deadlock in database due to saturation or server bottleneck).
+*Latency* is the time it takes to service a request. *Traffic* measures the request frequency placed on the application. *Errors* measure the request failure rate. And *Saturation* measures the capacity of app resources, allowing users to address bottlenecks before they become a problem.
  
 ## Problem it addresses
-Everything becomes a muddy guessing game , without actual measurements (noted observations) at hand to arrive at a conclusion (for deducing performance of the application) and earlier monitoring tools were designed to monitor machines, not applications/services. While on the flip side of the coin modern monitoring systems offer a huge variety of parameters making it easier to drown in and lose focus of what really is relevant for the application.
-The Golden Signals are comprehensive and steer clear from getting stuck in the mud by putting the performance data into different buckets.
-Which then provides the visibility to pinpoint the problems that might originate.
-
+Without metrics, engineers have nothing to deduce why applications are behaving a certain way. While earlier monitoring tools were designed to monitor machines (not applications/services), modern monitoring systems gather a huge variety of parameters. They collect so many metrics that it's easy to lose focus on what is relevant for the user. Which of all these metrics should you focus on to ensure your customers have a great user experience?
 
 ## How it helps
-Measuring latency tells about how long it takes the application to handle transactions which is a sign of a major performance issue.<br />
-Measuring website traffic allows a clear understanding of what is working or what isn't and develops a more potent content. It helps in better utilization of traffic.<br />
-Measuring error is important to keep track of the time frames when errors tend to increase and develop a workaround for the cause.<br />
-Measuring  saturation provides the resource limit after which performance of application will either degrade or it’ll crash.<br />
+Golden signals help engineers focus on metrics that matter for the user experience. They help steer clear from getting stuck in the mud by putting performance data into different buckets and providing the visibility needed to pinpoint problems that might affect the user.
 
-For detailed information please visit : https://sre.google/sre-book/monitoring-distributed-systems/#xref_monitoring_golden-signals
+*Latency* tells us how long it takes the application to handle transactions. An increase in latency is likely a sign of a performance issue.
+
+Measuring website traffic allows a clear understanding of what is working or what isn't and develops a more potent content. It helps in better utilization of traffic.
+
+Keeping track of *errors* helps us understand when they increase and where and when to troubleshoot to fix the source of the problem. Measuring *saturation* allows us to keep track of resource limits and when a bottleneck is approaching. Saturation may lead to service degradation or even crash. 
 
 
