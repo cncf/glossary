@@ -5,7 +5,9 @@ category: Concept
 ---
 
 ## What it is
-Shift Left is the practice of implementing tests, security, or other development practices early in the software development cycle rather than towards the end. Although originally used to refer to the process of testing early, Shift Left can now also be applied to other aspects of software development and [DevOps](https://glossary.cncf.io/devops/), such as security and deployment. 
+Shift Left is the practice of implementing tests, security, or other development practices early in the software development cycle rather than towards the end. The actual stages in the software development lifecycle may be defined in different ways based on the team and the models used. When considered as a left-to-right workflow, early stage activities such as design, planning, and initial development fall on the left side of the lifecycle, and the workflow continues moving right into stages such as testing, deployment, and operations.
+
+Although originally used to refer to the process of testing early, Shift Left can now also be applied to other aspects of software development and [DevOps](https://glossary.cncf.io/devops/), such as security and deployment. 
 
 ## Problem it addresses
 Security issues, bugs, and software defects can be more difficult and expensive to fix if they are discovered late in the development cycle or after deployment, particularly if the software has already been deployed into production. 
