@@ -36,7 +36,10 @@ Add the word you're suggesting and hit "submit new issue." If you're just propos
 
 ![new issue](/images/how-to/howto-03.png)
 
-Please join the #glossary channel on the CNCF Slack and let @Catherine Paganini, @jmo, @Seokho Son, @Jihoon Seo and @iamnoah know that you've submitted an issue and would like to work on it. They'll assign the issue to you signaling to everyone else that the term is already taken.
+Next, the maintainers will triage the issue. That means they will assess if the term should be part of the Glossary (note, not every term will be admitted. Terms should be established and widely-used cloud native terms).
+
+Please join the #glossary channel on the CNCF Slack and let the maintainers know that you've raised an issue for a new term (ideally, tag @Catherine Paganini, @jmo, @Seokho Son, @Jihoon Seo, and/or @iamnoah to be sure they don't miss it).  If the term is approved and you want to work on it, they'll assign it to you.
+Note that you can only claim one term at a time. If you want to work on multiple terms, please finish one before claiming the next.
 
 Here you can see that the first three terms are available while the next term has been assigned to someone.
 
