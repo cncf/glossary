@@ -42,6 +42,7 @@ cri
 critic
 crm
 customizable
+cyber
 daniel
 datacenter
 datadog
@@ -150,6 +151,7 @@ saneheaders
 sbates
 scalability
 scalable
+sce
 seokho
 serverless
 sexualized
@@ -158,6 +160,7 @@ smartsymbols
 snippets
 socio
 sre
+sres
 stateful
 striphtml
 subnets
