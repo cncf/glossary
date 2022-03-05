@@ -190,3 +190,5 @@ wordlists
 www
 yaml
 yml
+DBaaS
+DBA

@@ -77,6 +77,9 @@ collaborators:
   - username: DaveVentura
     permission: push
 
+  - username: Petria3s
+    permission: push
+
   # l10n it approvers
   - username: Giulia-dipietro
     permission: push
@@ -119,6 +122,19 @@ collaborators:
     permission: push
     
   - username: electrocucaracha
+    permission: push
+
+  # l10n zh approvers
+  - username: hanyuancheung
+    permission: push
+
+  - username: Jacob953
+    permission: push
+
+  - username: Rocksnake
+    permission: push
+
+  - username: Submarinee
     permission: push
 
 branches:
@@ -211,9 +227,9 @@ branches:
         apps: []
         # de approvers
         users:
-         - CathPag
          - iamNoah1
          - DaveVentura
+         - Petria3s
         teams: []
       enforce_admins: null
       required_linear_history: null
@@ -288,6 +304,25 @@ branches:
          - CathPag
          - raelga
          - electrocucaracha
+        teams: []
+      enforce_admins: null
+      required_linear_history: null
+
+  # l10n branch for zh contents only
+  - name: dev-zh
+    protection:
+      required_pull_request_reviews:
+        required_approving_review_count: 2
+        require_code_owner_reviews: true
+      required_status_checks: null
+      restrictions:
+        apps: []
+        # zh approvers
+        users:
+         - hanyuancheung
+         - Jacob953
+         - Rocksnake
+         - Submarinee
         teams: []
       enforce_admins: null
       required_linear_history: null
