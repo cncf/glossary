@@ -42,6 +42,7 @@ cpu
 cri
 critic
 crm
+CSI
 customizable
 daniel
 datacenter
