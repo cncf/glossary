@@ -32,7 +32,7 @@ Once you found a term you want to work on, say so in the issue. Click on it and 
 
 ![Claiming an issue](/images/how-to/claiming-an-issue.png)
 
-Additionally, please also join the #glossary channel on the CNCF Slack and let the maintainers know that you've raised an issue for a new term (ideally, tag @Catherine Paganini, @jmo, @Seokho Son, @Jihoon Seo, and/or @iamnoah to be sure they don't miss it). Note that you can only claim one term at a time. If you want to work on multiple terms, please finish one before claiming the next one.
+Additionally, please also join the [#glossary](https://cloud-native.slack.com/archives/C02TX20MQBB) channel on the CNCF Slack and let the maintainers know that you've raised an issue for a new term (ideally, tag _@Catherine Paganini_, _@jmo_, _@Seokho Son_, _@Jihoon Seo_, and/or _@iamnoah_ to be sure they don't miss it). Note that you can only claim one term at a time. If you want to work on multiple terms, please finish one before claiming the next one.
 
 Once they assign it to you, you can start working on it. For the next steps, please refer to the "Submitting a new term (creating a PR)" section.
 
