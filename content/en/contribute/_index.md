@@ -22,7 +22,7 @@ Consider joining our monthly Glossary Working Group meetings if you want to cont
 ## Work on an existing issue
 Go to the [Glossary GitHub repo issues](https://github.com/cncf/glossary/issues). There you'll see a list of all issues. You can filter by label (e.g. English language, help needed, first good issue). Note that you'll need a GitHub account to do any of this.
 
-![assigning a term](/images/how-to/issue-and-labels.png)
+![Issue and labels](/images/how-to/issue-and-labels.png)
 
 Make sure the term you are interested in is not already assigned to someone. Here you can see that the first three terms are available while the next term has alrady been assigned.
 
@@ -30,7 +30,7 @@ Make sure the term you are interested in is not already assigned to someone. Her
 
 Once you found a term you want to work on, say so in the issue. Click on it and add a comment.
 
-![assigning a term](/images/how-to/claiming-an-issue.png)
+![Claiming an issue](/images/how-to/claiming-an-issue.png)
 
 Additionally, please also join the #glossary channel on the CNCF Slack and let the maintainers know that you've raised an issue for a new term (ideally, tag @Catherine Paganini, @jmo, @Seokho Son, @Jihoon Seo, and/or @iamnoah to be sure they don't miss it). Note that you can only claim one term at a time. If you want to work on multiple terms, please finish one before claiming the next one.
 
