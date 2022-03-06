@@ -7,7 +7,7 @@ category: concept
 ## What it is
 The Container Storage Interface (CSI) is a standard for exposing arbitrary block and file storage systems to containerized workloads on Container Orchestration Systems (COs) like Kubernetes.
 In simple language, just like the name, it is the interface that the container system can use to talk to storage.
-It is about storage operations within container native enviornment. It is an API and common methodology to address storage as an industry standard.
+It is about storage operations within container native environment. It is an API and common methodology to address storage as an industry standard.
 
 ## Problem it addresses
 After people started showing interest in cloud & containers, and started migrating the data to containers, the problem was that containers were not that reliable. If somehow the container node dies, then there's no way to retrieve the data (if the data is associated with the node). Thus container storage was introduced to easily switch and prevent loss of data.
