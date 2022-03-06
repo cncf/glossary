@@ -57,7 +57,7 @@ Add the word you're suggesting and hit "submit new issue." If you're just propos
 ### Triaging your issue
 Next, the maintainers will triage the issue. That means they will assess if the term should be part of the Glossary (note, not every term will be admitted. Terms should be established and widely-used cloud native terms).
 
-Please let the maintainers know that you've submitted a term on Slack as they may otherwise miss it. Ideally, tag @Catherine Paganini, @jmo, @Seokho Son, @Jihoon Seo, and/or @iamnoah.  If the term is approved and you want to work on it, they'll assign it to you.
+Please let the maintainers know that you've submitted a term on Slack as they may otherwise miss it. Ideally, tag _@Catherine Paganini_, _@jmo_, _@Seokho Son_, _@Jihoon Seo_, and/or _@iamnoah_.  If the term is approved and you want to work on it, they'll assign it to you.
 
 Note that you can only claim one term at a time. If you want to work on multiple terms, please finish one before claiming the next.
 
