@@ -109,7 +109,7 @@ Note that **properties** don't require separate sections. A definition will suff
 
 If merged, your submission will be the official CNCF definition for that term (until someone else improves it). Creating a term that meets the CNCF's high standards can't be rushed — quality takes time and effort.
 
-**Do your research**: Even if you are confident you know the term, verify you go it right. We often use terms in organizations a certain way that may not reflect the full picture. When you do your research, especially when you're not 100% familiar with the term, use multiple resources. Many definitions are one-sided, especially if provided by a vendor. The Glossary must have vendor-neutral, globally accepted definitions.
+**Do your research**: Even if you are confident you know the term, verify you got it right. We often use terms in organizations a certain way that may not reflect the full picture. When you do your research, especially when you're not 100% familiar with the term, use multiple resources. Many definitions are one-sided, especially if provided by a vendor. The Glossary must have vendor-neutral, globally accepted definitions.
 
 **Don't plagiarize**. The same rules apply to Glossary as to any other serious publication. Don't copy and paste other people's work unless you are quoting and contributing it to them. If you like a particular section of a definition, paraphrase it (describe it in your own words).
 
