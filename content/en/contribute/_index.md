@@ -11,10 +11,10 @@ The Cloud Native Glossary content is stored in [this GitHub repo](https://github
 
 There are three ways you can contribute:
 
-1) Work on an existing issue
-2) Propose new terms
-3) Update existing ones 
-4) Help translate the glossary
+1) [Work on an existing issue](#work-on-an-existing-issue)
+2) [Propose new terms](#propose-new-terms)
+3) [Update existing ones](#update-an-existing-term)
+4) [Help translate the glossary](#help-translate-the-glossary)
 
 ## Join the Glossary community! 
 Consider joining our monthly Glossary Working Group meetings if you want to contribute regularly. You can find meeting details in the [CNCF calendar](https://www.cncf.io/calendar/). You can also connect with the maintainers and fellow contributors in our #glossary channel on the CNCF Slack — we'd love to meet you! 
