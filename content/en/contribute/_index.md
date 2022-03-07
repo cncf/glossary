@@ -46,7 +46,7 @@ Go to the [Glossary GitHub repo](https://github.com/cncf/glossary/issues) issues
 
 ![issues](/images/how-to/howto-01.png)
 
-You'll see a variety of templates. To propose a new term in English, select "English Language Glossary Request."
+You'll see a variety of templates. To propose a new term in English, select "Request to add a new term (Default:English)."
 
 ![templates](/images/how-to/english-issue-template-new.png)
 
