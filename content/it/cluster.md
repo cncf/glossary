@@ -10,7 +10,7 @@ Un cluster è un gruppo di computer o applicazioni che lavorano insieme verso un
 
 ## Quali problematiche affronta
 
-Il software che gira su un singolo computer presenta un singolo punto di vulnerabilità  - se quel computer si blocca, o qualcuno accidentalmente stacca il cavo di alimentazione, significa che parte del sistema critico al business potrebbe andare offline. Ecco perché il software moderno è generalmente sviluppato come un'[applicazioni distribuita](/distributed_apps/), raggruppato in clusters. 
+Il software che è in esecuzione su un singolo computer presenta un singolo punto di vulnerabilità: se quel computer si blocca, o qualcuno accidentalmente ne scollega il cavo di alimentazione, parte del sistema critico di business potrebbe andare offline. Ecco perché un software moderno è generalmente sviluppato come [applicazioni distribuite](/distributed_apps/), raggruppate in cluster. 
 
 ## In che modo aiuta
 
