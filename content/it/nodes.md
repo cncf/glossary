@@ -14,4 +14,4 @@ Un'applicazione potrebbe (e in molti casi è così) girare su una singola macchi
 
 ## In che modo aiuta
 
-Un nodo fornisce una precisa unità di calcolo (memoria, CPU, rete) che puoi assegnare ad un cluster. In una cloud native piattaforma o applicazione cloud native un nodo rappresenta una singola unità che può eseguire il processo. In teoria, i singoli nodi sono privi di differenze nel senso che qualsiasi nodo di un particolare tipo è praticamente indistinguibile da qualsiasi altro nodo dello stesso tipo.
+Un nodo fornisce una precisa unità di calcolo (memoria, CPU, rete) che può essere assegnata ad un cluster. In una cloud native piattaforma o applicazione cloud native un nodo rappresenta una singola unità che può eseguire il processo. In teoria, i singoli nodi sono privi di differenze, nel senso che qualsiasi nodo di un particolare tipo è praticamente indistinguibile da qualsiasi altro nodo dello stesso tipo.
