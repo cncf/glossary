@@ -10,7 +10,7 @@ Un nodo è un computer che lavora insieme ad altri computer, o nodi, per realizz
 
 ## Quali problematiche affronta
 
-Mentre un'applicazione potrebbe (e molte le fanno) girare su una singola macchina, ci sono alcuni rischi legati a questo. Vale a dire che il malfunzionamento del sistema sottostante interromperà l'esecuzione dell'applicazione. Per risolvere questo problema, gli sviluppatori hanno iniziato a creare [applicazioni distribuite](/distributed_apps/) dove ogni processo viene eseguito su un differente nodo. Perciò, i nodi che eseguono le applicazioni o processi come parte di un gruppo formano un [cluster](/cluster/), o gruppo di nodi che lavorano insieme per raggiungere un obiettivo comune.
+Un'applicazione potrebbe (e in molti casi è così) girare su una singola macchina, ma ci sono alcuni rischi legati a questo. Il malfunzionamento del sistema sottostante, ad esempio, potrebbe interrompere l'esecuzione dell'applicazione. Per risolvere questo problema, gli sviluppatori hanno iniziato a creare [applicazioni distribuite](/distributed_apps/) dove ogni processo viene eseguito su un nodo differente. Perciò, i nodi che eseguono le applicazioni o processi come parte di un gruppo formano un [cluster](/it/cluster/), o gruppo di nodi che lavorano insieme per raggiungere un obiettivo comune.
 
 ## In che modo aiuta
 
