@@ -24,7 +24,7 @@ Go to the [Glossary GitHub repo issues](https://github.com/cncf/glossary/issues)
 
 ![Issue and labels](/images/how-to/issue-and-labels.png)
 
-Make sure the term you are interested in is not already assigned to someone. Here you can see that the first three terms are available while the next term has alrady been assigned.
+Make sure the term you are interested in is not already assigned to someone. Here you can see that the first three terms are available while the next term has already been assigned.
 
 ![assigning a term](/images/how-to/howto-04.png)
 
