@@ -1,6 +1,6 @@
 ---
 title: एप्लीकेशन प्रोग्रामिंग इंटरफेस
-status: 
+status: Completed
 category: प्रौद्योगिकी
 ---
 
