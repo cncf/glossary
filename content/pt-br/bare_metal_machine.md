@@ -1,5 +1,5 @@
 ---
-title: Bare Metal Machine
+title: Máquina Bare Metal
 status: Completed
 category: tecnologia
 ---
