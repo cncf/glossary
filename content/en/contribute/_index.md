@@ -16,7 +16,7 @@ There are three ways you can contribute:
 3) Help translate the glossary
 
 ## Join the Glossary community! 
-Consider joining our monthly Glossary Working Group meetings if you want to contribute regularly. You can find meeting details in the CNCF calendar. You can also connect with the maintainers and fellow contributors in our #glossary channel on the [CNCF calendar](https://www.cncf.io/calendar/) — we'd love to meet you! 
+Consider joining our monthly Glossary Working Group meetings if you want to contribute regularly. You can find meeting details in the [CNCF calendar](https://www.cncf.io/calendar/). You can also connect with the maintainers and fellow contributors in our #glossary channel on the CNCF Slack — we'd love to meet you! 
 
 ## Propose new terms
 You can propose a new term for others to work on or create a new definition yourself. Either way, you'll start by creating an issue (note that you'll need a GitHub account to do this).
@@ -36,7 +36,7 @@ Add the word you're suggesting and hit "submit new issue." If you're just propos
 
 ![new issue](/images/how-to/howto-03.png)
 
-Please join the #glossary channel on the CNCF Slack and let @Catherine Paganini, @jmo, and @Seokho Son know that you've submitted an issue and would like to work on it. They'll assign the issue to you signaling to everyone else that the term is already taken.
+Please join the #glossary channel on the CNCF Slack and let @Catherine Paganini, @jmo, @Seokho Son, @Jihoon Seo and @iamnoah know that you've submitted an issue and would like to work on it. They'll assign the issue to you signaling to everyone else that the term is already taken.
 
 Here you can see that the first three terms are available while the next term has been assigned to someone.
 
