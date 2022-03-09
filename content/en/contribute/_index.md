@@ -52,7 +52,6 @@ You'll see a variety of templates. To propose a new term in English, select "Req
 
 Add the word you're suggesting, answer the two questions below, and hit "submit new issue." If you're just proposing a new term, you're done! To work on it, follow the next steps.
 
-![new issue](/images/how-to/submit-issue.png)
 
 ### Triaging your issue
 Next, the maintainers will triage the issue. That means they will assess if the term should be part of the Glossary (note, not every term will be admitted. Terms should be established and widely-used cloud native terms).
