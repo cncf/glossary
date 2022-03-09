@@ -1,16 +1,16 @@
 ---
 title: Computación en la nube
-status: Completed
-category: concept
+status: Completado
+category: concepto
 ---
 
-## What it is
-Cloud computing is a model that offers compute resources like CPU, network, and disk capabilities on-demand over the internet. Cloud computing gives users the ability to access and use computing power in a remote physical location. Cloud providers like AWS, GCP, Azure, DigitalOcean, and others all offer third parties the ability to rent access to compute resources in multiple geographic locations. 
+## Qué es
+Computación en la nube es un modelo que ofrece capacidades en recursos de computo como CPU, red y disco por demanda sobre internet. Computación en la nube permite a los usuarios acceder y hacer uso de los poderes de computo en una ubicación física remota. Los proveedores de nube como AWS, GCP, Azure, DititalOcean, y otros, todos ofrecen contratos con la habilidad de rentar acceso a recursos de computo en multiples ubicaciones geograficas.
 
-## Problem it addresses
-Organizations traditionally faced two main problems when attempting to expand their use of computing power. They either acquire, support, design, and pay for facilities to host their physical servers and network or expand and maintain those facilities. Cloud computing allows organizations to outsource some portion of their computing needs to another organization.
+## A qué problema esta dirigido
+Las organizaciones tradicionales poseen dos problemas principales al momento de expandir el uso del poder de computo. Entre ellos adquisición, soporte, diseño y pago por facilidades ejecutadas localmente en servidores y red ó expandir el mantenimiento de estas "facilidades". Computación en la nube habilita a las organizaciones de externalizar parte de sus necesidades de computo a otra organización.
 
-## How it helps
-Cloud providers offer organizations the ability to rent compute resources on-demand and pay for usage. This allows for two major innovations: organizations can try things without wasting time planning and spending money or resources on new physical infrastructure and they can [scale](/scalability/) as needed and on-demand. Cloud computing allows organizations to adopt as much or as little infrastructure as they need. 
+## Cómo esto ayuda
+Computación en la nube ofrece a las organizaciones la haibilitación de rentar recursos de computo bajo demanda y pago por uso. Esto habilita dos inovaciones: las organizaciones pueden probar sin mal gastar tiempo e inversión de dinero o recursos en infraestructura fisica y les permite [escalar](/scalability/) sus necesidabes bajo demanda. Computación en la nube permite a las organizaciones adoptar una infraestructura mayor o menor a las necesidades.
 
 
