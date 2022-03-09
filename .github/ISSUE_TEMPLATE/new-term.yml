@@ -1,8 +1,17 @@
-name: Request to add a new term (Default:English)
+name: Request to add a new term (English)
 description: Issue to add a new term in English
-title: "[New term] `GlossaryTermHere` for `En`"
-labels: ["lang/en","new term"]
+title: "[New term] `GlossaryTermHere`"
+labels: ["lang/en","new term","triage/awaiting"]
 body:
+  - type: markdown
+    attributes:
+      value: |
+        ---
+        ## Thanks for taking the time to add a request to the glossary!
+        
+        This issue-template is to propose a new Glossary term.
+        Please check https://glossary.cncf.io/contribute/#propose-new-terms first.
+
   - type: textarea
     id: details
     attributes:
@@ -14,11 +23,25 @@ body:
         - 
     validations:
       required: true
+  - type: checkboxes
+    id: checkboxes
+    attributes:
+      label: Checklist
+      options:
+        - label: There is no existing issue yet. [(shift+click to check existing issues)](https://github.com/cncf/glossary/issues?q=label%3A%22new+term%22)
+          required: true
+        - label: I understand that maintainers will assess if the term should be part of the Glossary. (Please be patient)
+          required: true
+        - label: I want to work on this term. (If you don't check, maintainers will assign another volunteer)
+          required: false
   - type: markdown
     attributes:
       value: |
         ---
-        ## Thanks for taking the time to add a request to the glossary!
-        To claim this issue, please ask for it below. 
-        The maintainers will assign a contributor to this issue.
-        Before getting started, please refer to the [style guide](https://glossary.cncf.io/style-guide/).
+        ## Note
+        
+        Maintainers will assign a label after assessment procedure. 
+        (from `triage/awaiting` to `triage/accepted` or `triage/not accepted`)
+
+        A contributor can be assigned to this issue after the issue get the `triage/accepted` label.
+        The assignee needs to check [Style Guide](https://glossary.cncf.io/style-guide/).
