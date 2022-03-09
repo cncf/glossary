@@ -15,7 +15,7 @@ body:
   - type: textarea
     id: details
     attributes:
-      label: Please describe why this term needs to be added
+      label: 1. Please describe why this term needs to be added
       value: |
         #### What this term is about? (briefly)
         - 
@@ -26,7 +26,7 @@ body:
   - type: checkboxes
     id: checkboxes
     attributes:
-      label: Checklist
+      label: 2. Checklist
       options:
         - label: There is no existing issue yet. [(shift+click to check existing issues)](https://github.com/cncf/glossary/issues?q=label%3A%22new+term%22)
           required: true
@@ -34,12 +34,11 @@ body:
           required: true
         - label: I want to work on this term. (If you don't check, maintainers will assign another volunteer)
           required: false
-  - type: markdown
+  - type: textarea
+    id: note
     attributes:
+      label: (Note)
       value: |
-        ---
-        ## Note
-        
         Maintainers will assign a label after assessment procedure. 
         (from `triage/awaiting` to `triage/accepted` or `triage/not accepted`)
 
