@@ -1,34 +1,40 @@
+# This CODEOWNERS file defines contributors that are
+# responsible for code in this repository.
 
-# These are the maintainers in the repo.
-# These owners will be the default owners for everything in the repo.
-# We require at least two maintainers to sign off on a new term.
+# Code owners are automatically requested for review
+# when someone opens a pull request that modifies code that they own.
 
-* @caniszczyk @CathPag @jasonmorgan @seokho-son
+# These owners will be default owners for everything in this repository.
+# These owners consist of Maintainers and English approvers.
+* @caniszczyk @CathPag @jasonmorgan @seokho-son @iamNoah1 @jihoon-seo
 
 
-# These are the owners for localization contents
+# These are the owners (approvers) for localization contents
 # in each `/content/language/` directory.
 
-# Owners of Korean contents
+# Approvers for Korean contents
 /content/ko/ @seokho-son @Eviekim @jihoon-seo @yunkon-kim
 
-# Owners of Portuguese contents
-/content/pt/ @edsoncelio @brunoguidone @jessicalins
+# Approvers for Portuguese contents
+/content/pt-br/ @edsoncelio @brunoguidone @jessicalins
 
-# Owners of Hindi contents
+# Approvers for Hindi contents
 /content/hi/ @Garima-Negi @sayantani11 @anubha-v-ardhan @jayesh-srivastava
 
-# Owners of German contents
+# Approvers for German contents
 /content/de/ @CathPag @iamNoah1 @DaveVentura
 
-# Owners of Italian contents
+# Approvers for Italian contents
 /content/it/ @Giulia-dipietro @meryem-ldn @annalisag-spark @sistella
 
-# Owners of Arabic contents
+# Approvers for Arabic contents
 /content/ar/ @TarekMSayed @same7ammar @AShabana @hacktron95
 
-# Owners of Bengali contents
+# Approvers for Bengali contents
 /content/bn/ @mitul3737 @Mouly22 @ikramulkayes
 
-# Owners of Spanish contents
+# Approvers for Spanish contents
 /content/es/ @CathPag @raelga @electrocucaracha
+
+# Approvers for Chinese contents
+/content/zh/ @hanyuancheung @Jacob953 @Rocksnake @Submarinee
