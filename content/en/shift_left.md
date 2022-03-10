@@ -13,7 +13,7 @@ Although originally used to refer to the process of testing early, Shift Left ca
 Security issues, bugs, and software defects can be more difficult and expensive to fix if they are discovered late in the development cycle or after deployment, particularly if the software has already been deployed into production. 
 
 ## How it helps
-By adopting a shift left mindset for software development, teams can implement testing and security throughout the development lifecycle. And because responsibility for testing and security is shared across the development team — from software engineers to quality assurance to DevOps/operations — everyone plays a part in ensuring the stability and security of an application. 
+By adopting a Shift Left mindset for software development, teams can implement testing and security throughout the development lifecycle. And because responsibility for testing and security is shared across the development team — from software engineers to quality assurance to operations — everyone plays a part in ensuring the stability and security of an application. 
 
 In addition, shifting left enables continuous improvement and follows an [agile](https://glossary.cncf.io/agile_software_development/) rather than waterfall approach to development. Teams can make small iterative improvements and identify problems earlier on. This approach allows engineers to adopt security and secure development practices as early as the design and architecture phase. Testing throughout the development cycle, decreases the time required for testing before a software release. 
 
