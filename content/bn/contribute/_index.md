@@ -23,106 +23,106 @@ menu:
 
 [Glossary GitHub repo issue](https://github.com/cncf/glossary/issues) এ যান। সেখানে আপনি সমস্ত সমস্যার একটি তালিকা দেখতে পাবেন। আপনি লেবেল দ্বারা ফিল্টার করতে পারেন (যেমন বাংলা ভাষা, সাহায্যের প্রয়োজন(help needed), প্রথম ভাল সমস্যা(good first issue))। মনে রাখবেন যে এটি করার জন্য আপনার একটি GitHub অ্যাকাউন্টের প্রয়োজন হবে।
 
-![Issue and labels](/images/how-to/issue-and-labels.png)
+![ইস্যু এবং লেবেল](/images/how-to/issue-and-labels.png)
 
-Make sure the term you are interested in is not already assigned to someone. Here you can see that the first three terms are available while the next term has already been assigned.
+নিশ্চিত করুন যে আপনি যে পদ/শব্দটিতে আগ্রহী তা ইতিমধ্যেই কাউকে বরাদ্দ করা হয়নি। এখানে আপনি দেখতে পাচ্ছেন যে প্রথম তিনটি  পদ/শব্দ উপলব্ধ রয়েছে যখন পরবর্তী মেয়াদ ইতিমধ্যেই বরাদ্দ করা হয়েছে৷
 
-![assigning a term](/images/how-to/howto-04.png)
+![একটি শব্দ বরাদ্দ করা](/images/how-to/howto-04.png)
 
-Once you found a term you want to work on, say so in the issue. Click on it and add a comment.
+একবার আপনি এমন একটি শব্দ খুঁজে পেলেন যেটিতে আপনি কাজ করতে চান, ইস্যুতে(issue) বলুন। এটি ক্লিক করুন এবং একটি মন্তব্য যোগ করুন.
 
-![Claiming an issue](/images/how-to/claiming-an-issue.png)
-
-Additionally, please also join the [#glossary](https://cloud-native.slack.com/archives/C02TX20MQBB) channel on the CNCF Slack and let the maintainers know that you've raised an issue for a new term (ideally, tag _@Catherine Paganini_, _@jmo_, _@Seokho Son_, _@Jihoon Seo_, and/or _@iamnoah_ to be sure they don't miss it). Note that you can only claim one term at a time. If you want to work on multiple terms, please finish one before claiming the next one.
-
-Once they assign it to you, you can start working on it. For the next steps, please refer to the [Submitting a new term (creating a PR)](#submitting-a-new-term-creating-a-pr) section.
-
-## Propose new terms
-You can propose a new term for others to work on or create a new definition yourself. Either way, you'll start by creating an issue.
-
-Below is a step-by-step guide for those not yet familiar with GitHub. **If you are a GitHub Pro**, please *do* have a quick look to make sure you use our issue templates, appropriate naming conventions, claim a PR on Slack (otherwise we may miss it), and where to find the file template. And please make sure to read the [Style Guide](https://glossary.cncf.io/style-guide/) before getting started — thank you! 
-
-### Creating an issue
-Go to the [Glossary GitHub repo](https://github.com/cncf/glossary/issues) issues and click on "new issue."
-
-![issues](/images/how-to/howto-01.png)
-
-You'll see a variety of templates. To propose a new term in English, select "Request to add a new term (Default:English)."
-
-![templates](/images/how-to/english-issue-template-new.png)
-
-Add the word you're suggesting, answer the two questions below, and hit "submit new issue." If you're just proposing a new term, you're done! To work on it, follow the next steps.
+![একটি সমস্যা(issue) দাবি করা](/images/how-to/claiming-an-issue.png)
 
 
-### Triaging your issue
-Next, the maintainers will triage the issue. That means they will assess if the term should be part of the Glossary (note, not every term will be admitted. Terms should be established and widely-used cloud native terms).
+এছাড়াও, অনুগ্রহ করে CNCF Slack-এর [#glossary](https://cloud-native.slack.com/archives/C02TX20MQBB) চ্যানেলে যোগ দিন এবং রক্ষণাবেক্ষণকারীদের জানান যে আপনি একটি নতুন শব্দের জন্য একটি সমস্যা উত্থাপন করেছেন (আদর্শভাবে) , ট্যাগ করুন _@Catherine Paganini_, _@jmo_, _@Seokho Son_, _@Jihoon Seo_, এবং/অথবা _@iamnoah_ যাতে তারা এটি মিস না করে)। মনে রাখবেন যে আপনি একবারে শুধুমাত্র একটি মেয়াদ দাবি করতে পারেন। আপনি যদি একাধিক শর্তে কাজ করতে চান, অনুগ্রহ করে পরেরটি দাবি করার আগে একটি শেষ করুন।
 
-Please let the maintainers know that you've submitted a term on Slack as they may otherwise miss it. Ideally, tag _@Catherine Paganini_, _@jmo_, _@Seokho Son_, _@Jihoon Seo_, and/or _@iamnoah_.  If the term is approved and you want to work on it, they'll assign it to you.
+একবার তারা এটি আপনাকে বরাদ্দ করলে, আপনি এটিতে কাজ শুরু করতে পারেন। পরবর্তী ধাপগুলির জন্য, অনুগ্রহ করে [একটি নতুন শব্দ জমা দেওয়া (একটি পিআর তৈরি করা)] (#submitting-a-new-term-creating-a-pr) বিভাগটি পড়ুন।
 
-Note that you can only claim one term at a time. If you want to work on multiple terms, please finish one before claiming the next.
+## নতুন শর্তাবলী প্রস্তাব করুন
+আপনি অন্যদের জন্য একটি নতুন শব্দ প্রস্তাব করতে পারেন বা নিজে একটি নতুন সংজ্ঞা তৈরি করতে পারেন৷ যেভাবেই হোক, আপনি একটি সমস্যা তৈরি করে শুরু করবেন।
 
-### Submitting a new term (creating a PR)
+যারা এখনও গিটহাবের সাথে পরিচিত নন তাদের জন্য নীচে একটি ধাপে ধাপে নির্দেশিকা। **আপনি যদি একজন GitHub Pro** হন, তাহলে অনুগ্রহ করে *করুন* যাতে আপনি আমাদের ইস্যু টেমপ্লেট, উপযুক্ত নামকরণ প্রথা ব্যবহার করেন, স্ল্যাকের উপর একটি পিআর দাবি করেন (অন্যথায় আমরা এটি মিস করতে পারি), এবং কোথায় পাবেন তা নিশ্চিত করতে দ্রুত দেখুন ফাইল টেমপ্লেট। এবং অনুগ্রহ করে শুরু করার আগে [স্টাইল গাইড](https://glossary.cncf.io/style-guide/) পড়া নিশ্চিত করুন — ধন্যবাদ!
 
-Before getting started, please read the [Style Guide](https://glossary.cncf.io/style-guide/) — it will help minimize backs and forth. As stated in the style guide, we highly recommend starting with a Google or Word doc. 
+### একটি সমস্যা তৈরি করা
+[Glossary GitHub repo](https://github.com/cncf/glossary/issues) সমস্যাগুলিতে যান এবং "নতুন সমস্যা" এ ক্লিক করুন।
 
-Once the term is ready to submit, go to content (under code)…
+![সমস্যা(issues)](/images/how-to/howto-01.png)
+
+আপনি বিভিন্ন ধরনের টেমপ্লেট দেখতে পাবেন। ইংরেজিতে একটি নতুন শব্দ প্রস্তাব করতে, "একটি নতুন শব্দ যোগ করার অনুরোধ (ডিফল্ট: ইংরেজি) নির্বাচন করুন৷
+
+![টেমপ্লেট(template)](/images/how-to/english-issue-template-new.png)
+
+আপনি যে শব্দটি প্রস্তাব করছেন তা যোগ করুন, নীচের দুটি প্রশ্নের উত্তর দিন এবং "নতুন সমস্যা জমা দিন" টিপুন। আপনি যদি শুধু একটি নতুন শব্দ প্রস্তাব করেন, আপনি সম্পন্ন! এটিতে কাজ করতে, পরবর্তী পদক্ষেপগুলি অনুসরণ করুন৷
+
+
+### আপনার সমস্যা এর পরবর্তী ধাপ
+এর পরে, রক্ষণাবেক্ষণকারীরা সমস্যাটি সমাধান করবে। এর অর্থ হল শব্দটি শব্দকোষের অংশ হওয়া উচিত কিনা তা তারা মূল্যায়ন করবে (দ্রষ্টব্য, প্রতিটি পদকে সংযুক্ত করা হবে না। শর্তাবলী প্রতিষ্ঠিত হওয়া উচিত এবং ব্যাপকভাবে ব্যবহৃত ক্লাউড নেটিভ টার্মস)।
+
+অনুগ্রহ করে রক্ষণাবেক্ষণকারীদের জানান যে আপনি স্ল্যাকে একটি মেয়াদ জমা দিয়েছেন কারণ তারা অন্যথায় এটি মিস করতে পারে। আদর্শভাবে, ট্যাগ করুন _@ক্যাথরিন প্যাগানিনি_, _@jmo_, _@Seokho Son_, _@Jihoon Seo_, এবং/or _@iamnoah_। যদি শব্দটি অনুমোদিত হয় এবং আপনি এটিতে কাজ করতে চান তবে তারা এটি আপনাকে বরাদ্দ করবে।
+
+মনে রাখবেন যে আপনি একবারে শুধুমাত্র একটি মেয়াদ দাবি করতে পারেন। আপনি যদি একাধিক শর্তে কাজ করতে চান, অনুগ্রহ করে পরেরটি দাবি করার আগে একটি শেষ করুন।
+
+### একটি নতুন পদ জমা দেওয়া (একটি PR তৈরি করা)
+
+শুরু করার আগে, অনুগ্রহ করে [শৈলী নির্দেশিকা](https://glossary.cncf.io/style-guide/) পড়ুন — এটি পিছনে এবং পিছনে ছোট করতে সাহায্য করবে। শৈলী নির্দেশিকাতে যেমন বলা হয়েছে, আমরা একটি Google বা Word ডক দিয়ে শুরু করার সুপারিশ করি।
+
+শব্দটি জমা দেওয়ার জন্য প্রস্তুত হয়ে গেলে, সামগ্রীতে যান (কোডের অধীনে)…
 
 ![content](/images/how-to/howto-05.png)
 
-…then "en" (or the language you are submitting for)…
+…তারপর "bn" (বা আপনি যে ভাষার জন্য জমা দিচ্ছেন)…
 
-![language folder](/images/how-to/howto-06.png)
+![ভাষা ফোল্ডার](/images/how-to/howto-06.png)
 
-…and select  _TEMPLATE.md
+…এবং _TEMPLATE.md নির্বাচন করুন
 
-![template](/images/how-to/howto-07.png)
+![টেমপ্লেট](/images/how-to/howto-07.png)
 
-Copy the content…
+কন্টেন্ট কপি করুন...
 
-![copy content](/images/how-to/howto-08.png)
+![কন্টেন্ট কপি](/images/how-to/howto-08.png)
 
-…and go back to the "en" folder. Hit "add file" and select "create new file."
+…এবং "bn" ফোল্ডারে ফিরে যান। "ফাইল যোগ করুন" টিপুন এবং "নতুন ফাইল তৈরি করুন" নির্বাচন করুন।
 
-![create new file](/images/how-to/howto-09.png)
+![নতুন ফাইল তৈরি করুন](/images/how-to/howto-09.png)
 
-Add the term name in the URL (no capitalization and no space) and .md at the end (note: if your preview doesn't work, you probably forgot to add .md at the end). Now paste the template content below. Copy and paste your definition into the file. Note that GitHub uses markdown to format the text (e.g., hyperlink, bold, italic). Please refer to this [markdown cheat sheet](https://www.markdownguide.org/cheat-sheet/). To verify you've used markdown as intended, go to "preview."
+URL-এ শব্দের নাম যোগ করুন (কোনও ক্যাপিটালাইজেশন এবং স্পেস নেই) এবং শেষে .md (দ্রষ্টব্য: যদি আপনার পূর্বরূপ কাজ না করে, আপনি সম্ভবত শেষে .md যোগ করতে ভুলে গেছেন)। এখন নিচের টেমপ্লেট কন্টেন্ট পেস্ট করুন। ফাইলটিতে আপনার সংজ্ঞাটি অনুলিপি করুন এবং পেস্ট করুন। মনে রাখবেন GitHub টেক্সট ফরম্যাট করতে মার্কডাউন ব্যবহার করে (যেমন, হাইপারলিঙ্ক, বোল্ড, ইটালিক)। অনুগ্রহ করে এই [মার্কডাউন চিট শীট](https://www.markdownguide.org/cheat-sheet/) দেখুন। আপনি যেভাবে মার্কডাউন ব্যবহার করেছেন তা যাচাই করতে, "প্রিভিউ" এ যান।
 
-![finalize term](/images/how-to/howto-10.png)
+![চূড়ান্ত মেয়াদ](/images/how-to/howto-10.png)
 
-Scroll down and name the new commit file when you are ready to submit. You are now about to commit the term to your own branch. Submitting a PR requires one more step. Hit "commit new file" and…
+আপনি যখন জমা দিতে প্রস্তুত তখন নিচে স্ক্রোল করুন এবং নতুন কমিট ফাইলের নাম দিন। আপনি এখন আপনার নিজের শাখায় শব্দটি কমিট করতে চলেছেন। একটি PR জমা দেওয়ার জন্য আরও একটি ধাপ প্রয়োজন৷ "নতুন ফাইল কমিট" টিপুন এবং...
 
-![commit new file](/images/how-to/howto-11.png)
+![নতুন ফাইল কমিট](/images/how-to/howto-11.png)
 
-…now you're creating an PR:
+…এখন আপনি একটি PR তৈরি করছেন:
 
-![create a pr](/images/how-to/howto-12.png)
+![একটি PR তৈরি করুন](/images/how-to/howto-12.png)
 
-You should now see your PR under "Pull requests."
+আপনার এখন "পুল রিকোয়েস্ট" এর অধীনে আপনার PR দেখতে হবে।
 
 ![prs](/images/how-to/howto-13.png)
 
-## Update an existing term
-To update an existing term, you can either suggest a change via an issue or go ahead and update the term directly by submitting a pull request (PR).
+## একটি বিদ্যমান টার্ম আপডেট করুন
+একটি বিদ্যমান শব্দ আপডেট করতে, আপনি হয় একটি সমস্যার মাধ্যমে একটি পরিবর্তনের পরামর্শ দিতে পারেন বা এগিয়ে যান এবং একটি পুল অনুরোধ (PR) জমা দিয়ে সরাসরি শব্দটি আপডেট করতে পারেন৷
 
-### Request a change via an issue
-If you want to flag a problem with a term but don't know how or want to fix it yourself, click on "report issue."
+### একটি সমস্যার মাধ্যমে একটি পরিবর্তনের অনুরোধ করুন
+আপনি যদি একটি শব্দের সাথে একটি সমস্যা ফ্ল্যাগ করতে চান কিন্তু কীভাবে এটি নিজেই ঠিক করতে চান না জানেন, তাহলে "সমস্যা প্রতিবেদন করুন" এ ক্লিক করুন৷
 
-![report issue](/images/how-to/howto-14.png)
+![রিপোর্ট সমস্যা](/images/how-to/howto-14.png)
 
-This will directly open an issue. Please elaborate on which change is needed and why. Hit submit, and that's it. 
+এটি সরাসরি একটি সমস্যা খুলবে। কোন পরিবর্তন প্রয়োজন এবং কেন তা বিস্তারিতভাবে বলুন। জমা দিন, এবং যে এটা.
 
-![submit issue](/images/how-to/howto-15.png)
+![সমস্যার জমা দিন](/images/how-to/howto-15.png)
 
-### Update a term directly
-To change a term directly, go to "edit this page." 
+### একটি টার্ম সরাসরি আপডেট করুন
+একটি শব্দ সরাসরি পরিবর্তন করতে, "এই পৃষ্ঠাটি সম্পাদনা করুন" এ যান।
 
-![edit this page](/images/how-to/howto-16.png)
+![এই পৃষ্ঠাটি সম্পাদনা করুন](/images/how-to/howto-16.png)
 
-This will open the term's GitHub page. Make your changes and submit a PR. Please refer to "submitting a new term" above for a detailed description (jump to the section that speaks about markdown).
+এটি শব্দের GitHub পৃষ্ঠা খুলবে। আপনার পরিবর্তন করুন এবং একটি পিআর জমা দিন। বিশদ বিবরণের জন্য অনুগ্রহ করে উপরে "একটি নতুন শব্দ জমা দেওয়া" দেখুন (মার্কডাউন সম্পর্কে কথা বলা বিভাগে যান)।
 
-## Help translate the glossary
-To help translate the glossary into your native language, please join the #glossary-localizations channel on the CNCF Slack and let us know. You can either join an existing team or create a new one (to see what it takes, check out or [Localization Guide](https://github.com/cncf/glossary/blob/main/LOCALIZATION.md)). Please also join our monthly Glossary Working Group meetings. You can find meeting details in the [CNCF calendar](https://www.cncf.io/calendar/). We look forward to meeting you there!
-
+## শব্দকোষ অনুবাদ করতে সাহায্য করুন
+আপনার মাতৃভাষায় শব্দকোষটি অনুবাদ করতে সাহায্য করতে, অনুগ্রহ করে CNCF Slack-এ #glossary-localizations চ্যানেলে যোগ দিন এবং আমাদের জানান। আপনি হয় একটি বিদ্যমান দলে যোগ দিতে পারেন বা একটি নতুন দল তৈরি করতে পারেন (এটি কী নেয় তা দেখতে, চেক আউট করুন বা [স্থানীয়করণ গাইড](https://github.com/cncf/glossary/blob/main/LOCALIZATION.md))। এছাড়াও আমাদের মাসিক শব্দকোষ ওয়ার্কিং গ্রুপ মিটিং যোগদান করুন. আপনি [CNCF ক্যালেন্ডার](https://www.cncf.io/calendar/) এ মিটিংয়ের বিশদ বিবরণ পেতে পারেন। আমরা সেখানে আপনার সাথে দেখা করার জন্য উন্মুখ!
 
 
 
