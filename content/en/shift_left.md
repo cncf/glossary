@@ -5,7 +5,7 @@ category: Concept
 ---
 
 ## What it is
-Left in Shift Left refers to the left-to-right (development-to-development) workflow. Shift Left is the practice of implementing tests, security, or other development practices early in the software development cycle rather than towards the end. The actual stages in the software development lifecycle may be defined in different ways based on the team and the models used.
+Left in Shift Left refers to earlier stages in a software development lifecycle, thinking of the lifecycle as a line where stages are executed from left to right. Shift Left is the practice of implementing tests, security, or other development practices early in the software development lifecycle rather than towards the end. 
 
 Although originally used to refer to the process of testing early, Shift Left can now also be applied to other aspects of software development and [DevOps](https://glossary.cncf.io/devops/), such as security and deployment. 
 
