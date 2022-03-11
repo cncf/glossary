@@ -1,6 +1,6 @@
 ---
 title: Shift Left
-status: Feedback Appreciated
+status: Completed
 category: Concept
 ---
 
