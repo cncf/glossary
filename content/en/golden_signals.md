@@ -5,7 +5,7 @@ category: concept
 ---
 
 ## What it is
-[Golden signals](https://sre.google/sre-book/monitoring-distributed-systems/#xref_monitoring_golden-signals) are metrics that help us understand how [services](https://glossary.cncf.io/service/) are experienced by users. Today, it is the gold standard for monitoring application performance and focuses on four specific metrics: Latency, traffic, errors, and saturation. The first three metrics relate to requests. A request is a message sent from one service to another. Services do that to collaborate and work as a [distributed app](https://glossary.cncf.io/distributed_apps/).
+ [Golden signals](https://sre.google/sre-book/monitoring-distributed-systems/#xref_monitoring_golden-signals) are metrics that help us understand how [services](https://glossary.cncf.io/service/) are experienced by users. While there are several metrics that can be observed, golden metrics focus on the most important/significant ones: Latency, traffic, errors, and saturation. 
 
 *Latency* is the time it takes to service a request. *Traffic* measures the request frequency placed on the application. *Errors* measure the request failure rate. And *Saturation* measures the capacity of app resources, allowing users to address bottlenecks before they become a problem.
  
