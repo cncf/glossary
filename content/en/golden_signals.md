@@ -10,7 +10,7 @@ category: concept
 *Latency* is the time it takes to service a request. *Traffic* measures the request frequency placed on the application. *Errors* measure the request failure rate. And *Saturation* measures the capacity of app resources, allowing users to address bottlenecks before they become a problem.
  
 ## Problem it addresses
-Without metrics, engineers have nothing to deduce why applications are behaving a certain way. While earlier monitoring tools were designed to monitor machines (not applications/services), modern monitoring systems gather a huge variety of parameters. They collect so many metrics that it's easy to lose focus on what is relevant for the user. Which of all these metrics should you focus on to ensure your customers have a great user experience?
+Finding out why an application behaves a certain way, especially when it doesn't behave like expected, can be a hard task for engineers. While earlier monitoring tools were more focused on monitoring machines (not applications/services), modern monitoring systems gather a huge variety of metrics. It's easy to lose focus on what is relevant for the user experience. Which of all these metrics should you focus on to ensure your customers have a great user experience?
 
 ## How it helps
 Golden signals help engineers focus on metrics that matter for the user experience. They help steer clear from getting stuck in the mud by putting performance data into different buckets and providing the visibility needed to pinpoint problems that might affect the user.
