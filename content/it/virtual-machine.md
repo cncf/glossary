@@ -1,6 +1,6 @@
 ---
 title: Macchina virtuale (VM)
-status: Feedback Appreciated 
+status: Completed
 category: Technologia
 ---
 
