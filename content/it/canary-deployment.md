@@ -1,5 +1,5 @@
 ---
-title: Deployment Canary
+title: Canary Deployment
 status: Completed
 category: Concetto
 ---
