@@ -59,3 +59,13 @@ other = "프린트하기"
 other = "일반 화면으로 돌아가기"
 [print_entire_section]
 other = "전체 섹션 프린트하기"
+
+# Feedback section
+[feedback_title]
+other = "피드백"
+[feedback_question]
+other = "이 페이지가 도움이 되었나요?"
+[feedback_answer_yes]
+other = "네"
+[feedback_answer_no]
+other = "아니오"
