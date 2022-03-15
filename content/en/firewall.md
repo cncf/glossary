@@ -1,0 +1,21 @@
+---
+title: Firewall
+status: Feedback Appreciated
+category: Term
+---
+
+## What it is
+A firewall is a system that filters network traffic. It can either let it pass or block it, according to some specified rules. 
+A firewall might be hardware, software, or a combination of the two.
+
+## Problem it addresses
+Firewalls are used to protect against malware and network-based threats.
+If a computer is not protected by a firewall, it allows unrestricted access to other networks.
+This means it accepts any type of connection that is made through another person.
+Anyone, even the network, can have access to our device and have complete control over it. 
+
+## How it helps
+A firewall system examines network traffic using pre-defined rules.
+The traffic is subsequently filtered, and any traffic coming from untrustworthy or suspect sources is blocked.
+It only accepts traffic that has been configured to accept. 
+They establish a barrier between secured and controlled internal networks that can be trusted, such as Home or Work network and untrusted outside networks, such as the Internet.
