@@ -1,5 +1,5 @@
 ---
-title: Deployment Blue Green
+title: Blue Green Deployment
 status: Completed
 category: Concetto
 ---
