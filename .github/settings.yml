@@ -29,13 +29,23 @@ collaborators:
     
   - username: seokho-son
     permission: admin
-
-  # l10n ko approvers
-  # Note: seokho-son is both a maintainer (maintain) and Korean approver (push)
+  
+  # English approvers (approver for all files in repository)
   - username: jihoon-seo
     permission: push
 
+  - username: iamNoah1
+    permission: push  
+  
+
+  # Localization approvers
+  # l10n ko approvers
+  # Note: seokho-son is both Maintainer (maintain) and Korean approver (push)
+  # Note: jihoon-seo is both English approver (push) and Korean approver (push)
   - username: Eviekim
+    permission: push
+
+  - username: yunkon-kim
     permission: push
 
   # l10n pt approvers
@@ -43,6 +53,9 @@ collaborators:
     permission: push
 
   - username: brunoguidone
+    permission: push
+
+  - username: jessicalins
     permission: push
 
   # l10n hi approvers
@@ -59,11 +72,12 @@ collaborators:
     permission: push
 
   # l10n de approvers
-  # Note: CathPag is both a maintainer (maintain) and de approver (push)
-  - username: iamNoah1
-    permission: push
-    
+  # Note: CathPag is both Maintainer (maintain) and de approver (push)
+  # Note: iamNoah1 is both English approver (push) and de approver (push)
   - username: DaveVentura
+    permission: push
+
+  - username: Petria3s
     permission: push
 
   # l10n it approvers
@@ -80,9 +94,48 @@ collaborators:
     permission: push
 
   # l10n ar approvers
+  - username: TarekMSayed
+    permission: push
+
+  - username: same7ammar
+    permission: push
+
+  - username: AShabana
+    permission: push
+
+  - username: hacktron95
+    permission: push
 
   # l10n bn approvers
+  - username: mitul3737
+    permission: push
 
+  - username: Mouly22
+    permission: push
+
+  - username: ikramulkayes
+    permission: push
+
+  # l10n es approvers
+  # Note: CathPag is both a maintainer (maintain) and de approver (push)
+  - username: raelga
+    permission: push
+    
+  - username: electrocucaracha
+    permission: push
+
+  # l10n zh approvers
+  - username: hanyuancheung
+    permission: push
+
+  - username: Jacob953
+    permission: push
+
+  - username: Rocksnake
+    permission: push
+
+  - username: Submarinee
+    permission: push
 
 branches:
 
@@ -101,6 +154,8 @@ branches:
          - jasonmorgan
          - CathPag
          - seokho-son
+         - iamNoah1
+         - jihoon-seo
         teams: []
       enforce_admins: null
       required_linear_history: null
@@ -119,6 +174,7 @@ branches:
          - seokho-son
          - Eviekim
          - jihoon-seo
+         - yunkon-kim
         teams: []
       enforce_admins: null
       required_linear_history: null
@@ -136,6 +192,7 @@ branches:
         users:
          - edsoncelio
          - brunoguidone
+         - jessicalins
         teams: []
       enforce_admins: null
       required_linear_history: null
@@ -170,9 +227,9 @@ branches:
         apps: []
         # de approvers
         users:
-         - CathPag
          - iamNoah1
          - DaveVentura
+         - Petria3s
         teams: []
       enforce_admins: null
       required_linear_history: null
@@ -207,7 +264,10 @@ branches:
         apps: []
         # ar approvers
         users:
-         - seokho-son
+         - TarekMSayed
+         - same7ammar
+         - AShabana
+         - hacktron95
         teams: []
       enforce_admins: null
       required_linear_history: null
@@ -223,7 +283,46 @@ branches:
         apps: []
         # bn approvers
         users:
-         - seokho-son
+         - mitul3737
+         - Mouly22
+         - ikramulkayes
+        teams: []
+      enforce_admins: null
+      required_linear_history: null
+
+  # l10n branch for es contents only
+  - name: dev-es
+    protection:
+      required_pull_request_reviews:
+        required_approving_review_count: 2
+        require_code_owner_reviews: true
+      required_status_checks: null
+      restrictions:
+        apps: []
+        # es approvers
+        users:
+         - CathPag
+         - raelga
+         - electrocucaracha
+        teams: []
+      enforce_admins: null
+      required_linear_history: null
+
+  # l10n branch for zh contents only
+  - name: dev-zh
+    protection:
+      required_pull_request_reviews:
+        required_approving_review_count: 2
+        require_code_owner_reviews: true
+      required_status_checks: null
+      restrictions:
+        apps: []
+        # zh approvers
+        users:
+         - hanyuancheung
+         - Jacob953
+         - Rocksnake
+         - Submarinee
         teams: []
       enforce_admins: null
       required_linear_history: null

@@ -11,15 +11,33 @@ The Cloud Native Glossary content is stored in [this GitHub repo](https://github
 
 There are three ways you can contribute:
 
-1) Propose new terms
-2) Update existing ones 
-3) Help translate the glossary
+1) [Work on an existing issue](#work-on-an-existing-issue)
+2) [Propose new terms](#propose-new-terms)
+3) [Update existing ones](#update-an-existing-term)
+4) [Help translate the glossary](#help-translate-the-glossary)
 
 ## Join the Glossary community! 
-Consider joining our monthly Glossary Working Group meetings if you want to contribute regularly. You can find meeting details in the CNCF calendar. You can also connect with the maintainers and fellow contributors in our #glossary channel on the [CNCF calendar](https://www.cncf.io/calendar/) — we'd love to meet you! 
+Consider joining our monthly Glossary Working Group meetings if you want to contribute regularly. You can find meeting details in the [CNCF calendar](https://www.cncf.io/calendar/). You can also connect with the maintainers and fellow contributors in our [#glossary](https://cloud-native.slack.com/archives/C02TX20MQBB) channel on the CNCF Slack — we'd love to meet you! 
+
+## Work on an existing issue
+Go to the [Glossary GitHub repo issues](https://github.com/cncf/glossary/issues). There you'll see a list of all issues. You can filter by label (e.g. English language, help needed, first good issue). Note that you'll need a GitHub account to do any of this.
+
+![Issue and labels](/images/how-to/issue-and-labels.png)
+
+Make sure the term you are interested in is not already assigned to someone. Here you can see that the first three terms are available while the next term has already been assigned.
+
+![assigning a term](/images/how-to/howto-04.png)
+
+Once you found a term you want to work on, say so in the issue. Click on it and add a comment.
+
+![Claiming an issue](/images/how-to/claiming-an-issue.png)
+
+Additionally, please also join the [#glossary](https://cloud-native.slack.com/archives/C02TX20MQBB) channel on the CNCF Slack and let the maintainers know that you've raised an issue for a new term (ideally, tag _@Catherine Paganini_, _@jmo_, _@Seokho Son_, _@Jihoon Seo_, and/or _@iamnoah_ to be sure they don't miss it). Note that you can only claim one term at a time. If you want to work on multiple terms, please finish one before claiming the next one.
+
+Once they assign it to you, you can start working on it. For the next steps, please refer to the [Submitting a new term (creating a PR)](#submitting-a-new-term-creating-a-pr) section.
 
 ## Propose new terms
-You can propose a new term for others to work on or create a new definition yourself. Either way, you'll start by creating an issue (note that you'll need a GitHub account to do this).
+You can propose a new term for others to work on or create a new definition yourself. Either way, you'll start by creating an issue.
 
 Below is a step-by-step guide for those not yet familiar with GitHub. **If you are a GitHub Pro**, please *do* have a quick look to make sure you use our issue templates, appropriate naming conventions, claim a PR on Slack (otherwise we may miss it), and where to find the file template. And please make sure to read the [Style Guide](https://glossary.cncf.io/style-guide/) before getting started — thank you! 
 
@@ -28,19 +46,17 @@ Go to the [Glossary GitHub repo](https://github.com/cncf/glossary/issues) issues
 
 ![issues](/images/how-to/howto-01.png)
 
-You'll see a variety of templates. To propose a new term in English, select "English Language Glossary Request."
+You'll see a variety of templates. To propose a new term in English, select "Request to add a new term (English)."
 
-![templates](/images/how-to/howto-02.png)
+![templates](/images/how-to/english-issue-template.jpg)
 
-Add the word you're suggesting and hit "submit new issue." If you're just proposing a new term, you're done! To work on it, follow the next steps.
+Add the word you're suggesting, answer the two questions below, check the checkboxes, and hit "submit new issue." If you're just proposing a new term, you're done! To work on it, follow the next steps.
 
-![new issue](/images/how-to/howto-03.png)
 
-Please join the #glossary channel on the CNCF Slack and let @Catherine Paganini, @jmo, and @Seokho Son know that you've submitted an issue and would like to work on it. They'll assign the issue to you signaling to everyone else that the term is already taken.
+### Triaging your issue
+Next, the maintainers will triage the issue. That means they will assess if the term should be part of the Glossary (note, not every term will be admitted. Terms should be established and widely-used cloud native terms).
 
-Here you can see that the first three terms are available while the next term has been assigned to someone.
-
-![assigning a term](/images/how-to/howto-04.png)
+Please let the maintainers know that you've submitted a term on Slack as they may otherwise miss it. Ideally, tag _@Catherine Paganini_, _@jmo_, _@Seokho Son_, _@Jihoon Seo_, and/or _@iamnoah_.  If the term is approved and you want to work on it, they'll assign it to you.
 
 Note that you can only claim one term at a time. If you want to work on multiple terms, please finish one before claiming the next.
 
