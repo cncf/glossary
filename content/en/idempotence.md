@@ -1,5 +1,5 @@
 ---
-title: Distributed Apps
+title: Idempotence
 status: Feedback Appreciated
 category: concept
 ---
