@@ -10,7 +10,7 @@ A firewall is a system that filters network traffic to protect against malware a
 ## Problem it addresses
 Without a firewall, any traffic can enter a network and interfere. Take a [microservices](/microservices/)-based banking app. The services are sending highly sensitive financial data over their network to communicate with one another. With no firewall, a malicious actor could enter the network, intercept communication, and inflict damage.
 If a computer is not protected by a firewall, it allows unrestricted access to other networks.
-Anyone, even the network, can have access to our device and have complete control over it. 
+ 
 
 ## How it helps
 A firewall system examines network traffic using pre-defined rules.
