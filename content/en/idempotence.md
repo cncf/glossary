@@ -6,7 +6,8 @@ category: concept
 
 ## What is it?
 
-In terms of Maths or Computational science, Idempotence refers to a property where no matter how many times you execute some operations you achive the same outcome. The term "idempotent" in the world of IT refers to an operation that does not affect the application that it is called in, if it is called more than once with the same parameters.
+In maths or computer science, idempotence describes an operation 
+that always leads to the same outcome, no matter how many times you execute it. If the parameters are the same, an idempotent operation won't affect the application it calls. 
 
 ## Problem it addresses
 
