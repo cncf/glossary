@@ -6,7 +6,6 @@ category: Term
 
 ## What it is
 A firewall is a system that filters network traffic to protect against malware and network-based threats. It can either let traffic pass or block it based on specified rules. Firewalls can be hardware, software, or a combination of the two.
-A firewall might be hardware, software, or a combination of the two.
 
 ## Problem it addresses
 Firewalls are used to protect against malware and network-based threats.
