@@ -15,3 +15,5 @@ By the time code finally got into production, it went through so many developers
 ## How it helps
 Having one team own the entire lifecycle of an application results in minimized handoffs, reduce risk when deploying into production, better code quality as teams are also responsible for how code performs in production and increased employee satisfaction due to more autonomy and ownership.
 
+Links to related topics:
+[Kubernetes](/kubernetes/), [Agile Development](/agile_software_development/), [Containers](/container/), [Microservice](/microservices/), [CI](/continuous_integration/)-[CD](/continuous_delivery/)
