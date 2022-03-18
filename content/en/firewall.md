@@ -8,7 +8,7 @@ category: Technology
 A firewall is a system that filters network traffic to protect against malware and network-based threats. It can either let traffic pass or block it based on specified rules. Firewalls can be hardware, software, or a combination of the two.
 
 ## Problem it addresses
-Without a firewall, any traffic could potentially enter a network and interfere. Take a [microservices](/microservices/)-based banking app. The services are sending highly sensitive financial data over their network to communicate with one another. With no firewall, a malicious actor could enter the network, intercept communication, and inflict damage.
+By default, a network will allow anyone to enter and depart as long as they follow the network's routing rules. Because of this default behavior, securing a network space is challenging. For example, in a microservices-based banking app, the services communicate with one another by transmitting highly sensitive financial data through their network. A malicious actor may infiltrate the network, intercept communication, and do damage if there was no firewall in place.
  
 ## How it helps
 A firewall examines network traffic using pre-defined rules. All traffic is filtered, and any traffic coming from untrustworthy or suspect sources is blocked — only traffic configured to be accepted gets in. Firewalls establish a barrier between secured and controlled internal trusted networks. 
