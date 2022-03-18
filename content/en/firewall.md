@@ -5,7 +5,7 @@ category: Technology
 ---
 
 ## What it is
-A firewall is a system that filters network traffic to protect against malware and network-based threats. It can either let traffic pass or block it based on specified rules. Firewalls can be hardware, software, or a combination of the two.
+A firewall is a system that filters network traffic on the basis of specified rules. Firewalls can be hardware, software, or a combination of the two.
 
 ## Problem it addresses
 By default, a network will allow anyone to enter and depart as long as they follow the network's routing rules. Because of this default behavior, securing a network space is challenging. For example, in a microservices-based banking app, the services communicate with one another by transmitting highly sensitive financial data through their network. A malicious actor may infiltrate the network, intercept communication, and do damage if there was no firewall in place.
