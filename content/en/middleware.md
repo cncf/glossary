@@ -6,7 +6,7 @@ category: technology
  
 ## What it is
  
-Middleware is a type of computer software that provides common services and capabilities to software applications outside of what's offered by the operating system. Middleware helps developers build applications more efficiently. It makes it easier for software developers to implement communications and input/output so that they focus on building the applications. 
+Middleware is a type of software that provides applications with shared services and capabilities beyond the operating system. It helps developers build applications more efficiently by making it easier to implement communication and input/output and focusing more time on building business value generating code.
  
  
 ## Problem it addresses 
