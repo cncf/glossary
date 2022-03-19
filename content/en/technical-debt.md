@@ -1,5 +1,5 @@
 ---
-title: Technical Ddebt
+title: Technical Debt
 status: Feedback Appreciated
 category: property
 ---
