@@ -1,6 +1,6 @@
 ---
 title: Idempotence
-status: Feedback Appreciated
+status: Completed
 category: Property
 ---
 
