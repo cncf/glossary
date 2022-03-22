@@ -1,6 +1,8 @@
 Aniszczyk
+Appreciated
 AWS
 Azure
+Backend
 Business
 BVS
 BY
@@ -16,6 +18,9 @@ concept
 Daniel
 DevOps
 DigitalOcean
+enruta
+Feedback
+Frontend
 Foster
 GCP
 GitHub
