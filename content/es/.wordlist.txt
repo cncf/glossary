@@ -1,4 +1,6 @@
 Aniszczyk
+AWS
+Azure
 Business
 BVS
 BY
@@ -13,7 +15,9 @@ Completed
 concept
 Daniel
 DevOps
+DigitalOcean
 Foster
+GCP
 GitHub
 glossary
 issue
