@@ -90,6 +90,7 @@ http
 https
 iaas
 iac
+idempotence
 impactful
 inelasticity
 inlinehilite
