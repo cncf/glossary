@@ -11,7 +11,7 @@ Middleware is a type of software that provides applications with shared services
  
 ## Problem it addresses 
  
-Applications will be deployed across multiple infrastructures, from native systems to public clouds. Architectures will vary widely. Developers area unit juggling multiple tools, languages, and frameworks. and therefore the pressure is on to try to do it in a very cost-efficient and less timely manner.
+Applications are deployed across multiple infrastructures, from native systems to public clouds. Architectures will vary widely. Developers area unit juggling between multiple tools, languages, and frameworks. Therefore the pressure is on to try to do it in a very cost-efficient and less timely manner.
  
  
 ## How it helps 
