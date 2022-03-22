@@ -11,9 +11,10 @@ Middleware is a type of software that provides applications with shared services
  
 ## Problem it addresses 
  
-[Cloud native technology](/cloud_native_tech/) development brings added complexity to the development process. Developers shuffle between multiple tools, frameworks and languages also cost and time management is also a concern.  
+Applications will be deployed across multiple infrastructures, from native systems to public clouds. Architectures will vary widely. Developers area unit juggling multiple tools, languages, and frameworks. and therefore the pressure is on to try to do it in a very cost-efficient and less timely manner.
  
  
 ## How it helps 
- 
-Developers and organizations turn to Middleware as the way to manage this complexity, also to make development quick and low-cost. Developers can build and deploy anywhere they want as it works the same thanks to Middleware running under their applications. For organizations with multi-cloud and containerized environments, Middleware is used to deploy and run apllication at [scale](/scalibilty)
+
+For organizations with multi-cloud and containerized environments, Middleware is used to deploy and run an application at [scale](/scalability). The purpose of Middleware is to foster a connection between different aspects of an application or between applications themselves. By leveraging Middleware, businesses can expect efficient connectivity, innovative solutions and more concise transition periods.
+
