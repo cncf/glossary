@@ -5,7 +5,7 @@ category: concept
 ---
 
 ## What it is
-Debugging is the process or activity of finding and resolving bugs (or errors) from computer programs, software, or systems to get the desired output. A bug is a defect or a problem leading to incorrect or unexpected output.
+Debugging is the process or activity of finding and resolving bugs (or errors) from computer programs, software, or systems to get the desired result. A bug is a defect or a problem leading to incorrect or unexpected result.
 
 ## Problem it addresses
 Developers write source code and create a binary file with external libraries to run it in production. If a bug is introduced during that process, the code will likely not function as desired (undefined behavior) when executed. To identify the source of the problem, developers have to review the code line-by-line. Catching errors is quite hard without context, i.e., variables, data, location in memory, etc.
