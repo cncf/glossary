@@ -124,6 +124,9 @@ collaborators:
   - username: electrocucaracha
     permission: push
 
+  - username: krol3
+    permission: push
+
   # l10n zh approvers
   - username: hanyuancheung
     permission: push
@@ -304,6 +307,7 @@ branches:
          - CathPag
          - raelga
          - electrocucaracha
+         - krol3
         teams: []
       enforce_admins: null
       required_linear_history: null
