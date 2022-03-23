@@ -3,14 +3,14 @@ title: Load Balancer
 status: Feedback Appreciated
 category: concept
 ---
+
 ## What it is
 
 A load balancer is a way to distribute incoming user requests among multiple instances of an application. The solution can be software or hardware based.
 
 ## Problem it addresses
 
-Suppose a person starts a business and builds a website. Initially, the number of people visiting their site would be less hence the speed with which the server(a computer that sends some information in response to a user’s request) serves the website would be optimal. Now the person invests in some marketing and their business starts to grow. This would result in an increased number of users visiting their website (probably from all around the globe). One server might not be enough to handle the increased number of requests. And would result in a slower website and frequent crashing of the server. One would have to add more servers to handle these many requests. But what if one of the servers goes down, what happens to the users it was serving? There was no way of keeping a check on these situations.
-All this would eventually result in users drifting away from the website, affecting the business and the expensive cost of maintenance of servers.
+In a scenario where multiple application instances are running on a group of servers, It can become tedious to manage and direct millions of incoming user requests toward available servers. A server might become overloaded with requests, resulting in reduced throughput, slower response time, and inefficient utilization of resources.
 
 ## How it helps
 
