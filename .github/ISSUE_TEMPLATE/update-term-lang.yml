@@ -1,0 +1,22 @@
+name: Request to update existing term (Non-English)
+description: Issue to update existing term in non-English
+title: "[Update term] `GlossaryTermHere` for `LanguageHere`"
+labels: ["update term"]
+body:
+  - type: textarea
+    id: details
+    attributes:
+      label: Please describe why this term needs to be updated
+      value: |
+        #### Why this term needs to be updated? (briefly) 
+        - 
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: |
+        ---
+        ## Thanks for taking the time to add a request to the glossary!
+        To claim this issue, please ask for it below. 
+        The maintainers will assign a contributor to this issue.
+        Before getting started, please refer to the [style guide](https://glossary.cncf.io/style-guide/).
