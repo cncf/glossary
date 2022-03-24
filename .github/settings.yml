@@ -97,7 +97,7 @@ collaborators:
   - username: TarekMSayed
     permission: push
 
-  - username: same7ammar
+  - username: arezk84
     permission: push
 
   - username: AShabana
@@ -265,7 +265,7 @@ branches:
         # ar approvers
         users:
          - TarekMSayed
-         - same7ammar
+         - arezk84
          - AShabana
          - hacktron95
         teams: []
