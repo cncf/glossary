@@ -97,13 +97,13 @@ collaborators:
   - username: TarekMSayed
     permission: push
 
-  - username: arezk84
+  - username: same7ammar
     permission: push
 
   - username: AShabana
     permission: push
 
-  - username: hacktron95
+  - username: arezk84
     permission: push
 
   # l10n bn approvers
@@ -267,9 +267,9 @@ branches:
         # ar approvers
         users:
          - TarekMSayed
-         - arezk84
+         - same7ammar
          - AShabana
-         - hacktron95
+         - arezk84
         teams: []
       enforce_admins: null
       required_linear_history: null
