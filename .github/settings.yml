@@ -117,11 +117,13 @@ collaborators:
     permission: push
 
   # l10n es approvers
-  # Note: CathPag is both a maintainer (maintain) and de approver (push)
   - username: raelga
     permission: push
     
   - username: electrocucaracha
+    permission: push
+
+  - username: krol3
     permission: push
 
   # l10n zh approvers
@@ -301,9 +303,9 @@ branches:
         apps: []
         # es approvers
         users:
-         - CathPag
          - raelga
          - electrocucaracha
+         - krol3
         teams: []
       enforce_admins: null
       required_linear_history: null
