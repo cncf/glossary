@@ -81,7 +81,7 @@ collaborators:
     permission: push
 
   # l10n it approvers
-  - username: Giulia-dipietro
+  - username: fsbaraglia
     permission: push
 
   - username: meryem-ldn
@@ -245,7 +245,7 @@ branches:
         apps: []
         # it approvers
         users:
-         - Giulia-dipietro
+         - fsbaraglia
          - meryem-ldn
          - annalisag-spark
          - sistella
