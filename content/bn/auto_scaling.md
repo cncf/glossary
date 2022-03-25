@@ -1,5 +1,5 @@
 ---
-title: অটোস্কেলিং
+title: অটোস্কেলিং (Auto Scaling)
 status: Completed
 category: সম্পত্তি
 ---
