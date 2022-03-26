@@ -1,5 +1,5 @@
 ---
-title: Guia de estilo
+title: Guia de Estilo
 toc_hide: true
 menu:
   main:
