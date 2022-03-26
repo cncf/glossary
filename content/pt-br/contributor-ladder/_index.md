@@ -35,17 +35,17 @@ Aprovadores são responsáveis por prover feedbacks e aprovar os PRs (pull reque
 
 Se um aprovador não estiver mais interessado ou não consegue realizar as atividades acima, é importante que comunique aos mantenedores para que seja formalizada a saída da função.
 
-### English Glossary Approvers
+## Aprovadores do Glossário em Inglês
 
-There are three types of approvers:
+Existem três tipos de aprovadores:
 
-1) Approvers with a strong technical background,
-2) Approvers with solid writing skills,
-3) Approvers who are proficient in both. 
+1) Aprovador com experiência técnica,
+2) Aprovador com experiência em escrita,
+3) Aprovador com proficiência nas duas habilidades acima.
 
-**Technical Approvers**: Individuals with a strong technical background can be approvers without having solid English writing skills. However, if they approve a PR on technical merit, they must ensure it is reviewed by an (editor) approver.
+**Aprovadores com experiência técnica**: pessoas com muita experiência técnica podem ser aprovadores sem possui habilidades sólidas de escrita em inglês, entretanto, se aprovarem um PR pelo critério técnico, é preciso garantir que vai ser revisado por um aprovador com habilidades de escrita.
 
-**Editors**: Editors proofread terms and ensure they are explained in simple language according to the Style Guide. If a term is heavily edited, the editor must request a technical approver to review it again to ensure the meaning wasn't altered.
+**Editores**: Os editores revisam os termos e garantem que eles sejam explicados em linguagem simples de acordo com o Guia de Estilo. Se um termo for muito editado, o editor deve solicitar a um aprovador técnico que o revise novamente para garantir que o significado não foi alterado.
 
 ### Localization Approvers
 
