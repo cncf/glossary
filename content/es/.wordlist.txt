@@ -1,5 +1,7 @@
 Agile
 Aniszczyk
+AWS
+Azure
 Business
 BVS
 BY
@@ -15,7 +17,9 @@ concept
 Daniel
 Development
 DevOps
+DigitalOcean
 Foster
+GCP
 GitHub
 glossary
 issue
