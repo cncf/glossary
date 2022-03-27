@@ -1,5 +1,5 @@
 ---
-title: Agile Software Development
+title: Desarrollo ágil de software
 status: Completed
 category: concept
 ---
