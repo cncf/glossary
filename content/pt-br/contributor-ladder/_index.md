@@ -47,17 +47,17 @@ Existem três tipos de aprovadores:
 
 **Editores**: Os editores revisam os termos e garantem que eles sejam explicados em linguagem simples de acordo com o Guia de Estilo. Se um termo for muito editado, o editor deve solicitar a um aprovador técnico que o revise novamente para garantir que o significado não foi alterado.
 
-### Localization Approvers
+### Aprovadores de localização
 
-The Glossary also has localization approvers. These are approvers for one of the localization teams (teams translating the glossary). Localization approvers are only permitted to perform approver duties for their own team and have the ability to merge PRs to their dedicated development branch. Any localization approver can also become an approver for the English Glossary if they meet the requirements. 
+O glossário possui também aprovadores de localização. Estes são aprovadores para um dos times de localização (times que traduzem o glossário). Aprovadores de localização apenas tem permissões para aprovar PRs para seu próprio time e também fazer o merge na branch de desenvolvimento dedicada ao seu time. Um aprovador de localização também pode se tornar um aprovador do glossário em inglês caso atenda os requisitos.
 
-### Becoming an Approver
+### Se tornando um aprovador
 
 Approver candidates should have a proven track record of submitting high-quality PRs and helping others get their PRs in a mergeable state. If their timezone permits, they should also regularly attend the [Glossary Working Group meetings](https://www.cncf.io/calendar/).
 
 To become an approver, start by expressing interest to existing maintainers. Existing maintainers will then ask you to demonstrate the qualifications above by contributing PRs, doing reviews, and doing other such tasks under their guidance. After some time of working together, maintainers will decide whether to grant you approver status. This decision will be based on your demonstrated level of proficiency and responsiveness.
 
-## 3. Maintainers
+## 3. Mantenedores
 
 Maintainers are approvers who can also merge PRs. Anyone can become a Glossary maintainer (see "Becoming a maintainer"). There are certain expectations for maintainers, including:
 
@@ -68,7 +68,7 @@ Maintainers are approvers who can also merge PRs. Anyone can become a Glossary m
 
 If a maintainer is no longer interested in or cannot perform the duties listed above, they should move themselves to emeritus status.  
 
-### Becoming a Maintainer
+### Se tornando um mantenedor
 
 Maintainers should have a proven track record of being successful approvers and submitting high-quality PRs. If their timezone permits, they should also regularly attend the Glossary Working Group meetings.
 
@@ -86,7 +86,7 @@ Community managers help foster a welcoming and engaging community.  Any communit
 
 Anyone can become a Glossary community manager. Community managers must have a solid understanding of the contribution and localization process and enjoy interacting and helping others. To become a community manager, start by expressing interest to existing maintainers. After an onboarding/trial period, maintainers will decide whether to grant community manager status based on performance. 
 
-## Involuntary Removal
+## Remoção involuntária
 
 Involuntary removal of a contributor happens when responsibilities and requirements aren't met. This may include repeated patterns of inactivity, extended periods of inactivity, and/or a violation of the code of conduct. This process is important because it protects the community and its deliverables while also opening up opportunities for new contributors to step in.
 
