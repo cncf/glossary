@@ -63,8 +63,8 @@ Mantenedores são aprovadores que também podem fazer o merge de PRs. Qualquer p
 
 - Ser um aprovador ativo e responsável,
 - Ajudar a manter o repositório, incluindo configurações do site, permissões, templates de issues, workflows do Github e outras coisas,
-- Acompanhar o slack do glossário e ajudar sempre que possível
-- Participar regularmente dos [encontros do Grupo de Trabalho do Glossário](https://www.cncf.io/calendar/)(sempre que for possível)
+- Acompanhar o slack do glossário e ajudar sempre que possível,
+- Participar regularmente dos [encontros do Grupo de Trabalho do Glossário](https://www.cncf.io/calendar/)(sempre que for possível).
 
 Se um mantenedor não estiver mais interessado ou não puder realizar as atividades acima, ele deve ser movido para o status de emérito.
 
