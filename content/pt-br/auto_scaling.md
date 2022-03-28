@@ -1,5 +1,5 @@
 ---
-title: Autoscaling
+title: Auto scaling
 status: Completed
 category: propriedade
 ---
