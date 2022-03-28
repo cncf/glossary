@@ -1,5 +1,5 @@
 ---
-title: Trilha de Contribuição
+title: Escala de Contribuição
 toc_hide: true
 menu:
   main:
@@ -53,9 +53,9 @@ O glossário possui também aprovadores de localização. Estes são aprovadores
 
 ### Se tornando um aprovador
 
-Approver candidates should have a proven track record of submitting high-quality PRs and helping others get their PRs in a mergeable state. If their timezone permits, they should also regularly attend the [Glossary Working Group meetings](https://www.cncf.io/calendar/).
+Os candidatos a aprovador devem ter um histórico comprovado de envio de PRs de alta qualidade e de ajudar outras pessoas a obter deixar seus PRs prontos para o merge. Se o fuso horário permitir, eles também devem participar regularmente das [reuniões do Grupo de Trabalho do Glossário](https://www.cncf.io/calendar/).
 
-To become an approver, start by expressing interest to existing maintainers. Existing maintainers will then ask you to demonstrate the qualifications above by contributing PRs, doing reviews, and doing other such tasks under their guidance. After some time of working together, maintainers will decide whether to grant you approver status. This decision will be based on your demonstrated level of proficiency and responsiveness.
+Para se tornar um aprovador, comece manifestando interesse aos mantenedores existentes. Os mantenedores existentes solicitarão que você demonstre as qualificações acima, contribuindo com PRs, fazendo revisões e realizando outras tarefas sob sua orientação. Depois de algum tempo trabalhando juntos, os mantenedores decidirão se concederão a você o status de aprovador. Esta decisão será baseada em seu nível demonstrado de proficiência e capacidade de resposta.
 
 ## 3. Mantenedores
 
@@ -64,36 +64,36 @@ Mantenedores são aprovadores que também podem fazer o merge de PRs. Qualquer p
 - Ser um aprovador ativo e responsável,
 - Ajudar a manter o repositório, incluindo configurações do site, permissões, templates de issues, workflows do Github e outras coisas,
 - Acompanhar o slack do glossário e ajudar sempre que possível
-- Participar regularmente dos [encontros do Grupo de Trabalho do glossário](https://www.cncf.io/calendar/)(sempre que for possível)
+- Participar regularmente dos [encontros do Grupo de Trabalho do Glossário](https://www.cncf.io/calendar/)(sempre que for possível)
 
-Se um mantenedor não estiver mais interessado ou não puder realizar as atividades acima, ele deve ser movido para o status de emeritus.
+Se um mantenedor não estiver mais interessado ou não puder realizar as atividades acima, ele deve ser movido para o status de emérito.
 
 ### Se tornando um mantenedor
 
-Maintainers should have a proven track record of being successful approvers and submitting high-quality PRs. If their timezone permits, they should also regularly attend the Glossary Working Group meetings.
+Os mantenedores devem ter um histórico comprovado de aprovação de sucesso e envio de PRs de alta qualidade. Se o fuso horário permitir, eles também devem participar regularmente das reuniões do Grupo de Trabalho do Glossário.
 
-To become a maintainer, start by expressing interest to existing maintainers. Existing maintainers will then ask you to demonstrate the qualifications above by contributing PRs, doing reviews, and doing other such tasks under their guidance. After some time of working together, maintainers will decide whether to grant maintainer status. This decision will be based on demonstrated level of proficiency and responsiveness.  
+Para se tornar um mantenedor, comece expressando interesse aos mantenedores existentes. Os mantenedores existentes solicitarão que você demonstre as qualificações acima, contribuindo com PRs, fazendo revisões e realizando outras tarefas sob sua orientação. Depois de algum tempo trabalhando juntos, os mantenedores decidirão se concederão o status de mantenedor. Esta decisão será baseada no nível demonstrado de proficiência e capacidade de resposta.
 
 ## 4. Community Managers
 
-Community managers help foster a welcoming and engaging community.  Any community member can become a community manager. They are expected to:
+Os community managers ajudam a promover uma comunidade acolhedora e envolvente. Qualquer membro da comunidade pode se tornar um community manager. Espera-se que eles:
 
-- Welcome new members and ensure they get the information they need,
-- Help answer questions from the community or identify someone who can help,
-- Moderate conversations on Slack.
+- Dê as boas-vindas aos novos membros e garanta que eles recebam as informações de que precisam,
+- Ajude a responder perguntas da comunidade ou identifique alguém que possa ajudar,
+- Modere as conversas no Slack.
 
 ### Se tornando um Community Manager
 
-Anyone can become a Glossary community manager. Community managers must have a solid understanding of the contribution and localization process and enjoy interacting and helping others. To become a community manager, start by expressing interest to existing maintainers. After an onboarding/trial period, maintainers will decide whether to grant community manager status based on performance. 
+Qualquer pessoa pode se tornar um community managers do Glossário. Os community managers devem ter uma sólida compreensão do processo de contribuição e localização e gostar de interagir e ajudar os outros. Para se tornar um community manager, comece expressando interesse aos mantenedores existentes. Após um período de integração/avaliação, os mantenedores decidirão se concederão o status de community manager com base no desempenho.
 
 ## Remoção involuntária
 
-Involuntary removal of a contributor happens when responsibilities and requirements aren't met. This may include repeated patterns of inactivity, extended periods of inactivity, and/or a violation of the code of conduct. This process is important because it protects the community and its deliverables while also opening up opportunities for new contributors to step in.
+A remoção involuntária de um colaborador ocorre quando as responsabilidades e os requisitos não são atendidos. Isso pode incluir padrões repetidos de inatividade, longos períodos de inatividade e/ou violação do código de conduta. Esse processo é importante porque protege a comunidade e suas entregas, ao mesmo tempo em que abre oportunidades para novos colaboradores participarem.
 
-## Stepping Down/Emeritus Process
+## Processo de saída/emérito
 
-If and when contributors' commitment levels change, contributors can consider stepping down (moving down the contributor ladder) vs. moving to emeritus status (completely stepping away from the project).
+Se e quando os níveis de comprometimento dos contribuidores mudam, os contribuidores podem considerar a possibilidade de descer (descendo na escala de contribuidores) ou passar para o status emérito (deixando completamente o projeto).
 
-## Stepping Back Into a Role
+## Voltando para uma função anterior
 
-If and when someone is available to step back into a previous contributor role, project leadership can arrange and consider this.
+Se e quando alguém estiver disponível para voltar a uma função de colaborador anterior, a liderança do projeto pode providenciar e considerar isso.
