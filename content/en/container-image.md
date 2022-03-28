@@ -10,7 +10,7 @@ A container image is an immutable, static file containing the dependencies for t
 
 ## Problem it addresses 
 
-Traditionally, application servers are configured per environment, and applications are deployed to them. Any misconfiguration between environments is problematic and often leads to downtime or failed deployments. An application's environment needs to be repeatable and well-defined; otherwise, the chance of environment-related bugs increases. When application environments are underdefined or inaccurate, horizontal and vertical scaling of applications becomes challenging. 
+Traditionally, application servers are configured per environment, and applications are deployed to them. Any misconfiguration between environments is problematic and often leads to downtime or failed deployments. An application's environment needs to be repeatable and well-defined; otherwise, the chance of environment-related bugs increases. When application environments are configured inadequately or inaccurate, horizontal and vertical scaling of applications becomes challenging. 
 
 ## How it helps
 
