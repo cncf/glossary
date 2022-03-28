@@ -17,7 +17,13 @@ title: क्लाउड नेटिव शब्दावली
 क्लाउड नेटिव शब्दावली की शुरुआत CNCF मार्केटिंग समिति(CNCF Marketing Committee, BVS) द्वारा की गई थी और इसमें [Catherine Paganini](https://www.linkedin.com/in/catherinepaganini/en/), [Chris Aniszczyk](https://www.linkedin.com/in/caniszczyk/),
 [Daniel Jones](https://www.linkedin.com/in/danieljoneseb/?originalSubdomain=uk), [Jason Morgan](https://www.linkedin.com/in/jasonmorgan2/), [Katelin Ramer](https://www.linkedin.com/in/katelinramer/), [Mike Foster](https://www.linkedin.com/in/mfosterche/?originalSubdomain=ca), [Seokho Son](https://www.linkedin.com/in/seokho-son/) और कई अन्य योगदानकर्ताओं के योगदान शामिल हैं।
 
-क्लाउड नेटिव शब्दावली का हिंदी स्थानीयकरण [Hindi localization team](https://cloud-native.slack.com/archives/C02PCHEQXK6) द्वारा शुरू किया गया था और इसमें [Anubhav Vardhan](https://twitter.com/anubha_v_ardhan), [Garima Negi](https://www.linkedin.com/in/garima-negi-03980ba8/), [Jayesh Srivastava](https://www.linkedin.com/in/jayesh-srivastava/), [Sayantani Saha](https://www.linkedin.com/in/sayantani-saha-47a55b1bb/), [Kunal Verma](https://www.linkedin.com/in/verma-kunal/), [Aayush Sharma](https://www.linkedin.com/in/aayush-sharma967/), [Anurag Kumar](https://github.com/kranurag7), [Shivam Tyagi](https://www.linkedin.com/in/shivam-tyagi-57b7341a6/?originalSubdomain=in), [Shubham Chaudhari](https://www.linkedin.com/in/shubham28698/) और कई अन्य योगदानकर्ताओं के योगदान शामिल हैं।
+क्लाउड नेटिव शब्दावली का हिंदी स्थानीयकरण [Hindi localization team](https://cloud-native.slack.com/archives/C02PCHEQXK6) द्वारा शुरू किया गया था और इसमें अनुभव वर्धन [Anubhav Vardhan](https://twitter.com/anubha_v_ardhan), 
+गरिमा नेगी [Garima Negi](https://www.linkedin.com/in/garima-negi-03980ba8/), जयेश श्रीवास्तव [Jayesh Srivastava](https://www.linkedin.com/in/jayesh-srivastava/), 
+सायंतनी सहा [Sayantani Saha](https://www.linkedin.com/in/sayantani-saha-47a55b1bb/), 
+कुणाल वर्मा [Kunal Verma](https://www.linkedin.com/in/verma-kunal/), 
+आयुष शर्मा [Aayush Sharma](https://www.linkedin.com/in/aayush-sharma967/), अनुराग कुमार [Anurag Kumar](https://github.com/kranurag7), 
+शिवम त्यागी [Shivam Tyagi](https://www.linkedin.com/in/shivam-tyagi-57b7341a6/?originalSubdomain=in), 
+शुभम चौधरी [Shubham Chaudhari](https://www.linkedin.com/in/shubham28698/) और कई अन्य योगदानकर्ताओं के योगदान शामिल हैं।
 
 ## लाइसेंस
 
