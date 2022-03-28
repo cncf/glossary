@@ -35,7 +35,7 @@ Aprovadores são responsáveis por prover feedbacks e aprovar os PRs (pull reque
 
 Se um aprovador não estiver mais interessado ou não consegue realizar as atividades acima, é importante que comunique aos mantenedores para que seja formalizada a saída da função.
 
-## Aprovadores do Glossário em Inglês
+### Aprovadores do Glossário em Inglês
 
 Existem três tipos de aprovadores:
 
@@ -43,19 +43,19 @@ Existem três tipos de aprovadores:
 2) Aprovador com experiência em escrita,
 3) Aprovador com proficiência nas duas habilidades acima.
 
-**Aprovadores com experiência técnica**: pessoas com muita experiência técnica podem ser aprovadores sem possui habilidades sólidas de escrita em inglês, entretanto, se aprovarem um PR pelo critério técnico, é preciso garantir que vai ser revisado por um aprovador com habilidades de escrita.
+**Aprovadores com experiência técnica**: pessoas com muita experiência técnica podem ser aprovadores sem possui habilidades sólidas de escrita em inglês, entretanto, se aprovarem um PR pelo critério técnico, é preciso garantir que vai ser revisado por um aprovador com habilidades de escrita (editor).
 
 **Editores**: Os editores revisam os termos e garantem que eles sejam explicados em linguagem simples de acordo com o Guia de Estilo. Se um termo for muito editado, o editor deve solicitar a um aprovador técnico que o revise novamente para garantir que o significado não foi alterado.
 
 ### Aprovadores de localização
 
-O glossário possui também aprovadores de localização. Estes são aprovadores para um dos times de localização (times que traduzem o glossário). Aprovadores de localização apenas tem permissões para aprovar PRs para seu próprio time e também fazer o merge na branch de desenvolvimento dedicada ao seu time. Um aprovador de localização também pode se tornar um aprovador do glossário em inglês caso atenda os requisitos.
+O glossário possui também aprovadores de localização. Estes são aprovadores para um dos times de localização (times que traduzem o glossário). Aprovadores de localização apenas tem permissões para aprovar PRs para seu próprio time e também fazer o merge na branch de desenvolvimento dedicada ao seu time. Um aprovador de localização também pode se tornar um aprovador do glossário em inglês caso atenda aos requisitos.
 
 ### Se tornando um aprovador
 
 Os candidatos a aprovador devem ter um histórico comprovado de envio de PRs de alta qualidade e de ajudar outras pessoas a obter deixar seus PRs prontos para o merge. Se o fuso horário permitir, eles também devem participar regularmente das [reuniões do Grupo de Trabalho do Glossário](https://www.cncf.io/calendar/).
 
-Para se tornar um aprovador, comece manifestando interesse aos mantenedores existentes. Os mantenedores existentes solicitarão que você demonstre as qualificações acima, contribuindo com PRs, fazendo revisões e realizando outras tarefas sob sua orientação. Depois de algum tempo trabalhando juntos, os mantenedores decidirão se concederão a você o status de aprovador. Esta decisão será baseada em seu nível demonstrado de proficiência e capacidade de resposta.
+Para se tornar um aprovador, comece manifestando interesse aos mantenedores existentes. Os mantenedores existentes solicitarão que você demonstre as qualificações acima, contribuindo com PRs, fazendo revisões e realizando outras tarefas sob sua orientação. Depois de algum tempo trabalhando juntos, os mantenedores decidirão se concederão a você o status de aprovador. Esta decisão será baseada em seu nível demonstrado de proficiência e responsividade.
 
 ## 3. Mantenedores
 
@@ -72,7 +72,7 @@ Se um mantenedor não estiver mais interessado ou não puder realizar as ativida
 
 Os mantenedores devem ter um histórico comprovado de aprovação de sucesso e envio de PRs de alta qualidade. Se o fuso horário permitir, eles também devem participar regularmente das reuniões do Grupo de Trabalho do Glossário.
 
-Para se tornar um mantenedor, comece expressando interesse aos mantenedores existentes. Os mantenedores existentes solicitarão que você demonstre as qualificações acima, contribuindo com PRs, fazendo revisões e realizando outras tarefas sob sua orientação. Depois de algum tempo trabalhando juntos, os mantenedores decidirão se concederão o status de mantenedor. Esta decisão será baseada no nível demonstrado de proficiência e capacidade de resposta.
+Para se tornar um mantenedor, comece expressando interesse aos mantenedores existentes. Os mantenedores existentes solicitarão que você demonstre as qualificações acima, contribuindo com PRs, fazendo revisões e realizando outras tarefas sob sua orientação. Depois de algum tempo trabalhando juntos, os mantenedores decidirão se concederão o status de mantenedor. Esta decisão será baseada no nível demonstrado de proficiência e responsividade.
 
 ## 4. Community Managers
 
