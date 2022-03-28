@@ -59,14 +59,14 @@ To become an approver, start by expressing interest to existing maintainers. Exi
 
 ## 3. Mantenedores
 
-Maintainers are approvers who can also merge PRs. Anyone can become a Glossary maintainer (see "Becoming a maintainer"). There are certain expectations for maintainers, including:
+Mantenedores são aprovadores que também podem fazer o merge de PRs. Qualquer pessoa pode se tornar um mantenedor do glossário (veja "Se tornando um mantenedor"). Existem algumas responsabilidades esperadas dos mantenedores, incluindo:
 
-- Be an active and responsive approver (see above),
-- Help maintain the repository, including site configuration, permission, issue-template, GitHub workflow, among others,
-- Monitor the Glossary Slack channels and help out whenever possible,
-- Regularly attend the [Glossary Working Group meetings](https://www.cncf.io/calendar/) (if timezone permits)
+- Ser um aprovador ativo e responsável,
+- Ajudar a manter o repositório, incluindo configurações do site, permissões, templates de issues, workflows do Github e outras coisas,
+- Acompanhar o slack do glossário e ajudar sempre que possível
+- Participar regularmente dos [encontros do Grupo de Trabalho do glossário](https://www.cncf.io/calendar/)(sempre que for possível)
 
-If a maintainer is no longer interested in or cannot perform the duties listed above, they should move themselves to emeritus status.  
+Se um mantenedor não estiver mais interessado ou não puder realizar as atividades acima, ele deve ser movido para o status de emeritus.
 
 ### Se tornando um mantenedor
 
@@ -82,7 +82,7 @@ Community managers help foster a welcoming and engaging community.  Any communit
 - Help answer questions from the community or identify someone who can help,
 - Moderate conversations on Slack.
 
-### Become a Community Manager
+### Se tornando um Community Manager
 
 Anyone can become a Glossary community manager. Community managers must have a solid understanding of the contribution and localization process and enjoy interacting and helping others. To become a community manager, start by expressing interest to existing maintainers. After an onboarding/trial period, maintainers will decide whether to grant community manager status based on performance. 
 
