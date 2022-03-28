@@ -16,9 +16,9 @@ O glossário é para todos. Qualquer pessoa pode se tornar um contribuidor simpl
 
 Existem várias formas de você contribuir com o projeto, incluindo:
 
-- **Contribuidores de conteúdo**: qualquer pessoa que melhore os termos existentes ou contribua com novos
-- **Contribuidores de localizações**: qualquer pessoa que ajude a localizar o conteúdo para outro idioma
-- **Voluntários**: qualquer pessoa que ajude os outros no Github, Slack ou qualquer membro da comunidade que precise de ajuda
+- **Contribuidores de conteúdo**: qualquer pessoa que melhore os termos existentes ou contribua com novos;
+- **Contribuidores de localizações**: qualquer pessoa que ajude a localizar o conteúdo para outro idioma;
+- **Voluntários**: qualquer pessoa que ajude os outros no Github, Slack ou qualquer membro da comunidade que precise de ajuda;
 - **Embaixadores**: qualquer pessoa que ajude a divulgar o projeto e ajudar a a contribuir.
 
 Contribuidores podem ter múltiplas funções ou focar em uma única área. **Todas as contribuições são igualmente importantes** e ajudam no crescimento da comunidade. Para contribuições em conteúdo e localização, veja o [guia de contribuição](https://glossary.cncf.io/pt-br/contribute/) e o [guia de estilo](https://glossary.cncf.io/pt-br/style-guide/).
@@ -29,8 +29,8 @@ Aprovadores são responsáveis por prover feedbacks e aprovar os PRs (pull reque
 
 É esperado que os aprovadores do glossário:
 
-- Revisem os PRs em uma perspectiva técnica,
-- Atribuiam as *issues* aos contribuidores e apliquem as *labels* corretamente,
+- Revisem os PRs em uma perspectiva técnica;
+- Atribuiam as *issues* aos contribuidores e apliquem as *labels* corretamente;
 - Ajudem os contribuidores com feedback e toda a ajuda que precisem.
 
 Se um aprovador não estiver mais interessado ou não consegue realizar as atividades acima, é importante que comunique aos mantenedores para que seja formalizada a saída da função.
@@ -39,8 +39,8 @@ Se um aprovador não estiver mais interessado ou não consegue realizar as ativi
 
 Existem três tipos de aprovadores:
 
-1) Aprovador com experiência técnica,
-2) Aprovador com experiência em escrita,
+1) Aprovador com experiência técnica;
+2) Aprovador com experiência em escrita;
 3) Aprovador com proficiência nas duas habilidades acima.
 
 **Aprovadores com experiência técnica**: pessoas com muita experiência técnica podem ser aprovadores sem possui habilidades sólidas de escrita em inglês, entretanto, se aprovarem um PR pelo critério técnico, é preciso garantir que vai ser revisado por um aprovador com habilidades de escrita (editor).
@@ -61,9 +61,9 @@ Para se tornar um aprovador, comece manifestando interesse aos mantenedores exis
 
 Mantenedores são aprovadores que também podem fazer o merge de PRs. Qualquer pessoa pode se tornar um mantenedor do glossário (veja "Se tornando um mantenedor"). Existem algumas responsabilidades esperadas dos mantenedores, incluindo:
 
-- Ser um aprovador ativo e responsável,
-- Ajudar a manter o repositório, incluindo configurações do site, permissões, templates de issues, workflows do Github e outras coisas,
-- Acompanhar o slack do glossário e ajudar sempre que possível,
+- Ser um aprovador ativo e responsável;
+- Ajudar a manter o repositório, incluindo configurações do site, permissões, templates de issues, workflows do Github e outras coisas;
+- Acompanhar o slack do glossário e ajudar sempre que possível;
 - Participar regularmente dos [encontros do Grupo de Trabalho do Glossário](https://www.cncf.io/calendar/)(sempre que for possível).
 
 Se um mantenedor não estiver mais interessado ou não puder realizar as atividades acima, ele deve ser movido para o status de emérito.
@@ -78,8 +78,8 @@ Para se tornar um mantenedor, comece expressando interesse aos mantenedores exis
 
 Os community managers ajudam a promover uma comunidade acolhedora e envolvente. Qualquer membro da comunidade pode se tornar um community manager. Espera-se que eles:
 
-- Dê as boas-vindas aos novos membros e garanta que eles recebam as informações de que precisam,
-- Ajude a responder perguntas da comunidade ou identifique alguém que possa ajudar,
+- Dê as boas-vindas aos novos membros e garanta que eles recebam as informações de que precisam;
+- Ajude a responder perguntas da comunidade ou identifique alguém que possa ajudar;
 - Modere as conversas no Slack.
 
 ### Se tornando um Community Manager
