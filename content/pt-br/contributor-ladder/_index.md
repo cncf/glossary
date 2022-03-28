@@ -7,7 +7,7 @@ menu:
     pre: <i class='fas fa-pen-square'></i>
 ---
 
-Olá! 👋 Obrigado pelo seu interesse em contribuir com o projeto CNCF Glossário Cloud Native. Seja contribuindo com novos termos, ajudando a localizar o glossário em seu idioma nativo ou ajudando outras pessoas a começar, há muitas maneiras de se tornar um membro ativo desta comunidade. Este documento descreve as diferentes funções do colaborador no projeto e as responsabilidades e privilégios que as acompanham.
+Olá! 👋 Obrigado pelo seu interesse em contribuir com o projeto CNCF Glossário Cloud Native. Há muitas maneiras de se tornar um membro ativo desta comunidade - seja contribuindo com novos termos, ajudando a localizar o glossário em seu idioma nativo ou ajudando outras pessoas a começar a contribuir. Este documento descreve as diferentes funções do colaborador no projeto e as responsabilidades e privilégios que as acompanham.
 
 ## 1. Contribuidores
 
@@ -16,9 +16,9 @@ O glossário é para todos. Qualquer pessoa pode se tornar um contribuidor simpl
 
 Existem várias formas de você contribuir com o projeto, incluindo:
 
-- **Contribuidores de conteúdo**: qualquer pessoa que melhore os termos existentes ou contribua com novos,
-- **Contribuidores de localizações**: qualquer pessoa que ajude a localizar o conteúdo para outro idioma,
-- **Voluntários**: qualquer pessoa que ajude os outros no Github, Slack ou qualquer membro da comunidade que precise de ajuda,
+- **Contribuidores de conteúdo**: qualquer pessoa que melhore os termos existentes ou contribua com novos
+- **Contribuidores de localizações**: qualquer pessoa que ajude a localizar o conteúdo para outro idioma
+- **Voluntários**: qualquer pessoa que ajude os outros no Github, Slack ou qualquer membro da comunidade que precise de ajuda
 - **Embaixadores**: qualquer pessoa que ajude a divulgar o projeto e ajudar a a contribuir.
 
 Contribuidores podem ter múltiplas funções ou focar em uma única área. **Todas as contribuições são igualmente importantes** e ajudam no crescimento da comunidade. Para contribuições em conteúdo e localização, veja o [guia de contribuição](https://glossary.cncf.io/pt-br/contribute/) e o [guia de estilo](https://glossary.cncf.io/pt-br/style-guide/).
