@@ -46,11 +46,11 @@ Go to the [Glossary GitHub repo](https://github.com/cncf/glossary/issues) issues
 
 ![issues](/images/how-to/howto-01.png)
 
-You'll see a variety of templates. To propose a new term in English, select "Request to add a new term (Default:English)."
+You'll see a variety of templates. To propose a new term in English, select "Request to add a new term (English)."
 
-![templates](/images/how-to/english-issue-template-new.png)
+![templates](/images/how-to/english-issue-template.jpg)
 
-Add the word you're suggesting, answer the two questions below, and hit "submit new issue." If you're just proposing a new term, you're done! To work on it, follow the next steps.
+Add the word you're suggesting, answer the two questions below, check the checkboxes, and hit "submit new issue." If you're just proposing a new term, you're done! To work on it, follow the next steps.
 
 
 ### Triaging your issue
