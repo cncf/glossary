@@ -1,5 +1,5 @@
 ---
-title: Como contribuir
+title: Como Contribuir
 toc_hide: true
 menu:
   main:
