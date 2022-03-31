@@ -14,7 +14,7 @@ Qualquer pessoa que desejar fazer uma contribuição pode criar uma *issue* ou u
 O glossário Cloud Native foi iniciado pelo *CNCF Marketing Committee*  e inclui
 contribuições de [Catherine Paganini](https://www.linkedin.com/in/catherinepaganini/en/), [Chris Aniszczyk](https://www.linkedin.com/in/caniszczyk/), [Daniel Jones](https://www.linkedin.com/in/danieljoneseb/?originalSubdomain=uk), [Jason Morgan](https://www.linkedin.com/in/jasonmorgan2/), [Katelin Ramer](https://www.linkedin.com/in/katelinramer/), [Mike Foster](https://www.linkedin.com/in/mfosterche/?originalSubdomain=ca), [Seokho Son](https://www.linkedin.com/in/seokho-son/) e muitas outras pessoas contribuidoras. Para uma lista completa, verificar na [lista de contribuidores do repositório no Github](https://github.com/cncf/glossary/graphs/contributors).
 
-Essa versão do glossário Cloud Native em português inclui contribuições de [Edson Ferreira](https://www.linkedin.com/in/edsoncelio/), [Bruno Guidone](https://www.linkedin.com/in/brunoguidone) e muitas outras pessoas contribuidoras.
+Essa versão do glossário Cloud Native em português inclui contribuições de [Edson Ferreira](https://www.linkedin.com/in/edsoncelio/), [Bruno Guidone](https://www.linkedin.com/in/brunoguidone), [Jéssica Lins](https://www.linkedin.com/in/jessica-lins/), [Willian Oliveira](https://www.linkedin.com/in/willian-dos-santos-oliveira-a4442682/), [Marcelo Mansur](https://www.linkedin.com/in/mdmansur/), Erlison Santos e muitas outras pessoas contribuidoras.
 
 ## Licença
 Todas as contribuições de código estão sob a licença Apache 2.0. A documentação é distribuída em CC BY 4.0.
