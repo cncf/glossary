@@ -20,7 +20,7 @@ There are three ways you can contribute:
 Consider joining our monthly Glossary Working Group meetings if you want to contribute regularly. You can find meeting details in the [CNCF calendar](https://www.cncf.io/calendar/). You can also connect with the maintainers and fellow contributors in our [#glossary](https://cloud-native.slack.com/archives/C02TX20MQBB) channel on the CNCF Slack — we'd love to meet you! 
 
 ## Work on an existing issue
-Go to the [Glossary GitHub repo issues](https://github.com/cncf/glossary/issues). There you'll see a list of all issues. You can filter by label (e.g. English language, help needed, first good issue). Note that you'll need a GitHub account to do any of this.
+Go to the [Glossary GitHub repo issues](https://github.com/cncf/glossary/issues). There you'll see a list of all issues. You can filter by label (e.g. English language, help needed, good first issue). Note that you'll need a GitHub account to do any of this.
 
 ![Issue and labels](/images/how-to/issue-and-labels.png)
 
