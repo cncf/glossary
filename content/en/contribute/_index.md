@@ -9,7 +9,7 @@ menu:
 
 The Cloud Native Glossary content is stored in [this GitHub repo](https://github.com/cncf/glossary) where you'll find a list of [issues](https://github.com/cncf/glossary/issues), [PRs](https://github.com/cncf/glossary/pulls), and [discussions](https://github.com/cncf/glossary/discussions) about the glossary. 
 
-There are three ways you can contribute:
+There are four ways you can contribute:
 
 1) [Work on an existing issue](#work-on-an-existing-issue)
 2) [Propose new terms](#propose-new-terms)
