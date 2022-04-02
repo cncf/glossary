@@ -1,5 +1,5 @@
 ---
-title: DevOps(डेवॉप्स) 
+title: डेवॉप्स (DevOps) 
 status: Completed
 category: अवधारणा
 ---

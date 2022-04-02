@@ -1,5 +1,5 @@
 ---
-title: एजाइल सॉफ्टवेयर विकास
+title: एजाइल सॉफ्टवेयर विकास (Agile Software Development)
 status: Completed
 category: अवधारणा
 ---

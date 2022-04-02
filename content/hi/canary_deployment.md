@@ -1,5 +1,5 @@
 ---
-title: कैनरी डिप्लॉयमेंट
+title: कैनरी डिप्लॉयमेंट (Canary Deployment)
 status: completed
 category: अवधारणा
 ---
