@@ -59,14 +59,6 @@ languageName ="English"
 # Weight used for sorting.
 weight = 1
 
-[languages.it]
-title = "Glossario Cloud Native"
-description = "Il progetto del Glossario CNCF Cloud Native è pensato per essere un riferimento per i termini comuni, usati nell'ambito delle applicazioni cloud native."
-languageName = "Italiano"
-contentDir = "content/it"
-# Weight used for sorting.
-weight = 2
-
 #[languages.no]
 #title = "CNCF Glossary"
 #description = "Docsy er operativsystem for skyen"
@@ -74,6 +66,21 @@ weight = 2
 #contentDir = "content/no"
 #time_format_default = "02.01.2006"
 #time_format_blog = "02.01.2006"
+
+[languages.hi]
+title = "क्लाउड नेटिव शब्दावली"
+description = "CNCF क्लाउड नेटिव शब्दावली परियोजना का उद्देश्य क्लाउड नेटिव एप्लिकेशन के बारे में बात करते समय प्रयोग किए जाने वाले सामान्य शब्दों के संदर्भ के रूप में उपयोग किया जाना है।"
+languageName ="हिन्दी(Hindi)"
+contentDir = "content/hi"
+weight = 2
+
+[languages.it]
+title = "Glossario Cloud Native"
+description = "Il progetto del Glossario CNCF Cloud Native è pensato per essere un riferimento per i termini comuni, usati nell'ambito delle applicazioni cloud native."
+languageName = "Italiano"
+contentDir = "content/it"
+# Weight used for sorting.
+weight = 3
 
 [markup]
   [markup.goldmark]
