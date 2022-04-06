@@ -4,26 +4,141 @@ Add styles or override variables from the theme here.
 
 */
 
-$primary: #446CA9;
-$link-color: #FF00AA;
-$blue: #FF00AA;
-$body-color: #2A0054;
+$primary: white;
+$link-color: #d62293;
+$body-color: black;
 $td-enable-google-fonts: false;
 $td-sidebar-tree-root-color: $primary;
+
+// font-stack.
+$font-family-base: 'Clarity City', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, Roboto,
+	Ubuntu, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
+
+@font-face {
+	font-display: optional;
+	font-family: 'Clarity City';
+	font-weight: 100;
+	font-style: normal;
+	src: local('ClarityCity-Thin'), local('Clarity City'),
+		url('/wp-content/themes/cncf-twenty-two/source/fonts/ClarityCity-100.woff2') format('woff2'),
+		url('/wp-content/themes/cncf-twenty-two/source/fonts/ClarityCity-100.woff') format('woff'),
+		url('/wp-content/themes/cncf-twenty-two/source/fonts/ClarityCity-100.ttf') format('ttf');
+}
+
+@font-face {
+	font-display: optional;
+	font-family: 'Clarity City';
+	font-weight: 200;
+	font-style: normal;
+	src: local('ClarityCity-ExtraLight'), local('Clarity City'),
+		url('/wp-content/themes/cncf-twenty-two/source/fonts/ClarityCity-200.woff2') format('woff2'),
+		url('/wp-content/themes/cncf-twenty-two/source/fonts/ClarityCity-200.woff') format('woff'),
+		url('/wp-content/themes/cncf-twenty-two/source/fonts/ClarityCity-200.ttf') format('ttf');
+}
+
+@font-face {
+	font-display: optional;
+	font-family: 'Clarity City';
+	font-weight: 300;
+	font-style: normal;
+	src: local('ClarityCity-Light'), local('Clarity City'),
+		url('/wp-content/themes/cncf-twenty-two/source/fonts/ClarityCity-300.woff2') format('woff2'),
+		url('/wp-content/themes/cncf-twenty-two/source/fonts/ClarityCity-300.woff') format('woff'),
+		url('/wp-content/themes/cncf-twenty-two/source/fonts/ClarityCity-300.ttf') format('ttf');
+}
+
+@font-face {
+	font-display: optional;
+	font-family: 'Clarity City';
+	font-weight: 400;
+	font-style: normal;
+	src: local('ClarityCity-Regular'), local('Clarity City'),
+		url('/wp-content/themes/cncf-twenty-two/source/fonts/ClarityCity-400.woff2') format('woff2'),
+		url('/wp-content/themes/cncf-twenty-two/source/fonts/ClarityCity-400.woff') format('woff'),
+		url('/wp-content/themes/cncf-twenty-two/source/fonts/ClarityCity-400.ttf') format('ttf');
+}
+
+@font-face {
+	font-display: optional;
+	font-family: 'Clarity City';
+	font-weight: 500;
+	font-style: normal;
+	src: local('ClarityCity-Medium'), local('Clarity City'),
+		url('/wp-content/themes/cncf-twenty-two/source/fonts/ClarityCity-500.woff2') format('woff2'),
+		url('/wp-content/themes/cncf-twenty-two/source/fonts/ClarityCity-500.woff') format('woff'),
+		url('/wp-content/themes/cncf-twenty-two/source/fonts/ClarityCity-500.ttf') format('ttf');
+}
+
+@font-face {
+	font-display: optional;
+	font-family: 'Clarity City';
+	font-weight: 600;
+	font-style: normal;
+	src: local('ClarityCity-SemiBold'), local('Clarity City'),
+		url('/wp-content/themes/cncf-twenty-two/source/fonts/ClarityCity-600.woff2') format('woff2'),
+		url('/wp-content/themes/cncf-twenty-two/source/fonts/ClarityCity-600.woff') format('woff'),
+		url('/wp-content/themes/cncf-twenty-two/source/fonts/ClarityCity-600.ttf') format('ttf');
+}
+
+@font-face {
+	font-display: optional;
+	font-family: 'Clarity City';
+	font-weight: 700;
+	font-style: normal;
+	src: local('ClarityCity-Bold'), local('Clarity City'),
+		url('/wp-content/themes/cncf-twenty-two/source/fonts/ClarityCity-700.woff2') format('woff2'),
+		url('/wp-content/themes/cncf-twenty-two/source/fonts/ClarityCity-700.woff') format('woff'),
+		url('/wp-content/themes/cncf-twenty-two/source/fonts/ClarityCity-700.ttf') format('ttf');
+}
+
+@font-face {
+	font-display: optional;
+	font-family: 'Clarity City';
+	font-weight: 800;
+	font-style: normal;
+	src: local('ClarityCity-ExtraBold'), local('Clarity City'),
+		url('/wp-content/themes/cncf-twenty-two/source/fonts/ClarityCity-800.woff2') format('woff2'),
+		url('/wp-content/themes/cncf-twenty-two/source/fonts/ClarityCity-800.woff') format('woff'),
+		url('/wp-content/themes/cncf-twenty-two/source/fonts/ClarityCity-800.ttf') format('ttf');
+}
+
+@font-face {
+	font-display: optional;
+	font-family: 'Clarity City';
+	font-weight: 900;
+	font-style: normal;
+	src: local('ClarityCity-Black'), local('Clarity City'),
+		url('/wp-content/themes/cncf-twenty-two/source/fonts/ClarityCity-900.woff2') format('woff2'),
+		url('/wp-content/themes/cncf-twenty-two/source/fonts/ClarityCity-900.woff') format('woff'),
+		url('/wp-content/themes/cncf-twenty-two/source/fonts/ClarityCity-900.ttf') format('ttf');
+}
+
+body {
+    background-color: #fdfdfd !important;
+}
 
 a:hover {
     color: #f0a !important;
     text-decoration: underline !important;
 }
 
+.navbar-dark .navbar-nav .nav-link {
+    color: black !important;
+    font-weight: 600;
+}
+
 .navbar-nav a.nav-link:hover {
-    color: rgba(255,255,255,.5) !important;
+    color: #444 !important;
     text-decoration: none !important;
 }
 
 a.tree-root:hover {
     color: $primary !important;
     text-decoration: none !important;
+}
+
+.td-sidebar {
+    background-color: #f4f4f4 !important;
 }
 
 .td-sidebar-nav .td-sidebar-link__page {
@@ -37,12 +152,12 @@ a.tree-root:hover {
 }
 
 footer a {
-    color: #fff;
+    color: $primary;
     font-weight: 600;
 }
 
 footer a:hover {
-    color: #fff !important;
+    color: $primary !important;
     text-decoration: none !important;
 }
 
@@ -94,7 +209,7 @@ i.concept:before {
 
 footer {
     min-height: unset !important;
-    background-color: $primary;
+    background-color: black;
     color: #eee;
 }
 
@@ -115,11 +230,16 @@ footer small a {
 }
 
 .td-sidebar-nav a.td-sidebar-link {
-    padding: 0.2rem 6px !important;
+    padding: 0.2rem 8px !important;
 }
 
 .td-sidebar-nav a.active {
-    border-left: 2px solid $primary;
+    border-left: 2px solid black;
     background-color: white;
-    padding-left: 4px !important;
+    padding-left: 6px !important;
+}
+
+.dropdown-item:hover, .dropdown-item:focus {
+    color: black !important;
+    text-decoration: none !important;
 }
