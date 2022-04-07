@@ -1,6 +1,6 @@
 ---
 title: Service Level Objective
-status: Feedback appreciapted
+status: Feedback appreciated
 category: Property
 ---
 
