@@ -1,7 +1,7 @@
 ---
 title: Macchina virtuale (VM)
 status: Completed
-category: Technologia
+category: Tecnologia
 ---
 
 ## Che cos’è
