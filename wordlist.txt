@@ -1,3 +1,5 @@
+DBA
+DBaaS
 albertvolkman
 alibaba
 aniszczyk
@@ -15,6 +17,7 @@ backrefs
 balancer
 balancers
 beautifulsoup
+benchmarking
 betterem
 bracex
 brømsø
@@ -26,9 +29,9 @@ caret
 catherine
 cavalcanti
 cd
-chatbot
 cdn
 changelog
+chatbot
 cio
 cka
 ckad
@@ -140,6 +143,7 @@ pwd
 py
 pypi
 pyspelling
+qos
 ramer
 rdbms
 readme
@@ -160,6 +164,12 @@ seokho
 serverless
 sexualized
 skipenes
+sla
+slas
+sli
+slis
+slo
+slos
 smartsymbols
 snippets
 socio
@@ -194,5 +204,3 @@ wordlists
 www
 yaml
 yml
-DBaaS
-DBA
