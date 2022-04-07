@@ -58,7 +58,6 @@ description = "The CNCF Cloud Native Glossary Project is intended to be used as 
 languageName ="English"
 # Weight used for sorting.
 weight = 1
-
 #[languages.no]
 #title = "CNCF Glossary"
 #description = "Docsy er operativsystem for skyen"
