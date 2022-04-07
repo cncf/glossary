@@ -1,6 +1,6 @@
 ---
 title: Service Level Indicator
-status: Feedback appreciapted
+status: Feedback appreciated
 category: Property
 ---
 
