@@ -57,3 +57,13 @@ other = "Clique aqui para imprimir"
 other = "Retornar à visualização normal"
 [print_entire_section]
 other = "Imprimir toda essa seção"
+
+# Feedback section
+[feedback_title]
+other = "Comentários"
+[feedback_question]
+other = "Esta página foi útil?"
+[feedback_answer_yes]
+other = "Sim"
+[feedback_answer_no]
+other = "Não"
