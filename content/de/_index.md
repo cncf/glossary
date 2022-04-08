@@ -22,6 +22,6 @@ Beiträge von [Catherine Paganini](https://www.linkedin.com/in/catherinepaganini
 
 Die deutsche Version enthält Beiträge von [David Wagner](https://www.linkedin.com/in/david-wagner-dataone/) und [Noah Ispas](https://www.linkedin.com/in/noah-ispas-0665b42a/).
 
-## Lizent
+## Lizenz
 
 Alle Codebeiträge stehen unter der Apache 2.0 Lizenz. Die Dokumentation wird unter CC BY 4.0 verbreitet.
