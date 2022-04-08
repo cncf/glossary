@@ -117,9 +117,40 @@ body {
     background-color: #fdfdfd !important;
 }
 
+.td-sidebar-nav > .td-sidebar-nav__section {
+    margin-bottom: 4rem !important;
+}
+
+.navbar-brand {
+    margin-left: 1rem;
+}
+
+@media (min-width: 768px){
+.td-main main {
+    padding-top: 7.5rem !important;
+}
+.td-sidebar {
+    padding-top: 6rem !important;
+    background-color: #f4f4f4 !important;
+}
+}
+
+.td-sidebar-toc {
+    padding-top: 2rem !important;
+}
+
+h1, .h1 {
+    font-size: 3rem !important;
+}
+
 a:hover {
     color: #f0a !important;
     text-decoration: underline !important;
+}
+
+.navbar {
+    padding-left: 0 !important;
+    margin-bottom: 3rem !important;
 }
 
 .navbar-dark .navbar-nav .nav-link {
@@ -132,13 +163,19 @@ a:hover {
     text-decoration: none !important;
 }
 
+.navbar:after {
+    background: linear-gradient(180deg,rgba(0,0,0,.1),transparent);
+    content: "";
+    height: 20px;
+    position: absolute;
+    top: 100%;
+    width: 100%;
+    z-index: 1;
+}
+
 a.tree-root:hover {
     color: $primary !important;
     text-decoration: none !important;
-}
-
-.td-sidebar {
-    background-color: #f4f4f4 !important;
 }
 
 .td-sidebar-nav .td-sidebar-link__page {

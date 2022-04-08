@@ -7,6 +7,7 @@ title: "Cloud Native Glossary"
 
 The Cloud Native Glossary is a project led by the CNCF Business Value Subcommittee (BVS). Its goal is to explain cloud native concepts in clear and simple language without requiring any previous technical knowledge.
 
+<div class="container">
   <div class="row gx-0">
     <div class="col-8">
         <img class="rounded" src="/images/homepage/stage.jpg" alt="A woman and two men presenting technical info on a stage">    </div>
@@ -15,6 +16,7 @@ The Cloud Native Glossary is a project led by the CNCF Business Value Subcommitt
         <div class="row"><img class="rounded" src="/images/homepage/laptop.jpg" alt="A man watching a presentation with his laptop open"></div>
     </div>
   </div>
+</div>
 
 ## Contributing
 Everybody is invited to suggest changes, additions, and improvements to the Cloud Native Glossary. We employ a community-driven process governed by the CNCF to develop and improve upon this shared lexicon. This Glossary provides a vendor-neutral platform to organize a shared vocabulary around cloud native technologies. Contributions are welcome from all participants who abide by the project's purpose and charter.
