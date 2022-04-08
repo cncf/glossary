@@ -77,8 +77,11 @@ collaborators:
   - username: DaveVentura
     permission: push
 
+  - username: Petria3s
+    permission: push
+
   # l10n it approvers
-  - username: Giulia-dipietro
+  - username: fsbaraglia
     permission: push
 
   - username: meryem-ldn
@@ -100,7 +103,7 @@ collaborators:
   - username: AShabana
     permission: push
 
-  - username: hacktron95
+  - username: arezk84
     permission: push
 
   # l10n bn approvers
@@ -114,11 +117,13 @@ collaborators:
     permission: push
 
   # l10n es approvers
-  # Note: CathPag is both a maintainer (maintain) and de approver (push)
   - username: raelga
     permission: push
     
   - username: electrocucaracha
+    permission: push
+
+  - username: krol3
     permission: push
 
   # l10n zh approvers
@@ -224,9 +229,9 @@ branches:
         apps: []
         # de approvers
         users:
-         - CathPag
          - iamNoah1
          - DaveVentura
+         - Petria3s
         teams: []
       enforce_admins: null
       required_linear_history: null
@@ -242,7 +247,7 @@ branches:
         apps: []
         # it approvers
         users:
-         - Giulia-dipietro
+         - fsbaraglia
          - meryem-ldn
          - annalisag-spark
          - sistella
@@ -264,7 +269,7 @@ branches:
          - TarekMSayed
          - same7ammar
          - AShabana
-         - hacktron95
+         - arezk84
         teams: []
       enforce_admins: null
       required_linear_history: null
@@ -298,9 +303,9 @@ branches:
         apps: []
         # es approvers
         users:
-         - CathPag
          - raelga
          - electrocucaracha
+         - krol3
         teams: []
       enforce_admins: null
       required_linear_history: null

@@ -43,6 +43,7 @@ cri
 critic
 crm
 customizable
+cyber
 daniel
 datacenter
 datadog
@@ -89,6 +90,7 @@ http
 https
 iaas
 iac
+idempotence
 impactful
 inelasticity
 inlinehilite
@@ -153,6 +155,7 @@ saneheaders
 sbates
 scalability
 scalable
+sce
 seokho
 serverless
 sexualized
@@ -161,6 +164,7 @@ smartsymbols
 snippets
 socio
 sre
+sres
 stateful
 striphtml
 subnets
@@ -190,3 +194,5 @@ wordlists
 www
 yaml
 yml
+DBaaS
+DBA

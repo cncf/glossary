@@ -59,3 +59,13 @@ other = "点击打印"
 other = "返回此页面的常规视图"
 [print_entire_section]
 other = "打印全部章节"
+
+# Feedback section
+[feedback_title]
+other = "反馈意见"
+[feedback_question]
+other = "本页是否有帮助?"
+[feedback_answer_yes]
+other = "是"
+[feedback_answer_no]
+other = "否"
