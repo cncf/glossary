@@ -1,5 +1,5 @@
 ---
-title: Vorlage für Definition
+title: Cloud Computing
 status: Feedback erwünscht
 category: Konzept
 ---
