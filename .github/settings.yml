@@ -115,6 +115,12 @@ collaborators:
 
   - username: ikramulkayes
     permission: push
+    
+  - username: Imtiaz1234
+    permission: push
+    
+  - username: nazma1234
+    permission: push
 
   # l10n es approvers
   - username: raelga
@@ -288,6 +294,8 @@ branches:
          - mitul3737
          - Mouly22
          - ikramulkayes
+         - Imtiaz1234
+         - nazma1234
         teams: []
       enforce_admins: null
       required_linear_history: null
