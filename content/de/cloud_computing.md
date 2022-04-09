@@ -5,13 +5,13 @@ category: Konzept
 ---
 
 ## Was es ist
-Das Konzept, hinter dem Cloud Computing ist die Bereitstellung von Systemressourcen wie CPU, Netzwerk und Speicher auf Abruf und über das Internet.
-Das Cloud Computing ermöglicht den Zugriff und die Nutzung von Systemressourcen aus beliebigen Standorten.
-Diese Systemressourcen werden von Cloud-Anbietern wie AWS, GCP, Azure, Digitial Ocean, und anderen, aus unterschiedlichen Standorten, an den Endverbraucher vermietet.
+Das Konzept des Cloud Computing ist die Bereitstellung von Systemressourcen wie CPU, Netzwerk und Speicher auf Abruf und über das Internet.
+Cloud Computing ermöglicht den Zugriff und die Nutzung von Systemressourcen aus beliebigen Standorten.
+Diese Systemressourcen werden von Cloud-Anbietern wie AWS, GCP, Azure, Digitial Ocean und weiteren Anbietern an den Endverbraucher zur Verfügung gestellt.
 
 ## Welches Problem es löst
 Die Skalierung von Systemressourcen stellt für viele Organisationen eine große Herausforderung dar.
-Organisationen müssen entweder fest verplante Systemressourcen bei bestehenden Rechenzentren einkaufen oder ein Rechenzentrum aufbauen und verwalten.
+Organisationen müssen entweder fest verplante Systemressourcen bei bestehenden Rechenzentren einkaufen oder selbst ein Rechenzentrum aufbauen und verwalten.
 Hiermit sind signifikante Planungsaufwände und Kosten verbunden.
 Beim Cloud Computing verlagert sich die Verantwortung für die Bereitstellung und den Betrieb von Systemressourcen an den Cloud-Anbieter.
 
