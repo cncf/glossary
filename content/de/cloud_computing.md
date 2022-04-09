@@ -16,7 +16,7 @@ Hiermit sind signifikante Planungsaufwände und Kosten verbunden.
 Beim Cloud Computing verlagert sich die Verantwortung für die Bereitstellung und den Betrieb von Systemressourcen an den Cloud-Anbieter.
 
 ## Wie es das Problem löst
-Cloud-Anbieter stellen Systemressourcen an Endnutzer auf Abruf zur Verfügung.
+Cloud-Anbieter stellen Systemressourcen für Endnutzer auf Abruf zur Verfügung.
 Dieser Paradigmenwechsel bietet Organisationen zwei wesentliche Vorteile.
 Der reduzierte Planungsaufwand bei der Nutzung von Cloud Dienstleistungen lädt Organisationen zum Ausprobieren von neuen Ideen und Konzepten ein.
 Die daraus resultierenden Kosten und Aufwände sind überschaubar, da Endnutzer sich nicht für die Nutzung oder den Kauf von Systemressourcen langfristig verpflichten.
