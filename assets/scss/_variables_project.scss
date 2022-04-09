@@ -121,36 +121,41 @@ body {
     margin-bottom: 4rem !important;
 }
 
-.navbar-brand {
-    margin-left: 1rem;
+.td-navbar {
+    padding-right: 0.5rem I !important;
+    padding-left: 0.5rem !important;
 }
 
 @media (min-width: 768px){
-.td-main main {
-    padding-top: 7.5rem !important;
-}
-.td-sidebar {
-    padding-top: 6rem !important;
-    background-color: #f4f4f4 !important;
-}
+    .td-main main {
+        padding-top: 7.5rem !important;
+    }
+    .td-sidebar {
+        padding-top: 6rem !important;
+        background-color: #f4f4f4 !important;
+    }
+    .navbar, .td-navbar {
+        margin-bottom: 3rem !important;
+        padding: 0 !important;
+    }
+    h1, .h1 {
+        font-size: 3rem !important;
+    }   
+    .td-navbar {
+        min-height: 5rem !important;
+    } 
+    .navbar-brand {
+        margin-left: 1rem;
+    }
 }
 
 .td-sidebar-toc {
     padding-top: 2rem !important;
 }
 
-h1, .h1 {
-    font-size: 3rem !important;
-}
-
 a:hover {
     color: #f0a !important;
     text-decoration: underline !important;
-}
-
-.navbar {
-    padding-left: 0 !important;
-    margin-bottom: 3rem !important;
 }
 
 .navbar-dark .navbar-nav .nav-link {
@@ -257,13 +262,6 @@ footer small a {
 #cncf-logo {
     margin: 1rem 0;
 
-}
-
-// temoporary removal of navbar for mobile while we have no elements in it
-@media (max-width: 768px) {
-    .td-navbar .td-navbar-nav-scroll {
-        display: none
-    }
 }
 
 .td-sidebar-nav a.td-sidebar-link {
