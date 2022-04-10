@@ -119,8 +119,6 @@ collaborators:
   - username: Imtiaz1234
     permission: push
     
-  - username: nazma1234
-    permission: push
 
   # l10n es approvers
   - username: raelga
