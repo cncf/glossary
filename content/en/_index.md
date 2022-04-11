@@ -10,10 +10,10 @@ The Cloud Native Glossary is a project led by the CNCF Business Value Subcommitt
 <div class="container">
   <div class="row gx-0">
     <div class="col-sm-8">
-        <img class="rounded mb-3" src="/images/homepage/stage.jpg" alt="A woman and two men presenting technical info on a stage">
+        <img class="rounded mb-4" src="/images/homepage/stage.jpg" alt="A woman and two men presenting technical info on a stage">
     </div>
     <div class="col-sm-4">
-        <img class="rounded mb-3" src="/images/homepage/code.jpg" alt="A man watching a huge screen with code on it">
+        <img class="rounded mb-4" src="/images/homepage/code.jpg" alt="A man watching a huge screen with code on it">
         <img class="rounded" src="/images/homepage/laptop.jpg" alt="A man watching a presentation with his laptop open">
     </div>
   </div>
