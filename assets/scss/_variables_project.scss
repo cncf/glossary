@@ -301,6 +301,33 @@ footer .brand img {
     width: unset;
 }
 
+.hs-button {
+    background-color: black;
+    border: 0;
+    border-radius: 3px;
+    box-shadow: none;
+    box-sizing: border-box;
+    color: #fff;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: 700;
+    letter-spacing: .02em;
+    line-height: 105%;
+    margin: 0;
+    max-width: 100%;
+    padding: 12px 40px;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    transition: all .25s ease-out;
+    word-break: break-word;
+}
+
+.hs-button:hover {
+    background-color: #747474;
+}
+
+
 @media (min-width: 768px){
     .td-main main {
         padding-top: 7.5rem !important;
