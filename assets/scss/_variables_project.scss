@@ -278,3 +278,44 @@ footer small a {
     color: black !important;
     text-decoration: none !important;
 }
+
+
+.social-links svg:hover {
+    color: $link-color;
+    fill: $link-color;
+}
+
+.social-links {
+    text-align: right;
+}
+
+.social-links svg {
+    fill: #fff;
+    color: #fff;
+    height: 25px;
+    max-width: 30px;
+    margin-right: 1rem;
+}
+
+footer .brand img {
+    height: 40px !important;
+}
+
+.horizontal-rule {
+    background-color: #fff;
+    height: 1px;
+    width: 100%;
+    margin: 1rem 0;
+}
+
+.button-reset {
+    background: none;
+    border: none;
+    box-sizing: border-box;
+    cursor: pointer;
+    display: block;
+    margin-left: 0;
+    margin-right: 0;
+    padding: 0;
+    width: unset;
+}
