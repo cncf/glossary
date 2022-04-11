@@ -126,28 +126,7 @@ body {
     padding-left: 0.5rem !important;
 }
 
-@media (min-width: 768px){
-    .td-main main {
-        padding-top: 7.5rem !important;
-    }
-    .td-sidebar {
-        padding-top: 8rem !important;
-        background-color: #f4f4f4 !important;
-    }
-    .navbar, .td-navbar {
-        margin-bottom: 3rem !important;
-        padding: 0 !important;
-    }
-    h1, .h1 {
-        font-size: 3rem !important;
-    }   
-    .td-navbar {
-        min-height: 5rem !important;
-    } 
-    .navbar-brand {
-        margin-left: 1rem;
-    }
-}
+
 
 .td-sidebar-toc {
     padding-top: 4rem !important;
@@ -285,9 +264,6 @@ footer small a {
     fill: $link-color;
 }
 
-.social-links {
-    text-align: right;
-}
 
 .social-links svg {
     fill: #fff;
@@ -296,6 +272,11 @@ footer small a {
     max-width: 30px;
     margin-right: 1rem;
 }
+
+.social-links {
+    text-align: center;
+}    
+
 
 footer .brand img {
     height: 40px !important;
@@ -318,4 +299,30 @@ footer .brand img {
     margin-right: 0;
     padding: 0;
     width: unset;
+}
+
+@media (min-width: 768px){
+    .td-main main {
+        padding-top: 7.5rem !important;
+    }
+    .td-sidebar {
+        padding-top: 8rem !important;
+        background-color: #f4f4f4 !important;
+    }
+    .navbar, .td-navbar {
+        margin-bottom: 3rem !important;
+        padding: 0 !important;
+    }
+    h1, .h1 {
+        font-size: 3rem !important;
+    }   
+    .td-navbar {
+        min-height: 5rem !important;
+    } 
+    .navbar-brand {
+        margin-left: 1rem;
+    }
+    .social-links {
+        text-align: right;
+    }    
 }
