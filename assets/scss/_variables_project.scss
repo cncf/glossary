@@ -126,24 +126,32 @@ body {
     padding-left: 0.5rem !important;
 }
 
-
-
 .td-sidebar-toc {
     padding-top: 4rem !important;
 }
 
+a {
+    font-weight: 700 !important;
+}
+
+.td-sidebar-nav .td-sidebar-link__page {
+    font-weight: 600 !important;
+    line-height: 2.1em !important;
+}
+
 a:hover {
-    color: #f0a !important;
+    color: $link-color !important;
     text-decoration: underline !important;
 }
 
 .navbar-dark .navbar-nav .nav-link {
     color: black !important;
-    font-weight: 600;
+    font-weight: 600 !important;
 }
 
 .navbar-nav a.nav-link:hover {
-    color: #444 !important;
+    color: rgba(0,0,0,.7) !important;
+    transition: color .25s ease-in;
     text-decoration: none !important;
 }
 
@@ -195,8 +203,8 @@ div.category {
 }
 
 .td-page-meta a {
-    font-weight: 400 !important;
     margin-bottom: 0.8rem;
+    letter-spacing: 0.02em;
 }
 
 i.technology, i.property, i.concept {
@@ -339,6 +347,9 @@ footer .brand img {
     .navbar, .td-navbar {
         margin-bottom: 3rem !important;
         padding: 0 !important;
+    }
+    .navbar-nav .nav-link {
+        letter-spacing: 0.02em;
     }
     h1, .h1 {
         font-size: 3rem !important;
