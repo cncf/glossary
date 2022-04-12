@@ -331,6 +331,13 @@ footer .brand img {
     letter-spacing: 0.02em !important;
 }
 
+button.td-sidebar__toggle {
+    font-size: 1.5rem;
+}
+
+button.td-sidebar__toggle:hover, button.td-sidebar__toggle:active {
+    color: black;
+}
 
 @media (min-width: 768px){
     .td-main main {
