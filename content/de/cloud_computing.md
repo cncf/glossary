@@ -1,6 +1,6 @@
 ---
 title: Cloud Computing
-status: Abgeschlossen
+status: Completed
 category: Konzept
 ---
 
