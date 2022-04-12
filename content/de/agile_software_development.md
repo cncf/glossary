@@ -1,6 +1,6 @@
 ---
 title: Vorlage für Definition
-status: Abgeschlossen
+status: Completed
 category: Konzept
 ---
 
