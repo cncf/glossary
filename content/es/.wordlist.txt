@@ -1,5 +1,6 @@
 Agile
 Aniszczyk
+API
 AWS
 Azure
 Business
@@ -11,13 +12,16 @@ CC
 Chris
 Cloud
 CNCF
+contenerización
 Committee
 Completed
 concept
 Daniel
+declarativamente
 Development
 DevOps
 DigitalOcean
+extensibilidad
 Foster
 GCP
 GitHub
@@ -26,10 +30,13 @@ issue
 Jason
 Jones
 Katelin
+K8s
+Kubernetes
 localizations
 Mike
 Morgan
 Native
+laptop
 Paganini
 property
 pull
@@ -39,5 +46,7 @@ Seokho
 Slack
 status
 Subcommittee
+technology
 title
 Value
+YAML
