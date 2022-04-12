@@ -10,6 +10,7 @@ Catherine
 CC
 Chris
 Cloud
+clúster
 CNCF
 contenerización
 Committee
