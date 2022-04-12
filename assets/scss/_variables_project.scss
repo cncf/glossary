@@ -128,7 +128,20 @@ a {
 
 .td-sidebar-nav .td-sidebar-link__page {
     font-weight: 600 !important;
-    line-height: 2.1em !important;
+    color: $body-color !important;
+    padding: 0.5rem 8px !important;
+    letter-spacing: 0.02em !important;
+}
+
+.td-sidebar-nav .td-sidebar-link__page:hover {
+    color: $link-color !important;
+    text-decoration: none !important;
+}
+
+.td-sidebar-nav a.active {
+    border-left: 4px solid #45719A;
+    background-color: white;
+    padding-left: 6px !important;
 }
 
 a:hover {
@@ -159,16 +172,6 @@ a:hover {
 
 a.tree-root:hover {
     color: $primary !important;
-    text-decoration: none !important;
-}
-
-.td-sidebar-nav .td-sidebar-link__page {
-    color: $body-color !important;
-    font-weight: 300;
-}
-
-.td-sidebar-nav .td-sidebar-link__page:hover {
-    color: $link-color !important;
     text-decoration: none !important;
 }
 
@@ -242,17 +245,6 @@ footer small a {
 #cncf-logo {
     margin: 1rem 0;
 
-}
-
-.td-sidebar-nav a.td-sidebar-link {
-    padding: 0.2rem 8px !important;
-    letter-spacing: 0.02em !important;
-}
-
-.td-sidebar-nav a.active {
-    border-left: 4px solid #45719A;
-    background-color: white;
-    padding-left: 6px !important;
 }
 
 .dropdown-item:hover, .dropdown-item:focus {
