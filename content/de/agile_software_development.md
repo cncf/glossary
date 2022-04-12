@@ -1,6 +1,6 @@
 ---
 title: Vorlage für Definition
-status: Feedback erwünscht
+status: Abgeschlossen
 category: Konzept
 ---
 
