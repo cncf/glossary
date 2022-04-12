@@ -10,6 +10,11 @@ $body-color: black;
 $td-enable-google-fonts: false;
 $td-sidebar-tree-root-color: $primary;
 
+
+body {
+    background-color: #fdfdfd !important;
+}
+
 // font-stack.
 $font-family-base: 'Clarity City', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, Roboto,
 	Ubuntu, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
@@ -105,25 +110,49 @@ $font-family-base: 'Clarity City', -apple-system, BlinkMacSystemFont, 'Segoe UI'
 }
 
 
-body {
-    background-color: #fdfdfd !important;
+// a.
+a {
+    font-weight: 700 !important;
 }
 
-.td-sidebar-nav > .td-sidebar-nav__section {
-    margin-bottom: 4rem !important;
+a:hover {
+    color: $link-color !important;
+    text-decoration: underline !important;
 }
 
-.td-navbar {
-    padding-right: 0.5rem I !important;
-    padding-left: 0.5rem !important;
+a.tree-root:hover {
+    color: $primary !important;
+    text-decoration: none !important;
 }
 
+footer a {
+    color: $primary;
+    font-weight: 600;
+}
+
+footer a:hover {
+    color: $primary !important;
+    text-decoration: none !important;
+}
+
+h2 a:hover, h3 a:hover {
+    text-decoration: none !important;
+}
+
+.td-page-meta a {
+    margin-bottom: 1rem;
+    letter-spacing: 0.02em;
+    font-weight: 500 !important;
+}
+
+
+// sidebar.
 .td-sidebar-toc {
     padding-top: 4rem !important;
 }
 
-a {
-    font-weight: 700 !important;
+.td-sidebar-nav > .td-sidebar-nav__section {
+    margin-bottom: 4rem !important;
 }
 
 .td-sidebar-nav .td-sidebar-link__page {
@@ -144,9 +173,10 @@ a {
     padding-left: 6px !important;
 }
 
-a:hover {
-    color: $link-color !important;
-    text-decoration: underline !important;
+// navbar.
+.td-navbar {
+    padding-right: 0.5rem I !important;
+    padding-left: 0.5rem !important;
 }
 
 .navbar-dark .navbar-nav .nav-link {
@@ -170,39 +200,12 @@ a:hover {
     z-index: 1;
 }
 
-a.tree-root:hover {
-    color: $primary !important;
-    text-decoration: none !important;
+.td-navbar .navbar-brand svg {
+    height: 40px !important;
 }
 
-footer a {
-    color: $primary;
-    font-weight: 600;
-}
 
-footer a:hover {
-    color: $primary !important;
-    text-decoration: none !important;
-}
-
-h2 a:hover, h3 a:hover {
-    text-decoration: none !important;
-}
-
-h2.feedback--title {
-    margin-top: 3rem;
-}
-
-div.category {
-    margin: 0 0 .5rem .2rem;
-}
-
-.td-page-meta a {
-    margin-bottom: 1rem;
-    letter-spacing: 0.02em;
-    font-weight: 500 !important;
-}
-
+// category labels.
 i.technology, i.property, i.concept {
     -moz-osx-font-smoothing: grayscale;
     -webkit-font-smoothing: antialiased;
@@ -228,36 +231,12 @@ i.concept:before {
     content: "\f0eb";
 }
 
-.td-navbar .navbar-brand svg {
-    height: 40px !important;
-}
 
-footer {
-    min-height: unset !important;
-    background-color: black;
-    color: #eee;
-}
-
-footer small a {
-    color: #eee !important;
-}
-
-#cncf-logo {
-    margin: 1rem 0;
-
-}
-
-.dropdown-item:hover, .dropdown-item:focus {
-    color: black !important;
-    text-decoration: none !important;
-}
-
-
+// social links.
 .social-links svg:hover {
     color: $link-color;
     fill: $link-color;
 }
-
 
 .social-links svg {
     fill: #fff;
@@ -272,17 +251,23 @@ footer small a {
 }    
 
 
+// footer.
 footer .brand img {
     height: 40px !important;
 }
 
-.horizontal-rule {
-    background-color: #fff;
-    height: 1px;
-    width: 100%;
-    margin: 1rem 0;
+footer {
+    min-height: unset !important;
+    background-color: black;
+    color: #eee;
 }
 
+footer small a {
+    color: #eee !important;
+}
+
+
+// buttons.
 .button-reset {
     background: none;
     border: none;
@@ -321,6 +306,28 @@ footer .brand img {
     background-color: #747474;
 }
 
+button.td-sidebar__toggle {
+    font-size: 1.5rem;
+    border-radius: 0;
+}
+
+button.td-sidebar__toggle:hover, button.td-sidebar__toggle:active {
+    color: black;
+}
+
+
+// topnav dropdown.
+.dropdown-item {
+    font-weight: 600 !important;
+}
+
+.dropdown-item:hover, .dropdown-item:focus {
+    color: black !important;
+    text-decoration: none !important;
+}
+
+
+// misc.
 .td-search-input {
     background-color: white !important;
 }
@@ -331,19 +338,6 @@ footer .brand img {
     letter-spacing: 0.02em !important;
 }
 
-button.td-sidebar__toggle {
-    font-size: 1.5rem;
-    border-radius: 0;
-}
-
-button.td-sidebar__toggle:hover, button.td-sidebar__toggle:active {
-    color: black;
-}
-
-.dropdown-item {
-    font-weight: 600 !important;
-}
-
 h2 {
     font-weight: 700 !important;
 }
@@ -352,6 +346,26 @@ h2 {
     line-height: 170%;
 }
 
+.horizontal-rule {
+    background-color: #fff;
+    height: 1px;
+    width: 100%;
+    margin: 1rem 0;
+}
+
+#cncf-logo {
+    margin: 1rem 0;
+}
+
+h2.feedback--title {
+    margin-top: 3rem;
+}
+
+div.category {
+    margin: 0 0 .5rem .2rem;
+}
+
+// desktop.
 @media (min-width: 768px){
     .td-main main {
         padding-top: 7.5rem !important;
