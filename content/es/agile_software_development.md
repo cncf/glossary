@@ -5,7 +5,7 @@ category: concept
 ---
 
 ## Qué es
-Un conjunto de prácticas que enfatizan el ciclo de desarrollo iterativo y equipos auto-organizados. En contraste con proyectos tradicionales en cascada donde el valor se genera solo al final del proyecto, el desarrollo ágil de software se enfoca en una entrega incremental y continua de valor y una mejora evolutiva del proceso en sí mismo.  
+Un conjunto de prácticas que enfatizan el ciclo de desarrollo iterativo y equipos auto-organizados. En contraste con proyectos tradicionales en cascada donde el valor se genera solo al final del proyecto, el desarrollo ágil de software se enfoca en una entrega incremental y continua de valor y una mejora evolutiva del proceso en sí mismo.
 
 ## Problema que resuelve
 Definir, comunicar y entender los requerimientos para todos las partes interesadas en un proyecto de software es muy difícil, cuando no imposible. Sin embargo, los clientes quieren que sus proyectos de software sean entregados a tiempo, con buena calidad, dentro del presupuesto y del alcance. Con su naturaleza cíclica, el desarrollo ágil de software habilita la adaptación continua de los requerimientos y la adaptación más rápida a otras circunstancias al contrario de estrategias tradicionales en cascada. 
