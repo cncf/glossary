@@ -73,6 +73,13 @@ languageName ="हिन्दी(Hindi)"
 contentDir = "content/hi"
 weight = 2
 
+[languages.pt-br]
+title = "Glossário Cloud Native"
+description = "O Projeto CNCF Glossário Cloud Native se destina a ser usado como uma referência para termos comuns usados ao falar sobre aplicações nativas de nuvem."
+languageName = "Português"
+contentDir =  "content/pt-br"
+weight = 3
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
