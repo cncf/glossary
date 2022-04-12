@@ -1,6 +1,6 @@
 ---
 title: Cloud Computing
-status: Feedback erwünscht
+status: Completed
 category: Konzept
 ---
 
