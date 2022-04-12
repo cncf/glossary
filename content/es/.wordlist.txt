@@ -1,7 +1,9 @@
 Aniszczyk
 API
+Appreciated
 AWS
 Azure
+Backend
 Business
 BVS
 BY
@@ -21,7 +23,10 @@ declarativamente
 Development
 DevOps
 DigitalOcean
+enruta
 extensibilidad
+Feedback
+Frontend
 Foster
 GCP
 GitHub
