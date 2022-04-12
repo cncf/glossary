@@ -254,6 +254,7 @@ footer small a {
 
 .td-sidebar-nav a.td-sidebar-link {
     padding: 0.2rem 8px !important;
+    letter-spacing: 0.02em !important;
 }
 
 .td-sidebar-nav a.active {
@@ -334,6 +335,16 @@ footer .brand img {
 
 .hs-button:hover {
     background-color: #747474;
+}
+
+.td-search-input {
+    background-color: white !important;
+}
+
+.form-control::placeholder, .form-control {
+    color: black !important;
+    font-weight: 300 !important;
+    letter-spacing: 0.02em !important;
 }
 
 
