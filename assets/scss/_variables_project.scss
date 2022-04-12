@@ -344,6 +344,14 @@ button.td-sidebar__toggle:hover, button.td-sidebar__toggle:active {
     font-weight: 600 !important;
 }
 
+h2 {
+    font-weight: 700 !important;
+}
+
+.td-content p {
+    line-height: 170%;
+}
+
 @media (min-width: 768px){
     .td-main main {
         padding-top: 7.5rem !important;
