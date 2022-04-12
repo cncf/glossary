@@ -340,6 +340,10 @@ button.td-sidebar__toggle:hover, button.td-sidebar__toggle:active {
     color: black;
 }
 
+.dropdown-item {
+    font-weight: 600 !important;
+}
+
 @media (min-width: 768px){
     .td-main main {
         padding-top: 7.5rem !important;
