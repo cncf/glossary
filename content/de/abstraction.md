@@ -7,7 +7,7 @@ category: Eigenschaft
 Mithilfe der Abstraktion werden spezifische Gegebenheiten von IT – Systemen vor dem Nutzer verborgen.
 Dadurch schafft die Abstraktion generische Lösungen, die einfacher zu verstehen sind.
 
-Ein gutes Beispiel hierfür ist das Betriebssystem (Operating System - OS) auf deinem Laptop.
+Ein gutes Beispiel hierfür ist das Betriebssystem auf deinem Laptop.
 Als Laptop-Nutzer musst du kein tiefergehendes Verständnis von CPUs, Speicher und Software haben.
 Dein Betriebssystem abstrahiert das komplexe Zusammenspiel aus Computer Hardware und Software von der Nutzerschicht.
 
