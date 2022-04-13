@@ -148,7 +148,7 @@ h2 a:hover, h3 a:hover {
 
 // sidebar.
 .td-sidebar-toc {
-    padding-top: 4rem !important;
+    padding-top: 5rem !important;
 }
 
 .td-sidebar-nav > .td-sidebar-nav__section {
@@ -368,10 +368,10 @@ div.category {
 // desktop.
 @media (min-width: 768px){
     .td-main main {
-        padding-top: 7.5rem !important;
+        padding-top: 9.5rem !important;
     }
     .td-sidebar {
-        padding-top: 8rem !important;
+        padding-top: 9rem !important;
         background-color: #f4f4f4 !important;
     }
     .navbar, .td-navbar {
