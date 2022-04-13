@@ -12,9 +12,9 @@ O glossário Cloud Native segue o [guia de estilo padrão da CNCF](https://githu
 
 1. Use uma linguagem simples e acessível, evitando jargões técnicos e *buzzwords*
 2. Evite usar [linguagem coloquial](https://pt.wikipedia.org/wiki/Linguagem_coloquial)
-3. Use uma [linguagem literal e concreta](http://guidetogrammar.org/grammar/composition/abstract.htm)
+3. Use uma [linguagem literal e concreta](https://guidetogrammar.org/grammar/composition/abstract.htm)
 4. Evite usar [contrações](https://en.wikipedia.org/wiki/Contraction_(grammar))
-5. Use a [voz passiva]((https://www.ef.com/ca/english-resources/english-grammar/passive-voice/)) com moderação
+5. Use a [voz passiva](https://www.ef.com/ca/english-resources/english-grammar/passive-voice/) com moderação
 6. Busque usar [declarações de forma positiva](https://examples.yourdictionary.com/positive-sentence-examples.html) 
 7. Em citações, não use [pontos de exclamação fora das aspas](https://www.grammarly.com/blog/exclamation-mark/)
 8. Evita usar exageros
@@ -114,20 +114,20 @@ Quando apropriado, use **exemplos do mundo real** que ajudam os leitores (especi
 
 Quando usado na sua definição, sempre aponte para termos existentes do glossário (apenas a primeira menção deve ser um *link*).
 
-**Exemplo**: veja seção "O que é" da definição de [service mesh](https://glossary.cncf.io/service_mesh/). Ele se refere aos conceitos de microsserviços, serviços, confiabilidade e observabilidade. Além disso, é usado um exemplo do mundo real comparando desafios de rede em um ambiente de microsserviços (algo que pessoas não técnicas pode não ter conhecimento prévio) a problemas de *wifi* (algo que qualquer pessoa usando um computador pode entender). Sempre que possível tente fazer esse tipo de conexão. 
+**Exemplo**: veja seção "O que é" da definição de [service mesh](/service_mesh/). Ele se refere aos conceitos de microsserviços, serviços, confiabilidade e observabilidade. Além disso, é usado um exemplo do mundo real comparando desafios de rede em um ambiente de microsserviços (algo que pessoas não técnicas pode não ter conhecimento prévio) a problemas de *wifi* (algo que qualquer pessoa usando um computador pode entender). Sempre que possível tente fazer esse tipo de conexão. 
 
 #### Comece com um documento de texto
 
 Recomendamos começar com um documento de texto, revisando por alguns algumas vezes durante alguns dias. Isso vai permitir que você identifique frases ou expressões que poderiam
 ser escritas de uma forma mais simples e acessíveis. Além disso, execute uma revisão ortográfica antes de enviar o Pull Request.
 
-Para garantir que outra pessoa não envie um Pull Request enquanto estiver trabalhando em uma definição, tenha certeza de solicitar que uma *issue* (caso exista) seja atribuída a você ou crie uma caso não exista. Mais informações sobre isso consulte a página sobre [como contribuir](https://glossary.cncf.io/contribute/).
+Para garantir que outra pessoa não envie um Pull Request enquanto estiver trabalhando em uma definição, tenha certeza de solicitar que uma *issue* (caso exista) seja atribuída a você ou crie uma caso não exista. Mais informações sobre isso consulte a página sobre [como contribuir](/pt-br/contribute/).
 
 Além disso, antes de começar leia algumas das definições já publicadas no glossário para ter uma ideia do nível de detalhes, dificuldades e quando é apropriado usar exemplos.
 
 ## O que esperar do processo de revisão
 
 É importante ressaltar que até o momento somos apenas três pessoas mantenedoras fazendo isso no tempo livre. Ocasionalmente os termos podem ser revisados rapidamente ou podem levar algum tempo, por isso agradecemos a paciência. Se tive alguma dúvida, entre em contato no canal `#glossary`do slack, para saber onde e como encontrá-lo, consulte a página 
-de [como contribuir](https://glossary.cncf.io/contribute/).
+de [como contribuir](/pt-br/contribute/).
 
 Nosso objetivo é que o glossário seja o melhor recurso possível, por isso é normal que depois que envie um Pull Request solicitarmos uma ou mais revisões. Não se frustre, esse processo de revisão  e a nossa colaboração é o que vai garantir que a sua contribuição se torne uma definição verdadeiramente útil lida e consultada por leitores de todo o mundo. 
