@@ -5,7 +5,7 @@ category: Eigenschaft
 ---
 
 Mit Hilfe von Abstraktionen werden spezifische Gegebenheiten von IT – Systemen vor dem Nutzer verborgen.
-Dadurch schafft die Abstraktion generische Lösungen, die einfacher zu verstehen sind.
+Dadurch schaffen Abstraktionen generische Lösungen, die einfacher zu verstehen sind.
 
 Ein gutes Beispiel hierfür ist das Betriebssystem auf deinem Laptop.
 Als Laptop-Nutzer musst du kein tiefergehendes Verständnis von CPUs, Speicher und Software haben.
