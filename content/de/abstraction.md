@@ -4,7 +4,7 @@ status: Feedback erwünscht
 category: Eigenschaft
 ---
 
-Mithilfe der Abstraktion werden spezifische Gegebenheiten von IT – Systemen vor dem Nutzer verborgen.
+Mit Hilfe von Abstraktionen werden spezifische Gegebenheiten von IT – Systemen vor dem Nutzer verborgen.
 Dadurch schafft die Abstraktion generische Lösungen, die einfacher zu verstehen sind.
 
 Ein gutes Beispiel hierfür ist das Betriebssystem auf deinem Laptop.
