@@ -8,7 +8,7 @@ O Glossário Cloud Native é um projeto liderado pelo *CNCF Business Value Subco
 ## Contribuições
 Todas as pessoas são convidadas a sugerir alterações e melhorias ao glossário. Empregamos um processo orientado pela comunidade governado pela CNCF para desenvolver e melhorar este vocabulário compartilhado. Este glossário fornece uma plataforma independente de fornecedor para organizar um vocabulário compartilhado em torno de tecnologias nativas de nuvem. As contribuições são bem-vindas de todos os participantes que cumpram o propósito e o regulamento do projeto.
 
-Qualquer pessoa que desejar fazer uma contribuição pode criar uma *issue* ou um *Pull Request* no GitHub. Para isso, certifique-se de seguir o [guia de estilo](/style-guide/), ler o [guia do contribuidor](/contribute/) e entrar no canal `#glossary` no slack da CNCF. Para interesse em traduzir o glossário para seu idioma nativo, entrar no canal `#glossary-localizations` também no slack da CNCF.
+Qualquer pessoa que desejar fazer uma contribuição pode criar uma *issue* ou um *Pull Request* no GitHub. Para isso, certifique-se de seguir o [guia de estilo](/pt-br/style-guide/), ler o [guia do contribuidor](/pt-br/contribute/) e entrar no canal `#glossary` no slack da CNCF. Para interesse em traduzir o glossário para seu idioma nativo, entrar no canal `#glossary-localizations` também no slack da CNCF.
 
 ## Agradecimentos
 O glossário Cloud Native foi iniciado pelo *CNCF Marketing Committee*  e inclui
