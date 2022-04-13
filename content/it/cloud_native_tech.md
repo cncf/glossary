@@ -1,5 +1,5 @@
 ---
-title: Cloud Native Technology
+title: Technologia Cloud Native
 status: Completed
 category: Concetto
 ---
