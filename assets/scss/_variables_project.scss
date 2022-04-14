@@ -231,6 +231,13 @@ i.concept:before {
     content: "\f0eb";
 }
 
+div.category {
+    margin: 0 0 .5rem .2rem;
+    color: #747474;
+    font-weight: 700;
+    letter-spacing: 0.2em;
+}
+
 
 // social links.
 .social-links svg:hover {
@@ -361,10 +368,6 @@ h2.feedback--title {
     margin-top: 3rem;
 }
 
-div.category {
-    margin: 0 0 .5rem .2rem;
-}
-
 .td-content > h2:not(:first-child) {
     margin-top: 4rem !important;
 }
@@ -375,6 +378,18 @@ div.category {
 
 .td-content > h1 {
     margin-bottom: 2rem !important;
+}
+
+// mobile.
+@media (max-width: 768px){
+    .navbar-brand {
+        padding-top: .5rem !important;
+        padding-bottom: 0rem !important;
+    }
+
+    .td-navbar .td-navbar-nav-scroll {
+        margin-top: 0 !important;
+    }
 }
 
 // desktop.
