@@ -365,6 +365,18 @@ div.category {
     margin: 0 0 .5rem .2rem;
 }
 
+.td-content > h2:not(:first-child) {
+    margin-top: 4rem !important;
+}
+
+.td-content > h2 {
+    margin-bottom: 2.1rem !important;
+}
+
+.td-content > h1 {
+    margin-bottom: 2rem !important;
+}
+
 // desktop.
 @media (min-width: 768px){
     .td-main main {
