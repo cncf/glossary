@@ -1,6 +1,7 @@
 ---
 title: योगदान कैसे करें
 toc_hide: true
+exclude_search: true
 menu:
   main:
     weight: 10

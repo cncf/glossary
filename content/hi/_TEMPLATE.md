@@ -2,6 +2,7 @@
 title: परिभाषा टेम्पलेट
 status: Feedback Appreciated
 category: संकल्पना
+exclude_search: true
 ---
 
 ## यह क्या है
