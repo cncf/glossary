@@ -4,7 +4,6 @@ toc_hide: true
 menu:
   main:
     weight: 10
-    pre: <i class='fas fa-ruler-horizontal'></i>
 ---
 
 Questa guida ti aiuterà a comprendere chi sono i destinatari del Glossario, la struttura delle definizioni, il livello di dettaglio richiesto e come mantenere uno stile coerente.
