@@ -12,7 +12,7 @@ The Cloud Native Glossary follows the [default style guide](https://github.com/c
 
 1. Use simple, accessible language, avoiding technical jargon and buzzwords
 2. [Avoid colloquial language](https://en.wikipedia.org/wiki/Colloquialism)
-3. [Use literal and concrete language](http://guidetogrammar.org/grammar/composition/abstract.htm)
+3. [Use literal and concrete language](https://guidetogrammar.org/grammar/composition/abstract.htm)
 4. [Omit contractions](https://en.wikipedia.org/wiki/Contraction_(grammar))
 5. [Use passive voice sparingly](https://www.ef.com/ca/english-resources/english-grammar/passive-voice/)
 6. [Aim to phrase statements in a positive form](https://examples.yourdictionary.com/positive-sentence-examples.html) 
@@ -120,19 +120,19 @@ When appropriate, use **real-world examples** that help readers (especially non-
 
 When used in your definition, always **link to existing glossary terms** (only the first mention should be hyperlinked).
 
-**Example**: take a look at the “What it is” section of the [service mesh definition](https://glossary.cncf.io/service_mesh/). It links back to the microservices, service, reliability, and observability definitions. Additionally, it uses a real-world example comparing network challenges in a microservices environment (something non-technical people can't relate to) to wifi problems (something anyone using a laptop can understand). Where possible, try to make that connection. 
+**Example**: take a look at the “What it is” section of the [service mesh definition](/service_mesh/). It links back to the microservices, service, reliability, and observability definitions. Additionally, it uses a real-world example comparing network challenges in a microservices environment (something non-technical people can't relate to) to wifi problems (something anyone using a laptop can understand). Where possible, try to make that connection. 
 
 #### Start with a Google or Word doc
 
 We recommend starting with a Google or Word doc, letting it sit for a few days, and revisiting again. This will allow you to catch phrases or expressions that could be worded in a simpler and more accessible way. Also, make sure to run a spellcheck before submitting a PR.
 
-To ensure no one else submits a PR while working on a term, make sure to claim an issue (or create one) and that it is assigned to you.  More to that in the [How To Contribute](https://glossary.cncf.io/contribute/) doc.
+To ensure no one else submits a PR while working on a term, make sure to claim an issue (or create one) and that it is assigned to you.  More to that in the [How To Contribute](/contribute/) doc.
 
 Before getting started, please read some of the published Glossary terms to get a feeling for the level of detail and difficulty and when examples are appropriate.
 
 
 ## The review process: what to expect
 
-Please note that we are currently only three maintainers doing this in their spare time. Occasionally, we'll be able to review terms quickly; on other occasions, it may take some time — we appreciate your patience. If you have any questions, please get in touch with us in the #glossary Slack channel (for where and how to find it, please refer to our [How To Contribute](https://glossary.cncf.io/contribute/) doc).
+Please note that we are currently only three maintainers doing this in their spare time. Occasionally, we'll be able to review terms quickly; on other occasions, it may take some time — we appreciate your patience. If you have any questions, please get in touch with us in the #glossary Slack channel (for where and how to find it, please refer to our [How To Contribute](/contribute/) doc).
 
 Our goal is for the Glossary to be the best possible resource. Once you submit a PR, we may ask for one or more revisions. Don't be frustrated — that is the case for many PRs. Those backs and forth and our collaboration will ensure that your contribution becomes a truly useful definition read and referred to by readers all around the globe.

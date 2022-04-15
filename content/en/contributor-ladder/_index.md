@@ -19,7 +19,7 @@ There are a variety of ways you can contribute to the project, including:
 - **Helpers**: anyone who helps others on GitHub, Slack, or wherever community members need support,
 - **Ambassadors**: anyone who helps spread the word, educates the community on how to contribute and why they should do so. 
 
-Contributors can have multiple roles or focus on one area only. **All these contributions are equally important** and help foster a thriving community. Please refer to the [How to Contribute](https://glossary.cncf.io/contribute/) and [Style Guide](https://glossary.cncf.io/style-guide/) for content and localization contributions.
+Contributors can have multiple roles or focus on one area only. **All these contributions are equally important** and help foster a thriving community. Please refer to the [How to Contribute](/contribute/) and [Style Guide](/style-guide/) for content and localization contributions.
 
 ## 2. Approvers
 
