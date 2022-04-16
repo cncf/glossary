@@ -4,7 +4,6 @@ toc_hide: true
 menu:
   main:
     weight: 10
-    pre: <i class='fas fa-pen-square'></i>
 ---
 
 I contenuti del Glossario Cloud Native sono disponibili in [questo repository di GitHub](https://github.com/cncf/glossary), dove troverai una lista di [_issue_](https://github.com/cncf/glossary/issues), [_PR_](https://github.com/cncf/glossary/pulls), e [_discussion_](https://github.com/cncf/glossary/discussions) riguardanti il glossario. 

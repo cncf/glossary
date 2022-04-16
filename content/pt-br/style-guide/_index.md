@@ -4,7 +4,6 @@ toc_hide: true
 menu:
   main:
     weight: 10
-    pre: <i class='fas fa-ruler-horizontal'></i>
 ---
 
 Este guia de estilo ajudará você a entender o público alvo do glossário, estrutura das definições, nível de detalhamento necessário e como manter um estilo consistente.

@@ -4,7 +4,6 @@ toc_hide: true
 menu:
   main:
     weight: 10
-    pre: <i class='fas fa-pen-square'></i>
 ---
 
 The Cloud Native Glossary content is stored in [this GitHub repo](https://github.com/cncf/glossary) where you'll find a list of [issues](https://github.com/cncf/glossary/issues), [PRs](https://github.com/cncf/glossary/pulls), and [discussions](https://github.com/cncf/glossary/discussions) about the glossary. 

@@ -4,7 +4,6 @@ toc_hide: true
 menu:
   main:
     weight: 10
-    pre: <i class='fas fa-pen-square'></i>
 ---
 
 Hi there! 👋 Thanks for your interest in contributing to the CNCF Cloud Native Glossary project. Whether you contribute new terms, help localize the Glossary into your native language, or want to help others get started, there are many ways to become an active member of this community. This doc outlines the different contributor roles within the project and the responsibilities and privileges that come with them.

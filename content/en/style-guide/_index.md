@@ -4,7 +4,6 @@ toc_hide: true
 menu:
   main:
     weight: 10
-    pre: <i class='fas fa-ruler-horizontal'></i>
 ---
 
 This style guide will help you understand the Glossary audience, definition structure, required level of detail, and how to maintain a consistent style.

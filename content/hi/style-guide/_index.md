@@ -5,7 +5,6 @@ exclude_search: true
 menu:
   main:
     weight: 10
-    pre: <i class='fas fa-ruler-horizontal'></i>
 ---
 
 यह शैली मार्गदर्शिका आपको शब्दावली दर्शकों, परिभाषा संरचना, विवरण के आवश्यक स्तर और एक सुसंगत शैली को बनाए रखने में मदद करेगी।
