@@ -5,6 +5,8 @@ title: "Glossário Cloud Native"
 # Glossário Cloud Native
 O Glossário Cloud Native é um projeto liderado pelo *CNCF Business Value Subcommittee* (BVS). Seu objetivo é explicar os conceitos de aplicações nativas de nuvem (do inglês, *cloud native applications*) em linguagem clara e simples, sem exigir nenhum conhecimento técnico prévio.           
 
+<p><img class="mt-5" src="/images/homepage/stage.jpg" alt="A woman and two men presenting technical info on a stage"></p>
+
 ## Contribuições
 Todas as pessoas são convidadas a sugerir alterações e melhorias ao glossário. Empregamos um processo orientado pela comunidade governado pela CNCF para desenvolver e melhorar este vocabulário compartilhado. Este glossário fornece uma plataforma independente de fornecedor para organizar um vocabulário compartilhado em torno de tecnologias nativas de nuvem. As contribuições são bem-vindas de todos os participantes que cumpram o propósito e o regulamento do projeto.
 
