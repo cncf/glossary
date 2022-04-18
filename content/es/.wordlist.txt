@@ -1,5 +1,6 @@
 Aniszczyk
 API
+APIs
 Appreciated
 AWS
 Azure
@@ -26,11 +27,13 @@ DigitalOcean
 enruta
 extensibilidad
 Feedback
-Frontend
 Foster
+Frontend
+Gateway
 GCP
 GitHub
 glossary
+interface
 issue
 Jason
 Jones
