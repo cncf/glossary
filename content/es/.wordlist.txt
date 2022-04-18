@@ -1,4 +1,6 @@
 Aniszczyk
+API
+APIs
 Appreciated
 AWS
 Azure
@@ -20,11 +22,13 @@ DevOps
 DigitalOcean
 enruta
 Feedback
-Frontend
 Foster
+Frontend
+Gateway
 GCP
 GitHub
 glossary
+interface
 issue
 Jason
 Jones
@@ -42,5 +46,6 @@ Seokho
 Slack
 status
 Subcommittee
+technology
 title
 Value
