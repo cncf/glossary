@@ -2,6 +2,7 @@
 title: Technologia Cloud Native
 status: Completed
 category: Concetto
+exclude_search: true
 ---
 
 ## Cos'è

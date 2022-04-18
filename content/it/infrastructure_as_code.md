@@ -2,6 +2,7 @@
 title: Infrastructure as Code
 status: Completed
 category: Concetto
+exclude_search: true
 ---
 
 ## Che cos'è

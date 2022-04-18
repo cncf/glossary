@@ -2,6 +2,7 @@
 title: Implantação Canário
 status: Completed
 category: conceito
+exclude_search: true
 ---
 
 ## O que é

@@ -2,6 +2,7 @@
 title: DevOps
 status: Completed
 category: Concetto
+exclude_search: true
 ---
 
 ## Cos'è

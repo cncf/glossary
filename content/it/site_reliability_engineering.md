@@ -2,6 +2,7 @@
 title: Site Reliability Engineering
 status: Completed
 category: Concetto
+exclude_search: true
 ---
 
 ## Che cos’è

@@ -2,6 +2,7 @@
 title: Sviluppo Agile del Software
 status: Completed
 category: Concetto
+exclude_search: true
 ---
 
 ## Cos'è

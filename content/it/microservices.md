@@ -2,6 +2,7 @@
 title: Microservizi
 status: Completed
 category: Concetto
+exclude_search: true
 ---
 
 ## Che cos’è

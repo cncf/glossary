@@ -1,6 +1,7 @@
 ---
 title: Guida di Stile
 toc_hide: true
+exclude_search: true
 menu:
   main:
     weight: 10

@@ -1,6 +1,7 @@
 ---
 title: Escala de Contribuição
 toc_hide: true
+exclude_search: true
 menu:
   main:
     weight: 10

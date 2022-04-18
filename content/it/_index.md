@@ -1,6 +1,7 @@
 
 ---
 title: "Glossario Cloud Native"
+exclude_search: true
 ---
 
 # Glossario Cloud Native

@@ -2,6 +2,7 @@
 title: Entrega Contínua (CD)
 status: Completed
 category: conceito
+exclude_search: true
 ---
 
 ## O que é

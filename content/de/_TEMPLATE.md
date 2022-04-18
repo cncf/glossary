@@ -2,6 +2,7 @@
 title: Vorlage für Definition
 status: Feedback erwünscht
 category: Konzept
+exclude_search: true
 ---
 
 ## Was es ist
