@@ -1,7 +1,7 @@
 ---
 title: Data Center
 status: Feedback Appreciated
-category: Tecnologia
+category: tecnologia
 ---
 
 ## O que é
