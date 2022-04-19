@@ -5,6 +5,7 @@ Appreciated
 AWS
 Azure
 Backend
+bare
 Business
 BVS
 BY
@@ -42,6 +43,7 @@ K8s
 Kubernetes
 localizations
 Mike
+mitigarse
 Morgan
 Native
 laptop
@@ -57,4 +59,5 @@ Subcommittee
 technology
 title
 Value
+virtualización
 YAML
