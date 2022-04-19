@@ -3,6 +3,7 @@ API
 APIs
 Appreciated
 AWS
+autocura
 Azure
 Backend
 bare
@@ -48,6 +49,7 @@ Morgan
 Native
 laptop
 Paganini
+profesionistas
 property
 pull
 Ramer
