@@ -37,7 +37,7 @@ status:
 category:
 ---
 
-## Que es
+## ¿Qué es?
 
 Un breve resumen de la tecnología o concepto.
 
@@ -45,7 +45,7 @@ Un breve resumen de la tecnología o concepto.
 
 Unas líneas sobre el problema que está abordando.
 
-## Cómo ayuda
+## ¿Cómo ayuda?
 
 Unas pocas líneas sobre cómo la cosa resuelve el problema.
 ```
