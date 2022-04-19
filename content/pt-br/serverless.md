@@ -1,7 +1,7 @@
 ---
 Title: Serverless
 Status: Completed
-Category: Technology
+Category: tecnologia
 ---
 
 ## O que é
