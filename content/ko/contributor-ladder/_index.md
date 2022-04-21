@@ -1,5 +1,5 @@
 ---
-title: Contributor Ladder
+title: 기여자 계층(Contributor Ladder)
 toc_hide: true
 menu:
   main:
