@@ -4,21 +4,120 @@ Add styles or override variables from the theme here.
 
 */
 
-$primary: #446CA9;
-$link-color: #FF00AA;
-$blue: #FF00AA;
-$body-color: #2A0054;
+$primary: white;
+$link-color: #d62293;
+$body-color: black;
 $td-enable-google-fonts: false;
 $td-sidebar-tree-root-color: $primary;
 
-a:hover {
-    color: #f0a !important;
-    text-decoration: underline !important;
+
+body {
+    background-color: #fdfdfd !important;
 }
 
-.navbar-nav a.nav-link:hover {
-    color: rgba(255,255,255,.5) !important;
-    text-decoration: none !important;
+// font-stack.
+$font-family-base: 'Clarity City', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, Roboto,
+	Ubuntu, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
+
+@font-face {
+	font-family: 'Clarity City';
+	font-weight: 100;
+	font-style: normal;
+	src: local('ClarityCity-Thin'), local('Clarity City'),
+		url('/fonts/ClarityCity-100.woff2') format('woff2'),
+		url('/fonts/ClarityCity-100.woff') format('woff'),
+		url('/fonts/ClarityCity-100.ttf') format('ttf');
+}
+
+@font-face {
+	font-family: 'Clarity City';
+	font-weight: 200;
+	font-style: normal;
+	src: local('ClarityCity-ExtraLight'), local('Clarity City'),
+		url('/fonts/ClarityCity-200.woff2') format('woff2'),
+		url('/fonts/ClarityCity-200.woff') format('woff'),
+		url('/fonts/ClarityCity-200.ttf') format('ttf');
+}
+
+@font-face {
+	font-family: 'Clarity City';
+	font-weight: 300;
+	font-style: normal;
+	src: local('ClarityCity-Light'), local('Clarity City'),
+		url('/fonts/ClarityCity-300.woff2') format('woff2'),
+		url('/fonts/ClarityCity-300.woff') format('woff'),
+		url('/fonts/ClarityCity-300.ttf') format('ttf');
+}
+
+@font-face {
+	font-family: 'Clarity City';
+	font-weight: 400;
+	font-style: normal;
+	src: local('ClarityCity-Regular'), local('Clarity City'),
+		url('/fonts/ClarityCity-400.woff2') format('woff2'),
+		url('/fonts/ClarityCity-400.woff') format('woff'),
+		url('/fonts/ClarityCity-400.ttf') format('ttf');
+}
+
+@font-face {
+	font-family: 'Clarity City';
+	font-weight: 500;
+	font-style: normal;
+	src: local('ClarityCity-Medium'), local('Clarity City'),
+		url('/fonts/ClarityCity-500.woff2') format('woff2'),
+		url('/fonts/ClarityCity-500.woff') format('woff'),
+		url('/fonts/ClarityCity-500.ttf') format('ttf');
+}
+
+@font-face {
+	font-family: 'Clarity City';
+	font-weight: 600;
+	font-style: normal;
+	src: local('ClarityCity-SemiBold'), local('Clarity City'),
+		url('/fonts/ClarityCity-600.woff2') format('woff2'),
+		url('/fonts/ClarityCity-600.woff') format('woff'),
+		url('/fonts/ClarityCity-600.ttf') format('ttf');
+}
+
+@font-face {
+	font-family: 'Clarity City';
+	font-weight: 700;
+	font-style: normal;
+	src: local('ClarityCity-Bold'), local('Clarity City'),
+		url('/fonts/ClarityCity-700.woff2') format('woff2'),
+		url('/fonts/ClarityCity-700.woff') format('woff'),
+		url('/fonts/ClarityCity-700.ttf') format('ttf');
+}
+
+@font-face {
+	font-family: 'Clarity City';
+	font-weight: 800;
+	font-style: normal;
+	src: local('ClarityCity-ExtraBold'), local('Clarity City'),
+		url('/fonts/ClarityCity-800.woff2') format('woff2'),
+		url('/fonts/ClarityCity-800.woff') format('woff'),
+		url('/fonts/ClarityCity-800.ttf') format('ttf');
+}
+
+@font-face {
+	font-family: 'Clarity City';
+	font-weight: 900;
+	font-style: normal;
+	src: local('ClarityCity-Black'), local('Clarity City'),
+		url('/fonts/ClarityCity-900.woff2') format('woff2'),
+		url('/fonts/ClarityCity-900.woff') format('woff'),
+		url('/fonts/ClarityCity-900.ttf') format('ttf');
+}
+
+
+// a.
+a {
+    font-weight: 700 !important;
+}
+
+a:hover {
+    color: $link-color !important;
+    text-decoration: underline !important;
 }
 
 a.tree-root:hover {
@@ -26,23 +125,13 @@ a.tree-root:hover {
     text-decoration: none !important;
 }
 
-.td-sidebar-nav .td-sidebar-link__page {
-    color: $body-color !important;
-    font-weight: 300;
-}
-
-.td-sidebar-nav .td-sidebar-link__page:hover {
-    color: $link-color !important;
-    text-decoration: none !important;
-}
-
 footer a {
-    color: #fff;
+    color: $primary;
     font-weight: 600;
 }
 
 footer a:hover {
-    color: #fff !important;
+    color: $primary !important;
     text-decoration: none !important;
 }
 
@@ -50,19 +139,75 @@ h2 a:hover, h3 a:hover {
     text-decoration: none !important;
 }
 
-h2.feedback--title {
-    margin-top: 3rem;
-}
-
-div.category {
-    margin: 0 0 .5rem .2rem;
-}
-
 .td-page-meta a {
-    font-weight: 400 !important;
-    margin-bottom: 0.3rem;
+    margin-bottom: 1rem;
+    letter-spacing: 0.02em;
+    font-weight: 500 !important;
 }
 
+
+// sidebar.
+.td-sidebar-toc {
+    padding-top: 5rem !important;
+}
+
+.td-sidebar-nav > .td-sidebar-nav__section {
+    margin-bottom: 4rem !important;
+}
+
+.td-sidebar-nav .td-sidebar-link__page {
+    font-weight: 600 !important;
+    color: $body-color !important;
+    padding: 0.5rem 8px !important;
+    letter-spacing: 0.02em !important;
+}
+
+.td-sidebar-nav .td-sidebar-link__page:hover {
+    color: $link-color !important;
+    text-decoration: none !important;
+}
+
+.td-sidebar-nav a.active {
+    border-left: 4px solid #747474;
+    background-color: white;
+    padding-left: 6px !important;
+    border-radius: 3px;
+    filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.05));
+}
+
+// navbar.
+.td-navbar {
+    padding-right: 0.5rem I !important;
+    padding-left: 0.5rem !important;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: black !important;
+    font-weight: 600 !important;
+}
+
+.navbar-nav a.nav-link:hover {
+    color: rgba(0,0,0,.7) !important;
+    transition: color .25s ease-in;
+    text-decoration: none !important;
+}
+
+.navbar:after {
+    background: linear-gradient(180deg,rgba(0,0,0,.1),transparent);
+    content: "";
+    height: 20px;
+    position: absolute;
+    top: 100%;
+    width: 100%;
+    z-index: 1;
+}
+
+.td-navbar .navbar-brand svg {
+    height: 40px !important;
+}
+
+
+// category labels.
 i.technology, i.property, i.concept {
     -moz-osx-font-smoothing: grayscale;
     -webkit-font-smoothing: antialiased;
@@ -88,13 +233,41 @@ i.concept:before {
     content: "\f0eb";
 }
 
-.td-navbar .navbar-brand svg {
+div.category {
+    margin: 0 0 .5rem .2rem;
+    color: #747474;
+    font-weight: 700;
+    letter-spacing: 0.2em;
+}
+
+
+// social links.
+.social-links svg:hover {
+    color: $link-color;
+    fill: $link-color;
+}
+
+.social-links svg {
+    fill: #fff;
+    color: #fff;
+    height: 25px;
+    max-width: 30px;
+    margin-right: 1rem;
+}
+
+.social-links {
+    text-align: center;
+}    
+
+
+// footer.
+footer .brand img {
     height: 40px !important;
 }
 
 footer {
     min-height: unset !important;
-    background-color: $primary;
+    background-color: black;
     color: #eee;
 }
 
@@ -102,24 +275,151 @@ footer small a {
     color: #eee !important;
 }
 
-#cncf-logo {
-    margin: 1rem 0;
 
+// buttons.
+.button-reset {
+    background: none;
+    border: none;
+    box-sizing: border-box;
+    cursor: pointer;
+    display: block;
+    margin-left: 0;
+    margin-right: 0;
+    padding: 0;
+    width: unset;
 }
 
-// temoporary removal of navbar for mobile while we have no elements in it
-@media (max-width: 768px) {
+.hs-button {
+    background-color: black;
+    border: 0;
+    border-radius: 3px;
+    box-shadow: none;
+    box-sizing: border-box;
+    color: #fff;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: 700;
+    letter-spacing: .02em;
+    line-height: 105%;
+    margin: 0;
+    max-width: 100%;
+    padding: 12px 40px;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    transition: all .25s ease-out;
+    word-break: break-word;
+}
+
+.hs-button:hover {
+    background-color: #747474;
+}
+
+button.td-sidebar__toggle {
+    font-size: 1.5rem;
+    border-radius: 0;
+}
+
+button.td-sidebar__toggle:hover, button.td-sidebar__toggle:active {
+    color: black;
+}
+
+
+// topnav dropdown.
+.dropdown-item {
+    font-weight: 600 !important;
+}
+
+.dropdown-item:hover, .dropdown-item:focus {
+    color: black !important;
+    text-decoration: none !important;
+}
+
+
+// misc.
+.td-search-input {
+    background-color: white !important;
+}
+
+.form-control::placeholder, .form-control {
+    color: black !important;
+    font-weight: 300 !important;
+    letter-spacing: 0.02em !important;
+}
+
+h2 {
+    font-weight: 700 !important;
+}
+
+.td-content p {
+    line-height: 170%;
+}
+
+.horizontal-rule {
+    background-color: #fff;
+    height: 1px;
+    width: 100%;
+    margin: 1rem 0;
+}
+
+#cncf-logo {
+    margin: 1rem 0;
+}
+
+h2.feedback--title {
+    margin-top: 3rem;
+}
+
+.td-content > h2:not(:first-child) {
+    margin-top: 4rem !important;
+}
+
+.td-content > h2 {
+    margin-bottom: 2.1rem !important;
+}
+
+.td-content > h1 {
+    margin-bottom: 2rem !important;
+}
+
+// mobile.
+@media (max-width: 768px){
+    .navbar-brand {
+        padding-top: .5rem !important;
+        padding-bottom: 0rem !important;
+    }
+
     .td-navbar .td-navbar-nav-scroll {
-        display: none
+        margin-top: 0 !important;
     }
 }
 
-.td-sidebar-nav a.td-sidebar-link {
-    padding: 0.2rem 6px !important;
-}
-
-.td-sidebar-nav a.active {
-    border-left: 2px solid $primary;
-    background-color: white;
-    padding-left: 4px !important;
+// desktop.
+@media (min-width: 768px){
+    .td-main main {
+        padding-top: 9.5rem !important;
+    }
+    .td-sidebar {
+        padding-top: 9rem !important;
+        background-color: #f4f4f4 !important;
+    }
+    .navbar, .td-navbar {
+        margin-bottom: 3rem !important;
+        padding: 0 !important;
+    }
+    .navbar-nav .nav-link {
+        letter-spacing: 0.02em;
+    }
+    h1, .h1 {
+        font-size: 3rem !important;
+    }   
+    .td-navbar {
+        min-height: 5rem !important;
+    } 
+    .navbar-brand {
+        margin-left: 1rem;
+    }
+    .social-links {
+        text-align: right;
+    }    
 }
