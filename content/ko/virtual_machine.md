@@ -1,5 +1,5 @@
 ---
-title: 가상 머신
+title: 가상 머신 (Virtual Machine)
 status: Completed
 category: 기술
 ---

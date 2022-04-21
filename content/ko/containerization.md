@@ -1,5 +1,5 @@
 ---
-title: 컨테이너화
+title: 컨테이너화 (Containerization)
 status: Completed
 category: 기술
 ---

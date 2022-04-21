@@ -1,5 +1,5 @@
 ---
-title: 클라우드 네이티브 기술
+title: 클라우드 네이티브 기술 (Cloud Native Technology)
 status: Completed
 category: 개념
 ---
