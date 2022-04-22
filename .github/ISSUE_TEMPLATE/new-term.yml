@@ -1,0 +1,46 @@
+name: Request to add a new term (English)
+description: Issue to add a new term in English
+title: "[New term] `GlossaryTermHere`"
+labels: ["lang/en","new term","triage/awaiting"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ---
+        ## Thanks for taking the time to add a request to the glossary!
+        
+        This issue-template is to propose a new Glossary term.
+        Please check https://glossary.cncf.io/contribute/#propose-new-terms first.
+
+  - type: textarea
+    id: details
+    attributes:
+      label: 1. Please describe why this term needs to be added
+      value: |
+        #### What this term is about? (briefly)
+        - 
+        #### Why this term needs to be added? (briefly) 
+        - 
+    validations:
+      required: true
+  - type: checkboxes
+    id: checkboxes
+    attributes:
+      label: 2. Checklist
+      options:
+        - label: There is no existing issue yet. [(shift+click to check existing issues)](https://github.com/cncf/glossary/issues?q=label%3A%22new+term%22)
+          required: true
+        - label: I understand that maintainers will assess if the term should be part of the Glossary. (Please be patient)
+          required: true
+        - label: I want to work on this term. (If not checked, maintainers will assign another volunteer)
+          required: false
+  - type: textarea
+    id: note
+    attributes:
+      label: (Note)
+      value: |
+        Maintainers will assign a label after assessment procedure. 
+        (from `triage/awaiting` to `triage/accepted` or `triage/not accepted`)
+
+        A contributor can be assigned to this issue after the issue get the `triage/accepted` label.
+        The assignee needs to check [Style Guide](https://glossary.cncf.io/style-guide/).
