@@ -1,5 +1,5 @@
 ---
-title: 클라우드 네이티브 앱
+title: 클라우드 네이티브 앱 (Cloud Native Apps)
 status: Completed
 category: 개념
 ---

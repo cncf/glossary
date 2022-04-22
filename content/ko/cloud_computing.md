@@ -1,5 +1,5 @@
 ---
-title: 클라우드 컴퓨팅
+title: 클라우드 컴퓨팅 (Cloud Computing)
 status: Completed
 category: 개념
 ---

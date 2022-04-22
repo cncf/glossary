@@ -1,5 +1,5 @@
 ---
-title: 모놀리식 앱
+title: 모놀리식 앱 (Monolithic Apps)
 status: Completed
 category: 개념
 ---

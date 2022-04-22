@@ -1,5 +1,5 @@
 ---
-title: 마이크로서비스
+title: 마이크로서비스 (Microservices)
 status: Completed
 category: 개념
 ---
