@@ -17,17 +17,17 @@ O glossário Cloud Native segue o [guia de estilo padrão da CNCF](https://githu
 5. Use a [voz passiva]((https://www.ef.com/ca/english-resources/english-grammar/passive-voice/)) com moderação
 6. Busque usar [declarações de forma positiva](https://examples.yourdictionary.com/positive-sentence-examples.html) 
 7. Em citações, não use [pontos de exclamação fora das aspas](https://www.grammarly.com/blog/exclamation-mark/)
-8. Evita usar exageros
+8. Evite exageros
 9. Evite usar repetições
 10. Seja conciso
 
 ## Público alvo
 
-O glossário foi escrito para um público alvo técnico e não técnico. Certifique-se de que as definições estejam explicadas em termos simples que não presumam conhecimento técnico prévio. 
+O glossário foi escrito para um público alvo técnico e não técnico. Certifique-se de que as definições estejam explicadas em termos simples, e que não presumam conhecimento técnico prévio. 
 
 ## Modelo para as definições
 
-Cada definição do glossário é escrita em um arquivo markdown, baseada no seguinte modelo:
+Cada definição do glossário é escrita em um arquivo markdown, baseado no seguinte modelo:
 
 ```md
 ---
@@ -36,7 +36,7 @@ status:
 category: 
 ---
 
-## What it is
+## What is it
 
 Um breve resumo da tecnologia ou conceito.
 
@@ -46,7 +46,7 @@ Algumas linhas sobre o problema que está abordando.
 
 ## How it helps
 
-Algumas linhas sobre como como a tecnologia ou o conceito resolve o problema abordado.
+Algumas linhas sobre como a tecnologia ou o conceito resolve o problema abordado.
 ```
 
 ### Título
@@ -80,7 +80,7 @@ status: Feedback Appreciated
 
 ### Categoria
 
-A label `categoria` vem logo depois da label de status. O valor deve ser um dos seguintes:
+A label `categoria` vem logo após a label de status. O valor deve ser um dos seguintes:
 
 - tecnologia
 - propriedade
@@ -107,27 +107,24 @@ As definições de **propriedade** não requerem essas três seções separadas,
 
 #### Busque manter as definições simples
 
-O glossário busca **explicar conceitos complexos em poucas palavras**, o que torna uma tarefa muito difícil e que provavelmente vai exigir muitas revisões. Sempre tenha em mente
-o público alvo ao escrever (ou traduzir) sua definição e evite usar termos e jargões técnicos.
+O glossário busca **explicar conceitos complexos em poucas palavras**, o que torna uma tarefa muito difícil e que provavelmente vai exigir muitas revisões. Sempre tenha em mente o público alvo ao escrever (ou traduzir) sua definição e evite usar termos e jargões técnicos.
 
-Quando apropriado, use **exemplos do mundo real** que ajudam os leitores (especialmente não técnicos) a entender melhor *quando* e *por que* a definição explicada é relevante.
+Quando apropriado, use **exemplos do mundo real** que ajudem os leitores (especialmente não técnicos) a entender melhor *quando* e *por que* a definição explicada é relevante.
 
 Quando usado na sua definição, sempre aponte para termos existentes do glossário (apenas a primeira menção deve ser um *link*).
 
-**Exemplo**: veja seção "O que é" da definição de [service mesh](https://glossary.cncf.io/service_mesh/). Ele se refere aos conceitos de microsserviços, serviços, confiabilidade e observabilidade. Além disso, é usado um exemplo do mundo real comparando desafios de rede em um ambiente de microsserviços (algo que pessoas não técnicas pode não ter conhecimento prévio) a problemas de *wifi* (algo que qualquer pessoa usando um computador pode entender). Sempre que possível tente fazer esse tipo de conexão. 
+**Exemplo**: veja a seção "O que é" da definição de [service mesh](https://glossary.cncf.io/service_mesh/). Ele se refere aos conceitos de microsserviços, serviços, confiabilidade e observabilidade. Além disso, é usado um exemplo do mundo real comparando desafios de rede em um ambiente de microsserviços (algo que pessoas não técnicas podem não ter conhecimento prévio) a problemas de *wifi* (algo que qualquer pessoa usando um computador pode entender). Sempre que possível tente fazer esse tipo de conexão. 
 
 #### Comece com um documento de texto
 
-Recomendamos começar com um documento de texto, revisando por alguns algumas vezes durante alguns dias. Isso vai permitir que você identifique frases ou expressões que poderiam
-ser escritas de uma forma mais simples e acessíveis. Além disso, execute uma revisão ortográfica antes de enviar o Pull Request.
+Recomendamos começar com um documento de texto, revisando-o por algumas vezes durante um tempo ou até dias. Isso vai permitir que você identifique frases ou expressões que poderiam estar escritas de uma forma mais simples e acessíveis. Além disso, execute uma revisão ortográfica antes de enviar o Pull Request.
 
-Para garantir que outra pessoa não envie um Pull Request enquanto estiver trabalhando em uma definição, tenha certeza de solicitar que uma *issue* (caso exista) seja atribuída a você ou crie uma caso não exista. Mais informações sobre isso consulte a página sobre [como contribuir](https://glossary.cncf.io/contribute/).
+Para garantir que outra pessoa não envie um Pull Request enquanto estiver trabalhando em uma definição, tenha certeza de solicitar que uma *issue* (caso exista) seja atribuída a você ou crie uma nova (caso não exista ainda). Para obter mais informações consulte a página sobre [como contribuir](https://glossary.cncf.io/contribute/).
 
-Além disso, antes de começar leia algumas das definições já publicadas no glossário para ter uma ideia do nível de detalhes, dificuldades e quando é apropriado usar exemplos.
+Além disso, antes de começar, leia algumas das definições já publicadas no glossário para ter uma ideia do nível de detalhes, dificuldades e quando será apropriado usar exemplos.
 
 ## O que esperar do processo de revisão
 
-É importante ressaltar que até o momento somos apenas três pessoas mantenedoras fazendo isso no tempo livre. Ocasionalmente os termos podem ser revisados rapidamente ou podem levar algum tempo, por isso agradecemos a paciência. Se tive alguma dúvida, entre em contato no canal `#glossary`do slack, para saber onde e como encontrá-lo, consulte a página 
-de [como contribuir](https://glossary.cncf.io/contribute/).
+É importante ressaltar que até o momento somos apenas três pessoas mantenedoras, fazendo isso no tempo livre. Ocasionalmente os termos podem ser revisados rapidamente ou podem levar algum tempo, por isso agradecemos a paciência. Se tiver alguma dúvida, entre em contato no canal `#glossary`do slack, para saber onde e como encontrá-lo, consulte a página de [como contribuir](https://glossary.cncf.io/contribute/).
 
-Nosso objetivo é que o glossário seja o melhor recurso possível, por isso é normal que depois que envie um Pull Request solicitarmos uma ou mais revisões. Não se frustre, esse processo de revisão  e a nossa colaboração é o que vai garantir que a sua contribuição se torne uma definição verdadeiramente útil lida e consultada por leitores de todo o mundo. 
+Nosso objetivo é que o glossário seja o melhor recurso possível, por isso é normal, após o envio de um Pull Request, que solicitemos uma ou mais revisões. Não se frustre, esse processo de revisão é a nossa colaboração, o que vai garantir que a sua contribuição se torne uma definição verdadeiramente útil, lida e consultada por leitores de todo o mundo. 
