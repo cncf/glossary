@@ -11,5 +11,5 @@ El despliegue Blue green es una estrategia para actualizar los sistemas informá
 ## Problema que soluciona
 Los despliegues blue-green permiten un tiempo de inactividad mínimo al actualizar el software que se debe cambiar en "paso a paso" debido a la falta de compatibilidad con versiones anteriores. Por ejemplo, el despliegue blue-green sería apropiado para una tienda en línea que consiste de un sitio web y una base de datos que necesita ser actualizada, pero la nueva versión de la base de datos no funciona con la versión vieja del sitio web, y viceversa. En esta instancia, ambos necesitan ser cambiados al mismo tiempo. Si esto se realiza en un sistema en producción, los clientes notarían un tiempo de inactividad.
 
-## Cómo ayuda
+## ¿Cómo ayuda?
 El despliegue blue-green es una estrategia apropiada para el software que no está en la nube que se necesita actualizar con tiempo de inactividad mínimo. Sin embargo, su uso es una señal de que el software heredado necesita ser rediseñado para que los componentes se puedan actualizar individualmente.
