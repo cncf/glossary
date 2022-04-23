@@ -2,6 +2,7 @@
 title: क्लाउड नेटिव प्रौद्योगिकी (Cloud Native Tech)
 status: Completed
 category: अवधारणा
+exclude_search: true
 ---
 
 ## यह क्या है

@@ -2,6 +2,7 @@
 title: एजाइल सॉफ्टवेयर विकास (Agile Software Development)
 status: Completed
 category: अवधारणा
+exclude_search: true
 ---
 
 ## यह क्या है

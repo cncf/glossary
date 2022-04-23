@@ -2,6 +2,7 @@
 title: कैनरी डिप्लॉयमेंट (Canary Deployment)
 status: completed
 category: अवधारणा
+exclude_search: true
 ---
 
 ## यह क्या है

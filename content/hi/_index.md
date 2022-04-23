@@ -1,10 +1,13 @@
 ---
 title: क्लाउड नेटिव शब्दावली
+exclude_search: true
 ---
 
 # क्लाउड नेटिव शब्दावली
 
 क्लाउड नेटिव शब्दावली(Cloud Native Glossary), CNCF बिजनेस वैल्यू उपसमिति(BVS, Business Value Subcommittee) के नेतृत्व में एक परियोजना है। इसका लक्ष्य बिना किसी पूर्व तकनीकी ज्ञान की आवश्यकता के स्पष्ट और सरल भाषा में क्लाउड नेटिव अवधारणाओं की व्याख्या करना है।
+
+<p><img class="mt-5" src="/images/homepage/stage.jpg" alt="A woman and two men presenting technical info on a stage"></p>
 
 ## योगदान देना
 
@@ -16,6 +19,14 @@ title: क्लाउड नेटिव शब्दावली
 
 क्लाउड नेटिव शब्दावली की शुरुआत CNCF मार्केटिंग समिति(CNCF Marketing Committee, BVS) द्वारा की गई थी और इसमें [Catherine Paganini](https://www.linkedin.com/in/catherinepaganini/en/), [Chris Aniszczyk](https://www.linkedin.com/in/caniszczyk/),
 [Daniel Jones](https://www.linkedin.com/in/danieljoneseb/?originalSubdomain=uk), [Jason Morgan](https://www.linkedin.com/in/jasonmorgan2/), [Katelin Ramer](https://www.linkedin.com/in/katelinramer/), [Mike Foster](https://www.linkedin.com/in/mfosterche/?originalSubdomain=ca), [Seokho Son](https://www.linkedin.com/in/seokho-son/) और कई अन्य योगदानकर्ताओं के योगदान शामिल हैं।
+
+क्लाउड नेटिव शब्दावली का हिंदी स्थानीयकरण [Hindi localization team](https://cloud-native.slack.com/archives/C02PCHEQXK6) द्वारा शुरू किया गया था और इसमें अनुभव वर्धन [Anubhav Vardhan](https://twitter.com/anubha_v_ardhan), 
+गरिमा नेगी [Garima Negi](https://www.linkedin.com/in/garima-negi-03980ba8/), जयेश श्रीवास्तव [Jayesh Srivastava](https://www.linkedin.com/in/jayesh-srivastava/), 
+सायंतनी सहा [Sayantani Saha](https://www.linkedin.com/in/sayantani-saha-47a55b1bb/), 
+कुणाल वर्मा [Kunal Verma](https://www.linkedin.com/in/verma-kunal/), 
+आयुष शर्मा [Aayush Sharma](https://www.linkedin.com/in/aayush-sharma967/), अनुराग कुमार [Anurag Kumar](https://github.com/kranurag7), 
+शिवम त्यागी [Shivam Tyagi](https://www.linkedin.com/in/shivam-tyagi-57b7341a6/?originalSubdomain=in), 
+शुभम चौधरी [Shubham Chaudhari](https://www.linkedin.com/in/shubham28698/) और कई अन्य योगदानकर्ताओं के योगदान शामिल हैं।
 
 ## लाइसेंस
 
