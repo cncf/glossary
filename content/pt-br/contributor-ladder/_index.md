@@ -95,8 +95,7 @@ Se e quando os níveis de comprometimento dos contribuidores mudam, os contribui
 
 ## Voltando para uma função anterior
 
-<<<<<<< HEAD
 Se e quando alguém estiver disponível para voltar a uma função de colaborador anterior, a liderança do projeto pode providenciar e considerar isso.
 =======
 Se e quando alguém estiver disponível para voltar a uma função de colaborador anterior, a liderança do projeto pode providenciar e considerar isso.
->>>>>>> Add content/pt-br/contributor-ladder (#662)
+>>>>>>> a14166a74965f440840c6d99f08209b5242307fc

@@ -4,6 +4,10 @@ toc_hide: true
 menu:
   main:
     weight: 10
+<<<<<<< HEAD
+=======
+    pre: <i class='fas fa-ruler-horizontal'></i>
+>>>>>>> a14166a74965f440840c6d99f08209b5242307fc
 ---
 
 Este guia de estilo ajudará você a entender o público alvo do glossário, estrutura das definições, nível de detalhamento necessário e como manter um estilo consistente.
