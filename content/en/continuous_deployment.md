@@ -15,3 +15,7 @@ Releasing new software versions can be a labor-intensive and error-prone process
 ## How it helps
 
 By automating the release cycle and forcing organizations to release to production more frequently, CD does what CI did for development teams for operations teams. Specifically, it forces operations teams to automate the painful and error-prone portions of production deployments, reducing overall risk. It also makes organizations better at accepting and adapting to production changes, which leads to higher stability.
+
+## Please also refer to
+* [Continuous Integration](/continuous_integration/)
+* [Continuous Delivery](/continuous_delivery/)
