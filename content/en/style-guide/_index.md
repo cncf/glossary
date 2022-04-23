@@ -104,7 +104,7 @@ The definitions for **technology** and **concept** categories contain three subh
 
 Note that **properties** don't require separate sections. A definition will suffice. 
 
-To faciliate review, please use **semantic line breaks** (one sentence per line).
+To facilitate review, please use **semantic line breaks** (one sentence per line).
 
 #### Quality is paramount
 
@@ -114,7 +114,7 @@ If merged, your submission will be the official CNCF definition for that term (u
 
 **Don't plagiarize**. The same rules apply to Glossary as to any other serious publication. Don't copy and paste other people's work unless you are quoting and contributing it to them. If you like a particular section of a definition, paraphrase it in your own words.
 
-**Reference authoritive resources**. When possible, link to authoritive resources such as project docs. Note that we cannot link to content developerd by vendors. 
+**Reference authoritative resources**. When possible, link to authoritative resources such as project docs. Note that we cannot link to content developerd by vendors. 
 
 #### Keeping it simple
 
