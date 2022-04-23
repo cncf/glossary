@@ -23,7 +23,7 @@ The Cloud Native Glossary follows the [default style guide](https://github.com/c
 
 ## Audience
 
-The Glossary is written for a technical AND non-technical audience. Please ensure definitions are explained in simple terms and don’t assume technical knowledge. More do that below under Definition.
+The Glossary is written for a technical AND non-technical audience. Please ensure definitions are explained in simple terms and don’t assume technical knowledge. More do that below under Definition. 
 
 ## Definition Template
 
@@ -104,6 +104,8 @@ The definitions for **technology** and **concept** categories contain three subh
 
 Note that **properties** don't require separate sections. A definition will suffice. 
 
+To faciliate review, please use **semantic line breaks** (one sentence per line).
+
 #### Quality is paramount
 
 If merged, your submission will be the official CNCF definition for that term (until someone else improves it). Creating a term that meets the CNCF's high standards can't be rushed — quality takes time and effort.
@@ -111,6 +113,8 @@ If merged, your submission will be the official CNCF definition for that term (u
 **Do your research**: Even if you are confident you know the term, verify you got it right. We often use terms in organizations a certain way that may not reflect the full picture. When you do your research, especially when you're not 100% familiar with the term, use multiple resources. Many definitions are one-sided, especially if provided by a vendor. The Glossary must contain vendor-neutral, globally accepted definitions.
 
 **Don't plagiarize**. The same rules apply to Glossary as to any other serious publication. Don't copy and paste other people's work unless you are quoting and contributing it to them. If you like a particular section of a definition, paraphrase it in your own words.
+
+**Reference authoritive resources**. When possible, link to authoritive resources such as project docs. Note that we cannot link to content developerd by vendors. 
 
 #### Keeping it simple
 
