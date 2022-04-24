@@ -1,7 +1,7 @@
 ---
 title: Escalonamento Vertical
 status: Completed
-category: Conceito
+category: conceito
 ---
 
 ## O que é
