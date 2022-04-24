@@ -4,7 +4,6 @@ toc_hide: true
 menu:
   main:
     weight: 10
-    pre: <i class='fas fa-pen-square'></i>
 ---
 
 The Cloud Native Glossary content is stored in [this GitHub repo](https://github.com/cncf/glossary) where you'll find a list of [issues](https://github.com/cncf/glossary/issues), [PRs](https://github.com/cncf/glossary/pulls), and [discussions](https://github.com/cncf/glossary/discussions) about the glossary. 
@@ -39,7 +38,7 @@ Once they assign it to you, you can start working on it. For the next steps, ple
 ## Propose new terms
 You can propose a new term for others to work on or create a new definition yourself. Either way, you'll start by creating an issue.
 
-Below is a step-by-step guide for those not yet familiar with GitHub. **If you are a GitHub Pro**, please *do* have a quick look to make sure you use our issue templates, appropriate naming conventions, claim a PR on Slack (otherwise we may miss it), and where to find the file template. And please make sure to read the [Style Guide](https://glossary.cncf.io/style-guide/) before getting started — thank you! 
+Below is a step-by-step guide for those not yet familiar with GitHub. **If you are a GitHub Pro**, please *do* have a quick look to make sure you use our issue templates, appropriate naming conventions, claim a PR on Slack (otherwise we may miss it), and where to find the file template. And please make sure to read the [Style Guide](/style-guide/) before getting started — thank you! 
 
 ### Creating an issue
 Go to the [Glossary GitHub repo](https://github.com/cncf/glossary/issues) issues and click on "new issue."
@@ -62,7 +61,7 @@ Note that you can only claim one term at a time. If you want to work on multiple
 
 ### Submitting a new term (creating a PR)
 
-Before getting started, please read the [Style Guide](https://glossary.cncf.io/style-guide/) — it will help minimize backs and forth. As stated in the style guide, we highly recommend starting with a Google or Word doc. 
+Before getting started, please read the [Style Guide](/style-guide/) — it will help minimize backs and forth. As stated in the style guide, we highly recommend starting with a Google or Word doc. 
 
 Once the term is ready to submit, go to content (under code)…
 

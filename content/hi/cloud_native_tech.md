@@ -2,6 +2,7 @@
 title: क्लाउड नेटिव प्रौद्योगिकी
 status: Completed
 category: अवधारणा
+exclude_search: true
 ---
 
 ## यह क्या है

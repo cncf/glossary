@@ -4,7 +4,6 @@ toc_hide: true
 menu:
   main:
     weight: 10
-    pre: <i class='fas fa-pen-square'></i>
 ---
 
 Olá! 👋 Obrigado pelo seu interesse em contribuir com o projeto CNCF Glossário Cloud Native. Há muitas maneiras de se tornar um membro ativo desta comunidade - seja contribuindo com novos termos, ajudando a localizar o glossário em seu idioma nativo ou ajudando outras pessoas a começar a contribuir. Este documento descreve as diferentes funções do colaborador no projeto e as responsabilidades e privilégios que as acompanham.
@@ -97,3 +96,6 @@ Se e quando os níveis de comprometimento dos contribuidores mudam, os contribui
 ## Voltando para uma função anterior
 
 Se e quando alguém estiver disponível para voltar a uma função de colaborador anterior, a liderança do projeto pode providenciar e considerar isso.
+=======
+Se e quando alguém estiver disponível para voltar a uma função de colaborador anterior, a liderança do projeto pode providenciar e considerar isso.
+>>>>>>> a14166a74965f440840c6d99f08209b5242307fc
