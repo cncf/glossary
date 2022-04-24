@@ -1,7 +1,7 @@
 ---
 title: Controle de Versão
 status: Completed
-category: Tecnologia
+category: tecnologia
 ---
 
 ## O que é
@@ -10,7 +10,7 @@ O controle de código (ou controle de versão) é a prática de rastrear e geren
 
 ## Problema relacionado
 
-Os sistemas de controle de versão resolvem os seguintes problemas fazendo backup do documento ou do código à medida que ele muda ao longo do tempo, permitindo que vários usuários resolvam conflitos quando há alterações sobrepostas e armazenando um registro de alterações ao longo do tempo. O código do aplicativo muitas vezes pode ser complexo e crítico para os processos principais do negócio, por isso é importante rastrear quem mudou o quê, quando foi alterado e por quê. Além disso, muitos, se não a maioria dos aplicativos, são modificados por vários desenvolvedores, e muitas vezes há conflitos entre as alterações introduzidas por diferentes desenvolvedores.
+Os sistemas de controle de versão resolvem os seguintes problemas: fazendo backup do documento ou do código à medida que ele muda ao longo do tempo, permite que vários usuários resolvam conflitos quando há alterações sobrepostas e armazenando um registro de alterações ao longo do tempo. O código do aplicativo muitas vezes pode ser complexo e crítico para os processos principais do negócio, por isso é importante rastrear quem mudou o quê, quando foi alterado e por quê. Além disso, muitos, se não a maioria dos aplicativos, são modificados por vários desenvolvedores, e muitas vezes há conflitos entre as alterações introduzidas por diferentes desenvolvedores.
 
 ## Como isso ajuda
 
