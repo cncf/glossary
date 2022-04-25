@@ -114,7 +114,7 @@ If merged, your submission will be the official CNCF definition for that term (u
 
 **Don't plagiarize**. The same rules apply to Glossary as to any other serious publication. Don't copy and paste other people's work unless you are quoting and contributing it to them. If you like a particular section of a definition, paraphrase it in your own words.
 
-**Reference authoritative resources**. When possible, link to authoritative resources such as project docs. Note that we cannot link to content developerd by vendors. 
+**Reference authoritative resources**. When possible, link to authoritative resources such as project docs. Note that we cannot link to content developed by vendors. 
 
 #### Keeping it simple
 
