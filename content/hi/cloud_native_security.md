@@ -1,9 +1,7 @@
 --- 
 
-Title: क्लाउड नेटिव सुरक्षा 
-
+Title: क्लाउड नेटिव सुरक्षा (Cloud Native Security)
 Status: completed 
-
 Category: अवधारणा 
 
 --- 
