@@ -1,5 +1,5 @@
 ---
-title: समूह
+title: क्लस्टर
 status: Completed
 category: Concept
 ---
