@@ -7,7 +7,7 @@ category: concepto
 ## Qué es
 Infraestructura como Código es una práctica para almacenar la definición de la infraestructura en uno o varios archivos. Esto reemplaza el modelo tradicional dónde la infraestructura es un servicio aprovisionado de forma manual, usualmente usando scripts con la consola o otras herramientas de configuración.
 
-## A qué problema esta dirigido
+## A qué problema está dirigido
 Construir [aplicaciones nativas cloud](/cloud_native_apps/) requiere infraestructura de forma inmediata y reproducible. Además requiere de [escalabilidad](/scalability/), bajo demanda y reproducible de forma automática y definitivamente sin la intervención humana. El aprovisionamiento manual no puede escalar y responder a los requerimientos que las [aplicaciones nativas cloud](/cloud_native_apps/). Los cambios manuales no son reproducibles rápidamente a los requerimientos de [escalabilidad](/scalability/), y puede introducir errores de configuración.
 
 ## Cómo esto ayuda
