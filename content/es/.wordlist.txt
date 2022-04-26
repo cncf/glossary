@@ -10,6 +10,8 @@ Backend
 Blue
 Business
 CC
+CD
+CI
 CNCF
 Catherine
 Chris
@@ -26,6 +28,7 @@ Frontend
 GCP
 Gateway
 GitHub
+IaC
 Jason
 Jones
 K8s
@@ -60,7 +63,9 @@ profesionistas
 property
 pull
 request
+scripts
 status
+sub
 technology
 title
 virtualización
