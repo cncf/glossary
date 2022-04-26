@@ -196,3 +196,6 @@ yaml
 yml
 DBaaS
 DBA
+Ispas
+Jihoon
+Seo
