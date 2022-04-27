@@ -1,7 +1,7 @@
 ---
 title: Despliegue Blue Green
 status: Completed
-category: concept
+category: Concepto
 ---
 
 ## ¿Qué es?

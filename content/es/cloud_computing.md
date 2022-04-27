@@ -1,7 +1,7 @@
 ---
 title: Computación en la Nube
 status: Completed
-category: concept
+category: Concepto
 ---
 
 ##  ¿Qué es?
