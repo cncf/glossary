@@ -1,5 +1,5 @@
 ---
-title: बेयर मेटल मशीन
+title: बेयर मेटल मशीन (Bare Metal Machine)
 status: Completed
 category: प्रौद्योगिकी
 ---
