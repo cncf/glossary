@@ -24,7 +24,7 @@ Você pode sugerir um novo termo para outra pessoas trabalharem na definição o
 começar abrindo uma *issue* (importante notar que você precisa de uma conta do Github para isso).
 
 Abaixo, temos um passo a passo para caso você ainda não esteja familiarizado com o Github. Caso você já seja familiar com o Github, garanta apenas que você está usando nossos templates de *issues*, com a convenção de nomes correta e seguindo o
-[guia de estilo](https://glossary.cncf.io/style-guide/).
+[guia de estilo](/pt-br/style-guide/).
 
 ### Abrindo uma issue 
 Vá para as *issues* do [repositório no Github](https://github.com/cncf/glossary/issues) e clique em "nova issue".
@@ -52,7 +52,7 @@ Observe que você só pode solicitar a atribuição de um termo por vez. Se voc�
 
 ### Propondo um novo termo (criando um pull request)
 
-Antes de começar, leia o [guia de estilo](https://glossary.cncf.io/style-guide/), isso vai ajudar nos processos de revisão. Como citado no guia de estilo, recomendamos
+Antes de começar, leia o [guia de estilo](/pt-br/style-guide/), isso vai ajudar nos processos de revisão. Como citado no guia de estilo, recomendamos
 que você comece escrevendo um documento de texto.
 
 Uma vez que o termo esteja pronto para submeter o pull request, vá para o diretório `content/`:
