@@ -1,6 +1,6 @@
 ---
 title: API Gateway
-status: Feedback erwünscht
+status: Completed
 category: Technologie
 ---
 
@@ -21,7 +21,7 @@ ohne dafür den Quellcode verändern zu müssen.
 Verschiedene Schnittstellen einer Applikation zentral zu bündeln, erleichtert es
 Organisationen vertikale Geschäftslogiken oder Sicherheitsfunktionen an einem Ort zu verwalten.
 Für Benutzer der Schnittstellen bietet sich der Vorteil einen einzigen Endpunkt für alle Belange
-nutzen zu können. Ein API Gateway kann helfen operationelle Herausforderungen wie Sicherheit oder
+nutzen zu können. Ein API Gateway kann helfen administrative Herausforderungen wie Sicherheit oder
 Sichtbarkeit durch Zentralisierung zu vereinfachen. Da alle Anfragen durch den API Gateway
 fließen, ist es die ideale Stelle, um Funktionen für die Sammlung von Metriken, Rate Limiting
 sowie Authentifikation und Autorisierung zur Verfügung zu stellen.
