@@ -1,5 +1,5 @@
 ---
-title: Firewall (फ़ायरवॉल)
+title: फ़ायरवॉल (Firewall)
 status: Completed
 category: प्रौद्योगिकी
 exclude_search: true
