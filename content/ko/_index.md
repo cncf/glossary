@@ -19,7 +19,12 @@ title: "클라우드 네이티브 용어집"
 클라우드 네이티브 용어집은 CNCF 마케팅 커미티(CNCF Marketing
 Committee) (비지니스 벨류 서브커미티)를
 포함한 [Catherine Paganini](https://www.linkedin.com/in/catherinepaganini/en/), [Chris Aniszczyk](https://www.linkedin.com/in/caniszczyk/),
-[Daniel Jones](https://www.linkedin.com/in/danieljoneseb/?originalSubdomain=uk), [Jason Morgan](https://www.linkedin.com/in/jasonmorgan2/), [Katelin Ramer](https://www.linkedin.com/in/katelinramer/), [Mike Foster](https://www.linkedin.com/in/mfosterche/?originalSubdomain=ca), [Seokho Son](https://www.linkedin.com/in/seokho-son/) 기여자의 기여를 통해서 개시되었다. 전체 기여자 목록은 [GitHub 페이지](https://github.com/cncf/glossary/graphs/contributors)에서 확인할 수 있다.
+[Daniel Jones](https://www.linkedin.com/in/danieljoneseb/?originalSubdomain=uk), [Jason Morgan](https://www.linkedin.com/in/jasonmorgan2/), [Katelin Ramer](https://www.linkedin.com/in/katelinramer/), [Mike Foster](https://www.linkedin.com/in/mfosterche/?originalSubdomain=ca)의 기여를 통해서 개시되었다. 전체 기여자 목록은 [GitHub 페이지](https://github.com/cncf/glossary/graphs/contributors)에서 확인할 수 있다.
+
+클라우드 네이티브 용어집 프로젝트는 메인테이너인 [Catherine Paganini](https://www.linkedin.com/in/catherinepaganini/en/), [Jason Morgan](https://www.linkedin.com/in/jasonmorgan2/), [Jihoon Seo](https://www.linkedin.com/in/jihoon-seo/), [Noah Ispas](https://www.linkedin.com/in/noah-ispas-0665b42a/), 그리고 [Seokho Son](https://www.linkedin.com/in/seokho-son/)을 통해 운영 및 관리되고 있다.
+
+
+마지막으로, 클라우드 네이티브 용어집의 한글화(한국어 현지화)는 클라우드 네이티브 용어집 한글화팀([#glossary-localization-korean](https://cloud-native.slack.com/archives/C02PC0MLQKU))을 포함한 [Jihoon Seo (서지훈)](https://www.linkedin.com/in/jihoon-seo/), [Seokho Son (손석호)](https://www.linkedin.com/in/seokho-son/), [Yunkon Kim (김윤곤)](https://www.linkedin.com/in/%EC%9C%A4%EA%B3%A4-%EA%B9%80-47257914a/) 및 다양한 기여자의 기여를 통해서 개시되었다.
 
 ## 라이선스
 
