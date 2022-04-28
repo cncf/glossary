@@ -1,7 +1,7 @@
 ---
 title: Máquina Bare Metal
 status: Completed
-category: technology
+category: Tecnología
 ---
 
 ##  ¿Qué es?

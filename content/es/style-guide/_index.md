@@ -81,15 +81,15 @@ status: Feedback Appreciated
 
 La etiqueta de **category** vendrá después de la etiqueta de estado. Su valor debe ser uno de los siguientes valores:
 
-- Technology
-- Property
-- Concept
+- Tecnología
+- Propiedad
+- Concepto
 
 ```md
 ---
 title: Plantilla de Definición
 status: Feedback Appreciated
-category: Concept
+category: Concepto
 ---
 ```
 
