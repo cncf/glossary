@@ -1,7 +1,7 @@
 ---
 title: API Gateway
 status: Completed
-category: technology
+category: Tecnología
 ---
 
 ## ¿Qué es esto?

@@ -1,7 +1,7 @@
 ---
 title: DevOps
 status: Completed
-category: concept
+category: Concepto
 ---
 
 ##  ¿Qué es?

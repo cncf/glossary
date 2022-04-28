@@ -1,7 +1,7 @@
 ---
 title: Balanceador de Carga
 status: Feedback Appreciated
-category: concept
+category: Concepto
 ---
 
 ## ¿Qué es?
