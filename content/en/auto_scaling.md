@@ -10,6 +10,6 @@ Previously, infrastructure and applications were architected to consider peak sy
 
 By leveraging the cloud, [virtualizing](/virtualization/), and [containerizing](/containerization/) applications and their dependencies, organizations can build applications that scale according to user demands. They can monitor application demand and automatically scale them, providing an optimal user experience. Take the increase in viewership Netflix experiences every Friday evening. Autoscaling out means dynamically adding more resources: for example, increasing the number of servers allowing for more video streaming and scaling back once consumption has normalized.
 
-## Please also refer to
+## Related terms
 * [Horizontal Scaling](/horizontal_scaling/)
 * [Vertical Scaling](/vertical_scaling/)
