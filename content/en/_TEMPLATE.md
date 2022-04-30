@@ -13,5 +13,5 @@ A few lines of the problem it's addressing.
 ## How it helps
 A few lines of how the thing solves the problem.
 
-## Related Terms
+## Related terms
 A few related terms (if applicable)
