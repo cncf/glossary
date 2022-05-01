@@ -5,13 +5,13 @@ category: concept
 ---
 
 ## What it is
-A Quick summary of the concept, what it is.
+Quick summary of the concept and what it is.
 
 ## Problem it addresses
-A few lines of the problem it's addressing.
+Define the problem it addresses. Ideally, don't even mention the term you are defining. 
 
 ## How it helps
-A few lines of how the thing solves the problem.
+Describe how the term addresses the problem described above.
 
 ## Related terms
-A few related terms (if applicable)
+Add related Glossary terms (if applicable)
