@@ -12,7 +12,7 @@ El Glosario Cloud Native sigue las [guias de estilo por defecto](https://github.
 
 1. Utilice un lenguaje sencillo y accesible, evitando la jerga técnica y palabras de moda.
 2. [Evite el lenguaje coloquial](https://en.wikipedia.org/wiki/Colloquialism)
-3. [Use un lenguaje literal y concreto](http://guidetogrammar.org/grammar/composition/abstract.htm)
+3. [Use un lenguaje literal y concreto](https://guidetogrammar.org/grammar/composition/abstract.htm)
 4. [Omite contracciones](https://en.wikipedia.org/wiki/Contraction_(grammar))
 5. [Use la voz pasiva con moderación](https://www.ef.com/ca/english-resources/english-grammar/passive-voice/)
 6. [Trate de formular declaraciones en forma positiva](https://examples.yourdictionary.com/positive-sentence-examples.html)
