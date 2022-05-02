@@ -15,9 +15,9 @@ El Glosario Cloud Native sigue las [guias de estilo por defecto](https://github.
 2. [Evite el lenguaje coloquial](https://en.wikipedia.org/wiki/Colloquialism)
 3. [Use un lenguaje literal y concreto](http://guidetogrammar.org/grammar/composition/abstract.htm)
 4. [Omite contracciones](https://en.wikipedia.org/wiki/Contraction_(grammar))
-5. [Use la voz pasiva con moderación] (https://www.ef.com/ca/english-resources/english-grammar/passive-voice/)
-6. [Trate de formular declaraciones en forma positiva] (https://examples.yourdictionary.com/positive-sentence-examples.html)
-7. [Sin signos de exclamación fuera de las comillas] (https://www.grammarly.com/blog/exclamation-mark/)
+5. [Use la voz pasiva con moderación](https://www.ef.com/ca/english-resources/english-grammar/passive-voice/)
+6. [Trate de formular declaraciones en forma positiva](https://examples.yourdictionary.com/positive-sentence-examples.html)
+7. [Sin signos de exclamación fuera de las comillas](https://www.grammarly.com/blog/exclamation-mark/)
 8. No exageres
 9. Evite repetir
 10. Sea conciso
@@ -122,7 +122,6 @@ Recomendamos comenzar con un documento de Google o Word, dejalo pasar durante un
 Para asegurarse de que nadie más envíe un PR mientras trabaja en un término, asegúrese de reclamar un issue (o crear uno) y que se le asigne. Más sobre eso en el documento [Cómo contribuir](/contribute/).
 
 Antes de comenzar, lea algunos de los términos publicados del Glosario para tener una idea del nivel de detalle y dificultad y cuándo los ejemplos son apropiados.
-
 
 ## El proceso de revisión: qué esperar
 
