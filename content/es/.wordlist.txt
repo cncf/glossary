@@ -1,7 +1,10 @@
 Aniszczyk
+Anyul
 API
 APIs
 Appreciated
+Ariel
+Arnes
 autocura
 AWS
 Azure
@@ -11,10 +14,12 @@ blue
 Business
 BVS
 BY
+Carol
 category
 Catherine
 CC
 CD
+Chaves
 Chris
 CI
 Cloud
@@ -27,10 +32,12 @@ Daniel
 declarativamente
 DevOps
 DigitalOcean
+Emiliano
 extensibilidad
 Feedback
 Foster
 frontend
+Garcia
 gateway
 GCP
 GitHub
@@ -39,6 +46,8 @@ IaC
 interface
 issue
 Jason
+Jhan
+Jhonnatan
 Jones
 Katelin
 Kubernetes
@@ -51,8 +60,10 @@ Native
 Paganini
 profesionistas
 pull
+Rael
 Ramer
 request
+Rivas
 scripts
 Seokho
 Slack
@@ -61,5 +72,7 @@ sub
 Subcommittee
 title
 Value
+Vazquez
+Victor
 virtualización
 YAML
