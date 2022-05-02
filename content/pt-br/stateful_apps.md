@@ -10,7 +10,7 @@ Quando falamos do estado (do inglês "stateful") (e [sem estado](/pt-br/stateles
 
 ## Problema relacionado
 
-O uso de um app geralmente requer várias solicitações. Por exemplo, ao fazer as transações bancárias on-line, você se autenticará digitando sua senha (solicitação #1), então você pode transferir o dinheiro para um amigo (solicitação #2) e, finalmente, você vai querer ver os detalhes da transferência (solicitação #3). Para funcionar corretamente, cada etapa tem que se lembrar das anteriores, e o banco precisa se lembrar do estado das contas de todos. Hoje, a maioria dos aplicativos que usamos é parcialmente com estado, pois armazena coisas como preferências e configurações para melhorar a experiência do usuário
+O uso de uma aplicação geralmente requer várias requisições. Por exemplo, ao fazer as transações bancárias on-line, você se autenticará digitando sua senha (requisição #1), então você pode transferir o dinheiro para um amigo (requisição #2) e, finalmente, você vai querer ver os detalhes da transferência (requisição #3). Para funcionar corretamente, cada etapa tem que se lembrar das anteriores, e o banco precisa se lembrar do estado das contas de todos. Hoje, a maioria das aplicações que usamos é parcialmente com estado, pois armazena coisas como preferências e configurações para melhorar a experiência do usuário.
 
 ## Como isso ajuda
 
