@@ -1,5 +1,5 @@
 ---
-title: Aplicativos Stateless
+title: Aplicações Stateless
 status: Feedback Appreciated
 category: tecnologia
 ---
