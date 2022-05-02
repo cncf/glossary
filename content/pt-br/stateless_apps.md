@@ -10,7 +10,7 @@ Um aplicação sem estado (do inglês "stateless") não salva nenhum dado de ses
 
 ## Problema relacionado
 
-Aplicativos sem estado resolvem o problema da resiliência, porque diferente dos pods em um [cluster](/pt-br/cluster/) podem funcionar de forma independente, com várias solicitações chegando a eles ao mesmo tempo. Se houver um problema, você pode reiniciar facilmente a aplicação e ela retornará ao seu estado inicial com pouco ou nenhum tempo de inatividade. Como tal, os benefícios das aplicações sem estado incluem a resiliência, a elasticidade e a alta disponibilidade. No entanto, a maioria dos aplicativos que usamos hoje é pelo menos parcialmente com [estado](/pt-br/stateful_apps/), pois armazenam coisas como preferências e configurações para melhorar a experiência do usuário.
+Aplicativos sem estado resolvem o problema da resiliência, porque diferente dos pods em um [cluster](/pt-br/cluster/) podem funcionar de forma independente, com várias requisições chegando a eles ao mesmo tempo. Se houver um problema, você pode reiniciar facilmente a aplicação e ela retornará ao seu estado inicial com pouco ou nenhum tempo de inatividade. Como tal, os benefícios das aplicações sem estado incluem a resiliência, a elasticidade e a alta disponibilidade. No entanto, a maioria das aplicações que usamos hoje é pelo menos parcialmente com [estado](/pt-br/stateful_apps/), pois armazenam coisas como preferências e configurações para melhorar a experiência do usuário.
 
 ## Como isso ajuda
 
