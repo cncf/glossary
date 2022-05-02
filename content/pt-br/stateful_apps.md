@@ -1,5 +1,5 @@
 ---
-title: Aplicativos Stateful
+title: Aplicações Stateful
 status: Completed
 category: conceito
 ---
