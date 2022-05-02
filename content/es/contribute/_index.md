@@ -67,7 +67,7 @@ Tenga en cuenta que solo puede reclamar un término a la vez. Si desea trabajar 
 
 Antes de comenzar, lea la [Guía de estilo](/style-guide/) — le ayudará a minimizar el ir de un lado a otro. Como se indica en la guía de estilo, recomendamos encarecidamente el comenzar con un documento de Google o Word.
 
-Una vez que el término esté listo para ser enviado, vaya a la carpeta de content (en la seccion de Code)…
+Una vez que el término esté listo para ser enviado, vaya a la carpeta de content (en la sección de Code)…
 
 ![contenido](/images/how-to/howto-05.png)
 
@@ -83,7 +83,7 @@ Copie el contenido…
 
 ![copiar contenido](/images/how-to/howto-08.png)
 
-…y vaya atras de la carpeta "es". Presione "add file" y seleccione "create new file."
+…y vaya atrás de la carpeta "es". Presione "add file" y seleccione "create new file."
 
 ![crear un archivo nuevo](/images/how-to/howto-09.png)
 
