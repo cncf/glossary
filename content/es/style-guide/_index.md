@@ -4,7 +4,6 @@ toc_hide: true
 menu:
   main:
     weight: 10
-    pre: <i class='fas fa-ruler-horizontal'></i>
 ---
 
 Esta guia de estilos te ayudará a entender la audiencia del Glosario, la estructura de las definiciones, el nivel de detalle requerido, y como mantener un estilo consistente.
