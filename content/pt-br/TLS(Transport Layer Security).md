@@ -10,7 +10,8 @@ Transport Layer Security (TLS) é um protocolo projetado para fornecer maior seg
 
 ## Problema relacionado 
 
-Sem o TLS, informações confidenciais, como hábitos de navegação, correspondência por e-mail, bate-papos on-line e chamadas de conferência, podem ser facilmente rastreadas e modificadas por outras pessoas durante a transmissão. Permitir que os aplicativos de servidor e cliente suportem TLS garante que os dados transmitidos entre eles sejam criptografados e não possam ser visualizados por terceiros.
+Sem o TLS, informações confidenciais, como hábitos de navegação, correspondência por e-mail, bate-papos on-line e chamadas de conferência, podem ser facilmente rastreadas e modificadas por outras pessoas durante a transmissão. Permitir que as aplicações de servidor e cliente suportem TLS garante que os dados transmitidos entre elas sejam criptografados e não possam ser visualizados por terceiros.
+
 
 ## Como isso ajuda
 
