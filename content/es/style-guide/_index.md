@@ -113,19 +113,19 @@ Cuando corresponda, use **ejemplos del mundo real** que ayuden a los lectores (e
 
 Cuando se use en su definición, siempre **enlace a los términos existentes del glosario** (solo la primera mención debe tener un hipervínculo).
 
-**Ejemplo**: eche un vistazo a la sección "Qué es" de la [definición de service mesh](https://glossary.cncf.io/service_mesh/). Se vincula con las definiciones de microservicios, servicio, confiabilidad y observabilidad. Además, utiliza un ejemplo del mundo real que compara los desafíos de la red en un entorno de microservicios (algo con lo que las personas no técnicas no pueden relacionarse) con los problemas de wifi (algo que cualquiera que use una computadora portátil puede entender). Siempre que sea posible, trate de hacer esa conexión.
+**Ejemplo**: eche un vistazo a la sección "Qué es" de la [definición de service mesh](/service_mesh/). Se vincula con las definiciones de microservicios, servicio, confiabilidad y observabilidad. Además, utiliza un ejemplo del mundo real que compara los desafíos de la red en un entorno de microservicios (algo con lo que las personas no técnicas no pueden relacionarse) con los problemas de wifi (algo que cualquiera que use una computadora portátil puede entender). Siempre que sea posible, trate de hacer esa conexión.
 
 #### Comience con un documento de Google o Word
 
 Recomendamos comenzar con un documento de Google o Word, dejalo pasar durante unos días y volver a visitarlo. Esto te permitirá captar frases o expresiones que podrían redactarse de una forma más sencilla y accesible. Además, asegúrese de ejecutar un corrector ortográfico antes de enviar un PR.
 
-Para asegurarse de que nadie más envíe un PR mientras trabaja en un término, asegúrese de reclamar un issue (o crear uno) y que se le asigne. Más sobre eso en el documento [Cómo contribuir](https://glossary.cncf.io/contribute/).
+Para asegurarse de que nadie más envíe un PR mientras trabaja en un término, asegúrese de reclamar un issue (o crear uno) y que se le asigne. Más sobre eso en el documento [Cómo contribuir](/contribute/).
 
 Antes de comenzar, lea algunos de los términos publicados del Glosario para tener una idea del nivel de detalle y dificultad y cuándo los ejemplos son apropiados.
 
 
 ## El proceso de revisión: qué esperar
 
-Tenga en cuenta que actualmente solo hay tres mantenedores haciendo esto en su tiempo libre. Ocasionalmente, podremos revisar los términos rápidamente; en otras ocasiones, puede llevar algo de tiempo. Agradecemos su paciencia. Si tiene alguna pregunta, comuníquese con nosotros en el canal #glossary de Slack (para saber dónde y cómo encontrarlo, consulte nuestro documento de [Cómo contribuir](https://glossary.cncf.io/contribute/)).
+Tenga en cuenta que actualmente solo hay tres mantenedores haciendo esto en su tiempo libre. Ocasionalmente, podremos revisar los términos rápidamente; en otras ocasiones, puede llevar algo de tiempo. Agradecemos su paciencia. Si tiene alguna pregunta, comuníquese con nosotros en el canal #glossary de Slack (para saber dónde y cómo encontrarlo, consulte nuestro documento de [Cómo contribuir](/contribute/)).
 
 Nuestro objetivo es que el Glosario sea el mejor recurso posible. Una vez que envíe un PR, podemos solicitar una o más revisiones. No se sienta frustrado, ese es el caso de muchos relaciones públicas. Esas idas y venidas y nuestra colaboración asegurarán que su contribución se convierta en una definición verdaderamente útil leída y referida por lectores de todo el mundo.
