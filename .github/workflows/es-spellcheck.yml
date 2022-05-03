@@ -13,7 +13,7 @@ name: Spellcheck CI
 on:
   pull_request:
     paths:
-      - 'content/es/*.md'
+      - 'content/es/**/*.md'
     branches:
       - dev-es
   workflow_dispatch:

@@ -41,7 +41,7 @@ Una vez que te lo asignen, puedes empezar a trabajar en él. Para conocer los pr
 
 Puede proponer un nuevo término para que otros trabajen en él o crear una nueva definición usted mismo. De cualquier forma, comenzará creando un issue (tenga en cuenta que necesitará una cuenta de GitHub para hacerlo).
 
-A continuación se muestra una guía paso a paso para aquellos que aún no están familiarizados con GitHub. **Si eres un profesional de GitHub**, *da* un vistazo rápido para asegurarte de que usas nuestras plantillas de issues, las convenciones de nomenclatura, solicita un PR en Slack (de lo contrario, podemos perderlo) y dónde encontrar la plantilla del archivo. Y asegúrese de leer la [Guía de estilo](/style-guide/) antes de comenzar. ¡Gracias!
+A continuación se muestra una guía paso a paso para aquellos que aún no están familiarizados con GitHub. **Si eres un profesional de GitHub**, *da* un vistazo rápido para asegurarte de que usas nuestras plantillas de issues, las convenciones de nomenclatura, solicita un PR en Slack (de lo contrario, podemos perderlo) y dónde encontrar la plantilla del archivo. Y asegúrese de leer la [Guía de estilo](/es/style-guide/) antes de comenzar. ¡Gracias!
 
 ### Creando un issue {#creating-an-issue}
 
@@ -65,9 +65,9 @@ Tenga en cuenta que solo puede reclamar un término a la vez. Si desea trabajar 
 
 ### Envío de un nuevo término (creando un PR) {#submitting-a-new-term-creating-a-pr}
 
-Antes de comenzar, lea la [Guía de estilo](/style-guide/) — le ayudará a minimizar el ir de un lado a otro. Como se indica en la guía de estilo, recomendamos encarecidamente el comenzar con un documento de Google o Word.
+Antes de comenzar, lea la [Guía de estilo](/es/style-guide/) — le ayudará a minimizar el ir de un lado a otro. Como se indica en la guía de estilo, recomendamos encarecidamente el comenzar con un documento de Google o Word.
 
-Una vez que el término esté listo para ser enviado, vaya a la carpeta de content (en la seccion de Code)…
+Una vez que el término esté listo para ser enviado, vaya a la carpeta de content (en la sección de Code)…
 
 ![contenido](/images/how-to/howto-05.png)
 
@@ -83,7 +83,7 @@ Copie el contenido…
 
 ![copiar contenido](/images/how-to/howto-08.png)
 
-…y vaya atras de la carpeta "es". Presione "add file" y seleccione "create new file."
+…y vaya atrás de la carpeta "es". Presione "add file" y seleccione "create new file."
 
 ![crear un archivo nuevo](/images/how-to/howto-09.png)
 
