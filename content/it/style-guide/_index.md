@@ -8,7 +8,7 @@ menu:
 
 Questa guida ti aiuterà a comprendere chi sono i destinatari del Glossario, la struttura delle definizioni, il livello di dettaglio richiesto e come mantenere uno stile coerente.
 
-Il Glossario Cloud Native rispetta la [style guide di base](https://github.com/cncf/foundation/blob/master/style-guide.md) del repository CNCF, ma si è posto regole aggiuntive e specifiche:
+Il Glossario Cloud Native rispetta la [Guida di Stile](https://github.com/cncf/foundation/blob/master/style-guide.md) del repository CNCF, ma si è posto regole aggiuntive e specifiche:
 
 1. Usa un linguaggio semplice, accessibile e che eviti tecnicismi spinti e buzzwords
 2. Evita un linguaggio eccessivamente colloquiale
