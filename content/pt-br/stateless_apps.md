@@ -14,4 +14,4 @@ Aplicações sem estado resolvem o problema da resiliência, porque diferente do
 
 ## Como isso ajuda
 
-Juntando tudo, em uma aplicação sem estado, a única coisa pela qual seu cluster é responsável é o código e outros conteúdos estáticos que estão hospedados nele. É isso, sem alterações de bancos de dados, sem gravações e sem sobras de arquivos quando o pod é excluído. [Contêineres](/pt-br/container/) sem estado são mais fáceis de implantar, e você não precisa se preocupar em salvar os dados do contêiner em volumes de armazenamento persistentes. Você também não precisa se preocupar em fazer uma cópia de segurança dos dados.
+Em resumo, em uma aplicação sem estado, a única coisa pela qual seu cluster é responsável é o código e outros conteúdos estáticos que estão hospedados nele. É isso, sem alterações de bancos de dados, sem gravações e sem sobras de arquivos quando o pod é excluído. [Contêineres](/pt-br/container/) sem estado são mais fáceis de implantar, e você não precisa se preocupar em salvar os dados do contêiner em volumes de armazenamento persistentes. Você também não precisa se preocupar em fazer uma cópia de segurança dos dados.
