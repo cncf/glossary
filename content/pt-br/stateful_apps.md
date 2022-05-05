@@ -6,7 +6,7 @@ category: conceito
 
 ## O que é
 
-Quando falamos do estado (do inglês "stateful") (e [sem estado](/pt-br/stateless_apps/)) (do inglês "stateless") das aplicações, nos referimos a todos os dados que a aplicação precisa armazenar para funcionar como projetado. Qualquer tipo de loja online que lembre do seu carrinho é um estado da aplicação, por exemplo.
+Quando falamos do estado (do inglês "stateful") (e [sem estado](/pt-br/stateless_apps/)) (do inglês "stateless") das aplicações, nos referimos a todos os dados que a aplicação precisa armazenar para funcionar como projetada. Qualquer tipo de loja online que lembre do seu carrinho é uma aplicação com estado, por exemplo.
 
 ## Problema relacionado
 
