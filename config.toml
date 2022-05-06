@@ -197,8 +197,8 @@ footer_about_disable = true
 [params.ui.feedback]
 enable = true
 # The responses that the user sees after clicking "yes" (the page was helpful) or "no" (the page was not helpful).
-yes = 'Thank you! Please <a href="https://github.com/cncf/glossary/issues/new">let us know if you have any suggestions</a>.'
-no = 'Thanks for your feedback. Please <a href="https://github.com/cncf/glossary/issues/new">tell us how we can improve</a>.'
+yes = 'ধন্যবাদ! অনুগ্রহ করে <a href="https://github.com/cncf/glossary/issues/new">আপনার কোন পরামর্শ থাকলে আমাদের জানান</a>।'
+no = 'আপনার প্রতিক্রিয়ার জন্য ধন্যবাদ। অনুগ্রহ করে <a href="https://github.com/cncf/glossary/issues/new">আমরা কীভাবে উন্নতি করতে পারি তা আমাদের বলুন</a>।'
 
 # Adds a reading time to the top of each doc.
 # If you want this feature, but occasionally need to remove the Reading time from a single page, 
