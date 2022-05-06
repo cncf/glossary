@@ -14,4 +14,4 @@ O uso de uma aplicação geralmente requer várias requisições. Por exemplo, a
 
 ## Como isso ajuda
 
-Existem várias maneiras de armazenar o estado de uma aplicação com estado. O mais simples é manter esse estado na memória e não persistir em nenhum outro lugar. O problema com isso é que, sempre que a aplicação precisa ser reiniciada, todo o estado será perdido. Para evitar isso, o estado deve persistir localmente (no disco) ou em sistemas de banco de dados.
+Existem várias maneiras de armazenar o estado de uma aplicação stateful. O mais simples é manter esse estado na memória e não persistir em nenhum outro lugar. O problema com isso é que, sempre que a aplicação precisa ser reiniciada, todo o estado será perdido. Para evitar isso, o estado deve persistir localmente (no disco) ou em sistemas de banco de dados.
