@@ -1,7 +1,7 @@
 ---
 title: 数据中心
 status: Feedback Appreciated
-category:技术
+category: 技术
 ---
 
 ## 是什么
