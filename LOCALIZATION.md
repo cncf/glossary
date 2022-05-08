@@ -134,3 +134,4 @@ To join an existing team, hop on the #glossary-localizations and #glossary-local
 
 If the team seems inactive (no response after several days), reach out to @Seokho Son, @Catherine Paganini, and @jmo on the #glossary-localizations channel.  
 
+Note, that every localization team may have their own process of working on localizing terms. However, one thing is common for all localization teams and important to keep in mind: Contributions have to be based on the `dev-xx` branch and PRs need to target `dev-xx`.

@@ -4,12 +4,11 @@ toc_hide: true
 menu:
   main:
     weight: 10
-    pre: <i class='fas fa-pen-square'></i>
 ---
 
 The Cloud Native Glossary content is stored in [this GitHub repo](https://github.com/cncf/glossary) where you'll find a list of [issues](https://github.com/cncf/glossary/issues), [PRs](https://github.com/cncf/glossary/pulls), and [discussions](https://github.com/cncf/glossary/discussions) about the glossary. 
 
-There are three ways you can contribute:
+There are four ways you can contribute:
 
 1) [Work on an existing issue](#work-on-an-existing-issue)
 2) [Propose new terms](#propose-new-terms)
@@ -20,7 +19,7 @@ There are three ways you can contribute:
 Consider joining our monthly Glossary Working Group meetings if you want to contribute regularly. You can find meeting details in the [CNCF calendar](https://www.cncf.io/calendar/). You can also connect with the maintainers and fellow contributors in our [#glossary](https://cloud-native.slack.com/archives/C02TX20MQBB) channel on the CNCF Slack — we'd love to meet you! 
 
 ## Work on an existing issue
-Go to the [Glossary GitHub repo issues](https://github.com/cncf/glossary/issues). There you'll see a list of all issues. You can filter by label (e.g. English language, help needed, first good issue). Note that you'll need a GitHub account to do any of this.
+Go to the [Glossary GitHub repo issues](https://github.com/cncf/glossary/issues). There you'll see a list of all issues. You can filter by label (e.g. English language, help needed, good first issue). Note that you'll need a GitHub account to do any of this.
 
 ![Issue and labels](/images/how-to/issue-and-labels.png)
 
@@ -37,9 +36,9 @@ Additionally, please also join the [#glossary](https://cloud-native.slack.com/ar
 Once they assign it to you, you can start working on it. For the next steps, please refer to the [Submitting a new term (creating a PR)](#submitting-a-new-term-creating-a-pr) section.
 
 ## Propose new terms
-You can propose a new term for others to work on or create a new definition yourself. Either way, you'll start by creating an issue.
+You can propose a new term for others to work on or create a new definition yourself. Either way, you'll start by creating an issue. Please note that terms must meet the [CNCF's cloud native definition](https://github.com/cncf/toc/blob/main/DEFINITION.md). The only exceptions are foundational terms needed to understand cloud native concepts.
 
-Below is a step-by-step guide for those not yet familiar with GitHub. **If you are a GitHub Pro**, please *do* have a quick look to make sure you use our issue templates, appropriate naming conventions, claim a PR on Slack (otherwise we may miss it), and where to find the file template. And please make sure to read the [Style Guide](https://glossary.cncf.io/style-guide/) before getting started — thank you! 
+Below is a step-by-step guide for those not yet familiar with GitHub. **If you are a GitHub Pro**, please *do* have a quick look to make sure you use our issue templates, appropriate naming conventions, claim a PR on Slack (otherwise we may miss it), and where to find the file template. And please make sure to read the [Style Guide](/style-guide/) before getting started — thank you! 
 
 ### Creating an issue
 Go to the [Glossary GitHub repo](https://github.com/cncf/glossary/issues) issues and click on "new issue."
@@ -62,7 +61,7 @@ Note that you can only claim one term at a time. If you want to work on multiple
 
 ### Submitting a new term (creating a PR)
 
-Before getting started, please read the [Style Guide](https://glossary.cncf.io/style-guide/) — it will help minimize backs and forth. As stated in the style guide, we highly recommend starting with a Google or Word doc. 
+Before getting started, please read the [Style Guide](/style-guide/) — it will help minimize backs and forth. As stated in the style guide, we highly recommend starting with a Google or Word doc. 
 
 Once the term is ready to submit, go to content (under code)…
 
@@ -84,7 +83,7 @@ Copy the content…
 
 ![create new file](/images/how-to/howto-09.png)
 
-Add the term name in the URL (no capitalization and no space) and .md at the end (note: if your preview doesn't work, you probably forgot to add .md at the end). Now paste the template content below. Copy and paste your definition into the file. Note that GitHub uses markdown to format the text (e.g., hyperlink, bold, italic). Please refer to this [markdown cheat sheet](https://www.markdownguide.org/cheat-sheet/). To verify you've used markdown as intended, go to "preview."
+Add the term name in the URL (no capitalization and no space) and .md at the end (note: if your preview doesn't work, you probably forgot to add .md at the end). Now paste the template content below. Copy and paste your definition into the file. To make reviews easier, please **use [semantic line breaks](https://sembr.org/)** (e.g. one line per sentence). Note that GitHub uses markdown to format the text (e.g., hyperlink, bold, italic). Please refer to this [markdown cheat sheet](https://www.markdownguide.org/cheat-sheet/). To verify you've used markdown as intended, go to "preview."
 
 ![finalize term](/images/how-to/howto-10.png)
 
