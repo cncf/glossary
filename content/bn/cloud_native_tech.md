@@ -1,7 +1,7 @@
 ---
 title: ক্লাউড নেটিভ প্রযুক্তি
 status: Completed
-category: ধারণা
+category: ধারণা 
 ---
 
 ## এটা কি
