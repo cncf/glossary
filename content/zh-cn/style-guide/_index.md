@@ -12,7 +12,7 @@ The following style guide is designed to help you understand the glossary defini
 The Cloud Native Glossary follows the [default style guide](https://github.com/cncf/foundation/blob/master/style-guide.md) located in the CNCF's repository.  Additionally it follows the following rules:
 
 1. [Avoid colloquial language](https://en.wikipedia.org/wiki/Colloquialism)
-2. [Use literal and concrete language](http://guidetogrammar.org/grammar/composition/abstract.htm)
+2. [Use literal and concrete language](https://guidetogrammar.org/grammar/composition/abstract.htm)
 3. [Omit contractions](https://en.wikipedia.org/wiki/Contraction_(grammar))
 4. [Use passive voice sparingly](https://www.ef.com/ca/english-resources/english-grammar/passive-voice/)
 5. [Aim to phrase statements in a positive form](https://examples.yourdictionary.com/positive-sentence-examples.html)

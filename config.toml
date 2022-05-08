@@ -73,11 +73,11 @@ languageName ="हिन्दी(Hindi)"
 contentDir = "content/hi"
 weight = 2
 
-[languages.zh]
+[languages.zh-cn]
 title = "Cloud Native(云原生) Glossary"
 description = "CNCF 云原生 Glossary 项目旨在用作讨论云原生应用程序时常用术语的参考"
 languageName ="中文(Chinese)"
-contentDir = "content/zh"
+contentDir = "content/zh-cn"
 weight = 3
 
 [markup]
