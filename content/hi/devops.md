@@ -2,6 +2,7 @@
 title: DevOps(डेवॉप्स) 
 status: Completed
 category: अवधारणा
+exclude_search: true
 ---
 
 ## यह क्या है
