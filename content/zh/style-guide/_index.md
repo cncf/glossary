@@ -12,7 +12,7 @@ The following style guide is designed to help you understand the glossary defini
 The Cloud Native Glossary follows the [default style guide](https://github.com/cncf/foundation/blob/master/style-guide.md) located in the CNCF's repository.  Additionally it follows the following rules:
 
 1. [Avoid colloquial language](https://en.wikipedia.org/wiki/Colloquialism)
-2. [Use literal and concrete language](http://guidetogrammar.org/grammar/composition/abstract.htm)
+2. [Use literal and concrete language](https://guidetogrammar.org/grammar/composition/abstract.htm)
 3. [Omit contractions](https://en.wikipedia.org/wiki/Contraction_(grammar))
 4. [Use passive voice sparingly](https://www.ef.com/ca/english-resources/english-grammar/passive-voice/)
 5. [Aim to phrase statements in a positive form](https://examples.yourdictionary.com/positive-sentence-examples.html)
@@ -97,7 +97,7 @@ The definition contains three subheadings to give the readers context: "What it 
 
 The glossary is for a technical AND non-technical audience. So please ensure definitions are explained in simple terms and don't assume technical knowledge. When appropriate, use real-world examples that help readers (especially non-technical readers) better understand when and why the concept you're explaining is relevant. Also, link directly to glossary terms when used in your definition (only the first mention should be hyperlinked) and make sure to run your text through a spell check program.
 
-As an example, take a look at the "What it is" section of the [service mesh definition](/service_mesh). It links back to the microservices, service, reliability, and observability definitions and uses a real-world example so (non-technical) readers can better relate to network challenges (comparing it to a wifi network everyone is familiar with).
+As an example, take a look at the "What it is" section of the [service mesh definition](/zh/service_mesh/). It links back to the microservices, service, reliability, and observability definitions and uses a real-world example so (non-technical) readers can better relate to network challenges (comparing it to a wifi network everyone is familiar with).
 
 Before getting started, please read some of the published terms on this site so you get a feeling for the level of detail and difficulty as well as when examples are appropriate.
 
