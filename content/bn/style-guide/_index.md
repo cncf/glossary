@@ -7,28 +7,29 @@ menu:
     pre: <i class='fas fa-ruler-horizontal'></i>
 ---
 
-This style guide will help you understand the Glossary audience, definition structure, required level of detail, and how to maintain a consistent style.
+এই শৈলী নির্দেশিকা আপনাকে শব্দকোষের শ্রোতা, সংজ্ঞা কাঠামো, প্রয়োজনীয় বিশদ স্তর এবং কীভাবে একটি সামঞ্জস্যপূর্ণ শৈলী বজায় রাখতে হয় তা বুঝতে সাহায্য করবে।
 
-The Cloud Native Glossary follows the [default style guide](https://github.com/cncf/foundation/blob/master/style-guide.md) of the CNCF repository. Additionally, it follows the following rules:
+ক্লাউড নেটিভ শব্দকোষ CNCF সংগ্রহস্থলের [ডিফল্ট স্টাইল গাইড](https://github.com/cncf/foundation/blob/master/style-guide.md) অনুসরণ করে। উপরন্তু, এটি নিম্নলিখিত নিয়ম অনুসরণ করে:
 
-1. Use simple, accessible language, avoiding technical jargon and buzzwords
-2. [Avoid colloquial language](https://en.wikipedia.org/wiki/Colloquialism)
-3. [Use literal and concrete language](http://guidetogrammar.org/grammar/composition/abstract.htm)
-4. [Omit contractions](https://en.wikipedia.org/wiki/Contraction_(grammar))
-5. [Use passive voice sparingly](https://www.ef.com/ca/english-resources/english-grammar/passive-voice/)
-6. [Aim to phrase statements in a positive form](https://examples.yourdictionary.com/positive-sentence-examples.html) 
-7. [No exclamation marks outside of quotations](https://www.grammarly.com/blog/exclamation-mark/)
-8. Do not exaggerate
-9. Avoid repetition
-10. Be concise
+1. সহজ, সহজলভ্য ভাষা ব্যবহার করুন, প্রযুক্তিগত শব্দবাক্য এবং বাজওয়ার্ড এড়িয়ে চলুন
+2. [কথ্যভাষা এড়িয়ে চলুন](https://en.wikipedia.org/wiki/Colloquialism)
+3. [আক্ষরিক এবং কংক্রিট ভাষা ব্যবহার করুন](https://guidetogrammar.org/grammar/composition/abstract.htm)
+4. [সংকোচন বাদ দিন](https://en.wikipedia.org/wiki/Contraction_(grammar))
+5. [প্যাসিভ ভয়েস অল্প ব্যবহার করুন](https://www.ef.com/ca/english-resources/english-grammar/passive-voice/)
+6. [একটি ইতিবাচক আকারে বাক্যাংশের বিবৃতিগুলিকে লক্ষ্য করুন](https://examples.yourdictionary.com/positive-sentence-examples.html)
+7. [কোটেশনের বাইরে কোনো বিস্ময় চিহ্ন নেই](https://www.grammarly.com/blog/exclamation-mark/)
+8. অতিরঞ্জিত করবেন না
+9. পুনরাবৃত্তি এড়িয়ে চলুন
+10. সংক্ষিপ্ত হোন
 
-## Audience
+## শ্রোতা
 
-The Glossary is written for a technical AND non-technical audience. Please ensure definitions are explained in simple terms and don’t assume technical knowledge. More do that below under Definition.
+শব্দকোষটি প্রযুক্তিগত এবং অ-প্রযুক্তিগত দর্শকদের জন্য লেখা। অনুগ্রহ করে নিশ্চিত করুন যে সংজ্ঞাগুলি সহজ ভাষায় ব্যাখ্যা করা হয়েছে এবং প্রযুক্তিগত জ্ঞান গ্রহণ করবেন না। আরো যে সংজ্ঞা অধীনে নিচে রয়েছে ।
 
-## Definition Template
+## সংজ্ঞা টেমপ্লেট
 
-Each glossary term is stored in a markdown file and follows this template:
+
+প্রতিটি শব্দকোষ একটি মার্কডাউন ফাইলে সংরক্ষণ করা হয় এবং এই টেমপ্লেটটি অনুসরণ করে:
 
 ```md
 ---
@@ -37,95 +38,100 @@ status:
 category: 
 ---
 
-## What it is
 
-A quick summary of the technology or concept.
+## এটা কি
 
-## Problem it addresses 
+প্রযুক্তি বা ধারণার একটি দ্রুত সারাংশ।
 
-A few lines about the problem it's addressing.
+## এটা যেসব সমস্যাতে ফোকাস করে
 
-## How it helps
+এটি যে সমস্যার সমাধান করছে সে সম্পর্কে কয়েকটি লাইন।
 
-A few lines on how the thing solves the problem.
+## এটা কিভাবে সাহায্য করে
+
+জিনিসটি কীভাবে সমস্যার সমাধান করে তার কয়েকটি লাইন।
+
 ```
 
 ### Title
 
-The **title** label will always be at the top of a definition layout, and its value should be in title case. 
+**Title** লেবেল সর্বদা একটি সংজ্ঞা লেআউটের শীর্ষে থাকবে এবং এর মান শিরোনামের ক্ষেত্রে হওয়া উচিত। 
 
 ```md
 ---
-title: Definition Template
+title: সংজ্ঞা টেমপ্লেট
 ```
 
 ### Status
 
-The **status** label will come after the title label. The status label indicates whether definitions are thoroughly vetted or require more effort.
+শিরোনাম লেবেলের পরে **status** লেবেল আসবে। স্থিতি লেবেল নির্দেশ করে যে সংজ্ঞাগুলি পুঙ্খানুপুঙ্খভাবে যাচাই করা হয়েছে বা আরও প্রচেষ্টার প্রয়োজন আছে কিনা।
 
-Valid values are: 
+বৈধ মান হল:
 
-- Completed
-- Feedback Appreciated 
-- Not Started
+- সম্পন্ন
+- প্রতিক্রিয়া প্রশংসিত
+- শুরু না
 
-You can always open an issue against a completed definition. While a definition is in flux, its status will be changed to *Feedback Appreciated*.
+আপনি সর্বদা একটি সম্পূর্ণ সংজ্ঞার বিরুদ্ধে একটি issue খুলতে পারেন। একটি সংজ্ঞা প্রবাহিত হওয়ার সময়, এটির স্থিতি Feedback Appreciated এ পরিবর্তিত হবে।
 
 ```md
 ---
-title: Definition Template
+title: সংজ্ঞা টেমপ্লেট
 status: Feedback Appreciated
 ```
 
 ### Category
 
-The **category** label will come after the status label. Its value should be one of the following values:
+**Category** লেবেলটি স্ট্যাটাস লেবেলের পরে আসবে। এর মান নিম্নলিখিত মানগুলির মধ্যে একটি হওয়া উচিত:
 
-- Technology
-- Property
-- Concept
+- প্রযুক্তি
+- সম্পত্তি
+- ধারণা
 
 ```md
 ---
-title: Definition Template
+title: সংজ্ঞা টেমপ্লেট
 status: Feedback Appreciated
-category: Concept
+category: ধারণা
 ---
 ```
 
-### Definition
 
-#### Three subheadings
+### সংজ্ঞা
 
-The definitions for **technology** and **concept** categories contain three subheadings: 
+#### তিনটি উপশিরোনাম
 
-- **What it is**: provide a short and clear overview of what we are talking about.
-- **Problem it addresses**: focus on the problem, not the solution (that comes in the next section). In fact, avoid mentioning the term that is defined. The problem focuses on *what* led us to need that thing. 
-- **How it helps**: now, come back to the term. How does it address the problem described above?
+**প্রযুক্তি** এবং **ধারণা** বিভাগের সংজ্ঞায় তিনটি উপশিরোনাম রয়েছে:
 
-Note that **properties** don't require separate sections. A definition will suffice. 
+- **এটা কি**: আমরা যে বিষয়ে কথা বলছি তার একটি সংক্ষিপ্ত এবং স্পষ্ট ধারণা প্রদান করুন। 
+- **এটা যেসব সমস্যাতে ফোকাস করে**: সমস্যাটির উপর ফোকাস করুন, সমাধানের দিকে নয় (যা পরবর্তী বিভাগে আসে)। আসলে, সংজ্ঞায়িত শব্দটি উল্লেখ করা এড়িয়ে চলুন। সমস্যাটি আমাদের সেই জিনিসটির প্রয়োজন কিসের উপর তাতে আলোকপাত করে ।
+- **এটা কিভাবে সাহায্য কর** : এখন, মেয়াদে ফিরে আসুন।  এটি কিভাবে উপরে বর্ণিত সমস্যার সমাধান করে?
 
-#### Keeping it simple
+মনে রাখবেন **বৈশিষ্ট্য**-এর আলাদা বিভাগের প্রয়োজন নেই। একটি সংজ্ঞা যথেষ্ট হবে।
 
-The Glossary aims at **explaining complex concepts in simple words** — that is a surprisingly difficult task that will likely take multiple revisions. Always keep the audience in mind when drafting your definition. Avoid using industry terms and buzzwords — you'll probably catch yourself going back to them and may need to autocorrect. 
+#### জিনিসগুলি সহজ রাখুন
 
-When appropriate, use **real-world examples** that help readers (especially non-technical ones) better understand *when* and *why* the concept you’re explaining is relevant. 
+শব্দকোষের লক্ষ্য **জটিল ধারণাগুলিকে সহজ শব্দে ব্যাখ্যা করা** — এটি একটি আশ্চর্যজনকভাবে কঠিন কাজ যা সম্ভবত একাধিক সংশোধন করতে পারে। আপনার সংজ্ঞা খসড়া করার সময় সর্বদা দর্শকদের কথা মাথায় রাখুন। শিল্পের শর্তাবলী এবং বাজওয়ার্ডগুলি ব্যবহার করা এড়িয়ে চলুন - আপনি সম্ভবত তাদের কাছে ফিরে যেতে পারবেন এবং স্বয়ংক্রিয়ভাবে সংশোধন করতে হবে।
 
-When used in your definition, always **link to existing glossary terms** (only the first mention should be hyperlinked).
+উপযুক্ত হলে, **বাস্তব-জগতের উদাহরণ** ব্যবহার করুন যা পাঠকদের (বিশেষ করে অ-প্রযুক্তিগত) আরও ভালোভাবে বুঝতে সাহায্য করে কখন এবং কেন আপনি যে ধারণাটি ব্যাখ্যা করছেন তা প্রাসঙ্গিক।
 
-**Example**: take a look at the “What it is” section of the [service mesh definition](https://glossary.cncf.io/service_mesh/). It links back to the microservices, service, reliability, and observability definitions. Additionally, it uses a real-world example comparing network challenges in a microservices environment (something non-technical people can't relate to) to wifi problems (something anyone using a laptop can understand). Where possible, try to make that connection. 
+আপনার সংজ্ঞায় ব্যবহৃত হলে, সর্বদা **বিদ্যমান শব্দকোষের শর্তাবলীর সাথে লিঙ্ক করুন** (শুধুমাত্র প্রথম উল্লেখ হাইপারলিঙ্ক করা উচিত)।
 
-#### Start with a Google or Word doc
-
-We recommend starting with a Google or Word doc, letting it sit for a few days, and revisiting again. This will allow you to catch phrases or expressions that could be worded in a simpler and more accessible way. Also, make sure to run a spellcheck before submitting a PR.
-
-To ensure no one else submits a PR while working on a term, make sure to claim an issue (or create one) and that it is assigned to you.  More to that in the [How To Contribute](https://glossary.cncf.io/contribute/) doc.
-
-Before getting started, please read some of the published Glossary terms to get a feeling for the level of detail and difficulty and when examples are appropriate.
+**উদাহরণ**: [পরিষেবা মেশ সংজ্ঞা](/service_mesh/) এর “এটি কী” বিভাগটি একবার দেখুন। এটি মাইক্রোসার্ভিস, পরিষেবা, নির্ভরযোগ্যতা এবং পর্যবেক্ষণযোগ্যতার সংজ্ঞাগুলির সাথে লিঙ্ক করে। উপরন্তু, এটি একটি মাইক্রোসার্ভিসেস পরিবেশে নেটওয়ার্ক চ্যালেঞ্জের তুলনা করে একটি বাস্তব-বিশ্বের উদাহরণ ব্যবহার করে (এমন কিছু যা অ-প্রযুক্তিগত লোকেরা সম্পর্কিত হতে পারে না)  ওয়াইফাই সমস্যার (যা কেউ ল্যাপটপ ব্যবহার করে বুঝতে পারে)সাথে । যেখানে সম্ভব, সেই সংযোগটি তৈরি করার চেষ্টা করুন।
 
 
-## The review process: what to expect
 
-Please note that we are currently only three maintainers doing this in their spare time. Occasionally, we'll be able to review terms quickly; on other occasions, it may take some time — we appreciate your patience. If you have any questions, please get in touch with us in the #glossary Slack channel (for where and how to find it, please refer to our [How To Contribute](https://glossary.cncf.io/contribute/) doc).
+#### একটি Google বা Word ডক দিয়ে শুরু করুন
 
-Our goal is for the Glossary to be the best possible resource. Once you submit a PR, we may ask for one or more revisions. Don't be frustrated — that is the case for many PRs. Those backs and forth and our collaboration will ensure that your contribution becomes a truly useful definition read and referred to by readers all around the globe.
+আমরা একটি Google বা Word ডক দিয়ে শুরু করার পরামর্শ দিই, এটিকে কয়েক দিনের জন্য বসতে দিন এবং আবার দেখার জন্য। এটি আপনাকে বাক্যাংশ বা অভিব্যক্তিগুলি ধরতে দেয় যা একটি সহজ এবং আরও অ্যাক্সেসযোগ্য উপায়ে শব্দ করা যেতে পারে। এছাড়াও,  PR জমা দেওয়ার আগে একটি বানান পরীক্ষা চালানো নিশ্চিত করুন।
+
+একটি মেয়াদে কাজ করার সময় অন্য কেউ PR জমা না দেয় তা নিশ্চিত করতে, একটি সমস্যা দাবি করা (বা একটি তৈরি করুন) এবং এটি আপনাকে বরাদ্দ করা হয়েছে তা নিশ্চিত করুন। [কীভাবে অবদান রাখতে হয়](/bn/contribute/) ডক-এ আরও কিছু আছে যা দেখতে পারেন  ।
+
+শুরু করার আগে, অনুগ্রহ করে কিছু প্রকাশিত শব্দকোষের পদ পড়ুন যাতে বিশদ এবং অসুবিধার মাত্রা এবং উদাহরণগুলি বোঝা যায়।
+
+
+## পর্যালোচনা প্রক্রিয়া: কি আশা করা যায়
+
+দয়া করে মনে রাখবেন যে আমরা বর্তমানে শুধুমাত্র তিনজন রক্ষণাবেক্ষণকারী তাদের অবসর সময়ে এটি করে। মাঝে মাঝে, আমরা দ্রুত শর্তাবলী পর্যালোচনা করতে সক্ষম হব; অন্যান্য অনুষ্ঠানে, এটি কিছুটা সময় নিতে পারে — আমরা আপনার ধৈর্যের প্রশংসা করি। আপনার যদি কোনো প্রশ্ন থাকে, তাহলে অনুগ্রহ করে #glossary Slack চ্যানেলে আমাদের সাথে যোগাযোগ করুন (কোথায় এবং কীভাবে এটি খুঁজে পাবেন, অনুগ্রহ করে আমাদের [কীভাবে অবদান রাখবেন](/bn/contribute/)  ডকটি দেখুন ।
+
+আমাদের লক্ষ্য হল শব্দকোষ সর্বোত্তম সম্ভাব্য সম্পদ। একবার আপনি একটি PR জমা দিলে, আমরা এক বা একাধিক সংশোধনের জন্য জিজ্ঞাসা করতে পারি। হতাশ হবেন না — এটি অনেক  PR -এর ক্ষেত্রে। সেই সব  নিশ্চিত করবে যে আপনার অবদান একটি সত্যিকারের দরকারী সংজ্ঞা হয়ে উঠবে যা সারা বিশ্বের পাঠকদের দ্বারা পঠিত হবে।
