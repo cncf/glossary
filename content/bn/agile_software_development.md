@@ -1,5 +1,5 @@
 ---
-title: অ্যাজাইল সফটওয়্যার ডেভলপমেন্ট (Agile software development)
+title: অ্যাজাইল সফটওয়্যার ডেভেলপমেন্ট (Agile Software Development)
 status: Completed
 category: ধারণা
 ---

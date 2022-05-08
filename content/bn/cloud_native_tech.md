@@ -1,5 +1,5 @@
 ---
-title: ক্লাউড নেটিভ প্রযুক্তি
+title: ক্লাউড নেটিভ প্রযুক্তি (Cloud Native Technology)
 status: Completed
 category: ধারণা 
 ---
