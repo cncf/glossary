@@ -7,23 +7,23 @@ menu:
     pre: <i class='fas fa-ruler-horizontal'></i>
 ---
 
-The following style guide is designed to help you understand the glossary definition structure and maintain a consistent style throughout.
+以下的风格指南旨在帮助你了解云原生词汇表的定义结构，并在整个过程中保持一致的风格。
 
-The Cloud Native Glossary follows the [default style guide](https://github.com/cncf/foundation/blob/master/style-guide.md) located in the CNCF's repository.  Additionally it follows the following rules:
+云原生词汇遵循位于CNCF资源库中的 [默认风格指南](https://github.com/cncf/foundation/blob/master/style-guide.md)。 此外，它还遵循以下规则：
 
-1. [Avoid colloquial language](https://en.wikipedia.org/wiki/Colloquialism)
-2. [Use literal and concrete language](https://guidetogrammar.org/grammar/composition/abstract.htm)
-3. [Omit contractions](https://en.wikipedia.org/wiki/Contraction_(grammar))
-4. [Use passive voice sparingly](https://www.ef.com/ca/english-resources/english-grammar/passive-voice/)
-5. [Aim to phrase statements in a positive form](https://examples.yourdictionary.com/positive-sentence-examples.html)
-6. [No exclamation marks outside of quotations](https://www.grammarly.com/blog/exclamation-mark/)
-7. Do not exaggerate
-8. Avoid repetition
-9. Be concise
+1. [避免使用俗语](https://en.wikipedia.org/wiki/Colloquialism)
+2. [使用字面和具体的语言](https://guidetogrammar.org/grammar/composition/abstract.htm)
+3. [省略缩略语](https://en.wikipedia.org/wiki/Contraction_(grammar))
+4. [少用被动语态](https://www.ef.com/ca/english-resources/english-grammar/passive-voice/)
+5. [力求以积极的形式表述](https://examples.yourdictionary.com/positive-sentence-examples.html)
+6. [引号外不加感叹号](https://www.grammarly.com/blog/exclamation-mark/)
+7. 不要夸大其词
+8. 避免重复
+9. 要简明扼要
 
 ## Definition Template
 
-Each glossary term is stored in a markdown file and follows this template:
+每个词汇表术语都存储在一个 markdown 文件中，并遵循这个模板：
 
 ```md
 ---
@@ -32,73 +32,73 @@ status:
 category: 
 ---
 
-## What it is
+## 是什么
 
-A quick summary of the technology or concept.
+对该技术或概念的快速总结。
 
-## Problem it addresses 
+## 解决的问题
 
-A few lines about the problem it's addressing.
+关于它所解决的问题的几句话。
 
-## How it helps
+## 如何帮助
 
-A few lines on how the thing solves the problem.
+用几句话说明这个东西是如何解决问题的。
 ```
 
-### Title
+### 标题
 
-The **title** label will always be at the top of a definition layout and its value should be in title case.
+**title** 标签将始终位于定义布局的顶部，其值应使用标题大小写。
 
 ```md
 ---
-title: Definition Template
+title: 定义模板
 ```
 
-### Status
+### 状态
 
-The **status** label will come after the title label. The status label indicates whether definitions are thoroughly vetted or require more effort.
+**status** 标签将出现在标题标签之后。状态标签表明定义是经过彻底审查还是未完成的。
 
-Valid values are:
+有效值：
 
 - Completed
 - Feedback Appreciated
 - Not Started
 
-You can always open an issue against a completed definition. While a definition is in flux, its status will be changed to *Feedback Appreciated*.
+你可以随时对一个已完成的定义提出问题。当一个定义处于变化中时，它的状态将被改变为 *Feedback Appreciated*。
 
 ```md
 ---
-title: Definition Template
+title: 定义模版
 status: Feedback Appreciated
 ```
 
-### Category
+### 类别
 
-The **category** label will come after the status label. Its value should be one of the following values:
+**category** 标签将出现在状态标签之后。它的值应该是以下值之一：
 
-- Technology
-- Property
-- Concept
+- 技术
+- 属性
+- 概念
 
 ```md
 ---
-title: Definition Template
+title: 定义模版
 status: Feedback Appreciated
-category: Concept
+category: 概念
 ---
 ```
 
-### Definition
+### 定义
 
-The definition contains three subheadings to give the readers context: "What it is", "Problem it addresses", and "How it helps". All three are required for terms in the Technology and Concept categories, however, Property definitions do not require these headings.
+该定义包含三个小标题，为读者提供背景："是什么"，"解决的问题"，以及 "如何帮助"。对于技术和概念类的术语来说，这三个标题都是必须的，然而，属性类的定义则不需要这些标题。
 
+## 受众
 
-## Audience
+云原生词汇表是为技术和非技术的受众准备的。因此，请确保用简单的术语解释定义，不要假设有技术知识。在适当的时候，使用现实世界的例子，帮助读者（尤其是非技术性读者）更好地理解你所解释的概念在什么时候和为什么是相关的。
+另外，在你的定义中使用术语时，要直接链接到词汇表（只有第一次提到时才应该有超链接），并确保通过拼写检查程序运行你的文本。
 
-The glossary is for a technical AND non-technical audience. So please ensure definitions are explained in simple terms and don't assume technical knowledge. When appropriate, use real-world examples that help readers (especially non-technical readers) better understand when and why the concept you're explaining is relevant. Also, link directly to glossary terms when used in your definition (only the first mention should be hyperlinked) and make sure to run your text through a spell check program.
+作为一个例子，看看 [服务网状](/zh-cn/service_mesh/)的“是什么”部分。它链接到了微服务、服务、可靠性和可观察性的定义，并使用了一个真实世界的例子，所以（非技术）读者可以更好地与网络挑战相联系（将其与每个人都熟悉的 wifi 网络相比较）。
 
-As an example, take a look at the "What it is" section of the [service mesh definition](/service_mesh). It links back to the microservices, service, reliability, and observability definitions and uses a real-world example so (non-technical) readers can better relate to network challenges (comparing it to a wifi network everyone is familiar with).
+在开始之前，请阅读本网站上的一些已发表的术语，这样你就能感觉到详细程度和难度，以及何时举例合适。
 
-Before getting started, please read some of the published terms on this site so you get a feeling for the level of detail and difficulty as well as when examples are appropriate.
-
-The definition of a term should be based on empirical evidence of contemporary usage as published in literature, academic articles, talks, and white papers. In some cases, a term will suffer from conflation, imprecise usage, or, even worse, outright conflicting definitions. In these cases, the Glossary Committers will consider proposed clarifications or focused definitions on a case-by-case basis.
+术语的定义应基于文献、学术文章、讲座和白皮书中公布的当代用法的经验证据。在某些情况下，一个术语会出现混淆、不精确的用法，或者更糟糕的是，定义完全冲突。在这些情况下，云原生词汇表委员会将逐一考虑建议的澄清或重点定义。
