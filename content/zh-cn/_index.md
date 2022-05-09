@@ -21,11 +21,10 @@ title: "云原生词汇表"
 包括 [Catherine Paganini](https://www.linkedin.com/in/catherinepaganini/en/), [Chris Aniszczyk](https://www.linkedin.com/in/caniszczyk/),
 [Daniel Jones](https://www.linkedin.com/in/danieljoneseb/?originalSubdomain=uk), [Jason Morgan](https://www.linkedin.com/in/jasonmorgan2/), [Katelin Ramer](https://www.linkedin.com/in/katelinramer/), [Mike Foster](https://www.linkedin.com/in/mfosterche/?originalSubdomain=ca), [Seokho Son](https://www.linkedin.com/in/seokho-son/) 以及更多的贡献者. 如想获得完整的贡献者名单, 请跳转至 [GitHub Pages 页](https://github.com/cncf/glossary/graphs/contributors).
 
-中文版的云原生词汇表由 [Chester Cheung](https://github.com/hanyuancheung/), [Brian Yan
-](https://github.com/Rocksnake/), [Jacob953 Yu](https://github.com/Jacob953/), [
-Submarinee](https://github.com/Submarinee/) 和其他贡献者维护。
-
-
+中文版的云原生词汇表由 [Chester Cheung](https://github.com/hanyuancheung), 
+[Brian Yan](https://github.com/Rocksnake), 
+[Jacob953 Yu](https://github.com/Jacob953), 
+[Submarinee](https://github.com/Submarinee) 和其他贡献者维护。
 
 ## 协议
 
