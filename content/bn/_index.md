@@ -14,10 +14,9 @@ title: "ক্লাউড নেটিভ শব্দকোষ"
 
 ## স্বীকৃতি
 
-ক্লাউড নেটিভ শব্দকোষটি CNCF মার্কেটিং দ্বারা সূচিত হয়েছিল
-কমিটি (CNCF Marketing Committee) এবং অন্তর্ভুক্ত
-থেকে অবদান [Catherine Paganini](https://www.linkedin.com/in/catherinepaganini/en/), [Chris Aniszczyk](https://www.linkedin.com/in/caniszczyk/),
-[Daniel Jones](https://www.linkedin.com/in/danieljoneseb/?originalSubdomain=uk), [Jason Morgan](https://www.linkedin.com/in/jasonmorgan2/), [Katelin Ramer](https://www.linkedin.com/in/katelinramer/), [Mike Foster](https://www.linkedin.com/in/mfosterche/?originalSubdomain=ca), [Seokho Son](https://www.linkedin.com/in/seokho-son/),[MD Shahriyar Al Mustakim Mitul](https://www.linkedin.com/in/md-shahriyar-al-mustakim-mitul-9084b31a0/), [Umme Abira Azmary](https://www.linkedin.com/in/umme-abira-azmary-68404a1bb/),[MD Ikramul Kayes](https://www.linkedin.com/in/md-ikramul-kayes-753674214/) এবং আরো অনেক অবদানকারী। একটি সম্পূর্ণ অবদানকারী তালিকার জন্য, অনুগ্রহ করে [এই GitHub পৃষ্ঠা](https://github.com/cncf/glossary/graphs/contributors) দেখুন.
+ক্লাউড নেটিভ পরিভাষাটি CNCF মার্কেটিং কমিটি ও বিভিএস দ্বারা প্রবর্তন করা হয়েছিল এবং এতে [Catherine Paganini](https://www.linkedin.com/in/catherinepaganini/en/), [Chris Aniszczyk](https://www.linkedin.com/in/caniszczyk/) , [Daniel Jones](https://www.linkedin.com/in/danieljoneseb/?originalSubdomain=uk), [Jason Morgan](https://www.linkedin.com/in/jasonmorgan2/) , [Katelin Ramer](https://www.linkedin.com/in/katelinramer/) , [Mike Foster](https://www.linkedin.com/in/mfosterche/?originalSubdomain=ca), [Seokho Son](https://www.linkedin.com/in/seokho-son/) এবং অন্যান্য অনেক অবদানকারীর অবদান অন্তর্ভুক্ত রয়েছে।
+
+ক্লাউড নেটিভ ভোকাবুলারির বাংলা স্থানীয়করণের সূচনা Bengali localization team দ্বারা করা হয়েছে এবং এতে অন্তর্ভুক্ত রয়েছে [MD Shahriyar Al Mustakim Mitul](https://www.linkedin.com/in/md-shahriyar-al-mustakim-mitul-9084b31a0/), [MD Ikramul Kayes](https://www.linkedin.com/in/md-ikramul-kayes-753674214/), [Umme Abira Azmary](https://www.linkedin.com/in/umme-abira-azmary-68404a1bb/) এবং আরও অনেক অবদানকারী।
 
 ## লাইসেন্স
 
