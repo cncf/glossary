@@ -21,7 +21,7 @@ Cloud Native Glossary 内容存储在 [this GitHub repo](https://github.com/cncf
 ## 提出新术语
 您可以提出一个新术语供其他人使用或自己创建一个新定义. 无论哪种方式, 您都将从创建问题开始(请注意, 您需要一个 GitHub 帐户来执行此操作).
 
-以下是针对尚未熟悉 GitHub 的人的分步指南. **如果你是 GitHub Pro 账户**, 请快速查看以确保您使用我们的问题模板、适当的命名约定、在 Slack 上声明 PR（否则我们可能会错过它）以及在哪里可以找到文件模板. 在开始之前, 请务必阅读 [Style Guide](/zh/style-guide/).
+以下是针对尚未熟悉 GitHub 的人的分步指南. **如果你是 GitHub Pro 账户**, 请快速查看以确保您使用我们的问题模板、适当的命名约定、在 Slack 上声明 PR（否则我们可能会错过它）以及在哪里可以找到文件模板. 在开始之前, 请务必阅读 [Style Guide](/zh-cn/style-guide/).
 
 ### 创建 issue
 前往 [Glossary GitHub repo](https://github.com/cncf/glossary/issues) 并点击 "new issue".
@@ -46,7 +46,7 @@ Cloud Native Glossary 内容存储在 [this GitHub repo](https://github.com/cncf
 
 ### 提交新术语 (创建 PR)
 
-在开始之前, 请阅读 [Style Guide](/zh/style-guide/) — 它将帮助减少来回次数. 如样式指南中所述, 我们强烈建议从 Google 或 Word 文档开始. 
+在开始之前, 请阅读 [Style Guide](/zh-cn/style-guide/) — 它将帮助减少来回次数. 如样式指南中所述, 我们强烈建议从 Google 或 Word 文档开始. 
 
 准备好提交术语后, 转到内容(在代码中)...
 
