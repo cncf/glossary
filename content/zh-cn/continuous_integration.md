@@ -7,7 +7,7 @@ category: 概念
 ## 是什么
 
 持续集成，通常缩写为CI，是尽可能定期集成代码变化的做法。
-CI 是 [持续交付](/continuous_delivery/)（CD）的前提。
+CI 是 [持续交付](/zh-cn/continuous_delivery/)（CD）的前提。
 传统上，CI 过程从代码修改提交到源码控制系统（Git、Mercurial 或 Subversion）时开始，以准备被CD系统使用的测试工件结束。
 
 ## 解决的问题
