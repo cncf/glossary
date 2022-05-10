@@ -9,11 +9,11 @@ category: 技术
 Kubernetes，通常缩写为K8s，是一种流行的现代基础设施自动化的开源工具。
 它就像一个数据中心的操作系统，管理在 [分布式系统](/zh-cn/distributed_systems/) 上运行的应用程序（就像你笔记本上的操作系统，管理你的应用程序）。
 
-Kubernetes在 [集群](/zh-cn/cluster/) 的 [节点](/zh-cn/nodes/) 上调度 [容器](/zh-cn/container/)。
+Kubernetes在 [集群](/zh-cn/cluster/) 的 [节点](/nodes/) 上调度 [容器](/zh-cn/container/)。
 它捆绑了几个基础设施结构，有时被称为 "基元"，如应用程序的实例、负载平衡器、持久性存储等，以一种可以被组成应用程序的方式。
 
 Kubernetes 实现了自动化和可扩展性，使用户能够以可重复的方式声明性地部署应用程序。
-Kubernetes 生态系统中的软件产品和项目利用这种自动化和可扩展性来扩展 Kubernetes [API](/zh-cn/application_programming_interface/) 。
+Kubernetes 生态系统中的软件产品和项目利用这种自动化和可扩展性来扩展 Kubernetes [API](/application_programming_interface/) 。
 这使他们能够利用 Kubernetes 的自动化，并使他们的工具更容易被有经验的 Kubernetes 从业者所接受。
 
 ## 解决的问题
