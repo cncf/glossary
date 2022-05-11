@@ -1,4 +1,5 @@
 ---
+<<<<<<< HEAD
 title: অ্যাবস্ট্রাকশন (Abstraction)
 status: Completed
 category: বৈশিষ্ট্য
