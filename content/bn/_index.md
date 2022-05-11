@@ -19,7 +19,6 @@ title: "ক্লাউড নেটিভ শব্দকোষ"
 
 ক্লাউড নেটিভ ভোকাবুলারির বাংলা স্থানীয়করণের সূচনা [Bengali localization team](https://cloud-native.slack.com/archives/C02UG2WGXQQ) দ্বারা করা হয়েছে এবং এতে অন্তর্ভুক্ত রয়েছে [MD Shahriyar Al Mustakim Mitul](https://www.linkedin.com/in/md-shahriyar-al-mustakim-mitul-9084b31a0/), [MD Ikramul Kayes](https://www.linkedin.com/in/md-ikramul-kayes-753674214/), [Umme Abira Azmary](https://www.linkedin.com/in/umme-abira-azmary-68404a1bb/) এবং আরও অনেক অবদানকারী।
 
-
 ## লাইসেন্স
 
 সমস্ত কোড অবদান Apache 2.0 লাইসেন্সের অধীনে। ডকুমেন্টেশন CC BY 4.0 এর অধীনে বিতরণ করা হয়।
