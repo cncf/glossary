@@ -1,10 +1,9 @@
 ---
-title: কিভাবে অবদান রাখতে হবে
+title: কিভাবে কোডে  অবদান রাখতে হবে
 toc_hide: true
 menu:
   main:
     weight: 10
-    pre: <i class='fas fa-pen-square'></i>
 ---
 ক্লাউড নেটিভ শব্দকোষের(glossary) সমস্ত বিষয়বস্তু এই Github Repo সংরক্ষণ করা হয়েছে। আপনি সেখানে [issues](https://github.com/cncf/glossary/issues), [PRs](https://github.com/cncf/glossary/pulls) এবং শব্দকোষ(glossary) সম্পর্কে [আলোচনার](https://github.com/cncf/glossary/discussions) একটি তালিকা পাবেন।
 
@@ -123,6 +122,5 @@ URL-এ শব্দের নাম যোগ করুন (কোনও ক্
 
 ## শব্দকোষ অনুবাদ করতে সাহায্য করুন
 আপনার মাতৃভাষায় শব্দকোষটি অনুবাদ করতে সাহায্য করতে, অনুগ্রহ করে CNCF Slack-এ #glossary-localizations চ্যানেলে যোগ দিন এবং আমাদের জানান। আপনি হয় একটি বিদ্যমান দলে যোগ দিতে পারেন বা একটি নতুন দল তৈরি করতে পারেন (এটি কী নেয় তা দেখতে, চেক আউট করুন বা [স্থানীয়করণ গাইড](https://github.com/cncf/glossary/blob/main/LOCALIZATION.md))। এছাড়াও আমাদের মাসিক শব্দকোষ ওয়ার্কিং গ্রুপ মিটিং যোগদান করুন. আপনি [CNCF ক্যালেন্ডার](https://www.cncf.io/calendar/) এ মিটিংয়ের বিশদ বিবরণ পেতে পারেন। আমরা সেখানে আপনার সাথে দেখা করার জন্য উন্মুখ!
-
 
 
