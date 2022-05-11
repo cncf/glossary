@@ -21,7 +21,7 @@ menu:
 ## 在现有的议题上工作
 进入云原生词汇表 GitHub 仓库的 [议题](https://github.com/cncf/glossary/issues)。在那里你会看到一个所有议题的列表。你可以通过标签来过滤（例如，English language, help needed, good first issue）。请注意，你需要一个 GitHub 账户来做这些事情。
 
-! [Issue 和 labels](/images/how-to/issue-and-labels.png)
+![Issue 和 labels](/images/how-to/issue-and-labels.png)
 
 确保你感兴趣的术语还没有分配给某人。这里你可以看到，前三个术语是可用的，而下一个术语已经被分配了：
 
@@ -33,12 +33,12 @@ menu:
 
 此外，请加入 CNCF Slack 的 [#glossary](https://cloud-native.slack.com/archives/C02TX20MQBB) 频道，让维护者知道你为一个新术语提出了一个议题（最好标记 <em>@Catherine Paganini</em>, <em>@jmo</em>, <em>@Seokho Son</em>, <em>@Jihoon Seo</em>, 和/或 <em>@iamnoah<em> 以确保他们不会错过它）。请注意，你一次只能认领一个术语。如果你想做多个术语，请在申请下一个术语之前完成前一个术语。
 
-一旦他们把它分配给你，你就可以开始工作了。接下来的步骤，请参考 [提交新术语（创建PR）](#提交新术语（创建PR）)部分。
+一旦他们把它分配给你，你就可以开始工作了。接下来的步骤，请参考 [提交一个新术语（创建一个PR）](#submitting-a-new-term)部分。
 
 ## 提出新术语
 你可以提出一个新的术语让别人去研究，或者自己创造一个新的定义。无论哪种方式，你都要从创建一个议题开始。请注意，术语必须符合 [CNCF的云原生定义](https://github.com/cncf/toc/blob/main/DEFINITION.md)。唯一的例外是理解云原生概念所需的基础性术语。
 
-以下是为那些还不熟悉 GitHub 的人提供的分步指南。**如果你是 GitHub 的专业人员**，请**特别**看一下，确保你使用我们的议题模板，适当的命名惯例，在 Slack 上声明一个 PR（否则我们可能会错过它），以及在哪里找到文件模板。在开始之前，请确保阅读 [风格指南](/style-guide/)--谢谢! 
+以下是为那些还不熟悉 GitHub 的人提供的分步指南。**如果你是 GitHub 的专业人员**，请**特别**看一下，确保你使用我们的议题模板，适当的命名惯例，在 Slack 上声明一个 PR（否则我们可能会错过它），以及在哪里找到文件模板。在开始之前，请确保阅读 [风格指南](content/zh-cn/)--谢谢! 
 
 ### 创建议题
 进入云原生词汇表 GitHub 仓库的 [议题](https://github.com/cncf/glossary/issues)，点击 "new issue"。
@@ -58,7 +58,7 @@ menu:
 
 请注意，你一次只能申请一个术语。如果你想做多个术语，请在申请下一个术语之前完成前一个术语。
 
-### 提交新术语（创建PR）
+### 提交新术语 (创建 PR) {#submitting-a-new-term}
 
 在开始之前，请阅读 [风格指南](/style-guide/)--它将有助于减少来回奔波。正如风格指南中所述，我们强烈建议从 Google 或 Word 文档开始。
 
