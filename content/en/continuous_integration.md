@@ -13,6 +13,6 @@ Software systems are often large and complex, with numerous developers maintaini
 ## How it helps
 CI software automatically checks that code changes merge cleanly whenever a developer commits a change. It's a near-ubiquitous practice to use the CI server to run code quality checks, tests, and even deployments. As such, it becomes a concrete implementation of quality control within teams. CI allows software teams to turn every code commit into either a concrete failure or a viable release candidate.
 
-## Please also refer to
+## Related terms
 * [Continuous Delivery](/continuous_delivery/)
 * [Continuous Deployment](/continuous_deployment/)

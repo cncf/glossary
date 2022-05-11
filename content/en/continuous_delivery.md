@@ -13,7 +13,7 @@ Deploying [reliable](/reliability/) updates becomes a problem at scale. Ideally,
 ## How it helps
 CD strategies create a fully automated path to production that tests and deploys the software using various deployment strategies such as [canary](/canary_deployment/) or [blue-green](/blue_green_deployment/) releases. This allows developers to deploy code frequently,  giving them peace of mind that the new revision has been tested. Typically, trunk-based development is used in CD strategies as opposed to feature branching or pull requests.
 
-## Please also refer to
+## Related terms
 * [Continuous Integration](/continuous_integration/)
 * [Continuous Deployment](/continuous_deployment/)
 

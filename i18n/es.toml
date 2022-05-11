@@ -1,0 +1,71 @@
+
+
+# UI strings. Buttons and similar.
+
+[ui_pager_prev]
+other = "Anterior"
+
+[ui_pager_next]
+other = "Siguiente"
+
+[ui_read_more]
+other = "Leer más"
+
+[ui_search]
+other = "Buscar en este sitio…"
+
+# Used in sentences such as "Posted in News"
+[ui_in]
+other = "en"
+
+# Used in sentences such as "All Tags"
+[ui_all]
+other = "todo(a)"
+
+# Footer text
+[footer_all_rights_reserved]
+other = "Todos los derechos reservados"
+
+[footer_privacy_policy]
+other = "Política de privacidad"
+
+
+# Post (blog, articles etc.)
+[post_byline_by]
+other = "Por"
+[post_created]
+other = "Creado"
+[post_last_mod]
+other = "Modificado(a) por última vez"
+[post_edit_this]
+other = "Editar esta página"
+[post_create_child_page]
+other = "Crear página hija"
+[post_create_issue]
+other = "Reportar un issue"
+[post_create_project_issue]
+other = "Crear un issue en el proyecto"
+[post_posts_in]
+other = "Publicar en"
+[post_reading_time]
+other = "minuto(s) de lectura"
+
+# Print support
+[print_printable_section]
+other = "Esta es una página con vista imprimible de esta sección."
+[print_click_to_print]
+other = "Presiona aquí para imprimir"
+[print_show_regular]
+other = "Regresar a la vista regular de esta página"
+[print_entire_section]
+other = "Imprimir la sección completa"
+
+# Feedback section
+[feedback_title]
+other = "Comentarios"
+[feedback_question]
+other = "¿Esta página le ha sido de ayuda?"
+[feedback_answer_yes]
+other = "Sí"
+[feedback_answer_no]
+other = "No"
