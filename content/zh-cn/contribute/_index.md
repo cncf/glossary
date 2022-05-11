@@ -31,12 +31,12 @@ menu:
 
 ![提出一个议题](/images/how-to/claiming-an-issue.png)
 
-此外，请加入 CNCF Slack 的 [#glossary](https://cloud-native.slack.com/archives/C02TX20MQBB) 频道，让维护者知道你为一个新术语提出了一个议题（最好标记 _@Catherine Paganini_, _@jmo_, _@Seokho Son_, _@Jihoon Seo_, 和/或 _@iamnoah_ 以确保他们不会错过它）。请注意，你一次只能认领一个术语。如果你想做多个术语，请在申请下一个术语之前完成前一个术语。
+此外，请加入 CNCF Slack 的 [#glossary](https://cloud-native.slack.com/archives/C02TX20MQBB) 频道，让维护者知道你为一个新术语提出了一个议题（最好标记 <em>@Catherine Paganini</em>, <em>@jmo</em>, <em>@Seokho Son</em>, <em>@Jihoon Seo</em>, 和/或 <em>@iamnoah<em> 以确保他们不会错过它）。请注意，你一次只能认领一个术语。如果你想做多个术语，请在申请下一个术语之前完成前一个术语。
 
-一旦他们把它分配给你，你就可以开始工作了。接下来的步骤，请参考 [提交一个新术语（创建一个PR）](#submitting-a-new-term-creating-a-pr)部分。
+一旦他们把它分配给你，你就可以开始工作了。接下来的步骤，请参考 [提交新术语（创建PR）](#提交新术语（创建PR）)部分。
 
 ## 提出新术语
-你可以提出一个新的术语让别人去研究，或者自己创造一个新的定义。无论哪种方式，你都要从创建一个议题开始。请注意，术语必须符合 [CNCF的云原生定义]（https://github.com/cncf/toc/blob/main/DEFINITION.md）。唯一的例外是理解云原生概念所需的基础性术语。
+你可以提出一个新的术语让别人去研究，或者自己创造一个新的定义。无论哪种方式，你都要从创建一个议题开始。请注意，术语必须符合 [CNCF的云原生定义](https://github.com/cncf/toc/blob/main/DEFINITION.md)。唯一的例外是理解云原生概念所需的基础性术语。
 
 以下是为那些还不熟悉 GitHub 的人提供的分步指南。**如果你是 GitHub 的专业人员**，请**特别**看一下，确保你使用我们的议题模板，适当的命名惯例，在 Slack 上声明一个 PR（否则我们可能会错过它），以及在哪里找到文件模板。在开始之前，请确保阅读 [风格指南](/style-guide/)--谢谢! 
 
@@ -54,11 +54,11 @@ menu:
 ### 分流你的议题
 接下来，维护者将对该议题进行分流。这意味着他们将评估该术语是否应成为术语表的一部分（注意，不是每个术语都会被接受。术语应该是既定的、广泛使用的云计算原生术语）。
 
-请让维护者知道你已经在 Slack 上提交了一个术语，否则他们可能会错过它。最好是给_@Catherine Paganini_、_@jmo_、_@Seokho Son_、_@Jihoon Seo_和/或_@iamnoah_打上标签。如果该术语被批准，并且你想从事该工作，他们会将其分配给你。
+请让维护者知道你已经在 Slack 上提交了一个术语，否则他们可能会错过它。最好标记 <em>@Catherine Paganini</em>, <em>@jmo</em>, <em>@Seokho Son</em>, <em>@Jihoon Seo</em>, 和/或 <em>@iamnoah<em>。如果该术语被批准，并且你想从事该工作，他们会将其分配给你。
 
 请注意，你一次只能申请一个术语。如果你想做多个术语，请在申请下一个术语之前完成前一个术语。
 
-### 提交新术语 (创建 PR)
+### 提交新术语（创建PR）
 
 在开始之前，请阅读 [风格指南](/style-guide/)--它将有助于减少来回奔波。正如风格指南中所述，我们强烈建议从 Google 或 Word 文档开始。
 
