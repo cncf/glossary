@@ -4,7 +4,6 @@ toc_hide: true
 menu:
   main:
     weight: 10
-    pre: <i class='fas fa-pen-square'></i>
 ---
 ক্লাউড নেটিভ শব্দকোষের(glossary) সমস্ত বিষয়বস্তু এই Github Repo সংরক্ষণ করা হয়েছে। আপনি সেখানে [issues](https://github.com/cncf/glossary/issues), [PRs](https://github.com/cncf/glossary/pulls) এবং শব্দকোষ(glossary) সম্পর্কে [আলোচনার](https://github.com/cncf/glossary/discussions) একটি তালিকা পাবেন।
 
