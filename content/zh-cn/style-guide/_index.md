@@ -4,7 +4,6 @@ toc_hide: true
 menu:
   main:
     weight: 10 
-    pre: <i class='fas fa-ruler-horizontal'></i>
 ---
 
 以下的风格指南旨在帮助你了解云原生词汇表的定义结构，并在整个过程中保持一致的风格。

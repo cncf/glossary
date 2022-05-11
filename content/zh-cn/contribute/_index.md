@@ -4,7 +4,6 @@ toc_hide: true
 menu:
   main:
     weight: 10
-    pre: <i class='fas fa-pen-square'></i>
 ---
 
 Cloud Native Glossary 内容存储在 [this GitHub repo](https://github.com/cncf/glossary) 中, 您可以在其中找到关于 glossary 的 [issues](https://github.com/cncf/glossary/issues), [PRs](https://github.com/cncf/glossary/pulls), 和 [discussions](https://github.com/cncf/glossary/discussions). 
@@ -103,9 +102,5 @@ Cloud Native Glossary 内容存储在 [this GitHub repo](https://github.com/cncf
 
 这将打开术语的 GitHub 页面. 进行更改并提交 PR. 有关详细说明, 请参阅上面的“提交新术语”(跳转到有关降价的部分).
 
-## Help translate the glossary
-为了帮助将词汇表翻译成您的母语, 请加入 CNCF Slack 上的#glossary-localizations 频道并告诉我们. 您可以加入现有团队或创建新团队（要查看需要什么, 请查看 [Localization Guide](https://github.com/cncf/glossary/blob/main/LOCALIZATION.md)). 也请参加我们每月的词汇表工作组会议. 你可以在 [CNCF calendar](https://www.cncf.io/calendar/) 中找到会议详情. 我们期待在那里与您见面！
-
-
-
-
+## 云原生词汇表翻译帮助
+为了帮助将云原生词汇表翻译成您的母语, 请加入 CNCF Slack 上的 #glossary-localizations 频道并告诉我们. 您可以加入现有团队或创建新团队（要查看需要什么, 请查看 [Localization Guide](https://github.com/cncf/glossary/blob/main/LOCALIZATION.md)). 也请参加我们每月的词汇表工作组会议. 你可以在 [CNCF calendar](https://www.cncf.io/calendar/) 中找到会议详情. 我们期待在那里与您见面！
