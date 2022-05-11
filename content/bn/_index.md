@@ -14,6 +14,7 @@ title: "ক্লাউড নেটিভ শব্দকোষ"
 
 ## স্বীকৃতি
 
+
 ক্লাউড নেটিভ শব্দকোষটি CNCF মার্কেটিং কমিটি (বিজনেস ভ্যালু সাবকমিটি) দ্বারা সূচিত হয়েছিল এবং এতে [Catherine Paganini](https://www.linkedin.com/in/catherinepaganini/en/), [Chris Aniszczyk](https://www.linkedin.com/in/caniszczyk/) , [Daniel Jones](https://www.linkedin.com/in/danieljoneseb/?originalSubdomain=uk), [Jason Morgan](https://www.linkedin.com/in/jasonmorgan2/) , [Katelin Ramer](https://www.linkedin.com/in/katelinramer/) , [Mike Foster](https://www.linkedin.com/in/mfosterche/?originalSubdomain=ca) এবং আরও অনেক অবদানকারীর অবদান অন্তর্ভুক্ত রয়েছে। একটি সম্পূর্ণ অবদানকারী তালিকার জন্য, অনুগ্রহ করে এই [GitHub পৃষ্ঠাটি](https://github.com/cncf/glossary/graphs/contributors) দেখুন।
 
 
