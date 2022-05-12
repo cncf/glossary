@@ -19,7 +19,9 @@ Anyone who wishes to make a contribution may submit a GitHub issue or create a p
 The Cloud Native Glossary was initiated by the CNCF Marketing
 Committee (Business Value Subcommittee) and includes
 contributions from [Catherine Paganini](https://www.linkedin.com/in/catherinepaganini/en/), [Chris Aniszczyk](https://www.linkedin.com/in/caniszczyk/),
-[Daniel Jones](https://www.linkedin.com/in/danieljoneseb/?originalSubdomain=uk), [Jason Morgan](https://www.linkedin.com/in/jasonmorgan2/), [Katelin Ramer](https://www.linkedin.com/in/katelinramer/), [Mike Foster](https://www.linkedin.com/in/mfosterche/?originalSubdomain=ca), [Seokho Son](https://www.linkedin.com/in/seokho-son/) and many more contributors. For a complete contributor list, please refer to [this GitHub page](https://github.com/cncf/glossary/graphs/contributors).
+[Daniel Jones](https://www.linkedin.com/in/danieljoneseb/?originalSubdomain=uk), [Jason Morgan](https://www.linkedin.com/in/jasonmorgan2/), [Katelin Ramer](https://www.linkedin.com/in/katelinramer/), [Mike Foster](https://www.linkedin.com/in/mfosterche/?originalSubdomain=ca), and many more contributors. For a complete contributor list, please refer to [this GitHub page](https://github.com/cncf/glossary/graphs/contributors).
+
+The Glossary is maintained by [Catherine Paganini](https://www.linkedin.com/in/catherinepaganini/en/), [Jason Morgan](https://www.linkedin.com/in/jasonmorgan2/), [Jihoon Seo](https://www.linkedin.com/in/jihoon-seo/), [Noah Ispas](https://www.linkedin.com/in/noah-ispas-0665b42a/), and [Seokho Son](https://www.linkedin.com/in/seokho-son/).
 
 ## License
 
