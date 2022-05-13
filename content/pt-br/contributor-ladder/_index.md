@@ -20,7 +20,7 @@ Existem várias formas de você contribuir com o projeto, incluindo:
 - **Voluntários**: qualquer pessoa que ajude os outros no Github, Slack ou qualquer membro da comunidade que precise de ajuda;
 - **Embaixadores**: qualquer pessoa que ajude a divulgar o projeto e ajudar a a contribuir.
 
-Contribuidores podem ter múltiplas funções ou focar em uma única área. **Todas as contribuições são igualmente importantes** e ajudam no crescimento da comunidade. Para contribuições em conteúdo e localização, veja o [guia de contribuição](https://glossary.cncf.io/pt-br/contribute/) e o [guia de estilo](https://glossary.cncf.io/pt-br/style-guide/).
+Contribuidores podem ter múltiplas funções ou focar em uma única área. **Todas as contribuições são igualmente importantes** e ajudam no crescimento da comunidade. Para contribuições em conteúdo e localização, veja o [guia de contribuição](/pt-br/contribute/) e o [guia de estilo](/pt-br/style-guide/).
 
 ## 2. Aprovadores
 
@@ -96,3 +96,4 @@ Se e quando os níveis de comprometimento dos contribuidores mudam, os contribui
 ## Voltando para uma função anterior
 
 Se e quando alguém estiver disponível para voltar a uma função de colaborador anterior, a liderança do projeto pode providenciar e considerar isso.
+
