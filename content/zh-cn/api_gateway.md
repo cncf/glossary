@@ -11,8 +11,6 @@ category: 技术
 
 ## 解决的问题
 
-If you’re making APIs available to external consumers, you'll want one entry point to manage and control all access. Additionally, if you need to apply functionality on those interactions, an API gateway allows you to uniformly apply it to all traffic without requiring any app code changes.
-
 当你的应用需要为外部消费者提供 API 时，你通常需要一个统一的入口来管理和控制所有的访问。此外，如果你需要对这些交互添加某种功能，也可以在不更改任何应用代码的情况下为所有的流量实现新功能。
 
 ## 如何帮助
