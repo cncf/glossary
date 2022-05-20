@@ -1,5 +1,5 @@
 ---
-title: क्लाइंट-सर्वर आर्किटेक्चर
+title: क्लाइंट-सर्वर आर्किटेक्चर (Client-Server Architecture)
 status: Completed
 category: अवधारणा
 ---
