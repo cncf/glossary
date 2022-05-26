@@ -13,7 +13,7 @@ Kubernetes在 [集群](/zh-cn/cluster/) 的 [节点](/nodes/) 上调度 [容器]
 它捆绑了几个基础设施结构，有时被称为 "基元"，如应用程序的实例、负载平衡器、持久性存储等，以一种可以被组成应用程序的方式。
 
 Kubernetes 实现了自动化和可扩展性，使用户能够以可重复的方式声明性地部署应用程序。
-Kubernetes 生态系统中的软件产品和项目利用这种自动化和可扩展性来扩展 Kubernetes [API](/application-programming-interface/) 。
+Kubernetes 生态系统中的软件产品和项目利用这种自动化和可扩展性来扩展 Kubernetes [API](/zh-cn/application-programming-interface/) 。
 这使他们能够利用 Kubernetes 的自动化，并使他们的工具更容易被有经验的 Kubernetes 从业者所接受。
 
 ## 解决的问题
