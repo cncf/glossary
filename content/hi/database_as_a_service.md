@@ -1,5 +1,5 @@
 ---
-title: क्लाउड नेटिव प्रौद्योगिकी (Cloud Native Tech)
+title: डेटाबेस-एज़-ए-सर्विस (DBaaS)
 status: Completed
 category: प्रौद्योगिकी
 ---
