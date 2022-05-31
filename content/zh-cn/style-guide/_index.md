@@ -18,7 +18,7 @@ menu:
 6. [力求以积极的形式表述](https://examples.yourdictionary.com/positive-sentence-examples.html)
 7. [引号外不加感叹号](https://www.grammarly.com/blog/exclamation-mark/)
 8. 不要夸大其词
-9.  避免重复
+9. 避免重复
 10. 要简明扼要
 
 ## Definition Template

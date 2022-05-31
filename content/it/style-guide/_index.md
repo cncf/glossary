@@ -24,7 +24,6 @@ Il Glossario Cloud Native rispetta la [Guida di Stile](https://github.com/cncf/f
 
 Consigliamo di dare un'occhiata a questi [set di regole grammaticali](https://grammatica-italiana.dossier.net/grammatica-italiana-17.htm) e alle [40 regole di scrittura di Umberto Eco per scrivere bene in italiano](https://bologna.unicusano.it/universita/scrivere-correttamente-in-italiano/). Possono essere di aiuto.
 
-
 ## Destinatari
 
 Il Glossario è scritto sia per un pubblico di destinazione tecnico sia per un pubblico di destinazione NON-tecnico. Per questa ragione assicurati che le definizioni siano espresse in termini semplici e che non diano per scontata una conoscenza tecnica pregressa. Lo spieghiamo meglio nel paragrafo [*Definizioni*](#template-definizioni).
@@ -108,7 +107,7 @@ Le definizioni categorizzate come **technology** e **concept** prevedono tre par
 
 La label **properties** non richiede un paragrafo a sé. La definizione è più che sufficiente. 
 
-#### Semplice è meglio!
+#### Semplice è meglio
 
 Il Glossario ha come ultimo obiettivo **spiegare concetti complessi in parole semplici** — qualcosa di sorprendentemente difficile che richiederà quasi per certo svariate revisioni. Il consiglio è di tenere sempre ben presente il pubblico di destinazione, mentre si descrive un termine. Bisognerebbe evitare l'uso di espressioni eccessivamente tecniche e buzzword di varia natura. Lo evidenziamo perché ti troverai quasi per certo a farlo anche tu involontariamente e dovrai rivedere i tuoi contenuti.
 
@@ -125,7 +124,6 @@ Ti suggeriamo di iniziare a lavorare su un Word o un Google doc, in modo da lasc
 Per avere la certezza di non aprire una PR sovrapponendoti a qualcun altro o viceversa, fa' in modo di richiedere l'assegnazione di una issue (o di aprirne una). Per saperne di più leggi [Come contribuire](/it/contribute/).
 
 Ultimo suggerimento di carattere redazionale, prima di buttarti nella scrittura: prova a leggere qualche termine già pubblicato nel Glossario in modo da intuire il livello di dettaglio richiesto e le relative difficoltà, nonché l'utilizzo di esempi, come già citato sopra.
-
 
 ## Il processo di revisione: cosa aspettarsi 
 

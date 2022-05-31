@@ -15,5 +15,3 @@ Software that runs on a single computer presents a single point of failure — i
 ## How it helps
 
 Clustered, distributed applications run across multiple machines, eliminating a single point of failure. But building distributed systems is really hard. In fact, it's a computer science discipline in its own right. The need for global systems and years of trial and error led to the development of a new kind of tech stack: [cloud native technologies](/cloud_native_tech/). These new technologies are the building blocks that make the operation and creation of distributed systems easier.
-
-

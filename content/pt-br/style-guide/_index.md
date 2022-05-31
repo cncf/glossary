@@ -64,8 +64,8 @@ title: Modelo de Definição
 
 A label `status` vem logo depois da label de título. Essa label serve para indicar se a definição já está completamente revisada e aprovada, ou se requer mais esforços.
 
-
 Os valores aceitos são:
+
 - Completed (em português, finalizado)
 - Feedback Appreciated  (em português, aceitando feedbacks)
 - Not Started (em português, não iniciado)
@@ -97,6 +97,7 @@ category: Conceito
 ### Definição do glossário
 
 #### Subcabeçalhos
+
 As definições para **tecnologia** e **conceito** contém três subcabeçalhos:
 
 - **O que é**: forneça uma visão curta e clara da definição abordada.

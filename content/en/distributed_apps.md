@@ -15,4 +15,3 @@ An application running on one single computer represents a single point of failu
 ## How it helps
 
 When splitting an application into different pieces and running them in many places, the overall system can tolerate more failures. It also allows an application to take advantage of scaling features not available to a single application instance, namely the ability to [scale horizontally](/horizontal_scaling/). This does, however, come at a cost: increased complexity and operational overhead — you’re now running lots of application components instead of one app.
-
