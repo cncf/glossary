@@ -49,6 +49,7 @@ datacenter
 datadog
 de
 declaratively
+decrypted
 definitions
 dependabot
 deployable
@@ -165,6 +166,7 @@ snippets
 socio
 sre
 sres
+ssl
 stateful
 striphtml
 subnets

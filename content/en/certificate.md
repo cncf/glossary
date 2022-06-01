@@ -12,7 +12,7 @@ A Certificate, often referred to as digital certificate, public key certificate 
 
 ## Problem it addresses
 
-Communication over the internet is not encrypted by default. That means that all communication could potentially be intercepted and sensitive information like usernames and passwords, for example, could be leaked. Think about your favorite coffeeshop or a hotel lobby, where you connect to the available wifi router. Someone could get between your device and the wifi router and grab your credentials or read your emails and chats.
+Communication over the internet is not encrypted by default. That means that all communication could potentially be intercepted and sensitive information like usernames and passwords, for example, could be leaked. Think about your favorite coffee shop or a hotel lobby, where you connect to the available wifi router. Someone could get between your device and the wifi router and grab your credentials or read your emails and chats.
 
 
 ## How it helps
