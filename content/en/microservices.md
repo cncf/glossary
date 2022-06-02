@@ -13,7 +13,7 @@ For instance, a single page that allows you to access, search, and preview video
 powered by smaller services that each handle one aspect of it 
 (e.g. search, authentication, and running previews in your browser). 
 In short, microservices refer to an application architecture pattern 
-usually contrasted with [monolithic applications](/monolithic_apps/).
+usually contrasted with [monolithic applications](/monolithic-apps/).
 
 ## Problem it addresses
 
@@ -25,7 +25,7 @@ In a monolithic application, those bits of logic can't be deployed separately.
 If you can't scale the product functionality individually, 
 you'll have to duplicate the entire app with all other components you don't need – an inefficient use of resources.
 Monolithic applications also make it easy for developers to succumb to design pitfalls. 
-Because all the code is in one place, it is easier to make that code [tightly-coupled](/tightly_coupled_architectures/) and 
+Because all the code is in one place, it is easier to make that code [tightly-coupled](/tightly-coupled-architectures/) and 
 harder to enforce the principle of separation of concerns. 
 Monoliths often require developers to understand the entire codebase before they can be productive.
 
@@ -36,4 +36,4 @@ By allowing different teams to focus on their own small part of a bigger applica
 you also make it easier for them to work on their apps without negatively impacting the rest of the organization.
 While microservices solve many problems, they also create operational overhead 
 — the things you need to deploy and keep track of increase by order of magnitude or more. 
-Many [cloud-native technologies](/cloud_native_tech/) aim to make microservices easier to deploy and manage.
+Many [cloud-native technologies](/cloud-native-tech/) aim to make microservices easier to deploy and manage.

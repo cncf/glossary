@@ -6,7 +6,7 @@ category: Technology
 
 ## What it is
 
-Database-as-a-Service (DBaaS) is a service managed by a [cloud](/cloud_computing/) operator (public or private) 
+Database-as-a-Service (DBaaS) is a service managed by a [cloud](/cloud-computing/) operator (public or private) 
 that supports applications without requiring the application team to 
 perform traditional database administration functions. 
 DBaaS allows app developers to leverage databases without being experts or 

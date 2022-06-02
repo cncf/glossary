@@ -11,11 +11,11 @@ Questa guida ti aiuterà a comprendere chi sono i destinatari del Glossario, la 
 Il Glossario Cloud Native rispetta la [Guida di Stile](https://github.com/cncf/foundation/blob/master/style-guide.md) del repository CNCF, ma si è posto regole aggiuntive e specifiche:
 
 1. Usa un linguaggio semplice, accessibile e che eviti tecnicismi spinti e buzzwords
-2. Evita un linguaggio eccessivamente colloquiale
-3. Usa un linguaggio concreto ed espressioni letterali
+2. [Evita un linguaggio eccessivamente colloquiale](https://en.wikipedia.org/wiki/Colloquialism)
+3. [Usa un linguaggio concreto ed espressioni letterali](https://guidetogrammar.org/grammar/composition/abstract.htm)
 4. Fai attenzione agli accenti, alla correlazione dei tempi verbali e alla punteggiatura
-5. Prediligi la forma attiva
-6. Utilizza preferibilmente la forma affermativa
+5. [Prediligi la forma attiva](https://www.ef.com/ca/english-resources/english-grammar/passive-voice/)
+6. [Utilizza preferibilmente la forma affermativa](https://examples.yourdictionary.com/positive-sentence-examples.html)
 7. Non eccedere con le parentesi
 8. Non esagerare
 9. Evita le ripetizioni
@@ -115,7 +115,7 @@ Quando opportuno, fa' riferimenti ad **esempi reali** che aiutino i lettori (sop
 
 Se vengono menzionati lemmi che sono già disponibili, ricordati di **inserire un link alla definizione presente nel Glossario** (è sufficiente farlo solo la prima volta che viene usato nel testo).
 
-**Esempio**: dà un'occhiata al paragrafo "Cos'è" del [lemma service mesh](/service_mesh/). Se noti, contiene link ai termini microservices, service, reliability e observability. Inoltre, il confronto tra le criticità del network in un ambiente a microservizi (qualcosa di tecnico con cui è difficile relazionarsi da non tecnici) con le problematiche di una rete wi-fi (un esempio che chiunque usi un portatile può capire) permette una migliore comprensione generale. Quando possibile, cerca di individuare una connessione simile tra i due mondi.
+**Esempio**: dà un'occhiata al paragrafo "Cos'è" del [lemma service mesh](/service-mesh/). Se noti, contiene link ai termini microservices, service, reliability e observability. Inoltre, il confronto tra le criticità del network in un ambiente a microservizi (qualcosa di tecnico con cui è difficile relazionarsi da non tecnici) con le problematiche di una rete wi-fi (un esempio che chiunque usi un portatile può capire) permette una migliore comprensione generale. Quando possibile, cerca di individuare una connessione simile tra i due mondi.
 
 #### Inizia con un Word o un Google doc
 

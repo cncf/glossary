@@ -6,7 +6,7 @@ category: Property
 
 Loosely coupled architecture is an architectural style 
 where the individual components of an application are built independently from one another 
-(the opposite paradigm of [tightly coupled architectures](/tightly_coupled_architectures/)). 
+(the opposite paradigm of [tightly coupled architectures](/tightly-coupled-architectures/)). 
 Each component, sometimes referred to as a [microservice](/microservices/), is built to perform a specific function 
 in a way that can be used by any number of other services. 
 This pattern is generally slower to implement than tightly coupled architecture 

@@ -6,12 +6,12 @@ category: concept
 
 ## What it is
 
-Chaos Engineering or CE is the discipline of experimenting on a [distributed system](/distributed_systems/) in production 
+Chaos Engineering or CE is the discipline of experimenting on a [distributed system](/distributed-systems/) in production 
 to build confidence in the system's capability to withstand turbulent and unexpected conditions.
 
 ## Problem it addresses
 
-[SRE](/site_reliability_engineering/) and [DevOps](/devops/) practices focus on 
+[SRE](/site-reliability-engineering/) and [DevOps](/devops/) practices focus on 
 techniques to increase product resiliency and [reliability](/reliability/). 
 A system's ability to tolerate failures while ensuring adequate service quality is 
 typically a software development requirement. 

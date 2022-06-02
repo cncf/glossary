@@ -7,7 +7,7 @@ category: concept
 ## What it is 
 
 Continuous integration, often abbreviated as CI, is the practice of integrating code changes as regularly as possible. 
-CI is a prerequisite for [continuous delivery](/continuous_delivery/) (CD). 
+CI is a prerequisite for [continuous delivery](/continuous-delivery/) (CD). 
 Traditionally, the CI process begins when code changes are committed to a source control system (Git, Mercurial, or Subversion) 
 and ends with a tested artifact ready to be consumed by a CD system. 
 
@@ -28,5 +28,5 @@ CI allows software teams to turn every code commit into either a concrete failur
 
 ## Related terms
 
-* [Continuous Delivery](/continuous_delivery/)
-* [Continuous Deployment](/continuous_deployment/)
+* [Continuous Delivery](/continuous-delivery/)
+* [Continuous Deployment](/continuous-deployment/)

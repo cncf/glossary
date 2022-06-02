@@ -14,4 +14,4 @@ Implantar atualizações [confiáveis](/reliability/) se torna um problema em es
 
 ## Como isso ajuda
 
-As estratégias de entrega contínua criam um caminho totalmente automatizado para a produção que testa e implanta o software usando várias estratégias de implantação, como versões [canary](/pt-br/canary_deployment/) ou [blue-green](/pt-br/blue_green_deployment/). Isso permite que os desenvolvedores implantem o código com frequência, dando a tranquilidade de que a nova revisão foi testada. Normalmente, o desenvolvimento *trunk-based* é usado em estratégias de entrega contínua, em oposição aos recursos de *branch* ou *pull requests*.
+As estratégias de entrega contínua criam um caminho totalmente automatizado para a produção que testa e implanta o software usando várias estratégias de implantação, como versões [canary](/pt-br/canary-deployment/) ou [blue-green](/pt-br/blue-green-deployment/). Isso permite que os desenvolvedores implantem o código com frequência, dando a tranquilidade de que a nova revisão foi testada. Normalmente, o desenvolvimento *trunk-based* é usado em estratégias de entrega contínua, em oposição aos recursos de *branch* ou *pull requests*.

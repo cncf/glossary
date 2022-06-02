@@ -6,7 +6,7 @@ category: concept
 
 ## What it is
 
-Security Chaos Engineering or SCE is a discipline based on [Chaos Engineering](/chaos_engineering/). 
+Security Chaos Engineering or SCE is a discipline based on [Chaos Engineering](/chaos-engineering/). 
 SCE performs proactive security experimentation on a distributed system 
 to build confidence in the system's capability to withstand turbulent and malicious conditions. 
 Security chaos engineers use scientific method loops to achieve this, 
@@ -14,7 +14,7 @@ including steady-state, hypothesis, continuous verification, lesson learned, and
 
 ## Problem it addresses
 
-The main priority for [site reliability engineers](/site_reliability_engineering/) (SREs) and cyber security engineers is 
+The main priority for [site reliability engineers](/site-reliability-engineering/) (SREs) and cyber security engineers is 
 to restore service as fast as possible with the goal of achieving zero downtime and minimizing business impact. 
 SREs and cyber security engineers deal both with pre-failure and post-failure incidents situations. 
 Most security issues are challenging to discover and patch quickly, impacting application or system functionality. 

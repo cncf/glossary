@@ -23,5 +23,5 @@ increasing the number of servers allowing for more video streaming and scaling b
 
 ## Related terms
 
-* [Horizontal Scaling](/horizontal_scaling/)
-* [Vertical Scaling](/vertical_scaling/)
+* [Horizontal Scaling](/horizontal-scaling/)
+* [Vertical Scaling](/vertical-scaling/)

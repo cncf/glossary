@@ -14,7 +14,7 @@ and how many records and operations can the control plane support?
 
 A scalable system makes it easy to add more capacity. 
 We differentiate between two scaling approaches. 
-On the one hand, there is [horizontal scaling](/horizontal_scaling/) which adds more nodes to handle increased load. 
-In contrast, in [vertical scaling](/vertical_scaling/) individual nodes are made more powerful to perform more transactions 
+On the one hand, there is [horizontal scaling](/horizontal-scaling/) which adds more nodes to handle increased load. 
+In contrast, in [vertical scaling](/vertical-scaling/) individual nodes are made more powerful to perform more transactions 
 (e.g. by adding more memory or CPU to an individual machine). 
 A scalable system is able to change easily and meet user needs.

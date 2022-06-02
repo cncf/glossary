@@ -115,7 +115,7 @@ Quando apropriado, use **exemplos do mundo real** que ajudam os leitores (especi
 
 Quando usado na sua definição, sempre aponte para termos existentes do glossário (apenas a primeira menção deve ser um *link*).
 
-**Exemplo**: veja seção "O que é" da definição de [service mesh](/service_mesh/). Ele se refere aos conceitos de microsserviços, serviços, confiabilidade e observabilidade. Além disso, é usado um exemplo do mundo real comparando desafios de rede em um ambiente de microsserviços (algo que pessoas não técnicas pode não ter conhecimento prévio) a problemas de *wifi* (algo que qualquer pessoa usando um computador pode entender). Sempre que possível tente fazer esse tipo de conexão. 
+**Exemplo**: veja seção "O que é" da definição de [service mesh](/service-mesh/). Ele se refere aos conceitos de microsserviços, serviços, confiabilidade e observabilidade. Além disso, é usado um exemplo do mundo real comparando desafios de rede em um ambiente de microsserviços (algo que pessoas não técnicas pode não ter conhecimento prévio) a problemas de *wifi* (algo que qualquer pessoa usando um computador pode entender). Sempre que possível tente fazer esse tipo de conexão. 
 
 #### Comece com um documento de texto
 

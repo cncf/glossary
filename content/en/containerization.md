@@ -13,10 +13,10 @@ As long as the output is a container image that adheres to this standard, which 
 ## Problem it addresses 
 
 Before containers became prevalent, organizations relied on virtual machines (VMs) to 
-orchestrate multiple applications on a single [bare-metal machine](/bare_metal_machine/). 
+orchestrate multiple applications on a single [bare-metal machine](/bare-metal-machine/). 
 VMs are significantly larger than containers and require a hypervisor to run. 
 Due to the storage, backup, and transfer of these larger VM templates, creating the VM templates is also slow. 
-Additionally, VMs can suffer from configuration drift which violates the principle of [immutability](/immutable_infrastructure/).
+Additionally, VMs can suffer from configuration drift which violates the principle of [immutability](/immutable-infrastructure/).
 
 ## How it helps
 

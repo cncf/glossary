@@ -10,8 +10,8 @@ Infraestructura como código es una práctica para almacenar la definición de l
 
 ## Problema que aborda
 
-Construir aplicaciones de forma nativa para la nube requiere que la infraestructura sea desechable y reproducible. Además requiere [escalar](/scalability/) bajo demanda de forma automática y repetible, potencialmente sin la intervención humana. El aprovisionamiento manual no puede cumplir los requerimientos de respuesta y escalado de las [aplicaciones nativas para la nube](/cloud_native_apps/). Los cambios manuales no son reproducibles, rápidamente se enfrentan a limites de escalabilidad, e introducen errores de configuración.
+Construir aplicaciones de forma nativa para la nube requiere que la infraestructura sea desechable y reproducible. Además requiere [escalar](/scalability/) bajo demanda de forma automática y repetible, potencialmente sin la intervención humana. El aprovisionamiento manual no puede cumplir los requerimientos de respuesta y escalado de las [aplicaciones nativas para la nube](/cloud-native-apps/). Los cambios manuales no son reproducibles, rápidamente se enfrentan a limites de escalabilidad, e introducen errores de configuración.
 
 ## ¿Cómo ayuda?
 
-Representados los recursos del [centro de datos](/data_center/) tales como servidores, balanceadores de carga y sub-redes como código, les permite a los equipos de infraestructura poseer una fuente única de verdad para todas las configuraciones y también les permite administrar sus [centro de datos](/data_center/) en flujos de [CI](/continuous_integration/)/[CD](/continuous_delivery/) implementando un sistema de control de versiones y estrategias de despliegue.
+Representados los recursos del [centro de datos](/data-center/) tales como servidores, balanceadores de carga y sub-redes como código, les permite a los equipos de infraestructura poseer una fuente única de verdad para todas las configuraciones y también les permite administrar sus [centro de datos](/data-center/) en flujos de [CI](/continuous-integration/)/[CD](/continuous-delivery/) implementando un sistema de control de versiones y estrategias de despliegue.

@@ -14,4 +14,4 @@ La creazione di applicazioni native sul cloud richiede che l'infrastruttura sia 
 
 ## In cosa aiuta
 
-Rappresentando le risorse del data center come server, sistemi di bilanciamento del carico e sottoreti come codice, i team operations possono disporre di un'unica fonte di verità per tutte le configurazioni e possono gestire il proprio data center in una pipeline [CI](/continuous_integration/)/[CD](/continuous_delivery/), implementando sistemi di controllo di versione e strategie di deployment.
+Rappresentando le risorse del data center come server, sistemi di bilanciamento del carico e sottoreti come codice, i team operations possono disporre di un'unica fonte di verità per tutte le configurazioni e possono gestire il proprio data center in una pipeline [CI](/continuous-integration/)/[CD](/continuous-delivery/), implementando sistemi di controllo di versione e strategie di deployment.

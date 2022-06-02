@@ -9,7 +9,7 @@ category: technology
 Kubernetes, often abbreviated as K8s, is an open source container orchestrator that 
 automates the life-cycle of [containerized](/container/) applications on modern infrastructures. 
 It's like a data center operating system that manages applications 
-running across a [distributed system](/distributed_systems/) 
+running across a [distributed system](/distributed-systems/) 
 (just like the OS on your laptop that manages your apps). 
 
 Kubernetes schedules containers across [nodes](/nodes/) in a [cluster](/cluster/). 
@@ -20,14 +20,14 @@ in a way that they can be composed into applications.
 Kubernetes enables automation and extensibility, 
 allowing users to deploy applications declaratively in a reproducible way. 
 Software products and projects in the Kubernetes ecosystem take advantage of that automation and extensibility 
-to extend the Kubernetes [API](/application_programming_interface/). 
+to extend the Kubernetes [API](/application-programming-interface/). 
 This enables them to leverage Kubernetes’ automation and 
 make their tools more accessible to experienced Kubernetes practitioners.
 
 ## Problem it addresses
 
 Infrastructure automation and declarative configuration management have been important concepts for a long time and 
-have only become more pressing as [cloud computing](/cloud_computing/) has gained popularity. 
+have only become more pressing as [cloud computing](/cloud-computing/) has gained popularity. 
 As demand for compute resources increases and 
 organizations feel pressured to provide more operational capabilities with fewer engineers, 
 new technologies and working methods are required to meet that demand. 

@@ -22,7 +22,7 @@ with multiple requests coming to them at the same time.
 If there’s a problem, you can easily restart the application, 
 and it will return to its initial state with little or no downtime. 
 As such, the benefits of stateless applications include resiliency, elasticity, and high availability. 
-However, most applications we use today are at least partly [stateful](/stateful_apps/), 
+However, most applications we use today are at least partly [stateful](/stateful-apps/), 
 as they store things like preferences and settings to improve the user experience.
 
 ## How it helps

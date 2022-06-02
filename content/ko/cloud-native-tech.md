@@ -6,7 +6,7 @@ category: 개념
 
 ## 개념
 
-클라우드 네이티브 스택(the cloud native stack)이라고도 하는 클라우드 네이티브 기술은 [클라우드 네이티브 애플리케이션](/cloud_native_apps/)을 구축하는 데 사용되는 기술이다. 조직이 퍼블릭, 프라이빗 및 하이브리드 클라우드와 같은 현대적이고 역동적인 환경에서 확장 가능한 애플리케이션을 구축 및 실행할 수 있도록 함으로써, '클라우드의 약속(promise of the cloud)'을 지키고 클라우드 컴퓨팅 이점을 최대한 활용하게 한다. 이 기술은 클라우드 컴퓨팅 및 컨테이너, 서비스 메시(mesh), 마이크로서비스(microservices), 이뮤터블 인프라(immutable infrastructure)의 특징 및 기능(capabilities)을 활용하도록 처음부터 설계되었다.
+클라우드 네이티브 스택(the cloud native stack)이라고도 하는 클라우드 네이티브 기술은 [클라우드 네이티브 애플리케이션](/cloud-native-apps/)을 구축하는 데 사용되는 기술이다. 조직이 퍼블릭, 프라이빗 및 하이브리드 클라우드와 같은 현대적이고 역동적인 환경에서 확장 가능한 애플리케이션을 구축 및 실행할 수 있도록 함으로써, '클라우드의 약속(promise of the cloud)'을 지키고 클라우드 컴퓨팅 이점을 최대한 활용하게 한다. 이 기술은 클라우드 컴퓨팅 및 컨테이너, 서비스 메시(mesh), 마이크로서비스(microservices), 이뮤터블 인프라(immutable infrastructure)의 특징 및 기능(capabilities)을 활용하도록 처음부터 설계되었다.
 
 ## 다루는 문제 
 

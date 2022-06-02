@@ -7,7 +7,7 @@ category: Concept
 ## What it is
 
 Mutual TLS (mTLS) is a technique used to authenticate and encrypt messages sent between two [services](/service/). 
-Mutual TLS is the standard [Transport Layer Security](/tlstransport-layer-security/) (TLS) protocol but, 
+Mutual TLS is the standard [Transport Layer Security](/transport-layer-security/) (TLS) protocol but, 
 instead of validating the identity of just one connection, both sides are validated.
 
 ## Problem it addresses

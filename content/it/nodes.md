@@ -6,11 +6,11 @@ category: Concetto
 
 ## Cos'è
 
-Un nodo è un computer che lavora insieme ad altri computer, o nodi, per realizzare un compito comune. Prendi per esempio il tuo portatile, il modem e la stampante. Sono tutti collegati alla tua rete wireless che comunicano e collaborano: ognuno rappresenta un nodo. Nel [cloud computing](/cloud_computing/), un nodo può essere un computer fisico, un computer virtuale (chiamato [VM](/it/virtual_machine/)) o anche un [container](/container/).
+Un nodo è un computer che lavora insieme ad altri computer, o nodi, per realizzare un compito comune. Prendi per esempio il tuo portatile, il modem e la stampante. Sono tutti collegati alla tua rete wireless che comunicano e collaborano: ognuno rappresenta un nodo. Nel [cloud computing](/cloud-computing/), un nodo può essere un computer fisico, un computer virtuale (chiamato [VM](/it/virtual-machine/)) o anche un [container](/container/).
 
 ## Quali problematiche affronta
 
-Un'applicazione potrebbe (e in molti casi è così) girare su una singola macchina, ma ci sono alcuni rischi legati a questo. Il malfunzionamento del sistema sottostante, ad esempio, potrebbe interrompere l'esecuzione dell'applicazione. Per risolvere questo problema, gli sviluppatori hanno iniziato a creare [applicazioni distribuite](/distributed_apps/) dove ogni processo viene eseguito su un nodo differente. Perciò, i nodi che eseguono le applicazioni o processi come parte di un gruppo formano un [cluster](/it/cluster/), o gruppo di nodi che lavorano insieme per raggiungere un obiettivo comune.
+Un'applicazione potrebbe (e in molti casi è così) girare su una singola macchina, ma ci sono alcuni rischi legati a questo. Il malfunzionamento del sistema sottostante, ad esempio, potrebbe interrompere l'esecuzione dell'applicazione. Per risolvere questo problema, gli sviluppatori hanno iniziato a creare [applicazioni distribuite](/distributed-apps/) dove ogni processo viene eseguito su un nodo differente. Perciò, i nodi che eseguono le applicazioni o processi come parte di un gruppo formano un [cluster](/it/cluster/), o gruppo di nodi che lavorano insieme per raggiungere un obiettivo comune.
 
 ## In che modo aiuta
 

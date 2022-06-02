@@ -17,7 +17,7 @@ As a result, when a serverless function is sitting idle, it doesn’t cost anyth
 
 ## Problem it addresses
 
-Under a standard [Infrastructure-as-a-Service (IaaS)](/infrastructure_as_a_service/) [cloud computing](/cloud_computing/) model, 
+Under a standard [Infrastructure-as-a-Service (IaaS)](/infrastructure-as-a-service/) [cloud computing](/cloud-computing/) model, 
 users pre-purchase units of capacity, meaning you pay a public cloud provider for always-on server components to run your apps. 
 It’s the user’s responsibility to scale up server capacity during times of high demand and 
 to scale down when that capacity is no longer needed. 

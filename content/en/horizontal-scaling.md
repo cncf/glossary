@@ -7,7 +7,7 @@ category: Concept
 ## What it is
 
 Horizontal scaling is a technique where a system's capacity is increased by adding more [nodes](/nodes/) 
-versus adding more compute resources to individual nodes (the latter being known as [vertical scaling](/vertical_scaling/)). 
+versus adding more compute resources to individual nodes (the latter being known as [vertical scaling](/vertical-scaling/)). 
 Let's say, we have a system of 4GB RAM and want to increase its capacity to 16GB RAM, 
 scaling it horizontally means doing so by adding 4 x 4GB RAM rather than switching to a 16GB RAM system.
 
@@ -34,5 +34,5 @@ without needing to increase the capacity of any node in particular.
 
 ## Related terms
 
-* [Vertical Scaling](/vertical_scaling/)
-* [Auto Scaling](/auto_scaling/)
+* [Vertical Scaling](/vertical-scaling/)
+* [Auto Scaling](/auto-scaling/)

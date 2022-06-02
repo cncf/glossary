@@ -23,6 +23,6 @@ because more developers need to work on a shared codebase that doesn't necessari
 
 When splitting an application into different pieces and running them in many places, the overall system can tolerate more failures. 
 It also allows an application to take advantage of scaling features not available to a single application instance, 
-namely the ability to [scale horizontally](/horizontal_scaling/). 
+namely the ability to [scale horizontally](/horizontal-scaling/). 
 This does, however, come at a cost: increased complexity and operational overhead 
 — you’re now running lots of application components instead of one app.

@@ -6,7 +6,7 @@ category: Technology
 
 ## What it is
 
-Function as a Service (FaaS) is a type of [serverless](/serverless/) [cloud computing](/cloud_computing/) [service](/service/) 
+Function as a Service (FaaS) is a type of [serverless](/serverless/) [cloud computing](/cloud-computing/) [service](/service/) 
 that allows executing code in response to events 
 without maintaining the complex infrastructure 
 typically associated with building and launching [microservices](/microservices/) applications. 
@@ -22,7 +22,7 @@ The business must invest in servers, storage, software, and other technologies
 and potentially hire an IT staff or contractors to purchase, manage, and upgrade all the equipment and licenses. 
 The data center has to be built to meet peak demand, even when workloads decline and those resources stand idle. 
 Conversely, if the business grows quickly, the IT department might struggle to keep up. 
-Under a standard [Infrastructure-as-a-Service (IaaS)](/infrastructure_as_a_service/) cloud computing model, 
+Under a standard [Infrastructure-as-a-Service (IaaS)](/infrastructure-as-a-service/) cloud computing model, 
 users pre-purchase capacity units, meaning you pay a public cloud provider for always-on server components to run your apps. 
 It’s the user’s responsibility to scale up server capacity during times of high demand 
 and scale down when that capacity is no longer needed. 

@@ -29,7 +29,7 @@ And because responsibility for testing and security is shared across the develop
 everyone plays a part in ensuring the stability and security of an application. 
 
 In addition, shifting left enables continuous improvement and 
-follows an [agile](/agile_software_development/) rather than waterfall approach to development. 
+follows an [agile](/agile-software-development/) rather than waterfall approach to development. 
 Teams can make small iterative improvements and identify problems earlier on. 
 This approach allows engineers to adopt security and secure development practices 
 as early as the design and architecture phase. 

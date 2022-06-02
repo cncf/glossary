@@ -6,9 +6,9 @@ category: concept
 
 ## What it is
 
-Continuous deployment, often abbreviated as CD, goes a step further than [continuous delivery](/continuous_delivery/) 
+Continuous deployment, often abbreviated as CD, goes a step further than [continuous delivery](/continuous-delivery/) 
 by deploying finished software directly to production. 
-Continuous deployment (CD) goes hand in hand with [continuous integration](/continuous_integration/) (CI), 
+Continuous deployment (CD) goes hand in hand with [continuous integration](/continuous-integration/) (CI), 
 and is often referred to as CI/CD. 
 The CI process tests if the changes to a given application are valid, 
 and the CD process automatically deploys the code changes through an organization's environments from test to production.
@@ -30,5 +30,5 @@ It also makes organizations better at accepting and adapting to production chang
 
 ## Related terms
 
-* [Continuous Integration](/continuous_integration/)
-* [Continuous Delivery](/continuous_delivery/)
+* [Continuous Integration](/continuous-integration/)
+* [Continuous Delivery](/continuous-delivery/)

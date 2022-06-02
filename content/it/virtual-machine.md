@@ -10,7 +10,7 @@ Una macchina virtuale (VM) è un computer e il suo sistema operativo che non è 
 
 ## Quale problema affronta
 
-Le macchine virtuali sfruttano la virtualizzazione. Quando una macchina [bare metal](/bare_metal_machine/) è vincolata a un singolo sistema operativo (OS), il modo in cui le risorse della macchina possono essere utilizzate è alquanto limitato. Inoltre, quando un sistema operativo è legato a una singola macchina fisica, la sua disponibilità è direttamente legata a quell'hardware. Se la macchina fisica è offline a causa di manutenzione o guasti hardware, lo è anche il sistema operativo.
+Le macchine virtuali sfruttano la virtualizzazione. Quando una macchina [bare metal](/bare-metal-machine/) è vincolata a un singolo sistema operativo (OS), il modo in cui le risorse della macchina possono essere utilizzate è alquanto limitato. Inoltre, quando un sistema operativo è legato a una singola macchina fisica, la sua disponibilità è direttamente legata a quell'hardware. Se la macchina fisica è offline a causa di manutenzione o guasti hardware, lo è anche il sistema operativo.
 
 ## In che modo aiuta
 

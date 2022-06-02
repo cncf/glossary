@@ -16,7 +16,7 @@ It helps developers build secure and [scalable](/scalability/) containerized app
 Because users only buy the resources they need (scheduling capabilities, load balancing, etc.), 
 they save money and increase efficiency. 
 Containers create consistent environments to rapidly develop and 
-deliver [cloud-native applications](/cloud_native_apps/) that can run anywhere. 
+deliver [cloud-native applications](/cloud-native-apps/) that can run anywhere. 
 
 ## Problem it addresses
 
@@ -27,8 +27,8 @@ the underlying infrastructure that containers run on.
 
 When deploying containerized applications to a CaaS platform, 
 users gain visibility into system performance through log aggregation and monitoring tools. 
-CaaS also includes built-in functionality for [auto scaling](/auto_scaling/) and orchestration management. 
-It enables teams to build high visibility and high availability [distributed systems](/distributed_systems/). 
+CaaS also includes built-in functionality for [auto scaling](/auto-scaling/) and orchestration management. 
+It enables teams to build high visibility and high availability [distributed systems](/distributed-systems/). 
 In addition, by allowing rapid deployments, CaaS increases team development velocity. 
 While containers ensure a consistent deployment target, 
 CaaS lowers engineering operating costs 

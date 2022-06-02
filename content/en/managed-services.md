@@ -19,4 +19,4 @@ Your team is likely better off building new capabilities than taking care of the
 
 Managed services are ready to use from day one with very little operational overhead. 
 They allow organizations to effectively outsource tasks that fall outside of their core competency 
-with well defined, and usually [API](/application_programming_interface/) driven, boundaries.
+with well defined, and usually [API](/application-programming-interface/) driven, boundaries.

@@ -24,7 +24,7 @@ Vertical scaling is time-consuming, requires downtime, and reaches its limit qui
 
 ## How it helps
 
-Distributed systems allow for [horizontal scaling](/horizontal_scaling/) (e.g. adding more nodes to the system whenever needed). 
+Distributed systems allow for [horizontal scaling](/horizontal-scaling/) (e.g. adding more nodes to the system whenever needed). 
 This can be automated allowing a system to handle a sudden increase in workload or resource consumption. 
 
 A non-distributed system exposes itself to risks of failure because if one machine fails, the entire system fails. 

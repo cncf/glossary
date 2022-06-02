@@ -7,13 +7,13 @@ category: 기술
 ## 개념
 
 가상 머신(VM, virtual machine)은 특정 하드웨어에 구속(종속)되지 않는 컴퓨터 및 해당 운영 체제(operating system)이다.
-VM은 [가상화(virtualization)](https://glossary.cncf.io/virtualization/)를 필요로 하는데 이는 단일 물리 컴퓨터를 여러 대의 가상 컴퓨터로 분할하기 위함이다. 
+VM은 [가상화(virtualization)](/virtualization/)를 필요로 하는데 이는 단일 물리 컴퓨터를 여러 대의 가상 컴퓨터로 분할하기 위함이다. 
 이러한 분할을 통해 조직(organization)과 인프라스트럭처 제공자(infrastructure provider)는 하드웨어에 영향을 주지 않고 VM을 쉽게 생성 및 삭제할 수 있다.
 
 ## 다루는 문제
 
 가상 머신은 가상화를 활용한다.
-[베어 메탈(bare metal)](https://glossary.cncf.io/bare_metal_machine/) 머신이 단일 운영 체제에 구속(종속)되면 머신의 자원을 효율적으로 활용하는데 다소 제약이 있다.
+[베어 메탈(bare metal)](/bare-metal-machine/) 머신이 단일 운영 체제에 구속(종속)되면 머신의 자원을 효율적으로 활용하는데 다소 제약이 있다.
 또한, 운영 체제가 단일 물리 머신에 구속(종속)되는 경우, 운영 체제의 이용 가능성은 해당 하드웨어에 직결된다.
 만약 물리 머신이 유지 관리 또는 하드웨어 오류로 인해 오프라인 상태가 되면, 운영 체제도 오프라인 상태가 된다.
 
