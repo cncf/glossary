@@ -19,6 +19,7 @@ Business
 BVS
 BY
 calendar
+Canary
 Carol
 category
 Catherine
@@ -44,6 +45,8 @@ create
 creating
 Daniel
 declarativamente
+Deployment
+deployments
 DevOps
 DigitalOcean
 directly
