@@ -20,6 +20,7 @@ BVS
 BY
 calendar
 Canary
+CAPEX
 Carol
 category
 Catherine
@@ -70,6 +71,7 @@ Google
 help
 hide
 https
+IaaS
 IaC
 iamnoah
 interface
@@ -105,6 +107,7 @@ of
 on
 Paganini
 pr
+prem
 profesionistas
 properties
 propose
@@ -142,6 +145,7 @@ Value
 Vazquez
 Victor
 virtualización
+virtualizados
 vs
 weight
 wifi
