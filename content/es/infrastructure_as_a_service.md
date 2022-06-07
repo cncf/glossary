@@ -18,4 +18,4 @@ En las configuraciones tradicionales de On-prem, las organizaciones suelen tener
 
 Mediante IaaS las organizaciones pueden evitar la compra y el mantenimiento de recursos de computación y de espacio en los centros de datos para ejecutar sus aplicaciones. Una infraestructura bajo demanda les permite alquilar recursos de computación según sus necesidades y aplazar los grandes gastos de capital, o [CAPEX](https://es.wikipedia.org/wiki/Capex), a la vez que les da la flexibilidad de aumentar o reducir su uso.
 
-IaaS reduce los costes iniciales de experimentar o probar una nueva aplicación y proporciona facilidades para desplegar rápidamente la infraestructura. Un proveedor de la nube es una excelente opción para entornos de desarrollo o de prueba, lo que ayuda a los desarrolladores a experimentar e innovar.
+IaaS reduce los costes iniciales de experimentar o probar una aplicación nueva y proporciona facilidades para desplegar rápidamente la infraestructura. Un proveedor de la nube es una excelente opción para entornos de desarrollo o de prueba, lo que ayuda a los desarrolladores a experimentar e innovar.
