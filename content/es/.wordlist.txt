@@ -63,6 +63,7 @@ frontend
 Garcia
 gateway
 GCP
+Git
 github
 glossary
 good
@@ -92,6 +93,7 @@ main
 markdown
 md
 menu
+Mercurial
 mesh
 microservicios
 Mike
@@ -127,6 +129,7 @@ Subcommittee
 submit
 submitting
 subrúbricas
+Subversion
 technology
 TEMPLATE
 term
