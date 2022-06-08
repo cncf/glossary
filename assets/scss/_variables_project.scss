@@ -235,7 +235,7 @@ i.concept:before {
 }
 
 div.category {
-    margin: 0 0 .5rem .2rem;
+    margin: 0 0 2.5rem .2rem;
     color: #747474;
     font-weight: 700;
     letter-spacing: 0.2em;
@@ -384,7 +384,7 @@ h2.feedback--title {
 }
 
 .td-content > h1 {
-    margin-bottom: 2rem !important;
+    margin-bottom: 1.4rem !important;
 }
 
 // mobile.
@@ -398,6 +398,29 @@ h2.feedback--title {
         margin-top: 0 !important;
     }
 }
+
+.tax-term {
+    background: #D62293;
+    border-radius: 50px;
+    font-weight: 500 !important;
+    font-size: 10px;
+    line-height: 140%;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #FFFFFF;
+    padding: 5px 12px;
+    margin-right: 8px;
+}
+
+.tax-term:hover {
+    color: #FFFFFF !important;
+    text-decoration: none !important;    
+}
+
+.article-meta {
+    margin-bottom: 3rem !important;
+}
+
 
 // desktop.
 @media (min-width: 768px){

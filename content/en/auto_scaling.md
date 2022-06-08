@@ -2,6 +2,7 @@
 title: Autoscaling
 status: Completed
 category: property
+tags: ["Concept", "Technology", "Infrastructure"]
 ---
 
 Autoscaling is the ability of a system to [scale](/scalability/) automatically, typically, in terms of computing resources. With an autoscaling system, resources are automatically added when needed and can scale to meet fluctuating user demands. The autoscaling process varies and is configurable to scale based on different metrics, such as memory or process time. Managed cloud services are typically associated with autoscaling functionality as there are more options and implementations available than most on-premise deployments.
