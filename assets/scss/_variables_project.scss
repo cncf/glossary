@@ -179,6 +179,7 @@ h2 a:hover, h3 a:hover {
 .td-navbar {
     padding-right: 0.5rem I !important;
     padding-left: 0.5rem !important;
+    background: hsla(0,0%,99%,.98) !important;
 }
 
 .navbar-dark .navbar-nav .nav-link {
@@ -326,6 +327,10 @@ button.td-sidebar__toggle:hover, button.td-sidebar__toggle:active {
 
 
 // topnav dropdown.
+.dropdown-menu {
+    left: -63px !important;
+}
+
 .dropdown-item {
     font-weight: 600 !important;
 }
