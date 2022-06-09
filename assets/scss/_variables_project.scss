@@ -433,6 +433,9 @@ h2.feedback--title {
 .form-control::placeholder {
     line-height: 1.1em;
 }
+.td-search-input.form-control:focus {
+    background-color: transparent !important;
+}
 
 
 // desktop.
