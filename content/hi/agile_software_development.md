@@ -2,7 +2,6 @@
 title: एजाइल सॉफ्टवेयर विकास
 status: Completed
 category: अवधारणा
-exclude_search: true
 ---
 
 ## यह क्या है
