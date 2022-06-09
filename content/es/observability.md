@@ -1,7 +1,7 @@
 ---
 title: Observabilidad
 status: Completed
-category: property
+category: Propiedad
 ---
 
 La observabilidad es una característica de una aplicación que se refiere a qué tan bien se puede entender los indicadores o estados de un sistema a partir de sus salidas externas. Los sistemas computacionales se miden observando el tiempo de CPU, la memoria, el espacio en disco, la latencia, los errores, etc. Cuanto más observable es un sistema, más fácil es entender cómo funciona al mirarlo.

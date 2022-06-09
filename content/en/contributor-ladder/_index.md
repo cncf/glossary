@@ -4,7 +4,6 @@ toc_hide: true
 menu:
   main:
     weight: 10
-    pre: <i class='fas fa-pen-square'></i>
 ---
 
 Hi there! 👋 Thanks for your interest in contributing to the CNCF Cloud Native Glossary project. Whether you contribute new terms, help localize the Glossary into your native language, or want to help others get started, there are many ways to become an active member of this community. This doc outlines the different contributor roles within the project and the responsibilities and privileges that come with them.
@@ -20,7 +19,7 @@ There are a variety of ways you can contribute to the project, including:
 - **Helpers**: anyone who helps others on GitHub, Slack, or wherever community members need support,
 - **Ambassadors**: anyone who helps spread the word, educates the community on how to contribute and why they should do so. 
 
-Contributors can have multiple roles or focus on one area only. **All these contributions are equally important** and help foster a thriving community. Please refer to the [How to Contribute](https://glossary.cncf.io/contribute/) and [Style Guide](https://glossary.cncf.io/style-guide/) for content and localization contributions.
+Contributors can have multiple roles or focus on one area only. **All these contributions are equally important** and help foster a thriving community. Please refer to the [How to Contribute](/contribute/) and [Style Guide](/style-guide/) for content and localization contributions.
 
 ## 2. Approvers
 

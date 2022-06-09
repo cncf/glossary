@@ -11,7 +11,7 @@
 matrix:
   - name: Spanish content
     sources:
-      - 'content/es/*.md'
+      - 'content/es/**/*.md'
     default_encoding: utf-8
     aspell:
       lang: es
