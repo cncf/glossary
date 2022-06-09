@@ -423,7 +423,7 @@ h2.feedback--title {
     border-bottom: 2px solid !important;
     border-radius: 0 !important;
     box-shadow: none !important;
-    font-weight: 300 !important;
+    font-weight: 200 !important;
     font-size: 20px !important;
 }
 .td-sidebar__search {
@@ -435,6 +435,9 @@ h2.feedback--title {
 }
 .td-search-input.form-control:focus {
     background-color: transparent !important;
+}
+.form-control {
+    padding: 1.8rem 0.75rem !important;
 }
 
 
