@@ -423,9 +423,14 @@ h2.feedback--title {
     border-bottom: 2px solid !important;
     border-radius: 0 !important;
     box-shadow: none !important;
+    font-weight: 300 !important;
+    font-size: 20px !important;
 }
 .td-sidebar__search {
     background-color: transparent !important;
+}
+.form-control::placeholder {
+    line-height: 1.1em;
 }
 
 
