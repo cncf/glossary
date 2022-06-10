@@ -2,6 +2,7 @@
 title: GitOps
 status: Feedback Appreciated
 category: Concept
+tags: ["", "", ""]
 ---
 
 ## What it is

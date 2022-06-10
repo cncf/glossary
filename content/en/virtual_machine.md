@@ -2,6 +2,7 @@
 title: Virtual Machine
 status: Completed
 category: Technology
+tags: ["fundamentals", "infrastructure", ""]
 ---
 
 ## What it is

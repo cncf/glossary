@@ -2,6 +2,7 @@
 title: Platform as a Service (PaaS)
 status: Completed
 category: Technology
+tags: ["fundamentals", "platform", ""]
 ---
 
 ## What it is

@@ -2,6 +2,7 @@
 title: Cloud Native Apps
 status: Completed
 category: concept
+tags: ["application", "", ""]
 ---
 
 ## What it is

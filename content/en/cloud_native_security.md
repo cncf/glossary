@@ -2,6 +2,7 @@
 title: Cloud Native Security
 status: Completed
 category: concept
+tags: ["security", "", ""]
 ---
 
 ## What it is

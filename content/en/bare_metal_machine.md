@@ -2,6 +2,7 @@
 title: Bare Metal Machine
 status: Completed
 category: technology
+tags: ["infrastructure", "", ""]
 ---
 
 ## What it is

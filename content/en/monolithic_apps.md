@@ -2,6 +2,7 @@
 title: Monolithic Apps
 status: Completed
 category: concept
+tags: ["architecture", "", ""]
 ---
 
 ## What it is

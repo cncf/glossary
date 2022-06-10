@@ -2,6 +2,7 @@
 title: DevOps
 status: Completed
 category: concept
+tags: ["methodology", "", ""]
 ---
 
 ## What it is

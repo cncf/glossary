@@ -2,6 +2,7 @@
 title: Observability
 status: Completed
 category: property
+tags: ["fundamentals", "", ""]
 ---
 
 Observability is a characteristic of an application that refers to how well a system's state or status can be understood from its external outputs. Computer systems are measured by observing CPU time, memory, disk space, latency, errors, etc. The more observable a system is, the easier it is to understand how it’s doing by looking at it.

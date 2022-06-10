@@ -2,6 +2,7 @@
 title: Continuous Delivery (CD)
 status: Completed
 category: concept
+tags: ["application", "methodology", ""]
 ---
 
 ## What it is

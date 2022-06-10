@@ -2,6 +2,7 @@
 title: Database as a Service (DBaaS)
 status: Completed
 category: Technology
+tags: ["", "", ""]
 ---
 
 ## What it is

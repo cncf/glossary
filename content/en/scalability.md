@@ -2,6 +2,7 @@
 title: Scalability
 status: Completed
 category: property
+tags: ["fundamentals", "", ""]
 ---
 
 Scalability refers to how well a system can grow. That is increasing the ability to do whatever the system is supposed to do. For example, a [Kubernetes](/kubernetes/) [cluster](/cluster/) scales by increasing or reducing the number of [containerized](/containerization/) apps, but that scalability depends on several factors. How many [nodes](/nodes/) does it have, how many [containers](/container/) can each node handle, and how many records and operations can the control plane support?
