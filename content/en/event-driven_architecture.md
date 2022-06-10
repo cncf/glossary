@@ -1,14 +1,23 @@
----
 title: Event-Driven Architecture
 status: Feedback Appreciated
 category: concept
 ---
-
 ## What it is
-It is a software architecture that promotes the creation, processing, and consumption of events. An event can be seen as any change of state or other significant occurance in hardware or software. This architecture creates the structure in which events can be properly routed from their source to the desired receivers.
+
+Event-driven architecture is a software architecture that promotes the creation, processing, and consumption of events.
+An event is any change to an application's state.
+For example, hailing a ride on a ride sharing app represents an event.
+This architecture creates the structure in which events can be properly routed from their source (my app requesting that ride) to the desired receivers (the apps of available drivers nearby).
 
 ## Problem it addresses
-As more data is becoming real time in nature, event-driven architecture allows software and services to receive and react to events in near real time, allowing for better business decisions and more reactive software.
+
+As more data becomes real-time, finding reliable ways to ensure that events are captured and routed to the appropriate [service](https://glossary.cncf.io/service/) that must process event requests gets increasingly challenging.
+Traditional methods of handling events often have no way to guarantee that messages were being routed properly or were actually sent or received.
+As applications begin to scale, it becomes more challenging to orchestrate events.
 
 ## How it helps
-Event-driven architecture establishes the producer (source) of an event and the consumer (receiver). This architecture ensures that services remain decoupled and that events are properly routed from the producer to the consumer.
+
+Event-driven architectures establishes a central hub for all events (e.g. Kafka).
+You then define the event producers (source) and consumers (receiver) and the central event hub guarantees the flow of events.
+This architecture ensures that services remain decoupled and events are properly routed from the producer to the consumer.
+The producer will take the incoming event, usually by HTTP protocol, then route the event information.
