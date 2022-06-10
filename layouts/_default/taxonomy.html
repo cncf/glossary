@@ -2,7 +2,7 @@
 <div>
   <h1 class="mb-5 pb-3">{{ with .Data.Singular }}{{ . | humanize }}: {{ end }}<span>{{ .Title }}</span></h1>
   {{ .Content }}
-    <div>
+    <div class="articles-of-tag">
       {{ range .Pages }}
         {{ $manualLink := cond (isset .Params "manuallink") .Params.manualLink ( cond (isset .Params "manuallinkrelref") (relref . .Params.manualLinkRelref) .RelPermalink) }}
         <article class="article-teaser article-type-{{ with .Type }}{{ ( urlize . ) }}{{ end }}">
@@ -23,6 +23,7 @@
               {{ partial "reading-time.html" . }}
             {{ end }}
           </header>
+          <hr>
         </article>
       {{ end }}
     </div>

@@ -148,6 +148,9 @@ h2 a:hover, h3 a:hover {
 .article-teaser h3 a {
     color: black;
 }
+.article-teaser h3 {
+    margin-top: 34px !important;
+}
 
 
 // sidebar.
@@ -381,6 +384,17 @@ h2.feedback--title {
 
 .td-content > h1 {
     margin-bottom: 1.4rem !important;
+}
+
+.articles-of-tag hr {
+    background: linear-gradient(180deg,#c4c4c4,hsla(0,0%,77%,0));
+    border-bottom: 0;
+    height: 10px!important;
+    opacity: .15!important;
+    width: 100%!important;
+}
+.articles-of-tag article:last-child hr {
+    display: none !important;
 }
 
 // mobile.
