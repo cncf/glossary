@@ -345,6 +345,14 @@ button.td-sidebar__toggle:hover, button.td-sidebar__toggle:active {
 
 
 // misc.
+.all-taxonomy-terms {
+    color: black;
+    margin-top: 34px !important;
+}
+.all-taxonomy-terms:before {
+    content: '\f022' !important;
+}
+
 .form-control::placeholder, .form-control {
     color: black !important;
     font-weight: 300 !important;
@@ -393,9 +401,6 @@ h2.feedback--title {
     opacity: .15!important;
     width: 100%!important;
 }
-.articles-of-tag article:last-child hr {
-    display: none !important;
-}
 
 // mobile.
 @media (max-width: 768px){
@@ -425,6 +430,16 @@ h2.feedback--title {
 .tax-term:hover {
     color: #FFFFFF !important;
     text-decoration: none !important;    
+}
+
+.tax-terms {
+    list-style: none;
+    margin: 60px 0;
+    padding: 0;
+}
+
+.tax-terms li {
+    margin: 20px;
 }
 
 .article-meta {
