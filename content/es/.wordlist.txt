@@ -9,6 +9,7 @@ Ariel
 Arnes
 autocura
 Autoscaling
+autoescalado
 AWS
 Azure
 backend
