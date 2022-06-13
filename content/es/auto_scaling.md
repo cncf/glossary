@@ -1,7 +1,7 @@
 ---
 title: Autoescalado
 status: Completed
-category: property
+category: Propiedad
 ---
 
 ## ¿Qué es esto?
