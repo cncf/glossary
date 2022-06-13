@@ -28,7 +28,7 @@
       {{ end }}
     </div>
     <div class="mt-5 mb-5">
-    <a href="{{ with .Site.GetPage (printf "/%s" ( lower .Data.Plural )) }}{{ .RelPermalink }}{{ end }}" class="all-tax-terms">{{ humanize ( T "ui_tags_all" ) }} {{ with .Data.Plural }}{{ . | humanize }}{{ end }}</a>
+    <a href="{{ with .Site.GetPage (printf "/%s" ( lower .Data.Plural )) }}{{ .RelPermalink }}{{ end }}" class="all-tax-terms">{{ humanize ( T "ui_see_all" ) }} {{ with .Data.Plural }}{{ . | humanize }}{{ end }}</a>
     </div>
     </article>
 </div>
