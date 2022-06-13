@@ -10,7 +10,7 @@
       {{ end }}
       <ul class="tax-terms">
         {{ range $taxonomy }}
-          <li><span class="taxonomy-count">{{ .Count }}</span><a class="tax-term" href="{{ .Page.Permalink }}" data-taxonomy-term="{{ urlize .Page.Title }}"><span class="taxonomy-label">{{ .Page.Title }}</span></a></li>
+          <li><span class="taxonomy-count">{{ .Count }}</span><a class="tax-term" href="{{ .Page.RelPermalink }}" data-taxonomy-term="{{ urlize .Page.Title }}"><span class="taxonomy-label">{{ .Page.Title }}</span></a></li>
         {{ end }}
       </ul>
     </div>
