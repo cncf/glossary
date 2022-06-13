@@ -9,7 +9,8 @@ category: property
 El autoescalado es la habilidad de un sistema para [escalar](/scalability) automáticamente, en términos de recursos computacionales. Con un sistema de auto escalado, los recursos son agregados automáticamente cuando se necesitan y pueden escalar para cumplir con la demanda fluctuante de los usuarios. El proceso de auto escalado varía y es configurable para escalar basado en diferentes métricas, como son la memoria o el uso de CPU. Los servicios gestionados en la nube son los que están asociados típicamente con esta funcionalidad de escalado automático pero también hay opciones e implementaciones disponibles para la mayoría de los servicios existentes.
 
 ## El problema que aborda
-Previamente, la infraestructura y las aplicaciones eran diseñadas para considerar los picos de uso del sistema. Esta arquitectura implicaba que había más recursos que eran infrautilizados o con cambios inelásticos frente a la demanda de los usuarios. La inelasticidad en este caso, incrementa el coste y puede suponer una pérdida de negocios debido a problemas de capacidad.
+
+Anteriormente, la infraestructura y las aplicaciones eran diseñadas para considerar los picos de uso del sistema. Esta arquitectura implicaba que había más recursos que eran infrautilizados o con cambios inelásticos frente a la demanda de los usuarios. La inelasticidad en este caso, incrementa el coste y puede suponer una pérdida de negocios debido a problemas de capacidad.
 
 ## ¿Cómo Ayuda?
 
