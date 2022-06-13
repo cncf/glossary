@@ -10,7 +10,6 @@ Arnes
 autocura
 Autoscaling
 autoescalado
-autoescalado
 AWS
 Azure
 backend
