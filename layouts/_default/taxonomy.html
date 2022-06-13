@@ -1,6 +1,6 @@
 {{ define "main" }}
 <div>
-  <h1 class="mb-5 pb-3">{{ with .Data.Singular }}{{ . | humanize }}: {{ end }}<span>{{title .Title }}</span></h1>
+  <h1 class="thin mb-5 pb-3">{{ with .Data.Singular }}{{ . | humanize }}: {{ end }}<span>{{title .Title }}</span></h1>
   {{ .Content }}
     <div class="articles-of-tag">
       {{ range .Pages }}
@@ -27,8 +27,9 @@
         </article>
       {{ end }}
     </div>
-    <article class="mb-5 article-teaser">
-    <h3><a href="{{ with .Site.GetPage (printf "/%s" ( lower .Data.Plural )) }}{{ .RelPermalink }}{{ end }}" class="all-taxonomy-terms">{{ humanize ( T "ui_all" ) }} {{ with .Data.Plural }}{{ . | humanize }}{{ end }}</a></h3>
+    <div class="mt-5 mb-5">
+    <a href="{{ with .Site.GetPage (printf "/%s" ( lower .Data.Plural )) }}{{ .RelPermalink }}{{ end }}" class="all-tax-terms">{{ humanize ( T "ui_tags_all" ) }} {{ with .Data.Plural }}{{ . | humanize }}{{ end }}</a>
+    </div>
     </article>
 </div>
 {{ end }}
