@@ -28,7 +28,7 @@
       {{ end }}
     </div>
     <article class="mb-5 article-teaser">
-    <h3><a href="{{ with .Site.GetPage (printf "/%s" ( lower .Data.Plural )) }}{{ .Permalink }}{{ end }}" class="all-taxonomy-terms">{{ humanize ( T "ui_all" ) }} {{ with .Data.Plural }}{{ . | humanize }}{{ end }}</a></h3>
+    <h3><a href="{{ with .Site.GetPage (printf "/%s" ( lower .Data.Plural )) }}{{ .RelPermalink }}{{ end }}" class="all-taxonomy-terms">{{ humanize ( T "ui_all" ) }} {{ with .Data.Plural }}{{ . | humanize }}{{ end }}</a></h3>
     </article>
 </div>
 {{ end }}
