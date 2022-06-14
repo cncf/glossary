@@ -46,6 +46,7 @@ create
 creating
 Daniel
 declarativamente
+definiendolos
 Deployment
 deployments
 DevOps
@@ -64,8 +65,10 @@ frontend
 Garcia
 gateway
 GCP
+git
 Git
 github
+GitOps
 glossary
 good
 Google
@@ -91,6 +94,7 @@ Kubernetes
 Language
 laptop
 localizations
+loop
 main
 markdown
 md
