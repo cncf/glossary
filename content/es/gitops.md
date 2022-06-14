@@ -7,7 +7,7 @@ category: Concepto
 ## ¿Qué es?
 
 GitOps es un conjunto de buenas prácticas basadas en unos [principios comunes](https://opengitops.dev/). La aplicación de estos principios comunes a un flujo de trabajo se realiza mediante agentes de software que de forma automática reconcilian las configuraciones o el estado de un sistema respecto al estado o las configuraciones declaradas en un repositorio git.
-Los agentes de software y las prácticas utilizadas para ejecutar flujos de trabajo cohesionados se aprovechan de sistemas de control de versiones como Git, definiendolos como "única fuente de verdad". El uso de GitOps se extiende a las aplicaciones, la infraestructura y los procedimientos operativos.
+Los agentes de software y las prácticas utilizadas para ejecutar flujos de trabajo cohesionados se aprovechan de sistemas de control de versiones como Git, definiéndolos como "única fuente de verdad". El uso de GitOps se extiende a las aplicaciones, la infraestructura y los procedimientos operativos.
 
 
 ## Problema que aborda

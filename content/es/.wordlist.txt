@@ -46,7 +46,6 @@ create
 creating
 Daniel
 declarativamente
-definiendolos
 Deployment
 deployments
 DevOps
