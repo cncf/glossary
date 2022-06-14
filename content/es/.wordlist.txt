@@ -1,4 +1,5 @@
 add
+Amazon
 an
 Aniszczyk
 Anyul
@@ -67,6 +68,7 @@ GCP
 Git
 github
 glossary
+Gmail
 good
 Google
 help
@@ -98,6 +100,7 @@ menu
 Mercurial
 mesh
 microservicios
+Microsoft
 Mike
 mitigarse
 Morgan
