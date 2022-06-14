@@ -10,7 +10,7 @@ category: 기술
 
 ## 다루는 문제
 
-컨테이너가 보편화되기 전에는, 단일 [베어메탈 머신](/bare_metal_machine/) 상에 여러 애플리케이션을 오케스트레이션(orchestration) 하기 위해 가상 머신(VM)에 의존했다. VM은 컨테이너보다 훨씬 크며 이를 실행하기 위해 하이퍼바이저(hypervisor)를 필요로 한다. 상대적으로 크기가 큰 VM 템플릿(template)을 저장, 백업, 전송해야 하기 때문에, VM 템플릿을 생성하는 속도 또한 느리다. 추가적으로, VM은 [불변성(immutability)](/immutable_infrastructure/) 원칙에 위배되는 구성 변경(configuration drift) 문제를 겪을 수도 있다.
+컨테이너가 보편화되기 전에는, 단일 [베어메탈 머신](/bare-metal-machine/) 상에 여러 애플리케이션을 오케스트레이션(orchestration) 하기 위해 가상 머신(VM)에 의존했다. VM은 컨테이너보다 훨씬 크며 이를 실행하기 위해 하이퍼바이저(hypervisor)를 필요로 한다. 상대적으로 크기가 큰 VM 템플릿(template)을 저장, 백업, 전송해야 하기 때문에, VM 템플릿을 생성하는 속도 또한 느리다. 추가적으로, VM은 [불변성(immutability)](/immutable-infrastructure/) 원칙에 위배되는 구성 변경(configuration drift) 문제를 겪을 수도 있다.
 
 ## 문제 해결 방식
 

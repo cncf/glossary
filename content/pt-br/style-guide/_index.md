@@ -64,8 +64,8 @@ title: Modelo de Definição
 
 A label `status` vem logo depois da label de título. Essa label serve para indicar se a definição já está completamente revisada e aprovada, ou se requer mais esforços.
 
-
 Os valores aceitos são:
+
 - Completed (em português, finalizado)
 - Feedback Appreciated  (em português, aceitando feedbacks)
 - Not Started (em português, não iniciado)
@@ -97,6 +97,7 @@ category: Conceito
 ### Definição do glossário
 
 #### Subcabeçalhos
+
 As definições para **tecnologia** e **conceito** contém três subcabeçalhos:
 
 - **O que é**: forneça uma visão curta e clara da definição abordada.
@@ -114,7 +115,7 @@ Quando apropriado, use **exemplos do mundo real** que ajudam os leitores (especi
 
 Quando usado na sua definição, sempre aponte para termos existentes do glossário (apenas a primeira menção deve ser um *link*).
 
-**Exemplo**: veja seção "O que é" da definição de [service mesh](/service_mesh/). Ele se refere aos conceitos de microsserviços, serviços, confiabilidade e observabilidade. Além disso, é usado um exemplo do mundo real comparando desafios de rede em um ambiente de microsserviços (algo que pessoas não técnicas pode não ter conhecimento prévio) a problemas de *wifi* (algo que qualquer pessoa usando um computador pode entender). Sempre que possível tente fazer esse tipo de conexão. 
+**Exemplo**: veja seção "O que é" da definição de [service mesh](/service-mesh/). Ele se refere aos conceitos de microsserviços, serviços, confiabilidade e observabilidade. Além disso, é usado um exemplo do mundo real comparando desafios de rede em um ambiente de microsserviços (algo que pessoas não técnicas pode não ter conhecimento prévio) a problemas de *wifi* (algo que qualquer pessoa usando um computador pode entender). Sempre que possível tente fazer esse tipo de conexão. 
 
 #### Comece com um documento de texto
 
