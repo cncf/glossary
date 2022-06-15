@@ -19,7 +19,7 @@ CD 关键是包括确保软件在部署前得到充分测试的程序，并提�
 
 ## 如何帮助
 
-CD 策略创建了一个完全自动化的生产路径，使用各种部署策略测试和部署软件，如 [canary](/zh-cn/canary_deployment/) 或 [blue-green](/zh-cn/blue_green_deployment/) 发布。
+CD 策略创建了一个完全自动化的生产路径，使用各种部署策略测试和部署软件，如 [金丝雀部署](/zh-cn/canary_deployment/) 或 [蓝绿部署](/zh-cn/blue_green_deployment/) 发布。
 这使得开发人员可以频繁地部署代码，让他们放心地认为新的修订版已经过测试。
 通常情况下，CD 策略中使用基于主干的开发，而不是功能分支或拉动请求。
 
