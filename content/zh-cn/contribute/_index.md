@@ -31,7 +31,7 @@ menu:
 
 ![提出一个议题](/images/how-to/claiming-an-issue.png)
 
-此外，请加入 CNCF Slack 的 [#glossary](https://cloud-native.slack.com/archives/C02TX20MQBB) 频道，让维护者知道你为一个新术语提出了一个议题（最好标记 <em>@Catherine Paganini</em>, <em>@jmo</em>, <em>@Seokho Son</em>, <em>@Jihoon Seo</em>, 和/或 <em>@iamnoah<em> 以确保他们不会错过它）。请注意，你一次只能认领一个术语。如果你想做多个术语，请在申请下一个术语之前完成前一个术语。
+此外，请加入 CNCF Slack 的 [#glossary](https://cloud-native.slack.com/archives/C02TX20MQBB) 频道，让维护者知道你为一个新术语提出了一个议题（最好标记 <em>@Catherine Paganini</em>, <em>@jmo</em>, <em>@Seokho Son</em>, <em>@Jihoon Seo</em>, 和/或 <em>@iamnoah</em> 以确保他们不会错过它）。请注意，你一次只能认领一个术语。如果你想做多个术语，请在申请下一个术语之前完成前一个术语。
 
 一旦他们把它分配给你，你就可以开始工作了。接下来的步骤，请参考 [提交一个新术语（创建一个PR）](#submitting-a-new-term)部分。
 
@@ -54,7 +54,7 @@ menu:
 ### 分流你的议题
 接下来，维护者将对该议题进行分流。这意味着他们将评估该术语是否应成为术语表的一部分（注意，不是每个术语都会被接受。术语应该是既定的、广泛使用的云计算原生术语）。
 
-请让维护者知道你已经在 Slack 上提交了一个术语，否则他们可能会错过它。最好标记 <em>@Catherine Paganini</em>, <em>@jmo</em>, <em>@Seokho Son</em>, <em>@Jihoon Seo</em>, 和/或 <em>@iamnoah<em>。如果该术语被批准，并且你想从事该工作，他们会将其分配给你。
+请让维护者知道你已经在 Slack 上提交了一个术语，否则他们可能会错过它。最好标记 <em>@Catherine Paganini</em>, <em>@jmo</em>, <em>@Seokho Son</em>, <em>@Jihoon Seo</em>, 和/或 <em>@iamnoah</em>。如果该术语被批准，并且你想从事该工作，他们会将其分配给你。
 
 请注意，你一次只能申请一个术语。如果你想做多个术语，请在申请下一个术语之前完成前一个术语。
 
