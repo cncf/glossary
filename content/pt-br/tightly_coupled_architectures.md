@@ -1,7 +1,7 @@
 ---
 title: Arquitetura Acoplada
 status: Completed
-category: Propriedade
+category: propriedade
 ---
 
 Arquitetura acoplada é um estilo de arquitetura em que vários componentes da aplicação são interdependentes (o paradigma oposto de [arquiteturas desacopladas](/loosely_coupled_architecture/)). Isso significa que uma mudança em um componente provavelmente afetará outros componentes. Geralmente é mais fácil de implementar do que estilos de arquitetura desacopladas, mas pode deixar um sistema mais vulnerável a falhas em cascata. Esse estilo de arquitetura também tende a exigir implementações coordenadas de componentes, o que pode se tornar um obstáculo à produtividade do desenvolvedor.
