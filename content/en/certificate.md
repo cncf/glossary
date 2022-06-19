@@ -21,8 +21,6 @@ Consequently, any communication can potentially be intercepted, compromising sen
 ## How it helps
 
 Modern email clients that utilize certificates can notify you if a sender's identity is correct, as will web browsers (notice the little lock in front of the address bar of your web browser).
-Modern email clients will notify you if a sender's identity is correct, as will the browsers (notice the little lock in front of the URL). 
-
 On the other side, certificates can be used to encrypt communication between entities on the internet. They provide an encryption technique that makes it nearly impossible, for someone who intercepts the communication, to actually read the data. 
 
 ## Related terms
