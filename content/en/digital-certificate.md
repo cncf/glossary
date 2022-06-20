@@ -1,5 +1,5 @@
 ---
-title: Certificate
+title: Digital Certificate
 status: Feedback Appreciated
 category: technology
 ---
