@@ -55,6 +55,7 @@ directly
 ej
 Emiliano
 entregables
+escalarse
 existing
 extensibilidad
 Feedback
@@ -110,9 +111,11 @@ new
 Not
 of
 on
+on-premises
 Paganini
 pr
 prem
+premises
 profesionistas
 properties
 propose
@@ -122,6 +125,7 @@ Rael
 Ramer
 request
 requests
+resiliencia
 Rivas
 scripts
 Seokho
