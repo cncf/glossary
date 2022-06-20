@@ -6,7 +6,7 @@ category: concetto
 
 ## Cos'è
 
-Un'applicazione distribuita è un'applicazione la cui funzionalità è suddivisa in parti più piccole e indipendenti. Le applicazioni distribuite sono generalmente composte da [microservizi](/microservices/) che gestiscono diversi aspetti all'interno dell'applicazione più ampia. In un ambiente cloud native i singoli componenti sono eseguiti come [container](/container/) all'interno di un [cluster](/cluster/).
+Un'applicazione distribuita è un'applicazione la cui funzionalità è suddivisa in parti più piccole e indipendenti. Le applicazioni distribuite sono generalmente composte da [microservizi](/it/microservices/) che gestiscono diversi aspetti all'interno dell'applicazione più ampia. In un ambiente cloud native i singoli componenti sono eseguiti come container all'interno di un [cluster](/it/cluster/).
 
 ## Quali problematiche affronta
 
