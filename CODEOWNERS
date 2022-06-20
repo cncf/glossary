@@ -26,11 +26,14 @@
 # Approvers for Italian contents
 /content/it/ @fsbaraglia @meryem-ldn @annalisag-spark @sistella
 
-# Owners of Arabic contents
-/content/ar/ @TarekMSayed @same7ammar @AShabana @hacktron95
+# Approvers for Arabic contents
+/content/ar/ @TarekMSayed @same7ammar @AShabana @arezk84
 
-# Owners of Bengali contents
-/content/bn/ @mitul3737 @Mouly22 @ikramulkayes
+# Approvers for Bengali contents
+/content/bn/ @mitul3737 @Mouly22 @ikramulkayes @Imtiaz1234
 
-# Owners of Spanish contents
-/content/es/ @CathPag @raelga @electrocucaracha
+# Approvers for Spanish contents
+/content/es/ @raelga @electrocucaracha @krol3
+
+# Approvers for Chinese contents
+/content/zh-cn/ @hanyuancheung @Jacob953 @Rocksnake @Submarinee

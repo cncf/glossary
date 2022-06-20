@@ -1,22 +1,42 @@
 name: Request to update existing term (English)
 description: Issue to update existing term in English
 title: "[Update term] `GlossaryTermHere` for `En`"
-labels: ["lang/en","update term"]
+labels: ["lang/en","update term","triage/awaiting"]
 body:
-  - type: textarea
-    id: details
-    attributes:
-      label: Please describe why this term needs to be updated
-      value: |
-        #### Why this term needs to be updated? (briefly) 
-        - 
-    validations:
-      required: true
   - type: markdown
     attributes:
       value: |
         ---
         ## Thanks for taking the time to add a request to the glossary!
-        To claim this issue, please ask for it below. 
-        The maintainers will assign a contributor to this issue.
-        Before getting started, please refer to the [style guide](https://glossary.cncf.io/style-guide/).
+        
+        This issue-template is to propose update for a Glossary term.
+        Please check [How To Contribute](https://glossary.cncf.io/contribute) first.
+
+  - type: textarea
+    id: details
+    attributes:
+      label: 1. Please describe why this term needs to be updated
+      value: |
+        #### Why this term needs to be updated? (briefly)
+        - 
+    validations:
+      required: true
+  - type: checkboxes
+    id: checkboxes
+    attributes:
+      label: 2. Checklist
+      options:
+        - label: I understand that maintainers will confirm if the term should be updated. (Please be patient)
+          required: true
+        - label: I want to work on this suggestion. (If not checked, maintainers will assign another volunteer)
+          required: false
+  - type: textarea
+    id: note
+    attributes:
+      label: (Note)
+      value: |
+        Maintainers will assign a label after assessment procedure. 
+        (from `triage/awaiting` to `triage/accepted` or `triage/not accepted`)
+
+        A contributor can be assigned to this issue after the issue get the `triage/accepted` label.
+        The assignee needs to check [Style Guide](https://glossary.cncf.io/style-guide/).
