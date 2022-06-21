@@ -1,3 +1,4 @@
+---
 title: Event-Driven Architecture
 status: Feedback Appreciated
 category: concept
