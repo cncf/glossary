@@ -1,0 +1,72 @@
+
+
+# UI strings. Buttons and similar.
+
+[ui_pager_prev]
+other = "আগে"
+
+[ui_pager_next]
+other = "পরবর্তী"
+
+[ui_read_more]
+other = "আরও পড়ুন"
+
+[ui_search]
+other = "এই সাইট খোঁজ করুন…"
+
+# Used in sentences such as "Posted in News"
+[ui_in]
+other = "ভিতরে"
+
+# Used in sentences such as "All Tags"
+[ui_all]
+other = "সব"
+
+# Footer text
+[footer_all_rights_reserved]
+other = "সমস্ত অধিকার সংরক্ষিত"
+
+[footer_privacy_policy]
+other = "গোপনীয়তা নীতি"
+
+
+# Post (blog, articles etc.)
+[post_byline_by]
+other = "দ্বারা"
+[post_created]
+other = "তৈরি হয়েছে"
+[post_last_mod]
+other = "সর্বশেষ পরিবর্তিত"
+[post_edit_this]
+other = "এই পৃষ্ঠাটি সম্পাদনা করুন"
+[post_create_child_page]
+other = "চাইল্ড পেজ তৈরি করুন"
+[post_create_issue]
+other = "রিপোর্ট সমস্যা"
+[post_create_project_issue]
+other = "প্রকল্পের সমস্যা (issue) তৈরি করুন"
+[post_posts_in]
+other = "এতে পোস্ট করো"
+[post_reading_time]
+other = "মিনিট পড়া"
+
+# Print support
+[print_printable_section]
+other = "এটি এই বিভাগের বহু-পৃষ্ঠা মুদ্রণযোগ্য দৃশ্য।"
+[print_click_to_print]
+other = "প্রিন্ট করতে এখানে ক্লিক করুন"
+[print_show_regular]
+other = "এই পৃষ্ঠার নিয়মিত দৃশ্যে ফিরে যান"
+[print_entire_section]
+other = "সম্পূর্ণ অধ্যায় প্রিন্ট করুন"
+
+
+# Feedback section
+[feedback_title]
+other = "প্রতিক্রিয়া"
+[feedback_question]
+other = "এই পেজটি কি সহায়ক ছিল?"
+[feedback_answer_yes]
+other = "হ্যাঁ"
+[feedback_answer_no]
+other = "না"
