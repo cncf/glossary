@@ -2,6 +2,7 @@
 title: Continuous integration (CI)
 status: Completed 
 category: concept
+tags: ["application", "methodology", ""]
 ---
 
 ## What it is 

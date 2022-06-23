@@ -2,6 +2,7 @@
 title: Version Control
 status: Completed
 category: Technology
+tags: ["methodology", "", ""]
 ---
 
 ## What it is

@@ -2,6 +2,7 @@
 title: Immutable Infrastructure
 status: Completed
 category: property
+tags: ["infrastructure", "", ""]
 ---
 
 Immutable Infrastructure refers to computer infrastructure 
