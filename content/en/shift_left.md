@@ -2,7 +2,6 @@
 title: Shift Left
 status: Completed
 category: Concept
-tags: ["methodology", "", ""]
 ---
 
 ## What it is

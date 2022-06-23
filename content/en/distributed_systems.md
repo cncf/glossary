@@ -2,7 +2,6 @@
 title: Distributed System
 status: Completed
 category: concept
-tags: ["architecture", "", ""]
 ---
 
 ## What it is

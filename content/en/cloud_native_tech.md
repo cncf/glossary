@@ -2,7 +2,6 @@
 title: Cloud Native Technology
 status: Completed
 category: Concept
-tags: ["fundamentals", "", ""]
 ---
 
 ## What it is

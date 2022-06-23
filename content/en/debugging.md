@@ -2,7 +2,6 @@
 title: Debugging
 status: Completed
 category: concept
-tags: ["application", "", ""]
 ---
 
 ## What it is

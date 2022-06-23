@@ -2,7 +2,6 @@
 title: Managed services
 status: Completed
 category: Technology
-tags: ["", "", ""]
 ---
 
 ## What it is

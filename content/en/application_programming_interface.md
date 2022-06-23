@@ -2,7 +2,7 @@
 title: Application Programming Interface
 status: Completed
 category: technology
-tags: ["architecture", "", ""]
+tags: ["Concept", "Technology", "Infrastructure"]
 ---
 
 ## What it is

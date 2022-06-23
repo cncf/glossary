@@ -2,7 +2,6 @@
 title: Policy as Code (PaC)
 status: Feedback Appreciated
 category: concept
-tags: ["", "", ""]
 ---
 
 ## What it is

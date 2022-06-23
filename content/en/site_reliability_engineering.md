@@ -2,7 +2,6 @@
 title: Site Reliability Engineering
 status: Completed
 category: concept
-tags: ["methodology", "", ""]
 ---
 
 ## What it is

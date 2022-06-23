@@ -2,7 +2,6 @@
 title: Containers
 status: Completed
 category: technology
-tags: ["application", "", ""]
 ---
 
 ## What it is

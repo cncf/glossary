@@ -2,7 +2,6 @@
 title: API Gateway
 status: Completed
 category: technology
-tags: ["networking", "", ""]
 ---
 
 ## What it is

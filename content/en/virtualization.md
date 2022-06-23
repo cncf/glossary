@@ -2,7 +2,6 @@
 title: Virtualization
 status: completed
 category: technology
-tags: ["fundamentals", "infrastructure", ""]
 ---
 
 ## What it is

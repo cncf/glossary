@@ -2,7 +2,6 @@
 title: Service Proxy
 status: Completed
 category: technology
-tags: ["networking", "", ""]
 ---
 
 ## What it is

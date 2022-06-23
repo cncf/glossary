@@ -2,7 +2,6 @@
 title: Infrastructure as a Service (IaaS)
 status: Completed
 category: Technology
-tags: ["infrastructure", "", ""]
 ---
 
 ## What it is

@@ -2,7 +2,6 @@
 title: Portability
 status: Completed
 category: Property
-tags: ["fundamentals", "", ""]
 ---
 
 A software characteristic, portability is a form of reusability that helps to avoid "lock-in" to certain operating environments, e.g. cloud providers, operating systems or vendors. 

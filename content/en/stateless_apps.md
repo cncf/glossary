@@ -2,7 +2,6 @@
 title: Stateless Apps
 status: Feedback Appreciated
 category: technology
-tags: ["fundamentals", "", ""]
 ---
 
 ## What it is

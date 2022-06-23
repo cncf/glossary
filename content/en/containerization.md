@@ -2,7 +2,6 @@
 title: Containerization
 status: Completed
 category: Technology
-tags: ["application", "", ""]
 ---
 
 ## What it is

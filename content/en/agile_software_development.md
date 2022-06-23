@@ -2,7 +2,6 @@
 title: Agile Software Development
 status: Completed
 category: concept
-tags: ["methodology", "", ""]
 ---
 
 ## What it is
