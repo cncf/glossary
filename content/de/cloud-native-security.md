@@ -1,12 +1,12 @@
 ---
 title: Cloud Native Security
-status: Feedback appreciated
+status: Completed
 category: Konzept
 ---
 
 ## Was es ist
 
-Cloud Native Security beschreibt den Ansatz, Konzepte aus dem Bereich Cyber Security in [Cloud Native Anwendungen](/cloud_native_apps/) zu integrieren. 
+Cloud Native Security beschreibt den Ansatz, Konzepte aus dem Bereich Cyber Security in [Cloud Native Anwendungen](/cloud-native-apps/) zu integrieren. 
 Dabei ist vorgesehen, dass Sicherheitsbetrachtungen Teil des gesamten Software-entwicklungs und -Lebenszyklus ist, von der Entwicklung bis zur Inbetriebnahme und Wartung.  
 Cloud Native Security versucht, die gleichen Standards wie herkömmliche Sicherheitsmodelle zu gewährleisten,
 ist dabei allerdings angepasst an die Besonderheiten von Cloud Native Umgebungen. 
