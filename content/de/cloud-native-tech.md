@@ -1,6 +1,6 @@
 ---
 title: Cloud Native Technologien
-status: Feedback erwünscht
+status: Completed
 category: Konzept
 ---
 
