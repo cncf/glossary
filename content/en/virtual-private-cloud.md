@@ -23,4 +23,4 @@ In a Virtual Private Cloud, only authenticated user can get access to the inform
 VPC providers update software regularly on their end. Thus, a user always runs the latest version of the software and does not need to update it. Thus, the updated software provides better performance.<br>
 Often, enterprises need to increase their capacity when they need to scale. VPC providers allow flexibility to the user to modify storage plans accordingly.<br>
 Virtual Clouds are always easier to sync with other clouds be it public or private. Thus, it is easier to deploy and integrate applications hosted on a Virtual Cloud.<br>
-With a VPC, the data is maintained in the cloud. Thus, there is a less consumption of material resources since a separate hardware is not needed. 
+With a VPC, the data is maintained in the cloud. Thus, there is a less consumption of material resources thus, a separate hardware is not needed. 
