@@ -14,4 +14,4 @@ Un'applicazione in esecuzione su un singolo computer rappresenta un singolo punt
 
 ## In che modo aiuta
 
-Dividendo un'applicazione in diverse parti ed eseguendola su più posti, il sistema in generale può tollerare più fallimenti. Inoltre permette a un'applicazione di trarre beneficio dalle caratteristiche di scalabilità che non ha un'applicazione su un'unica instanza, ovvero la capcità a scalare orizzontalmente. Questo, però, comporta un aumento di complessità e di costi operativi, dal momento che in questo modo vengono eseguite molte componenti dell'applicazione, invece di un'unica applicazione.
+Dividendo un'applicazione in diverse parti ed eseguendola su più locazioni, il sistema in generale può tollerare più fallimenti. Inoltre ciò permette a un'applicazione di trarre beneficio dalle caratteristiche di scalabilità che non ha un'applicazione in esecuzione su un'unica instanza, ovvero la capacità di essere scalabile orizzontalmente. Questo, però, comporta un aumento di complessità e di sforzo operativo, dal momento che in questo modo vengono eseguite molte componenti dell'applicazione, invece di un'unica applicazione.
