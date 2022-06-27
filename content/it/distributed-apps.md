@@ -1,5 +1,5 @@
 ---
-title: Applicazione distribuita
+title: Applicazioni distribuite
 status: Feedback Appreciated
 category: concetto
 ---
