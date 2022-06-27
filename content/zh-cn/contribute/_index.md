@@ -127,4 +127,4 @@ menu:
 
 ## 云原生词汇表翻译帮助
 
-为了帮助将云原生词汇表翻译成您的母语，请加入 CNCF Slack 上的 [#glossary-localizations](https://cloud-native.slack.com/archives/C02N2RGFXDF) 频道并告诉我们。您可以加入现有团队或创建新团队（要查看需要什么，请查看 [Localization Guide](https://github.com/cncf/glossary/blob/main/LOCALIZATION.md)）。也请参加我们每月的词汇表工作组会议。你可以在 [CNCF 日历](https://www.cncf.io/calendar/) 中找到会议详情。我们期待在那里与您见面！
+为了帮助将云原生词汇表翻译成您的母语，请加入 CNCF Slack 上的 #glossary-localizations 频道并告诉我们。您可以加入现有团队或创建新团队（要查看需要什么，请查看 [Localization Guide](https://github.com/cncf/glossary/blob/main/LOCALIZATION.md)）。也请参加我们每月的词汇表工作组会议。你可以在 [CNCF 日历](https://www.cncf.io/calendar/) 中找到会议详情。我们期待在那里与您见面！
