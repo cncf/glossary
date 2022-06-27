@@ -1,6 +1,6 @@
 ---
 title: Applicazioni distribuite
-status: Feedback Appreciated
+status: Completed
 category: concetto
 ---
 
