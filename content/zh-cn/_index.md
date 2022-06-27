@@ -12,7 +12,7 @@ title: "云原生词汇表"
 
 对本机词汇表的更改、添加和改进对所有人开放。我们使用由 CNCF 管理的社区驱动流程来开发和完善这个共享词典。该词汇表提供了一个厂商中立的平台，用于管理云原生技术的共享词汇表。欢迎所有参与者根据本项目的目的和章程作出贡献。
 
-任何想要贡献的人都可以提交 GitHub issue 或 创建 PR。欲了解更多信息，请查看 [如何贡献](/zh-cn/contribute/) 和遵循 [样式指南](/zh-cn/style-guide/)，并加入 CNCF Slack 中的 #glossary 频道。这里有 #glossary-localizations 频道，供想要将 glossary 翻译成母语的人使用。
+任何想要贡献的人都可以提交 GitHub issue 或 创建 PR。欲了解更多信息，请查看 [如何贡献](/zh-cn/contribute/) 和遵循 [样式指南](/zh-cn/style-guide/)，并加入 CNCF Slack 中的 [#glossary](https://cloud-native.slack.com/archives/C02TX20MQBB) 频道。这里有 [#glossary-localizations](https://cloud-native.slack.com/archives/C02N2RGFXDF) 频道，供想要将 glossary 翻译成母语的人使用。
 
 ## 致谢
 
