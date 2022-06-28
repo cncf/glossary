@@ -12,9 +12,9 @@ Load balancers can be software or hardware-based.
 
 ## Problem it addresses
 
-Modern applications and websites serve thousands of thousands simultaneous requests from end-users, and returning response to each of that requests responsively, efficiently and reliably is not easy.
-Previously, network requests are routed to specific servers and in this high load senario, some servers may get very high number of requests and some servers stay comfortably.
+Modern applications and websites serve thousands of simultaneous requests from end-users, and returning responses to each of that requests responsively, efficiently, and reliably is not easy.
+Previously network requests are routed to specific servers and in this high load scenario, some servers may get a very high number of requests and some servers stay comfortably.
 
 ## How it helps
 
-Load balancer will distribute all the requests among multiple servers dynamically in a way where no one server get high load when there is other servers which can fulfill those requests. It evently spreads the load across multiple servers. Thus optimising every single request to get responed fast and reliably to end users.
+A Load balancer will distribute all the requests among multiple servers dynamically in a way where no one server gets a high load when there are other servers that can fulfill those requests. It evenly spreads the load across multiple servers. Thus optimizing every single request to get responded fast and reliably to end-users.
