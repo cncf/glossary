@@ -7,17 +7,14 @@ tags: ["", "", ""]
 
 ## What it is
 
-A load balancer is a method to distribute incoming network traffic across a group of servers in the back-end. 
-The solution can be software or hardware based.
+A load balancer is a tool that efficiently distributes incoming requests among multiple instances of an application. Each service of a [microservices](/microservices/) app generally has multiple replicas (or instances), and the load balancer ensures no one service gets the bulk of the requests.
+Load balancers can be software or hardware-based.
 
 ## Problem it addresses
 
-This helps solve the issue related to high availability and distributed systems. 
-When working on an application or service that needs to scale to hundreds of thousands of users, 
-one will often need to distribute that application on multiple servers. 
-The load balancer is the "traffic cop" that routes traffic.
+Modern applications and websites serve thousands of thousands simultaneous requests from end-users, and returning response to each of that requests responsively, efficiently and reliably is not easy.
+Previously, network requests are routed to specific servers and in this high load senario, some servers may get very high number of requests and some servers stay comfortably.
 
 ## How it helps
 
-A load balancer will act as front-end for network traffic and clients. 
-It often has various methods to check which server(s) is up and has the lowest load to handle the request.
+Load balancer will distribute all the requests among multiple servers dynamically in a way where no one server get high load when there is other servers which can fulfill those requests. It evently spreads the load across multiple servers. Thus optimising every single request to get responed fast and reliably to end users.
