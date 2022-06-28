@@ -11,10 +11,6 @@ $td-enable-google-fonts: false;
 $td-sidebar-tree-root-color: $primary;
 
 
-body {
-    background-color: #fdfdfd !important;
-}
-
 // font-stack.
 $font-family-base: 'Clarity City', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, Roboto,
 	Ubuntu, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
@@ -114,35 +110,35 @@ $font-family-base: 'Clarity City', -apple-system, BlinkMacSystemFont, 'Segoe UI'
 a {
     font-weight: 700 !important;
 }
-
 a:hover {
     color: $link-color !important;
     text-decoration: underline !important;
 }
-
 a.tree-root:hover {
     color: $primary !important;
     text-decoration: none !important;
 }
-
 footer a {
     color: $primary;
     font-weight: 600;
 }
-
 footer a:hover {
     color: $primary !important;
     text-decoration: none !important;
 }
-
 h2 a:hover, h3 a:hover {
     text-decoration: none !important;
 }
-
 .td-page-meta a {
     margin-bottom: 1rem;
     letter-spacing: 0.02em;
     font-weight: 500 !important;
+}
+.article-teaser h3 a {
+    color: black;
+}
+.article-teaser h3 {
+    margin-top: 34px !important;
 }
 
 
@@ -150,23 +146,19 @@ h2 a:hover, h3 a:hover {
 .td-sidebar-toc {
     padding-top: 5rem !important;
 }
-
 .td-sidebar-nav > .td-sidebar-nav__section {
     margin-bottom: 4rem !important;
 }
-
 .td-sidebar-nav .td-sidebar-link__page {
     font-weight: 600 !important;
     color: $body-color !important;
     padding: 0.5rem 8px !important;
     letter-spacing: 0.02em !important;
 }
-
 .td-sidebar-nav .td-sidebar-link__page:hover {
     color: $link-color !important;
     text-decoration: none !important;
 }
-
 .td-sidebar-nav a.active {
     border-left: 4px solid #747474;
     background-color: white;
@@ -175,23 +167,22 @@ h2 a:hover, h3 a:hover {
     filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.05));
 }
 
+
 // navbar.
 .td-navbar {
     padding-right: 0.5rem I !important;
     padding-left: 0.5rem !important;
+    background: hsla(0,0%,99%,.98) !important;
 }
-
 .navbar-dark .navbar-nav .nav-link {
     color: black !important;
     font-weight: 600 !important;
 }
-
 .navbar-nav a.nav-link:hover {
     color: rgba(0,0,0,.7) !important;
     transition: color .25s ease-in;
     text-decoration: none !important;
 }
-
 .navbar:after {
     background: linear-gradient(180deg,rgba(0,0,0,.1),transparent);
     content: "";
@@ -201,7 +192,6 @@ h2 a:hover, h3 a:hover {
     width: 100%;
     z-index: 1;
 }
-
 .td-navbar .navbar-brand svg {
     height: 40px !important;
 }
@@ -220,21 +210,17 @@ i.technology, i.property, i.concept {
     font-weight: 900;
     padding-right: 0.5em;
 }
-
 i.technology:before {
     content: "\f7d9";
 }
-
 i.property:before {
     content: "\f1ad";
 }
-
 i.concept:before {
     content: "\f0eb";
 }
-
 div.category {
-    margin: 0 0 .5rem .2rem;
+    margin: 0 0 2.5rem .2rem;
     color: #747474;
     font-weight: 700;
     letter-spacing: 0.2em;
@@ -246,7 +232,6 @@ div.category {
     color: $link-color;
     fill: $link-color;
 }
-
 .social-links svg {
     fill: #fff;
     color: #fff;
@@ -254,7 +239,6 @@ div.category {
     max-width: 30px;
     margin-right: 1rem;
 }
-
 .social-links {
     text-align: center;
 }    
@@ -264,13 +248,12 @@ div.category {
 footer .brand img {
     height: 40px !important;
 }
-
 footer {
     min-height: unset !important;
     background-color: black;
     color: #eee;
+    padding: 4rem 0 3rem;
 }
-
 footer small a {
     color: #eee !important;
 }
@@ -288,7 +271,6 @@ footer small a {
     padding: 0;
     width: unset;
 }
-
 .hs-button {
     background-color: black;
     border: 0;
@@ -310,16 +292,13 @@ footer small a {
     transition: all .25s ease-out;
     word-break: break-word;
 }
-
 .hs-button:hover {
     background-color: #747474;
 }
-
 button.td-sidebar__toggle {
     font-size: 1.5rem;
     border-radius: 0;
 }
-
 button.td-sidebar__toggle:hover, button.td-sidebar__toggle:active {
     color: black;
 }
@@ -329,7 +308,6 @@ button.td-sidebar__toggle:hover, button.td-sidebar__toggle:active {
 .dropdown-item {
     font-weight: 600 !important;
 }
-
 .dropdown-item:hover, .dropdown-item:focus {
     color: black !important;
     text-decoration: none !important;
@@ -337,50 +315,59 @@ button.td-sidebar__toggle:hover, button.td-sidebar__toggle:active {
 
 
 // misc.
-.td-search-input {
-    background-color: white !important;
+body {
+    background-color: #fdfdfd !important;
 }
-
 .form-control::placeholder, .form-control {
     color: black !important;
     font-weight: 300 !important;
     letter-spacing: 0.02em !important;
 }
-
 h2 {
     font-weight: 700 !important;
 }
-
 .td-content p {
     line-height: 170%;
 }
-
 .horizontal-rule {
     background-color: #fff;
     height: 1px;
     width: 100%;
     margin: 1rem 0;
 }
-
 #cncf-logo {
     margin: 1rem 0;
 }
-
 h2.feedback--title {
     margin-top: 3rem;
 }
-
 .td-content > h2:not(:first-child) {
     margin-top: 4rem !important;
 }
-
 .td-content > h2 {
     margin-bottom: 2.1rem !important;
 }
-
 .td-content > h1 {
-    margin-bottom: 2rem !important;
+    margin-bottom: 1.4rem !important;
 }
+h1 {
+    font-weight: 700 !important;
+}
+h1.thin {
+    font-weight: 400 !important;
+}
+.articles-of-tag hr {
+    background: linear-gradient(180deg,#c4c4c4,hsla(0,0%,77%,0));
+    border-bottom: 0;
+    height: 10px!important;
+    opacity: .15!important;
+    width: 100%!important;
+}
+.article-meta {
+    margin-bottom: 3rem !important;
+}
+
+
 
 // mobile.
 @media (max-width: 768px){
@@ -393,6 +380,39 @@ h2.feedback--title {
         margin-top: 0 !important;
     }
 }
+
+
+// taxonomy stuff.
+.tax-term {
+    background: #D62293;
+    border-radius: 50px;
+    font-weight: 500 !important;
+    font-size: 10px;
+    line-height: 140%;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #FFFFFF;
+    padding: 5px 12px;
+    margin-right: 8px;
+}
+.tax-term:hover {
+    color: #FFFFFF !important;
+    text-decoration: none !important;    
+}
+.tax-terms {
+    list-style: none;
+    margin: 60px 0;
+    padding: 0;
+}
+.tax-terms li {
+    margin: 20px 0;
+}
+.taxonomy-count {
+    padding-left: 0 !important;
+    margin-left: 0 !important;
+}
+
+
 
 // desktop.
 @media (min-width: 768px){
@@ -422,4 +442,29 @@ h2.feedback--title {
     .social-links {
         text-align: right;
     }    
+
+
+    // search.
+    .td-search-input {
+        border: none !important;
+        border-bottom: 2px solid !important;
+        border-radius: 0 !important;
+        box-shadow: none !important;
+        font-weight: 200 !important;
+        font-size: 20px !important;
+    }
+    .td-sidebar__search {
+        background-color: transparent !important;
+        padding: 1rem 15px 1rem 33px !important;
+    }
+    .form-control::placeholder {
+        line-height: 1.1em;
+    }
+    .td-search-input.form-control:focus {
+        background-color: transparent !important;
+    }
+    .form-control {
+        padding: 1.8rem 0.75rem !important;
+    }
+
 }
