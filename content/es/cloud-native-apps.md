@@ -17,7 +17,7 @@ a menudo dependiendo en gran medida del aprovisionamiento manual de infraestruct
 Esto, a su vez, restringió a los desarrolladores y sus aplicaciones a ese centro de datos en específico.
 Las aplicaciones que no fueron diseñadas para la nube no pudieron aprovechar las capacidades de resiliencia y escalabilidad de un entorno de nube.
 Por ejemplo, las aplicaciones que requieren una intervención manual para iniciarse correctamente no pueden escalarse automáticamente,
-ni se pueden reiniciar automáticamente en caso de falla.
+ni pueden reiniciarse automáticamente en caso de falla.
 
 ## ¿Cómo ayuda?
 
