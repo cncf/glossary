@@ -1,5 +1,5 @@
 ---
-title: Aplicaciones Nativas de la Nube
+title: Aplicaciones Nativas para la Nube
 status: Completed
 category: Concepto
 ---
