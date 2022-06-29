@@ -12,7 +12,7 @@ Estas aplicaciones se integran fácilmente con sus respectivas arquitecturas en 
 ## Problema que aborda
 
 Tradicionalmente, los entornos on-premises proporcionaban recursos informáticos de una manera bastante personalizada.
-Cada centro de datos tenía servicios que [acoplaban estrechamente](/es/tightly-coupled-architectures/) aplicaciones a entornos específicos,
+Cada centro de datos tenía servicios que [acoplaban estrechamente](/tightly-coupled-architectures/) aplicaciones a entornos específicos,
 a menudo dependiendo en gran medida del aprovisionamiento manual de infraestructura, como [máquinas virtuales](/es/virtual_machine/) y servicios.
 Esto, a su vez, restringió a los desarrolladores y sus aplicaciones a ese centro de datos en específico.
 Las aplicaciones que no fueron diseñadas para la nube no pudieron aprovechar las capacidades de resiliencia y escalabilidad de un entorno de nube.
