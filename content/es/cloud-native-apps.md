@@ -21,6 +21,6 @@ ni pueden reiniciarse automáticamente en caso de falla.
 
 ## ¿Cómo ayuda?
 
-Si bien no existe una ruta única para las aplicaciones nativas en la nube, éstas sí tienen algunos puntos en común.
+Si bien no existe una ruta única para las aplicaciones nativas para la nube, éstas sí tienen algunos puntos en común.
 Las aplicaciones nativas de la nube son resistentes, manejables y cuentan con la ayuda del conjunto de servicios en la nube que las acompañan.
 Los diversos servicios en la nube permiten un alto grado de [observabilidad](/es/observability/), permitiendo a los usuarios detectar y abordar problemas antes de que se agraven. Combinados con una sólida automatización, permiten a los ingenieros realizar cambios de alto impacto con frecuencia y de manera predecible con un esfuerzo mínimo.
