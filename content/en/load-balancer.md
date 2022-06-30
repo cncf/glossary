@@ -12,9 +12,9 @@ Load balancers can be software or hardware-based.
 
 ## Problem it addresses
 
-Modern applications and websites serve thousands of simultaneous requests from end-users, and returning responses to each of that requests responsively, efficiently, and reliably is not easy.
-Previously network requests are routed to specific servers and in this high load scenario, some servers may get a very high number of requests and some servers stay comfortably.
+Modern applications and websites serve thousands of thousands of simultaneous requests from end-users. In order to handle all those requests, [horizontal scaling](/horizontal-scaling/) is nearly unavoidable.
+Unfortunately, [horizontal scaling](/horizontal-scaling/) introduces a new level of complexity which is, how to distribute the incoming traffic to all horizontally scaled services. This is where load balancers come in handy.
 
 ## How it helps
 
-A Load balancer will distribute all the requests among multiple servers dynamically in a way where no one server gets a high load when there are other servers that can fulfill those requests. It evenly spreads the load across multiple servers. Thus optimizing every single request to get responded fast and reliably to end-users.
+Load balancers will distribute all the requests among multiple servers dynamically in a way where no one server gets a high load when there are other servers that can fulfill those requests. It spreads the load across multiple servers, following a defined schema (i.e. evenly or percentage-based). Thus load balancers are playing an important role in the overall performance and user experience of an application.
