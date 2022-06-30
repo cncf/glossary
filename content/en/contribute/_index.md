@@ -58,7 +58,7 @@ Please note that terms must meet the [CNCF's cloud native definition](https://gi
 The only exceptions are foundational terms needed to understand cloud native concepts.
 
 Below is a step-by-step guide for those not yet familiar with GitHub. 
-**If you are a GitHub Pro**, please *do* have a quick look to make sure you use our issue templates, 
+**If you are a GitHub Pro**, please _do_ have a quick look to make sure you use our issue templates, 
 appropriate naming conventions, claim a PR on Slack (otherwise we may miss it), and where to find the file template. 
 And please make sure to read the [Style Guide](/style-guide/) before getting started — thank you! 
 
@@ -74,7 +74,6 @@ You'll see a variety of templates. To propose a new term in English, select "Req
 
 Add the word you're suggesting, answer the two questions below, check the checkboxes, and hit "Submit new issue".
 If you're just proposing a new term, you're done! To work on it, follow the next steps.
-
 
 ### Triaging your issue {#triaging-your-issue}
 
@@ -163,7 +162,7 @@ Please refer to "Submitting a new term" above for a detailed description (jump t
 
 ## Help translate the glossary {#help-translate-the-glossary}
 
-To help translate the glossary into your native language, please join the #glossary-localizations channel on the CNCF Slack and let us know. 
+To help translate the glossary into your native language, please join the [#glossary-localizations](https://cloud-native.slack.com/archives/C02N2RGFXDF) channel on the CNCF Slack and let us know.
 You can either join an existing team or create a new one 
 (to see what it takes, check out or [Localization Guide](https://github.com/cncf/glossary/blob/main/LOCALIZATION.md)). 
 Please also join our monthly Glossary Working Group meetings. You can find meeting details in the [CNCF calendar](https://www.cncf.io/calendar/). 
