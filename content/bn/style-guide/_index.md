@@ -29,6 +29,13 @@ menu:
 
 প্রতিটি শব্দকোষ একটি মার্কডাউন ফাইলে সংরক্ষণ করা হয় এবং এই টেমপ্লেটটি অনুসরণ করে:
 
+```md
+---
+title: 
+status: 
+category: 
+---
+
 
 ## এটা কি
 
@@ -42,9 +49,18 @@ menu:
 
 জিনিসটি কীভাবে সমস্যার সমাধান করে তার কয়েকটি লাইন।
 
+```
+
+### Title
+
+**Title** লেবেল সর্বদা একটি সংজ্ঞা লেআউটের শীর্ষে থাকবে এবং এর মান শিরোনামের ক্ষেত্রে হওয়া উচিত। 
+
+```md
+---
+title: সংজ্ঞা টেমপ্লেট
+```
 
 ### Status
-
 
 শিরোনাম লেবেলের পরে **status** লেবেল আসবে। স্থিতি লেবেল নির্দেশ করে যে সংজ্ঞাগুলি পুঙ্খানুপুঙ্খভাবে যাচাই করা হয়েছে বা আরও প্রচেষ্টার প্রয়োজন আছে কিনা।
 
@@ -59,19 +75,6 @@ menu:
 ```md
 ---
 title: সংজ্ঞা টেমপ্লেট
-The **status** label will come after the title label. The status label indicates whether definitions are thoroughly vetted or require more effort.
-
-Valid values are: 
-
-- Completed
-- Feedback Appreciated 
-- Not Started
-
-You can always open an issue against a completed definition. While a definition is in flux, its status will be changed to *Feedback Appreciated*.
-
-```md
----
-title: Definition Template
 status: Feedback Appreciated
 ```
 
