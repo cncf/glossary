@@ -7,7 +7,9 @@ tags: ["", "", ""]
 
 ## What it is
 
-A load balancer is a tool that efficiently distributes incoming requests among multiple instances of an application. Take a [microservice](/microservices/) architecture for example, where each service can be [scaled horizontally](/horizontal-scaling/). A load balancer sits in front of a scaled microservice and ensures that no one instance gets the bulk of the requests.
+A load balancer is a tool that efficiently distributes incoming requests among multiple instances of an application. 
+Take a [microservice](/microservices/) architecture for example, where each service can be [scaled horizontally](/horizontal-scaling/). 
+A load balancer sits in front of a scaled microservice and ensures that no one instance gets the bulk of the requests.
 Load balancers can be software or hardware-based.
 
 ## Problem it addresses
