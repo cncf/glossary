@@ -12,7 +12,7 @@ Tanto los agentes de software, como las prácticas, son utilizados para ejecutar
 
 ## Problema que aborda
 
-Los procesos de gestión de la configuración de la infraestructura se enfrentan a desafíos como la derivación en la configuración, los despliegues fallidos, la necesidad de confiar en el estado anterior del sistema como garantía de éxito, la falta de documentación o una desconocida historia de desarrollo.
+Los procesos de gestión de la configuración de la infraestructura se enfrentan a desafíos como las diferencias en la configuración, los despliegues fallidos, la necesidad de confiar en el estado anterior del sistema como garantía de éxito, la falta de documentación o una desconocida historia de desarrollo.
 Adoptar un flujo de trabajo GitOps puede ayudar a solventar estos problemas, entre muchos otros.
 
 
