@@ -67,6 +67,7 @@ weight = 1
 #time_format_default = "02.01.2006"
 #time_format_blog = "02.01.2006"
 
+<<<<<<< HEAD
 
 [languages.hi]
 title = "क्लाउड नेटिव शब्दावली"
@@ -114,17 +115,23 @@ weight = 7
 =======
 >>>>>>> bba037a (Fixed merge conflicts)
 
+=======
+>>>>>>> 13f9b50 (Settings and initial contents for Bengali localization (#370))
 [languages.bn]
 title = "ক্লাউড নেটিভ শব্দকোষ"
 description = "CNCF ক্লাউড নেটিভ শব্দকোষ প্রকল্পটি ক্লাউড নেটিভ অ্যাপ্লিকেশন সম্পর্কে কথা বলার সময় ব্যবহৃত সাধারণ পদগুলির জন্য একটি রেফারেন্স হিসাবে ব্যবহার করার উদ্দেশ্যে।"
 languageName = "বাংলা(Bengali)"
 contentDir = "content/bn"
 <<<<<<< HEAD
+<<<<<<< HEAD
 weight = 8
 =======
 weight = 7
 >>>>>>> bba037a (Fixed merge conflicts)
 
+=======
+weight = 2
+>>>>>>> 13f9b50 (Settings and initial contents for Bengali localization (#370))
 
 [markup]
   [markup.goldmark]
