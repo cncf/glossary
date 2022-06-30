@@ -1,0 +1,11 @@
+{{ $context := .context  }}
+{{ $taxo := .taxo  }}
+{{ if (gt (len ($context.GetTerms $taxo)) 0)}}
+<div class="taxonomy taxonomy-terms-article taxo-{{ urlize $taxo }}">
+  <ul class="taxonomy-terms">
+    {{ range ($context.GetTerms $taxo) }}
+      <li><a class="tax-term" href="{{ .RelPermalink }}" data-taxonomy-term="{{ urlize .LinkTitle }}">{{ title .LinkTitle }}</a></li>
+    {{ end }}
+  </ul>
+</div>
+{{ end }}

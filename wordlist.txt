@@ -49,6 +49,8 @@ datacenter
 datadog
 de
 declaratively
+decrypt
+decrypted
 definitions
 dependabot
 deployable
@@ -165,6 +167,7 @@ snippets
 socio
 sre
 sres
+ssl
 stateful
 striphtml
 subnets
@@ -179,6 +182,7 @@ transcodes
 txt
 ubuntu
 underdefined
+unencrypted
 utf
 valueerror
 vcs
