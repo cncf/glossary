@@ -1,5 +1,8 @@
 ---
+<<<<<<< HEAD
 
+=======
+>>>>>>> 6ed4e6f (Update container.md)
 title: কন্টেইনার (Container)
 status: Completed
 category: প্রযুক্তি
