@@ -113,18 +113,18 @@ Quando apropriado, use **exemplos do mundo real** que ajudem os leitores (especi
 
 Quando usado na sua definição, sempre aponte para termos existentes do glossário (apenas a primeira menção deve ser um *link*).
 
-**Exemplo**: veja a seção "O que é" da definição de [service mesh](https://glossary.cncf.io/service_mesh/). Ele se refere aos conceitos de microsserviços, serviços, confiabilidade e observabilidade. Além disso, é usado um exemplo do mundo real comparando desafios de rede em um ambiente de microsserviços (algo que pessoas não técnicas podem não ter conhecimento prévio) a problemas de *wifi* (algo que qualquer pessoa usando um computador pode entender). Sempre que possível tente fazer esse tipo de conexão. 
+**Exemplo**: veja a seção "O que é" da definição de [service mesh](/service_mesh/). Ele se refere aos conceitos de microsserviços, serviços, confiabilidade e observabilidade. Além disso, é usado um exemplo do mundo real comparando desafios de rede em um ambiente de microsserviços (algo que pessoas não técnicas podem não ter conhecimento prévio) a problemas de *wifi* (algo que qualquer pessoa usando um computador pode entender). Sempre que possível tente fazer esse tipo de conexão. 
 
 #### Comece com um documento de texto
 
 Recomendamos começar com um documento de texto, revisando-o por algumas vezes durante um tempo ou até dias. Isso vai permitir que você identifique frases ou expressões que poderiam estar escritas de uma forma mais simples e acessíveis. Além disso, execute uma revisão ortográfica antes de enviar o Pull Request.
 
-Para garantir que outra pessoa não envie um Pull Request enquanto estiver trabalhando em uma definição, tenha certeza de solicitar que uma *issue* (caso exista) seja atribuída a você ou crie uma nova (caso não exista ainda). Para obter mais informações consulte a página sobre [como contribuir](https://glossary.cncf.io/contribute/).
+Para garantir que outra pessoa não envie um Pull Request enquanto estiver trabalhando em uma definição, tenha certeza de solicitar que uma *issue* (caso exista) seja atribuída a você ou crie uma caso não exista. Mais informações consulte a página sobre [como contribuir](/pt-br/contribute/).
 
 Além disso, antes de começar, leia algumas das definições já publicadas no glossário para ter uma ideia do nível de detalhes, dificuldades e quando será apropriado usar exemplos.
 
 ## O que esperar do processo de revisão
 
-É importante ressaltar que até o momento somos apenas três pessoas mantenedoras, fazendo isso no tempo livre. Ocasionalmente os termos podem ser revisados rapidamente ou podem levar algum tempo, por isso agradecemos a paciência. Se tiver alguma dúvida, entre em contato no canal `#glossary`do slack, para saber onde e como encontrá-lo, consulte a página de [como contribuir](https://glossary.cncf.io/contribute/).
+É importante ressaltar que até o momento somos apenas três pessoas mantenedoras fazendo isso no tempo livre. Ocasionalmente os termos podem ser revisados rapidamente ou podem levar algum tempo, por isso agradecemos a paciência. Se tive alguma dúvida, entre em contato no canal `#glossary`do slack, para saber onde e como encontrá-lo, consulte a página de [como contribuir](/pt-br/contribute/).
 
 Nosso objetivo é que o glossário seja o melhor recurso possível, por isso é normal, após o envio de um Pull Request, que solicitemos uma ou mais revisões. Não se frustre, esse processo de revisão é a nossa colaboração, o que vai garantir que a sua contribuição se torne uma definição verdadeiramente útil, lida e consultada por leitores de todo o mundo. 
