@@ -6,7 +6,7 @@ category: tecnologia
 
 ## O que é
 
-A conteinerização é o processo de agrupar uma aplicação e suas dependências em uma [imagem de contêiner](/container-image/). O processo de criação do contêiner requer adesão ao padrão [Open Container Initiative](https://opencontainers.org) (OCI). Desde que a saída seja uma imagem de contêiner que atenda a esse padrão, a ferramenta de conteinerização usada não importa.
+A conteinerização é o processo de agrupar uma aplicação e suas dependências em uma [imagem de contêiner](/pt-br/container-image/). O processo de criação do contêiner requer adesão ao padrão [Open Container Initiative](https://opencontainers.org) (OCI). Desde que a saída seja uma imagem de contêiner que atenda a esse padrão, a ferramenta de conteinerização usada não importa.
 
 ## Problema relacionado
 

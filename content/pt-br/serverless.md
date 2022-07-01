@@ -10,7 +10,7 @@ Serverless é um modelo de desenvolvimento nativo na nuvem que permite que desen
 
 ## Problema relacionado
 
-Em um modelo de [computação em nuvem](/cloud_computing/) com [Infraestrutura-como-Serviço (IaaS)](/infrastructure_as_a_service/), usuários adquirem unidades de capacidade, o que significa que o provedor da nuvem fornece componentes de servidores sempre disponíveis para a execução de aplicações. É responsabilidade do usuário fazer com que os servidores escalem para cima durante períodos de alta demanda e que escalem para baixo quando a capacidade fornecida não é mais necessária. A infraestrutura de nuvem utilizada para executar uma aplicação fica, no entanto, ativa mesmo quando a aplicação não está sendo utilizada.
+Em um modelo de [computação em nuvem](/pt-br/cloud-computing/) com [Infraestrutura-como-Serviço (IaaS)](/infrastructure-as-a-service/), usuários adquirem unidades de capacidade, o que significa que o provedor da nuvem fornece componentes de servidores sempre disponíveis para a execução de aplicações. É responsabilidade do usuário fazer com que os servidores escalem para cima durante períodos de alta demanda e que escalem para baixo quando a capacidade fornecida não é mais necessária. A infraestrutura de nuvem utilizada para executar uma aplicação fica, no entanto, ativa mesmo quando a aplicação não está sendo utilizada.
 
 ## Como isso ajuda
 

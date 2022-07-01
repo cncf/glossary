@@ -6,7 +6,7 @@ category: conceito
 
 ## O que é
 
-As tecnologias nativas da nuvem, também conhecidas como a *stack* nativa da nuvem, são as tecnologias usadas para criar [aplicativos nativos da nuvem](/pt-br/cloud_native_apps/). Essas tecnologias permitem que as organizações criem e executem aplicações escaláveis em ambientes modernos e dinâmicos, tais como as nuvens públicas, privadas e  híbridas, ao mesmo tempo em que aproveitam ao máximo os benefícios da [computação em nuvem](/cloud_computing/). Eles são projetados desde o início para explorar os recursos de computação em nuvem e contêineres, serviços em malha, microsserviços e infraestrutura imutável exemplificam essa abordagem.
+As tecnologias nativas da nuvem, também conhecidas como a *stack* nativa da nuvem, são as tecnologias usadas para criar [aplicativos nativos da nuvem](/pt-br/cloud-native-apps/). Essas tecnologias permitem que as organizações criem e executem aplicações escaláveis em ambientes modernos e dinâmicos, tais como as nuvens públicas, privadas e  híbridas, ao mesmo tempo em que aproveitam ao máximo os benefícios da [computação em nuvem](/pt-br/cloud-computing/). Eles são projetados desde o início para explorar os recursos de computação em nuvem e contêineres, serviços em malha, microsserviços e infraestrutura imutável exemplificam essa abordagem.
 
 ## Problema relacionado 
 
