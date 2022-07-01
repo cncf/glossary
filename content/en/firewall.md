@@ -2,6 +2,7 @@
 title: Firewall
 status: Completed
 category: Technology
+tags: ["security", "", ""]
 ---
 
 ## What it is
