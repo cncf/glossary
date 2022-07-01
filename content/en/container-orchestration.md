@@ -5,7 +5,7 @@ category: Concept
 ---
 
 ## What it is
-Container orchestration automates container deployment, management, scaling, and networking. It's primary goal is to manage the life cycle of containers and their dynamic environments. A conductor, like in an orchestra, directs a group of musicians who work collaboratively to perform a piece of music. Similarly containers in your application are orchestra musicians.
+[Container](https://glossary.cncf.io/container/) orchestration automates container lifecycle management tasks such as provisioning, deployment, scaling, and networking in dynamic environments. It functions like a data center operating system (OS), managing [containerized](https://glossary.cncf.io/containerization/) applications that run across a [distributed system](https://glossary.cncf.io/distributed-systems/) (just like the OS on your laptop that manages your apps).
 
 ## Problem it addresses 
 On behalf of the user, container orchestration organizes the compute, networking, and storage infrastructure. To ensure that applications are highly available and computing resources are used to their full potential, it does away with the requirement for direct manual orchestration in a cluster and automates the orchestration process.  
