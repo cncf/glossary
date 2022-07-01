@@ -66,8 +66,10 @@ frontend
 Garcia
 gateway
 GCP
+git
 Git
 github
+GitOps
 glossary
 Gmail
 good
@@ -94,6 +96,7 @@ Kubernetes
 Language
 laptop
 localizations
+loop
 main
 markdown
 md
