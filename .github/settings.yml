@@ -143,6 +143,16 @@ collaborators:
   - username: Submarinee
     permission: push
 
+  # l10n fr approvers
+  - username: huats
+    permission: push
+
+  - username: fydrah
+    permission: push
+
+  - username: Krast76
+    permission: push
+
 branches:
 
   # Default branch of this repository for configurations and English contents
@@ -330,6 +340,24 @@ branches:
          - Jacob953
          - Rocksnake
          - Submarinee
+        teams: []
+      enforce_admins: null
+      required_linear_history: null
+
+  # l10n branch for fr contents only
+  - name: dev-fr
+    protection:
+      required_pull_request_reviews:
+        required_approving_review_count: 2
+        require_code_owner_reviews: true
+      required_status_checks: null
+      restrictions:
+        apps: []
+        # fr approvers
+        users:
+         - huats
+         - fydrah
+         - Krast76
         teams: []
       enforce_admins: null
       required_linear_history: null
