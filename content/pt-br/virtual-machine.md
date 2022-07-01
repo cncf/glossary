@@ -10,7 +10,7 @@ Uma máquina virtual ou VM (do inglês "Virtual Machine") é a inexistência de 
 
 ## Problema relacionado
 
-As máquinas virtuais se aproveitam da virtualização. Quando uma máquina [bare metal](/pt-br/bare_metal_machine/) está vinculada a um único sistema operacional, os recursos da máquina que podem ser usados são um pouco limitado. Além disso, quando um sistema operacional está vinculado a uma única máquina física, sua disponibilidade está diretamente ligada a esse hardware. Se a máquina física estiver desligada devido a falhas de manutenção ou hardware, o sistema operacional também estará.
+As máquinas virtuais se aproveitam da virtualização. Quando uma máquina [bare metal](/pt-br/bare-metal-machine/) está vinculada a um único sistema operacional, os recursos da máquina que podem ser usados são um pouco limitado. Além disso, quando um sistema operacional está vinculado a uma única máquina física, sua disponibilidade está diretamente ligada a esse hardware. Se a máquina física estiver desligada devido a falhas de manutenção ou hardware, o sistema operacional também estará.
 
 ## Como isso ajuda
 
