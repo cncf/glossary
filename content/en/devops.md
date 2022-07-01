@@ -7,7 +7,9 @@ tags: ["methodology", "", ""]
 
 ## What it is
 
-DevOps is a methodology in which teams own the entire process from application development to production operations, hence DevOps. 
+DevOps is a practice of Development and Operations engineers working together in the entire software development life cycle following Lean and Agile principles that allows them to deliver Quality software in Rapid and Continuous manner.
+DevOps is not a tool or job title, it is a shared mindset bringing cultural transformation.
+It is a methodology in which teams own the entire process from application development to production operations, hence DevOps. 
 It goes beyond implementing a set of technologies and requires a complete shift in culture and processes. 
 DevOps calls for groups of engineers that work on small components (versus an entire feature), decreasing handoffs – a common source of errors. 
 
