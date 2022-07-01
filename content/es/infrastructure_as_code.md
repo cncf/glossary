@@ -10,7 +10,7 @@ Infraestructura como código es una práctica para almacenar la definición de l
 
 ## Problema que aborda
 
-Construir aplicaciones de forma nativa para la nube requiere que la infraestructura sea desechable y reproducible. Además requiere [escalar](/scalability/) bajo demanda de forma automática y repetible, potencialmente sin la intervención humana. El aprovisionamiento manual no puede cumplir los requerimientos de respuesta y escalado de las [aplicaciones nativas para la nube](/cloud_native_apps/). Los cambios manuales no son reproducibles, rápidamente se enfrentan a limites de escalabilidad, e introducen errores de configuración.
+Construir aplicaciones de forma nativa para la nube requiere que la infraestructura sea desechable y reproducible. Además requiere [escalar](/scalability/) bajo demanda de forma automática y repetible, potencialmente sin la intervención humana. El aprovisionamiento manual no puede cumplir los requerimientos de respuesta y escalado de las [aplicaciones nativas para la nube](/es/cloud-native-apps/). Los cambios manuales no son reproducibles, rápidamente se enfrentan a limites de escalabilidad, e introducen errores de configuración.
 
 ## ¿Cómo ayuda?
 
