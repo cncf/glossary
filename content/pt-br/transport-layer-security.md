@@ -16,3 +16,4 @@ Sem o TLS, informações confidenciais, como hábitos de navegação, correspond
 ## Como isso ajuda
 
 O TLS usa uma combinação de técnicas de codificação que fornecem segurança ao transmitir dados através de uma rede. O TLS permite uma conexão criptografada entre uma aplicação cliente e um servidor, tal como um navegador da web e um site bancário. Ele também permite que as aplicações clientes identifiquem positivamente o servidor que está conectado, o que reduz o risco de um cliente se comunicar com um site fraudulento. Isso garante que terceiros não possam ver e monitorar dados transmitidos entre aplicações usando o TLS, o que protege informações confidenciais e privadas, como números de cartão de crédito, senhas, localização, etc.
+
