@@ -6,7 +6,7 @@ category: 概念
 
 ## 是什么
 
-水平伸缩是一种通过添加更多[节点](/nodes/)来增加系统容量的技术，而不是向单个节点添加更多计算资源（后者称为[垂直伸缩](/zh-cn/vertical_scaling/)）。
+水平伸缩是一种通过添加更多[节点](/nodes/)来增加系统容量的技术，而不是向单个节点添加更多计算资源（后者称为[垂直伸缩](/zh-cn/vertical-scaling/)）。
 假设我们有一个 4GB RAM 的系统，并且想要将其容量增加到 16GB RAM，水平伸缩意味着通过添加 4 x 4GB RAM 而不是切换到 16GB RAM 系统来实现。
 
 这种方法通过添加新实例或[节点](/nodes/)来提高应用程序的性能，以更好地均衡工作负载。
@@ -25,5 +25,5 @@ category: 概念
 
 ## 相关词汇
 
-* [垂直伸缩](/zh-cn/vertical_scaling/)
-* [自动伸缩](/zh-cn/auto_scaling/)
+* [垂直伸缩](/zh-cn/vertical-scaling/)
+* [自动伸缩](/zh-cn/auto-scaling/)

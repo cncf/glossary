@@ -15,5 +15,5 @@ category: 属性
 
 ## 相关词汇
 
-* [水平伸缩](/zh-cn/horizontal_scaling/)
-* [垂直伸缩](/zh-cn/vertical_scaling/)
+* [水平伸缩](/zh-cn/horizontal-scaling/)
+* [垂直伸缩](/zh-cn/vertical-scaling/)

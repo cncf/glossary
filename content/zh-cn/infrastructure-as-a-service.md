@@ -6,8 +6,8 @@ category: 技术
 
 ## 是什么
 
-基础设施即代码，或者 IaaS ，是一种 [云计算](/zh-cn/cloud_computing/) 服务模型，
-它提供 [物理](/bare_metal_machine/) 或 [虚拟](/zh-cn/virtualization/) 的计算、存储和网络资源，使用按需按量的计费模式。
+基础设施即代码，或者 IaaS ，是一种 [云计算](/zh-cn/cloud-computing/) 服务模型，
+它提供 [物理](/bare-metal-machine/) 或 [虚拟](/zh-cn/virtualization/) 的计算、存储和网络资源，使用按需按量的计费模式。
 云提供商拥有和管理软件和硬件设施，可供消费者在公共、私有或混合云部署和使用。
 
 ## 解决的问题
