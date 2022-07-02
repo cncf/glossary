@@ -11,8 +11,8 @@ Heroku、Cloud Foundry、App Engine 是 PaaS 产品的示例。
 
 ## 解决的问题
 
-要利用好 [微服务](/zh-cn/microservices/) 或 [分布式应用程序](/zh-cn/distributed_apps/) 等云原生模式，
-运维团队和开发人员需要能够免去大量运维工作， 其中包括供应基础设施、处理[服务发现](/service_discovery/) 和
+要利用好 [微服务](/zh-cn/microservices/) 或 [分布式应用程序](/zh-cn/distributed-apps/) 等云原生模式，
+运维团队和开发人员需要能够免去大量运维工作， 其中包括供应基础设施、处理[服务发现](/service-discovery/) 和
 负载平衡以及[扩展](/zh-cn/scalability/) 应用程序等任务。
 
 ## 如何帮助
