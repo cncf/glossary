@@ -19,5 +19,6 @@ category: 概念
 垂直伸缩通过添加计算资源来增加现有应用程序的容量，允许应用程序处理更多请求并同时执行更多工作。
 
 ## 相关词汇
+
 * [水平伸缩](/zh-cn/horizontal_scaling/)
 * [自动伸缩](/zh-cn/auto_scaling/)
