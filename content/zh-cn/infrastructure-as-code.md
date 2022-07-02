@@ -20,5 +20,5 @@ category: 概念
 
 通过将服务器、负载均衡器和子网等数据中心资源表示为代码，
 它允许基础架构团队对所有配置拥有单一的数据源，并允许他们在 
-[CI](/continuous_integration/ )/[CD](/continuous_delivery/) 
+[CI](/continuous-integration/ )/[CD](/continuous-delivery/) 
 通道中管理数据中心，实现版本控制和部署策略。

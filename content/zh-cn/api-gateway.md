@@ -7,7 +7,7 @@ category: 技术
 
 ## 是什么
 
-API 网关是一种通过聚合多个应用程序的 [API](/zh-cn/application_programming_interface/)，并实现一站式管理的工具。
+API 网关是一种通过聚合多个应用程序的 [API](/zh-cn/application-programming-interface/)，并实现一站式管理的工具。
 它允许组织将关键性功能移交到一个可集中管理的地方，例如身份验证和授权、限制应用程序之间的请求数量。
 一个 API 网关则作为一个公共的接口，向 API 消费者（通常来自外部）提供服务。
 
