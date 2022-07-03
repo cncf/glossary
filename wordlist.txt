@@ -60,6 +60,7 @@ devsecops
 dic
 differentiator
 digitalocean
+docker
 dockerfile
 dockerhub
 docstrings
