@@ -30,12 +30,14 @@ collaborators:
   - username: seokho-son
     permission: admin
   
-  # English approvers (approver for all files in repository)
   - username: jihoon-seo
-    permission: push
+    permission: maintain
 
   - username: iamNoah1
-    permission: push  
+    permission: maintain  
+  
+  # English approvers (approver for all files in repository)
+
   
 
   # Localization approvers
