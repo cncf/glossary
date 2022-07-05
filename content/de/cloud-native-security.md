@@ -16,9 +16,9 @@ Cloud Native Security ist eng mit dem Methodologie des [DevSecOps](/devsecops/) 
 ## Welches Problem es löst
 
 Traditionelle Sicherheitsmodelle basieren auf einer Reihe von Annahmen, die nicht mehr länger gültig sind. 
-Cloud Native Anwendungen ändern sich häufig, verwenden eine große Anzahl von Open-Source-Tools und -Bibliotheken und werden in der Regel in einer Infrastruktur betrieben, deren Änderungen sich der Kontrolle von Entwicklern entziehen. 
-Code-Reviews, lange Qualitätssicherungszyklen, Host-basierte Schwachstellen-Scans und Sicherheitsüberprüfungen in letzter Minute 
-lassen sich nicht mit Cloud Native Anwendungen kombinieren.
+Cloud Native Anwendungen ändern sich häufig und verwenden eine große Anzahl von Open-Source-Tools und -Bibliotheken. 
+Sie werden oft in einer vom Cloud Provider kontrollierten Infrastruktur betrieben und unterliegen deshalb schnellen Infrastrukturänderungen, die sich der Kontrolle von Entwicklern entziehen.  
+Manuelle Code-Reviews, lange Qualitätssicherungszyklen, Host-basierte Schwachstellen-Scans und Sicherheitsüberprüfungen in letzter Minute skalieren somit schlecht für Cloud Native Anwendungen.
 
 ## Wie es das Problem löst
 
