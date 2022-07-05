@@ -10,7 +10,7 @@ Un'applicazione distribuita è un'applicazione la cui funzionalità è suddivisa
 
 ## Quali problematiche affronta
 
-Un'applicazione in esecuzione su un singolo computer rappresenta un singolo punto di vulnerabilità: se quel computer si blocca, l'applicazione non sarà più disponibile. Le applicazioni distribuite vengono spesso messe in contrapposizione alle applicazioni monolitiche. Un'applicazione monolitica può essere più difficile da scalare perché i singoli componenti non possono essere scalati in modo indipendente. Mentre cresce può anche diventare un ostacolo alla developer velocity, perché più sviluppatori devono lavorare su una codebase condivisa che non ha necessariamente dei confini ben definiti.
+Un'applicazione in esecuzione su un singolo computer rappresenta un singolo punto di vulnerabilità: se quel computer si blocca, l'applicazione non sarà più disponibile. Le applicazioni distribuite vengono spesso messe in contrapposizione alle applicazioni monolitiche. Un'applicazione monolitica è più difficilmente scalabile perché i singoli componenti non sono scalabili indipendentemente. Man mano che questi ultimi crescono, possono diventare anche un ostacolo alla developer velocity, perché più sviluppatori devono lavorare su una codebase condivisa che non ha necessariamente dei confini ben definiti.
 
 ## In che modo aiuta
 
