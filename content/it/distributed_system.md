@@ -12,7 +12,7 @@ Un sistema distribuito è un insieme di elementi computazionali autonomi collega
 
 Oggi molte applicazioni moderne sono così grandi che avrebbero bisogno di supercomputer per funzionare. Basti pensare a Gmail o a Netflix: nessun singolo computer è abbastanza potente da poter ospitare l'intera applicazione. Collegando più computer, la potenza di calcolo diventa quasi infinita. Senza calcolo distribuito molte applicazioni su cui facciamo affidamento oggi non potrebbero esistere.
 
-Tradizionalmente i sistemi scalerebbero verticalmente, cioè si aggiunge più CPU o memoria a una singola macchina. Scalare verticalmente è un processo lungo, richiede dei momenti di down e raggiunge velocemente i suoi limiti.
+Tradizionalmente i sistemi verrebbero scalati verticalmente, cioè aggiungendo più CPU o memoria a una singola macchina. La scalabilità verticale è un processo lungo, richiede dei momenti di down e raggiunge velocemente i suoi limiti.
 
 ## In che modo aiuta
 
