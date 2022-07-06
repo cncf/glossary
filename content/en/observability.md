@@ -9,7 +9,6 @@ Observability is the capability to continuously generate and discover actionable
 In other words, observability allows users to understand a system's state from its external output and take (corrective) action.
 
 Computer systems are measured by observing low-level signals such as CPU time, memory, disk space, and higher-level and business signals, including API response times, errors, transactions per second, etc.
-errors, transactions per second, etc. 
 
 The observability of a system has a significant impact on its operating and development costs. 
 Observable systems yield meaningful, actionable data to their operators, allowing them to achieve 
