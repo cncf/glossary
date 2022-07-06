@@ -6,7 +6,7 @@ tags: ["fundamentals", "", ""]
 ---
 
 Observability is the capability to continuously generate and discover actionable insights based on signals from the system under observation. 
-its external output. with the goal to influence the system.
+In other words, observability allows users to understand a system's state from its external output and take (corrective) action.
 
 Computer systems are measured by observing low-level signals such as CPU time, memory,
 disk space, as well as higher-level and business signals including API repsonse times, 
