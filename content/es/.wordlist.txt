@@ -50,12 +50,14 @@ declarativamente
 Deployment
 deployments
 DevOps
+DevSecOps
 DigitalOcean
 directly
 ej
 Emiliano
 entregables
 escalarse
+escaneos
 existing
 extensibilidad
 Feedback
@@ -107,6 +109,7 @@ microservicios
 Microsoft
 Mike
 mitigarse
+monitorean
 Morgan
 Native
 needed
