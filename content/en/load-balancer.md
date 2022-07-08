@@ -14,7 +14,7 @@ Load balancers can be software or hardware-based.
 
 ## Problem it addresses
 
-Modern applications and websites serve thousands of thousands of simultaneous requests from end-users. 
+Modern applications and websites generally serve hundreds of thousands of simultaneous end-user requests. 
 In order to handle all those requests, [horizontal scaling](/horizontal-scaling/) is nearly unavoidable.
 Unfortunately, [horizontal scaling](/horizontal-scaling/) introduces a new level of complexity which is, how to distribute the incoming traffic to all horizontally scaled services. 
 This is where load balancers come in handy.
