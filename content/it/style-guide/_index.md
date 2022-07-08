@@ -9,7 +9,7 @@ menu:
 
 Questa guida ti aiuterà a comprendere chi sono i destinatari del Glossario, la struttura delle definizioni, il livello di dettaglio richiesto e come mantenere uno stile coerente.
 
-Il Glossario Cloud Native rispetta la [style guide di base](https://github.com/cncf/foundation/blob/master/style-guide.md) del repository CNCF, ma si è posto regole aggiuntive e specifiche:
+Il Glossario Cloud Native rispetta la [Guida di Stile](https://github.com/cncf/foundation/blob/master/style-guide.md) del repository CNCF, ma si è posto regole aggiuntive e specifiche:
 
 1. Usa un linguaggio semplice, accessibile e che eviti tecnicismi spinti e buzzwords
 2. Evita un linguaggio eccessivamente colloquiale
@@ -117,19 +117,19 @@ Quando opportuno, fa' riferimenti ad **esempi reali** che aiutino i lettori (sop
 
 Se vengono menzionati lemmi che sono già disponibili, ricordati di **inserire un link alla definizione presente nel Glossario** (è sufficiente farlo solo la prima volta che viene usato nel testo).
 
-**Esempio**: dà un'occhiata al paragrafo "Cos'è" del [lemma service mesh] (https://glossary.cncf.io/service_mesh/). Se noti, contiene link ai termini microservices, service, reliability e observability. Inoltre, il confronto tra le criticità del network in un ambiente a microservizi (qualcosa di tecnico con cui è difficile relazionarsi da non tecnici) con le problematiche di una rete wi-fi (un esempio che chiunque usi un portatile può capire) permette una migliore comprensione generale. Quando possibile, cerca di individuare una connessione simile tra i due mondi.
+**Esempio**: dà un'occhiata al paragrafo "Cos'è" del [lemma service mesh](/service_mesh/). Se noti, contiene link ai termini microservices, service, reliability e observability. Inoltre, il confronto tra le criticità del network in un ambiente a microservizi (qualcosa di tecnico con cui è difficile relazionarsi da non tecnici) con le problematiche di una rete wi-fi (un esempio che chiunque usi un portatile può capire) permette una migliore comprensione generale. Quando possibile, cerca di individuare una connessione simile tra i due mondi.
 
 #### Inizia con un Word o un Google doc
 
 Ti suggeriamo di iniziare a lavorare su un Word o un Google doc, in modo da lasciare sedimentare lo scritto e riprenderlo dopo qualche giorno per rivederlo. Questo processo ti permetterà di rielaborare uteriormente frasi e pensieri, e di riformularli in modo ancora più semplice ed accessibile. E non scordarti di verificare l'ortografia prima di creare una PR!
 
-Per avere la certezza di non aprire una PR sovrapponendoti a qualcun altro o viceversa, fa' in modo di richiedere l'assegnazione di una issue (o di aprirne una). Per saperne di più leggi [Come contribuire](https://glossary.cncf.io/contribute/).
+Per avere la certezza di non aprire una PR sovrapponendoti a qualcun altro o viceversa, fa' in modo di richiedere l'assegnazione di una issue (o di aprirne una). Per saperne di più leggi [Come contribuire](/it/contribute/).
 
 Ultimo suggerimento di carattere redazionale, prima di buttarti nella scrittura: prova a leggere qualche termine già pubblicato nel Glossario in modo da intuire il livello di dettaglio richiesto e le relative difficoltà, nonché l'utilizzo di esempi, come già citato sopra.
 
 
 ## Il processo di revisione: cosa aspettarsi 
 
-Innanzitutto vorremmo far presente che i maintainers di questo progetto sono solo tre e che se ne occupano nel loro tempo libero, per cui a volte saranno più rapidi, altre volte avranno bisogno di più tempo per rispondere e revisionare: abbi pazienza. Per qualunque domanda, però, mettiti in contatto con loro o con i gruppi di lavoro sul canale #glossary dello Slack CNCF (per approfondimenti ti rimandiamo alla sezione [Come contribuire](https://glossary.cncf.io/contribute/)).
+Innanzitutto vorremmo far presente che i maintainers di questo progetto sono solo tre e che se ne occupano nel loro tempo libero, per cui a volte saranno più rapidi, altre volte avranno bisogno di più tempo per rispondere e revisionare: abbi pazienza. Per qualunque domanda, però, mettiti in contatto con loro o con i gruppi di lavoro sul canale #glossary dello Slack CNCF (per approfondimenti ti rimandiamo alla sezione [Come contribuire](/it/contribute/)).
 
 Il nostro obiettivo è rendere il Glossario, la migliore risorsa possibile. Quando aprirai una PR, potremmo richiedere una o più revisioni. Non abbatterti: si tratta di richieste comuni alla maggior parte delle PR aperte. L'andirivieni, insieme alla collaborazione di più teste, assicurerà un contributo davvero utile per tutti i lettori sparsi nel mondo. 

@@ -2,6 +2,7 @@
 title: कैनरी डिप्लॉयमेंट
 status: completed
 category: अवधारणा
+exclude_search: true
 ---
 
 ## यह क्या है
