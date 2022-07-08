@@ -22,6 +22,5 @@ This is where load balancers come in.
 ## How it helps
 
 Load balancers dynamically distribute all incoming requests among multiple services, ensuring that no one service gets the bulk of it while others only get a few or none. 
-where no one server gets a high load when there are other servers that can fulfill those requests. 
 It spreads the load across multiple servers, following a defined schema (i.e. evenly or percentage-based). 
 Thus load balancers are playing an important role in the overall performance and user experience of an application.
