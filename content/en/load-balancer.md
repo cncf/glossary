@@ -23,4 +23,4 @@ This is where load balancers come in.
 
 Load balancers dynamically distribute all incoming requests among multiple services, ensuring that no one service gets the bulk of it while others only get a few or none. 
 In short, it spreads the load across multiple services, following a defined schema (i.e., evenly or percentage-based). 
-Thus load balancers are playing an important role in the overall performance and user experience of an application.
+Load balancers are essential to an application's overall performance and, ultimately, the user experience.
