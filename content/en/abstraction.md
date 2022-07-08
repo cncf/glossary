@@ -2,6 +2,7 @@
 title: Abstraction
 status: Completed
 category: Property
+tags: ["architecture", "", ""]
 ---
 
 In the context of computing, an abstraction is a representation that 

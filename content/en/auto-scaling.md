@@ -2,6 +2,7 @@
 title: Autoscaling
 status: Completed
 category: property
+tags: ["application", "infrastructure", "architecture"]
 ---
 
 Autoscaling is the ability of a system to [scale](/scalability/) automatically, typically, in terms of computing resources. 

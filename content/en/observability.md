@@ -2,6 +2,7 @@
 title: Observability
 status: Completed
 category: property
+tags: ["fundamentals", "", ""]
 ---
 
 Observability is a characteristic of an application that refers to 

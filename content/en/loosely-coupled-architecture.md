@@ -2,6 +2,7 @@
 title: Loosely Coupled Architecture
 status: Completed
 category: Property
+tags: ["fundamentals", "", ""]
 ---
 
 Loosely coupled architecture is an architectural style 

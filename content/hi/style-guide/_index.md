@@ -1,7 +1,6 @@
 ---
 title: शैली मार्गदर्शिका
 toc_hide: true
-exclude_search: true
 menu:
   main:
     weight: 10
