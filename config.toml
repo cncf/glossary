@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://glossary.cncf.io/"
 title = "Cloud Native Glossary"
 
 enableRobotsTXT = true
