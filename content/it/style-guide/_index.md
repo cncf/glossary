@@ -4,7 +4,6 @@ toc_hide: true
 menu:
   main:
     weight: 10
-    pre: <i class='fas fa-ruler-horizontal'></i>
 ---
 
 Questa guida ti aiuterà a comprendere chi sono i destinatari del Glossario, la struttura delle definizioni, il livello di dettaglio richiesto e come mantenere uno stile coerente.
@@ -12,11 +11,11 @@ Questa guida ti aiuterà a comprendere chi sono i destinatari del Glossario, la 
 Il Glossario Cloud Native rispetta la [Guida di Stile](https://github.com/cncf/foundation/blob/master/style-guide.md) del repository CNCF, ma si è posto regole aggiuntive e specifiche:
 
 1. Usa un linguaggio semplice, accessibile e che eviti tecnicismi spinti e buzzwords
-2. Evita un linguaggio eccessivamente colloquiale
-3. Usa un linguaggio concreto ed espressioni letterali
+2. [Evita un linguaggio eccessivamente colloquiale](https://en.wikipedia.org/wiki/Colloquialism)
+3. [Usa un linguaggio concreto ed espressioni letterali](https://guidetogrammar.org/grammar/composition/abstract.htm)
 4. Fai attenzione agli accenti, alla correlazione dei tempi verbali e alla punteggiatura
-5. Prediligi la forma attiva
-6. Utilizza preferibilmente la forma affermativa
+5. [Prediligi la forma attiva](https://www.ef.com/ca/english-resources/english-grammar/passive-voice/)
+6. [Utilizza preferibilmente la forma affermativa](https://examples.yourdictionary.com/positive-sentence-examples.html)
 7. Non eccedere con le parentesi
 8. Non esagerare
 9. Evita le ripetizioni
@@ -24,7 +23,6 @@ Il Glossario Cloud Native rispetta la [Guida di Stile](https://github.com/cncf/f
 11. Usa pure termini e diciture in inglese se sono largamente utilizzati in ambito tecnico, ma aggiungi comunque una traduzione italiana per chiarire.
 
 Consigliamo di dare un'occhiata a questi [set di regole grammaticali](https://grammatica-italiana.dossier.net/grammatica-italiana-17.htm) e alle [40 regole di scrittura di Umberto Eco per scrivere bene in italiano](https://bologna.unicusano.it/universita/scrivere-correttamente-in-italiano/). Possono essere di aiuto.
-
 
 ## Destinatari
 
@@ -109,7 +107,7 @@ Le definizioni categorizzate come **technology** e **concept** prevedono tre par
 
 La label **properties** non richiede un paragrafo a sé. La definizione è più che sufficiente. 
 
-#### Semplice è meglio!
+#### Semplice è meglio
 
 Il Glossario ha come ultimo obiettivo **spiegare concetti complessi in parole semplici** — qualcosa di sorprendentemente difficile che richiederà quasi per certo svariate revisioni. Il consiglio è di tenere sempre ben presente il pubblico di destinazione, mentre si descrive un termine. Bisognerebbe evitare l'uso di espressioni eccessivamente tecniche e buzzword di varia natura. Lo evidenziamo perché ti troverai quasi per certo a farlo anche tu involontariamente e dovrai rivedere i tuoi contenuti.
 
@@ -117,7 +115,7 @@ Quando opportuno, fa' riferimenti ad **esempi reali** che aiutino i lettori (sop
 
 Se vengono menzionati lemmi che sono già disponibili, ricordati di **inserire un link alla definizione presente nel Glossario** (è sufficiente farlo solo la prima volta che viene usato nel testo).
 
-**Esempio**: dà un'occhiata al paragrafo "Cos'è" del [lemma service mesh](/service_mesh/). Se noti, contiene link ai termini microservices, service, reliability e observability. Inoltre, il confronto tra le criticità del network in un ambiente a microservizi (qualcosa di tecnico con cui è difficile relazionarsi da non tecnici) con le problematiche di una rete wi-fi (un esempio che chiunque usi un portatile può capire) permette una migliore comprensione generale. Quando possibile, cerca di individuare una connessione simile tra i due mondi.
+**Esempio**: dà un'occhiata al paragrafo "Cos'è" del [lemma service mesh](/service-mesh/). Se noti, contiene link ai termini microservices, service, reliability e observability. Inoltre, il confronto tra le criticità del network in un ambiente a microservizi (qualcosa di tecnico con cui è difficile relazionarsi da non tecnici) con le problematiche di una rete wi-fi (un esempio che chiunque usi un portatile può capire) permette una migliore comprensione generale. Quando possibile, cerca di individuare una connessione simile tra i due mondi.
 
 #### Inizia con un Word o un Google doc
 
@@ -126,7 +124,6 @@ Ti suggeriamo di iniziare a lavorare su un Word o un Google doc, in modo da lasc
 Per avere la certezza di non aprire una PR sovrapponendoti a qualcun altro o viceversa, fa' in modo di richiedere l'assegnazione di una issue (o di aprirne una). Per saperne di più leggi [Come contribuire](/it/contribute/).
 
 Ultimo suggerimento di carattere redazionale, prima di buttarti nella scrittura: prova a leggere qualche termine già pubblicato nel Glossario in modo da intuire il livello di dettaglio richiesto e le relative difficoltà, nonché l'utilizzo di esempi, come già citato sopra.
-
 
 ## Il processo di revisione: cosa aspettarsi 
 
