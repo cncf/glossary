@@ -4,9 +4,9 @@ status: Completed
 category: 属性
 ---
 
-松耦合架构（[紧耦合架构](/zh/tightly-coupled-architectures/)的相反范式）是一种架构风格， 
+松耦合架构（[紧耦合架构](/zh-cn/tightly-coupled-architectures/)的相反范式）是一种架构风格， 
 其中应用程序的各个组件彼此独立构建。 
-每个组件，有时称为 [微服务](/zh/microservices/)，都是为了执行特定功能而构建的，
+每个组件，有时称为 [微服务](/zh-cn/microservices/)，都是为了执行特定功能而构建的，
 以便被任意数量的其他服务使用。 
 这种模式的实现通常比紧耦合架构慢。 
 但有许多好处，特别是随着应用程序的不断扩展。
