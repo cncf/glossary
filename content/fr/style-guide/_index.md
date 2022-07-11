@@ -1,35 +1,38 @@
 ---
-title: Style Guide
+title: Guide de rédaction
 toc_hide: true
 menu:
   main:
     weight: 10
 ---
 
+Ce guide de rédaction aide à comprendre la cible du Glossaire, la structure des définitions, le niveau requis de détails, ainsi que la manière
+de maintenir un style constant.
 This style guide will help you understand the Glossary audience, definition structure, required level of detail, and how to maintain a consistent style.
 
-The Cloud Native Glossary follows the [default style guide](https://github.com/cncf/foundation/blob/master/style-guide.md) of the CNCF repository. 
-Additionally, it follows the following rules:
+Le Glossaire Cloud Natif suit le guide de [rédaction de référence](https://github.com/cncf/foundation/blob/master/style-guide.md) du dépôt de la CNCF.
 
-1. Use simple, accessible language, avoiding technical jargon and buzzwords
-2. [Avoid colloquial language](https://en.wikipedia.org/wiki/Colloquialism)
-3. [Use literal and concrete language](https://guidetogrammar.org/grammar/composition/abstract.htm)
-4. [Omit contractions](https://en.wikipedia.org/wiki/Contraction_(grammar))
-5. [Use passive voice sparingly](https://www.ef.com/ca/english-resources/english-grammar/passive-voice/)
-6. [Aim to phrase statements in a positive form](https://examples.yourdictionary.com/positive-sentence-examples.html) 
-7. [No exclamation marks outside of quotations](https://www.grammarly.com/blog/exclamation-mark/)
-8. Do not exaggerate
-9. Avoid repetition
-10. Be concise
+De plus, les règles suivantes sont appliquées:
 
-## Audience
+1. Utiliser un langage simple, accessible, et éviter les jargon technique ainsi que les buzzwords.
+2. [Éviter le langage du registre familier](https://fr.wikipedia.org/wiki/Registre_familier)
+3. [Employer un langage litéral et concret](https://guidetogrammar.org/grammar/composition/abstract.htm)
+4. [S'abstenir des contractions](https://fr.wikipedia.org/wiki/Contraction_(grammaire))
+5. [Privilégier la forme passive](http://bdl.oqlf.gouv.qc.ca/bdl/gabarit_bdl.asp?id=4267)
+6. [Favoriser des tournures de phrase positives](http://bdl.oqlf.gouv.qc.ca/bdl/gabarit_bdl.asp?id=4267)
+7. [Aucun point d'exclamation en dehors des citations](http://bdl.oqlf.gouv.qc.ca/bdl/gabarit_bdl.asp?id=3333)
+8. Ne pas exagérer
+9. Éviter les répétitions
+10. Être concis
 
-The Glossary is written for a technical AND non-technical audience. 
-Please ensure definitions are explained in simple terms and don’t assume technical knowledge. More do that below under Definition. 
+## Cibles
 
-## Definition Template
+Le Glossaire est rédigé comme référence technique ET non-technique.
+Merci de s'assurer que les définitions sont expliquées en termes simples et ne pas assumer que les lecteurs ont un bagage technique. Plus d'informations dans la section Définition.
 
-Each glossary term is stored in a markdown file and follows this template:
+## Modèle de définition
+
+Chaque terme du glossaire est stocké dans un fichier au format markdown, et suit le modèle suivant:
 
 ```md
 ---
@@ -38,49 +41,51 @@ status:
 category: 
 ---
 
-## What it is
+## Qu'est-ce donc
 
-A quick summary of the technology or concept.
+Un bref descriptif de la technologie ou du concept.
 
-## Problem it addresses 
+## Problème addressé
 
-A few lines about the problem it's addressing.
+Quelques lignes à propos du problèmes addressés par l'entité.
 
-## How it helps
+## Quel en est l'utilité
 
-A few lines on how the thing solves the problem.
+Quelques lignes sur comment cette entité résoud le problème.
 ```
 
-### Title
+### Titre
 
-The **title** label will always be at the top of a definition layout, and its value should be in title case. 
+L'étiquette **title** est toujours placé en haut de la disposition, et sa valeur doit toujours être en majuscule.
 
 ```md
 ---
-title: Definition Template
+title: Modèle de définition
 ```
 
 ### Status
 
-The **status** label will come after the title label. The status label indicates whether definitions are thoroughly vetted or require more effort.
+L'étiquette **status** vient après l'étiquette label. Cette étiquette indique si les définitions ont été soigneusement contrôlées, ou si l'explication
+nécessite plus de travail.
 
-Valid values are: 
+Les valeurs acceptées sont:
 
 - Completed
-- Feedback Appreciated 
+- Feedback Appreciated
 - Not Started
 
-You can always open an issue against a completed definition. While a definition is in flux, its status will be changed to *Feedback Appreciated*.
+Il est toujours possible d'ouvrir un ticket concernant une définition complétée (status "Completed"). Lorsque une définition est sujette au changement, son
+status sera changé à *Feedback Appreciated*.
 
 ```md
 ---
-title: Definition Template
+title: Modèle de définition
 status: Feedback Appreciated
 ```
 
 ### Category
 
-The **category** label will come after the status label. Its value should be one of the following values:
+L'étiquette **category** vient après celle du status. Sa valeur doit être l'une des possibilités suivantes:
 
 - Technology
 - Property
@@ -88,26 +93,26 @@ The **category** label will come after the status label. Its value should be one
 
 ```md
 ---
-title: Definition Template
+title: Modèle de définition
 status: Feedback Appreciated
 category: Concept
 ---
 ```
 
-### Definition
+### Définition
 
-#### Three subheadings
+#### Trois sous-sections
 
-The definitions for **technology** and **concept** categories contain three subheadings: 
+Les définitions pour les catégories **technology** et **concept** contiennent trois sous-sections:
 
-- **What it is**: provide a short and clear overview of what we are talking about.
-- **Problem it addresses**: focus on the problem, not the solution (that comes in the next section). 
-  In fact, avoid mentioning the term that is defined. The problem focuses on *what* led us to need that thing. 
-- **How it helps**: now, come back to the term. How does it address the problem described above?
+- **Qu'est-ce donc** : fournis une explication claire et concise de ce dont nous parlons.
+- **Problème addressé** : se concentre sur le problème, pas la solution (cela vient dans la section suivante).
+  Pour faire simple, éviter de mentionner le terme qui est défini. Le problème nous aide à nous concentrer sur *ce qui* nous à mené à avoir besoin de cette entité.
+- **Quel en est l'utilité**: maintenant, revenir sur le terme en lui-même. Comment est-ce qu'il addresse le problème décrit précédemment ?
 
-Note that **properties** don't require separate sections. A definition will suffice. 
+Noter que les propriétés ne nécessitent pas de section séparée. Un définition suffira.
 
-To facilitate review, please use **semantic line breaks** (one sentence per line).
+Pour faciliter la revue, merci d'utiliser les **sauts à la ligne sémantiques** (une phrase par ligne).
 
 #### Quality is paramount
 
