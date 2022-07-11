@@ -10,7 +10,7 @@ Cloud Native Security beschreibt den Ansatz, Konzepte aus dem Bereich Cyber Secu
 Dabei ist vorgesehen, dass Sicherheitsbetrachtungen Teil des gesamten Softwareentwicklungs- und Lebenszyklus sind, von der Entwicklung bis zur Inbetriebnahme und Wartung.  
 Cloud Native Security versucht, die gleichen Standards wie herkömmliche Sicherheitsmodelle zu gewährleisten,
 ist dabei allerdings angepasst an die Besonderheiten von Cloud Native Umgebungen. 
-Eine hohe Frequenz von Änderungen des Codes und eine sehr volatile Infrastruktur sind Bespiele für die Eigenschaften von Cloud Native Umgebungen. 
+Eine hohe Frequenz von Änderungen des Codes und eine sehr volatile Infrastruktur sind Beispiele für die Eigenschaften von Cloud Native Umgebungen. 
 Cloud Native Security ist eng mit dem Methodologie des [DevSecOps](/devsecops/) verbunden.
 
 ## Welches Problem es löst
