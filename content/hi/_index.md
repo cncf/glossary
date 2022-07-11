@@ -1,11 +1,12 @@
 ---
 title: क्लाउड नेटिव शब्दावली
-exclude_search: true
 ---
 
 # क्लाउड नेटिव शब्दावली
 
 क्लाउड नेटिव शब्दावली(Cloud Native Glossary), CNCF बिजनेस वैल्यू उपसमिति(BVS, Business Value Subcommittee) के नेतृत्व में एक परियोजना है। इसका लक्ष्य बिना किसी पूर्व तकनीकी ज्ञान की आवश्यकता के स्पष्ट और सरल भाषा में क्लाउड नेटिव अवधारणाओं की व्याख्या करना है।
+
+<p><img class="mt-5" src="/images/homepage/stage.jpg" alt="A woman and two men presenting technical info on a stage"></p>
 
 ## योगदान देना
 

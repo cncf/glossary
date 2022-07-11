@@ -1,8 +1,5 @@
-<a href="https://www.cncf.io/" target="_blank" rel="noopener" title="CNCF">
-<img src="/images/cncf-color.svg" alt="Cloud Native Computing Foundation" id="cncf-logo">
-</a>
-
 {{ if .Path }}
+{{ if not ( or ( in .Path "search" ) ( in .Path "tags" ) ) }}
   {{ $pathFormatted := replace .Path "\\" "/" }}
   {{ $gh_repo := ($.Param "github_repo") }}
   {{ $gh_url := ($.Param "github_url") }}
@@ -40,4 +37,5 @@
     <a id="print" href="{{ .Permalink | safeURL }}"><i class="fa fa-print fa-fw"></i> {{ T "print_entire_section" }}</a>
   {{ end }}
   </div>
+{{ end }}
 {{ end }}

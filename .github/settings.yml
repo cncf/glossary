@@ -30,12 +30,14 @@ collaborators:
   - username: seokho-son
     permission: admin
   
-  # English approvers (approver for all files in repository)
   - username: jihoon-seo
-    permission: push
+    permission: maintain
 
   - username: iamNoah1
-    permission: push  
+    permission: maintain  
+  
+  # English approvers (approver for all files in repository)
+
   
 
   # Localization approvers
@@ -115,6 +117,10 @@ collaborators:
 
   - username: ikramulkayes
     permission: push
+    
+  - username: Imtiaz1234
+    permission: push
+    
 
   # l10n es approvers
   - username: raelga
@@ -137,6 +143,16 @@ collaborators:
     permission: push
 
   - username: Submarinee
+    permission: push
+
+  # l10n fr approvers
+  - username: huats
+    permission: push
+
+  - username: fydrah
+    permission: push
+
+  - username: Krast76
     permission: push
 
 branches:
@@ -288,6 +304,7 @@ branches:
          - mitul3737
          - Mouly22
          - ikramulkayes
+         - Imtiaz1234
         teams: []
       enforce_admins: null
       required_linear_history: null
@@ -325,6 +342,24 @@ branches:
          - Jacob953
          - Rocksnake
          - Submarinee
+        teams: []
+      enforce_admins: null
+      required_linear_history: null
+
+  # l10n branch for fr contents only
+  - name: dev-fr
+    protection:
+      required_pull_request_reviews:
+        required_approving_review_count: 2
+        require_code_owner_reviews: true
+      required_status_checks: null
+      restrictions:
+        apps: []
+        # fr approvers
+        users:
+         - huats
+         - fydrah
+         - Krast76
         teams: []
       enforce_admins: null
       required_linear_history: null

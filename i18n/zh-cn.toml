@@ -1,0 +1,71 @@
+
+
+# UI strings. Buttons and similar.
+
+[ui_pager_prev]
+other = "上一页"
+
+[ui_pager_next]
+other = "下一页"
+
+[ui_read_more]
+other = "更多"
+
+[ui_search]
+other = "搜索本站..."
+
+# Used in sentences such as "Posted in News"
+[ui_in]
+other = "里面"
+
+# Used in sentences such as "All Tags"
+[ui_all]
+other = "所有"
+
+# Footer text
+[footer_all_rights_reserved]
+other = "版权所有"
+
+[footer_privacy_policy]
+other = "隐私政策"
+
+
+# Post (blog, articles etc.)
+[post_byline_by]
+other = "通过"
+[post_created]
+other = "创建"
+[post_last_mod]
+other = "最后编辑"
+[post_edit_this]
+other = "编辑本页"
+[post_create_child_page]
+other = "创建子页面"
+[post_create_issue]
+other = "报告问题"
+[post_create_project_issue]
+other = "创建项目问题"
+[post_posts_in]
+other = "发表在"
+[post_reading_time]
+other = "分钟阅读"
+
+# Print support
+[print_printable_section]
+other = "这是本节的多页可打印视图"
+[print_click_to_print]
+other = "点击打印"
+[print_show_regular]
+other = "返回此页面的常规视图"
+[print_entire_section]
+other = "打印全部章节"
+
+# Feedback section
+[feedback_title]
+other = "反馈意见"
+[feedback_question]
+other = "本页是否有帮助?"
+[feedback_answer_yes]
+other = "是"
+[feedback_answer_no]
+other = "否"

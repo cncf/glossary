@@ -1,0 +1,6 @@
+{{ define "main" }}
+<div>
+    <h1>{{ .Title }}</h1>
+    {{ partial "taxonomy_terms_cloud.html" (dict "context" . "taxo" ( lower .Title ) ) }}
+</div>
+{{ end }}
