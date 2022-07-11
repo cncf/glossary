@@ -2,6 +2,7 @@
 title: 컨테이너화 (Containerization)
 status: Completed
 category: 기술
+tags: ["애플리케이션", "", ""]
 ---
 
 ## 개념

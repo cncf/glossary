@@ -2,6 +2,7 @@
 title: 서비스 메시 (Service Mesh)
 status: Completed
 category: 기술
+tags: ["네트워킹", "", ""]
 ---
 
 ## 개념

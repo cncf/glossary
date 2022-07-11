@@ -2,6 +2,7 @@
 title: 클라우드 컴퓨팅 (Cloud Computing)
 status: Completed
 category: 개념
+tags: ["인프라스트럭처", "", ""]
 ---
 
 ## 개념

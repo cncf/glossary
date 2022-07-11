@@ -2,6 +2,7 @@
 title: 데브옵스 (DevOps)
 status: Completed
 category: 개념
+tags: ["방법론", "", ""]
 ---
 
 ## 개념

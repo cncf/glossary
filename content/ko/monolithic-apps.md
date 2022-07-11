@@ -2,6 +2,7 @@
 title: 모놀리식 앱 (Monolithic Apps)
 status: Completed
 category: 개념
+tags: ["구조", "", ""]
 ---
 
 ## 개념
