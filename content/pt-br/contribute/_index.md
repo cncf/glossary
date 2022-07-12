@@ -4,7 +4,6 @@ toc_hide: true
 menu:
   main:
     weight: 10
-    pre: <i class='fas fa-pen-square'></i>
 ---
 
 O projeto do glossário Cloud Native é mantido [nesse repositório do Github](https://github.com/cncf/glossary), onde você consegue encontrar todas as [*issues*](https://github.com/cncf/glossary/issues), [pull requests](https://github.com/cncf/glossary/pulls) e [discussões](https://github.com/cncf/glossary/discussions) em aberto.
@@ -15,19 +14,22 @@ Você pode contribuir de três formas:
 2) Atualizando termos existentes
 3) Traduzindo o glossário para seu idioma nativo
 
-## Faça parte da comunidade do glossário!
+## Faça parte da comunidade do glossário
 
 Considere participar das nossas reuniões mensais do grupo de trabalho do glossário se quiser contribuir regularmente. Você
 pode encontrar detalhes da reunião no calendário da CNCF. Você também pode falar com as pessoas mantenedoras e colaboradoras 
 em nosso canal `#glossary` no slack da CNCF. 
+
 ## Sugira novos termos
+
 Você pode sugerir um novo termo para outra pessoas trabalharem na definição ou criar você mesmo. De qualquer forma, você deve 
 começar abrindo uma *issue* (importante notar que você precisa de uma conta do Github para isso).
 
 Abaixo, temos um passo a passo para caso você ainda não esteja familiarizado com o Github. Caso você já seja familiar com o Github, garanta apenas que você está usando nossos templates de *issues*, com a convenção de nomes correta e seguindo o
-[guia de estilo](https://glossary.cncf.io/style-guide/).
+[guia de estilo](/pt-br/style-guide/).
 
 ### Abrindo uma issue 
+
 Vá para as *issues* do [repositório no Github](https://github.com/cncf/glossary/issues) e clique em "nova issue".
 
 ![issues](/images/how-to/howto-01.png)
@@ -53,13 +55,12 @@ Observe que você só pode solicitar a atribuição de um termo por vez. Se voc�
 
 ### Propondo um novo termo (criando um pull request)
 
-Antes de começar, leia o [guia de estilo](https://glossary.cncf.io/style-guide/), isso vai ajudar nos processos de revisão. Como citado no guia de estilo, recomendamos
+Antes de começar, leia o [guia de estilo](/pt-br/style-guide/), isso vai ajudar nos processos de revisão. Como citado no guia de estilo, recomendamos
 que você comece escrevendo um documento de texto.
 
 Uma vez que o termo esteja pronto para submeter o pull request, vá para o diretório `content/`:
 
 ![content](/images/how-to/howto-05.png)
-
 
 Então `en/` (ou o diretório da linguagem que está propondo o termo):
 
@@ -96,9 +97,11 @@ Agora você já deve ver seu pull request em "Pull Requests":
 ![prs](/images/how-to/howto-13.png)
 
 ## Atualizando um termo existente
+
 Para atualizar um termo existente, você pode sugerir uma mudança abrindo uma *issue* ou diretamente criando um pull request.
 
 ### Solicitando uma mudança por meio de uma issue
+
 Se você quer informar um problema com um termo mas não sabe ou não quer corrigir você mesmo, clique em "report issue":
  
 ![report issue](/images/how-to/howto-14.png)
@@ -108,6 +111,7 @@ Isso vai imediatamente vai abrir uma *issue*. Escreva quais mudanças são neces
 ![submit issue](/images/how-to/howto-15.png)
 
 ### Atualizando diretamente um termo
+
 Para alterar um termo diretamente, vá para "edit this page":
 
 ![edit this page](/images/how-to/howto-16.png)
@@ -116,8 +120,6 @@ Isso vai abrir a definição do termo no Github. Faça suas alterações e envie
 informações detalhadas sobre como fazer isso.
 
 ## Ajude a traduzir o glossário
+
 Para ajudar a traduzir o glossário para o seu idioma nativo, participe do canal `#glossary-localizations` no slack da CNCF. Você pode fazer parte de um time existente ou
 criar uma novo. Participe também das reuniões mensais do grupo de trabalho do glossário. Você pode encontrar detalhes da reunião no [calendário da CNCF](https://www.cncf.io/calendar/).
-
-
-
