@@ -1,0 +1,10 @@
+---
+title: Scalabilità
+status: Completed
+category: Propriety
+---
+
+La scalabilità si riferisce alla capacità di un sistema di estendersi. Cioè l'aumento della capacità di fare qualsiasi cosa il sistema debba fare. Ad esempio, un [cluster](/it/cluster/) [Kubernetes](/it/kubernetes/) si scala aumentando o riducendo il numero delle  applicazioni [containerizzate](/it/containerization/), ma la scalabilità dipende da diversi fattori. Quanti [nodi](/it/nodes/) ha, quanti [containers](/it/container/) può gestire ogni nodo e quanti record e operazioni può supportare il control plane?
+
+Un sistema scalabile facilita l'aggiunta di ulteriore capacità. Si distinguono due approcci di scalabilità. Da un lato, c'è la [scalabilità orizzontale](/it/horizontal_scaling/) che aggiunge altri nodi per gestire un carico maggiore. Al contrario, nella  [scalabilità verticale](/it/vertical_scaling/) i singoli nodi vengono resi più potenti per eseguire più transazioni (ad esempio, aggiungendo più memoria o CPU a una singola macchina). Un sistema scalabile è in grado di cambiare facilmente e di soddisfare le esigenze degli utenti.
+
