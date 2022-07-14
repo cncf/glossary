@@ -138,9 +138,9 @@ If the team seems inactive (no response after several days), reach out to @Seokh
 --- 
 
 # Localization team guidelines
-Every localization team may have their own process of working on localizing terms. However, here are some guidelines that are common for all localization teams:
+Every localization team may have its own process of working on localizing terms. However, here are some guidelines that are common for all localization teams:
 
-1. Only terms with the status `Completed` in the english version are ready to be localized.
-2. All contributions related to localization have to be based on the `dev-xx` branch and PRs need to target `dev-xx`. 
-3. Localization teams need to get changes from the `main` branch in their `dev-xx` branch from time to time. Therefore a PR should be opened where the `main` branch is merged into `dev-xx`. The glossary maintainers will then choose the rebase method to complete the PR in order to keep the history linear. 
-4. A localized term does not have to match the english version completely. Also, the localized and english version of term can coexist independently throughout updates. Localization teams can decide for themselves to which degree localized terms have to match their english version and how to handle updates on the english term. 
+1. Only terms with the status `Completed` in the English version are ready to be localized.
+2. All contributions related to localization have to be based on the `dev-xx` branch, and PRs need to target `dev-xx`. 
+3. Localization teams need to get changes from the `main` branch in their `dev-xx` branch from time to time. Therefore a PR should be opened where the `main` branch is merged into `dev-xx`. The glossary maintainers will then choose the rebase method to complete the PR and keep the history linear. 
+4. A localized term does not have to match the English version completely. Also, the localized and English versions of terms can coexist independently throughout updates. Localization teams can decide to which degree localized terms have to match their English version and how to handle updates on the English term. 
