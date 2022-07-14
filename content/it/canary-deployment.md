@@ -9,7 +9,7 @@ Per _Canary deployment_ si intende una strategia di distribuzione che inizia con
 
 Il termine _Canary_ ("canarino") si riferisce alla pratica del "canarino in una miniera di carbone" in cui i canarini venivano portati nelle miniere di carbone per proteggere i minatori. Se fossero stati presenti gas nocivi inodore, l'uccello sarebbe morto e i minatori avrebbero compreso di dover evacuare rapidamente. Allo stesso modo, se qualcosa va storto con il codice aggiornato, il traffico in tempo reale viene "evacuato" alla versione originale.
 
-## Quale problema affronta 
+## Quali problematiche affronta
 Non importa quanto sia approfondita la strategia di test, ci sono sempre alcuni bug scoperti in produzione. Spostare il 100% del traffico da una versione di un'app a un'altra può portare a errori di maggiore impatto.
 
 ## In che modo aiuta
