@@ -1,6 +1,6 @@
 ---
 title: डिबगिंग(Debugging)
-status: Feedback Appreciated
+status: Completed
 category: संकल्पना
 ---
 
