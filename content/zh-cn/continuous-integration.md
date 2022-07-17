@@ -22,3 +22,8 @@ CI 是 [持续交付](/zh-cn/continuous-delivery/)（CD）的前提。
 使用 CI 服务器来运行代码质量检查、测试甚至部署，这几乎是一种普遍的做法。
 因此，它成为团队内部质量控制的一个具体实施。
 CI 允许软件团队把每一个代码提交变成具体的失败或可行的候选发布。
+
+## 相关术语
+
+* [持续交付](/zh-cn/continuous-delivery/)
+* [持续部署](/continuous-deployment/)
