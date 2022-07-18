@@ -6,7 +6,7 @@ category: concetto
 
 ## Cos'è
 
-Un sistema distribuito è un insieme di elementi computazionali autonomi collegati in rete, il quale agli occhi dell'utente costituisce un unico sistema coerente. Generalmente chiamati [nodi](/it/nodes/), questi componenti possono essere dispositivi hardware (ad esempio computer o telefoni) oppure processi software. I nodi sono programmati per raggiungere uno scopo comune e si scambiano messaggi all'interno della rete per collaborare.
+Un sistema distribuito è un insieme di elementi computazionali autonomi collegati in rete, pur apparendo all'utente un unico sistema coerente. Generalmente chiamati [nodi](/it/nodes/), questi elementi possono essere dispositivi hardware (ad esempio computer o smartphone) oppure processi software. I nodi sono programmati per raggiungere un obiettivo comune e si scambiano messaggi all'interno della rete per collaborare.
 
 ## Quali problematiche affronta
 
