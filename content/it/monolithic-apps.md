@@ -11,7 +11,7 @@ Un'applicazione monolitica contiene tutte le funzionalità in un programma rilas
 
 ## Quali problematiche affronta
 
-Trasformare un'applicazione in [microservizi](/it/microservices.md) aumenta gli sforzi operativi, in quanto ci sono più cose da testare, rilasciare e mantenere in esecuzione. Nelle prime fasi del ciclo di vita di un prodotto può essere vantaggioso rimandare questa complessità e costruire un'applicazione monolitica, fino a quando il prodotto non sarà considerato un successo.
+Trasformare un'applicazione in [microservizi](/it/microservices/) aumenta gli sforzi operativi, in quanto ci sono più cose da testare, rilasciare e mantenere in esecuzione. Nelle prime fasi del ciclo di vita di un prodotto può essere vantaggioso rimandare questa complessità e costruire un'applicazione monolitica, fino a quando il prodotto non sarà considerato un successo.
 
 ## In che modo aiuta
 
