@@ -6,7 +6,7 @@ category: 概念
 
 ## 是什么
 
-持续部署，通常缩写为 CD，通过将已经完成的软件直接部署到生产环境，比[持续交付](/zh/continuous-delivery/)更进了一步。持续部署 (CD) 与[持续集成](/zh/continuous-integration/)(CI) 一起，通常被称为 CI/CD。 CI 流程测试给定应用程序的修改是否正确，CD 流程自动部署企业测试环境的代码更改到生产环境。
+持续部署，通常缩写为 CD，通过将已经完成的软件直接部署到生产环境，比[持续交付](/zh-cn/continuous-delivery/)更进了一步。持续部署 (CD) 与[持续集成](/zh-cn/continuous-integration/)(CI) 一起，通常被称为 CI/CD。 CI 流程测试给定应用程序的修改是否正确，CD 流程自动部署企业测试环境的代码更改到生产环境。
 
 ## 解决的问题
 
@@ -18,5 +18,5 @@ category: 概念
 
 ## 相关术语
 
-- [持续集成](/zh/continuous-integration/)
-- [持续交付](/zh/continuous-delivery/)
+- [持续集成](/zh-cn/continuous-integration/)
+- [持续交付](/zh-cn/continuous-delivery/)
