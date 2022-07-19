@@ -9,7 +9,7 @@ tags: ["networking", "", ""]
 Un [API](/it/application-programming-interface/) Gateway è uno strumento che aggrega API applicative rendendole disponibili in un'unica posizione. Questo consente alle organizzazioni di spostare le funzioni chiave, come l'autenticazione e l'autorizzazione o la limitazione del numero di richieste tra le applicazioni, in una posizione gestita centralmente. Un API Gateway fornisce inoltre un'unica interfaccia comune per i consumatori di API (spesso esterni).
 
 
-## Quali problematiche risolve  
+## Quali problematiche affronta  
 Se stai mettendo le API a disposizione di consumatori esterni, ti consigliamo di avere un unico punto di ingresso per gestire e controllare tutti gli accessi. Inoltre, se devi applicare funzionalità aggiuntive a tali interazioni, un API Gateway ti consente di applicarle in modo uniforme a tutto il traffico senza richiedere modifiche al codice dell'app.
 
 
