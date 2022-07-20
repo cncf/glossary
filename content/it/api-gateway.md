@@ -10,7 +10,7 @@ Un API Gateway è uno strumento che aggrega [API](/it/application-programming-in
 
 
 ## Quali problematiche affronta  
-Se stai mettendo le API a disposizione di consumatori esterni, ti consigliamo di avere un unico punto di ingresso per gestire e controllare tutti gli accessi. Inoltre, se devi applicare funzionalità aggiuntive a tali interazioni, un API Gateway ti consente di applicarle in modo uniforme a tutto il traffico senza richiedere modifiche al codice dell'app.
+Se stai mettendo le API a disposizione di consumatori esterni, vorresti avere un unico punto di ingresso per gestire e controllare tutti gli accessi. Inoltre, se devi aggiungere funzionalità a tali interazioni, un API Gateway ti consente di applicarle in modo uniforme a tutto il traffico senza richiedere modifiche al codice dell'app.
 
 
 ## In che modo aiuta  
