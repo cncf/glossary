@@ -14,5 +14,6 @@ category: 属性
 他们可以监控应用程序的流量并自动伸缩，从而提供最佳的用户体验。以 Netflix 每周五晚上的收视率增长为例，自动伸缩意味着动态添置更多资源：即增加服务器数量以支持更多视频播放需求，并在需求回落后同步缩减。
 
 ## 相关词汇
-* [水平伸缩](/zh-cn/horizontal_scaling/)
-* [垂直伸缩](/zh-cn/vertical_scaling/)
+
+* [水平伸缩](/zh-cn/horizontal-scaling/)
+* [垂直伸缩](/zh-cn/vertical-scaling/)
