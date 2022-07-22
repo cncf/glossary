@@ -2,6 +2,7 @@
 title: 持续交付 (CD)
 status: Completed
 category: 概念
+tags: ["应用程序", "方法论", ""]
 ---
 
 ## 是什么

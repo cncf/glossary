@@ -2,6 +2,7 @@
 title: 持续集成 (CI)
 status: Completed 
 category: 概念
+tags: ["应用程序", "方法论", ""]
 ---
 
 ## 是什么
