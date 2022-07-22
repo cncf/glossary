@@ -2,6 +2,7 @@
 title: Service Discovery
 status: Completed
 category: concept
+tags: ["networking", "", ""]
 ---
 
 ## What it is

@@ -2,6 +2,7 @@
 title: Zero Trust Architecture
 status: Completed
 category: Concept
+tags: ["security", "", ""]
 ---
 
 ## What it is

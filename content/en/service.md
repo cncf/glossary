@@ -2,6 +2,7 @@
 title: Service
 status: Completed
 category: concept
+tags: ["architecture", "", ""]
 ---
 
 Please note that in IT, service has multiple meanings. 

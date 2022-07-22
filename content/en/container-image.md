@@ -2,6 +2,7 @@
 title: Container Image
 status: Feedback Appreciated
 category: concept
+tags: ["", "", ""]
 ---
 
 ## What it is

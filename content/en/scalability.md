@@ -2,6 +2,7 @@
 title: Scalability
 status: Completed
 category: property
+tags: ["fundamentals", "", ""]
 ---
 
 Scalability refers to how well a system can grow. 

@@ -162,7 +162,7 @@ Please refer to "Submitting a new term" above for a detailed description (jump t
 
 ## Help translate the glossary {#help-translate-the-glossary}
 
-To help translate the glossary into your native language, please join the #glossary-localizations channel on the CNCF Slack and let us know. 
+To help translate the glossary into your native language, please join the [#glossary-localizations](https://cloud-native.slack.com/archives/C02N2RGFXDF) channel on the CNCF Slack and let us know.
 You can either join an existing team or create a new one 
 (to see what it takes, check out or [Localization Guide](https://github.com/cncf/glossary/blob/main/LOCALIZATION.md)). 
 Please also join our monthly Glossary Working Group meetings. You can find meeting details in the [CNCF calendar](https://www.cncf.io/calendar/). 
