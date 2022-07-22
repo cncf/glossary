@@ -2,6 +2,7 @@
 title: 紧耦合架构
 status: Completed
 category: 属性
+tags: ["基本原理", "", ""]
 ---
 
 紧耦合架构（[松耦合架构](/zh-cn/loosely-coupled-architecture/)的相反范式）是一种架构风格， 

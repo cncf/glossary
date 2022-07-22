@@ -2,6 +2,7 @@
 title: 虚拟机
 status: Completed
 category: 技术
+tags: ["基本原理", "基础设施", ""]
 ---
 
 ## 是什么

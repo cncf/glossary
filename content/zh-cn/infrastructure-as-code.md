@@ -2,6 +2,7 @@
 title: 基础设施即代码
 status: Completed
 category: 概念
+tags: ["基础设施", "", ""]
 ---
 
 ## 是什么

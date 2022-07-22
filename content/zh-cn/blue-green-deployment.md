@@ -2,6 +2,7 @@
 title: 蓝绿部署
 status: Completed
 category: 概念
+tags: ["应用程序", "", ""]
 ---
 
 ## 是什么

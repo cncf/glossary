@@ -2,6 +2,7 @@
 title: 可靠性
 status: Completed
 category: 属性
+tags: ["基本原理", "", ""]
 ---
 
 从云原生的角度来看，可靠性是指系统对故障的响应能力。

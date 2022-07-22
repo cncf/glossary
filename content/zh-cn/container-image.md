@@ -2,6 +2,7 @@
 title: 容器镜像
 status: Feedback Appreciated
 category: 概念
+tags: ["", "", ""]
 ---
 
 ## 是什么

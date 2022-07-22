@@ -2,6 +2,7 @@
 title: 垂直伸缩
 status: Completed
 category: 概念
+tags: ["基础设施", "", ""]
 ---
 
 ## 是什么

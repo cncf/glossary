@@ -2,6 +2,7 @@
 title: 主从式架构
 status: Completed
 category: 概念
+tags: ["架构", "", ""]
 ---
 
 ## 是什么

@@ -2,6 +2,7 @@
 title: 分布式系统
 status: Completed
 category: 概念
+tags: ["架构", "", ""]
 ---
 
 ## 是什么
