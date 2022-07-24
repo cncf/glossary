@@ -10,7 +10,7 @@ _Cloud native security_ è un approccio che include la sicurezza nelle [applicaz
 
 ## Quali problematiche affronta
 
-I modelli tradizionali di sicurezza sono stati costruiti sulla base di una serie di presupposti che non sono più validi. Le applicazioni cloud native cambiano frequentemente, utilizzano un gran numero di strumenti e librerie open source, spesso vengono fatte eseguire in un'infrastruttura controllata dal fornitore e sono soggette a rapidi cambiamenti dell'infrastruttura. Le revisioni del codice, i lunghi cicli di garanzia della qualità, la scansione delle vulnerabilità basata sul sistema host e le revisioni della sicurezza dell'ultimo minuto non sono in grado di scalare quando si usano con le applicazioni cloud native.
+I modelli tradizionali di sicurezza sono stati costruiti sulla base di una serie di presupposti che non sono più validi. Le applicazioni cloud native cambiano frequentemente, utilizzano un gran numero di strumenti e librerie open source, spesso vengono fatte eseguire in un'infrastruttura controllata dal fornitore e sono soggette a rapidi cambiamenti dell'infrastruttura. Le revisioni del codice, i lunghi cicli di garanzia della qualità, la scansione delle vulnerabilità dei server e le revisioni della sicurezza dell'ultimo minuto non sono sufficientemente [scalabili](/it/scalability/) quando si usano con le [applicazioni cloud native](/it/cloud-native-apps/).
 
 ## In che modo aiuta
 
