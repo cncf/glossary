@@ -1,5 +1,5 @@
 ---
-title: डिबगिंग(Debugging)
+title: डिबगिंग
 status: Completed
 category: संकल्पना
 ---
