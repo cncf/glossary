@@ -15,4 +15,4 @@ Trasformare un'applicazione in [microservizi](/it/microservices/) aumenta gli sf
 
 ## In che modo aiuta
 
-Un monolite ben progettato può rispettare i principi lean, essendo il modo più semplice per rendere operativa un'applicazione. Quando il valore di mercato di un'applicazione monolitica si dimostra un successo, questa può essere scomposta in microservizi. Realizzare un'applicazione basata su microservizi prima di averne dimostrato il valore può essere un prematuro dispendio di energie a livello ingegneristico. Se l'applicazione non produce alcun valore, quelle energie saranno state sprecate.
+Un monolite ben progettato può rispettare i principi lean, essendo il modo più semplice per realizzare un'applicazione funzionante. Quando un'applicazione monolitica dimostra di creare valore con successo, questa può essere scomposta in microservizi. Realizzare un'applicazione basata su microservizi prima di averne dimostrato il valore può essere un prematuro dispendio di energie a livello ingegneristico. Se l'applicazione non produce alcun valore, quelle energie saranno state sprecate.
