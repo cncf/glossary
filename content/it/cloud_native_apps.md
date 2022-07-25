@@ -1,5 +1,5 @@
 ---
-title: Cloud Native Apps
+title: Applicazioni Cloud Native
 status: Completed
 category: Concetto
 ---
