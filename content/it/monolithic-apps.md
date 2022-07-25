@@ -7,7 +7,7 @@ tags: ["architettura", "", ""]
 
 ## Cos'è
 
-Un'applicazione monolitica contiene tutte le funzionalità in un programma rilasciabile come una singola unità. Spesso questo è il modo più semplice di iniziare a creare un'applicazione. Tuttavia, quando l'applicazione aumenta in complessità, i monoliti possono diventare difficili da manutenere. Un maggior numero di sviluppatori che lavorino sullo stesso codice sorgente, implica  anche un aumenta della probabilità di effettuare cambiamenti che vadano in conflitto tra loro, da cui la necessità di rendere più fitta la comunicazione tra gli stessi sviluppatori.
+Un'applicazione monolitica contiene tutte le funzionalità in un programma rilasciabile come una singola unità. Spesso questo è il modo più semplice di iniziare a creare un'applicazione. Tuttavia, quando l'applicazione aumenta in complessità, i monoliti possono diventare difficili da manutenere. Un maggior numero di sviluppatori che lavorino sullo stesso codice sorgente implica  anche un aumento della probabilità di effettuare cambiamenti che vadano in conflitto tra loro, da cui la necessità di rendere più fitta la comunicazione tra gli stessi sviluppatori.
 
 ## Quali problematiche affronta
 
