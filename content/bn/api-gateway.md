@@ -1,5 +1,5 @@
 ---
-title: API গেটওয়ে
+title: API গেটওয়ে(API Gateway)
 status: সম্পূর্ণ
 category: প্রযুক্তি
 tags: ["নেটওয়ার্কিং", "", ""]
