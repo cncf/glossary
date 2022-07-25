@@ -96,4 +96,3 @@ Se e quando os níveis de comprometimento dos contribuidores mudam, os contribui
 ## Voltando para uma função anterior
 
 Se e quando alguém estiver disponível para voltar a uma função de colaborador anterior, a liderança do projeto pode providenciar e considerar isso.
-

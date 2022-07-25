@@ -137,7 +137,7 @@ When appropriate, use **real-world examples** that help readers (especially non-
 
 When used in your definition, always **link to existing glossary terms** (only the first mention should be hyperlinked).
 
-**Example**: take a look at the “What it is” section of the [service mesh definition](/service_mesh/). 
+**Example**: take a look at the “What it is” section of the [service mesh definition](/service-mesh/). 
 It links back to the microservices, service, reliability, and observability definitions. 
 Additionally, it uses a real-world example comparing network challenges in a microservices environment (something non-technical people can't relate to) 
 to wifi problems (something anyone using a laptop can understand). 
