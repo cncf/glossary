@@ -2,6 +2,7 @@
 title: 平台即服务 (PaaS)
 status: Completed
 category: 技术
+tags: ["基本原理", "平台", ""]
 ---
 
 ## 是什么

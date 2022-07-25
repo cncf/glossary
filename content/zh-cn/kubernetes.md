@@ -2,6 +2,7 @@
 title: Kubernetes
 status: Completed
 category: 技术
+tags: ["基础设施", "", ""]
 ---
 
 ## 是什么

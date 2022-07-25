@@ -2,6 +2,7 @@
 title: 基础设施即代码 (IaaS)
 status: Completed
 category: 技术
+tags: ["基础设施", "", ""]
 ---
 
 ## 是什么
