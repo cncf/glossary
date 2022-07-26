@@ -15,4 +15,4 @@ Con il passaggio a un'architettura a microservizi, gli ingegneri hanno ora a che
 
 ## In che modo aiuta
 
-I service mesh aggiungono in modo uniforme affidabilità, osservabilità e sicurezza a tutti i servizi all'interno di un cluster senza richiedere modifiche al codice. Prima dei service mesh queste funzionalità dovevano essere inserite all'interno del codice di ogni singolo servizio, diventando una potenziale fonte di bug e debiti tecnici.
+Le service mesh conferiscono in modo uniforme affidabilità, osservabilità e sicurezza a tutti i servizi all'interno di un cluster senza richiedere modifiche al codice. Prima dell'avvento delle service mesh, queste funzionalità dovevano essere aggiunte al codice di ogni singolo servizio, diventando una potenziale fonte di bug e debiti tecnici.
