@@ -16,5 +16,5 @@ Past architectures would pull data in small batches over set period of time but 
 
 ## How it helps
 Event streaming allows services to be completely decoupled from one another (a fundamental principle of [microservices](/microservices/) architectures). Instead of waiting for services to request information from it, the service continuously streams all its events (or activities). It isn't concerned about what happens to the information. It just does what it needs to do and broadcasts it to the system, thus completely independent of any other service. 
-Event streaming can be seen as an extension of [Event-driven architectures](/event-driven-architecture/) while event-driven architecture is the infrastructure designed to support the streaming of events to their respective services.
+Event streaming is how services in an [event-driven architectures](/event-driven-architecture/) communicate. Hence, the former is the process, and the latter is the infrastructure to support that process. 
 Event streaming is sending data at a near real-time rate that updates the application on changes of states (events).
