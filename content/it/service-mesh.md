@@ -7,7 +7,7 @@ tags: ["networking", "", ""]
 
 ## Cos'è
 
-In un mondo costituito da [microservizi](/it/microservices), le applicazioni sono suddivise in diversi [servizi](/it/services) che comunicano attraverso una rete. Proprio come una rete Wi-Fi, le reti di computer sono intrinsecamente inaffidabili, hackerabili e spesso lente. I service mesh rispondono a questo nuovo set di sfide gestendo il traffico (cioè la comunicazione) tra i servizi e aggiungendo in modo uniforme [affidabilità](/it/reliability), [osservabilità](/it/observability) e sicurezza a tutti i servizi.
+In un mondo costituito da [microservizi](/it/microservices), le applicazioni sono spacchettate in diversi [servizi](/it/services) che comunicano tra loro attraverso una rete. Proprio come una qualunque rete Wi-Fi, le reti di computer sono intrinsecamente inaffidabili, hackerabili e spesso lente. Le service mesh rispondono a questo nuovo set di sfide gestendo il traffico (cioè la comunicazione) tra i servizi e conferendo in modo uniforme [affidabilità](/it/reliability), [osservabilità](/it/observability) e sicurezza a tutti i servizi.
 
 ## Quali problematiche affronta
 
