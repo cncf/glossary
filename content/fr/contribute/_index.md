@@ -1,169 +1,175 @@
 ---
-title: How To Contribute
+title: Comment contribuer
 toc_hide: true
 menu:
   main:
     weight: 10
 ---
 
-The Cloud Native Glossary content is stored in [this GitHub repo](https://github.com/cncf/glossary) 
-where you'll find a list of [issues](https://github.com/cncf/glossary/issues), [PRs](https://github.com/cncf/glossary/pulls), and 
-[discussions](https://github.com/cncf/glossary/discussions) about the glossary. 
+Le contenu du glossaire Cloud Native est stocké dans [ce repos Github](https://github.com/cncf/glossary) où vous trouverez une liste d'[issues](https://github.com/cncf/glossary/issues),[PRs](https://github.com/cncf/glossary/pulls), et [discussions](https://github.com/cncf/glossary/discussions) à propos du glossaire. 
 
-There are four ways you can contribute:
+Vous pouvez contribuer de 4 façons :
 
-1) [Work on an existing issue](#work-on-an-existing-issue)
-2) [Propose new terms](#propose-new-terms)
-3) [Update existing ones](#update-an-existing-term)
-4) [Help translate the glossary](#help-translate-the-glossary)
+1) [Travailler sur une issue existante](#work-on-an-existing-issue)
+2) [Proposer un nouveau termes](#propose-new-terms)
+3) [En mettre à jour un existant](#update-an-existing-term)
+4) [Aider à traduire le glossaire](#help-translate-the-glossary)
 
-## Join the Glossary community! {#join-the-glossary-community}
+## Rejoindre la communauté du glossaire ! {#join-the-glossary-community}
+Envisager de rejoindre la réunion mensuelle du groupe de travail du glossaire si vous souhaitez contribuer de manière régulière.
+Les détails de la réunion peuvent être trouvés dans le [calendrier de la CNCF](https://www.cncf.io/calendar/).
+Vous pouvez aussi entrer en contact avec les mainteneurs et les contributeurs de notre [#glossary](https://cloud-native.slack.com/archives/C02TX20MQBB) sur le Slack de la CNCF - Nous aimerions beaucoup vous rencontrer!
 
-Consider joining our monthly Glossary Working Group meetings if you want to contribute regularly. 
-You can find meeting details in the [CNCF calendar](https://www.cncf.io/calendar/). 
-You can also connect with the maintainers and fellow contributors in our [#glossary](https://cloud-native.slack.com/archives/C02TX20MQBB) channel on the CNCF Slack 
-— we'd love to meet you! 
 
-## Work on an existing issue {#work-on-an-existing-issue}
+## Travailler sur une issue existante {#work-on-an-existing-issue}
 
-Go to the [Glossary GitHub repo issues](https://github.com/cncf/glossary/issues). 
-There you'll see a list of all issues. You can filter by label (e.g. English language, help needed, good first issue). 
-Note that you'll need a GitHub account to do any of this.
+Aller sur [Glossary GitHub repo issues](https://github.com/cncf/glossary/issues). 
+Ici, vous trouverez une liste de toutes les issues. Vous pouvez les filtrer par label (e.g. English language, help needed, good first issue).
 
-![Issue and labels](/images/how-to/issue-and-labels.png)
+Un compte Github sera nécessaire.
 
-Make sure the term you are interested in is not already assigned to someone. 
-Here you can see that the first three terms are available while the next term has already been assigned.
+![Issue et labels](/images/how-to/issue-and-labels.png)
 
-![assigning a term](/images/how-to/howto-04.png)
+Faites en sorte qu'un terme qui vous intéresse ne soit pas déjà attribué à quelqu'un d'autre.
+Ici, vous pourrez voir que les 3 premiers termes disponibles alors que le suivant est déjà attribué.
 
-Once you found a term you want to work on, say so in the issue. Click on it and add a comment.
 
-![Claiming an issue](/images/how-to/claiming-an-issue.png)
+![Assigné un termes](/images/how-to/howto-04.png)
 
-Additionally, please also join the [#glossary](https://cloud-native.slack.com/archives/C02TX20MQBB) channel on the CNCF Slack and 
-let the maintainers know that you've raised an issue for a new term 
-(ideally, tag _@Catherine Paganini_, _@jmo_, _@Seokho Son_, _@Jihoon Seo_, and/or _@iamnoah_ to be sure they don't miss it). 
-Note that you can only claim one term at a time. 
-If you want to work on multiple terms, please finish one before claiming the next one.
+Une fois que vous avez trouvé le terme sur lequel vous voulez travailler, dites-le dans l'issue. Cliquez dessus et rajouter un commentaire.
 
-Once they assign it to you, you can start working on it. 
-For the next steps, please refer to the [Submitting a new term (creating a PR)](#submitting-a-new-term) section.
 
-## Propose new terms {#propose-new-terms}
+![S'assigner une issue](/images/how-to/claiming-an-issue.png)
 
-You can propose a new term for others to work on or create a new definition yourself. 
-Either way, you'll start by creating an issue. 
-Please note that terms must meet the [CNCF's cloud native definition](https://github.com/cncf/toc/blob/main/DEFINITION.md). 
-The only exceptions are foundational terms needed to understand cloud native concepts.
+Additionellement, merci de rejoindre le channel Slack [#glossary](https://cloud-native.slack.com/archives/C02TX20MQBB) et de faire savoir aux mainteneurs que vous avez créé une issue pour un terme (idéalement, en mentionnant, _@Catherine Paganini_, _@jmo_, _@Seokho Son_, _@Jihoon Seo_, et/ou _@iamnoah_ pour être sûr qu'il ne passe pas à côté).
 
-Below is a step-by-step guide for those not yet familiar with GitHub. 
-**If you are a GitHub Pro**, please _do_ have a quick look to make sure you use our issue templates, 
-appropriate naming conventions, claim a PR on Slack (otherwise we may miss it), and where to find the file template. 
-And please make sure to read the [Style Guide](/style-guide/) before getting started — thank you! 
+Vous pouvez uniquement proposer un terme à la fois.
 
-### Creating an issue {#creating-an-issue}
+Si vous voulez travailler sur plusieurs termes, merci d'en finir un avant d'en proposer un nouveau.
 
-Go to the [Glossary GitHub repo](https://github.com/cncf/glossary/issues) issues and click on "New issue".
+Une fois qu'il vous a été assigné, vous pouvez commencer à travailler dessus.
+Pour les étapes suivantes, merci de prendre connaissance de la section [Proposer un nouveau terme (créer une PR)](#submitting-a-new-term).
+
+## Proposer un nouveau terme {#propose-new-terms}
+
+Vous pouvez proposer un nouveau terme à la communauté ou créer vous-même la définition de ce terme.
+Dans les deux cas, vous commencerez par créer une issue.
+Il est à noter que les termes doivent être en accord avec le [CNCF's cloud native definition](https://github.com/cncf/toc/blob/main/DEFINITION.md).
+Les seules exceptions sont les termes fondamentaux nécessaires pour comprendre les concepts cloud natif.
+
+Ci-après, un guide étape par étape pour ceux et celles qui ne sont pas familier avec Github
+**Si vous avez un compte GitHub Pro**, merci de vérifier que vous utilisez nos modèles d'issue,
+une convention de nommage appropriée, réclamé une PR sur Slack (autrement on pourrait l'avoir raté), et où trouver les modèles de fichier.
+Et merci de lire le [Style Guide](/style-guide/) avant de commencer - Merci!
+
+### Créer une issue {#creating-an-issue}
+
+Aller sur les issues du repos [Glossary](https://github.com/cncf/glossary/issues) et cliquer sur "New issue".
 
 ![issues](/images/how-to/howto-01.png)
 
-You'll see a variety of templates. To propose a new term in English, select "Request to add a new term (English)".
+Vous verrez plusieurs modèles. Pour proposer un nouveau terme en Français sélectionner "Request to add a new term (Optional:Non-English)".
+
 
 ![templates](/images/how-to/english-issue-template.jpg)
 
-Add the word you're suggesting, answer the two questions below, check the checkboxes, and hit "Submit new issue".
-If you're just proposing a new term, you're done! To work on it, follow the next steps.
+Ajouter le mot que vous suggérez, répondez aux deux questions d'en dessous, cocher la case et cliquer sur "Submit new issue".
+Si vous souhaitez juste proposer un nouveau terme, vous pouvez vous arrêter là! Pour travailler dessus suivez les étapes d'après.
 
-### Triaging your issue {#triaging-your-issue}
 
-Next, the maintainers will triage the issue. 
-That means they will assess if the term should be part of the Glossary 
-(note, not every term will be admitted. Terms should be established and widely-used cloud native terms).
+### Catégoriser votre issue {#triaging-your-issue}
 
-Please let the maintainers know that you've submitted a term on Slack as they may otherwise miss it. 
-Ideally, tag _@Catherine Paganini_, _@jmo_, _@Seokho Son_, _@Jihoon Seo_, and/or _@iamnoah_. 
-If the term is approved and you want to work on it, they'll assign it to you.
+Ensuite, les mainteneurs vont trier le ticket
+Cela veut dire qu'ils vont évaluer si votre terme peut être présent dans le glossaire (Il est à noter, que tous les termes ne sont pas admis. Les termes doivent faire partie des termes couramment utilisés dans l'eco-système Cloud Native).
 
-Note that you can only claim one term at a time. 
-If you want to work on multiple terms, please finish one before claiming the next.
+Merci de faire savoir aux mainteneurs que vous avez soumis un terme sur Slack, sinon il pourrait passer à côté.
+Idéalement, mentionnez _@Catherine Paganini_, _@jmo_, _@Seokho Son_, _@Jihoon Seo_, and/or _@iamnoah_. 
 
-### Submitting a new term (creating a PR) {#submitting-a-new-term}
+Si le terme est approuvé et que vous voulez travailler dessus, ils vous assigneront l'issue.
 
-Before getting started, please read the [Style Guide](/style-guide/) — it will help minimize backs and forth. 
-As stated in the style guide, we highly recommend starting with a Google or Word doc. 
+Notez que vous pouvez vous assigner qu'à un seul terme à la fois.
+Si vous souhaitez travailler sur plusieurs termes, merci d'en finir un avant de vous en attribuer un autre
 
-Once the term is ready to submit, go to content (under code)…
+### Proposer un nouveau terme (créer une PR) {#submitting-a-new-term}
+
+Avant de commencer, merci de lire le [Style Guide](/style-guide/) — il aidera à minimiser les aller/retour.
+Comme mentionné dans le style guide, il est fortement recommandé de commencer par un document texte (Gdoc, Word ou autre)
+
+Une fois que le terme est prêt à être proposé, rédigez le contenu (sous forme de code)...
+
 
 ![content](/images/how-to/howto-05.png)
 
-…then "en" (or the language you are submitting for)…
+...Alors "fr" (ou la langue pour laquelle vous souhaitez contribuer)...
 
 ![language folder](/images/how-to/howto-06.png)
 
-…and select `_TEMPLATE.md`
+... Et sélectionner `_TEMPLATE.md` 
 
 ![template](/images/how-to/howto-07.png)
 
-Copy the content…
+...Copier le contenu...
 
 ![copy content](/images/how-to/howto-08.png)
 
-…and go back to the "en" folder. Hit "Add file" and select "Create new file".
+...Et retourner sur le dossier "fr". Et cliquer sur "Add file" et sélectionner "Create new file".
+
 
 ![create new file](/images/how-to/howto-09.png)
 
-Add the term name in the URL (no capitalization, no spaces, no parentheses, and use hyphens to separate words)
-and .md at the end (note: if your preview doesn't work, you probably forgot to add .md at the end).
-Now paste the template content below. Copy and paste your definition into the file.
-To make reviews easier, please **use [semantic line breaks](https://sembr.org/)** (e.g. one line per sentence).
-Note that GitHub uses markdown to format the text (e.g., hyperlink, bold, italic).
-Please refer to this [markdown cheat sheet](https://www.markdownguide.org/cheat-sheet/).
-To verify you've used markdown as intended, go to "Preview".
+Ajouter le terme dans l'url (pas de majuscules, pas d'espaces, pas de parenthèses et utiliser un tirer pour séparer les mots) rajouter .md à la fin du nom de votre fichier (note: Si la prévisualisation ne fonctionne pas, vous avez probablement oublié d'ajouter .md à la fin).
+Maintenant copier le contenu. Copier et coller votre définition dans le fichier.
+Pour faciliter les relectures, merci **d'utiliser [semantic line breaks](https://sembr.org/)** (e.g. une ligne par phrase).
+
+Github utilise le format markdown pour mettre en forme le text (e.g., lien hypertexte, gras, italic).
+Merci de lire ceci [markdown cheat sheet](https://www.markdownguide.org/cheat-sheet/).
+Pour vérifier que vous avez correctement utilisé markdown, aller sur "Preview".
+
 
 ![finalize term](/images/how-to/howto-10.png)
 
-Scroll down and name the new commit file when you are ready to submit. 
-You are now about to commit the term to your own branch. 
-Submitting a PR requires one more step. Hit "Commit new file" and…
+Descendre en bas de la page et donner un nom à votre commit quand vous êtes prêt à l'ajouter.
+Vous êtes, maintenant, prêt à commit votre terme sur votre propre branche.
+Proposer une PR nécessite une dernière étape. Cliquer sur "Commit new file" et...
 
 ![commit new file](/images/how-to/howto-11.png)
 
-…now you're creating an PR:
+...Maintenant vous créez une PR :
 
 ![create a pr](/images/how-to/howto-12.png)
 
-You should now see your PR under "Pull requests".
+Vous devriez voir votre PR sous "Pull requests".
 
 ![prs](/images/how-to/howto-13.png)
 
-## Update an existing term {#update-an-existing-term}
+## Mettre à jour un terme existant {#update-an-existing-term}
 
-To update an existing term, you can either suggest a change via an issue or go ahead and update the term directly by submitting a pull request (PR).
+Pour mettre à jour un terme existant, vous pouvez soit suggérer un changement via un ticket (issue) ou directement proposer la mise à jour d'un terme en soumettant une pull request (PR).
 
-### Request a change via an issue {#request-a-change-via-an-issue}
+### Proposer un changement via un ticket {#request-a-change-via-an-issue}
 
-If you want to flag a problem with a term but don't know how or want to fix it yourself, click on "Report issue".
+Si vous voulez mettre en évidence un problème mais que vous ne savez pas ou ne voulez pas le corriger vous même, cliquez sur "Report issue'.
 
 ![report issue](/images/how-to/howto-14.png)
 
-This will directly open an issue. Please elaborate on which change is needed and why. Hit submit, and that's it. 
+Cela va directement ouvrir un ticket. Merci d'être précis sur quels changements sont nécessaires et pourquoi. Cliquer sur "submit" et c'est fini.
+
 
 ![submit issue](/images/how-to/howto-15.png)
 
-### Update a term directly {#update-a-term-directly}
+### Mettre à jour un terme directement {#update-a-term-directly}
 
-To change a term directly, go to "Edit this page".
+Pour directement changer un terme, aller sur "Edit this page".
 
 ![edit this page](/images/how-to/howto-16.png)
 
-This will open the term's GitHub page. Make your changes and submit a PR. 
-Please refer to "Submitting a new term" above for a detailed description (jump to the section that speaks about markdown).
+Cela va ouvrir la page GitHub du terme. Faites vos changements et proposer une PR. Merci de prendre connaissance de "Proposer un nouveau terme" avant pour une description détaillé (sauter la section qui parle de markdown)
 
-## Help translate the glossary {#help-translate-the-glossary}
 
-To help translate the glossary into your native language, please join the [#glossary-localizations](https://cloud-native.slack.com/archives/C02N2RGFXDF) channel on the CNCF Slack and let us know.
-You can either join an existing team or create a new one 
-(to see what it takes, check out or [Localization Guide](https://github.com/cncf/glossary/blob/main/LOCALIZATION.md)). 
-Please also join our monthly Glossary Working Group meetings. You can find meeting details in the [CNCF calendar](https://www.cncf.io/calendar/). 
-We look forward to meeting you there!
+## Aider à traduire le glossaire {#help-translate-the-glossary}
+
+Pour aider à traduire le glossaire dans votre langue principale, merci de rejoindre le Slack et le channel [#glossary-localizations](https://cloud-native.slack.com/archives/C02N2RGFXDF) et faites le nous savoir.
+
+Vous pouvez soit rejoindre une équipe existante ou en créer une nouvelle (pour voir en quoi ça consiste, regarder [Localization Guide](https://github.com/cncf/glossary/blob/main/LOCALIZATION.md)).
+
+Merci aussi de rejoindre notre réunion mensuelle. Vous pouvez trouver plus de détails sur le [CNCF calendar](https://www.cncf.io/calendar/). 
