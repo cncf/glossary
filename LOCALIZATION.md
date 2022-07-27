@@ -127,6 +127,10 @@ After completing the minimum required terms for a new localization, open a PR to
 
 Once the PR is merged, the localized content will go live on its website 🎉
 
+### 6. Keeping track of changes in the English Glossary
+
+There are multiple ways to keep track of updates in the English Glossary. Which approach your team implements is up to you. You can check out [this discussion on the topic](https://github.com/cncf/glossary/discussions/1125) to see what other teams do and decide which approach you want to take.
+
 ---
 
 # Join an existing localization team
