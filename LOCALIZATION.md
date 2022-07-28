@@ -57,7 +57,7 @@ Open a PR with the localization initiation following this example: https://githu
 
 To add a new language to the site, modify [config.toml](https://github.com/cncf/glossary/blob/main/config.toml#L54) (Note: localization teams should use their assigned development branch for this).
 
-The`[languages]` block of `config.toml` is used to set the language. For instance,`[languages.en]` stands for English and `[languages.ko]` for Korean language configuration. Go to the `[languages]` block in `config.toml` and add a new block for your language-specific configuration. For instance, the Korean localization team added its [languages.ko]` block after the `[languages.en]` block.
+The `[languages]` block of `config.toml` is used to set the language. For instance, `[languages.en]` stands for English and `[languages.ko]` for Korean language configuration. Go to the `[languages]` block in `config.toml` and add a new block for your language-specific configuration. For instance, the Korean localization team added its `[languages.ko]` block after the `[languages.en]` block.
 
 - Example of `New language block for /config.toml`
   ```diff
