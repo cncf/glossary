@@ -1,4 +1,5 @@
 add
+Amazon
 an
 Aniszczyk
 Anyul
@@ -51,11 +52,14 @@ declarativamente
 Deployment
 deployments
 DevOps
+DevSecOps
 DigitalOcean
 directly
 ej
 Emiliano
 entregables
+escalarse
+escaneos
 existing
 extensibilidad
 Feedback
@@ -66,9 +70,12 @@ frontend
 Garcia
 gateway
 GCP
+git
 Git
 github
+GitOps
 glossary
+Gmail
 good
 Google
 help
@@ -93,6 +100,7 @@ Kubernetes
 Language
 laptop
 localizations
+loop
 main
 markdown
 md
@@ -100,8 +108,10 @@ menu
 Mercurial
 mesh
 microservicios
+Microsoft
 Mike
 mitigarse
+monitorean
 Morgan
 Native
 needed
@@ -109,9 +119,11 @@ new
 Not
 of
 on
+on-premises
 Paganini
 pr
 prem
+premises
 profesionistas
 properties
 propose
@@ -121,6 +133,7 @@ Rael
 Ramer
 request
 requests
+resiliencia
 Rivas
 scripts
 Seokho
