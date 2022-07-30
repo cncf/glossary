@@ -12,8 +12,9 @@ refers to the process of taking a physical computer, sometimes called a server,
 and allowing it to run multiple isolated operating systems. 
 Those isolated operating systems and their dedicated compute resources (CPU, memory, and network) are 
 referred to as virtual machines or VMs. 
-When we talk about a virtual machine, we’re talking about a software-defined computer. 
-Something that looks and acts like a real computer but is sharing hardware with other virtual machines. 
+When we talk about a [virtual machine](/virtual-machine/), we’re talking about a software-defined computer. 
+Something that looks and acts like a real computer but is sharing hardware with other virtual machines.
+[Cloud computing](/cloud-computing/) model is primarily powered by virtualization technology.
 As an example, you can lease a "computer" from AWS – that computer is actually a VM.
 
 ## Problem it addresses
