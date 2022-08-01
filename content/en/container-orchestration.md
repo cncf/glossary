@@ -9,7 +9,7 @@ category: Concept
 It functions like a data center operating system (OS), managing [containerized](/containerization/) applications at scale (just like the OS on your laptop that manages your apps).
 
 ## Problem it addresses 
-Container usage began to grow significantly, bringing varying degrees of orchestration and cluster management capabilities. 
+The rise of [Cloud Native Apps](/cloud-native-apps/) and [technologies](/cloud-native-tech/) as well as the fast changing demands of modern businesses introduced a new set of problems. Managing microservices, security and network related things at scale as well as distributed system in general are hard if not impossible to manage manually.   
 There were tools that made it simple to run containers within virtual machines, but communicating all of this into the outside world and sharing secrets remained difficult. 
 A platform was required to run, manage, operate, and support the containers throughout their lifecycle.
 
