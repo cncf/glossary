@@ -9,7 +9,7 @@ category: Technologie
 APIs regeln die Kommunikation zwischen Softwareanwendungen.
 Im weiteren Sinne kann man das mit einem Gespräch zwischen zwei Personen vergleichen.
 In diesem Beispiel wäre eine API die konkrete Sprache, die gesprochen wird.
-Im Gegensatz zu einem Gespräch zwischen zwei Personen ist die Kommunikation zwischen zwei Softwareanwendungen durch eine API beschränkt.
+Im Gegensatz zu einem Gespräch zwischen zwei Personen ist die Kommunikation zwischen Softwareanwendungen allerdings eingeschränkt.
 Sie unterliegt einem festen Protokoll und findet über vordefinierte Endpunkte statt.
 
 ## Welches Problem es löst
