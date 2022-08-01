@@ -29,7 +29,7 @@ Please refer to the [How to Contribute](/contribute/) and [Style Guide](/style-g
 
 ## 2. Approvers
 
-Approvers provide feedback on PRs and approve them. Any active contributor can become an approver (see [Becoming an approver](https://glossary.cncf.io/contributor-ladder/#becoming-an-approver)). 
+Approvers provide feedback on PRs and approve them. Any active contributor can become an approver (see [Becoming an approver](#becoming-an-approver)). 
 The Glossary differentiates between two approvers: (1) approvers for the English Glossary and (2) approvers for localization teams.
 
 Glossary approvers are expected to:
