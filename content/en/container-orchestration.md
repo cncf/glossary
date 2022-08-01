@@ -5,7 +5,7 @@ category: Concept
 ---
 
 ## What it is
-[Container](https://glossary.cncf.io/container/) orchestration automates container lifecycle management tasks such as provisioning, deployment, scaling, and networking in dynamic environments. 
+[Container](/container/) orchestration provides the ability to manage and automate the lifecycle of containerized applications in dynamic environments. This includes different aspects that are also pursued by [Cloud Native Technologies](/cloud-native-tech/) and [Cloud Native Apps](/cloud-native-apps/), such as: deployment, (auto)scaling, auto healing and monitoring.
 It functions like a data center operating system (OS), managing [containerized](https://glossary.cncf.io/containerization/) applications that run across a [distributed system](https://glossary.cncf.io/distributed-systems/) (just like the OS on your laptop that manages your apps).
 
 ## Problem it addresses 
