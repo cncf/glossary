@@ -10,7 +10,7 @@ IT에서 서비스는 다양한 의미를 가진다는 점에 유의해야 한�
 <!-- In this definition, we'll focus on the more traditional one: service as in microservice.  -->
 이 정의에서는, 마이크로서비스(microservice)에서의 서비스와 같이 좀 더 전통적인 서비스에 초점을 둔다.
 <!-- How or even if services differ from microservices is nuanced and different people may have different opinions.  -->
-서비스가 마이크로서비스와 어떻게 다른지에 대해 미묘한 차이가 있으며 사람마다 의견이 다를 수 있을 것이다. 그렇지만, 
+서비스가 마이크로서비스와 어떻게 다른지에 대해서는 미묘한 차이가 있으며, 사람마다 의견이 다를 수 있다. 그렇지만, 
 <!-- For a high-level definition, we'll treat them as the same.  -->
 높은 단계(high-level)의 정의를 위해서 서비스와 마이크로서비스를 동일하게 취급할 것이다.
 <!-- Please refer to the [microservices](/microservices/) definition. -->
