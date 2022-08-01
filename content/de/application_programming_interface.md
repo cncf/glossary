@@ -21,7 +21,7 @@ Das Aufteilen von großen monolithischen Softwareanwendungen in viele kleinere A
 
 ## Wie es das Problem löst
 
-APIs bestehen aus Kommunikationsendpunkten, die über feste URL Pfade erreichbar sind.
+Eine API beschreibt, wie zwei oder mehrere Anwendungen miteinander kommunizieren können. Dabei werden die Kanäle beschrieben sowie die Sprache der Kommunikation (Ein und Ausgabe von Daten). 
 APIs sind die Bausteine moderner Applikationen. Sie fördern die Wiederverwendbarkeit und Wartbarkeit einer Anwendung. [Microservices](/microservices/) beispielsweise kommunizieren oftmals über APIs miteinander. 
 Ein Endpunkt definiert ein festes Format für die Eingabe und Ausgabe von Daten, daher den Datenaustausch.
 Softwareanwendungen nutzten das Format, um Informationen über einen festen Source Code auszutauschen.
