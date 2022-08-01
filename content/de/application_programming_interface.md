@@ -23,5 +23,4 @@ Das Aufteilen von großen monolithischen Softwareanwendungen in viele kleinere A
 
 Eine API beschreibt, wie zwei oder mehrere Anwendungen miteinander kommunizieren können. Dabei werden die Kanäle beschrieben sowie die Sprache der Kommunikation (Ein und Ausgabe von Daten). 
 APIs sind die Bausteine moderner Applikationen. Sie fördern die Wiederverwendbarkeit und Wartbarkeit einer Anwendung. [Microservices](/microservices/) beispielsweise kommunizieren oftmals über APIs miteinander. 
-Softwareanwendungen nutzten das Format, um Informationen über einen festen Source Code auszutauschen.
 In diesem Kontext spricht man auch davon, dass eine Applikation einen Endpunkt „konsumiert“.
