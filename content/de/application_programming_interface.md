@@ -14,7 +14,7 @@ Sie unterliegt einem festen Protokoll und findet über vordefinierte Endpunkte s
 
 ## Welches Problem es löst
 
-Softwareanwendungen können mit der Zeit sehr komplex werden und kleine Code Änderungen können fundamentale Auswirkungen auf die Funktionalität der Anwendung haben.
+Softwareanwendungen können mit der Zeit sehr komplex werden und kleine Änderungen an einer Stelle der Anwendung können fundamentale Auswirkungen auf andere Bereiche der Anwendung haben.
 Das gestaltet eine direkte Kommunikation zwischen verschiedenen Anwendungen in der Praxis oft schwierig.
 Dieses Problem wird weiter durch den Trend hin zu [Microservice Architekturen](/microservices/) verstärkt.
 Das Aufteilen von großen monolithischen Softwareanwendungen in viele kleinere Anwendungen unterstreicht das Kommunikationsproblem.
