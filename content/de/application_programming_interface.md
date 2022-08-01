@@ -23,7 +23,7 @@ APIs lösen dieses Problem, in dem sie ein festes Kommunikationsprotokoll etabli
 ## Wie es das Problem löst
 
 APIs bestehen aus Kommunikationsendpunkten, die über feste URL Pfade erreichbar sind.
-So eine URL kann mit einer Postanschrift verglichen werden, sie legt fest wie ein Endpunkt im Internet erreicht wird.
+APIs sind die Bausteine moderner Applikationen. Sie fördern die Wiederverwendbarkeit und Wartbarkeit einer Anwendung. [Microservices](/microservices/) beispielsweise kommunizieren oftmals über APIs miteinander. 
 Ein Endpunkt definiert ein festes Format für die Eingabe und Ausgabe von Daten, daher den Datenaustausch.
 Softwareanwendungen nutzten das Format, um Informationen über einen festen Source Code auszutauschen.
 In diesem Kontext spricht man auch davon, dass eine Applikation einen Endpunkt „konsumiert“.
