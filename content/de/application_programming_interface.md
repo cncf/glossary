@@ -18,7 +18,6 @@ Softwareanwendungen können mit der Zeit sehr komplex werden und kleine Änderun
 Das gestaltet eine direkte Kommunikation zwischen verschiedenen Anwendungen in der Praxis oft schwierig.
 Dieses Problem wird weiter durch den Trend hin zu [Microservice Architekturen](/microservices/) verstärkt.
 Das Aufteilen von großen monolithischen Softwareanwendungen in viele kleinere Anwendungen unterstreicht das Kommunikationsproblem.
-APIs lösen dieses Problem, in dem sie ein festes Kommunikationsprotokoll etablieren.
 
 ## Wie es das Problem löst
 
