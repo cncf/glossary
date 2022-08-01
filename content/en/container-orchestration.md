@@ -10,7 +10,6 @@ It functions like a data center operating system (OS), managing [containerized](
 
 ## Problem it addresses 
 The rise of [Cloud Native Apps](/cloud-native-apps/) and [technologies](/cloud-native-tech/) as well as the fast changing demands of modern businesses introduced a new set of problems. Managing microservices, security and network related things at scale as well as distributed system in general are hard if not impossible to manage manually.   
-There were tools that made it simple to run containers within virtual machines, but communicating all of this into the outside world and sharing secrets remained difficult. 
 
 ## How it helps
 Container orchestration _tools_ often work declaratively, meaning the operator provides instructions about _what_ the deployment should look like (e.g., how many clusters, nodes, resource allocation, etc.), and the orchestrator proactively takes care of the _how_. 
