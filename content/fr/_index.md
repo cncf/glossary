@@ -11,7 +11,7 @@ Son rôle est d'expliquer les concepts cloud natifs en termes simples et clairs,
 
 ## Contribution
 
-Toute personne est invitée a suggérer des changements, des ajouts, ou des amélioration au Glossaire Cloud Natif.
+Toute personne est invitée à suggérer des changements, des ajouts, ou des amélioration au Glossaire Cloud Natif.
 Nous employons un processus dirigé par la communauté, et gouverné par la CNCF, afin de développer et d'améliorer ce lexique partagé.
 Ce Glossaire fournit un plateforme indépendante de toute solution propriétaire, afin d'organiser un vocabulaire partagé par tous, le tout centré autour des technologies cloud natives.
 Les contributions sont les bienvenues pour tous les participants adhérant au principe du projet, ainsi qu'à sa charte.

@@ -41,7 +41,7 @@ Une fois que vous avez trouvé le terme sur lequel vous voulez travailler, dites
 
 ![S'assigner une issue](/images/how-to/claiming-an-issue.png)
 
-Additionellement, merci de rejoindre le channel Slack [#glossary](https://cloud-native.slack.com/archives/C02TX20MQBB) et de faire savoir aux mainteneurs que vous avez créé une issue pour un terme (idéalement, en mentionnant, _@Catherine Paganini_, _@jmo_, _@Seokho Son_, _@Jihoon Seo_, et/ou _@iamnoah_ pour être sûr qu'il ne passe pas à côté).
+Additionnellement, merci de rejoindre le channel Slack [#glossary](https://cloud-native.slack.com/archives/C02TX20MQBB) et de faire savoir aux mainteneurs que vous avez créé une issue pour un terme (idéalement, en mentionnant, _@Catherine Paganini_, _@jmo_, _@Seokho Son_, _@Jihoon Seo_, et/ou _@iamnoah_ pour être sûr qu'il ne passe pas à côté).
 
 Vous pouvez uniquement proposer un terme à la fois.
 
@@ -79,8 +79,8 @@ Si vous souhaitez juste proposer un nouveau terme, vous pouvez vous arrêter là
 
 ### Catégoriser votre issue {#triaging-your-issue}
 
-Ensuite, les mainteneurs vont trier le ticket
-Cela veut dire qu'ils vont évaluer si votre terme peut être présent dans le glossaire (Il est à noter, que tous les termes ne sont pas admis. Les termes doivent faire partie des termes couramment utilisés dans l'eco-système Cloud Native).
+Ensuite, les mainteneurs vont catégoriser le ticket.
+Cela veut dire qu'ils vont évaluer si votre terme peut être présent dans le glossaire (Il est à noter, que tous les termes ne sont pas admis. Les termes doivent faire partie des termes couramment utilisés dans l'écosystème Cloud Native).
 
 Merci de faire savoir aux mainteneurs que vous avez soumis un terme sur Slack, sinon il pourrait passer à côté.
 Idéalement, mentionnez _@Catherine Paganini_, _@jmo_, _@Seokho Son_, _@Jihoon Seo_, and/or _@iamnoah_. 
@@ -117,7 +117,7 @@ Une fois que le terme est prêt à être proposé, rédigez le contenu (sous for
 
 ![create new file](/images/how-to/howto-09.png)
 
-Ajouter le terme dans l'url (pas de majuscules, pas d'espaces, pas de parenthèses et utiliser un tirer pour séparer les mots) rajouter .md à la fin du nom de votre fichier (note: Si la prévisualisation ne fonctionne pas, vous avez probablement oublié d'ajouter .md à la fin).
+Ajouter le terme dans l'url (pas de majuscules, pas d'espaces, pas de parenthèses et utiliser un tiret pour séparer les mots) rajouter .md à la fin du nom de votre fichier (note: Si la prévisualisation ne fonctionne pas, vous avez probablement oublié d'ajouter .md à la fin).
 Maintenant copier le contenu. Copier et coller votre définition dans le fichier.
 Pour faciliter les relectures, merci **d'utiliser [semantic line breaks](https://sembr.org/)** (e.g. une ligne par phrase).
 

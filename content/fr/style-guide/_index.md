@@ -8,7 +8,6 @@ menu:
 
 Ce guide de rédaction aide à comprendre la cible du Glossaire, la structure des définitions, le niveau requis de détails, ainsi que la manière
 de maintenir un style constant.
-This style guide will help you understand the Glossary audience, definition structure, required level of detail, and how to maintain a consistent style.
 
 Le Glossaire Cloud Natif suit le guide de [rédaction de référence](https://github.com/cncf/foundation/blob/master/style-guide.md) du dépôt de la CNCF.
 
@@ -107,7 +106,7 @@ Les définitions pour les catégories **technology** et **concept** contiennent 
 
 - **Ce que c'est** : fournis une explication claire et concise de ce dont nous parlons.
 - **Problème qu'il adresse** : se concentre sur le problème, pas la solution (cela vient dans la section suivante).
-  Pour faire simple, éviter de mentionner le terme qui est défini. Le problème nous aide à nous concentrer sur *ce qui* nous à mené à avoir besoin de cette entité.
+  Pour faire simple, éviter de mentionner le terme qui est défini. Le problème nous aide à nous concentrer sur *ce qui* nous a mené à avoir besoin de ce terme.
 - **Quel en est l'utilité**: maintenant, revenir sur le terme en lui-même. Comment est-ce qu'il adresse le problème décrit précédemment ?
 
 Noter que les propriétés ne nécessitent pas de section séparée. Un définition suffira.
@@ -120,7 +119,7 @@ Si vos modifications sont acceptées, vos changements seront les définitions of
 par une autre personne).
 La création d'un terme qui respecte les standards élevés de la CNCF ne doit pas se faire précipitamment - la qualité requiert du temps et de l'effort.
 
-**Faites vos recherches**: Même si vous avez confiance en votre connaissance du terme, vérifiez que avez la bonne définition.
+**Faites vos recherches**: Même si vous avez confiance en votre connaissance du terme, vérifiez que vous avez la bonne définition.
 L'utilisation des termes en entreprise ne reflètent pas toujours la globalité.
 Lorsque vous effectuez vos recherches, essentiellement lorsque vous n'êtes pas 100% familier avec ce dernier, utilisez plusieurs sources.
 De nombreuses définitions ne sont pas unilatérales, spécifiquement lorsqu'elles sont issues d'une solution propriétaire.
@@ -152,7 +151,7 @@ Lorsque cela est possible, tentez de faire cette connexion.
 #### Débuter avec un document Google ou Word
 
 Nous recommandons de débuter les modifications dans un document Google ou Word, de laisser reposer votre définitions pendant quelques jours, et d'y revenir par la suite.
-Aussi, assurez-vous d'effectuer une vérification orthographique avec de soumettre votre PR.
+Aussi, assurez-vous d'effectuer une vérification orthographique avant de soumettre votre PR.
 
 Afin d'éviter qu'un autre contributeur soumette une PR concernant le terme sur lequel vous travaillez,
 assurez-vous de vous approprier un ticket (ou d'en créer un) et qu'il vous soit assigné.
@@ -168,7 +167,7 @@ Occasionnellement, nous serons capables de revoir les termes rapidement; en d'au
 Si vous avez des questions, n'hésitez pas à nous contacter sur le canal Slack #glossary (pour savoir où et comment le trouver, référez-vous à la section de [Comment contribuer](/contribute/)).
 
 Notre but est de faire du Glossaire la meilleure des ressources possible.
-Une fois que vous aurez soumis votre PR, il est possible de nous demandions une ou plusieurs révisions.
+Une fois que vous aurez soumis votre PR, il est possible que nous demandions une ou plusieurs révisions.
 Ne soyez pas frustré - c'est le cas pour un grand nombre de PRs.
 Ces allers-retours et notre collaboration assureront que votre contribution devienne une définition réellement
 utile, lue et référée par de nombreux lecteurs aux quatres coins du monde.
