@@ -73,7 +73,7 @@ This decision will be based on your demonstrated level of proficiency and respon
 
 ## 3. Maintainers
 
-Maintainers are approvers who can also merge PRs. Anyone can become a Glossary maintainer (see [Becoming a maintainer](https://glossary.cncf.io/contributor-ladder/#becoming-a-maintainer)). 
+Maintainers are approvers who can also merge PRs. Anyone can become a Glossary maintainer (see [Becoming a maintainer](#becoming-a-maintainer)). 
 There are certain expectations for maintainers, including:
 
 - Be an active and responsive approver (see above),
