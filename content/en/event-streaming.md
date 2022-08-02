@@ -15,7 +15,14 @@ The data in this stream contains information regarding events (changes of state)
 
 ## Problem it addresses
 
-As more data becomes real-time, there will be an increased need to ensure that data is consistently flowing from a producer (source) to a consumer (receiver).
+The traditional communication approach for services is "ask, don't tell," coupling services to one another. 
+In our example, the Netflix service that pulls the movie from the database would have to ask the service that registers user choices: 
+"What's your current state? Any movies I need to get?" 
+This approach assumes that the first service is always available to respond.
+
+This method is problematic with real-time data, like in the case of Netflix. 
+Users expect the app to stream the selected movie without any delay. 
+With more data becoming real-time, there will be an increased need to ensure that data consistently flows from a producer (service source) to a consumer (service receiver).
 Past architectures would pull data in small batches over set period of time but nowadays, applications are needing to get constant, up-to-date data.
 
 ## How it helps
