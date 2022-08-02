@@ -22,7 +22,6 @@ This approach assumes that the first service is always available to respond.
 This method is problematic with real-time data, like in the case of Netflix. 
 Users expect the app to stream the selected movie without any delay. 
 With more data becoming real-time, there will be an increased need to ensure that data consistently flows from a producer (service source) to a consumer (service receiver).
-Past architectures would pull data in small batches over set period of time but nowadays, applications are needing to get constant, up-to-date data.
 
 ## How it helps
 Event streaming allows services to be completely decoupled from one another (a fundamental principle of microservices architectures). 
