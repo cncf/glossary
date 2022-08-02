@@ -15,4 +15,7 @@ As more data becomes real-time, there will be an increased need to ensure that d
 Past architectures would pull data in small batches over set period of time but nowadays, applications are needing to get constant, up-to-date data.
 
 ## How it helps
-Event streaming allows services to be completely decoupled from one another (a fundamental principle of [microservices](/microservices/) architectures). Instead of waiting for services to request information from it, the service continuously streams all its events (or activities). It isn't concerned about what happens to the information. It just does what it needs to do and broadcasts it to the system, thus completely independent of any other service. 
+Event streaming allows services to be completely decoupled from one another (a fundamental principle of microservices architectures). 
+Instead of waiting for services to request information from it, the service continuously streams all its events (or activities). 
+It isn't concerned about what happens to the information. 
+It just does what it needs to do and broadcasts it to the system, thus completely independent of any other service. 
