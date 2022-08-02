@@ -6,7 +6,11 @@ category: concept
 
 ## What it is
 
-Event streaming is a system in which one is providing a constant flow of data.
+Event streaming is an approach where [microservices](/microservices/) continuously communicate to the system what they are doing. 
+Picture a service broadcasting everything it does to all other services. 
+Each activity taken by a service is referred to as an event, hence event streaming. 
+For example, the Netflix service in charge of registering user movie choices might "broadcast" an event communicating something like: "User X selected movie Y."
+The message is now "out there" for the Netflix service in charge of pulling the movie from the database to pick it up.
 The data in this stream contains information regarding events (changes of state)
 
 ## Problem it addresses
