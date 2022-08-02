@@ -1,0 +1,71 @@
+
+
+# UI strings. Buttons and similar.
+
+[ui_pager_prev]
+other = "이전"
+
+[ui_pager_next]
+other = "다음"
+
+[ui_read_more]
+other = "더 읽기"
+
+[ui_search]
+other = "이 사이트 검색하기…"
+
+# Used in sentences such as "Posted in News"
+[ui_in]
+other = "내부"
+
+# Used in sentences such as "All Tags"
+[ui_all]
+other = "모든"
+
+# Footer text
+[footer_all_rights_reserved]
+other = "All Rights Reserved"
+
+[footer_privacy_policy]
+other = "개인 정보 처리 방침"
+
+
+# Post (blog, articles etc.)
+[post_byline_by]
+other = "의해서"
+[post_created]
+other = "생성된"
+[post_last_mod]
+other = "최근 수정"
+[post_edit_this]
+other = "이 페이지 수정하기"
+[post_create_child_page]
+other = "하부 페이지 생성하기"
+[post_create_issue]
+other = "이슈 리포트하기"
+[post_create_project_issue]
+other = "프로젝트 이슈 생성하기"
+[post_posts_in]
+other = "포스트된 곳"
+[post_reading_time]
+other = "읽은 시간(분)"
+
+# Print support
+[print_printable_section]
+other = "이 섹션을 다중 페이지로 프린트할 수 있는 화면 보기."
+[print_click_to_print]
+other = "프린트하기"
+[print_show_regular]
+other = "일반 화면으로 돌아가기"
+[print_entire_section]
+other = "전체 섹션 프린트하기"
+
+# Feedback section
+[feedback_title]
+other = "피드백"
+[feedback_question]
+other = "이 페이지가 도움이 되었나요?"
+[feedback_answer_yes]
+other = "네"
+[feedback_answer_no]
+other = "아니오"
