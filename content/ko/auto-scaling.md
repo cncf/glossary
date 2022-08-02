@@ -1,5 +1,5 @@
 ---
-title: 오토스케일링(Autoscaling)
+title: 오토스케일링 (Autoscaling)
 status: Completed
 category: 속성
 tags: ["애플리케이션", "인프라스트럭처", "아키텍처"]
@@ -12,15 +12,15 @@ tags: ["애플리케이션", "인프라스트럭처", "아키텍처"]
 <!-- Managed cloud services are typically associated with autoscaling functionality 
 as there are more options and implementations available than most on-premise deployments. -->
 오토스케일링(Autoscaling)은 일반적으로 컴퓨팅 리소스 측면에서 시스템이 자동으로 [규모를 조절(scale)](/scalability/)하는 기능(ability)이다.
-오토스케일링 시스템을 사용하면, 필요할 때 리소스가 자동으로 추가되며 변화를 거듭하는 사용자 요구에 맞게 규모를 조절할 수 있다.
+오토스케일링 시스템을 사용하면, 리소스가 필요할 때 자동으로 추가되고 변화를 거듭하는 사용자 요구에 맞게 규모를 조절할 수 있다.
 오토스케일링 프로세스는 다양하며 메모리 또는 처리 시간과 같은 다른 메트릭을 기반으로 규모를 조절하도록 설정할 수 있다.
-관리형 클라우드 서비스는 일반적으로 오토스케일링 기능(functionality)과 관련 있는데 
-이는 대부분의 온프레미스(onpremise) 배포보다 더 많은 옵션과 구현을 사용할 수 있기 때문이다.
+관리형 클라우드 서비스에는 일반적으로 오토스케일링 기능(functionality)이 관계되어 있는데 
+이는 대부분의 온프레미스(onpremise) 배포보다 더 많은 옵션과 구현을 제공하기 때문이다.
 
 <!-- Previously, infrastructure and applications were architected to consider peak system usage. -->
 <!-- This architecture meant that more resources were underutilized and inelastic to changing consumer demand. -->
 <!-- The inelasticity meant higher costs to the business and lost business from outages due to overdemand. -->
-이전에는 인프라와 애플리케이션이 최대 시스템 사용량을 고려하도록 설계되었다.
+이전에는 인프라와 애플리케이션이 시스템의 최대 사용치(peak usage)를 고려하도록 설계하였다.
 이 아키텍처는 많은 리소스가 충분히 활용되지 못하고 변화하는 소비자 수요에 탄력적이지 않음을 드러냈다.
 이러한 비탄력성은 비즈니스에 더욱 큰 비용 투입과 과도한 수요에 따른 운영 중단으로 인한 비즈니스 손실이 발생하도록 만들었다.
 
@@ -30,10 +30,10 @@ organizations can build applications that scale according to user demands.  -->
 <!-- Take the increase in viewership Netflix experiences every Friday evening.  -->
 <!-- Autoscaling out means dynamically adding more resources: for example, 
 increasing the number of servers allowing for more video streaming and scaling back once consumption has normalized. -->
-클라우드를 활용하고 애플리케이션 및 종속성을 [가상화(virtualzing)](/virtualization/) 및 [컨테이너화(containerization)]](/containerization/)함으로써, 조직은 사용자 요구에 따라 확장 가능한 애플리케이션을 만들어 낼 수 있다. 
+클라우드를 활용하고 애플리케이션 및 종속성을 [가상화(virtualzing)](/virtualization/) 및 [컨테이너화(containerization)](/containerization/)함으로써, 조직은 사용자 요구에 따라 확장 가능한 애플리케이션을 만들어 낼 수 있다. 
 애플리케이션 수요를 모니터링하고 자동으로 규모를 조절하여 최적의 사용자 경험(user experience)을 제공할 수 있다.
-매주 금요일 저녁 넷플릭스(Netflix)의 시청률 증가를 경험해 보라.
-오토스케일 아웃은 더 많은 리소스를 동적으로 추가하는 것을 의미한다. 예를 들어, 서버의 수를 늘려 더 많은 비디오 스트리밍을 허용하고 소비가 정상화되면 다시 축소합니다.
+매주 금요일 저녁 넷플릭스(Netflix)의 시청률 증가를 경험해 보길 바란다.
+오토스케일 아웃은 더 많은 리소스를 동적으로 추가하는 것을 의미한다. 예를 들어, 서버의 수를 늘려 더 많은 비디오 스트리밍을 허용하고 소비가 정상화되면 다시 축소한다.
 
 ## 관련 용어
 
