@@ -5,6 +5,7 @@ we'd love to start localizing it into different languages.
 
  - [Initiate a new localization team](#initiating-a-new-localization-team)
  - [Join an existing localization team](#join-an-existing-localization-team)
+ - [Localization team guidelines](#localization-team-guidelines)
 
 Contributions to improving the following localization guides and localization policies are also welcome.
 
@@ -56,7 +57,7 @@ Open a PR with the localization initiation following this example: https://githu
 
 To add a new language to the site, modify [config.toml](https://github.com/cncf/glossary/blob/main/config.toml#L54) (Note: localization teams should use their assigned development branch for this).
 
-The`[languages]` block of `config.toml` is used to set the language. For instance,`[languages.en]` stands for English and `[languages.ko]` for Korean language configuration. Go to the `[languages]` block in `config.toml` and add a new block for your language-specific configuration. For instance, the Korean localization team added its [languages.ko]` block after the `[languages.en]` block.
+The `[languages]` block of `config.toml` is used to set the language. For instance, `[languages.en]` stands for English and `[languages.ko]` for Korean language configuration. Go to the `[languages]` block in `config.toml` and add a new block for your language-specific configuration. For instance, the Korean localization team added its `[languages.ko]` block after the `[languages.en]` block.
 
 - Example of `New language block for /config.toml`
   ```diff
@@ -132,5 +133,14 @@ Once the PR is merged, the localized content will go live on its website 🎉
 
 To join an existing team, hop on the #glossary-localizations and #glossary-localization-[language name] channels on the CNCF Slack. Introduce yourself, let the team know you want to contribute, and the team will take it from there.
 
-If the team seems inactive (no response after several days), reach out to @Seokho Son, @Catherine Paganini, and @jmo on the #glossary-localizations channel.  
+If the team seems inactive (no response after several days), reach out to @Seokho Son, @Catherine Paganini, @jmo, @Jihoon Seo or @Noah Ispas on the #glossary-localizations channel.  
 
+--- 
+
+# Localization team guidelines
+Every localization team may have its own process of working on localizing terms. However, here are some guidelines that are common for all localization teams:
+
+1. Only terms with the status `Completed` in the English version are ready to be localized.
+2. All contributions related to localization have to be based on the `dev-xx` branch, and PRs need to target `dev-xx`. 
+3. Localization teams need to get changes from the `main` branch in their `dev-xx` branch from time to time. Therefore a PR should be opened where the `main` branch is merged into `dev-xx`. The glossary maintainers will then choose the rebase method to complete the PR and keep the history linear. 
+4. A localized term does not have to match the English version completely. Also, the localized and English versions of terms can coexist independently throughout updates. Localization teams can decide to which degree localized terms have to match their English version and how to handle updates on the English term. To learn how other teams keep up to date with changes in the English version, please refer to [this discussion on the topic](https://github.com/cncf/glossary/discussions/1125).

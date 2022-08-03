@@ -1,0 +1,27 @@
+/**
+* Project Styles
+*
+* This theme is used to overide the variables in themes/docsy/assets/scss/_styles_project.scss
+*
+* It's loaded AFTER all other styles.
+*
+*/
+
+@import 'hamburger';
+
+@import 'archive';
+@import 'buttons';
+@import 'categories';
+@import 'footer';
+@import 'header';
+@import 'main';
+@import 'search';
+@import 'sidebar-left';
+@import 'sidebar-right';
+@import 'taxonomy';
+@import 'typography';
+
+// Wasn't sure where this was used?
+#cncf-logo {
+	margin: 1rem 0;
+}
