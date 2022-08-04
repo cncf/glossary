@@ -122,6 +122,7 @@ microservices
 misconfiguration
 mkdn
 mtls
+multitenancy
 navbar
 observability
 oci
