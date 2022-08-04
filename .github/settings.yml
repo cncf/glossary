@@ -211,6 +211,7 @@ branches:
          - edsoncelio
          - brunoguidone
          - jessicalins
+         - MrErlison
         teams: []
       enforce_admins: null
       required_linear_history: null
