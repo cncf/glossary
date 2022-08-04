@@ -29,6 +29,7 @@ cd
 chatbot
 cdn
 changelog
+ci/cd
 cio
 cka
 ckad
