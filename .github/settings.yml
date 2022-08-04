@@ -60,6 +60,9 @@ collaborators:
   - username: jessicalins
     permission: push
 
+  - username: MrErlison
+    permission: push
+
   # l10n hi approvers
   - username: Garima-Negi
     permission: push
