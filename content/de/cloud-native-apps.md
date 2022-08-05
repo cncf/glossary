@@ -6,22 +6,21 @@ category: Konzept
 
 ## Was es ist
 
-Cloud Native Applikationen wurden speziell dazu entwickelt, die Vorteile des Cloud-Computings zu nutzen.
-Diese Anwendungen lassen sich problemlos in ihre jeweiligen Cloud-Architekturen integrieren und nutzen die Ressourcen und Skalierungsmöglichkeiten der Cloud.
+Cloud Native Applikationen werden auf eine Art entwickelt, welche es erlaubt die Vorteile des [Cloud Computing](/cloud-computing/) zu nutzen.
+Sie lassen sich problemlos in ihre jeweiligen Cloud-Architekturen integrieren und nutzen die Ressourcen eines Cloud Providers, sowie die verschiedenen Skalierungsmöglichkeiten der Cloud. 
 Der Begriff bezieht sich auch auf Anwendungen, die die Vorteile der Innovationen in der Infrastruktur nutzen, die durch Cloud Computing vorangetrieben wurden.
-Zu Cloud-nativen Anwendungen gehören heutzutage Anwendungen, die in den Rechenzentren der Cloud-Anbieter und auf Cloud-nativen on-premise Plattformen ausgeführt werden.  
+Cloud Native Anwendungen können dabei sowohl in den Rechenzentren der Cloud Provider als auch auf privaten Cloud Plattformen ausgeführt werden.  
 
 ## Welches Problem es löst
 
-In der Vergangenheit wurden Rechenressourcen in lokalen Umgebungen auf ziemlich individuelle Weise bereitgestellt. 
-Jedes Rechenzentrum verfügte über Dienste, die Anwendungen eng an bestimmte Umgebungen koppelten und häufig auf eine manuelle Bereitstellung von Infrastrukturen wie virtuellen Maschinen und Diensten angewiesen waren.
+In der Vergangenheit wurden Rechenressourcen in Rechenzentren auf individuelle Weise bereitgestellt. 
+Anwendungen wurden eng an bestimmte Umgebungen gekoppelt und waren gewöhnlich auf eine manuelle Bereitstellung von Ressourcen wie virtuellen Maschinen angewiesen.
 Dies wiederum schränkte die Entwickler und ihre Anwendungen auf dieses spezielle Rechenzentrum ein.
-Anwendungen, die nicht für die Cloud konzipiert wurden, konnten die Ausfallsicherheit und die Skalierungsmöglichkeiten einer Cloud-Umgebung nicht nutzen. 
-Anwendungen, die manuell gestartet werden müssen, lassen sich beispielsweise nicht automatisch skalieren und können bei einem Ausfall nicht automatisch neu gestartet werden. 
+Anwendungen, die nicht für den Betrieb in der Cloud konzipiert wurden, können sich die Vorteile einer Cloud Ausfallsicherheit und Skalierungsmöglichkeiten nicht gänzlich zu nutze machen. 
+Ein Beispiel dafür sind Anwendungen, die manuell gestartet werden müssen. Sie lassen sich nämlich nicht [horizontal skalieren](/horizontal-scaling/) und können bei einem Ausfall nicht automatisch neu gestartet werden. 
 
 ## Wie es das Problem löst
 
 Auch wenn es keinen einheitlichen Weg zu Cloud Native Anwendungen gibt, weisen sie doch einige Gemeinsamkeiten auf. 
-Cloud Native Anwendungen sind belastbar, verwaltbar und werden durch die zugehörigen Cloud-Dienste unterstützt. 
-Die verschiedenen Cloud-Services ermöglichen ein hohes Maß an Beobachtbarkeit, sodass Entwickler Probleme erkennen und beheben können, bevor sie eskalieren. 
-In Kombination mit einer robusten Automatisierung ermöglichen sie es Entwicklern, mit minimalem Aufwand häufig und vorhersehbar Änderungen vorzunehmen, die große Auswirkungen haben.
+Cloud Native Anwendungen folgen gewissen Prinzipien, die sie für den Betrieb in einer Cloud optimieren und somit deren volles Potential ausschöpfen lässt.```
+Zu dem Potential der Cloud gehören beispielsweise Skalierbarkeit, Ausfallsicherheit und Überwachung und diverse Automatisierungen. All das führt dazu, dass Cloud Native Anwendungen den modernen Anforderungen der heutigen Welt gerecht werden können. . 
