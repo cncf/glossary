@@ -20,4 +20,4 @@ Ein Beispiel dafür sind Anwendungen, die manuell gestartet werden müssen. Sie 
 ## Wie es das Problem löst
 
 Cloud Native Anwendungen folgen gewissen Prinzipien, die sie für den Betrieb in einer Cloud optimieren und somit deren volles Potential ausschöpfen lässt.
-Zu dem Potential der Cloud gehören beispielsweise Skalierbarkeit, Ausfallsicherheit und Überwachung und diverse Automatisierungen. All das führt dazu, dass Cloud Native Anwendungen den modernen Anforderungen der heutigen Welt gerecht werden können. . 
+Zu dem Potential der Cloud gehören beispielsweise Skalierbarkeit, Ausfallsicherheit und Überwachung und diverse Automatisierungen. All das führt dazu, dass Cloud Native Anwendungen den modernen Anforderungen der heutigen Welt gerecht werden können. 
