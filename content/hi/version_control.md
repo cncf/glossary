@@ -1,5 +1,5 @@
 ---
-title: संस्करण नियंत्रण
+title: संस्करण नियंत्रण (Version Control)
 status: Completed
 category: प्रौद्योगिकी
 ---
