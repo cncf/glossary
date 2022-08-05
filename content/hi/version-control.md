@@ -1,7 +1,7 @@
 ---
-title: संस्करण नियंत्रण
+title: संस्करण नियंत्रण (Version Control)
 status: Completed
-category: तकनीकी
+category: प्रौद्योगिकी
 ---
 
 ## यह क्या है
