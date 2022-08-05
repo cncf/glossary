@@ -11,7 +11,7 @@ La containerizzazione è il processo di accorpamento di un'applicazione e le sue
 
 ## Quali problematiche affronta
 
-Prima che i container si diffondessero, Le organizzazioni si affidavano alle [macchine virtuali](/it/virtual-machine/) per orchestrare più applicazioni su una singola macchina [bare metal](/it/bare-metal-machine/). Le macchine virtuali sono molto più grandi dei container e richiedono un hypervisor per funzionare. A causa dell'archiviazione, del backup e del trasferimento di questi modelli di macchine virtuali più grandi, anche la creazione dei modelli di macchine virtuali è lenta. Inoltre, le macchine virtuali possono soffrire di una deriva della configurazione che viola il principio di [immutabilità](/it/immutability/).
+Prima che i container si diffondessero, le organizzazioni si affidavano alle [macchine virtuali](/it/virtual-machine/) per orchestrare più applicazioni su una singola macchina [bare metal](/it/bare-metal-machine/). Le macchine virtuali sono molto più grandi dei container e richiedono un hypervisor per funzionare. A causa dell'archiviazione, del backup e del trasferimento di questi modelli di macchine virtuali più grandi, anche la creazione dei modelli di macchine virtuali è lenta. Inoltre, le macchine virtuali possono soffrire di una deriva della configurazione che viola il principio di [immutabilità](/it/immutability/).
 
 ## In che modo aiuta
 
