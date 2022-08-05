@@ -23,6 +23,6 @@ Thus, nodes run apps or processes as part of a group forming a [cluster](/cluste
 ## How it helps
 
 A node gives you a distinct unit of compute (memory, CPU, network) that you can assign to a cluster. 
-In a [cloud native](/cloud-native-apps/) platform or app a node represents a single unit that can perform work. 
+In a [cloud native](/cloud-native-tech/) platform or app a node represents a single unit that can perform work. 
 Ideally, individual nodes are undifferentiated in that 
 any one node of a particular type is indistinguishable from any other node of the same type.
