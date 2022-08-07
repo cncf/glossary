@@ -2,7 +2,7 @@
 title: 마이크로서비스 (Microservices)
 status: Completed
 category: 개념
-tags: ["구조", "", ""]
+tags: ["아키텍처", "", ""]
 ---
 
 ## 개념
