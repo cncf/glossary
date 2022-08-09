@@ -132,6 +132,9 @@ collaborators:
   - username: krol3
     permission: push
 
+  - username: 92nqb
+    permission: push
+
   # l10n zh approvers
   - username: hanyuancheung
     permission: push
@@ -323,6 +326,7 @@ branches:
          - raelga
          - electrocucaracha
          - krol3
+         - 92nqb
         teams: []
       enforce_admins: null
       required_linear_history: null
