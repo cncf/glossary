@@ -11,7 +11,7 @@ architecture
 Ariel
 Arnes
 autocura
-autoescalado
+autorreparables
 AWS
 Azure
 backend
@@ -146,6 +146,7 @@ Seokho
 service
 Slack
 Spanish
+stack
 Started
 status
 sub
