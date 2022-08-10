@@ -50,7 +50,7 @@ other = "Ouvrir un ticket de projet"
 [post_posts_in]
 other = "Postés dans"
 [post_reading_time]
-other = "temps de lecture"
+other = "minute(s) de lecture"
 
 # Print support
 [print_printable_section]
