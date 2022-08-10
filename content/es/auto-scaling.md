@@ -10,7 +10,7 @@ El autoescalado es la habilidad de un sistema para [escalar](/scalability) autom
 
 ## El problema que aborda
 
-Anteriormente, la infraestructura y las aplicaciones eran diseñadas para considerar los picos de uso del sistema. Esta arquitectura implicaba que había más recursos que eran desaprovechados o con cambios inelásticos frente a la demanda de los usuarios. La inelasticidad en este caso, incrementa el coste y puede suponer una pérdida de negocios debido a problemas de capacidad.
+Anteriormente, la infraestructura y las aplicaciones eran diseñadas para considerar los picos de uso del sistema. Esta arquitectura implicaba que había más recursos que eran desaprovechados o con cambios rígidos frente a la demanda de los usuarios. La rigidez en este caso, incrementa el coste y puede suponer una pérdida de negocios debido a problemas de capacidad.
 
 ## ¿Cómo Ayuda?
 
