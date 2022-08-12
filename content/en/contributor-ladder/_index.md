@@ -1,6 +1,7 @@
 ---
 title: Contributor Ladder
 toc_hide: true
+status: Completed
 menu:
   main:
     weight: 10
