@@ -117,6 +117,13 @@ languageName = "বাংলা(Bengali)"
 contentDir = "content/bn"
 weight = 8
 
+[languages.fr]
+title = "Glossaire Cloud Native"
+description = "Le projet de Glossaire CNCF Cloud Natif a pour objectif de référencer les termes courants utilisés dans les différentes applications cloud native."
+languageName ="Français(French)"
+contentDir = "content/fr"
+weight = 9
+
 
 [markup]
   [markup.goldmark]
