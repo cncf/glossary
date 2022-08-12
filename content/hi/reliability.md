@@ -1,5 +1,5 @@
 ---
-title: रिलियबिलिटी (Reliability)
+title: विश्वसनीयता (Reliability)
 status: Completed
 category: गुण
 ---
