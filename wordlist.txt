@@ -49,6 +49,8 @@ datacenter
 datadog
 de
 declaratively
+decrypt
+decrypted
 definitions
 dependabot
 deployable
@@ -120,6 +122,7 @@ microservices
 misconfiguration
 mkdn
 mtls
+multitenancy
 navbar
 observability
 oci
@@ -165,6 +168,7 @@ snippets
 socio
 sre
 sres
+ssl
 stateful
 striphtml
 subnets
@@ -179,6 +183,7 @@ transcodes
 txt
 ubuntu
 underdefined
+unencrypted
 utf
 valueerror
 vcs
@@ -196,3 +201,6 @@ yaml
 yml
 DBaaS
 DBA
+Ispas
+Jihoon
+Seo
