@@ -1,6 +1,6 @@
 ---
 title: কুবারনেটিস (Kubernetes)
-status: Feedback Appreciated
+status: Completed
 category: প্রযুক্তি
 ---
 
