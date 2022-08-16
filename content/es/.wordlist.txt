@@ -9,6 +9,7 @@ Appreciated
 Ariel
 Arnes
 autocura
+autoescalado
 AWS
 Azure
 backend
