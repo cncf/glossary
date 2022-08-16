@@ -1,6 +1,7 @@
 ---
 title: Carrera de Contribuidor
 toc_hide: true
+status: Completed
 menu:
   main:
     weight: 10
