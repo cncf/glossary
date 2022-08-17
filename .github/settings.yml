@@ -30,12 +30,14 @@ collaborators:
   - username: seokho-son
     permission: admin
   
-  # English approvers (approver for all files in repository)
   - username: jihoon-seo
-    permission: push
+    permission: maintain
 
   - username: iamNoah1
-    permission: push  
+    permission: maintain  
+  
+  # English approvers (approver for all files in repository)
+
   
 
   # Localization approvers
@@ -58,6 +60,9 @@ collaborators:
   - username: jessicalins
     permission: push
 
+  - username: MrErlison
+    permission: push
+
   # l10n hi approvers
   - username: Garima-Negi
     permission: push
@@ -75,9 +80,6 @@ collaborators:
   # Note: CathPag is both Maintainer (maintain) and de approver (push)
   # Note: iamNoah1 is both English approver (push) and de approver (push)
   - username: DaveVentura
-    permission: push
-
-  - username: Petria3s
     permission: push
 
   # l10n it approvers
@@ -209,6 +211,7 @@ branches:
          - edsoncelio
          - brunoguidone
          - jessicalins
+         - MrErlison
         teams: []
       enforce_admins: null
       required_linear_history: null
@@ -245,7 +248,6 @@ branches:
         users:
          - iamNoah1
          - DaveVentura
-         - Petria3s
         teams: []
       enforce_admins: null
       required_linear_history: null

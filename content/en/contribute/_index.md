@@ -1,6 +1,7 @@
 ---
 title: How To Contribute
 toc_hide: true
+status: Completed
 menu:
   main:
     weight: 10

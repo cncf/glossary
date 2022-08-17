@@ -11,8 +11,8 @@ Blue-green deployment is a strategy for updating running computer systems with m
 The operator maintains two environments, dubbed “blue” and “green”. 
 One serves production traffic (the version all users are currently using), whilst the other is updated. 
 Once testing has concluded on the non-active (green) environment, 
-production traffic is switched over (often via the use of a load balancer). 
-Note that blue-green deployment usually means switching the entire environments, comprising many services, all at once. 
+production traffic is switched over (often via the use of a [load balancer](/load-balancer/)). 
+Note that blue-green deployment usually means switching the entire environments, comprising many [services](/service/), all at once. 
 Confusingly, sometimes the term is used with regard to individual services within a system. 
 To avoid this ambiguity, the term “zero-downtime deployment” is preferred when referring to individual components.
 
