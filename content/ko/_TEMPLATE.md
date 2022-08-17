@@ -1,6 +1,6 @@
 ---
 title: 용어 정의 템플릿
-status: Completed
+status: Feedback Appreciated
 category: 개념
 ---
 

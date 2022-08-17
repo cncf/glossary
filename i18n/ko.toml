@@ -12,15 +12,17 @@ other = "다음"
 other = "더 읽기"
 
 [ui_search]
-other = "이 사이트 검색하기…"
+other = "이 사이트 검색하기..."
 
 # Used in sentences such as "Posted in News"
 [ui_in]
-other = "내부"
+other = "in"
 
 # Used in sentences such as "All Tags"
 [ui_all]
 other = "모든"
+[ui_see_all]
+other = "모두 보기:"
 
 # Footer text
 [footer_all_rights_reserved]
@@ -32,9 +34,9 @@ other = "개인 정보 처리 방침"
 
 # Post (blog, articles etc.)
 [post_byline_by]
-other = "의해서"
+other = "작성자"
 [post_created]
-other = "생성된"
+other = "작성 일시"
 [post_last_mod]
 other = "최근 수정"
 [post_edit_this]
@@ -48,7 +50,7 @@ other = "프로젝트 이슈 생성하기"
 [post_posts_in]
 other = "포스트된 곳"
 [post_reading_time]
-other = "읽은 시간(분)"
+other = "읽는 데 걸리는 시간(분)"
 
 # Print support
 [print_printable_section]
