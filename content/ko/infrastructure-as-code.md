@@ -21,4 +21,4 @@ tags: ["인프라스트럭처", "", ""]
 
 서버, 로드 밸런서 및 서브넷과 같은 데이터 센터 리소스를 코드로 표현함으로써,
 인프라 팀이 모든 설정에 대해 단일 진실 공급원(single source of truth)을 가질 수 있고,
-또한 버전 제어 및 배치 전략을 구현하는 [CI](/continuous-integration/)/[CD](/continuous-delivery/) 파이프라인에서 데이터 센터를 관리할 수 있다.
+또한 버전 제어 및 배치 전략을 구현하는 [CI](/continuous-integration/)/[CD](/continuous-delivery/) 파이프라인으로 데이터 센터를 관리할 수 있다.
