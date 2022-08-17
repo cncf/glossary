@@ -9,6 +9,7 @@ Appreciated
 Ariel
 Arnes
 autocura
+autoescalado
 AWS
 Azure
 backend
@@ -172,3 +173,7 @@ www
 YAML
 you
 your
+application
+architecture
+infrastructure
+tags
