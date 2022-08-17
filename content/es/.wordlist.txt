@@ -5,7 +5,9 @@ Aniszczyk
 Anyul
 API
 APIs
+application
 Appreciated
+architecture
 Ariel
 Arnes
 autocura
@@ -83,6 +85,7 @@ https
 IaaS
 IaC
 iamnoah
+infrastructure
 interface
 io
 issue
@@ -111,15 +114,18 @@ Microsoft
 Mike
 mitigarse
 monitorean
+monitorear
 Morgan
 Native
 needed
+Netflix
 new
 Not
 of
 on
 on-premises
 Paganini
+portable
 pr
 prem
 premises
@@ -127,7 +133,6 @@ profesionistas
 properties
 propose
 PRs
-portable
 pull
 Rael
 Ramer
@@ -148,6 +153,7 @@ submit
 submitting
 subrúbricas
 Subversion
+tags
 technology
 TEMPLATE
 term
@@ -162,6 +168,7 @@ URL
 Value
 Vazquez
 Victor
+videos
 virtualización
 virtualizados
 vs
@@ -173,10 +180,3 @@ www
 YAML
 you
 your
-application
-architecture
-infrastructure
-tags
-Netflix
-monitorear
-videos
