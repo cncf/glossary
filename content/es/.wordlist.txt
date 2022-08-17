@@ -177,3 +177,6 @@ application
 architecture
 infrastructure
 tags
+Netflix
+monitorear
+videos
