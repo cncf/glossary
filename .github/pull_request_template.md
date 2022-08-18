@@ -1,7 +1,7 @@
 ### Describe your changes
 
 
-### Related issue number or link
+### Related issue number or link (ex: `resolves #issue-number`)
 
 
 ### Checklist before opening this PR (put `x` in the checkboxes)
