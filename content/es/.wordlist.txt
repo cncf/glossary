@@ -11,6 +11,7 @@ architecture
 Ariel
 Arnes
 autocura
+autoescalado
 autorreparables
 AWS
 Azure
