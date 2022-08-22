@@ -14,7 +14,7 @@ The message is now "out there" for the Netflix service in charge of pulling the 
 
 ## Problem it addresses
 
-The traditional communication approach for services is "ask, don't tell," coupling services to one another. 
+The traditional communication approach for services is "ask, don't tell" coupling services to one another. 
 In our example, the Netflix service that pulls the movie from the database would have to ask the service that registers user choices: 
 "What's your current state? Any movies I need to get?" 
 This approach assumes that the first service is always available to respond.
