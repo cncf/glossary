@@ -8,7 +8,7 @@ category: Property
 
 Multitenancy (also commonly spelled multi-tenancy) refers to a single software installation that serves multiple tenants. A tenant is a user, application, or a group of users/applications that utilize the software to operate on their own data set. These tenants don't share data (unless explicitly instructed by the owner) and may not even be aware of one another.  
 
-In other words, multitenant software provides each tenant with their own segregated environment (work data, settings, list of credentials etc), serving multiple tenants at the same time and in a way that for each tenant it looks and feels as if they use their own dedicated installation of the software.  To achieve that, the software runs on a server and provides a way for the tenants to connect to it over the network, offering them a user interface and/or an [API](https://glossary.cncf.io/application-programming-interface) (see [Client-Server Architecture](https://glossary.cncf.io/client-server-architecture)).
+In other words, multitenant software provides each tenant with its segregated environment (work data, settings, list of credentials, etc.), simultaneously serving multiple tenants. From a tenant's perspective, each has its dedicated software installation, although, in reality, they are all sharing one. This is achieved by running the software on a server and allowing tenants to connect to it over the network via an interface and/or an [API](/application-programming-interface/) (also refer to [Client-Server Architecture](/client-server-architecture/)).
 
 Typical and well-known examples of multitenant software are Google Mail, Google Docs, Microsoft Office 365, Salesforce CRM, Dropbox, with thousands more falling into this category fully or at least partially.
 
