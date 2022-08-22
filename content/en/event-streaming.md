@@ -10,7 +10,7 @@ Event streaming is an approach where [microservices](/microservices/) continuous
 Picture a service broadcasting everything it does to all other services. 
 Each activity taken by a service is referred to as an event, hence event streaming. 
 For example, the Netflix service in charge of registering user movie choices might "broadcast" an event communicating something like: "User X selected movie Y."
-The message is now "out there" for the Netflix service in charge of pulling the movie from the database to pick it up.
+The message is now "out there" for another service to further process that information. For example to retrieve the selected movie from a database and stream it to the users device.
 
 ## Problem it addresses
 
