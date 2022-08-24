@@ -6,7 +6,7 @@ category: Property
 
 ## What it is
 
-Multitenancy (also commonly spelled multi-tenancy) refers to a single software installation that serves multiple tenants. A tenant is a user, application, or a group of users/applications that utilize the software to operate on their own data set. These tenants don't share data (unless explicitly instructed by the owner) and may not even be aware of one another.  
+Multitenancy (or multi-tenancy) refers to a single software installation that serves multiple tenants. A tenant is a user, application, or a group of users/applications that utilize the software to operate on their own data set. These tenants don't share data (unless explicitly instructed by the owner) and may not even be aware of one another.  
 
 In other words, multitenant software provides each tenant with its segregated environment (work data, settings, list of credentials, etc.), simultaneously serving multiple tenants. From a tenant's perspective, each has its dedicated software installation, although, in reality, they are all sharing one. This is achieved by running the software on a server and allowing tenants to connect to it over the network via an interface and/or an [API](/application-programming-interface/) (also refer to [Client-Server Architecture](/client-server-architecture/)).
 
