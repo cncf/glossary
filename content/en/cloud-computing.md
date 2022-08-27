@@ -10,7 +10,9 @@ tags: ["infrastructure", "", ""]
 Cloud computing is a model that offers compute resources like CPU, network, and disk capabilities on-demand over the internet. 
 Cloud computing gives users the ability to access and use computing power in a remote physical location. 
 Cloud providers like AWS, GCP, Azure, DigitalOcean, and others all offer third parties 
-the ability to rent access to compute resources in multiple geographic locations. 
+the ability to rent access to compute resources in multiple geographic locations.
+With a layer of [abstraction](/abstraction/) built on top of one another, this architecture is the foundation 
+for primary service models like [IaaS](/infrastructure-as-a-service/), [PaaS](/platform-as-a-service/), and [SaaS](/software-as-a-service/).
 
 ## Problem it addresses
 
@@ -23,6 +25,5 @@ Cloud computing allows organizations to outsource some portion of their computin
 
 Cloud providers offer organizations the ability to rent compute resources on-demand and pay for usage. 
 This allows for two major innovations: 
-organizations can try things without wasting time planning and spending money or resources on new physical infrastructure 
-and they can [scale](/scalability/) as needed and on-demand. 
-Cloud computing allows organizations to adopt as much or as little infrastructure as they need. 
+organizations can focus on their product or service without a needless wait, planning, and spending money or resources on new physical infrastructure. They can [scale](/scalability/) as needed and on-demand. 
+Cloud computing allows organizations to adopt as much or as little infrastructure as they need.
