@@ -14,4 +14,4 @@ Construir aplicaciones de forma nativa para la nube requiere que la infraestruct
 
 ## ¿Cómo ayuda?
 
-Representados los recursos del [centro de datos](/data_center/) tales como servidores, balanceadores de carga y sub-redes como código, les permite a los equipos de infraestructura poseer una fuente única de verdad para todas las configuraciones y también les permite administrar sus [centro de datos](/data_center/) en flujos de [CI](/continuous_integration/)/[CD](/continuous_delivery/) implementando un sistema de control de versiones y estrategias de despliegue.
+Representados los recursos del [centro de datos](/data-center/) tales como servidores, balanceadores de carga y sub-redes como código, les permite a los equipos de infraestructura poseer una fuente única de verdad para todas las configuraciones y también les permite administrar sus [centro de datos](/data-center/) en flujos de [CI](/es/continuous-integration/)/[CD](/continuous-delivery/) implementando un sistema de control de versiones y estrategias de despliegue.

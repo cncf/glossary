@@ -6,7 +6,7 @@ category: Tecnología
 
 ## ¿Qué es esto?
 
-Un API Gateway es una herramienta que concentra diferentes aplicaciones [APIs](/application_programming_interface/), centralizando a todas en un solo lugar. Esto permite a las organizaciones mover funciones clave, como puede ser la autenticación y la autorización o limitando el número de peticiones entre aplicaciones a una ubicación de administración centralizada. Un API Gateway funciona como una interface común para los que la consumen (usualmente aplicaciones externas).
+Un API Gateway es una herramienta que concentra diferentes aplicaciones [APIs](/es/application-programming-interface/), centralizando a todas en un solo lugar. Esto permite a las organizaciones mover funciones clave, como puede ser la autenticación y la autorización o limitando el número de peticiones entre aplicaciones a una ubicación de administración centralizada. Un API Gateway funciona como una interface común para los que la consumen (usualmente aplicaciones externas).
 
 ## El problema que aborda
 
