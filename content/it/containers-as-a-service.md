@@ -9,7 +9,7 @@ tags: ["platform", "", ""]
 
 Containers-as-a-Service (CaaS) è un servizio cloud che aiuta a gestire e distribuire applicazioni usando [astrazioni](/it/abstraction/) basate su [container](/it/container/). Questo servizio può essere distribuito on-premise o in cloud.
 
-I fornitori di servizi CaaS offrono un framework o una piattaforma di orchestrazione che automatizza le funzioni chiavi tramite cui i container sono distribuiti e gestiti. Questo aiuta gli sviluppatori a costruire applicazioni containerizzate sicure e [scalabili](/it/scalability/). Siccome comprano soltanto le risorse di cui hanno bisogno (capacità di programmazione, load balancing, ecc.), gli utenti risparmiano soldi e aumentano l'efficienza. I container creano ambienti uniformi per sviluppare e rilasciare velocemente [applicazioni Cloud Native](/it/cloud-native-apps/) che possono essere eseguite ovunque.
+I fornitori di servizi CaaS offrono un framework o una piattaforma di orchestrazione che automatizza le funzioni chiave tramite cui i container sono distribuiti e gestiti. Questo aiuta gli sviluppatori a costruire applicazioni containerizzate sicure e [scalabili](/it/scalability/). Dato che gli utenti acquisiscono esclusivamente le risorse di cui hanno bisogno (capacità di programmazione, load balancing, ecc.), si ha un risparmio di denaro e un incremento dell'efficienza. I container creano ambienti uniformi per sviluppare e rilasciare velocemente [applicazioni Cloud Native](/it/cloud-native-apps/) che possono essere eseguite ovunque.
 
 ## Quali problematiche affronta
 
