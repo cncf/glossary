@@ -6,7 +6,7 @@ repository:
   name: glossary
 
   # A short description of the repository that will show up on GitHub
-  description: Cloud Native Glossary
+  description: The CNCF Cloud Native Glossary Project is to explain cloud native concepts in clear and simple language without requiring any previous technical knowledge (https://glossary.cncf.io/).
 
   # A URL with more information about the repository
   homepage: https://glossary.cncf.io/
