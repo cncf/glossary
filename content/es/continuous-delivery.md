@@ -10,7 +10,7 @@ La entrega continua, a menudo abreviada como CD, es un conjunto de prácticas en
 
 ## Problema que aborda
 
-La implementación de actualizaciones [confiables](/reliability/) se convierte en un problema a escala. Idealmente, implementaríamos con más frecuencia para ofrecer un mejor valor a los usuarios finales. Sin embargo, hacerlo manualmente se traduce en altos costos de transacción por cada cambio. Históricamente, para evitar estos costos, las organizaciones liberan con menos frecuencia, implementan más cambios a la vez y aumentan el riesgo de que algo salga mal.
+La implementación de actualizaciones [confiables](/reliability/) se convierte en un problema a escala. Idealmente, implementaríamos con más frecuencia para ofrecer un mejor valor a los usuarios finales. Sin embargo, hacerlo manualmente se traduce en altos costos por cada cambio. Históricamente, para evitar estos costos, las organizaciones liberan con menos frecuencia, implementan más cambios a la vez y aumentan el riesgo de que algo salga mal.
 
 ## ¿Cómo ayuda?
 
