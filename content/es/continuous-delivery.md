@@ -14,7 +14,7 @@ La implementación de actualizaciones [confiables](/reliability/) se convierte e
 
 ## ¿Cómo ayuda?
 
-Las estrategias de CD crean una ruta totalmente automatizada hacia la producción que prueba e implementa el software utilizando varias estrategias de implementación, como las versiones [canary](/es/canary_deployment/) o [blue-green](/es/blue_green_deployment/). Esto permite a los desarrolladores implementar código con frecuencia, lo que les da la tranquilidad de saber que se ha probado la nueva revisión. Por lo general, el desarrollo basado en troncales se usa en estrategias de CD en lugar de ramificación de funciones o solicitudes de incorporación de cambios.
+Las estrategias de CD crean una ruta totalmente automatizada hacia producción que prueba e implementa el software utilizando varias estrategias de implementación, como las versiones [canary](/es/canary_deployment/) o [blue-green](/es/blue_green_deployment/). Esto permite a los desarrolladores implementar código con frecuencia, lo que les da la tranquilidad de saber que se ha probado la nueva revisión. Por lo general, el desarrollo basado en troncos se usa en estrategias de CD en lugar de ramificación de funciones o solicitudes de incorporación de cambios.
 
 ## Términos relacionados
 
