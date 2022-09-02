@@ -1,5 +1,5 @@
 ---
-title: Container Image
+title: Imagen de contenedor
 status: Feedback Appreciated
 category: Tecnología
 tags: ["", "", ""]
@@ -8,7 +8,7 @@ tags: ["", "", ""]
 ## ¿Qué es esto?
 
 Una imagen es un fichero estático e inmutable que contiene las dependencias para la creación de un contenedor.
-Estas dependencias pueden incluir ficheros binarios ejecutables, variables de entorno, librerías y herramientas de sistema además de otras configuraciones de plataforma necesarias.
+Estas dependencias pueden incluir archivos binarios ejecutables, variables de entorno, librerías y herramientas de sistema además de otras configuraciones de plataforma necesarias.
 Las imágenes son el resultado de la contenerización de una aplicación y típicamente están guardadas en los registros de contenedor, donde pueden ser descargados para ser ejecutados como procesos aislados usando un Container Runtime Interface (CRI).
 El framework de una imagen debe de seguir el esquema estándar definido por el Open Container Iniative (OCI).
 
