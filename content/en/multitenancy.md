@@ -15,7 +15,7 @@ Multitenant software examples include Google Mail, Google Docs, Microsoft Office
 
 ## Problem it addresses 
 
-Multitenancy is a key to operational efficiency of server-run software.  Providing each tenant with a dedicated installation is wasteful in terms of hardware utilization and maintenance efforts.  
+Without multitenancy, each tenant would need a dedicated software installation. This increases resource utilization and maintenance efforts, ultimately software costs.
 
 ## How it helps
 
