@@ -21,7 +21,7 @@ Multitenancy is a key to operational efficiency of server-run software.  Providi
 ## How it helps
 
 Multitenant software provides each tenant a segregated environment (work data, settings, list of credentials, etc.), simultaneously serving multiple tenants. From a tenant's perspective, each has its dedicated software installation, although, in reality, they are all sharing one. This is achieved by running the software on a server and allowing tenants to connect to it over the network via an interface and/or an [API](/application-programming-interface/) (also refer to [Client-Server Architecture](/client-server-architecture/)).
-Multitenant software is designed in a way that tenants share the resources of one installation without affecting each other, or affecting only in predefined and controlled ways.  This results in huge savings for the software provider that can be passed on to the tenants, making services that would otherwise be very expensive much cheaper or even free (again, think web-based e-mail or document editors).
+With multitenant software, tenants share the resources of one installation without affecting each other or only in predefined and controlled ways. The resulting resource savings on the software provider's side can be passed on to the tenants, significantly reducing the software cost for users (again, think web-based e-mail or document editors).
 
 ## Related terms
 
