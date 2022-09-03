@@ -12,7 +12,6 @@ Multitenancy (or multi-tenancy) refers to a single software installation that se
 A tenant can be as small as one independent user with a single login ID — think personal productivity software — or as large as an entire corporation with thousands of login IDs, each with its own privileges yet interrelated in multiple ways. 
 Multitenant software examples include Google Mail, Google Docs, Microsoft Office 365, Salesforce CRM, and Dropbox, among many more that categorize as either entirely or partially multitenant software. 
 
-A tenant can be as small as one independent user with a single login ID — think personal productivity software — or as large as an entire corporation with thousands of login IDs, each with its own privileges yet interrelated in multiple ways. 
 
 ## Problem it addresses 
 
