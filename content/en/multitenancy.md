@@ -24,4 +24,4 @@ With multitenant software, tenants share the resources of one installation witho
 
 ## Related terms
 
-Multitenancy is not synonymous with [SaaS](https://glossary.cncf.io/software-as-a-service), although it is very common for SaaS to be multitenant and even to feature multitenancy as one of its core benefits.
+Multitenancy is not synonymous with [SaaS](/software-as-a-service/), although it is very common for SaaS to be multitenant and even to feature multitenancy as one of its core benefits.
