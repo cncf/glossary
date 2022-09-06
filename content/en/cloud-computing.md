@@ -11,7 +11,6 @@ Cloud computing is a model that offers compute resources like CPU, network, and 
 Cloud computing gives users the ability to access and use computing power in a remote physical location. 
 Cloud providers like AWS, GCP, Azure, DigitalOcean, and others all offer third parties 
 the ability to rent access to compute resources in multiple geographic locations.
-With a layer of [abstraction](/abstraction/) built on top of one another, this architecture is the foundation 
 for primary service models like [IaaS](/infrastructure-as-a-service/), [PaaS](/platform-as-a-service/), and [SaaS](/software-as-a-service/).
 
 ## Problem it addresses
