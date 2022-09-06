@@ -90,6 +90,7 @@ bare
 blob
 blue
 branch
+bugs
 calendar
 category
 clúster
