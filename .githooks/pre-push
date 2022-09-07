@@ -1,0 +1,17 @@
+#!/bin/sh
+
+# Remember to execute "git config core.hooksPath .githooks" for having this git hook working
+
+REDBOLD="\033[0;31;1m"
+NORMAL="\033[0m"
+
+wordlist="content/es/.wordlist.txt"
+wordsUnsorted=$(diff --changed-group-format="%>%<" --unchanged-group-format="" <(cat $wordlist) <(sort $wordlist))
+commandToSort="sort -o content/es/.wordlist.txt content/es/.wordlist.txt"
+
+if [[ -n "$wordsUnsorted" ]]; then
+	echo -e >&2 "\n${REDBOLD}Words unsorted found at $wordlist ${NORMAL} \n\nPlease execute the following command to sort it: \n\n\t$commandToSort\n"
+	exit 1
+fi
+
+exit 0
