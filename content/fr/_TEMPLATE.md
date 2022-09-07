@@ -9,7 +9,7 @@ category: concept
 
 Un bref descriptif de la technologie ou du concept.
 
-## Problème qu'il adresse
+## Problème auquel il répond
 
 Quelques lignes à propos du problème qu'il adresse.
 
