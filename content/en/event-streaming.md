@@ -10,13 +10,13 @@ Event streaming is an approach where software will send event data from one appl
 Picture a service broadcasting everything it does to all other services.
 Each activity taken by a service is referred to as an event, hence event streaming.
 For example, the NASDAQ gets updates on stock and commodities pricing every second. If you had an application that monitored a specific set of stocks, you would want to receive that information in near real-time. If NASDAQ provides an API that send the information from their application to yours, you have event streaming.
-The data being sent as well as the changes in that data (stock prices) are the 'events' while the process of delivering them to an application is event streaming.
+The data being sent as well as the changes in that data (stock prices) are the events while the process of delivering them to an application is event streaming.
 
 ## Problem it addresses
 
 As data becomes more real time in nature, developers and providers need to find a way to send this data to multiple sources. In addition, because the data is changing, they also need to send changes to that data.
 In our example, we talked about NASDAQ and stock. If a stock price drops by $0.02 in one second, that change of state is an event.
-The amount of data being generated is growing exponentially and with that, the data's state is in constant flux. Developers and users need to be able to see that data in near real-time.
+The amount of data being generated is growing exponentially and with that, the data state is in constant flux. Developers and users need to be able to see that data in near real-time.
 
 ## How it helps
 
