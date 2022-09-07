@@ -1,6 +1,11 @@
 name: "Pull Request Labeler"
 on:
-- pull_request_target
+  pull_request_target:
+    types: [opened]
+    paths:
+      - 'content/**.md'
+    branches:
+      - 'dev-**'
 
 jobs:
   triage:
