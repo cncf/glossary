@@ -13,7 +13,7 @@ Die Cloud-Dienste sind in der Regel mit Autoskalierungsfunktionen verbunden, da 
 
 ## Welches Problem es löst
 
-Früher waren die Infrastruktur und die Anwendungen so konzipiert, dass sie die Spitzenauslastung des Systems berücksichtigten.
+Früher waren die Infrastruktur und die Anwendungen auf ein Maximum an Auslastung ausgelegt.
 Diese Architektur bedeutete, dass mehr Ressourcen nicht ausgelastet waren und nicht flexibel auf die sich ändernde Verbrauchernachfrage reagieren konnten.
 Diese fehlende Elastizität bedeutete höhere Kosten, sowie Geschäftseinbußen durch Ausfälle aufgrund von Übernachfrage. 
 
