@@ -1,7 +1,7 @@
 ---
 title: 분산 애플리케이션 (Distributed Apps)
 status: Completed
-category: concept
+category: 개념
 tags: ["아키텍처", "", ""]
 ---
 
