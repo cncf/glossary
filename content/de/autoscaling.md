@@ -22,4 +22,4 @@ Diese fehlende Elastizität bedeutete höhere Kosten, sowie Geschäftseinbußen 
 Durch die Nutzung der Cloud, die Virtualisierung und Containerisierung von Anwendungen und deren Abhängigkeiten können Unternehmen Anwendungen erstellen, die entsprechend den Benutzeranforderungen skaliert werden können.
 Sie können die Anwendungsnachfrage überwachen und sie automatisch skalieren, um ein optimale User Experience zu bieten.
 Ein Beispiel ist der Anstieg der Zuschauerzahlen, den Netflix jeden Freitagabend erlebt.
-Automatische Skalierung bedeutet, dass dynamisch mehr Ressourcen hinzugefügt werden: z. B. die Anzahl der Server erhöht wird, um mehr Videostreaming zu ermöglichen, und die Skalierung zurückgenommen wird, sobald sich der Verbrauch normalisiert hat.
+Automatische Skalierung bedeutet, dass dynamisch mehr Ressourcen hinzugefügt werden: z. B. die Anzahl der Server erhöht wird, um mehr Videostreaming zu ermöglichen, und die Ressourcen verringert werden, sobald sich der Verbrauch normalisiert hat.
