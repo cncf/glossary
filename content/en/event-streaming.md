@@ -15,8 +15,8 @@ The data being sent as well as the changes in that data (stock prices) are the e
 ## Problem it addresses
 
 As data becomes more real time in nature, developers and providers need to find a way to send this data to multiple sources. In addition, because the data is changing, they also need to send changes to that data.
-In our example, we talked about NASDAQ and stock. If a stock price drops by $0.02 in one second, that change of state is an event.
 The amount of data being generated is growing exponentially and with that, the data state is in constant flux. Developers and users need to be able to see that data in near real-time.
+Traditionally, one would use single TCP requests. This would be very inefficient as it would require a connection to be created for every event. Opening a connection once and allowing events to flow is ideal for real-time collection.
 
 ## How it helps
 
