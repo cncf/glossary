@@ -10,7 +10,7 @@ tags: ["infrastructure", "", ""]
 Kubernetes, often abbreviated as K8s, is an open source container orchestrator. 
 It automates the lifecycle of containerized applications on modern infrastructures, functioning as a "datacenter operating system" that manages applications across a [distributed system](/distributed-systems/).
 
-Kubernetes schedules [containers](container/) across [nodes](/nodes/) in a [cluster](/cluster/), bundling several infrastructure resources such as load balancers, persistent storages, and etc. to run containerized applications.
+Kubernetes schedules [containers](container/) across [nodes](/nodes/) in a [cluster](/cluster/), bundling several infrastructure resources such as load balancer, persistent storage, and etc. to run containerized applications.
 
 Kubernetes enables automation and extensibility, allowing users to deploy applications declaratively (see below) in a reproducible way. 
 Other software solutions in the Kubernetes ecosystem take advantage of that automation and extensibility.
