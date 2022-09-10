@@ -13,7 +13,7 @@ It automates the lifecycle of containerized applications on modern infrastructur
 Kubernetes schedules [containers](container/) across [nodes](/nodes/) in a [cluster](/cluster/), bundling several infrastructure resources such as load balancer, persistent storage, and etc. to run containerized applications.
 
 Kubernetes enables automation and extensibility, allowing users to deploy applications declaratively (see below) in a reproducible way. 
-Kubernetes is easily extendable via its [API](/application-programming-interface/), and its automation helps make other tools more accessible to experienced Kubernetes practitioners.
+Kubernetes is extensible via its [API](/application-programming-interface/), allowing experienced Kubernetes practitioners to leverage its automation capabilities according to their needs.
 
 ## Problem it addresses
 
