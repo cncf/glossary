@@ -9,20 +9,20 @@ tags: ["networking", "", ""]
 
 Dans un monde de [microservices](/microservices/), les applications sont découpées en plusieurs petits services qui communiquent via 
 le réseau.
-Exactement comme votre réseau wifi, les réseaux informatiques sont intrinsèquement non fiable, piratable et souvent lent.
+Exactement comme votre réseau wifi, les réseaux informatiques sont intrinsèquement non fiables, piratables et souvent lents.
 Les services mesh répondent à cette problématique en gérant le trafic (i.e., la communication) entre les services et ajoute de la
 [fiabilité](/reliability/), de l'[observabilité](/observability/) et des fonctionnalités liées à la sécurité de manière uniforme pour tous
 les services.
 
-## Problème Qu'il adresse
+## Problème qu'il adresse
 
 Après avoir migré vers une architecture microservices. Les ingénieurs doivent gérer une centaine
-voir des milliers de services, qui doivent tous communiqués.
-Cela signifie qu'il va y avoir beaucoup de trafic  qui va faire des aller et retour sur le réseau.
+voir des milliers de services, qui doivent tous communiquer.
+Cela signifie que beaucoup de trafic va faire des aller et retour sur le réseau.
 Par dessus tout cela, chaque application peut avoir besoin de chiffrer ses communications pour des contraintes
-réglementaires, fournir des métriques pour les équipes opérationnelles fournir des informations détaillées à propos du trafic
+réglementaires, fournir des métriques pour les équipes opérationnelles et proposer des informations détaillées sur le traffic
 pour aider à diagnostiquer les problèmes.
-Si cela devait être géré au niveau de chaque application, chacune avec ses fonctionnalités cela pourrait causer des friction entre les équipes et ralentir le développement de nouvelles fonctionnalités.
+Si cela devait être géré au niveau de chaque application, chacune de ces fonctionnalités pourrait conduire à créer des frictions entre les équipes et ralentir le développement de nouvelles fonctionnalités.
 
 ## Quel en est l'utilité
 
