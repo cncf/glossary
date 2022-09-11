@@ -25,4 +25,4 @@ el escalado horizontal y vertical de las aplicaciones se complica y reduce su ef
 
 Las imágenes empaquetan una aplicación con todas las dependencias necesarias para ejecutarse, como el servidor de aplicación.
 Esto otorga consistencia en todos los entornos, incluyendo los dispositivos locales de desarrollo.
-Una imagen puede da lugar a cualquier número de contenedores, según sea necesario, permitiendo una mayor escalabilidad.
+Una imagen puede dar lugar a cualquier número de contenedores, según sea necesario, permitiendo una mayor escalabilidad.
