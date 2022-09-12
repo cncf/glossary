@@ -26,7 +26,7 @@ Similar to traditional [infrastructure as code](/infrastructure-as-code/) tools,
 Containers are more resistant to configuration drift than [virtual](/virtual-machine/) or physical machines. 
 
 Additionally, Kubernetes works declaratively, which means that instead of operators instructing the machine how to do something, they describe — usually as manifest files (e.g., YAML) — what the infrastructure should look like. 
-Kubernetes then takes care of the "how." 
+Kubernetes then takes care of the "how". 
 This results in Kubernetes being extremely compatible with infrastructure as code.
 
 Kubernetes also [self-heals](/self-healing/). 
