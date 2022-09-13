@@ -23,5 +23,5 @@ Cloud computing allows organizations to outsource some portion of their computin
 
 Cloud providers offer organizations the ability to rent compute resources on-demand and pay for usage. 
 This allows for two major innovations: 
-organizations can focus on their product or service without a needless wait, planning, and spending money or resources on new physical infrastructure. They can [scale](/scalability/) as needed and on-demand. 
+Organizations can focus on their product or service without waiting, planning, and spending resources on new physical infrastructure. They can simply [scale](/scalability/) as needed and on-demand.
 Cloud computing allows organizations to adopt as much or as little infrastructure as they need.
