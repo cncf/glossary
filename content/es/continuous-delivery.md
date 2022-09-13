@@ -6,7 +6,7 @@ category: Concepto
 
 ## ¿Qué es?
 
-La entrega continua, a menudo abreviada como CD, es un conjunto de prácticas en las que los cambios de código se implementan automáticamente en un entorno de aceptación (o, en el caso de la implementación continua, en producción). El CD incluye procedimientos cruciales para garantizar que el software se pruebe adecuadamente antes de la implementación y proporciona una forma de revertir los cambios si se considera necesario. La integración continua (CI) es el primer paso hacia la entrega continua (es decir, los cambios deben fusionarse limpiamente antes de probarse e implementarse).
+La entrega continua, a menudo abreviada como CD, es un conjunto de prácticas en las que los cambios de código se implementan automáticamente en un entorno de aceptación (en el caso de la implementación continua, en producción). El CD incluye procedimientos cruciales para garantizar que el software se pruebe adecuadamente antes de la implementación y proporciona una forma de revertir los cambios si se considera necesario. La integración continua (CI) es el primer paso hacia la entrega continua (es decir, los cambios deben fusionarse limpiamente antes de probarse e implementarse).
 
 ## Problema que aborda
 
