@@ -10,7 +10,7 @@ Kubernetes, comúnmente abreviado como K8s, es una herramienta de código abiert
 
 Kubernetes gestiona [contenedores](/container/) en los [nodos](/nodes/) de un [clúster](/cluster/). Agrupa muchos componentes de infraestructura, en ocasiones referidos como "primitivos", como una instancia de una aplicación, balanceadores de carga, almacenamiento persistente y otros, de manera que puedan integrarse en aplicaciones.
 
-Kubernetes permite la automatización y extensibilidad, permitiendo a los usuarios desplegar sus aplicaciones de una manera declarativa y reproducible. Los productos de Software en el Ecosistema de Kubernetes toman ventaja de la automatización para extender la [API](/application-programming-interface/) de Kubernetes. Lo que permite aprovechar la automatización de Kubernetes y hacer que sus herramientas sean más accesibles para profesionistas experimentados de Kubernetes.
+Kubernetes permite la automatización y extensibilidad, permitiendo a los usuarios desplegar sus aplicaciones de una manera declarativa y reproducible. Los productos de Software en el Ecosistema de Kubernetes toman ventaja de la automatización para extender la [API](/es/application-programming-interface/) de Kubernetes. Lo que permite aprovechar la automatización de Kubernetes y hacer que sus herramientas sean más accesibles para profesionistas experimentados de Kubernetes.
 
 ## Problema que aborda
 
