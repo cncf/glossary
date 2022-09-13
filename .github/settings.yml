@@ -6,7 +6,7 @@ repository:
   name: glossary
 
   # A short description of the repository that will show up on GitHub
-  description: Cloud Native Glossary
+  description: The CNCF Cloud Native Glossary Project aims to define cloud native concepts in clear and simple language, making them accessible to anyone —  whether they have a technical background or not (https://glossary.cncf.io).
 
   # A URL with more information about the repository
   homepage: https://glossary.cncf.io/
@@ -130,6 +130,9 @@ collaborators:
     permission: push
 
   - username: krol3
+    permission: push
+
+  - username: 92nqb
     permission: push
 
   # l10n zh approvers
@@ -323,6 +326,7 @@ branches:
          - raelga
          - electrocucaracha
          - krol3
+         - 92nqb
         teams: []
       enforce_admins: null
       required_linear_history: null
