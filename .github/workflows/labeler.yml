@@ -6,6 +6,7 @@ on:
       - 'content/**.md'
     branches:
       - 'dev-**'
+      - 'main'
 
 jobs:
   triage:
