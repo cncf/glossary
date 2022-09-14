@@ -1,5 +1,5 @@
 ---
-title: 애자일 소프트웨어 개발
+title: 애자일 소프트웨어 개발 (Agile Software Development)
 status: Completed
 category: 개념
 tags: ["방법론", "", ""]
