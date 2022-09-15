@@ -1,5 +1,5 @@
 ---
-title: 基础设施即代码
+title: 基础设施即代码 (IaC)
 status: Completed
 category: 概念
 tags: ["基础设施", "", ""]
