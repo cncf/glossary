@@ -1,5 +1,5 @@
 ---
-title: 基础设施即代码 (IaaS)
+title: 基础设施即服务 (IaaS)
 status: Completed
 category: 技术
 tags: ["基础设施", "", ""]
@@ -7,7 +7,7 @@ tags: ["基础设施", "", ""]
 
 ## 是什么
 
-基础设施即代码，或者 IaaS ，是一种 [云计算](/zh-cn/cloud-computing/) 服务模型，
+基础设施即服务，或者 IaaS ，是一种 [云计算](/zh-cn/cloud-computing/) 服务模型，
 它提供 [物理](/zh-cn/bare-metal-machine/) 或 [虚拟](/zh-cn/virtualization/) 的计算、存储和网络资源，使用按需按量的计费模式。
 云提供商拥有和管理软件和硬件设施，可供消费者在公共、私有或混合云部署和使用。
 

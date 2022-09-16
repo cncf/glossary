@@ -1,5 +1,5 @@
 ---
-title: 容器即服务
+title: 容器即服务 (CaaS)
 status: Completed
 category: 技术
 tags: ["平台", "", ""]
