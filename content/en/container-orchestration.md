@@ -12,5 +12,6 @@ It functions like a data center operating system (OS), managing [containerized](
 The rise of [Cloud Native Apps](/cloud-native-apps/) and [technologies](/cloud-native-tech/) as well as the fast changing demands of modern businesses introduced a new set of problems. Managing microservices, security and network related things at scale as well as distributed system in general are hard if not impossible to manage manually.   
 
 ## How it helps
-Container orchestration _tools_ often work declaratively, meaning the operator provides instructions about _what_ the deployment should look like (e.g., how many clusters, nodes, resource allocation, etc.), and the orchestrator proactively takes care of the _how_. 
+Container orchestration, provides a declarative method of automating much of the work, which makes the operational complexity manageable for development and operations, or DevOps. 
+This includes a variety of tasks that software teams must perform in order to manage the lifecycle of a container, such as provisioning, deployment, scaling (both up and down), networking, load balancing, and other activities.
 Orchestrators are also often [self-healing](https://glossary.cncf.io/self-healing/), ensuring the cluster's actual state always matches the operator's desired state.
