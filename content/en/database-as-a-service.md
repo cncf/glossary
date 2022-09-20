@@ -1,6 +1,6 @@
 ---
 title: Database as a Service (DBaaS)
-status: Completed
+status: Beyond Glossary scope
 category: Technology
 tags: ["", "", ""]
 ---
