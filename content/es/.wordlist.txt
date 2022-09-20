@@ -27,7 +27,6 @@ BVS
 BY
 calendar
 canary
-Canary
 CAPEX
 Carol
 category
@@ -55,7 +54,6 @@ CRI
 Daniel
 declarativamente
 deployment
-Deployment
 deployments
 development
 DevOps
@@ -79,9 +77,7 @@ Garcia
 gateway
 GCP
 git
-Git
 github
-GitHub
 GitOps
 glossary
 Gmail
