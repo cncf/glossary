@@ -121,7 +121,6 @@ collaborators:
   - username: Imtiaz1234
     permission: push
     
-
   # l10n es approvers
   - username: raelga
     permission: push
@@ -157,6 +156,14 @@ collaborators:
 
   - username: Krast76
     permission: push
+
+  # l10n ur approvers
+  - username: Saim-Safdar
+    permission: push
+
+  - username: waleed318
+    permission: push
+
 
 branches:
 
@@ -364,6 +371,23 @@ branches:
          - huats
          - fydrah
          - Krast76
+        teams: []
+      enforce_admins: null
+      required_linear_history: null
+      
+  # l10n branch for ur contents only
+  - name: dev-ur
+    protection:
+      required_pull_request_reviews:
+        required_approving_review_count: 2
+        require_code_owner_reviews: true
+      required_status_checks: null
+      restrictions:
+        apps: []
+        # ur approvers
+        users:
+         - Saim-Safdar
+         - waleed318
         teams: []
       enforce_admins: null
       required_linear_history: null
