@@ -1,4 +1,3 @@
-
 add
 Amazon
 an
@@ -24,17 +23,12 @@ blue
 branch
 bugs
 Business
-Business
 BVS
-BVS
-BY
 BY
 calendar
 canary
 Canary
 CAPEX
-CAPEX
-Carol
 Carol
 category
 Catherine
@@ -78,7 +72,6 @@ extensibilidad
 Feedback
 first
 Foster
-Foster
 foundation
 framework
 frontend
@@ -90,7 +83,6 @@ Git
 github
 GitHub
 GitOps
-GitOps
 glossary
 Gmail
 good
@@ -99,8 +91,6 @@ help
 hide
 https
 IaaS
-IaaS
-IaC
 IaC
 iamnoah
 infrastructure
@@ -139,16 +129,12 @@ needed
 Netflix
 new
 Not
-Not
 OCI
 of
-on
 on
 on-premises
 Open
 Paganini
-Paganini
-portable
 portable
 pr
 prem
@@ -156,7 +142,6 @@ premises
 profesionistas
 properties
 propose
-PRs
 PRs
 pull
 Rael
@@ -205,7 +190,6 @@ wifi
 Word
 work
 www
-YAML
 YAML
 you
 your
