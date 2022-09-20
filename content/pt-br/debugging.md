@@ -25,5 +25,5 @@ O debugging não é uma tarefa fácil, pois os engenheiros precisam rastrear a f
 Requer conhecimento sobre o próprio código e o contexto de execução em tempo de execução. 
 É aqui que diferentes técnicas e ferramentas de debug são úteis. 
 A análise de logs, traces e métricas, por exemplo, é usada no debugging diretamente na produção. 
-Os desenvolvedores podem usar o debugging interativa para percorrer o código em tempo de execução enquanto analisam o contexto de execução relacionado. 
+Os desenvolvedores podem usar o debugging interativo para percorrer o código em tempo de execução enquanto analisam o contexto de execução relacionado. 
 Depois de identificar a origem da falha, eles corrigem o código e criam uma correção de bug ou atualização.
