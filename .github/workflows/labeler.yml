@@ -5,8 +5,7 @@ on:
     paths:
       - 'content/**.md'
     branches:
-      - 'dev-**'
-      - 'main'
+      - 'dev-ko'
 
 jobs:
   triage:
