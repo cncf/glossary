@@ -27,7 +27,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - name: Check word list sorts
+      - name: Check word list sort
         run: |
           wordlist="content/es/.wordlist.txt"
           wordsUnsorted=$(diff --changed-group-format="%>%<" --unchanged-group-format="" <(cat $wordlist) <(LC_ALL= sort -f $wordlist))
