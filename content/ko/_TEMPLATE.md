@@ -1,6 +1,7 @@
 ---
 title: 용어 정의 템플릿
-status: Feedback Appreciated (가이드: status 값은 영어 원문과 동일하게 유지)
+status: Feedback Appreciated
+# 가이드: status 값은 영어 원문과 동일하게 유지
 category: 개념
 ---
 
