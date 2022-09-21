@@ -5,15 +5,21 @@
   {{ if not .Site.Params.ui.sidebar_search_disable -}}
   <form class="td-sidebar__search d-flex align-items-center">
     {{ partial "search-input.html" . }}
-    <button class="btn btn-link td-sidebar__toggle d-md-none p-0 ml-3 fas fa-bars" type="button" data-toggle="collapse" data-target="#td-section-nav" aria-controls="td-docs-nav" aria-expanded="false" aria-label="Toggle section navigation">
-    </button>
+	<button class="hamburger" type="button" aria-label="Toggle Menu" data-toggle="collapse" data-target="#td-section-nav" aria-controls="td-docs-nav" aria-expanded="false" aria-label="Toggle section navigation">
+		<span class="hamburger-box">
+			<span class="hamburger-inner"></span>
+		</span>
+	</button>
   </form>
   {{ else -}}
   <div id="content-mobile">
   <form class="td-sidebar__search d-flex align-items-center">
     {{ partial "search-input.html" . }}
-    <button class="btn btn-link td-sidebar__toggle d-md-none p-0 ml-3 fas fa-bars" type="button" data-toggle="collapse" data-target="#td-section-nav" aria-controls="td-docs-nav" aria-expanded="false" aria-label="Toggle section navigation">
-    </button>
+	<button class="hamburger" type="button" aria-label="Toggle Menu" data-toggle="collapse" data-target="#td-section-nav" aria-controls="td-docs-nav" aria-expanded="false" aria-label="Toggle section navigation">
+		<span class="hamburger-box">
+			<span class="hamburger-inner"></span>
+		</span>
+	</button>
   </form>
   </div>
   <div id="content-desktop"></div>
@@ -40,7 +46,7 @@
 {{ $activePath := and (not $shouldDelayActive) ($p.IsDescendant $s) -}}
 {{ $show := cond (or (lt $ulNr $ulShow) $activePath (and (not $shouldDelayActive) (eq $s.Parent $p.Parent)) (and (not $shouldDelayActive) (eq $s.Parent $p)) (not $p.Site.Params.ui.sidebar_menu_compact) (and (not $shouldDelayActive) ($p.IsDescendant $s.Parent))) true false -}}
 {{ $mid := printf "m-%s" ($s.RelPermalink | anchorize) -}}
-{{ $pages_tmp := (where $s.Pages ".Params.status" "Completed") | union (where $s.Pages ".Params.status" "completed") -}}
+{{ $pages_tmp := ( (where $s.Pages ".Params.status" "Completed") | union (where $s.Pages ".Params.status" "completed") ) | intersect (where $s.Pages ".Params.toc_hide" "!=" true) -}}
 {{ $pages := $pages_tmp -}}
 {{ $withChild := gt (len $pages) 0 -}}
 {{ $manualLink := cond (isset $s.Params "manuallink") $s.Params.manualLink ( cond (isset $s.Params "manuallinkrelref") (relref $s $s.Params.manualLinkRelref) $s.RelPermalink) -}}
@@ -50,7 +56,7 @@
   <input type="checkbox" id="{{ $mid }}-check"{{ if $activePath}} checked{{ end }}/>
   <label for="{{ $mid }}-check"><a href="{{ $manualLink }}"{{ if ne $s.LinkTitle $manualLinkTitle }} title="{{ $manualLinkTitle }}"{{ end }}{{ with $s.Params.manualLinkTarget }} target="{{ . }}"{{ if eq . "_blank" }} rel="noopener"{{ end }}{{ end }} class="align-left pl-0 {{ if $active}} active{{ end }} td-sidebar-link{{ if $s.IsPage }} td-sidebar-link__page{{ else }} td-sidebar-link__section{{ end }}{{ if $treeRoot }} tree-root{{ end }}" id="{{ $mid }}"><span class="{{ if $active }}td-sidebar-nav-active-item{{ end }}">{{ $s.LinkTitle }}</span></a></label>
   {{ else -}}
-    {{ if not $treeRoot }}  
+    {{ if not $treeRoot }}
     <a href="{{ $manualLink }}"{{ if ne $s.LinkTitle $manualLinkTitle }} title="{{ $manualLinkTitle }}"{{ end }}{{ with $s.Params.manualLinkTarget }} target="{{ . }}"{{ if eq . "_blank" }} rel="noopener"{{ end }}{{ end }} class="align-left pl-0{{ if $active}} active{{ end }} td-sidebar-link{{ if $s.IsPage }} td-sidebar-link__page{{ else }} td-sidebar-link__section{{ end }}{{ if $treeRoot }} tree-root{{ end }}" id="{{ $mid }}"><span class="{{ if $active }}td-sidebar-nav-active-item{{ end }}">{{ $s.LinkTitle }}</span></a>
     {{- end }}
   {{- end }}
