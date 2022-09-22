@@ -1,6 +1,6 @@
 ---
 title: Event Streaming
-status: Feedback Appreciated
+status: Completed
 category: concept
 ---
 
