@@ -1,6 +1,6 @@
 ---
 title: Database as a Service (DBaaS)
-status: Beyond Glossary scope
+status: Deprecated
 category: Technology
 tags: ["", "", ""]
 ---
