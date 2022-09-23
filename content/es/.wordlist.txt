@@ -130,6 +130,7 @@ glossary
 good
 help
 hide
+hipervisor
 https
 iamnoah
 infrastructure
@@ -159,10 +160,12 @@ portable
 pr
 prem
 premises
+prevalentes
 profesionistas
 properties
 propose
 pull
+reprogramados
 request
 requests
 resiliencia
