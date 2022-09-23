@@ -48,6 +48,8 @@ Foster
 GCP
 Garcia
 Git
+GitHub
+GitOps
 GitOps
 GitOps
 Gmail
@@ -72,16 +74,12 @@ Morgan
 Native
 Netflix
 Not
-Not
 OCI
 Open
 PRs
-PRs
-Paganini
 Paganini
 Rael
 Ramer
-Rivas
 Rivas
 Runtime
 Seokho
@@ -113,7 +111,6 @@ blue
 branch
 bugs
 calendar
-calendar
 canary
 category
 clúster
@@ -142,12 +139,10 @@ frontend
 gateway
 git
 github
-github
 glossary
 good
 help
 hide
-https
 https
 iamnoah
 infrastructure
@@ -171,12 +166,8 @@ monitorear
 needed
 new
 of
-of
-on
 on
 on-premises
-on-premises
-portable
 portable
 pr
 prem
@@ -214,7 +205,6 @@ vs
 weight
 wifi
 work
-www
 www
 you
 your
