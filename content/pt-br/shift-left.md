@@ -30,7 +30,7 @@ Pela responsabilidade por testes e segurança ser compartilhada pela equipe de d
 todos tem seu papel em garantir a estabilidade e a segurança de uma aplicação.
 
 Além disso, atuar de forma Shift Left permite a melhoria contínua e
-está em linha com uma abordagem mais [agile](/pt-br/agile-software-development/) do que cascata ao desenvolvimento.
+está em linha com uma abordagem mais [ágil](/pt-br/agile-software-development/) do que cascata ao desenvolvimento.
 As equipes podem fazer pequenas interações e identificar processos de forma antecipada.
 Essa abordagem permite que engenheiros adotem práticas de segurança e desenvolvimento seguro
 nos estágios iniciais, assim como as fases de design e arquitetura.
