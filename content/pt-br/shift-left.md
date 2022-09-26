@@ -34,7 +34,7 @@ está em linha com uma abordagem mais [ágil](/pt-br/agile-software-development/
 As equipes podem fazer pequenas interações e identificar processos de forma antecipada.
 Essa abordagem permite que engenheiros adotem práticas de segurança e desenvolvimento seguro
 nos estágios iniciais, assim como as fases de design e arquitetura.
-Os testes durante o ciclo de desenvolvimento diminui o tempo necessário de testes antes de uma release de software.
+Os testes durante o ciclo de desenvolvimento diminuem o tempo necessário de testes antes de uma release de software.
 
 Muitas ferramentas de software e soluções SaaS ajudam a mudar (shift) essas práticas para a esquerda (left).
 
