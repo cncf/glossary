@@ -21,8 +21,8 @@ Adopting a GitOps workflow can help alleviate these issues, among several others
 
 ## How it helps
 
-GitOps is a paradigm that can be applied to a workflow 
-to help manage an application and cloud system infrastructure. 
+The GitOps paradigm can be applied to a workflow 
+to help manage applications and cloud system infrastructure. 
 It enables organizations several advantages 
 such as better coordination, transparency, stability, and reliability of a system.
 Operating in a close loop ensures the current live state of a system matches 
