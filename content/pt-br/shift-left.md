@@ -38,4 +38,4 @@ Os testes durante o ciclo de desenvolvimento diminuem o tempo necessário de tes
 
 Muitas ferramentas de software e soluções SaaS ajudam a mudar (shift) essas práticas para a esquerda (left).
 
-Entretanto, shift left também pode ser implementado através da melhoria de processos e mudanças culturais dentro de uma equipe.
+Entretanto, Shift Left também pode ser implementado através da melhoria de processos e mudanças culturais dentro de uma equipe.
