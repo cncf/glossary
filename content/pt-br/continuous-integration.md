@@ -2,6 +2,7 @@
 title: Integração Contínua
 status: Completed 
 category: conceito
+tags: ["aplicação", "metodologia", ""]
 ---
 
 ## O que é
