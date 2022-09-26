@@ -14,7 +14,7 @@ These software agents and practices are used to execute a cohesive workflow and 
 
 ## Problem it addresses
 
-Existing processes for infrastructure configuration management can face challenges 
+Existing processes for infrastructure configuration management – including traditional CI/CD – are often error prone and can face challenges 
 such as configuration drift, failed deployments, relying on a system's previous state for success, 
 missing documentation, or unknown development history.
 Adopting a GitOps workflow can help alleviate these issues, among several others.
@@ -24,6 +24,8 @@ Adopting a GitOps workflow can help alleviate these issues, among several others
 The GitOps paradigm can be applied to a workflow 
 to help manage applications and cloud system infrastructure. 
 It enables organizations several advantages 
-such as better coordination, transparency, stability, and reliability of a system.
-Operating in a close loop ensures the current live state of a system matches 
-against the desired target state, specified in the git repository.
+such as better coordination, transparency, stability, and reliability of a system, 
+and faster mean time to recovery.
+Operating in a closed loop ensures the current live state of a system matches 
+the desired target state regardless of how drift between the two may occur.
+Using GitOps for CD improves security by separation of duty between CI and CD, where CI no longer needs credentials to your live system.
