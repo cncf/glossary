@@ -1,6 +1,6 @@
 ---
 title: GitOps
-status: Feedback Appreciated
+status: Completed
 category: Concept
 tags: ["methodology", "application", "infrastructure"]
 ---
