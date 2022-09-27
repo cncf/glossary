@@ -13,12 +13,7 @@ name: Spellcheck CI
 on:
   push:
     branches:
-      - 'test-ramrodo-action'
-  # pull_request:
-    # paths:
-    #   - 'content/es/**/*.md'
-    # branches:
-    #   - *
+      - dev-es
   workflow_dispatch:
 
 jobs:
