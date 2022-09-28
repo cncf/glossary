@@ -12,6 +12,8 @@ name: Spellcheck CI
 # yamllint disable-line rule:truthy
 on:
   pull_request:
+    paths:
+      - 'content/es/**/*.md'
     branches:
       - dev-es
   workflow_dispatch:
