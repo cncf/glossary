@@ -20,6 +20,6 @@ Unabhängig davon, wie vollständig die Teststrategie ist, werden auf Produktivs
 
 ## Wie es das Problem löst
 
-Durch Canary-Deployments können Unternehmen nachvollziehen, wie sich eine neue Software unter realen Bedingungen verhält, bevor ein Großteil des Datenverkehrs auf die neue Version umgestellt wird.
+Durch Canary-Deployments können Unternehmen nachvollziehen, wie sich die neue Version einer Anwendung unter realen Bedingungen verhält, bevor ein Großteil des Datenverkehrs auf die neue Version umgestellt wird.
 Diese Strategie ermöglicht es Unternehmen, Ausfallzeiten zu reduzieren und im Problemfall ein Rollback des neuen Deployments durchzuführen.
 Außerdem ermöglicht es die Durchführung tiefgreifender Tests der Produktionsanwendungen, ohne dass die Benutzerfreundlichkeit wesentlich beeinträchtigt wird.
