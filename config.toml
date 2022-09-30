@@ -117,6 +117,12 @@ languageName = "বাংলা(Bengali)"
 contentDir = "content/bn"
 weight = 8
 
+[languages.ur]
+title = "کلاؤڈ کی مقامی لغت"
+description = "CNCF کلاؤڈ کی مقامی لغت کا مقصد کلاؤڈ مقامی ایپلی کیشنز کے بارے میں بات کرتے وقت استعمال ہونے والی عام اصطلاحات کے حوالے کے طور پر استعمال کرنا ہے۔"
+languageName ="اردو(Urdu)"
+contentDir = "content/ur"
+weight = 9
 
 [markup]
   [markup.goldmark]
