@@ -1,0 +1,73 @@
+
+
+# UI strings. Buttons and similar.
+
+[ui_pager_prev]
+other = "پچھلا"
+
+[ui_pager_next]
+other = "اگلے"
+
+[ui_read_more]
+other = "مزید پڑھ"
+
+[ui_search]
+other = "اس سائٹ کو تلاش کریں…"
+
+# Used in sentences such as "Posted in News"
+[ui_in]
+other = "میں"
+
+# Used in sentences such as "All Tags"
+[ui_all]
+other = "تمام"
+[ui_see_all]
+other = "تمام دیکھیں"
+
+# Footer text
+[footer_all_rights_reserved]
+other = "جملہ حقوق محفوظ ہیں"
+
+[footer_privacy_policy]
+other = "رازداری کی پالیسی"
+
+
+# Post (blog, articles etc.)
+[post_byline_by]
+other = "کی طرف سے"
+[post_created]
+other = "بنایا"
+[post_last_mod]
+other = "آخری بار ترمیم کی گئی۔"
+[post_edit_this]
+other = "اس صفحہ میں ترمیم کریں"
+[post_create_child_page]
+other = "چائلڈ پیج بنائیں"
+[post_create_issue]
+other = "مسئلہ کی اطلاع دیں"
+[post_create_project_issue]
+other = "پروجیکٹ کا مسئلہ بنائیں"
+[post_posts_in]
+other = "میں پوسٹس"
+[post_reading_time]
+other = "منٹ پڑھیں"
+
+# Print support
+[print_printable_section]
+other = "یہ اس سیکشن کا کثیر صفحات پر مشتمل پرنٹ ایبل منظر ہے۔"
+[print_click_to_print]
+other = "پرنٹ کرنے کے لیے یہاں کلک کریں۔"
+[print_show_regular]
+other = "اس صفحہ کے باقاعدہ منظر پر واپس جائیں"
+[print_entire_section]
+other = "پورے حصے کو پرنٹ کریں"
+
+# Feedback section
+[feedback_title]
+other = "تاثرات"
+[feedback_question]
+other = "کیا یہ صفحہ مددگار تھا؟"
+[feedback_answer_yes]
+other = "جی ہاں"
+[feedback_answer_no]
+other = "نہیں"
