@@ -14,4 +14,6 @@ Kurze Erklärung darüber, welches Problem es löst.
 
 ## Wie es das Problem löst
 
+
+
 Erläuterung darüber, wie es das Problem löst. 
