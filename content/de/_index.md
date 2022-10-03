@@ -7,6 +7,7 @@ title: "Cloud Native Glossar"
 
 Das Cloud Native Glossar ist ein Projekt unter der Leitung des CNCF Business Value Subcommittee (BVS). Das Ziel ist es, Cloud Native Konzepte in klarer und einfacher Sprache zu erklären, ohne dass technische Vorkenntnisse erforderlich sind.
 
+
 ## Mitwirken
 Jede/r ist eingeladen, Änderungen, Ergänzungen und Verbesserungen für das Cloud Native Glossar vorzuschlagen. Wir verwenden einen Community-gesteuerten Prozess, der von der CNCF geregelt wird, um dieses gemeinsame Lexikon zu entwickeln und zu verbessern. Dieses Glossar bietet eine herstellerneutrale Plattform, um ein gemeinsames Vokabular rund um Cloud Native-Technologien zu organisieren. Beiträge sind von allen Teilnehmern willkommen, die sich an den Zweck und die Ziele des Projekts halten.
 
