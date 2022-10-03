@@ -1,6 +1,6 @@
 ---
 title: Autoskalierung
-status: Feedback erwünscht
+status: Completed
 category: Konzept
 ---
 
