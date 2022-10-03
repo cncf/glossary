@@ -1,6 +1,6 @@
 ---
 title: Canary Deploment
-status: Feedback erwünscht
+status: Completed
 category: Konzept
 ---
 
