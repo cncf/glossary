@@ -16,7 +16,7 @@ Wenn geruchlose schädliche Gase austraten, würde der Vogel sterben, und die Be
 
 ## Welches Problem es löst
 
-Unabhängig davon, wie vollständig die Teststrategie ist, werden auf Produktivsystemen immer einige Fehler entdeckt. Die direkte Verlagerung des gesamten Datenverkehrs von einer aktuellen Version auf eine neue, birgt ein hohes Risiko für Fehlerfälle.  
+Unabhängig davon, wie vollständig die Teststrategie ist, werden auf Produktivsystemen immer wieder einige Fehler entdeckt. Die direkte Verlagerung des gesamten Datenverkehrs von einer aktuellen Version auf eine neue, birgt ein hohes Risiko für Fehlerfälle.  
 
 ## Wie es das Problem löst
 
