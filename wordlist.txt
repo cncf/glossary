@@ -26,9 +26,9 @@ caret
 catherine
 cavalcanti
 cd
-chatbot
 cdn
 changelog
+chatbot
 cio
 cka
 ckad
@@ -47,8 +47,12 @@ cyber
 daniel
 datacenter
 datadog
+dba
+dbaas
 de
 declaratively
+decrypt
+decrypted
 definitions
 dependabot
 deployable
@@ -96,7 +100,9 @@ inelasticity
 inlinehilite
 io
 iot
+ispas
 jason
+jihoon
 jonasbn
 jones
 josé
@@ -120,6 +126,8 @@ microservices
 misconfiguration
 mkdn
 mtls
+multitenancy
+multitenant
 navbar
 observability
 oci
@@ -156,6 +164,7 @@ sbates
 scalability
 scalable
 sce
+seo
 seokho
 serverless
 sexualized
@@ -165,6 +174,7 @@ snippets
 socio
 sre
 sres
+ssl
 stateful
 striphtml
 subnets
@@ -179,6 +189,7 @@ transcodes
 txt
 ubuntu
 underdefined
+unencrypted
 utf
 valueerror
 vcs
@@ -199,3 +210,7 @@ DBA
 Ispas
 Jihoon
 Seo
+TCP
+TCP/IP
+UDP
+HTTP/3
