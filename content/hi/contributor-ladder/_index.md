@@ -1,7 +1,7 @@
 ---
 title: योगदानकर्ता सीढ़ी
 toc_hide: true
-exclude_search: true
+status: Completed
 menu:
   main:
     weight: 10

@@ -1,0 +1,84 @@
+// Header navigation bar.
+.td-navbar {
+	background: hsla(0, 0%, 99%, 0.98);
+	padding-left: 0;
+	padding-right: 0;
+	@media (min-width: 768px) {
+		min-height: 5rem;
+		margin-bottom: 3rem;
+		padding: 0;
+	}
+	&:after {
+		background: linear-gradient(180deg, rgba(0, 0, 0, 0.1), transparent);
+		content: '';
+		height: 20px;
+		position: absolute;
+		top: 100%;
+		width: 100%;
+		z-index: 1;
+	}
+
+	.navbar-brand {
+		@media (min-width: 768px) {
+			padding-top: 0.5rem;
+			padding-bottom: 0rem;
+			margin-left: 1rem;
+		}
+		.navbar-logo {
+			margin-bottom: 10px;
+			display: block;
+			svg {
+				height: 40px;
+			}
+		}
+	}
+
+	.td-navbar-nav-scroll {
+		margin-top: 0;
+		margin-left: -0.5rem;
+		margin-right: -0.5rem;
+		.navbar-nav {
+			padding-bottom: 0;
+			display: flex;
+			align-items: center;
+			align-content: center;
+			@media (max-width: 500px) {
+				padding-bottom: 0;
+				line-height: 3;
+				background-image: linear-gradient(to right, hsla(0, 0%, 99%, 0.98), hsla(0, 0%, 99%, 0.98)),
+					linear-gradient(to right, hsla(0, 0%, 99%, 0.98), hsla(0, 0%, 99%, 0.98)),
+					linear-gradient(to right, rgba(0, 0, 0, 0.1), rgba(255, 255, 255, 0)),
+					linear-gradient(to left, rgba(0, 0, 0, 0.1), rgba(255, 255, 255, 0));
+				background-position: left center, right center, left center, right center;
+				background-repeat: no-repeat;
+				background-color: hsla(0, 0%, 99%, 0.98);
+				background-size: 20px 100%, 20px 100%, 10px 100%, 10px 100%;
+				background-attachment: local, local, scroll, scroll;
+			}
+			.nav-item {
+				.nav-link {
+					font-weight: 600;
+					transition: color 0.25s ease-in;
+					@media (max-width: 500px) {
+						padding: 0 !important;
+					}
+					@media (min-width: 768px) {
+						letter-spacing: 0.02em;
+					}
+				}
+				// Topnav dropdown.
+				&.dropdown {
+					margin-left: 1rem;
+					.dropdown-item {
+						font-weight: 600;
+						&:hover,
+						&:focus {
+							color: $black;
+							text-decoration: none;
+						}
+					}
+				}
+			}
+		}
+	}
+}
