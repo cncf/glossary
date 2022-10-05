@@ -25,7 +25,7 @@ principalmente se o software já estiver implementado em produção.
 
 Adotar a mentalidade de Shift Left para o desenvolvimento de software,
 as equipes podem implementar testes e segurança durante o ciclo de desenvolvimento.
-Pela responsabilidade por testes e segurança ser compartilhada pela equipe de desenvolvimento
+E como a responsabilidade por testes e segurança é compartilhada pela equipe de desenvolvimento
 — dos engenheiros de software, qualidade até operações —
 todos tem seu papel em garantir a estabilidade e a segurança de uma aplicação.
 
