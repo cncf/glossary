@@ -23,7 +23,7 @@ principalmente se o software já estiver implementado em produção.
 
 ## Como isso ajuda
 
-Adotar a mentalidade de Shift Left para o desenvolvimento de software,
+Ao adotar a mentalidade de Shift Left para o desenvolvimento de software,
 as equipes podem implementar testes e segurança durante o ciclo de desenvolvimento.
 E como a responsabilidade por testes e segurança é compartilhada pela equipe de desenvolvimento
 — dos engenheiros de software, qualidade até operações —
