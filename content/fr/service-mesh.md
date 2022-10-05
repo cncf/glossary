@@ -14,7 +14,7 @@ Les services mesh répondent à cette problématique en gérant le trafic (i.e.,
 [fiabilité](/reliability/), de l'[observabilité](/observability/) et des fonctionnalités liées à la sécurité de manière uniforme pour tous
 les services.
 
-## Problème qu'il adresse
+## Problème auquel il répond
 
 Après avoir migré vers une architecture microservices. Les ingénieurs doivent gérer une centaine
 voir des milliers de services, qui doivent tous communiquer.
