@@ -14,7 +14,7 @@ modernes et dynamiques tels que les clouds publiques, privées et hybrides.
 Tout en tirant pleinement parti des avantages du [cloud computing](/cloud-computing/).
 Elles sont conçues dès le départ pour exploiter les capacités du cloud computings ainsi que des conteneurs, du service meshes, des micro-services. Les infrastructures immuable illustrent cette approche.
 
-## Problème Qu'il adresse
+## Problème auquel il répond
 
 Il y a différentes catégories technologiques qui vont adresser une variété de challenges.
 Si vous regardez le [CNCF Cloud Native Landscape](https://landscape.cncf.io/), vous verrez combien

@@ -12,7 +12,7 @@ Ces applications s'intègrent facilement avec leurs architectures cloud respecti
 Il fait aussi référence aux applications qui tirent avantage d'infrastructure pilotée par le cloud computing.
 Aujourd'hui, les applications Cloud native incluent les applications qui fonctionnent dans le centre de données des fournisseurs de cloud ainsi que les applications qui tournent sur des plateformes hébergées dans les centres de données internes aux entreprises.
 
-## Problème Qu'il adresse
+## Problème auquel il répond
 
 Traditionnellement, les environnements hébergés dans des centres de données classiques fournissent des serveurs sur mesure.
 Chaque centre de données dispose de services qui  [associent étroitement ](/tightly-coupled-architectures/) les applications à des environnements spécifiques, qui se basent souvent sur des infrastructures déployées à la main, par exemple des [machines virtuelles](/virtual-machine/) et des services. Cela contraint les développeurs et leurs applications à un déploiement dans ce centre de données spécifique.
