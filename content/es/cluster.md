@@ -1,5 +1,5 @@
 ---
-title: Cluster
+title: Clúster
 status: Completed
 category: Tecnología
 tags: ["infraestructura", "arquitectura", ""]
@@ -17,12 +17,12 @@ El conjunto de todos estos servicios [contenedorizados](/containerization/), con
 Un software que es ejecutado en un solo ordenador es un único punto de fallo
 — Si este ordenador falla, o alguien por accidente desconecta el cable de alimentación,
 algún sistema crítico para el negocio puede quedar fuera de funcionamiento.
-Es por esto que el software moderno se construye generalmente como [aplicaciones distribuidas](/distributed-apps), agrupadas en clústers.
+Es por esto que el software moderno se construye generalmente como [aplicaciones distribuidas](/distributed-apps), agrupadas en clústeres.
 
 
 ## ¿Cómo ayuda?
 
-Las aplicaciones distribuidas en clúster se ejecutan en varias máquinas u ordenadores, elimininando un único punto de fallo.
+Las aplicaciones distribuidas en clúster se ejecutan en varias máquinas u ordenadores, eliminando un único punto de fallo.
 Pero construir sistemas distribuidos es difícil.
 De hecho, es una disciplina informática en sí misma.
 La necesidad de sistemas globales y los años de prueba y error llevaron al desarrollo de un nuevo tipo de stack de tecnología: [tecnologías nativas para la nube](/es/cloud-native-tech/).
