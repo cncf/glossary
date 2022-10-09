@@ -38,6 +38,7 @@ Chris
 CI
 Cloud
 clúster
+clústeres
 CNCF
 Code
 commit
