@@ -15,8 +15,8 @@ El conjunto de todos estos servicios [contenedorizados](/containerization/), con
 ## Problema que aborda
 
 Un software que es ejecutado en un solo ordenador es un único punto de fallo
-- Si este ordenador falla, o alguien por accidente desconecta el cable de alimentación,
-Algún sistema crítico para el negocio puede quedar fuera de funcionamiento.
+— Si este ordenador falla, o alguien por accidente desconecta el cable de alimentación,
+algún sistema crítico para el negocio puede quedar fuera de funcionamiento.
 Es por esto que el software moderno se construye generalmente como [aplicaciones distribuidas](/distributed-apps), agrupadas en clústers.
 
 
