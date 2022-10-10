@@ -27,7 +27,6 @@ BVS
 BY
 calendar
 Canary
-canary
 CAPEX
 Carol
 category
