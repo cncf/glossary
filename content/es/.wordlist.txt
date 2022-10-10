@@ -55,7 +55,6 @@ CRI
 Daniel
 declarativamente
 Deployment
-deployment
 deployments
 development
 DevOps
@@ -72,7 +71,6 @@ extensibilidad
 Feedback
 first
 Foster
-Foster
 foundation
 framework
 frontend
@@ -80,9 +78,7 @@ Garcia
 gateway
 GCP
 Git
-git
 GitHub
-github
 GitOps
 glossary
 Gmail
@@ -141,7 +137,6 @@ portable
 pr
 prem
 premises
-prevalentes
 profesionistas
 properties
 propose
@@ -194,7 +189,6 @@ wifi
 Word
 work
 www
-YAML
 YAML
 you
 your
