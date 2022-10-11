@@ -26,7 +26,7 @@ Business
 BVS
 BY
 calendar
-canary
+Canary
 CAPEX
 Carol
 category
@@ -53,7 +53,7 @@ creating
 CRI
 Daniel
 declarativamente
-deployment
+Deployment
 deployments
 development
 DevOps
@@ -76,8 +76,8 @@ frontend
 Garcia
 gateway
 GCP
-git
-github
+Git
+GitHub
 GitOps
 glossary
 Gmail
@@ -85,6 +85,7 @@ good
 Google
 help
 hide
+hipervisor
 https
 IaaS
 IaC
@@ -142,6 +143,8 @@ PRs
 pull
 Rael
 Ramer
+relevantes
+reprogramados
 request
 requests
 resiliencia
