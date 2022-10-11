@@ -38,6 +38,7 @@ Chris
 CI
 Cloud
 clúster
+clústeres
 CNCF
 Code
 commit
@@ -46,6 +47,7 @@ community
 Completed
 concept
 Container
+contenedorizados
 contenerización
 content
 create
