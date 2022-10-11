@@ -2,6 +2,7 @@
 title: 单体应用
 status: Completed
 category: 概念
+tags: ["架构", "", ""]
 ---
 
 ## 是什么
