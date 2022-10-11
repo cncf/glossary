@@ -2,7 +2,7 @@
 title: Clúster
 status: Completed
 category: Tecnología
-tags: ["infraestructura", "arquitectura", ""]
+tags: ["infrastructure", "architecture", ""]
 ---
 
 ## ¿Qué es?
