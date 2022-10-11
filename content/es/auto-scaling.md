@@ -15,7 +15,7 @@ Anteriormente, la infraestructura y las aplicaciones eran diseñadas para consid
 Esta arquitectura implicaba que había más recursos que eran desaprovechados o con cambios rígidos frente a la demanda de los usuarios.
 La rigidez en este caso, incrementa el coste y puede suponer una pérdida de negocios debido a problemas de capacidad.
 
-Aprovechando la nube, la [virtualización](/virtualization) y la [contenerización](/containerization/) de aplicaciones y sus dependencias,
+Aprovechando la nube, la [virtualización](/virtualization) y la [contenerización](/es/containerization/) de aplicaciones y sus dependencias,
 las organizaciones pueden construir aplicaciones que escalan de manera acorde a la demanda de los usuarios.
 Se pueden monitorear la demanda de las aplicaciones y de manera automática escalar las mismas, proporcionando una experiencia al usuario final óptima.
 Tomemos el ejemplo del aumento de la audiencia de Netflix todos los viernes por la noche.
