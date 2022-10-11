@@ -10,7 +10,7 @@ tags: ["infrastructure", "architecture", ""]
 Un clúster es un grupo de ordenadores o aplicaciones que trabajan juntos hacia un objetivo común.
 En el contexto de computación nativa en la nube, el término es aplicado con mayor frecuencia a [Kubernetes](/es/kubernetes/).
 Un clúster de Kubernetes es un conjunto de servicios (o cargas de trabajo) que son ejecutadas en sus propios contenedores, normalmente en ordenadores diferentes.
-El conjunto de todos estos servicios [contenedorizados](/containerization/), conectados a través de una red, representan un clúster.
+El conjunto de todos estos servicios [contenedorizados](/es/containerization/), conectados a través de una red, representan un clúster.
 
 ## Problema que aborda
 
