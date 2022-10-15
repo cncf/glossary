@@ -38,6 +38,7 @@ community
 Completed
 concept
 conduct
+contenedores
 contenerización
 content
 create
@@ -60,6 +61,7 @@ frontend
 Garcia
 gateway
 GCP
+git
 github
 glossary
 good
@@ -69,6 +71,8 @@ hide
 https
 IaC
 iamnoah
+Infraestructura
+inmutable
 interface
 io
 issue
@@ -87,6 +91,7 @@ laptop
 localizations
 main
 markdown
+maquinas
 md
 menu
 mesh
@@ -138,6 +143,7 @@ URL
 Value
 Vazquez
 Victor
+virtuales
 virtualización
 vs
 weight
