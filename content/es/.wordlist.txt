@@ -114,7 +114,6 @@ laptop
 localizations
 loop
 main
-maquinas
 markdown
 md
 menu
