@@ -5,9 +5,9 @@ category: Propiedad
 tags: ["infrastructure", "", ""]
 ---
 
-Infraestructura inmutable se refiere a la infraestructura informática 
-([máquinas virtuales](/virtual-machine/), [contenedores](/container/), dispositivos de red) 
-que no se puede cambiar una vez implementada. 
+Infraestructura inmutable se refiere a la infraestructura informática
+([máquinas virtuales](/virtual-machine/), [contenedores](/container/), dispositivos de red)
+que no se puede cambiar una vez implementada.
 Esto se puede hacer cumplir mediante un proceso automatizado que sobreescriba los cambios no autorizados o
 a través de un sistema que no permita cambios en primer lugar.
 Los contenedores son un buen ejemplo de infraestructura inmutable
