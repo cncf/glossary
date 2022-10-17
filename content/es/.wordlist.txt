@@ -47,6 +47,7 @@ community
 Completed
 concept
 Container
+contenedores
 contenedorizados
 contenerización
 content
@@ -94,6 +95,7 @@ IaC
 iamnoah
 infrastructure
 Initiative
+inmutable
 interface
 issue
 issues
@@ -157,6 +159,7 @@ scripts
 Seokho
 service
 Slack
+sobreescriba
 Spanish
 stack
 Started
@@ -184,6 +187,7 @@ Value
 Vazquez
 Victor
 videos
+virtuales
 virtualización
 virtualizados
 vs
