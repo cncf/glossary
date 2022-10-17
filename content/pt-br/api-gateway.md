@@ -2,6 +2,7 @@
 title: API Gateway
 status: Completed
 category: conceito
+tags: ["redes", "", ""]
 ---
 
 ## O que é
