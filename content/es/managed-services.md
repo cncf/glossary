@@ -12,7 +12,7 @@ Algunos ejemplos incluyen Bases de Datos como Servicio como Amazon RDS o un serv
 
 ## Problema que aborda
 
-La gestión del software es compleja, especialmente si consideramos todas las diferentes tecnologías que componen un stack moderno.
+La gestión del software es compleja, especialmente si consideramos todas las tecnologías diferentes que componen un stack moderno.
 Gestionar cada uno de los aspectos y/o contar con expertos internos capaces de hacerlo puede ser demasiado costoso o no utilizar el tiempo de los ingenieros eficientemente.
 Es probable que tu equipo esté mejor construyendo nuevas capacidades que ocupándose de tareas operativas que pueden ser fácilmente subcontratadas.
 
