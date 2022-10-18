@@ -101,7 +101,15 @@ jobs:
             echo "(DEBUG) Original file path: ./content/en/${FILE_NAME}"
             
             # Actually compare between the old and lastest English terms and log diff in the file
-            git diff ${OLD_BRANCH}..${LATEST_BRANCH} -- ./content/en/${FILE_NAME} > ./outdated/${FILE_NAME}
+            if [[ -f "./content/en/${FILE_NAME}" ]]; then
+              # File exists
+              git diff ${OLD_BRANCH}..${LATEST_BRANCH} -- ./content/en/${FILE_NAME} > ./outdated/${FILE_NAME}
+            else
+              # File dose not exist (e.g, changed, renamed or removed)
+              echo "Could not find ${FILE_NAME} in content/en/" > ./outdated/${FILE_NAME}
+              echo "Need to check if it has been changed, renamed or removed" >> ./outdated/${FILE_NAME}
+            fi
+
         done 
         
         echo "(DEBUG) The outdated files"
