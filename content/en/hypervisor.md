@@ -8,7 +8,7 @@ tags: ["application", "", ""]
 ## What it is
 
 The Hypervisor is a software application that performs [virtualization](/virtualization/)
-by taking advantage of [bare metal machine](/bare-metal-machine/) resources
+by taking the advantage of [bare metal machine](/bare-metal-machine/) resources
 (CPU, Memory, Network, and Storage) and dividing them into sub-parts, 
 and allocating resources according to business logic, to create [virtual machines (VM)](/virtual-machine/) and the ability to run multiple VMs simultaneously.
 In the marketplace, they are available as Type 1 hypervisors that can be installed directly on the physical server, 
