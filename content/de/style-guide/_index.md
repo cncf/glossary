@@ -62,9 +62,9 @@ Das Label **status** ist das zweite einer jeden Definitions-Seite, direkt nach d
 
 Gültige Werte sind die folgenden:
 
-- Abgeschlossen
-- Feedback erwünscht 
-- Nicht begonnen
+- Completed (Abgeschlossen)
+- Feedback Appreciated (Feedback erwünscht)
+- Not Started (Nicht begonnen)
 
 Du kannst jederzeit ein GitHub-Issue für eine bereits bestehende Begriffsdefinition öffnen. Falls Feedback gewünscht wird, wird der Status auf *Feedback erwünscht* geändert.
 
