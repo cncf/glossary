@@ -40,6 +40,7 @@ concept
 conduct
 contenerización
 content
+cortafuegos
 create
 creating
 Daniel
@@ -86,6 +87,7 @@ Language
 laptop
 localizations
 main
+maliciosa
 markdown
 md
 menu
@@ -113,6 +115,7 @@ request
 requests
 Rivas
 scripts
+seguridad
 Seokho
 service
 Slack
