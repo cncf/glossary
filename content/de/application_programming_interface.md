@@ -16,7 +16,6 @@ Sie unterliegt einem gewissen Standard, bei dem die Sprache und die Kanäle der 
 
 Softwareanwendungen können mit der Zeit sehr komplex werden und kleine Änderungen an einer Stelle der Anwendung können fundamentale Auswirkungen auf andere Bereiche der Anwendung haben.
 Um die wachsende Komplexität zu beherrschen werden verschiedene Bereiche voneinander durch Modularisierung entkoppelt oder abstrahiert. Der Grad der Modularisierung kann dabei von internen Bereichen innerhalb einer Anwendung, bis hin zu einer eigenständigen Anwendung reichen (siehe [verteilten Anwendung](/distributed-apps/)). In beiden Fällen jedoch wird eine Standartisierung benötigt, die beschreibt wie die einzelnen Anwendungen oder Anwendungsbereiche miteinader kommunizieren können. 
-Dieses Problem wird weiter durch den Trend hin zu [Microservice Architekturen](/microservices/) verstärkt.
 
 ## Wie es das Problem löst
 
