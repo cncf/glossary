@@ -21,7 +21,7 @@ Die Aktualisierung von Anwendungen ist üblicherweise mit Ausfallzeiten verbunde
 Je nach Anwendung können Ausfallszeiten allerdings gravierende Folgen haben. 
 Das Aktualisieren einzelner Komponenten einer Anwendung um deren kompletten Ausfall zu vermeiden, 
 funktioniert leider nicht immer. Das liegt daran, dass gewisse Aktualisierung, 
-die Inkompatibilit einzelner Komponenten zur Folge haben kann. 
+die Inkompatibilität einzelner Komponenten zur Folge haben kann. 
 Für solche Fälle muss die gesamte Anwendung gleichzeit aktualisiert werden. 
 
 
