@@ -17,7 +17,6 @@ Sie unterliegt einem gewissen Standard, bei dem die Sprache und die Kanäle der 
 Softwareanwendungen können mit der Zeit sehr komplex werden und kleine Änderungen an einer Stelle der Anwendung können fundamentale Auswirkungen auf andere Bereiche der Anwendung haben.
 Das gestaltet eine direkte Kommunikation zwischen verschiedenen Anwendungen in der Praxis oft schwierig.
 Dieses Problem wird weiter durch den Trend hin zu [Microservice Architekturen](/microservices/) verstärkt.
-Das Aufteilen von großen monolithischen Softwareanwendungen in viele kleinere Anwendungen unterstreicht das Kommunikationsproblem.
 
 ## Wie es das Problem löst
 
