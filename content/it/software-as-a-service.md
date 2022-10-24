@@ -23,4 +23,4 @@ Può anche essere difficile rispondere alle richieste e [scalare](/it/scalabilit
 
 Le applicazioni SaaS funzionano senza richiedere uno sforzo particolare al team IT interno all'organizzazione.
 Sono installate, mantenute, aggiornate e messe in sicurezza dal fornitore.
-Problemi di scalabilità, disponibilità e capacità sono gestiti dal fornitore del servizio e, con il pagamento ricorrente, possono essere un modo conveniente per le organizzazioni di sfruttare le applicazioni aziendali.
+Problemi di scalabilità, disponibilità e capacità sono gestiti dal fornitore del servizio e, avendo un modello di pagamento a consumo, possono essere un modo conveniente per le organizzazioni di sfruttare le applicazioni aziendali.
