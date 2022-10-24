@@ -20,6 +20,6 @@ Nel momento in cui le applicazioni iniziano ad essere scalate, diventa più diff
 ## In che modo aiuta
 
 Le architetture ad eventi ne costituiscono un fulcro centrale (ad esempio Kafka).
-Si possono definire i produttori degli eventi (origine) e i consumatori (destinatari), e il fulcro centrale garantisce il flusso degli eventi.
+All'interno di questo tipo di architettura, infatti, si possono definire i produttori degli eventi (origine) e i loro consumatori (destinatari), e il fulcro centrale ne garantisce il flusso corretto.
 Questo tipo di architettura assicura che i servizi rimangano disaccoppiati e che gli eventi vengano correttamente indirizzati dal produttore al consumatore.
 Il produttore prenderà gli eventi in arrivo, solitamente tramite protocollo HTTP, e indirizzerà l'informazione contenuta nell'evento.
