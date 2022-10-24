@@ -1,6 +1,6 @@
 ---
 title: Application Programming Interface
-status: Feedback erwünscht
+status: Completed
 category: Technologie
 ---
 
