@@ -5,7 +5,7 @@ category: Proprietà
 tags: ["fondamenti", "", ""]
 ---
 
-Un'architettura loosely coupled (accoppiata in modo leggero) è uno stile architetturale nel quale i singoli componenti di un'applicazione sono costruiti in modo indipendente l'uno dall'altro (il paradigma opposto è quello delle [architetture tightly coupled](/it/tightly-coupled-architectures/), cioè strettamente accoppiate).
+Un'architettura loosely coupled (debolmente accoppiata) è uno stile architetturale nel quale i singoli componenti di un'applicazione sono costruiti in modo indipendente l'uno dall'altro (si tratta del paradigma opposto a quello delle [architetture tightly coupled](/it/tightly-coupled-architectures/), cioè strettamente accoppiate).
 Ciascun componente, a volte chiamato [microservizio](/it/microservices/), è progettato per eseguire una specifica funzione in modo da poter essere utilizzato da un numero indefinito di altri servizi.
 Questo stile architetturale è generalmente più lento da implementare rispetto ad un'architettura tightly coupled ma garantisce molti benefici, specialmente quando le applicazioni vengono scalate.
 
