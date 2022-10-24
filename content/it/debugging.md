@@ -14,7 +14,7 @@ Un bug è un difetto o un problema che conduce a un risultato sbagliato o inaspe
 
 Lo sviluppo software è un'attività complessa che rende quasi impossibile scrivere codice senza introdurre dei bug.
 Questi bug porteranno ad avere un codice che non funzionerà come si desidera (comportamento indefinito) quando viene eseguito.
-A seconda di quanto è cruciale un'applicazione, i bug possono avere un impatto significativamente negativo, a livello finanziario o anche su vite umane.
+A seconda di quanto è cruciale un'applicazione, i bug possono avere un impatto significativamente negativo, che si parli di aspetti finanziari o persino di vite umane.
 Di solito, il codice di un'applicazione deve passare da diverse tappe o ambienti nei quali viene testato.
 Più è importante un'applicazione, più deve essere accurata la fase di test.
 
