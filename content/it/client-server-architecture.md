@@ -15,7 +15,7 @@ Per esempio, un programma di elaborazione di testi come Microsoft Word può esse
 
 ## Quali problematiche affronta
 
-Un'architettura client-server risolve una grande sfida posta dalle applicazioni self-contained: gli aggiornamenti regolari. Nel caso di un'applicazione self-contained, per ogni aggiornamento gli utenti dovrebbero scaricare e installare l'ultima versione. Immagina di dover scaricare sul tuo computer l'intero catalogo dei prodotti di Amazon prima di essere in grado di poterlo confessare!
+Un'architettura client-server risolve una grande sfida posta dalle applicazioni self-contained: gli aggiornamenti regolari. Nel caso di un'applicazione self-contained, per ogni aggiornamento gli utenti dovrebbero scaricare e installare l'ultima versione. Immagina di dover scaricare sul tuo computer l'intero catalogo dei prodotti di Amazon per poterlo navigare!
 
 ## In che modo aiuta
 
