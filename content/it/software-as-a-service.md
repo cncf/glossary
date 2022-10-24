@@ -9,7 +9,7 @@ tags: ["fondamentali", "piattaforma", ""]
 
 Un Software as a service (SaaS) permette agli utenti di connettersi e utilizzare servizi basati sul cloud tramite Internet.
 Esempi comuni sono le email, i calendari e gli strumenti da ufficio (come Gmail, Amazon Web Services, GitHub, Slack).
-Un SaaS fornisce soluzioni software complete con una tariffa ricorrente.
+Un SaaS fornisce soluzioni software complete con una tariffa dipendente dal consumo effettivo.
 Tutte le operazioni e le attività di manutenzione e i dati dell'applicazione sono gestite dal fornitore del servizio.
 
 ## Quali problematiche affronta
