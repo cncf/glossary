@@ -11,7 +11,7 @@ In un'architettura client-server la logica (o il codice) che forma un'applicazio
 In questo esempio, le email in uscita sono inviate dal client (l'applicazione web in esecuzione sul web browser) a un server (i computer di Gmail, che inoltrano le email in uscita ai rispettivi destinatari).
 
 Questo tipo di architettura è in opposizione alle applicazioni self-contained (come le applicazioni desktop) che eseguono tutto il lavoro da un unico posto.
-Per esempio, un programma di elaborazione di testi come Microsoft Word può essere installato ed eseguito interamente sul tuo computer.
+Per esempio, un programma di elaborazione di testi come Microsoft Word può essere installato ed eseguito interamente sul computer di ogni singolo utente.
 
 ## Quali problematiche affronta
 
