@@ -6,7 +6,7 @@ category: concetto
 
 ## Cos'è
 
-Un'architettura ad eventi è un'architettura software che promuove la creazione, la processazione e la consumazione di eventi.
+Un'architettura basati sugli eventi è un paradigma di progettazione software che promuove la creazione, l'elaborazione e il consumo di eventi.
 Un evento è un qualunque cambiamento di stato di un'applicazione.
 Per esempio, richiedere una corsa su un'applicazione di ride-sharing rappresenta un evento.
 Questo tipo di architettura crea la struttura nella quale gli eventi possono essere correttamente indirizzati dalla loro origine (l'applicazione che richiede una corsa) al destinatario desiderato (l'applicazione degli autisti disponibili nelle vicinanze).
