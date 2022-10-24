@@ -21,7 +21,7 @@ Più è importante un'applicazione, più deve essere accurata la fase di test.
 ## In che modo aiuta
 
 Quando si scopre un bug, gli ingegneri devono eseguire il debug (ad esempio l'individuazione e la risoluzione di bug) dell'applicazione per diminuire i comportamenti indesiderati di sistemi in produzione.
-Il debugging non è un'attività semplice, in quanto gli ingegneri devono rintracciare l'origine del comportamento indesiderato. È richiesta la conoscenza del codice stesso e del contesto di esecuzione.
+Il debugging non è un'attività semplice, in quanto gli sviluppatori devono rintracciare l'origine del comportamento indesiderato. È richiesta la conoscenza del codice stesso e del contesto di esecuzione.
 È qui che si rivelano utili diverse tecniche e strumenti di debug.
 L'analisi dei log, delle tracce e delle metriche, per esempio, sono utilizzate per eseguire il debugging direttamente in produzione.
 Gli sviluppatori possono utilizzare il debug interattivo per analizzare il codice in fase di esecuzione e il relativo contesto di esecuzione.
