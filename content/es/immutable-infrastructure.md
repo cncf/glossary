@@ -19,7 +19,7 @@ las infraestructuras inmutables facilitan la identificación y mitigación de lo
 Operar un sistema de este tipo se vuelve mucho más sencillo
 porque los administradores pueden hacer suposiciones al respecto.
 Después de todo, saben que nadie cometió errores o cambios que se olvidaron de comunicar.
-La infraestructura inmutable va de la mano con [infraestructura como código](es/infrastructure_as_code)
+La infraestructura inmutable va de la mano con [infraestructura como código](/es/infrastructure_as_code/)
 donde toda la automatización necesaria para crear la infraestructura se almacena en el control de versiones (por ejemplo, Git).
 Esta combinación de inmutabilidad y control de versiones significa que
 existe un registro de auditoría duradero de cada cambio autorizado en un sistema.
