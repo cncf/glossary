@@ -1,7 +1,7 @@
 ---
 title: Fiabilidad
 status: Feedback Appreciated
-category: property
+category: Propiedad
 tags: ["fundamentals", "", ""]
 ---
 
