@@ -1,0 +1,73 @@
+
+
+# UI strings. Buttons and similar.
+
+[ui_pager_prev]
+other = "戻る"
+
+[ui_pager_next]
+other = "進む"
+
+[ui_read_more]
+other = "続きを読む"
+
+[ui_search]
+other = "サイト内検索"
+
+# Used in sentences such as "Posted in News"
+[ui_in]
+other = "in"
+
+# Used in sentences such as "All Tags"
+[ui_all]
+other = "すべての"
+[ui_see_all]
+other = "すべてを表示"
+
+# Footer text
+[footer_all_rights_reserved]
+other = "All Rights Reserved"
+
+[footer_privacy_policy]
+other = "プライバシーポリシー"
+
+
+# Post (blog, articles etc.)
+[post_byline_by]
+other = "By"
+[post_created]
+other = "作成者"
+[post_last_mod]
+other = "最終変更"
+[post_edit_this]
+other = "ページを編集"
+[post_create_child_page]
+other = "子ページの作成"
+[post_create_issue]
+other = "Issueの報告"
+[post_create_project_issue]
+other = "プロジェクトIssueの作成"
+[post_posts_in]
+other = "Posts in"
+[post_reading_time]
+other = "分程度の文章"
+
+# Print support
+[print_printable_section]
+other = "このセクションの複数ページにわたる印刷用ビューです。"
+[print_click_to_print]
+other = "印刷する場合はこちらをクリック"
+[print_show_regular]
+other = "通常表示に戻る"
+[print_entire_section]
+other = "セクション全体を印刷する"
+
+# Feedback section
+[feedback_title]
+other = "フィードバック"
+[feedback_question]
+other = "このページは参考になりましたか？"
+[feedback_answer_yes]
+other = "はい"
+[feedback_answer_no]
+other = "いいえ"

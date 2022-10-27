@@ -109,7 +109,6 @@ languageName ="中文(Chinese)"
 contentDir = "content/zh-cn"
 weight = 7
 
-
 [languages.bn]
 title = "ক্লাউড নেটিভ শব্দকোষ"
 description = "CNCF ক্লাউড নেটিভ শব্দকোষ প্রকল্পটি ক্লাউড নেটিভ অ্যাপ্লিকেশন সম্পর্কে কথা বলার সময় ব্যবহৃত সাধারণ পদগুলির জন্য একটি রেফারেন্স হিসাবে ব্যবহার করার উদ্দেশ্যে।"
@@ -117,6 +116,12 @@ languageName = "বাংলা(Bengali)"
 contentDir = "content/bn"
 weight = 8
 
+[languages.ja]
+title = "クラウドネイティブ用語集"
+description = "CNCFのクラウドネイティブ用語集は、クラウドネイティブアプリケーションに関連して使われる一般的な用語のリファレンスとして使われる目的で生まれました。"
+languageName ="日本語(Japanese)"
+contentDir = "content/ja"
+weight = 9
 
 [markup]
   [markup.goldmark]
