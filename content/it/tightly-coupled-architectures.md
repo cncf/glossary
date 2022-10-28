@@ -11,5 +11,5 @@ Generalmente sono più semplici da implementare rispetto a uno stile architettur
 Inoltre, tendono a richiedere rollout coordinati dei componenti, cosa che può diventare un freno alla produttività degli sviluppatori.
 
 Le architetture tightly coupled sono un modo abbastanza tradizionale di costruire applicazioni.
-Pur non essendo necessariamente coerenti con tutte le best practice di sviluppo di [microservizi](/it/microservices), possono essere utili in circostanze specifiche.
+Pur non essendo necessariamente coerenti con tutte le best practice di sviluppo di [microservizi](/it/microservices/), possono essere utili in circostanze specifiche.
 Tendono ad essere più veloci e più semplici da implementare e, come le [applicazioni monolitiche](/it/monolithic-apps/), possono velocizzare il ciclo iniziale di sviluppo.
