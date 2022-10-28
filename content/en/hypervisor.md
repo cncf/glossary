@@ -15,6 +15,7 @@ In the marketplace, they are available as Type 1 hypervisors that can be install
 giving it direct access to system hardware resources.
 Type 2 hypervisors, on the other hand, are installed and 
 executed by the operating system and allow the operating system to make hardware decisions.
+
 ## Problem it addresses
 
 Traditionally, a server could only run one operating system at a time.
