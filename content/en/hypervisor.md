@@ -27,7 +27,7 @@ So that the data of one cannot be accessed by the other.
 
 ## How it helps
 
-The Hypervisor is used to create and allocate resources to virtual machines until we reach the saturating performance of the physical machines,
+The Hypervisor is used to create and allocate resources to virtual machines until we reach the saturating performance of the physical machines.
 conserving resources and reducing energy consumption.
 A hypervisor simplifies the migration in its current state in the event of a failure on the host server.
 The reason for this is that it maintains snapshots of the workload so that it can be transported from one machine to another.
