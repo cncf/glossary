@@ -28,7 +28,6 @@ So that the data of one cannot be accessed by the other.
 ## How it helps
 
 The Hypervisor is used to create and allocate resources to virtual machines until we reach the saturating performance of the physical machines.
-The reason for this is that it maintains snapshots of the workload so that it can be transported from one machine to another.
 In the context of [cloud computing](/cloud-computing/), the hypervisor becomes an effective tool.
 Organizations can migrate their applications to the cloud to take advantage of [cloud native apps](/cloud-native-apps/) and autoscale their services.
 Over time, the use of this [multi-tenant](/multitenancy/) software has reduced computing costs.
