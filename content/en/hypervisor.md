@@ -19,7 +19,7 @@ executed by the operating system and allow the operating system to make hardware
 ## Problem it addresses
 
 Traditionally, a server could only run one operating system at a time.
-Devoting all the resources of the host machine to a single service was not the most effective way.
+Devoting all the resources of that server to just a single application was not the most effective way.
 Considering the capabilities of a server it can run multiple applications.
 There is a need for software that can provide the same environment as a physical machine to the applications within it.
 Multiply the environments and commit resources to them as needed, ensuring their security simultaneously.
