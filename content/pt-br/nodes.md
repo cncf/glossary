@@ -16,8 +16,8 @@ um computador virtual, conhecido como [VM](/pt-br/virtual-machine/), ou até mes
 ## Problema relacionado
 
 Embora uma aplicação possa (e muitas fazem) ser executada em uma única máquina, existem alguns riscos envolvidos com isso. 
-Ou seja, a falha subjacente do sistema interromperá o aplicativo. 
-Para resolver isso, os desenvolvedores começaram a criar [aplicatições distribuídas](/distributed-apps/) onde cada processo é executado em seu próprio nó. 
+Ou seja, a falha subjacente do sistema interromperá a aplicação. 
+Para resolver isso, os desenvolvedores começaram a criar [aplicações distribuídas](/distributed-apps/) onde cada processo é executado em seu próprio nó. 
 Assim, os nós executam as aplicações ou os processos como parte de um grupo formando um [cluster](/pt-br/cluster/), ou grupo de nós que trabalham juntos para alcançar um objetivo comum.
 
 ## Como isso ajuda
