@@ -19,7 +19,7 @@ Un actor malintencionado puede infiltrarse en la red, interceptar la comunicaci�
  
 ## ¿Cómo ayuda?
 
-Un firewall examina el tráfico de la red utilizando reglas predefinidas.
+Un cortafuegos examina el tráfico de la red utilizando reglas predefinidas.
 Se filtra todo el tráfico y se bloquea cualquier tráfico que provenga de fuentes sospechosas o no confiables.
 — solo ingresa el tráfico configurado para ser aceptado.
 Los cortafuegos establecen una barrera entre las redes de confianza internas seguras y controladas.
