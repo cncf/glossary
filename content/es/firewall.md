@@ -17,7 +17,7 @@ Debido a este comportamiento predeterminado, asegurar una red es un desafío.
 Por ejemplo, en una aplicación bancaria basada en [microservicios](es/microservicios/), los servicios se comunican entre sí mediante la transmisión de datos financieros altamente confidenciales a través de su red.
 Un actor malintencionado puede infiltrarse en la red, interceptar la comunicación y causar daños si no se ha instalado un cortafuegos.
  
-## como ayuda
+## ¿Cómo ayuda?
 
 Un firewall examina el tráfico de la red utilizando reglas predefinidas.
 Se filtra todo el tráfico y se bloquea cualquier tráfico que provenga de fuentes sospechosas o no confiables.
