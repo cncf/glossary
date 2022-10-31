@@ -1,5 +1,5 @@
 ---
-title: cortafuegos
+title: Cortafuegos
 status: Completed
 category: Tecnología
 tags: ["security", "", ""]
