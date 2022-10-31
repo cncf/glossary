@@ -1,8 +1,8 @@
 ---
 title: cortafuegos
-status: Terminada
+status: Completed
 category: Tecnología
-tags: ["seguridad", "", ""]
+tags: ["security", "", ""]
 ---
 
 ## Lo que es
