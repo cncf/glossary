@@ -2,7 +2,7 @@
 title: Self Healing
 status: Completed
 category: Proprietà
-tags: ["infrastrutura", "architettura", ""]
+tags: ["infrastruttura", "architettura", ""]
 ---
 
 Un sistema self-healing (auto rigenerante) è capace di risolvere alcuni tipi di errore senza alcun intervento umano.
