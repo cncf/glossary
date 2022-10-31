@@ -5,7 +5,7 @@ category: Tecnología
 tags: ["security", "", ""]
 ---
 
-## Lo que es
+## ¿Qué es?
 
 Un cortafuegos es un sistema que filtra el tráfico de red sobre la base de reglas específicas.
 Los cortafuegos pueden ser hardware, software o una combinación de ambos.
