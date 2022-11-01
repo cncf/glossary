@@ -9,7 +9,7 @@ tags: ["application", "", ""]
 
 Les applications Cloud Native sont des applications conçues pour tirer avantage des innovations du [cloud computing](/cloud-computing/).
 Ces applications s'intègrent facilement avec leurs architectures cloud respective, en tirant avantage des ressources proposées par le Cloud et de leur capacité de [mise à l'échelle](/scalability/).
-Il fait aussi référence aux applications qui tirent avantage d'infrastructure pilotée par le cloud computing.
+Ce terme fait aussi référence aux applications qui tirent avantage d'infrastructure pilotée par le cloud computing.
 Aujourd'hui, les applications Cloud native incluent les applications qui fonctionnent dans le centre de données des fournisseurs de cloud ainsi que les applications qui tournent sur des plateformes hébergées dans les centres de données internes aux entreprises.
 
 ## Problème auquel il répond
@@ -21,7 +21,7 @@ Par exemple, les applications nécessitant une intervention manuelle pour démar
 
 ## Quel en est l'utilité
 
-Bien qu'il n'y ait pas de solution miracle pour qu'une application soit une application cloud native, les applications
+Bien qu'il n'y ait pas de solution miracle pour qu'une application soit définie comme cloud native, les applications
 Cloud Native présentent des points en commun.
 Les applications Cloud Native sont résilientes, elles sont manipulables et tirent profit de l'ensemble des services Cloud dans lequel elles
 sont déployées.
