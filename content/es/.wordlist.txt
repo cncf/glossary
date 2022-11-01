@@ -55,6 +55,7 @@ create
 creating
 CRI
 Daniel
+Datadog
 declarativamente
 Deployment
 deployments
@@ -70,6 +71,7 @@ escalarse
 escaneos
 existing
 extensibilidad
+externalizar
 Feedback
 first
 Foster
@@ -126,6 +128,7 @@ Mike
 mitigarse
 monitorean
 monitorear
+monitoreo
 Morgan
 Native
 needed
@@ -150,6 +153,7 @@ PRs
 pull
 Rael
 Ramer
+RDS
 relevantes
 reprogramados
 request
