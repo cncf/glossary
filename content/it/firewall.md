@@ -14,7 +14,7 @@ I firewall possono essere hardware, software, o una combinazione di entrambi.
 
 Di default, un network permetterà a chiunque di entrare e uscire finché rispetta le regole di routing del network.
 A causa di questo comportamento di default, mettere in sicurezza un network è complesso.
-Per esempio, in un'applicazione bancaria basata su [microservizi](/it/microservices) i servizi comunicano tra loro trasmettendo all'interno del network dati finanziari altamente sensibili.
+Per esempio, in un'applicazione bancaria basata su [microservizi](/it/microservices/) i servizi comunicano tra loro trasmettendo all'interno del network dati finanziari altamente sensibili.
 Un malintenzionato può infiltrarsi nel network, intercettare le comunicazioni e creare dei danni, se non c'è un firewall attivo.
 
 ## In che modo aiuta
