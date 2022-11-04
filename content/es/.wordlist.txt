@@ -141,6 +141,7 @@ of
 on
 on-premises
 Open
+PaC
 Paganini
 Política
 portable
