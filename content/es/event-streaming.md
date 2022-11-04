@@ -1,7 +1,7 @@
 ---
 title: Transmisión de eventos
 status: Completed
-category: concepto
+category: Concepto
 ---
 
 ## ¿Qué es?
