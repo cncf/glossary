@@ -1,7 +1,7 @@
 ---
 title: Política como código (PaC)
 status: Feedback Appreciated
-category: concepto
+category: Concepto
 tags: ["", "", ""]
 ---
 
