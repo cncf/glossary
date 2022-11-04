@@ -11,7 +11,7 @@ Imagine un servicio transmitiendo todo lo que hace a todos los demás servicios.
 Cada actividad realizada por un servicio se denomina evento, por lo tanto, transmisión de eventos.
 Por ejemplo, NASDAQ recibe actualizaciones sobre los precios de las acciones y materias primas cada segundo.
 Si tuviera una aplicación que monitoreara un conjunto específico de acciones, le gustaría recibir esa información casi en tiempo real.
-yahoo! Finanzas proporciona una [API] (https://glossary.cncf.io/application-programming-interface/) que extrae de NASDAQ y envía (o transmite) la información (o eventos) de su aplicación a cualquier aplicación que se suscriba a ella. .
+Yahoo! Finance proporciona una [API](/es/application-programming-interface/) que extrae de NASDAQ y envía (o transmite) la información (o eventos) de su aplicación a cualquier aplicación que se suscriba a ella.
 Los datos que se envían, así como los cambios en esos datos (precios de las acciones), son los eventos, mientras que el proceso de enviarlos a una aplicación es la transmisión de eventos.
 
 ## Problema que aborda
