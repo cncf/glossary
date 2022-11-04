@@ -6,7 +6,7 @@ category: Concepto
 
 ## ¿Qué es?
 
-La transmisión de eventos es un enfoque en el que el software envía datos de eventos de una aplicación a otra para comunicar continuamente lo que están haciendo.
+La transmisión de eventos es un enfoque en el que el software envía datos de eventos de una aplicación a otra para comunicar continuamente lo que esta haciendo.
 Imagine un servicio transmitiendo todo lo que hace a todos los demás servicios.
 Cada actividad realizada por un servicio se denomina evento, por lo tanto, transmisión de eventos.
 Por ejemplo, NASDAQ recibe actualizaciones sobre precios de acciones y materias primas cada segundo.
