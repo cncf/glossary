@@ -53,16 +53,4 @@
 {{ else }}
 {{ template "_internal/google_analytics_async.html" . }}
 {{ end }}
-
-<!-- also include GA4 property -->
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-T6VMPWFRDW"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-T6VMPWFRDW');
-</script>
-
 {{ end }}
