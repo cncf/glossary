@@ -50,6 +50,7 @@ directly
 ej
 Emiliano
 entregables
+evento
 existing
 extensibilidad
 Feedback
@@ -131,6 +132,7 @@ terms
 the
 title
 toc
+transmisión
 triaging
 true
 update
