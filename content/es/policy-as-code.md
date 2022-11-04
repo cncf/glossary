@@ -17,7 +17,7 @@ p.ej. políticas de seguridad que prohíben almacenar secretos en el código fue
 para ejecutar un contenedor con permisos de superusuario o para almacenar algunos datos fuera de una región geográfica específica.
 Se requiere de mucha mano de obra y es propenso a errores para los desarrolladores y revisores
 verificar manualmente las aplicaciones e infraestructura contra las políticas documentadas.
-La verificación manual de las políticas no puede cumplir con los requisitos de capacidad de respuesta y escala de las aplicaciones nativas de la nube.
+La verificación manual de las políticas no puede cumplir con los requisitos de capacidad de respuesta y escala de las aplicaciones nativas para la nube.
 
 ## ¿Cómo ayuda?
 
