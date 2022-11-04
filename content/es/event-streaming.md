@@ -22,7 +22,7 @@ A medida que los datos se vuelven más en tiempo real, escalar una solución de 
 Abrir una conexión una vez y permitir que los eventos fluyan es ideal para la recopilación en tiempo real.
 La cantidad de datos que se generan está creciendo exponencialmente y, con eso, el estado de los datos está en constante cambio. Los desarrolladores y usuarios deben poder ver esos datos casi en tiempo real.
 
-## como ayuda
+## ¿Cómo ayuda?
 
 La transmisión de eventos permite que los cambios de datos se comuniquen desde la fuente al receptor.
 En lugar de esperar a que los servicios soliciten información, el servicio transmite continuamente todos sus eventos (o actividades).
