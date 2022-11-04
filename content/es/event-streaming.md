@@ -19,7 +19,7 @@ Los datos que se envían, así como los cambios en esos datos (precios de las ac
 Tradicionalmente, Yahoo! Finance usaría solicitudes TCP únicas.
 Esto sería muy ineficiente ya que requeriría la creación de una conexión para cada evento.
 En medida que los datos se vuelven más en tiempo real, escalar una solución de este tipo se vuelve ineficiente.
-Abrir una conexión una vez y permitir que los eventos fluyan es ideal para la recopilación en tiempo real.
+Abrir una conexión solo una vez y permitir que los eventos fluyan, es ideal para la recopilación en tiempo real.
 La cantidad de datos que se generan está creciendo exponencialmente y, con eso, el estado de los datos está en constante cambio. Los desarrolladores y usuarios deben poder ver esos datos casi en tiempo real.
 
 ## ¿Cómo ayuda?
