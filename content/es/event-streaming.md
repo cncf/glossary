@@ -4,7 +4,7 @@ status: Completed
 category: concepto
 ---
 
-## Lo que es
+## ¿Qué es?
 
 La transmisión de eventos es un enfoque en el que el software envía datos de eventos de una aplicación a otra para comunicar continuamente lo que están haciendo.
 Imagine un servicio transmitiendo todo lo que hace a todos los demás servicios.
