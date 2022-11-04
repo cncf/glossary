@@ -1,6 +1,6 @@
 ---
 title: Transmisión de eventos
-status: Terminada
+status: Completed
 category: concepto
 ---
 
