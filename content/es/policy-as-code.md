@@ -15,8 +15,8 @@ Esto reemplaza el modelo tradicional en el que las políticas se documentan en f
 La creación de aplicaciones e infraestructuras a menudo está limitada por muchas políticas definidas por una organización,
 p.ej. políticas de seguridad que prohíben almacenar secretos en el código fuente,
 para ejecutar un contenedor con permisos de superusuario o para almacenar algunos datos fuera de una región geográfica específica.
-Requiere mucha mano de obra y es propenso a errores para los desarrolladores y revisores
-verifique manualmente las aplicaciones y la infraestructura contra las políticas documentadas.
+Se requiere de mucha mano de obra y es propenso a errores para los desarrolladores y revisores
+verificar manualmente las aplicaciones e infraestructura contra las políticas documentadas.
 La verificación manual de las políticas no puede cumplir con los requisitos de capacidad de respuesta y escala de las aplicaciones nativas de la nube.
 
 ## ¿Cómo ayuda?
