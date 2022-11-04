@@ -5,7 +5,7 @@ category: concepto
 tags: ["", "", ""]
 ---
 
-## Lo que es
+## ¿Qué es?
 
 Política como código es la práctica de almacenar la definición de políticas como uno o más archivos en forma procesable y legible por máquina.
 Esto reemplaza el modelo tradicional en el que las políticas se documentan en forma legible por humanos, en documentos separados.
