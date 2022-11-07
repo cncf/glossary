@@ -74,6 +74,7 @@ existing
 extensibilidad
 externalizar
 Feedback
+Finance
 first
 Foster
 foundation
@@ -129,8 +130,10 @@ Mike
 mitigarse
 monitorean
 monitorear
+monitoreará
 monitoreo
 Morgan
+NASDAQ
 Native
 needed
 Netflix
@@ -179,6 +182,7 @@ submitting
 subrúbricas
 Subversion
 tags
+TCP
 technology
 TEMPLATE
 term
@@ -205,6 +209,7 @@ wifi
 Word
 work
 www
+Yahoo
 YAML
 you
 your
