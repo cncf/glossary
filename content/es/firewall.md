@@ -1,5 +1,5 @@
 ---
-title: Cortafuegos
+title: Firewall
 status: Completed
 category: Tecnología
 tags: ["security", "", ""]
