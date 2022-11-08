@@ -19,10 +19,10 @@ Um hier Verwirrungen zu vermeiden, wird für letzeres eher der Begriff "Zero-Dow
 
 Die Aktualisierung von Anwendungen ist üblicherweise mit Ausfallzeiten verbunden. 
 Je nach Anwendung können Ausfallszeiten allerdings gravierende Folgen haben. 
-Das Aktualisieren einzelner Komponenten einer Anwendung, um deren kompletten Ausfall zu vermeiden, 
-funktioniert leider nicht immer. Das liegt daran, dass gewisse Aktualisierung, 
+Das Aktualisieren einzelner Komponenten einer Anwendung funktioniert leider nicht immer reibungslos. 
+Das liegt daran, dass eine Aktualisierung, 
 die Inkompatibilität einzelner Komponenten zur Folge haben kann. 
-Für solche Fälle müssen alle Komponente der Anwendung gleichzeitig aktualisiert werden. 
+Für solche Fälle müssen alle Komponenten der Anwendung gleichzeitig aktualisiert werden. 
 
 
 ## Wie es das Problem löst
