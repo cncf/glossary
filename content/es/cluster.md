@@ -1,7 +1,7 @@
 ---
 title: Clúster
 status: Completed
-category: Tecnología
+category: Concepto
 tags: ["infrastructure", "architecture", ""]
 ---
 
@@ -19,11 +19,11 @@ Un software que es ejecutado en un solo ordenador es un único punto de fallo
 algún sistema crítico para el negocio puede quedar fuera de funcionamiento.
 Es por esto que el software moderno se construye generalmente como [aplicaciones distribuidas](/distributed-apps), agrupadas en clústeres.
 
-
 ## ¿Cómo ayuda?
 
 Las aplicaciones distribuidas en clúster se ejecutan en varias máquinas u ordenadores, eliminando un único punto de fallo.
 Pero construir sistemas distribuidos es difícil.
 De hecho, es una disciplina informática en sí misma.
-La necesidad de sistemas globales y los años de prueba y error llevaron al desarrollo de un nuevo tipo de stack de tecnología: [tecnologías nativas para la nube](/es/cloud-native-tech/).
+La necesidad de sistemas globales y los años de prueba y error llevaron al desarrollo de un nuevo tipo de stack de tecnología:
+[tecnologías nativas para la nube](/es/cloud-native-tech/).
 Estas nuevas tecnologías son los bloques de construcción que facilitan el funcionamiento y la creación de sistemas distribuidos.
