@@ -1,14 +1,14 @@
 ---
-title: Technologia Cloud Native
+title: Tecnologia Cloud Native
 status: Completed
 category: Concetto
 ---
 
 ## Cos'è
 
-Le tecnologie _cloud native_, a cui ci si riferisce anche con il termine _cloud native stack_, sono le tecnologie utilizzate per la creazione di [applicazioni _cloud native_](/it/cloud-native-apps/). Consentendo alle organizzazioni di implementare e gestire applicazioni scalabili in contesti moderni e dinamici quali le piattaforme cloud (pubbliche, private o ibride), mantengono la "promessa del cloud" e sfruttano al massimo i benefici del [_cloud computing_](/it/cloud-computing/). Sono progettate da zero con l'intento di impiegare le funzionalità di cloud computing e [container](/it/container/). Il [mesh di servizi](/it/service-mesh/), i [microservizi](/it/microservices/) e le [infrastrutture immutabili](/it/immutable-infrastructure/) sono esempi di questo approccio. 
+Le tecnologie _cloud native_, a cui ci si riferisce anche con il termine _cloud native stack_, sono le tecnologie utilizzate per la creazione di [applicazioni _cloud native_](/it/cloud-native-apps/). Consentendo alle organizzazioni di implementare e gestire applicazioni scalabili in contesti moderni e dinamici quali le piattaforme cloud (pubbliche, private o ibride), mantengono la "promessa del cloud" e sfruttano al massimo i benefici del [_cloud computing_](/it/cloud-computing/). Sono progettate da zero con l'intento di impiegare le funzionalità di cloud computing e [container](/it/container/). Il [mesh di servizi](/it/service-mesh/), i [microservizi](/it/microservices/) e le [infrastrutture immutabili](/it/immutable-infrastructure/) sono esempi di questo approccio.
 
-## Quali problematiche affronta 
+## Quali problematiche affronta
 
 Il _cloud native stack_ è formato da molte categorie di tecnologie diverse tra loro; ciascuna si propone di risolvere un problema specifico. Consultando il [CNCF Cloud Native Landscape](https://landscape.cncf.io/), potrai renderti conto di quante aree differenti coinvolga. In linea generale, il _cloud native stack_ affronta un gruppo principale di sfide, ossia gli aspetti negativi dei modelli operativi IT tradizionali. Fra gli altri vi sono: la difficoltà di creare applicazioni scalabili, _fault-tolerant_ (tolleranti agli errori) e [_self-healing_](/it/self-healing/) (auto riparanti), o anche l'utilizzo inefficiente delle risorse.
 
