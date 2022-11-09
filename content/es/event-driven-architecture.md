@@ -6,7 +6,7 @@ category: Concepto
 
 ## ¿Qué es?
 
-La arquitectura basada en eventos es una arquitectura de software que promueve la creación, procesamiento y consumo de eventos. Un evento es cualquier cambio en el estado de una aplicación. Por ejemplo, solicitar un viaje en una aplicación de viajes compartidos es un evento. Esta arquitectura crea una estructura en la cual los eventos pueden ser enviados desde su origen (la aplicación solicitando el viaje) a los receptores deseados (las aplicaciones de conductores cercanos).
+La arquitectura basada en eventos es una arquitectura de software que promueve la creación, procesamiento y consumo de eventos. Un evento es cualquier cambio en el estado de una aplicación. Por ejemplo, solicitar un viaje en una aplicación de viajes compartidos es un evento. Esta arquitectura crea la estructura en la cual los eventos pueden ser enviados desde su origen (la aplicación solicitando el viaje) a los receptores deseados (las aplicaciones de conductores cercanos).
 
 ## Problema que aborda
 
