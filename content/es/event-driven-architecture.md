@@ -2,7 +2,6 @@
 title: Arquitectura Basada en Eventos
 status: Feedback Appreciated
 category: Concepto
-tags: ["", "", ""]
 ---
 
 ## ¿Qué es?
