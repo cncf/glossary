@@ -2,6 +2,7 @@
 title: Digital Certificate
 status: Feedback Appreciated
 category: technology
+tags: ["security", "", ""]
 ---
 
 ## What it is

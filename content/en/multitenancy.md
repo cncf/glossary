@@ -2,6 +2,7 @@
 title: Multitenancy
 status: Completed
 category: Property
+tags: ["architecture", "property", ""]
 ---
 
 ## What it is
