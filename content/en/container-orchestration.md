@@ -20,5 +20,6 @@ as well as [distributed systems](/distributed-systems) in general,
 are hard if not impossible to manage manually.   
 
 ## How it helps
-Container orchestration, provides a declarative method of automating much of the work, which makes the operational complexity manageable for development and operations, or DevOps. 
+Container orchestration provides a declarative method of automating much of the work, 
+which makes the operational complexity manageable for software engineering teams.
 This includes a variety of tasks that software teams must perform in order to manage the lifecycle of a container, such as provisioning, deployment, scaling (both up and down), networking, load balancing, and other activities.
