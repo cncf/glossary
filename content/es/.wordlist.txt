@@ -5,6 +5,7 @@ Aniszczyk
 Anyul
 API
 APIs
+App
 application
 Appreciated
 architecture
@@ -66,16 +67,20 @@ DigitalOcean
 directly
 ej
 Emiliano
+Engine
 entregables
 escalarse
 escaneos
+evento
 existing
 extensibilidad
 externalizar
 Feedback
+Finance
 first
 Foster
 foundation
+Foundry
 framework
 frontend
 fundamentals
@@ -90,8 +95,10 @@ Gmail
 good
 Google
 help
+Heroku
 hide
 hipervisor
+HTTP
 https
 IaaS
 IaC
@@ -109,6 +116,7 @@ Jihoon
 jmo
 join
 Jones
+Kafka
 Katelin
 Kubernetes
 Language
@@ -128,8 +136,10 @@ Mike
 mitigarse
 monitorean
 monitorear
+monitoreará
 monitoreo
 Morgan
+NASDAQ
 Native
 needed
 Netflix
@@ -142,7 +152,9 @@ on
 on-premises
 Open
 PaC
+PaaS
 Paganini
+platform
 Política
 portable
 pr
@@ -180,6 +192,7 @@ submitting
 subrúbricas
 Subversion
 tags
+TCP
 technology
 TEMPLATE
 term
@@ -187,6 +200,7 @@ terms
 the
 title
 toc
+transmisión
 triaging
 true
 trunk
@@ -205,6 +219,7 @@ wifi
 Word
 work
 www
+Yahoo
 YAML
 you
 your
