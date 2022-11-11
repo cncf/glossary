@@ -14,7 +14,10 @@ managing [containerized](/containerization/) applications at scale
 (just like the OS on your laptop that manages your apps).
 
 ## Problem it addresses 
-The rise of [Cloud Native Apps](/cloud-native-apps/) and [technologies](/cloud-native-tech/) as well as the fast changing demands of modern businesses introduced a new set of problems. Managing microservices, security and network related things at scale as well as distributed system in general are hard if not impossible to manage manually.   
+The rise of [Cloud Native Apps](/cloud-native-apps/) and [technologies](/cloud-native-tech/) 
+as well as the fast-changing demands of modern businesses introduced a new set of problems. Managing [microservices](/microservices), security, and network-related things at scale, 
+as well as [distributed systems](/distributed-systems) in general, 
+are hard if not impossible to manage manually.   
 
 ## How it helps
 Container orchestration, provides a declarative method of automating much of the work, which makes the operational complexity manageable for development and operations, or DevOps. 
