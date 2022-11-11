@@ -151,8 +151,8 @@ of
 on
 on-premises
 Open
-PaC
 PaaS
+PaC
 Paganini
 platform
 Política
