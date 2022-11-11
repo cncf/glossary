@@ -1,29 +1,29 @@
 ---
-title: Debugging
-status: Completed
-category: concept
-tags: ["application", "", ""]
+título: Depuración
+Estado: COMPLETADO
+categoría: concepto
+etiquetas: ["aplicación", "", ""]
 ---
 
-## What it is
+## Lo que es
 
-Debugging is the process or activity of finding and resolving bugs (or errors) from computer programs, software, or systems to get the desired result. 
-A bug is a defect or a problem leading to incorrect or unexpected results.
+La depuración es el proceso o actividad de encontrar y resolver errores (bugs) de programas, software o sistemas informáticos para obtener el resultado deseado.
+Un error es un defecto o un problema que conduce a resultados incorrectos o inesperados.
 
-## Problem it addresses
+## Problema que aborda
 
-Software development is a complex activity that makes it nearly impossible to write code without introducing bugs. 
-Those bugs lead to code that will likely not function as desired (undefined behavior) when executed. 
-Depending on how critical an application is, bugs can have a significant negative impact — financially or even on human lives. 
-Usually, application code has to go through different stages or environments where it gets tested. 
-The more critical an application is, the more accurate the testing has to be. 
+El desarrollo de software es una actividad compleja que hace que sea casi imposible escribir código sin introducir errores.
+Esos errores conducen a un código que probablemente no funcionará como se desea (comportamiento indefinido) cuando se ejecute.
+Dependiendo de cuán crítica sea una aplicación, los errores pueden tener un impacto negativo significativo, financieramente o incluso en vidas humanas.
+Por lo general, el código de la aplicación tiene que pasar por diferentes etapas o entornos en los que se prueba.
+Cuanto más crítica es una aplicación, más precisa debe ser la prueba.
 
-## How it helps
+## Cómo ayuda
 
-When bugs appear, engineers have to debug (e.g., finding and fixing) the app to decrease undesired behavior for production systems. 
-Debugging is no easy task as engineers have to track down the source of the undesired behavior. 
-It requires knowledge about the code itself and the execution context at runtime. 
-This is where different debugging techniques and tools come in handy. 
-Analysis of logs, traces, and metrics, for instance, are used for debugging directly in production. 
-Developers can use interactive debugging to step through the code at runtime while analyzing the related execution context. 
-Once they have identified the source of the failure, they correct the code and create a bug fix or patch.
+Cuando aparecen errores, los ingenieros tienen que depurar (p. ej., encontrar y reparar) la aplicación para disminuir el comportamiento no deseado de los sistemas de producción.
+La depuración no es una tarea fácil, ya que los ingenieros deben rastrear el origen del comportamiento no deseado.
+Requiere conocimiento sobre el código en sí y el contexto de ejecución en tiempo de ejecución.
+Aquí es donde las diferentes técnicas y herramientas de depuración resultan útiles.
+El análisis de registros, seguimientos y métricas, por ejemplo, se utiliza para la depuración directamente en producción.
+Los desarrolladores pueden usar la depuración interactiva para recorrer el código en tiempo de ejecución mientras analizan el contexto de ejecución relacionado.
+Una vez que han identificado la fuente de la falla, corrigen el código y crean una corrección de errores o un parche.
