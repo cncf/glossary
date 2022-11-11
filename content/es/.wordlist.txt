@@ -94,6 +94,7 @@ Google
 help
 hide
 hipervisor
+HTTP
 https
 IaaS
 IaC
@@ -111,6 +112,7 @@ Jihoon
 jmo
 join
 Jones
+Kafka
 Katelin
 Kubernetes
 Language
