@@ -86,7 +86,7 @@ collaborators:
   - username: fsbaraglia
     permission: push
 
-  - username: meryem-ldn
+  - username: ugho16
     permission: push
 
   - username: annalisag-spark
@@ -274,7 +274,7 @@ branches:
         # it approvers
         users:
          - fsbaraglia
-         - meryem-ldn
+         - ugho16
          - annalisag-spark
          - sistella
         teams: []
