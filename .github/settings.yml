@@ -43,7 +43,7 @@ collaborators:
   # Localization approvers
   # l10n ko approvers
   # Note: seokho-son is both Maintainer (maintain) and Korean approver (push)
-  # Note: jihoon-seo is both English approver (push) and Korean approver (push)
+  # Note: jihoon-seo is both Maintainer (maintain) and Korean approver (push)
   - username: Eviekim
     permission: push
 
@@ -78,8 +78,11 @@ collaborators:
 
   # l10n de approvers
   # Note: CathPag is both Maintainer (maintain) and de approver (push)
-  # Note: iamNoah1 is both English approver (push) and de approver (push)
+  # Note: iamNoah1 is both Maintainer (maintain) and de approver (push)
   - username: DaveVentura
+    permission: push
+    
+  - username: bcubk
     permission: push
 
   # l10n it approvers
@@ -258,6 +261,7 @@ branches:
         users:
          - iamNoah1
          - DaveVentura
+         - bcubk
         teams: []
       enforce_admins: null
       required_linear_history: null
