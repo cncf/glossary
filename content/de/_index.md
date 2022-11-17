@@ -20,7 +20,7 @@ Committee (Business Value Subcommittee) initiiert und enthält
 Beiträge von [Catherine Paganini](https://www.linkedin.com/in/catherinepaganini/en/), [Chris Aniszczyk](https://www.linkedin.com/in/caniszczyk/),
 [Daniel Jones](https://www.linkedin.com/in/danieljoneseb/?originalSubdomain=uk), [Jason Morgan](https://www.linkedin.com/in/jasonmorgan2/), [Katelin Ramer](https://www.linkedin.com/in/katelinramer/), [Mike Foster](https://www.linkedin.com/in/mfosterche/?originalSubdomain=ca), [Seokho Son](https://www.linkedin.com/in/seokho-son/) und vielen weiteren Mitwirkenden. Eine vollständige Liste der Mitwirkenden befindet sich auf [dieser GitHub-Seite](https://github.com/cncf/glossary/graphs/contributors).
 
-Die deutsche Version enthält Beiträge von [David Wagner](https://www.linkedin.com/in/david-wagner-dataone/) und [Noah Ispas](https://www.linkedin.com/in/noah-ispas-0665b42a/).
+Die deutsche Version enthält Beiträge von [David Wagner](https://www.linkedin.com/in/david-wagner-dataone/), [Baris Cubukcuoglu](https://www.linkedin.com/in/baris-cubukcuoglu-4165641a9/) und [Noah Ispas](https://www.linkedin.com/in/noah-ispas-0665b42a/).
 
 ## Lizenz
 
