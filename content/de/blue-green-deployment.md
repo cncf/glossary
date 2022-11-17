@@ -1,6 +1,6 @@
 ---
 title: Blue Green Deployment
-status: Feedback erwünscht
+status: Completed
 category: Konzept
 tags: ["methodology", "application", ""]
 ---
