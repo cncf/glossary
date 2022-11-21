@@ -10,7 +10,6 @@ and automate the lifecycle of containerized applications in dynamic environments
 This includes different aspects that are also pursued by [Cloud Native Technologies](/cloud-native-tech/) and [Cloud Native Apps](/cloud-native-apps/), 
 such as: deployment, (auto)scaling, auto healing and monitoring.
 It works like a conductor of an orchestra, who makes sure that every part of the orchestra does what it should.
-(just like the OS on your laptop that manages your apps).
 
 ## Problem it addresses 
 The rise of [Cloud Native Apps](/cloud-native-apps/) and [technologies](/cloud-native-tech/) 
