@@ -17,4 +17,4 @@ Container orchestration automates all these management tasks.
 
 ## How it helps
 Container orchestration provides a declarative method of automating much of the work, which makes the operational complexity manageable for software engineering teams.
-This includes a variety of tasks, such as provisioning, deployment, scaling (both up and down), networking, load balancing, and other activities.
+This automation simplifies many of the engineering teams' otherwise highly manual and complex operational tasks, including provisioning, deployment, scaling (up and down), networking, load balancing, and other activities.
