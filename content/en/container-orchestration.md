@@ -8,7 +8,7 @@ category: Concept
 [Container](/container/) orchestration refers to managing and automating containerized applications' lifecycles in dynamic environments. 
 It's executed through a [cloud native technology](/cloud-native-tech/) (in most cases, [Kubernetes[(/kubernetes)) that enables deployments, (auto)scaling, auto-healing, and monitoring. 
 Orchestration is a metaphor. 
-It works like a conductor of an orchestra, who makes sure that every part of the orchestra does what it should.
+The orchestration tool conducts containers like a music conductor, ensuring every container (or musician) does what it should. 
 
 ## Problem it addresses 
 The rise of [Cloud Native Apps](/cloud-native-apps/) and [technologies](/cloud-native-tech/) as well as the fast-changing demands of modern businesses introduced a new set of problems. 
