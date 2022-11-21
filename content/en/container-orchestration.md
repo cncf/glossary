@@ -12,7 +12,8 @@ The orchestration tool conducts containers like a music conductor, ensuring ever
 
 ## Problem it addresses 
 The rise of [cloud native apps](/cloud-native-apps/) and technologies and the fast-changing demands of modern businesses introduced a new set of problems. 
-Managing [microservices](/microservices), security, and network-related things at scale, as well as [distributed systems](/distributed-systems) in general, are hard if not impossible to manage manually.   
+Managing [microservices](/microservices), security, and network communication at scale — [distributed systems](/distributed-systems) in general — are hard, if not impossible, to manage manually.
+Container orchestration automates all these management tasks. 
 
 ## How it helps
 Container orchestration provides a declarative method of automating much of the work, which makes the operational complexity manageable for software engineering teams.
