@@ -1,5 +1,6 @@
 ---
 title: "Glossario Cloud Native"
+status: Completed
 ---
 
 # Glossario Cloud Native

@@ -2,6 +2,7 @@
 title: Cluster
 status: Completed
 category: conceito
+tags: ["infraestrutura", "arquitetura", ""]
 ---
 
 ## O que é

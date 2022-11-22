@@ -1,6 +1,7 @@
 ---
 title: Guida di Stile
 toc_hide: true
+status: Completed
 menu:
   main:
     weight: 10

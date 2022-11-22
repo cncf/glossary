@@ -1,5 +1,5 @@
 ---
-title: कंटेनर इमेज
+title: कंटेनर इमेज (Container Image)
 status: Feedback Appreciated
 category: अवधारणा
 ---

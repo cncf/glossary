@@ -1,6 +1,7 @@
 ---
 title: Contributor Ladder
 toc_hide: true
+status: Completed
 menu:
   main:
     weight: 10
@@ -29,7 +30,7 @@ Please refer to the [How to Contribute](/contribute/) and [Style Guide](/style-g
 
 ## 2. Approvers
 
-Approvers provide feedback on PRs and approve them. Any active contributor can become an approver (see "Becoming an approver"). 
+Approvers provide feedback on PRs and approve them. Any active contributor can become an approver (see [Becoming an approver](#becoming-an-approver)). 
 The Glossary differentiates between two approvers: (1) approvers for the English Glossary and (2) approvers for localization teams.
 
 Glossary approvers are expected to:
@@ -73,7 +74,7 @@ This decision will be based on your demonstrated level of proficiency and respon
 
 ## 3. Maintainers
 
-Maintainers are approvers who can also merge PRs. Anyone can become a Glossary maintainer (see "Becoming a maintainer"). 
+Maintainers are approvers who can also merge PRs. Anyone can become a Glossary maintainer (see [Becoming a maintainer](#becoming-a-maintainer)). 
 There are certain expectations for maintainers, including:
 
 - Be an active and responsive approver (see above),

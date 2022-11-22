@@ -1,5 +1,6 @@
 ---
 title: "Cloud Native Glossary"
+status: Completed
 ---
 
 # Cloud Native Glossary
@@ -7,7 +8,7 @@ title: "Cloud Native Glossary"
 The Cloud Native Glossary is a project led by the CNCF Business Value Subcommittee (BVS). 
 Its goal is to explain cloud native concepts in clear and simple language without requiring any previous technical knowledge.
 
-<p><img class="mt-5" src="/images/homepage/stage.jpg" alt="A woman and two men presenting technical info on a stage"></p>
+<p><img class="mt-3" src="/images/homepage/kubecon.jpg" alt="People watching a Kubecon presentation"></p>
 
 ## Contributing
 
@@ -17,8 +18,8 @@ This Glossary provides a vendor-neutral platform to organize a shared vocabulary
 Contributions are welcome from all participants who abide by the project's purpose and charter.
 
 Anyone who wishes to make a contribution may submit a GitHub issue or create a pull request. 
-Please ensure you follow the [Style Guide](/style-guide/), read the [How To Contribute](/contribute/) doc, and join the #glossary channel on the CNCF Slack. 
-There is also a #glossary-localizations channel for those who want to help translate the glossary into their native language.
+Please ensure you follow the [Style Guide](/style-guide/), read the [How To Contribute](/contribute/) doc, and join the [#glossary](https://cloud-native.slack.com/archives/C02TX20MQBB) channel on the CNCF Slack.
+There is also a [#glossary-localizations](https://cloud-native.slack.com/archives/C02N2RGFXDF) channel for those who want to help translate the glossary into their native language.
 
 ## Acknowledgements
 

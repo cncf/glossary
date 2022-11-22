@@ -1,5 +1,5 @@
 ---
-title: ऐब्स्ट्रैक्शन
+title: ऐब्स्ट्रैक्शन (Abstraction)
 status: Completed
 category: गुण
 ---
