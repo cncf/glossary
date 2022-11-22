@@ -11,7 +11,7 @@ Orchestration is a metaphor:
 The orchestration tool conducts containers like a music conductor, ensuring every container (or musician) does what it should. 
 
 ## Problem it addresses 
-Managing [microservices](/microservices), security, and network communication at scale — [distributed systems](/distributed-systems) in general — are hard, if not impossible, to manage manually.
+Managing [microservices](/microservices), security, and network communication at scale — and [distributed systems](/distributed-systems) in general — is hard, if not impossible, to manage manually.
 Container orchestration allows users to automate all these management tasks. 
 
 ## How it helps
