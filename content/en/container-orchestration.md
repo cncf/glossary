@@ -1,6 +1,6 @@
 ---
 title: Container Orchestration
-status: Draft
+status: Completed
 category: Concept
 ---
 
