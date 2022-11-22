@@ -12,7 +12,7 @@ The orchestration tool conducts containers like a music conductor, ensuring ever
 
 ## Problem it addresses 
 Managing [microservices](/microservices), security, and network communication at scale — [distributed systems](/distributed-systems) in general — are hard, if not impossible, to manage manually.
-Container orchestration automates all these management tasks. 
+Container orchestration allows users to automate all these management tasks. 
 
 ## How it helps
 Container orchestration tools allow users to determine a system's state. 
