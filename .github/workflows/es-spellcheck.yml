@@ -25,6 +25,6 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: GitHub Spellcheck Action
-        uses: rojopolis/spellcheck-github-actions@0.27.0
+        uses: rojopolis/spellcheck-github-actions@0.28.0
         with:
           config_path: content/es/.spellcheck.yml
