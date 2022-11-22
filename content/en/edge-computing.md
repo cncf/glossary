@@ -7,7 +7,7 @@ category: Technology
 ## What it is
 
 Edge computing generally involves shifting a portion of the storage and computing capacity from the primary data center to the actual data source.
-The gathered data gets computed locally, i.e., on a factory floor, in a store, at a vast utility, or throughout a city, rather than sending it to a centralized data centerfor processing and analysis. 
+The gathered data gets computed locally, i.e., on a factory floor, in a store, at a vast utility, or throughout a city, rather than sending it to a centralized data center for processing and analysis. 
 The output of the computation at the edge is sent back to the primary data center.
 The gadgets on your wrist and the computers that analyze traffic flow are just two examples of edge computing.
 All edge devices must evaluate the data they gather and convey timely insights without transmitting it to another server environment.
