@@ -1,6 +1,6 @@
 ---
 title: Streaming de Eventos
-status: Concluído
+status: Completed
 category: conceito
 ---
 
