@@ -29,4 +29,4 @@ Si cela devait être géré au niveau de chaque application, chacune de ces fonc
 Le maillage de services (services mesh) ajoute de la fiabilité, de l'observabilité et de la sécurité
 pour tous les services du cluster sans avoir à changer le code des services.
 Avant les services mesh, cette fonctionnalité devait être implémentée dans chaque service,
-devenant une potentielle source de bug, voir une dette technique.
+devenant une potentielle source de bug, voir de dette technique.
