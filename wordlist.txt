@@ -112,6 +112,7 @@ keys
 kubernetes
 lang
 lifecycle
+lifecycles
 linters
 localization
 localizations
@@ -205,3 +206,12 @@ wordlists
 www
 yaml
 yml
+DBaaS
+DBA
+Ispas
+Jihoon
+Seo
+TCP
+TCP/IP
+UDP
+HTTP/3
