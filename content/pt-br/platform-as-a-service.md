@@ -11,8 +11,8 @@ Plataforma como serviço, ou PaaS, é uma plataforma externa para equipes de des
 
 ## Problema relacionado
 
-Para aproveitar os padrões nativos da nuvem, como [microsserviços](https://glossary.cncf.io/microservices/) ou [aplicativos distribuídos](https://glossary.cncf.io/distributed-apps/), as equipes de operações e os desenvolvedores precisam ser capazes de descarregar uma grande quantidade de operações e trabalho de manutenção. Isso inclui tarefas como provisionamento de infraestrutura, manipulação de [descoberta de serviço](https://glossary.cncf.io/service-discovery/), balanceamento de carga e [escalabilidade](https://glossary.cncf.io/pt-br/scalability/) de aplicativos.
+Para aproveitar os padrões nativos da nuvem, como [microsserviços](/microservices/) ou [aplicativos distribuídos](/distributed-apps/), as equipes de operações e os desenvolvedores precisam ser capazes de descarregar uma grande quantidade de operações e trabalho de manutenção. Isso inclui tarefas como provisionamento de infraestrutura, manipulação de [descoberta de serviço](/service-discovery/), balanceamento de carga e [escalabilidade](/pt-br/scalability/) de aplicativos.
 
 ## Como isso ajuda
 
-A PaaS fornece ferramentas de infraestrutura para desenvolvedores de aplicativos de maneira totalmente automatizada. O resultado é um desenvolvimento de app mais simples, rápido e seguro que dá aos desenvolvedores a liberdade de se concentrar no código do aplicativo, sem terem que se preocupar em manter a infraestrutura. A PaaS também fornece monitoramento e [observabilidade](https://glossary.cncf.io/observability/) que ajuda a garantir que os aplicativos permaneçam íntegros.
+A PaaS fornece ferramentas de infraestrutura para desenvolvedores de aplicativos de maneira totalmente automatizada. O resultado é um desenvolvimento de app mais simples, rápido e seguro que dá aos desenvolvedores a liberdade de se concentrar no código do aplicativo, sem terem que se preocupar em manter a infraestrutura. A PaaS também fornece monitoramento e [observabilidade](/observability/) que ajuda a garantir que os aplicativos permaneçam íntegros.
