@@ -1,5 +1,5 @@
 ---
-title: mTLS (Mutual Transport Layer Security)
+title: Mutual Transport Layer Security (mTLS)
 status: Completed
 category: Concept
 tags: ["security", "", ""]
