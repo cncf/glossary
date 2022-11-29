@@ -152,8 +152,10 @@ on
 on-premises
 Open
 PaaS
+PaC
 Paganini
 platform
+Política
 portable
 pr
 prem
