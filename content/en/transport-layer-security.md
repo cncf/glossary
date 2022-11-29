@@ -1,5 +1,5 @@
 ---
-title: TLS (Transport Layer Security)
+title: Transport Layer Security (TLS)
 status: Completed
 category: Concept
 tags: ["security", "", ""]
