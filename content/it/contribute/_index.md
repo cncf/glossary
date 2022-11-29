@@ -1,6 +1,7 @@
 ---
 title: Come Contribuire
 toc_hide: true
+status: Completed
 menu:
   main:
     weight: 10
@@ -14,15 +15,18 @@ Ci sono tre modi in cui puoi contribuire:
 2) Migliorare quelle esistenti
 3) Aiutare nella traduzione del glossario
 
-## Entra nella Glossary community! 
-Valuta di entrare anche tu nei nostri meeting mensili del _Glossary Working Group_, se hai intenzione di contribuire regolarmente. Puoi trovare i dettagli del meeting nel [calendario della CNCF](https://www.cncf.io/calendar/). Puoi anche connetterti con i gestori e i contributors nel nostro canale #glossary-localizations della [CNCF Slack](http://cloud-native.slack.com/) — ti aspettiamo! 
+## Entra nella Glossary community 
+
+Valuta di entrare anche tu nei nostri meeting mensili del _Glossary Working Group_, se hai intenzione di contribuire regolarmente. Puoi trovare i dettagli del meeting nel [calendario della CNCF](https://www.cncf.io/calendar/). Puoi anche connetterti con i gestori e i contributors nel nostro canale #glossary-localizations della [CNCF Slack](https://cloud-native.slack.com/) — ti aspettiamo! 
 
 ## Proporre nuove voci
+
 Puoi sia proporre nuove voci su cui altri possono lavorare, o crearne tu stesso anche la definizione. In entrambi i casi dovrai iniziare aprendo una _issue_ (avrai bisogno di un account di Github per farlo).
 
-Di seguito trovi una guida che ti spiegherà passo dopo passo come fare, se non hai ancora dimestichezza con Github. Se invece **sei un GitHub Pro**, assicurati di scorrere la lista degli issue prima e usare il template corretto, una naming convention appropriata e segnalare la tua PR su Slack (altrimenti potremmo non notarla). Infine, assicurati di leggere la [Style Guide](https://glossary.cncf.io/style-guide/) prima di iniziare — grazie! 
+Di seguito trovi una guida che ti spiegherà passo dopo passo come fare, se non hai ancora dimestichezza con Github. Se invece **sei un GitHub Pro**, assicurati di scorrere la lista degli issue prima e usare il template corretto, una naming convention appropriata e segnalare la tua PR su Slack (altrimenti potremmo non notarla). Infine, assicurati di leggere la [Guida di Stile](/it/style-guide/) prima di iniziare — grazie! 
 
 ### Creare una issue
+
 Apri le issues nel [repo del Glossario su GitHub](https://github.com/cncf/glossary/issues) and clicca su "new issue".
 
 ![issues](/images/how-to/howto-01.png)
@@ -45,7 +49,7 @@ nota che puoi lavorare su un termine alla volta. Se vuoi lavorare su più termin
 
 ### Proporre un nuovo termine (creare una PR)
 
-Prima di iniziare, per favore leggi la [Style Guide](https://glossary.cncf.io/style-guide/) — aiuterà a minimizzare gli errori più comuni in fase di revisione. Ti consigliamo caldamente di iniziare da un Word o da un Google doc. 
+Prima di iniziare, per favore leggi la [Guida di Stile](/it/style-guide/) — aiuterà a minimizzare gli errori più comuni in fase di revisione. Ti consigliamo caldamente di iniziare da un Word o da un Google doc. 
 
 Una volta che il termine è pronto per essere pubblicato, vai alla cartella `content` del codice…
 
@@ -85,9 +89,11 @@ Ora dovesti vedere la tua PR tra le "Pull requests".
 ![prs](/images/how-to/howto-13.png)
 
 ## Modifica un termine esistente
+
 Per modificare un termine esistente, puoi decidere di proporre una modifica tramite una _issue_ o modificare direttamente il termine e creare una pull request (PR).
 
 ### Richiedere una modifica tramite una _issue_
+
 Se vuoi riportare un problema con un termine ma non puoi/vuoi risolverlo da solo, clicca su "report issue"
 
 ![report issue](/images/how-to/howto-14.png)
@@ -97,6 +103,7 @@ Aprirai così una _issue_. Riporta nella descrizione che tipo di modifica bisogn
 ![submit issue](/images/how-to/howto-15.png)
 
 ### Aggiornare un termine direttamente
+
 Per aggiornare direttamente il termine, vai su "edit this page." 
 
 ![edit this page](/images/how-to/howto-16.png)
@@ -104,8 +111,5 @@ Per aggiornare direttamente il termine, vai su "edit this page."
 ti si aprirà la pagina di Github relativa al termine. Fai le tue modifiche e apri una PR. Fai riferimento al paragrafo [Proporre un nuovo termine](#proporre-un-nuovo-termine-creare-una-pr) per una descrizione dettagliata di come modificare un file markdown.
 
 ## Aiutaci a tradurre il Glossario
-Per aiutare a tradurre il Glossario nella tua lingua madre, entra nel canale #glossary-localizations della [CNCF Slack](http://cloud-native.slack.com/) e faccelo sapere. Puoi entrare a far parte di un team già esistente o crearne uno nuovo. Puoi anche partecipare al nostro meeting del Glossary Working Group. Trovi tutte le informazioni per il meeting nel [calendario della CNCF](https://www.cncf.io/calendar/). Ti aspettiamo!
 
-
-
-
+Per aiutare a tradurre il Glossario nella tua lingua madre, entra nel canale #glossary-localizations della [CNCF Slack](https://cloud-native.slack.com/) e faccelo sapere. Puoi entrare a far parte di un team già esistente o crearne uno nuovo. Puoi anche partecipare al nostro meeting del Glossary Working Group. Trovi tutte le informazioni per il meeting nel [calendario della CNCF](https://www.cncf.io/calendar/). Ti aspettiamo!

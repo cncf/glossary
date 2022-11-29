@@ -28,7 +28,13 @@ body:
     attributes:
       label: 2. Checklist
       options:
+        - label: The suggested term fits the [cloud native definition](https://github.com/cncf/toc/blob/main/DEFINITION.md) or is essential to understanding cloud native terms. (We hope to avoid adding general or broad terminologies)
+          required: true
         - label: There is no existing issue yet. [(shift+click to check existing issues)](https://github.com/cncf/glossary/issues?q=label%3A%22new+term%22)
+          required: true
+        - label: The term has not already been declined in the past. [(shift+click to check)](https://github.com/cncf/glossary/issues?q=is%3Aissue+is%3Aclosed+label%3A%22triage%2Fnot+accepted%22)
+          required: false
+        - label: The term does not already exist in the [glossary](https://glossary.cncf.io).
           required: true
         - label: I understand that maintainers will assess if the term should be part of the Glossary. (Please be patient)
           required: true
