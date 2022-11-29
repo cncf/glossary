@@ -1,5 +1,6 @@
 ---
 title: "云原生词汇表"
+status: Completed
 ---
 
 # 云原生词汇表
