@@ -6,7 +6,7 @@ category: Technology
 
 ## What it is
 
-Edge computing generally involves shifting a portion of the storage and computing capacity from the primary data center to the actual data source.
+Edge computing is a [distributed system](/distributed-systems/) approach that shifts some storage and computing capacity from the primary data center to the data source.
 The gathered data gets computed locally, i.e., on a factory floor, in a store, at a vast utility, or throughout a city, rather than sending it to a centralized data center for processing and analysis. 
 The output of the computation at the edge is sent back to the primary data center.
 The gadgets on your wrist and the computers that analyze traffic flow are just two examples of edge computing.
