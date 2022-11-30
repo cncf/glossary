@@ -19,6 +19,6 @@ Sistemas observáveis produzem dados significativos e acionáveis para seus oper
 
 ## Como isso ajuda
 
-Entender que mais informações não se traduz necessariamente em um sistema mais observável é fundamental. 
+Entender que mais informações não se traduzem necessariamente em um sistema mais observável é fundamental. 
 Na verdade, às vezes, a quantidade de informações geradas por um sistema pode dificultar a identificação de sinais valiosos a partir de ruído gerado pela aplicação. 
 A observabilidade requer os dados certos no momento certo para que o consumidor certo (humano ou software) tome as decisões certas.
