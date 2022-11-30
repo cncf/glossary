@@ -11,7 +11,6 @@ The gathered data is computed locally (e.g., on a factory floor, in a store, or 
 These local processing units or devices represent the system's edge, whereas the data center is its center.
 The output computed at the edge is then sent back to the primary data center for further processing.
 Examples of edge computing include gadgets on our wrists or computers that analyze traffic flow.
-All edge devices must evaluate the data they gather and convey timely insights without transmitting it to another server environment.
 
 ## Problem it addresses
 
