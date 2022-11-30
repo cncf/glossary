@@ -12,7 +12,7 @@ Em outras palavras, a observabilidade permite que os usuários entendam o estado
 
 ## Problema relacionado
 
-Os sistemas de computador são medidos observando os sinais de baixo nível, tais como o tempo de CPU, a memória, o espaço em disco e os sinais de nível superior e de negócios, incluindo tempos de resposta da API, erros, transações por segundo, etc.
+Os sistemas de computador são medidos observando os sinais de baixo nível, tais como o tempo de CPU, a memória, o espaço em disco e os sinais de nível alto nível e de lógica de negócios, incluindo tempos de resposta de uma API, erros, transações por segundo, etc.
 
 A observabilidade de um sistema tem um impacto significativo em seus custos operacionais e de desenvolvimento. 
 Sistemas observáveis produzem dados significativos e acionáveis para seus operadores, permitindo que eles obtenham resultados favoráveis (resposta mais rápida a incidentes, aumento da produtividade do desenvolvedor) e menos trabalho e tempo de inatividade.
