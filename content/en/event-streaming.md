@@ -11,7 +11,7 @@ Picture a service broadcasting everything it does to all other services.
 Each activity taken by a service is referred to as an event, hence event streaming.
 For example, NASDAQ gets updates on stock and commodities pricing every second.
 If you had an application that monitored a specific set of stocks, you would want to receive that information in near real-time.
-Yahoo! Finance provides an [API](https://glossary.cncf.io/application-programming-interface/) that pulls from NASDAQ and sends (or streams) the information (or events) from their application to any application that subscribes to it.
+Yahoo! Finance provides an [API](/application-programming-interface/) that pulls from NASDAQ and sends (or streams) the information (or events) from their application to any application that subscribes to it.
 The data being sent as well as the changes in that data (stock prices) are the events while the process of delivering them to an application is event streaming.
 
 ## Problem it addresses
