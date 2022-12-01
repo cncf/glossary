@@ -136,6 +136,7 @@ oliveira
 opencontainers
 orchestrator
 overdemand
+overprivileged
 paas
 pathconverter
 pavel
@@ -150,6 +151,7 @@ py
 pypi
 pyspelling
 ramer
+RBAC
 rdbms
 readme
 replicable
