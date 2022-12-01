@@ -18,7 +18,7 @@ Dependiendo de que tan crítica sea una aplicación, los bugs pueden tener un im
 Por lo general, el código de la aplicación tiene que pasar por diferentes etapas o entornos en los que se prueba.
 Cuanto más crítica es una aplicación, más precisa debe ser la prueba.
 
-## Cómo ayuda
+## ¿Cómo ayuda?
 
 Cuando aparecen errores, los ingenieros tienen que depurar (p. ej., encontrar y reparar) la aplicación para disminuir el comportamiento no deseado de los sistemas de producción.
 La depuración no es una tarea fácil, ya que los ingenieros deben rastrear el origen del comportamiento no deseado.
