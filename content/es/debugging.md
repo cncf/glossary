@@ -26,4 +26,4 @@ Requiere conocimiento sobre el código en sí y el contexto de ejecución en tie
 Aquí es donde las diferentes técnicas y herramientas de depuración resultan útiles.
 El análisis de registros, trazas y métricas, son un ejemplo de lo que se utiliza para la depuración directamente en producción.
 Los desarrolladores pueden usar la depuración interactiva para recorrer el código en tiempo de ejecución mientras analizan el contexto de ejecución relacionado.
-Una vez que han identificado la fuente de la falla, corrigen el código y crean una corrección de errores o un parche.
+Una vez que han identificado la fuente de la falla, corrigen el código y crean un bug fix o parche.
