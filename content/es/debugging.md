@@ -1,8 +1,8 @@
 ---
-título: Depuración
-Estado: COMPLETADO
-categoría: concepto
-etiquetas: ["aplicación", "", ""]
+title: Depuración
+status: Completed
+category: concepto
+tags: ["application", "", ""]
 ---
 
 ## Lo que es
