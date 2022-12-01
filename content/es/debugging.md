@@ -20,7 +20,7 @@ Cuanto más crítica es una aplicación, más precisa debe ser la prueba.
 
 ## ¿Cómo ayuda?
 
-Cuando aparecen errores, los ingenieros tienen que depurar (p. ej., encontrar y reparar) la aplicación para disminuir el comportamiento no deseado de los sistemas de producción.
+Cuando aparecen bugs, los ingenieros tienen que depurar (p. ej., encontrar y reparar) la aplicación para disminuir el comportamiento no deseado de los sistemas de producción.
 La depuración no es una tarea fácil, ya que los ingenieros deben rastrear el origen del comportamiento no deseado.
 Requiere conocimiento sobre el código en sí y el contexto de ejecución en tiempo de ejecución.
 Aquí es donde las diferentes técnicas y herramientas de depuración resultan útiles.
