@@ -11,7 +11,7 @@ Un nodo es un servidor que trabaja en conjunto a otros servidores, o nodos, para
 
 ## Problema que aborda
 
-Una aplicación podría (y muchas lo hacen) ejecutarse en una sola máquina, esto conlleva algunos riesgos como el fallo del sistema subyacente interrumpira la aplicación. Para solucionar esto, los desarrolladores comenzaron a crear [aplicaciones distribuidas](/distributed-apps/) donde cada proceso se ejecuta en su propio nodo. Así, los nodos ejecutan aplicaciones o procesos como parte de un grupo que forma un [cluster](/cluster/), o grupo, de nodos que trabajan juntos para lograr un objetivo común.
+Una aplicación podría (y muchas lo hacen) ejecutarse en una sola máquina, esto conlleva algunos riesgos como el fallo del sistema subyacente interrumpira la aplicación. Para solucionar esto, los desarrolladores comenzaron a crear [aplicaciones distribuidas](/distributed-apps/) donde cada proceso se ejecuta en su propio nodo. Así, los nodos ejecutan aplicaciones o procesos como parte de un grupo que forma un [clúster](/es/cluster/), o grupo, de nodos que trabajan juntos para lograr un objetivo común.
 
 ## ¿Cómo ayuda?
 
