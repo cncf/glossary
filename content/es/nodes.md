@@ -2,7 +2,7 @@
 title: Nodos
 status: Completed
 category: Tecnología
-tags: ["arquitectura"]
+tags: ["architecture"]
 ---
 
 ## ¿Qué es?
