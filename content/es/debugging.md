@@ -5,7 +5,7 @@ category: concepto
 tags: ["application", "", ""]
 ---
 
-## Lo que es
+## ¿Qué es?
 
 La depuración es el proceso o actividad de encontrar y resolver errores (bugs) de programas, software o sistemas informáticos para obtener el resultado deseado.
 Un error es un defecto o un problema que conduce a resultados incorrectos o inesperados.
