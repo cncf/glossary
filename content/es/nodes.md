@@ -7,7 +7,7 @@ tags: ["architecture"]
 
 ## ¿Qué es?
 
-Un nodo es un servidor que trabaja en conjunto a otros servidores, o nodos, para realizar una tarea común. Por ejemplo, tu laptop, el módem y la impresora están conectados a través de tu red wifi comunicándose y colaborando, y cada uno representa un nodo. En [computación en la nube](/cloud-computing/), un nodo puede ser un servidor físico, un servidor virtual, denominado [VM](/virtual-machine/), o incluso un [contenedor](/container/).
+Un nodo es un servidor que trabaja en conjunto a otros servidores, o nodos, para realizar una tarea común. Por ejemplo, tu laptop, el módem y la impresora están conectados a través de tu red wifi comunicándose y colaborando, y cada uno representa un nodo. En [computación en la nube](/es/cloud-computing/), un nodo puede ser un servidor físico, un servidor virtual, denominado [VM](/virtual-machine/), o incluso un [contenedor](/container/).
 
 ## Problema que aborda
 
