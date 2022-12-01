@@ -24,6 +24,6 @@ Cuando aparecen errores, los ingenieros tienen que depurar (p. ej., encontrar y 
 La depuración no es una tarea fácil, ya que los ingenieros deben rastrear el origen del comportamiento no deseado.
 Requiere conocimiento sobre el código en sí y el contexto de ejecución en tiempo de ejecución.
 Aquí es donde las diferentes técnicas y herramientas de depuración resultan útiles.
-El análisis de registros, seguimientos y métricas, por ejemplo, se utiliza para la depuración directamente en producción.
+El análisis de registros, trazas y métricas, son un ejemplo de lo que se utiliza para la depuración directamente en producción.
 Los desarrolladores pueden usar la depuración interactiva para recorrer el código en tiempo de ejecución mientras analizan el contexto de ejecución relacionado.
 Una vez que han identificado la fuente de la falla, corrigen el código y crean una corrección de errores o un parche.
