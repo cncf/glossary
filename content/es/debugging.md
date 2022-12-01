@@ -12,7 +12,7 @@ Un error es un defecto o un problema que conduce a resultados incorrectos o ines
 
 ## Problema que aborda
 
-El desarrollo de software es una actividad compleja que hace que sea casi imposible escribir código sin introducir errores.
+El desarrollo de software es una actividad compleja que hace que sea casi imposible escribir código sin introducir bugs.
 Esos errores conducen a un código que probablemente no funcionará como se desea (comportamiento indefinido) cuando se ejecute.
 Dependiendo de que tan crítica sea una aplicación, los bugs pueden tener un impacto negativo significativo; financiero o incluso en vidas humanas.
 Por lo general, el código de la aplicación tiene que pasar por diferentes etapas o entornos en los que se prueba.
