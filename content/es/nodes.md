@@ -15,4 +15,4 @@ Una aplicación podría (y muchas lo hacen) ejecutarse en una sola máquina, est
 
 ## ¿Cómo ayuda?
 
-Un nodo es una unidad de cálculo distinta (memoria, CPU, red) que se puede asignar a un clúster. En una plataforma o aplicación [nativa de la nube](/cloud-native-tech/) un nodo representa una única unidad que puede realizar trabajo. Idealmente, los nodos individuales son indiferenciados en el sentido de que cualquier nodo de un tipo particular es indistinguible de cualquier otro nodo del mismo tipo.
+Un nodo es una unidad de cálculo distinta (memoria, CPU, red) que se puede asignar a un clúster. En una plataforma o aplicación [nativa para la nube](/es/cloud-native-tech/) un nodo representa una única unidad que puede realizar trabajo. Idealmente, los nodos individuales son indiferenciados en el sentido de que cualquier nodo de un tipo particular es indistinguible de cualquier otro nodo del mismo tipo.
