@@ -9,7 +9,7 @@ category: Konzept
 Bei einer Client-Server-Architektur ist eine Anwendung in zwei oder mehr Komponenten aufgeteilt. Dabei wird unterschieden zwischen Clients und Servern. 
 Ein Client fordert die Erledigung einer Aufgabe bei einem Server an und der Server wiederum nimmt diese Anfrage entgegen und bearbeitet die Aufgabe. 
 Ein Beispiel dafür ist Google Mail. Der Client ist in diesem Fall die Webanwendung bzw. die UI, die in dem Browser des Nutzers ausgeführt wird. 
-Mit einem Klick auf "Email senden" wird die geschriebene Email and den Server gesendet (Dienst zum Emails versenden), der in der Cloud von Google läuft und die Email an den Empfänger weiterleitet.
+Mit einem Klick auf "Email senden" wird die geschriebene Email and den Server gesendet, der in der Cloud von Google läuft und die Email an den Empfänger weiterleitet.
 
 Dies steht im Gegensatz zu eigenständigen Anwendungen (z. B. Desktop-Anwendungen), die die gesamte Arbeit an einem Ort erledigen. 
 So kann beispielsweise ein Textverarbeitungsprogramm wie Microsoft Word vollständig auf dem Computer des Nutzers installiert und ausgeführt werden.
