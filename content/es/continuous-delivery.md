@@ -17,7 +17,7 @@ La integración continua (CI) es el primer paso hacia la entrega continua
 
 ## Problema que aborda
 
-El despliegue de actualizaciones de [fiabilidad](/reliability/) se convierte en un problema a escala.
+El despliegue de actualizaciones de [fiabilidad](/es/reliability/) se convierte en un problema a escala.
 Idealmente, desplegaríamos con más frecuencia para ofrecer un mejor valor a los usuarios finales.
 Sin embargo, hacerlo manualmente se traduce en altos costos por cada cambio.
 Históricamente, para evitar estos costos, las organizaciones liberaban con menos frecuencia,
