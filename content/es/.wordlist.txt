@@ -2,14 +2,12 @@ add
 Amazon
 an
 Aniszczyk
-Anyul
 API
 APIs
 App
 application
 Appreciated
 architecture
-Ariel
 Arnes
 autocura
 autoescalado
@@ -19,6 +17,7 @@ Azure
 backend
 bare
 based
+Benavides
 blob
 blue
 branch
@@ -34,7 +33,6 @@ category
 Catherine
 CC
 CD
-Chaves
 Chris
 CI
 Cloud
@@ -67,7 +65,6 @@ DevSecOps
 DigitalOcean
 directly
 ej
-Emiliano
 Engine
 entregables
 escalarse
@@ -111,8 +108,6 @@ interface
 issue
 issues
 Jason
-Jhan
-Jhonnatan
 Jihoon
 jmo
 join
@@ -126,6 +121,7 @@ localizations
 loop
 main
 markdown
+Martinez
 md
 menu
 Mercurial
@@ -146,6 +142,7 @@ needed
 Netflix
 networking
 new
+Nicolas
 Not
 OCI
 of
@@ -166,6 +163,7 @@ properties
 propose
 PRs
 pull
+Quiceno
 Rael
 Ramer
 RDS
@@ -174,7 +172,7 @@ reprogramados
 request
 requests
 resiliencia
-Rivas
+Rodolfo
 Runtime
 scripts
 security
@@ -208,7 +206,6 @@ trunk
 update
 URL
 Value
-Vazquez
 Victor
 videos
 virtuales
