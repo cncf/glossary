@@ -112,6 +112,7 @@ keys
 kubernetes
 lang
 lifecycle
+lifecycles
 linters
 localization
 localizations
