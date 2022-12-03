@@ -6,7 +6,7 @@ category: Concepto
 
 ## ¿Qué es?
 
-Ingeniería del Caos o CE es la disciplina de experimentación sobre un [Sistema Distribuido](/distributed_systems/) en producción para construir confianza en la capacidad del sistema para soportar condiciones inesperadas y turbulentas.
+Ingeniería del Caos o CE (Chaos Engineering) es la disciplina de experimentación sobre un [Sistema Distribuido](/distributed_systems/) en producción para construir confianza en la capacidad del sistema para soportar condiciones inesperadas y turbulentas.
 
 ## Problema que aborda
 
