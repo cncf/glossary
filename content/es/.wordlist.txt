@@ -67,7 +67,6 @@ DigitalOcean
 directly
 ej
 Emiliano
-encriptación
 Engine
 entregables
 escalarse
