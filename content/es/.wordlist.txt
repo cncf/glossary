@@ -37,6 +37,7 @@ CD
 Chaves
 Chris
 CI
+cifrada
 Cloud
 clúster
 clústeres
@@ -67,7 +68,6 @@ DigitalOcean
 directly
 ej
 Emiliano
-encriptación
 Engine
 entregables
 escalarse
