@@ -67,6 +67,7 @@ DigitalOcean
 directly
 ej
 Emiliano
+encriptación
 Engine
 entregables
 escalarse
@@ -121,6 +122,7 @@ Katelin
 Kubernetes
 Language
 laptop
+Layer
 localizations
 loop
 main
@@ -174,12 +176,15 @@ resiliencia
 Rivas
 Runtime
 scripts
+Secure
 security
 Seokho
 service
 Slack
 sobreescriba
+Sockets
 Spanish
+SSL
 stack
 Started
 status
