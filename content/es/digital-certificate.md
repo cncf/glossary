@@ -20,6 +20,6 @@ En consecuencia, cualquier comunicación puede ser potencialmente interceptada, 
 
 Los clientes de correo electrónico modernos que utilizan certificados pueden notificar si la identidad del remitente es correcta, al igual que los navegadores web (vea el pequeño candado frente a la barra de direcciones en su navegador web).
 Por otro lado, los certificados se pueden usar para cifrar la comunicación entre entidades en Internet.
-Proporcionan una técnica de cifrada que hace que sea casi imposible que alguien que intercepte la comunicación y pueda leer los datos.
+Proporcionan una técnica de cifrado que hace que sea casi imposible que alguien que intercepte la comunicación y pueda leer los datos.
 
 ## Términos relacionados
