@@ -22,6 +22,7 @@ based
 blob
 blue
 branch
+bug
 bugs
 Business
 BVS
@@ -78,6 +79,7 @@ externalizar
 Feedback
 Finance
 first
+fix
 Foster
 foundation
 Foundry
