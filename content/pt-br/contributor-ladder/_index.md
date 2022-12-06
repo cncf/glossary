@@ -1,6 +1,7 @@
 ---
 title: Escala de Contribuição
 toc_hide: true
+status: Completed
 menu:
   main:
     weight: 10
