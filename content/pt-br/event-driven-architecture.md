@@ -10,7 +10,7 @@ A arquitetura orientada a eventos é um estilo de arquitetura distribuída que c
 
 ## Problema relacionado
 
-A utilização deste tipo de arquitectura está associada a conceitos como Consistência Eventual e a dificuldade em garantir que as mensagens referentes a eventos são roteados para o [serviço](/pt-br/service/) apropriado para ser eventualmente encaminhado ao subscritor ou consumidor do evento. O desafio cresce à medida que mais dados se produzem e se consomem em tempo real e se torna necessário encontrar maneiras confiáveis de garantir que os eventos sejam capturados e roteados correctamente.
+A utilização deste tipo de arquitectura está associada a conceitos como consistência eventual e a dificuldade em garantir que as mensagens referentes a eventos são roteados para o [serviço](/pt-br/service/) apropriado para ser eventualmente encaminhado ao subscritor ou consumidor do evento. O desafio cresce à medida que mais dados se produzem e se consomem em tempo real e se torna necessário encontrar maneiras confiáveis de garantir que os eventos sejam capturados e roteados correctamente.
 
 ## Como isso ajuda
 
