@@ -6,7 +6,7 @@ category: conceito
 
 ## O que é
 
-A arquitetura orientada a eventos é uma arquitetura de software que promove a criação, o processamento e o consumo de eventos. Um evento é qualquer alteração no estado de um aplicativo. Por exemplo, pedir uma carona em um aplicativo de compartilhamento de viagens representa um evento. Essa arquitetura cria a estrutura na qual os eventos podem ser roteados corretamente de sua origem (o aplicativo que solicita uma corrida) para os receptores desejados (os aplicativos de motoristas disponíveis nas proximidades).
+A arquitetura orientada a eventos é um estilo de arquitetura distribuída que consiste na produção, consumo e gestão de eventos. Um evento neste contexto, é uma variação no estado de um aplicativo, ou se visto de forma mais granualar, uma alteração do status de uma entidade de um determinado domínio funcional. Por exemplo, encomendar uma pizza em um aplicativo de distribuicao de comida e take-away representa um evento. O roteamento correcto do evento é garantido por este estilo de arquitectura para os subscritores do evento (por exemplo, aplicativos dos usuàrios responsáveis para a entrega da pizza disponíveis nas proximidades).
 
 ## Problema relacionado
 
@@ -14,4 +14,4 @@ A arquitetura orientada a eventos é uma arquitetura de software que promove a c
 
 ## Como isso ajuda
 
-As arquiteturas orientadas a eventos estabelecem um hub central para todos os eventos (por exemplo, Kafka). Em seguida, você define os produtores de eventos (origem) e os consumidores (receptor), e o hub central de eventos garante o fluxo de eventos. Essa arquitetura garante que os serviços permaneçam desacoplados e que os eventos sejam encaminhados adequadamente do produtor para o consumidor. O produtor pegará o evento de entrada, geralmente pelo protocolo HTTP, e roteará as informações do evento.
+As arquiteturas orientadas a eventos dependem de um hub central ou sistema de gestão de mensagens para todos os eventos baseados em queues ou topics (por exemplo, Kafka ou RabbitMQ). Em seguida, você define os produtores de eventos (origem) e os consumidores (receptores ou subscritores), e o hub central de eventos garante o fluxo de eventos. Essa arquitetura garante que os serviços permaneçam desacoplados e que os eventos sejam encaminhados adequadamente do produtor para o consumidor. O produtor pegará o evento de entrada, geralmente pelo protocolo HTTP, e roteará as informações do evento.
