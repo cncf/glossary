@@ -6,7 +6,7 @@ category: conceito
 
 ## O que é
 
-A arquitetura orientada a eventos é um estilo de arquitetura distribuída que consiste na produção, consumo e gestão de eventos. Um evento neste contexto, é uma variação no estado de um aplicativo, ou se visto de forma mais granualar, uma alteração do status de uma entidade de um determinado domínio funcional. Por exemplo, encomendar uma pizza em um aplicativo de distribuicao de comida e take-away representa um evento. O roteamento correcto do evento é garantido por este estilo de arquitectura para os subscritores do evento (por exemplo, aplicativos dos usuàrios responsáveis para a entrega da pizza disponíveis nas proximidades).
+A arquitetura orientada a eventos é um estilo de arquitetura distribuída que consiste na produção, consumo e gestão de eventos. Um evento neste contexto é uma variação no estado de um aplicativo, ou se visto de forma mais granualar, uma alteração do status de uma entidade de um determinado domínio funcional. Por exemplo, encomendar uma pizza em um aplicativo de distribuição de comida e take-away representa um evento. O roteamento correcto do evento é garantido por este estilo de arquitectura para os subscritores do evento (por exemplo, aplicativos dos usuàrios responsáveis para a entrega da pizza disponíveis nas proximidades).
 
 ## Problema relacionado
 
