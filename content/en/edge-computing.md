@@ -21,7 +21,6 @@ Now imagine the data from sensors would have to be transferred to a data center 
 The inherent network latency could be fatal. 
 While this is an extreme example, most users wouldn't want to use a smart device unable to provide instant feedback. 
 Today's world of the Internet of Things (IoT) calls for a new paradigm: edge computing. 
-So, moving the computing infrastructure physically closer or next to the edge where the data creates will solve the problem of performance and latency. 
 It is where edge computing comes into play.
 
 ## How it helps
