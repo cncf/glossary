@@ -14,7 +14,13 @@ Examples of edge computing include gadgets on our wrists or computers that analy
 
 ## Problem it addresses
 
-Due to the enormous amounts of data that Internet of Things (IOT)devices create, data has become the next important asset for enterprises worldwide. 
+Over the past decade, we've seen an increasing amount of smart devices.
+In some cases, real-time data processing is not only a nice-to-have but vital. 
+Think of self-driving cars. 
+Now imagine the data from sensors would have to be transferred to a data center for processing to be sent back to the vehicle so it can take action. 
+The inherent network latency could be fatal. 
+While this is an extreme example, most users wouldn't want to use a smart device unable to provide instant feedback. 
+Today's world of the Internet of Things (IoT) calls for a new paradigm: edge computing. 
 For critical business strategies,firms also increasingly need to examine the data as fast as possible, But Organisations are adjusting for the latency and performance issues.
 Previously, businesses would transfer all their monitoring data to a corporate data center or the cloud for processing, analysis, and storage. However, as the IoT has expanded, the amount of data available makes this method impractical.
 So, moving the computing infrastructure physically closer or next to the edge where the data creates will solve the problem of performance and latency. 
