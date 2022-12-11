@@ -26,6 +26,7 @@ Today's world of the Internet of Things (IoT) calls for a new paradigm: edge com
 
 IT architects have made their way back from the central data center to the logical Edge of the infrastructure, 
 shifting storage and processing resources from the data center to the location where the data is created.
+shifting storage and processing resources from the data center to the location where the data is created.
 The concept of edge computing is simple; instead of delivering data to the data center, 
 the data center migrates closer to the data. 
 The processing and storage capacity of the data center situates as near as possible to the location of data generation (preferably in the same place).
