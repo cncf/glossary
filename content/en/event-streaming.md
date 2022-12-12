@@ -2,6 +2,7 @@
 title: Event Streaming
 status: Completed
 category: concept
+tags: ["methodology", "networking", ""]
 ---
 
 ## What it is
