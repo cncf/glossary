@@ -28,7 +28,6 @@ IT architects have made their way back from the central data center to the logic
 This is achieved by shifting some storage and processing resources from the data center to where the data is generated: the edge device.
 The concept of edge computing is simple; instead of delivering data to the data center, 
 the data center migrates closer to the data. 
-The processing and storage capacity of the data center situates as near as possible to the location of data generation (preferably in the same place).
 Efficiency is the primary driver of edge computing. 
 For gathering and processing data locally, edge computing places storage and servers where the data resides.
 
