@@ -6,7 +6,7 @@ category: concept
 
 ## What it is
 
-The method of regulating access to computer or network resources based on individual users' roles within an organization.
+The method of regulating systems and resources access based on individual users' roles within an organization.
 
 ## Problem it addresses
 
