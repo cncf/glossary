@@ -29,6 +29,5 @@ This is achieved by shifting some storage and processing resources from the data
 The concept of edge computing is simple; instead of delivering data to the data center, 
 the data center migrates closer to the data. 
 Efficiency is the primary driver of edge computing. 
-For gathering and processing data locally, edge computing places storage and servers where the data resides.
 
 
