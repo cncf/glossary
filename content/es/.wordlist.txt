@@ -11,6 +11,7 @@ architecture
 Arnes
 autocura
 autoescalado
+autoescalamiento
 autorreparables
 AWS
 Azure
@@ -34,6 +35,7 @@ category
 Catherine
 CC
 CD
+Chaos
 Chris
 CI
 cifrada
@@ -47,6 +49,7 @@ Committee
 community
 Completed
 concept
+confiabilidad
 Container
 contenedores
 contenedorizadas
@@ -68,6 +71,7 @@ DigitalOcean
 directly
 ej
 Engine
+Engineering
 entregables
 escalarse
 escaneos
@@ -104,6 +108,7 @@ https
 IaaS
 IaC
 iamnoah
+indisponibilidad
 infrastructure
 Initiative
 inmutable
@@ -162,6 +167,7 @@ portable
 pr
 prem
 premises
+proactiva
 profesionistas
 properties
 propose
@@ -187,6 +193,7 @@ Slack
 sobreescriba
 Sockets
 Spanish
+SRE
 SSL
 stack
 Started
