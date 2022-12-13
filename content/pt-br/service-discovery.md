@@ -2,18 +2,18 @@
 title: Descoberta de Serviço
 status: Concluído
 category: conceito
-tags: ["networking", "", ""]
+tags: ["rede", "", ""]
 ---
 
 ## O que é
 
 A descoberta de serviço é o processo de localização de instâncias individuais que compõem um serviço.
-Uma ferramenta de descoberta de serviço rastreia os vários nós ou terminais que compõem um serviço.
+Uma ferramenta de descoberta de serviço rastreia os vários nós ou endpoints que compõem um serviço.
 
 ## Problema relacionado
 
 As arquiteturas nativas da nuvem são dinâmicas e fluidas, o que significa que estão em constante mudança.
-Um aplicativo [containerizado](/containerization/) provavelmente iniciará e interromperá várias vezes durante sua vida útil.
+Um aplicação [contêinerização](/pt-br/containerization/) provavelmente iniciará e interromperá várias vezes durante sua vida útil.
 Cada vez que isso acontecer, ele terá um novo endereço e
 qualquer aplicativo que queira encontrá-lo precisa de uma ferramenta para fornecer as novas informações de localização.
 
