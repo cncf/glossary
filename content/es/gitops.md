@@ -2,7 +2,7 @@
 title: GitOps
 status: Feedback Appreciated
 category: Concepto
-tags: ["", "", ""]
+tags: ["methodology", "", ""]
 ---
 
 ## ¿Qué es?

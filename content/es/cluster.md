@@ -2,7 +2,7 @@
 title: Clúster
 status: Completed
 category: Concepto
-tags: ["infrastructure", "architecture", ""]
+tags: ["infrastructure", "fundamental", ""]
 ---
 
 ## ¿Qué es?

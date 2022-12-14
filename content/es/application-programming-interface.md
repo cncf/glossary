@@ -1,8 +1,8 @@
 ---
-title: Interfaz de programación de aplicaciones  (API)
+title: Interfaz de programación de aplicaciones (API)
 status: Completed
 category: Tecnología
-tags: ["architecture", "", ""]
+tags: ["architecture", "fundamental", ""]
 ---
 
 ## ¿Qué es?

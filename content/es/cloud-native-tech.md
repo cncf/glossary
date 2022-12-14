@@ -2,7 +2,7 @@
 title: Tecnología Nativa para la Nube
 status: Completed
 category: Concepto
-tags: ["fundamentals", "", ""]
+tags: ["fundamental", "", ""]
 ---
 
 ## ¿Qué es?

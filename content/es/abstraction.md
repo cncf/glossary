@@ -2,7 +2,7 @@
 title: Abstracción
 status: Completed
 category: Propiedad
-tags: ["architecture", "", ""]
+tags: ["fundamental", "", ""]
 ---
 
 En el contexto de la informática, una abstracción es una representación que
