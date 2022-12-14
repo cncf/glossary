@@ -19,7 +19,7 @@ Problemi di sicurezza, bug e difetti del software possono essere più difficili 
 
 Adottando una mentalità _Shift Left_ per lo sviluppo del software, i team possono implementare testing e pratiche di sicurezza durante l'intero ciclo di vita dello sviluppo perché tale responsabilità viene condivisa dall'intero team - dagli ingegneri ai responsabili della qualità fino alle operations - cosicché tutti abbiano un ruolo proattivo nel garantire la stabilità e la sicurezza di un'applicazione.
 
-Inoltre, lo spostamento a sinistra facilita il miglioramento continuo, pruovendo un approccio allo sviluppo [agile](it/agile-software-development/) piuttosto che _waterfall_ (a cascata).
+Inoltre, lo spostamento a sinistra facilita il miglioramento continuo, seguendo un approccio allo sviluppo [agile](/it/agile-software-development/) piuttosto che _waterfall_ (a cascata).
 I team possono apportare piccoli miglioramenti iterativi e identificare i problemi in anticipo. Questo approccio consente agli ingegneri di adottare pratiche di sviluppo sicure e pratiche specifiche di sicurezza già nella fase di progettazione architetturale.
 I test durante tutto il ciclo di sviluppo riducono il tempo necessario per lo stesso tipo di attività appena prima del rilascio del software.
 
