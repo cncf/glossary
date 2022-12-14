@@ -16,15 +16,6 @@ Per fare un esempio, poniamo che si stia cercando qualcosa con un motore di rice
 
 ## Quali problematiche affronta
 
-Stateless applications tackle the problem of resiliency, 
-because different pods across a [cluster](/cluster/) can work independently, 
-with multiple requests coming to them at the same time. 
-If there’s a problem, you can easily restart the application, 
-and it will return to its initial state with little or no downtime. 
-As such, the benefits of stateless applications include resiliency, elasticity, and high availability. 
-However, most applications we use today are at least partly [stateful](/it/stateful-apps/), 
-as they store things like preferences and settings to improve the user experience.
-
 Le applicazioni _stateless_ affrontano la questione della resilienza,
 poiché pod diversi in un [cluster](/cluster/) possono funzionare in modo indipendente,
 ricevendo più richieste contemporaneamente.
