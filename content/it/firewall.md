@@ -7,7 +7,7 @@ tags: ["sicurezza", "", ""]
 
 ## Cos'è
 
-Un firewall (letteralmente _muro di fuoco_) è un sistema che filtra il traffico di un network basandosi su regole specifiche.
+Un firewall è un sistema che filtra il traffico di un network basandosi su regole specifiche.
 I firewall possono essere hardware, software, o una combinazione di entrambi.
 
 ## Quali problematiche affronta
