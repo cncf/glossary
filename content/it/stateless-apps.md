@@ -26,13 +26,6 @@ dato che memorizzano informazioni quali preferenze e impostazioni per migliorare
 
 ## In che modo aiuta
 
-Boiling everything down, in a Stateless Application the only thing your cluster is responsible for is 
-the code, and other static content, being hosted on it. 
-That’s it, no changing databases, no writes and no left over files when the pod is deleted. 
-Stateless [containers](/container/) are easier to deploy, 
-and you don’t need to worry about saving container data on persistent storage volumes. 
-You also don't have to worry about backing up the data.
-
 Volendo sintetizzare, in un'applicazione _stateless_ l'unica cosa di cui il nostro cluster è responsabile è
 il codice e altro contenuto statico ospitato su di esso.
 Non c'è altro: nessuna modifica dei database, nessuna scrittura e nessun file residuo quando il pod viene eliminato.
