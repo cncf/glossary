@@ -7,7 +7,7 @@ tags: ["metodologia", "approccio cloud native"]
 
 ## Cos'è
 
-_Left_ in _Shift Left_ (letteralmente "sposta a sinistra") si riferisce alle fasi precedenti di un ciclo di vita dello sviluppo del software, se si immagina il ciclo di vita come una linea llungo la quale le fasi si susseguono da sinistra a destra.
+_Left_ in _Shift Left_ (letteralmente "spostamento a sinistra") si riferisce alle fasi precedenti di un ciclo di vita dello sviluppo del software, se si immagina il ciclo di vita come una linea lungo la quale le fasi si susseguono da sinistra a destra.
 _Shift Left_ è l'approccio per il quale l'implementazione di test, di pratiche di sicurezza o di altre accorgimenti viene anticipata nelle prime fase del ciclo di vita dello sviluppo piuttosto che integrata solo alla fine dello stesso.
 Per quanto fosse originariamente utilizzato per riferirsi al processo di testing anticipato rispetto al ciclo nel suo complesso, _Shift Left_ può ora essere applicato anche ad altri aspetti dello sviluppo del software e di[DevOps](it/devops/), quali la sicurezza e il deployment. 
 
