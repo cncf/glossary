@@ -19,7 +19,7 @@ La frequente distribuzione di nuove funzionalità nell'ambiente di produzione pu
 
 ## In che modo aiuta
 
-La _Chaos Engineering_  è una tecnica per soddisfare i requisiti di resilienza contro i malfunzionamenti dell'infrastruttura, della piattaforma e dell'applicazione.
+Il _Chaos Engineering_ è una tecnica per soddisfare i requisiti di resilienza contro i malfunzionamenti dell'infrastruttura, della piattaforma e dell'applicazione.
 
 Gli ingegneri del caos sperimentano con il fine di iniettare in modo proattivo errori, bug e guasti casuali al fine di verificare che un'applicazione, un'infrastruttura o una piattaforma siano in grado di ripararsi in modo autonomo e che l'errore possa impattare marginalmente sul business.
 Gli esperimenti sul caos mirano a scoprire punti ciechi (un esempio sono le tecniche di monitoraggio o scalabilità automatica) e a migliorare la comunicazione tra i team durante gli incidenti critici.
