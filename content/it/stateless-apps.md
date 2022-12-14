@@ -17,7 +17,7 @@ Per fare un esempio, poniamo che si stia cercando qualcosa con un motore di rice
 ## Quali problematiche affronta
 
 Le applicazioni _stateless_ affrontano la questione della resilienza,
-poiché pod diversi in un [cluster](/cluster/) possono funzionare in modo indipendente,
+poiché pod diversi in un [cluster](/it/cluster/) possono funzionare in modo indipendente,
 ricevendo più richieste contemporaneamente.
 In caso si riscontrasse un problema, l'applicazione potrebbe essere facilmente riavviata, tornando al suo stato iniziale con tempi di inattività minimi o nulli.
 Risulta evidente che i vantaggi delle applicazioni _stateless_ includano resilienza, elasticità e disponibilità elevata.
