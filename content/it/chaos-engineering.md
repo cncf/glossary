@@ -7,7 +7,7 @@ tags: ["metodologia", "approccio", ""]
 
 ## Cos'è
 
-Il _Chaos Engineering_ (Ingegneria del Caos) o CE è un approccio discipliare secondo con cui si sperimenta sotto stress su un [sistema distribuito](it/sistemi-distribuiti/) in produzione per consolidare la fiducia nella capacità del sistema di resistere a condizioni turbolente e impreviste (la sua affidabilità).
+Il _Chaos Engineering_ (Ingegneria del Caos) o CE è un approccio disciplinare secondo cui si sperimenta sotto stress un [sistema distribuito](/it/distributed-systems/) in produzione per consolidare la fiducia nella capacità del sistema di resistere a condizioni turbolente e impreviste (la sua affidabilità).
 
 ## Quali problematiche affronta
 
