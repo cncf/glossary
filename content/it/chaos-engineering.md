@@ -14,7 +14,7 @@ Il _Chaos Engineering_ (Ingegneria del Caos) o CE è un approccio disciplinare s
 Le pratiche [SRE](/it/site-reliability-engineering/) e [DevOps](/it/devops/) si concentrano su tecniche volte ad aumentare la resilienza e l'[affidabilità](/it/reliability/) del prodotto.
 La capacità di un sistema di tollerare gli errori garantendo al tempo stesso un'adeguata qualità del servizio è tipicamente un requisito di sviluppo del software.
 
-Diverse sono le ragioni che potrebbero portare a interruzioni di un'applicazione, come mancanze infrastrutturali, a livello di piattaforma o di altre parti mobili di un'applicazione basata su ([microservizi](it/microservices/).
+Diverse sono le ragioni che potrebbero portare a interruzioni di un'applicazione, come mancanze infrastrutturali, a livello di piattaforma o di altre parti mobili di un'applicazione basata su [microservizi](/it/microservices/).
 La frequente distribuzione di nuove funzionalità nell'ambiente di produzione può comportare un'alta probabilità di tempi di inattività o di incidenti  critici — con notevoli conseguenze per il business.
 
 ## In che modo aiuta
