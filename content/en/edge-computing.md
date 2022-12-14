@@ -24,7 +24,7 @@ Today's world of the Internet of Things (IoT) calls for a new paradigm: edge com
 
 ## How it helps
 
-IT architects have made their way back from the central data center to the logical Edge of the infrastructure, 
+As described above, for edge devices to be useful, they must do at least part of the processing and analyzing locally to provide near real-time feedback to users. 
 This is achieved by shifting some storage and processing resources from the data center to where the data is generated: the edge device.
 The concept of edge computing is simple; instead of delivering data to the data center, 
 the data center migrates closer to the data. 
