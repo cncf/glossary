@@ -27,7 +27,7 @@ Today's world of the Internet of Things (IoT) calls for a new paradigm: edge com
 As described above, for edge devices to be useful, they must do at least part of the processing and analyzing locally to provide near real-time feedback to users. 
 This is achieved by shifting some storage and processing resources from the data center to where the data is generated: the edge device.
 Processed and unprocessed data is subsequently sent to the data center for further processing and storage.
-the data center migrates closer to the data. 
+Processed and unprocessed data is subsequently sent to the data center for further analysis and storage.
 Efficiency is the primary driver of edge computing. 
 
 
