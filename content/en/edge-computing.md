@@ -14,7 +14,7 @@ Examples of edge computing include gadgets on our wrists or computers that analy
 
 ## Problem it addresses
 
-Over the past decade, we've seen an increasing amount of smart devices.
+Over the past decade, we've seen an increasing amount of edge devices (e.g., mobile phones, smart watches, or sensors). 
 In some cases, real-time data processing is not only a nice-to-have but vital. 
 Think of self-driving cars. 
 Now imagine the data from sensors would have to be transferred to a data center for processing to be sent back to the vehicle so it can take action. 
