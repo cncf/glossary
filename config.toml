@@ -109,13 +109,19 @@ languageName ="中文(Chinese)"
 contentDir = "content/zh-cn"
 weight = 7
 
-
 [languages.bn]
 title = "ক্লাউড নেটিভ শব্দকোষ"
 description = "CNCF ক্লাউড নেটিভ শব্দকোষ প্রকল্পটি ক্লাউড নেটিভ অ্যাপ্লিকেশন সম্পর্কে কথা বলার সময় ব্যবহৃত সাধারণ পদগুলির জন্য একটি রেফারেন্স হিসাবে ব্যবহার করার উদ্দেশ্যে।"
 languageName = "বাংলা(Bengali)"
 contentDir = "content/bn"
 weight = 8
+
+[languages.de]
+title = "Cloud Native Glossar"
+description = "Das CNCF Cloud Native Glossar soll als Referenz für gängige Begriffe dienen, die im Zusammenhang mit Cloud Native Anwendungen verwendet werden."
+languageName ="Deutsch"
+contentDir = "content/de"
+weight = 9
 
 
 [markup]
