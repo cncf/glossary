@@ -2,7 +2,7 @@
 title: Transport Layer Security (TLS)
 status: Completed
 category: Concept
-tags: ["security", "", ""]
+tags: ["security", "networking", ""]
 ---
 
 ## What it is

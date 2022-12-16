@@ -1,6 +1,6 @@
 ---
 title: Version Control
-status: Completed
+status: Deprecated
 category: Technology
 tags: ["methodology", "", ""]
 ---

@@ -1,5 +1,5 @@
 ---
-title: 容器即服务
+title: 容器即服务 (CaaS)
 status: Completed
 category: 技术
 tags: ["平台", "", ""]
@@ -7,7 +7,7 @@ tags: ["平台", "", ""]
 
 ## 是什么
 
-容器即服务（CaaS）是一种云服务，有助于使用基于 [容器](/zh-cn/container/) 的 [抽象](/abstraction/) 管理和部署应用程序。
+容器即服务（CaaS）是一种云服务，有助于使用基于 [容器](/zh-cn/container/) 的 [抽象](/zh-cn/abstraction/) 管理和部署应用程序。
 这项服务可以部署在企业内部或云中。
 
 CaaS 供应商提供了一个框架或协调平台，使容器部署和管理的关键 IT 功能自动化。
