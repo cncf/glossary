@@ -2,7 +2,7 @@
 title: Microservices
 status: Completed
 category: concept
-tags: ["architecture", "", ""]
+tags: ["architecture", "fundamental", ""]
 ---
 
 ## What it is

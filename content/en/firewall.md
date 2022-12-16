@@ -1,8 +1,8 @@
 ---
 title: Firewall
-status: Completed
+status: Deprecated
 category: Technology
-tags: ["security", "", ""]
+tags: ["Deprecated", "", ""]
 ---
 
 ## What it is

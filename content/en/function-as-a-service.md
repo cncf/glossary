@@ -2,7 +2,7 @@
 title: Function as a Service (FaaS)
 status: Completed
 category: Technology
-tags: ["platform", "", ""]
+tags: ["infrastructure", "", ""]
 ---
 
 ## What it is
