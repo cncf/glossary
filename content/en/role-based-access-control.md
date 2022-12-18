@@ -13,7 +13,8 @@ Sales and marketing have different permissions based on their roles, hence role-
 
 ## Problem it addresses
 
-To maintain the security of an organization, it becomes increasingly important to limit unnecessary permissions based on employee roles.
+Without RBAC, it is easy to lose track of who has access to what. Malicious actors are always in search of vulnerabilities to exploit and a mismanaged account with too many privileges can put an entire system at risk. 
+
 
 ## How it helps
 
