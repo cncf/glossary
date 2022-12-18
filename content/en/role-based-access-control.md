@@ -6,7 +6,7 @@ category: concept
 
 ## What it is
 
-The method of regulating systems and resources access based on individual users' roles within an organization.
+Role-Based Access Control (RBAC) is a method to regulate system and resource access based on individual users' roles within an organization.
 
 ## Problem it addresses
 
