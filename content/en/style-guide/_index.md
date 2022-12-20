@@ -98,14 +98,15 @@ With the exception of "fundamental," which simply indicates this term is needed 
 **Note**: Please do not introduce new tags unless approved by the maintainers. When you add tags to an entry, ensure they are spelled exactly as listed below (singular, no typos).
 
 The current tags are:
-application
-architecture
-fundamental
-infrastructure
-methodology
-networking
-property
-security
+
+- application
+- architecture
+- fundamental
+- infrastructure
+- methodology
+- networking
+- property
+- security
 
 ```md
 ---
