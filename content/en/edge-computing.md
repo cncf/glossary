@@ -20,7 +20,6 @@ Think of self-driving cars.
 Now imagine the data from the car's sensors would have to be transferred to a data center for processing before being sent back to the vehicle so it can react appropriately. 
 The inherent network latency could be fatal. 
 While this is an extreme example, most users wouldn't want to use a smart device unable to provide instant feedback. 
-Today's world of the Internet of Things (IoT) calls for a new paradigm: edge computing. 
 
 ## How it helps
 
