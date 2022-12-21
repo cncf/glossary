@@ -10,7 +10,7 @@ Edge computing is a [distributed system](/distributed-systems/) approach that sh
 The gathered data is computed locally (e.g., on a factory floor, in a store, or throughout a city) rather than sent to a centralized data center for processing and analysis. 
 These local processing units or devices represent the system's edge, whereas the data center is its center.
 The output computed at the edge is then sent back to the primary data center for further processing.
-Examples of edge computing include gadgets on our wrists or computers that analyze traffic flow.
+Examples of edge computing include wrists gadgets or computers that analyze traffic flow.
 
 ## Problem it addresses
 
