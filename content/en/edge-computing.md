@@ -1,6 +1,6 @@
 ---
 title: Edge Computing
-status: Feedback Appreciated
+status: Completed
 category: Technology
 ---
 
