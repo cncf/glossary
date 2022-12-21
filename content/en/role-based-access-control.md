@@ -18,5 +18,6 @@ Without RBAC, it is easy to lose track of who has access to what. Malicious acto
 
 ## How it helps
 
-It simplifies access management and enables more granular control of user actions in software applications.
+RBAC enables granular control over user permissions within software systems. 
+Depending on their roles, team members might be able only to view a section, change it, or have no access at all. 
 The allocation of features to the right people prevents overprivileged accounts and unauthorized access.
