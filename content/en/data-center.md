@@ -7,12 +7,9 @@ tags: ["infrastructure", "", ""]
 
 ## What it is
 
-A data center is a specialised building or facility designed specifically to house computers, most often servers. 
-Data centers tend to be connected to high-speed internet lines, 
-especially in the case of data centers focused on [cloud computing](/cloud-computing/). 
-The buildings data centers are housed in also have equipment to maintain service even in the case of negative events, 
-such as generators to provide power during outages, 
-as well as powerful air conditioning to deal with waste heat produced by the computers.
+A data center is a specialized building or facility designed to house computers, most often servers. 
+These data centers tend to be connected to high-speed internet lines, especially when focused on cloud computing](/cloud-computing/). 
+The buildings housing data centers are equipped to maintain service even during adverse events, including generators that provide power during outages and powerful air conditioning that keep the heat-producing computers cool. 
 
 ## Problem it addresses
 
