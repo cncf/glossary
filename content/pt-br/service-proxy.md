@@ -1,13 +1,13 @@
 ---
 title: Proxy de serviço
-status: Concluído
+status: Completed
 category: tecnologia
-tags: ["networking", "", ""]
+tags: ["rede", "", ""]
 ---
 
 ## O que é
 
-Um proxy de serviço intercepta o tráfego de ou para um determinado [serviço](/service/),
+Um proxy de serviço intercepta o tráfego de ou para um determinado [serviço](/pt-br/service/),
 aplica alguma lógica a ele e, em seguida, encaminha esse tráfego para outro serviço.
 Ele atua essencialmente como um “intermediário” que coleta informações sobre o tráfego da rede e/ou aplica regras a ele.
 
@@ -27,4 +27,4 @@ Atuando como guardiões entre os serviços, os proxies fornecem informações so
 Com base em suas percepções, eles determinam para onde enviar uma solicitação específica ou até mesmo recusá-la totalmente.
 
 Os proxies coletam dados críticos, gerenciam o roteamento (distribuem o tráfego uniformemente entre os serviços ou reencaminham se alguns serviços forem interrompidos),
-criptografar conexões e armazenar conteúdo em cache (reduzindo o consumo de recursos).
+criptografam as conexões e armazenam o conteúdo em cache (reduzindo o consumo de recursos).
