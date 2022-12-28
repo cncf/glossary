@@ -29,21 +29,21 @@ menu:
 
 [शब्दावली गिटहब रेपो](https://github.com/cncf/glossary/issues) issue पर जाएं और "new issue" पर क्लिक करें।
 
-![इशू](/images/how-to/howto-01.png)
+![इशू](https://github.com/cncf/glossary/blob/main/static/images/how-to/howto-01.png)
 
 आपको कई तरह के टेम्प्लेट दिखाई देंगे। हिंदी में एक नया शब्द प्रस्तावित करने के लिए, "English Language Glossary Request" चुनें।
 
-![टेम्पलेट](/images/how-to/howto-02.png)
+![टेम्पलेट](https://github.com/cncf/glossary/blob/main/static/images/how-to/howto-02.png)
 
 वह शब्द जोड़ें जिसका आप सुझाव दे रहे हैं और "submit new issue" दबाएं। यदि आप सिर्फ एक नया शब्द प्रस्तावित कर रहे हैं, तो आपका काम हो गया! इस पर काम करने के लिए, अगले चरणों का पालन करें।
 
-![नया इशू](/images/how-to/howto-03.png)
+![नया इशू](https://github.com/cncf/glossary/blob/main/static/images/how-to/howto-03.png)
 
 कृपया CNCF Slack पर #glossary चैनल से जुड़ें और @Catherine Paganini, @jmo, और @Seokho Son को सुचना दें कि आपने एक इशू जमा कर दी है और उस पर काम करना चाहते हैं। वे आपको वह इशू सौंपेंगे जो अन्य सभी को संकेत देगा कि यह शब्द पहले ही लिया जा चुका है।
 
 यहां आप देख सकते हैं कि पहले तीन शब्द उपलब्ध हैं जबकि अगला शब्द किसी को सौंपा गया है।
 
-![शब्द पे दावा करना](/images/how-to/howto-04.png)
+![शब्द पे दावा करना](https://github.com/cncf/glossary/blob/main/static/images/how-to/howto-04.png)
 
 ध्यान दें कि आप एक बार में केवल एक शब्द का दावा कर सकते हैं। यदि आप एक से अधिक शब्दों पर काम करना चाहते हैं, तो कृपया अगली पर दावा करने से पहले एक को समाप्त करें।
 
@@ -53,39 +53,39 @@ menu:
 
 एक बार जब टर्म सबमिट करने के लिए तैयार हो जाए, तो content पर जाएं (code के तहत)…
 
-![content](/images/how-to/howto-05.png)
+![content](https://github.com/cncf/glossary/blob/main/static/images/how-to/howto-05.png)
 
 …फिर "en" (या जिस भाषा के लिए आप सबमिट कर रहे हैं)…
 
-![भाषा फ़ोल्डर](/images/how-to/howto-06.png)
+![भाषा फ़ोल्डर](https://github.com/cncf/glossary/blob/main/static/images/how-to/howto-06.png)
 
 …और _TEMPLATE.md . चुनें
 
-![template](/images/how-to/howto-07.png)
+![template](https://github.com/cncf/glossary/blob/main/static/images/how-to/howto-07.png)
 
 कंटेंट की प्रतिलिपि बनाएँ…
 
-![कंटेंट की प्रतिलिपि](/images/how-to/howto-08.png)
+![कंटेंट की प्रतिलिपि](https://github.com/cncf/glossary/blob/main/static/images/how-to/howto-08.png)
 
 …और "en" फ़ोल्डर में वापस जाएं। "add file" दबाएं और "create new file" चुनें।
 
-![create new file](/images/how-to/howto-09.png)
+![create new file](https://github.com/cncf/glossary/blob/main/static/images/how-to/howto-09.png)
 
 URL में शब्द (कोई कैपिटलाइज़ेशन(capitalization) नहीं और कोई अवधि(space) नहीं) और अंत में .md जोड़ें (ध्यान दें कि यदि आपका पूर्वावलोकन काम नहीं करता है, तो आप शायद अंत में .md जोड़ना भूल गए हैं)। अब नीचे टेम्पलेट कंटेंट पेस्ट करें। अपनी परिभाषा को फ़ाइल में कॉपी और पेस्ट करें। ध्यान दें कि GitHub टेक्स्ट को प्रारूपित करने के लिए मार्कडाउन का उपयोग करता है (उदाहरण के लिए, हाइपरलिंक, बोल्ड, इटैलिक)। कृपया [मार्कडाउन चीट शीट](https://www.markdownguide.org/cheat-sheet/) देखें। मार्कडाउन के सही प्रयोग को सत्यापित करने के लिए "preview" पर जाएं।
 
-![finalize term](/images/how-to/howto-10.png)
+![finalize term](https://github.com/cncf/glossary/blob/main/static/images/how-to/howto-10.png)
 
 जब आप सबमिट करने के लिए तैयार हों तो नीचे स्क्रॉल करें और नये कमिट फ़ाइल को नाम दें। अब आप इस शब्द को अपने ब्रांच पर कमिट करने वाले हैं। PR सबमिट करने के लिए एक और चरण की आवश्यकता होती है। "commit new file" दबाएं और…
 
-![commit new file](/images/how-to/howto-11.png)
+![commit new file](https://github.com/cncf/glossary/blob/main/static/images/how-to/howto-11.png)
 
 …अब आप एक PR बना रहे हैं:
 
-![pr बनाना](/images/how-to/howto-12.png)
+![pr बनाना](https://github.com/cncf/glossary/blob/main/static/images/how-to/howto-12.png)
 
 अब आपको अपना pr "Pull requests" के तहत दिखना चाहिए।
 
-![prs](/images/how-to/howto-13.png)
+![prs](https://github.com/cncf/glossary/blob/main/static/images/how-to/howto-13.png)
 
 ## मौजूदा शब्द अपडेट करें
 
@@ -95,17 +95,17 @@ URL में शब्द (कोई कैपिटलाइज़ेशन(ca
 
 यदि आप कसी शब्द में किसी त्रुटि की सुचना देना चाहते हैं, लेकिन यह नहीं जानते कि इसे स्वयं कैसे ठीक करना है या नहीं करना चाहते हैं, तो "report issue" पर क्लिक करें।
 
-![report issue](/images/how-to/howto-14.png)
+![report issue](https://github.com/cncf/glossary/blob/main/static/images/how-to/howto-14.png)
 
 यह सीधे एक इशू खोलेगा। कृपया विस्तार से बताएं कि किस परिवर्तन की आवश्यकता है और क्यों। इसके बाद "submit" बटन दबाएं।
 
-![submit issue](/images/how-to/howto-15.png)
+![submit issue](https://github.com/cncf/glossary/blob/main/static/images/how-to/howto-15.png)
 
 ### शब्द को सीधे अपडेट करें
 
 किसी शब्द को सीधे बदलने के लिए, "edit this page" पर जाएं।
 
-![edit this page](/images/how-to/howto-16.png)
+![edit this page](https://github.com/cncf/glossary/blob/main/static/images/how-to/howto-16.png)
 
 इससे शब्द का GitHub पेज खुल जाएगा. अपने परिवर्तन करें और एक PR जमा करें। विस्तृत विवरण के लिए कृपया ऊपर "नया शब्द जमा करना" देखें (मार्कडाउन के बारे में बात करने वाले अनुभाग पर जाएं)।
 
