@@ -25,11 +25,13 @@ All code contributions are under the Apache 2.0 license. Documentation is distri
 
 To improve the Cloud Native Glossary site itself, install a local copy with these instructions. Note you must have [npm](https://www.npmjs.com/) and [Hugo](https://gohugo.io/) installed.
 
-```
-git clone https://github.com/cncf/glossary.git
-cd glossary
-git submodule update --init --recursive
-npm install
-```
 
-You can then run the site using `hugo server`.
+    git clone https://github.com/cncf/glossary.git
+
+    cd glossary
+
+    git submodule update --init --recursive
+
+    npm install
+
+You can then run the site using ` hugo server `.
