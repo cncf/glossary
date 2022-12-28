@@ -1,20 +1,17 @@
 ---
-title: Microservices
+title: Microservices Architecture 
 status: Completed
-category: concept
 tags: ["architecture", "fundamental", ""]
 ---
 
 ## What it is
 
-Microservices are a modern approach to application development that takes advantage of cloud native technologies. 
-While modern applications, like Netflix, appear to be a single app, 
-they are actually a collection of smaller services – all closely working together. 
-For instance, a single page that allows you to access, search, and preview videos is likely 
-powered by smaller services that each handle one aspect of it 
-(e.g. search, authentication, and running previews in your browser). 
-In short, microservices refer to an application architecture pattern 
-usually contrasted with [monolithic applications](/monolithic-apps/).
+A microservices architecture is an architectural approach that breaks applications into individual, independent (micro)[services](/service/) — all closely working together, appearing to the end user as a single entity. 
+Take Netflix as an example. 
+Its interface allows you to access, search, and preview videos. 
+These capabilities are likely powered by smaller services that each handle one aspect, e.g., authentication, search, and running previews in your browser. 
+
+This architectural approach allows developers to push out new features or update functionality much faster than if they were all tightly coupled, such as in a [monolithic application](/monolithic-apps/) (more to that below).
 
 ## Problem it addresses
 
