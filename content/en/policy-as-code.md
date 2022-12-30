@@ -20,4 +20,6 @@ Manual processes cannot meet the responsiveness and scale requirements of cloud 
 ## How it helps
 
 Describing policies through code enables repeatability and reduces errors (unlike when done manually). 
-It also helps implement software development best practices, such as using Git and associated workflows.
+Another advantage of Policy as Code is that code can be managed by a version control system like Git.
+Git creates a change log history which is particularly helpful when something does not work as expected.
+It allows the user to determine who made the change and revert back to a previous version.  
