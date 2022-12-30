@@ -6,7 +6,8 @@ tags: ["architecture", "fundamental", ""]
 
 ## What it is
 
-A microservices architecture is an architectural approach that breaks applications into individual, independent (micro)[services](/service/) — all closely working together, appearing to the end user as a single entity. 
+A microservices architecture is an architectural approach that breaks applications into individual independent (micro)[services](/service/).
+These services work together closely, appearing to the end user as a single entity. 
 Take Netflix as an example. 
 Its interface allows you to access, search, and preview videos. 
 These capabilities are likely powered by smaller services that each handle one aspect, e.g., authentication, search, and running previews in your browser. 
@@ -15,17 +16,18 @@ This architectural approach allows developers to push out new features or update
 
 ## Problem it addresses
 
-Microservices are a response to challenges posed by monolithic applications. 
-Generally, different parts of an application will need to be [scaled](/scalability/) separately. 
-An online store, for example, is going to have more product views than checkouts. 
-That means you'll need more copies of the product view functionality running than the checkout. 
-In a monolithic application, those bits of logic can't be deployed separately. 
-If you can't scale the product functionality individually, 
-you'll have to duplicate the entire app with all other components you don't need – an inefficient use of resources.
-Monolithic applications also make it easy for developers to succumb to design pitfalls. 
-Because all the code is in one place, it is easier to make that code [tightly-coupled](/tightly-coupled-architectures/) and 
-harder to enforce the principle of separation of concerns. 
-Monoliths often require developers to understand the entire codebase before they can be productive.
+Applications are made up of different parts, each responsible for a specific capability. 
+Demand for a particular functionality will not necessarily increase or decrease with demand for other app parts. 
+Going back to our Netflix example. 
+Let's say that after a Black Friday discount campaign, Netflix experiences a big spike in signups, but streaming has remained more or less stable in the early hours of the day.  
+The surge in signups demands more signup functionality capacity. 
+Traditionally (monolithic approach), the entire app would have to be scaled to accommodate the signup increase — a very inefficient use of resources. 
+
+Monolithic architectures also make it easy for developers to succumb to design pitfalls. 
+Because all the code is in one place, it is easier to make that code [tightly coupled](/tightly-coupled-architectures/) and harder to enforce the principle of separation of concerns. 
+Monoliths also often require developers to understand the entire codebase before deploying any chances. 
+Microservices architecture is a response to these challenges.  
+
 
 ## How it helps
 
