@@ -19,5 +19,5 @@ Manual processes cannot meet the responsiveness and scale requirements of cloud 
 
 ## How it helps
 
-Using Policy as Code makes it possible to automate the checking of system properties and actions.
+Describing policies through code enables repeatability and reduces errors (unlike when done manually). 
 It also helps implement software development best practices, such as using Git and associated workflows.
