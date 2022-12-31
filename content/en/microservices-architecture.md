@@ -1,5 +1,5 @@
 ---
-title: Microservices Architecture 
+title: Microservices Architecture
 status: Completed
 tags: ["architecture", "fundamental", ""]
 ---
