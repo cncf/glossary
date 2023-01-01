@@ -2,6 +2,7 @@
 title: Platform as a Service (PaaS)
 status: Deprecated
 category: Technology
+draft: true
 tags: ["fundamental", "platform", ""]
 ---
 
