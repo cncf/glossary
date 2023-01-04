@@ -1,6 +1,6 @@
 ---
 title: Descoberta de Serviço
-status: Concluído
+status: Completed
 category: conceito
 tags: ["rede", "", ""]
 ---
@@ -13,7 +13,7 @@ Uma ferramenta de descoberta de serviço rastreia os vários nós ou endpoints q
 ## Problema relacionado
 
 As arquiteturas nativas da nuvem são dinâmicas e fluidas, o que significa que estão em constante mudança.
-Um aplicação [contêinerização](/pt-br/containerization/) provavelmente iniciará e interromperá várias vezes durante sua vida útil.
+Um aplicação [contêinerizada](/pt-br/containerization/) provavelmente iniciará e interromperá várias vezes durante sua vida útil.
 Cada vez que isso acontecer, ele terá um novo endereço e
 qualquer aplicativo que queira encontrá-lo precisa de uma ferramenta para fornecer as novas informações de localização.
 
