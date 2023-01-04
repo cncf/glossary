@@ -21,7 +21,7 @@ Demand for a particular functionality will not necessarily increase or decrease 
 Going back to our Netflix example. 
 Let's say that after a Black Friday discount campaign, Netflix experiences a big spike in signups, but streaming has remained more or less stable in the early hours of the day.  
 The surge in signups demands more signup functionality capacity. 
-Traditionally (monolithic approach), the entire app would have to be scaled to accommodate the signup increase — a very inefficient use of resources. 
+Traditionally (monolithic approach), the entire app would have to be [scaled](/scalability/) to accommodate the signup increase — a very inefficient use of resources. 
 
 Monolithic architectures also make it easy for developers to succumb to design pitfalls. 
 Because all the code is in one place, it is easier to make that code [tightly coupled](/tightly-coupled-architectures/) and harder to enforce the principle of separation of concerns. 
