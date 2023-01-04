@@ -6,11 +6,11 @@ tags: ["architecture", "fundamental", ""]
 
 ## What it is
 
-A microservices architecture is an architectural approach that breaks applications into individual independent (micro)[services](/service/).
+A microservices architecture is an architectural approach that breaks applications into individual independent (micro)[services](/service/), with each service focused on a specific functionality.
 These services work together closely, appearing to the end user as a single entity. 
 Take Netflix as an example. 
 Its interface allows you to access, search, and preview videos. 
-These capabilities are likely powered by smaller services that each handle one aspect, e.g., authentication, search, and running previews in your browser. 
+These capabilities are likely powered by smaller services that each handle one functionality, e.g., authentication, search, and running previews in your browser.
 
 This architectural approach allows developers to push out new features or update functionality much faster than if they were all tightly coupled, such as in a [monolithic application](/monolithic-apps/) (more to that below).
 
@@ -32,8 +32,6 @@ Microservices architecture is a response to these challenges.
 ## How it helps
 
 Separating functionality into different microservices makes them easier to deploy, update, and scale independently. 
-By allowing different teams to focus on their own small part of a bigger application 
-you also make it easier for them to work on their apps without negatively impacting the rest of the organization.
-While microservices solve many problems, they also create operational overhead 
-— the things you need to deploy and keep track of increase by order of magnitude or more. 
-Many [cloud-native technologies](/cloud-native-tech/) aim to make microservices easier to deploy and manage.
+It also allows different teams to work simultaneously on a small part of a bigger application without inadvertently negatively impacting the rest of the app. 
+While a microservices architecture solves many problems, it also creates operational overhead — the things you need to deploy and keep track of increase by order of magnitude. 
+Many cloud-native technologies aim to make microservices easier to deploy and manage.
