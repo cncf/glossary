@@ -19,7 +19,7 @@ This architectural approach allows developers to push out new features or update
 Applications are made up of different parts, each responsible for a specific capability. 
 Demand for a particular functionality will not necessarily increase or decrease with demand for other app parts. 
 Going back to our Netflix example. 
-Let's say that after a Black Friday discount campaign, Netflix experiences a big spike in signups, but streaming has remained more or less stable in the early hours of the day.  
+Let's say that after a big marketing campaign, Netflix experiences a big spike in signups, but streaming has remained more or less stable in the early hours of the day.  
 The surge in signups demands more signup functionality capacity. 
 Traditionally (monolithic approach), the entire app would have to be [scaled](/scalability/) to accommodate the signup increase — a very inefficient use of resources. 
 
@@ -34,4 +34,4 @@ Microservices architecture is a response to these challenges.
 Separating functionality into different microservices makes them easier to deploy, update, and scale independently. 
 It also allows different teams to work simultaneously on a small part of a bigger application without inadvertently negatively impacting the rest of the app. 
 While a microservices architecture solves many problems, it also creates operational overhead — the things you need to deploy and keep track of increase by order of magnitude. 
-Many cloud-native technologies aim to make microservices easier to deploy and manage.
+Many [cloud-native technologies](/cloud-native-tech/) aim to make microservices easier to deploy and manage.
