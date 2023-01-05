@@ -2,7 +2,7 @@
 title: Debugging
 status: Completed
 category: conceito
-tags: ["aplicação", "", ""]
+tags: ["aplicação", "metodologia", ""]
 ---
 
 ## O que é

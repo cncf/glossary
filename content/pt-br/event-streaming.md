@@ -2,6 +2,7 @@
 title: Streaming de Eventos
 status: Completed
 category: conceito
+tags: ["metodologia", "rede", ""]
 ---
 
 ## O que é
