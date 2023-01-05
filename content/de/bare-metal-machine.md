@@ -1,6 +1,6 @@
 ---
 title: Bare Metal Machine
-status: Feedback erwünscht
+status: Completed
 category: Technologie
 ---
 
