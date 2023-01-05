@@ -17,5 +17,4 @@ Falls die Verarbeitung eines Workloads einen schnellen Zugriff auf Hardwareresso
 ## Wie es das Problem löst
 
 Durch die Bereitstellung der gesamten Ressourcen eines physischen Computers für ein einziges Betriebssystem, kann die bestmögliche Leistung erzielt werden. 
-
 Durch die Skalierbarkeit von [Cloud Native Apps](/cloud-native-apps/) kann eine große Anzahl von parallelen Events effizient verarbeitet werden. Dies kann entweder durch horizontale oder vertikale Skalierung erreicht werden. Für bestimmte Workloads kann eine vertikale Skalierung und/oder eine schnelle Reaktionszeit der physischen Hardware erforderlich sein. Für diesen Fall eignet sich Bare Metal. 
