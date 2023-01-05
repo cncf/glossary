@@ -2,7 +2,7 @@
 title: Auto scaling
 status: Completed
 category: propriedade
-tags: ["aplicação", "infraestrutura", "arquitetura"]
+tags: ["infraestrutura", "", ""]
 ---
 
 O Auto scaling é a capacidade de um sistema de escalar automaticamente, normalmente, em termos de recursos computacionais. Com um sistema de auto scaling, os recursos são adicionados automaticamente quando necessário e podem ser dimensionados para atender às variações de demanda dos usuários. O processo de auto scaling varia e é configurável para escalar com base em diferentes métricas, como memória ou tempo de processamento. Os serviços gerenciados na nuvem geralmente estão associados à funcionalidade de auto scaling, pois há mais opções e implementações disponíveis do que a maioria das implantações no modelo on premise.

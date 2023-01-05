@@ -2,7 +2,7 @@
 title: Infraestrutura como Código
 status: Completed
 category: conceito
-tags: ["infraestrutura", "", ""]
+tags: ["infraestrutura", "metodologia", ""]
 ---
 
 ## O que é

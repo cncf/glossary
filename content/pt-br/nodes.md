@@ -2,7 +2,7 @@
 title: Nós
 status: Completed
 category: conceito
-tags: ["arquitetura", "", ""]
+tags: ["infraestrutura", "fundamento", ""]
 ---
 
 ## O que é

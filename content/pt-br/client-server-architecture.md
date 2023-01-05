@@ -2,7 +2,7 @@
 title: Arquitetura Cliente Servidor
 status: Completed
 category: conceito
-tags: ["arquitetura", "", ""]
+tags: ["arquitetura", "fundamento", ""]
 ---
 
 ## O que é

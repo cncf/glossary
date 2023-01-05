@@ -2,7 +2,7 @@
 title: Aplicações Nativas em Nuvem 
 status: Completed
 category: conceito
-tags: ["aplicação", "", ""]
+tags: ["aplicação", "fundamentos", ""]
 ---
 
 ## O que é
