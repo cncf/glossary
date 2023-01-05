@@ -11,7 +11,8 @@ Demgegenüber stehen virtuelle Maschinen, die einen Großteil der Server ausmach
 
 ## Welches Problem es löst
 
-Bei Virtualisierungen kommt es zu künstlicher Verzögerung bei der Übersetzung von Betriebssystemanweisungen in Maschinencode. Falls die Verarbeitung eines Workloads einen schnellen Zugriff auf Hardwareressourcen erfordert, kann Bare Metal die richtige Lösung sein.
+Bei Virtualisierungen kommt es zu künstlicher Verzögerung bei der Übersetzung von Betriebssystemanweisungen in Maschinencode. 
+Falls die Verarbeitung eines Workloads einen schnellen Zugriff auf Hardwareressourcen erfordert, kann Bare Metal die richtige Lösung sein.
 
 ## Wie es das Problem löst
 
