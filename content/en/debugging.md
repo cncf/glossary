@@ -2,6 +2,7 @@
 title: Debugging
 status: Deprecated
 category: concept
+draft: true
 tags: ["application", "methodology", ""]
 ---
 

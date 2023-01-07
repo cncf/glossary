@@ -18,7 +18,9 @@ other = "em"
 
 # Used in sentences such as "All Tags"
 [ui_all]
-other = "todos"
+other = "todas"
+[ui_see_all]
+other = "Ver todas"
 
 # Footer text
 [footer_all_rights_reserved]
