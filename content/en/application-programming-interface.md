@@ -1,8 +1,8 @@
 ---
-title: Application Programming Interface
+title: Application Programming Interface (API)
 status: Completed
 category: technology
-tags: ["architecture", "", ""]
+tags: ["architecture", "fundamental", ""]
 ---
 
 ## What it is
