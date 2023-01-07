@@ -1,5 +1,5 @@
 ---
-title: इदम्पोटेंस(Idempotence)
+title: इदम्पोटेंस
 status: Feedback Appreciated
 category: गुण
 ---
