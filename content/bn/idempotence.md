@@ -1,5 +1,5 @@
 ---
-title: ইডিমপোটেন্স
+title: ইডিমপোটেন্স(Idempotence)
 status: Feedback Appreciated
 category: সম্পত্তি
 ---
