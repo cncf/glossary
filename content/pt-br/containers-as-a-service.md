@@ -1,8 +1,8 @@
 ---
 title: Contêineres como Serviço
-status: Completed
+status: Deprecated
 category: tecnologia
-tags: ["plataforma", "", ""]
+tags: ["descontinuado", "", ""]
 ---
 
 ## O que é
