@@ -6,7 +6,7 @@ repository:
   name: glossary
 
   # A short description of the repository that will show up on GitHub
-  description: Cloud Native Glossary
+  description: The CNCF Cloud Native Glossary Project aims to define cloud native concepts in clear and simple language, making them accessible to anyone —  whether they have a technical background or not (https://glossary.cncf.io).
 
   # A URL with more information about the repository
   homepage: https://glossary.cncf.io/
@@ -43,7 +43,7 @@ collaborators:
   # Localization approvers
   # l10n ko approvers
   # Note: seokho-son is both Maintainer (maintain) and Korean approver (push)
-  # Note: jihoon-seo is both English approver (push) and Korean approver (push)
+  # Note: jihoon-seo is both Maintainer (maintain) and Korean approver (push)
   - username: Eviekim
     permission: push
 
@@ -58,6 +58,9 @@ collaborators:
     permission: push
 
   - username: jessicalins
+    permission: push
+
+  - username: MrErlison
     permission: push
 
   # l10n hi approvers
@@ -75,15 +78,18 @@ collaborators:
 
   # l10n de approvers
   # Note: CathPag is both Maintainer (maintain) and de approver (push)
-  # Note: iamNoah1 is both English approver (push) and de approver (push)
+  # Note: iamNoah1 is both Maintainer (maintain) and de approver (push)
   - username: DaveVentura
+    permission: push
+    
+  - username: bcubk
     permission: push
 
   # l10n it approvers
   - username: fsbaraglia
     permission: push
 
-  - username: meryem-ldn
+  - username: ugho16
     permission: push
 
   - username: annalisag-spark
@@ -118,7 +124,6 @@ collaborators:
   - username: Imtiaz1234
     permission: push
     
-
   # l10n es approvers
   - username: raelga
     permission: push
@@ -127,6 +132,9 @@ collaborators:
     permission: push
 
   - username: krol3
+    permission: push
+
+  - username: 92nqb
     permission: push
 
   # l10n zh approvers
@@ -151,6 +159,14 @@ collaborators:
 
   - username: Krast76
     permission: push
+
+  # l10n ur approvers
+  - username: Saim-Safdar
+    permission: push
+
+  - username: waleed318
+    permission: push
+
 
 branches:
 
@@ -208,6 +224,7 @@ branches:
          - edsoncelio
          - brunoguidone
          - jessicalins
+         - MrErlison
         teams: []
       enforce_admins: null
       required_linear_history: null
@@ -244,6 +261,7 @@ branches:
         users:
          - iamNoah1
          - DaveVentura
+         - bcubk
         teams: []
       enforce_admins: null
       required_linear_history: null
@@ -260,7 +278,7 @@ branches:
         # it approvers
         users:
          - fsbaraglia
-         - meryem-ldn
+         - ugho16
          - annalisag-spark
          - sistella
         teams: []
@@ -319,6 +337,7 @@ branches:
          - raelga
          - electrocucaracha
          - krol3
+         - 92nqb
         teams: []
       enforce_admins: null
       required_linear_history: null
@@ -356,6 +375,23 @@ branches:
          - huats
          - fydrah
          - Krast76
+        teams: []
+      enforce_admins: null
+      required_linear_history: null
+      
+  # l10n branch for ur contents only
+  - name: dev-ur
+    protection:
+      required_pull_request_reviews:
+        required_approving_review_count: 2
+        require_code_owner_reviews: true
+      required_status_checks: null
+      restrictions:
+        apps: []
+        # ur approvers
+        users:
+         - Saim-Safdar
+         - waleed318
         teams: []
       enforce_admins: null
       required_linear_history: null

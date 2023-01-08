@@ -2,7 +2,7 @@
 title: Self Healing
 status: Completed
 category: property
-tags: ["infrastructure", "architecture", ""]
+tags: ["infrastructure", "property"]
 ---
 
 A self-healing system is capable of recovering from certain types of failure without any human intervention. 
