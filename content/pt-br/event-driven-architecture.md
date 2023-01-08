@@ -1,5 +1,5 @@
 ---
-title: Arquitetura Orientadas por Eventos
+title: Arquitetura Orientada por Eventos
 status: Completed
 category: conceito
 tags: ["arquitetura", "", ""]
