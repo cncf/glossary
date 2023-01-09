@@ -18,7 +18,7 @@ Senza la multitenancy, ciascun tenant avrebbe bisogno di un'installazione dedica
 ## In che modo aiuta
 
 Un software multitenant fornisce a ciascun tenant un ambiente separato (dati, impostazioni, liste di credenziali, ecc.), servendo contemporaneamente più tenant. Dal punto di vista di un tenant, ciascuno ha la propria installazione software dedicata, anche se in realtà tutti loro ne stanno condividendo una sola. Questo si ottiene facendo girare il software su un server e permettendo ai tenant di connettersi ad esso attraverso la rete tramite un'interfaccia e/o un'[API](/it/application-programming-interface/) (fare riferimento anche all'[Architettura Client-Server](/it/client-server-architecture/)).
-Con un software multitenant, i tenants condividono le risorse di un'installazione senza influenzarsi tra loro o solo in modi predefiniti e controllati. Il conseguente risparmio di risorse da parte del fornitore del software può essere passato ai tenants, riducendo significativamente il costo del software per utente (anche in questo caso si può pensare alle e-mail web-based o agli editor di documenti).
+Con un software multitenant, i tenant condividono le risorse di un'installazione senza influenzarsi tra loro o solo in modi predefiniti e controllati. Il conseguente risparmio di risorse da parte del fornitore del software può essere passato ai tenant, riducendo significativamente il costo del software per utente (anche in questo caso si può pensare alle e-mail web-based o agli editor di documenti).
 
 ## Termini correlati
 
