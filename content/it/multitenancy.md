@@ -6,7 +6,7 @@ category: Proprietà
 
 ## Cos'è
 
-Multitenancy (o multi-tenancy) si riferisce a una singola installazione software che serve più _tenants_. Un tenant può essere un utente, un'applicazione o un gruppo di utenti/applicazioni che utilizzano il software per operare sul proprio set di dati. Questi tenant non condividono dati (a meno che non siano espressamente istruiti in tal modo dal proprietario) e possono non essere a conoscenza l'uno dell'altro.  
+Multitenancy (o multi-tenancy) si riferisce a una singola installazione software che serve più _tenant_. Un tenant può essere un utente, un'applicazione o un gruppo di utenti/applicazioni che utilizzano il software per operare sul proprio set di dati. Questi tenant non condividono dati (a meno che non siano espressamente istruiti in tal modo dal proprietario) e possono non essere a conoscenza l'uno dell'altro.  
 
 Un tenant può essere piccolo come un utente indipendente con un singolo ID di accesso — si pensi ai software di produttività personale — o tanto estesi quanto un'intera azienda con migliaia di ID di accesso, ciascuno con i suoi permessi e comunque correlati in molti modi.
 Esempi di software multitenant includono Google Mail, Google Docs, Microsoft Office 365, Salesforce CRM, e Dropbox, tra i tanti che si classificano come software interamente o parzialmente multitenant.
