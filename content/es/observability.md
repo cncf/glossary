@@ -1,9 +1,24 @@
 ---
 title: Observabilidad
 status: Completed
-category: Propiedad
+category: Concepto
+tags: ["property", "", ""]
 ---
 
-La observabilidad es una característica de una aplicación que se refiere a qué tan bien se puede entender los indicadores o estados de un sistema a partir de sus salidas externas. Los sistemas computacionales se miden observando el tiempo de CPU, la memoria, el espacio en disco, la latencia, los errores, etc. Cuanto más observable es un sistema, más fácil es entender cómo funciona al mirarlo.
+## ¿Qué es?
 
-La observabilidad de un sistema tiene un impacto significativo en su costo operativo. Los sistemas observables brindan datos útiles y procesables a sus operadores, lo que les permite lograr resultados favorables y menos tiempo de inactividad. Tenga en cuenta que más información no se traduce necesariamente en un sistema más observable. De hecho, a veces la cantidad de información generada por un sistema puede dificultar la identificación de señales de salud valiosas desde el ruido generado por la aplicación. La observabilidad requiere los datos correctos para tomar las decisiones correctas.
+La observabilidad es la capacidad de generar y descubrir continuamente información procesable basada en señales del sistema bajo observación.
+En otras palabras, la observabilidad permite a los usuarios comprender el estado de un sistema a partir de su salida externa y tomar medidas (correctivas).
+
+## Problema que aborda
+
+Los sistemas informáticos se miden mediante la observación de señales de bajo nivel, como el tiempo de CPU, la memoria, el espacio en disco y las señales comerciales y de nivel superior, incluidos los tiempos de respuesta de API, errores, transacciones por segundo, etc.
+
+La observabilidad de un sistema tiene un impacto significativo en su costo operativo.
+Los sistemas observables brindan datos significativos y procesables a sus operadores, lo que les permite lograr resultados favorables (respuesta más rápida a incidentes, mayor productividad del desarrollador) y menos trabajo y tiempo de inactividad.
+
+## ¿Cómo ayuda?
+
+Entendiendo de que más información no necesariamente significa que en un sistema sea más observable es esencial.
+De hecho, a veces, la cantidad de información generada por un sistema puede dificultar la identificación de señales de salud valiosas a partir del ruido generado por la aplicación.
+La observabilidad requiere los datos correctos en el momento correcto para que el consumidor correcto (humano o pieza de software) tome las decisiones correctas.
