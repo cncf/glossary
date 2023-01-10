@@ -13,7 +13,9 @@ This replaces the traditional model where policies are documented in human-reada
 
 ## Problem it addresses
 
-Building applications and infrastructures are often constrained by many policies that an organization defines, e.g., security policies that forbid storing secrets in source code, running a container with superuser permissions, or storing some data outside a specific geo region.
+Building applications and infrastructures are often constrained by many policies that an organization defines, 
+e.g. security policies that forbid storing secrets in source code, running a container with superuser permissions, 
+or storing some data outside a specific geo region.
 It is very labor-intensive and error-prone for developers and reviewers to manually check applications and infrastructure against documented policies. 
 Manual processes cannot meet the responsiveness and scale requirements of cloud native applications.
 
