@@ -1,9 +1,9 @@
 ---
 title: Policy as Code (PaC)
-status: Feedback Appreciated
+status: Completed
 category: concept
 tags: ["methodology", "", ""]
-draft: true
+draft: 
 ---
 
 ## What it is
