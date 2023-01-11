@@ -13,11 +13,13 @@ The buildings housing data centers are equipped to maintain service even during 
 
 ## Problem it addresses
 
-Instead of every business having to host their own server equipment where they are located, 
-data centers allow companies and individuals to take advantage of the 
-specialised knowledge and efficiencies of scale of data center providers. 
-This means not having to worry about managing power supply, fire suppression technology, 
-air conditioning or high speed internet connectivity, for example.
+Before datacenters became prevalent (late 1990ies to 2000s), there were mainly individual computers with specific tasks or those used by individuals to do their work.
+
+But computers have limited resources (disk, RAM, and memory). 
+That means that applications running on them have the same hard constraints. 
+The size of the application is determined by the capacity of the computer it's running on. 
+But if you think about apps like Gmail or Netflix (the actual app, not the interface you have on your phone or computer), those need more computing capacity than any one computer can provide. 
+And that's where datacenters come in. 
 
 ## How it helps
 
