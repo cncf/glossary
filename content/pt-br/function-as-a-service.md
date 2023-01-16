@@ -7,18 +7,20 @@ tags: ["infraestrutura", "", ""]
 
 ## O que é
 
-Função como um Serviço, (FaaS - Function as a Service ), é um tipo de [serviço](/pt-be/serviço/) de [computação em nuvem](/pt-br/cloud-computing/) [sem servidor](/pt-br/serverless/) que permite a execução de código em resposta a eventos sem manter a complexa infraestrutura normalmente associado à criação e lançamento de aplicações de [microsserviços](/pt-br/microsserviços/).
+Função como um Serviço, (FaaS - Function as a Service ), é um tipo de [serviço](/pt-br/service/) de [computação em nuvem](/pt-br/cloud-computing/) [sem servidor](/pt-br/serverless/) que permite a execução de código em resposta a eventos sem manter a complexa infraestrutura normalmente associado à criação e lançamento de aplicações de [microsserviços](/microservices/).
 
 Com FaaS, os usuários gerenciam apenas funções e dados enquanto o provedor de nuvem gerencia a aplicação.
 Isso permite que os desenvolvedores obtenham as funções necessárias sem pagar pelos serviços quando o código não está em execução.
 
 Alguns exemplos de FaaS em Nuvem Pública Gerenciado incluem:
+
 - [AWS Lambda](https://aws.amazon.com/lambda/)
 - [Funções do Microsoft Azure](https://azure.microsoft.com/en-us/services/functions/).
 - [Funções do Google Cloud](https://cloud.google.com/functions/)
 - [Funções do Oracle Cloud Infrastructure](https://www.oracle.com/cloud/cloud-native/functions/)
 
 Alguns exemplos de Plataformas para execução de FaaS em Nuvem Pública e Privada:
+
 - [OpenFaaS](https://www.openfaas.com)
 - [Apache OpenWhisk](https://openwhisk.apache.org)
 - [Knative](https://www.openfaas.com)
