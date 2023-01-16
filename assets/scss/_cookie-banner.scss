@@ -1,0 +1,63 @@
+.osano-cm-info {
+	font-family: $font-family-base;
+}
+
+.osano-cm-window__dialog {
+	border-radius: 5px;
+	color: $body-color;
+	background: #bff3ff;
+	filter: drop-shadow(0px 0px 10px rgba(0, 0, 0, 0.05));
+	font-weight: 700;
+	line-height: 1.2;
+	font-size: 13px;
+	font-family: $font-family-base;
+	padding: 2.5em 1.5em 1.5em;
+}
+
+.osano-cm-dialog--type_box {
+	max-width: 25em;
+}
+
+.osano-cm-button {
+	border: none;
+    border-radius: 5px;
+}
+
+.osano-cm-button:focus-visible {
+    outline: -webkit-focus-ring-color auto 1px;
+}
+
+.osano-cm-link:focus-visible {
+    outline-offset: 1px;
+	outline: -webkit-focus-ring-color auto 1px;
+}
+
+.osano-cm-header {
+	font-weight: 700;
+}
+
+.osano-cm-dialog__list {
+    margin: 1em 0 ;
+}
+
+.osano-cm-link {
+	color: var(--wp--preset--color--pink-400);
+    text-decoration: none;
+}
+
+.osano-cm-link:hover, .osano-cm-link:active, .osano-cm-link:focus {
+	color: var(--wp--preset--color--pink-400);
+}
+
+.osano-cm-powered-by__link {
+	display: none;
+}
+
+.osano-cm-content__message {
+    margin-bottom: 0.2em;
+    padding-bottom: 1em;
+}
+
+.osano-cm-view__button {
+    font-size: 1em;
+}
