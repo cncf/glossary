@@ -2,10 +2,8 @@
 title: Fiabilidad
 status: Completed
 category: Propiedad
-tags: ["fundamentals", "", ""]
+tags: ["fundamental", "property", ""]
 ---
-
-## ¿Qué es?
 
 Desde una perspectiva nativa a la nube, fiabilidad se refiere a qué tan bien un sistema responde ante las fallas. 
 Si tenemos un [sistema distribuido](/distributed-systems/) que continúa funcionando mientras la infraestructura cambia y los componentes individuales fallan, este es fiable. 

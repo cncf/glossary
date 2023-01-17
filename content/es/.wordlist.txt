@@ -66,11 +66,13 @@ Datadog
 declarativamente
 Deployment
 deployments
+Deprecated
 development
 DevOps
 DevSecOps
 DigitalOcean
 directly
+draft
 ej
 Engine
 Engineering
@@ -173,6 +175,7 @@ premises
 proactiva
 profesionistas
 properties
+property
 propose
 PRs
 pull

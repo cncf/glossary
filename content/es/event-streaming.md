@@ -2,6 +2,7 @@
 title: Transmisión de eventos
 status: Completed
 category: Concepto
+tags: ["methodology", "networking", ""]
 ---
 
 ## ¿Qué es?

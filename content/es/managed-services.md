@@ -1,6 +1,6 @@
 ---
 title: Servicios Administrados
-status: Completed
+status: Deprecated
 category: Tecnología
 tags: ["", "", ""]
 ---
@@ -19,4 +19,5 @@ Es probable que tu equipo esté mejor construyendo nuevas capacidades que ocupá
 ## ¿Cómo ayuda?
 
 Los servicios administrados están listos para ser utilizados desde el primer día de implementación, con muy pocos gastos operativos.
-Permiten a las organizaciones externalizar eficientemente las tareas que no forman parte de su rubro principal con límites bien definidos y, por lo general impulsados por la [API](/es/application-programming-interface/).
+Permiten a las organizaciones externalizar eficientemente las tareas que no forman parte de su rubro principal
+con límites bien definidos y, por lo general impulsados por la [API](/es/application-programming-interface/).

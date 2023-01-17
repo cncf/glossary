@@ -2,7 +2,7 @@
 title: Arquitectura Cliente-Servidor
 status: Completed
 category: Concepto
-tags: ["architecture", "", ""]
+tags: ["architecture", "fundamental", ""]
 ---
 
 ## ¿Qué es?
