@@ -23,7 +23,7 @@ La maggior parte delle problematiche relative alla sicurezza sono difficili da i
 
 ## In che modo aiuta
 
-Security Chaos Engineering si basa su [osservabilità](it/observability/) e pratiche di resilienza informatica.
+Security Chaos Engineering si basa su [osservabilità](/it/observability/) e pratiche di resilienza informatica.
 Ha lo scopo di scoprire le "incognite sconosciute" e creare fiducia nel sistema,
 aumentare la resilienza informatica e migliorare l'osservabilità.
 
