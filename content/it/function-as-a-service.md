@@ -13,7 +13,7 @@ tipicamente associata alla creazione e all'avvio di applicazioni a [microservizi
 Con FaaS, gli utenti gestiscono solo funzioni e dati mentre il provider cloud gestisce l'applicazione.
 Ciò consente agli sviluppatori di ottenere le funzioni di cui hanno bisogno senza pagare per i servizi quando il codice non è in esecuzione.
 Alcuni esempi FaaS popolari includono: [AWS Lambda di Amazon](https://aws.amazon.com/it/lambda/),
-[Google Cloud Functions](https://cloud.google.com/functions/) e [icrosoft Azure Functions](https://azure.microsoft.com/it-it/products/functions/).
+[Google Cloud Functions](https://cloud.google.com/functions/) e [Microsoft Azure Functions](https://azure.microsoft.com/it-it/products/functions/).
  
 
 ## Quale problema affronta
