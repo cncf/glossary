@@ -23,7 +23,7 @@ L'azienda deve investire in server, storage, software e altre tecnologie
 e potenzialmente assumere uno staff IT o appaltare l'acquisto, la gestione e l'aggiornamento di tutte le apparecchiature e le licenze.
 Il data center deve essere costruito per soddisfare i picchi di domanda, anche quando i carichi di lavoro diminuiscono e quelle risorse restano inattive.
 Viceversa, se l'azienda cresce rapidamente, il reparto IT potrebbe avere difficoltà a tenere il passo.
-In base a un modello di cloud computing standard [Infrastructure-as-a-Service (IaaS)](it/infrastructure-as-a-service/),
+In base a un modello di cloud computing standard [Infrastructure-as-a-Service (IaaS)](/it/infrastructure-as-a-service/),
 gli utenti preacquistano unità di capacità, il che significa pagare un provider di cloud pubblico per componenti server sempre attivi su cui eseguire le proprie app.
 È responsabilità dell'utente aumentare la capacità del server durante i periodi di forte domanda
 e ridimensionare quando tale capacità non è più necessaria.
