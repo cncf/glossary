@@ -9,7 +9,7 @@ tags: ["infrastruttura", "", ""]
 
 Function as a Service (FaaS) è un tipo di [servizio](/it/service/) di [cloud computing](/it/cloud-computing/) [serverless](/it/serverless/) 
 che consente l'esecuzione di codice in risposta agli eventi senza mantenere la complessa infrastruttura
-tipicamente associata alla creazione e all'avvio di applicazioni a [microservizi](it/microservices/).
+tipicamente associata alla creazione e all'avvio di applicazioni a [microservizi](/it/microservices/).
 Con FaaS, gli utenti gestiscono solo funzioni e dati mentre il provider cloud gestisce l'applicazione.
 Ciò consente agli sviluppatori di ottenere le funzioni di cui hanno bisogno senza pagare per i servizi quando il codice non è in esecuzione.
 Alcuni esempi FaaS popolari includono: [AWS Lambda di Amazon](https://aws.amazon.com/it/lambda/),
