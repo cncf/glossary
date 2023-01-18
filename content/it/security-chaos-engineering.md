@@ -29,7 +29,7 @@ aumentare la resilienza informatica e migliorare l'osservabilità.
 
 I team di ingegneri miglioreranno progressivamente la comprensione delle questioni legate alla sicurezza
 all'interno di infrastrutture complesse, piattaforme e sistemi distribuiti.
-SCE migliora la resilienza informatica dell'intero prodotto, identificare problemi di sicurezza nascosti,
+SCE migliora la resilienza informatica dell'intero prodotto, identifica problemi di sicurezza nascosti,
 espone i classici punti ciechi e prepara i team per i casi limite più critici.
 Questo approccio aiuta gli ingegneri SRE, [DevOps](it/devops/) e [DevSecOps](it/devsecops/) a
 creare fiducia nel sistema, aumentare la resilienza informatica e migliorare l'osservabilità.
