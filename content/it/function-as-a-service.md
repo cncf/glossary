@@ -35,5 +35,5 @@ Insomma, l'infrastruttura cloud necessaria per eseguire un'app rimane attiva anc
 FaaS offre agli sviluppatori un'[astrazione](/it/abstraction/) per l'esecuzione di applicazioni Web in risposta a eventi senza gestire i server.
 Ad esempio, il caricamento di un file potrebbe attivare un codice personalizzato che transcodifica il file in vari formati.
 L'infrastruttura FaaS ridimensionerà automaticamente il codice per un uso intenso,
-e lo sviluppatore non dovrà dedicare tempo o risorse alla creazione del codice per garantirne la [scalabilità](it/scalabilità/).
+e lo sviluppatore non dovrà dedicare tempo o risorse alla creazione del codice per garantirne la [scalabilità](/it/scalabilità/).
 La fatturazione si basa solo sul tempo di calcolo, il che significa che le aziende non devono pagare quando le funzioni non sono in uso.
