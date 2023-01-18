@@ -15,7 +15,7 @@ tra cui stato stazionario, ipotesi, verifica continua, lessons learned e impleme
 
 ## Quali problematiche affronta
 
-La priorità principale per i [site reliability engineers](it/site-reliability-engineering/) (SRE) e gli ingegneri della sicurezza informatica è
+La priorità principale per i [site reliability engineers](/it/site-reliability-engineering/) (SRE) e gli ingegneri della sicurezza informatica è
 ripristinare il servizio il più velocemente possibile con l'obiettivo di ottenere zero tempi di inattività e ridurre al minimo l'impatto sul business.
 Gli SRE e gli ingegneri della sicurezza informatica intervengono sia in situazioni critiche che precedono il guasto, sia post-mortem.
 La maggior parte delle problematiche relative alla sicurezza sono difficili da individuare e correggere rapidamente, con ripercussioni sulle funzionalità dell'applicazione o del sistema. E sono generalmente ancora più difficili da identificare durante la fase di sviluppo.
