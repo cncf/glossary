@@ -22,5 +22,5 @@ Senza un framework condiviso, per le applicazioni è difficile [scalare](/it/sca
 ## In che modo aiuta
 
 Le API permettono ai programmi o alle applicazioni di interagire e condividere informazioni in modo definito e comprensibile.
-Sono gli elementi costitutivi delle moderne applicazioni e forniscono agli sviluppatori un modo per integrare le applicazioni tra loro.
+Sono gli elementi costitutivi delle moderne applicazioni e forniscono agli sviluppatori un modo per integrarle tra loro.
 Ogni volta che si dice che i [microservizi](/it/microservices/) lavorano insieme, si può assumere che interagiscano tramite un'API.
