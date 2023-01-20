@@ -2,7 +2,8 @@
 Title: Software as a Service (SaaS)
 Status: Deprecated
 Category: Technology
-tags: ["fundamentals", "platform", ""]
+draft: true
+tags: ["fundamental", "platform", ""]
 ---
 
 ## What it is

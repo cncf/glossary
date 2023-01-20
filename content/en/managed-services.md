@@ -1,6 +1,7 @@
 ---
 title: Managed services
 status: Deprecated
+draft: true
 category: Technology
 tags: ["", "", ""]
 ---
