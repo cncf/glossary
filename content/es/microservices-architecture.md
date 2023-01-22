@@ -1,6 +1,6 @@
 ---
 título: Arquitectura de Microservicios
-estado: Completado
+estado: Feedback Appreciated 
 tags: ["arquitectura", "fundamental", ""]
 ---
 
