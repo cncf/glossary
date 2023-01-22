@@ -4,7 +4,7 @@ estado: Feedback Appreciated
 tags: ["arquitectura", "fundamental", ""]
 ---
 
-## Qué es
+## ¿Qué es?
 
 Una arquitectura de microservicios es un enfoque arquitectónico que divide las aplicaciones en (micro)[servicios](/service/) individuales e independientes, donde cada servicio se centra en una funcionalidad específica.
 Estos servicios trabajan juntos estrechamente, apareciendo ante el usuario final como una sola entidad. Tomemos Netflix como ejemplo. Su interfaz permite acceder, buscar y preestrenar vídeos. Es probable que estas funciones estén gestionadas por servicios pequeños, cada uno de los cuales se encarga de una funcionalidad, por ejemplo, la autenticación, la búsqueda y la ejecución de preestrenar vídeos en el navegador.
@@ -17,6 +17,6 @@ Las aplicaciones se componen de diferentes partes, cada una responsable de una c
 
 Las arquitecturas monolíticas también hacen que los desarrolladores tengan la posibilidad de caer en errores del diseño. Como todo el código está en el mismo sitio, es más fácil hacer que ese código esté [estrechamente acoplado](/tightly-coupled-architectures/) y más difícil aplicar el principio de separación de preocupaciones. Los monolitos también suelen requerir que los desarrolladores entiendan todo el código base antes de desplegar cualquier oportunidad. La arquitectura de microservicios es una respuesta a estos retos.  
 
-## Cómo ayuda
+## ¿Cómo ayuda?
 
 Separar la funcionalidad en diferentes microservicios hace que sean más fáciles de desplegar, actualizar y escalar de forma independiente. También permite que diferentes equipos trabajen simultáneamente en una pequeña parte de una aplicación más grande sin afectar negativamente al resto de la aplicación. Aunque una arquitectura de microservicios resuelve muchos problemas, también crea una sobrecarga operativa: las cosas que hay que desplegar y controlar aumentan en un orden de magnitud. Muchas [tecnologías nativas de la nube](/cloud-native-tech/) facilitan la implantación y gestión de microservicios.
