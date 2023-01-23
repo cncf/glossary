@@ -15,7 +15,7 @@ The buildings housing datacenters are equipped to maintain service even during a
 
 Before datacenters became prevalent in the late 1990ies, there were mainly individual computers with specific tasks or those used by individuals to do their work.
 
-But computers have limited resources (disk, RAM, and memory). 
+But computers have limited resources (disk, RAM, and CPU). 
 That means that applications running on them have the same hard constraints. 
 The size of the application was determined by the capacity of the computer it was running on. 
 But if you think about apps like Gmail or Netflix (the actual app, not the interface you have on your phone or computer), those need more computing capacity than any one computer can provide. 
