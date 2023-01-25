@@ -46,6 +46,7 @@ customizable
 cyber
 daniel
 datacenter
+datacenters
 datadog
 dba
 dbaas
@@ -95,6 +96,7 @@ https
 iaas
 iac
 idempotence
+ies
 impactful
 inelasticity
 inlinehilite
