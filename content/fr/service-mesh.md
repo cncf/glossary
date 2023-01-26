@@ -16,7 +16,7 @@ les services.
 
 ## Problème auquel il répond
 
-Après avoir migré vers une architecture microservices. Les ingénieurs doivent gérer une centaine
+Après avoir migré vers une architecture microservices, les ingénieurs doivent gérer une centaine
 voir des milliers de services, qui doivent tous communiquer.
 Cela signifie que beaucoup de trafic va transiter sur le réseau.
 Par dessus tout cela, chaque application peut avoir besoin de chiffrer ses communications pour des contraintes
