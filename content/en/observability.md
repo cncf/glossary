@@ -7,7 +7,7 @@ tags: ["property", "", ""]
 
 ## What it is
 
-Observability is the capability to continuously generate and discover actionable insights based on signals from the system under observation. 
+Observability is a system property that defines the degree to which the system can generate and discover actionable insights. 
 In other words, observability allows users to understand a system's state from its external output and take (corrective) action.
 
 ## Problem it addresses
