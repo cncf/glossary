@@ -22,4 +22,7 @@ hasta que se determine que el producto tiene éxito.
 
 ## ¿Cómo ayuda?
 
-Un monolito bien diseñado puede defender los principios "lean" al ser la forma más sencilla de poner en marcha una aplicación. Cuando la aplicación monolítica demuestra su valor de negocio y éxito, se puede descomponer en microservicios. Crear una aplicación basada en microservicios antes de que haya demostrado su valor puede suponer un gasto prematuro de esfuerzos de ingeniería. Si la aplicación no aporta valor, ese esfuerzo se desperdicia.
+Un monolito bien diseñado puede defender los principios "lean" al ser la forma más sencilla de poner en marcha una aplicación.
+Cuando la aplicación monolítica demuestra su valor de negocio y éxito, se puede descomponer en microservicios.
+Crear una aplicación basada en microservicios antes de que haya demostrado su valor puede suponer un gasto prematuro de esfuerzos de ingeniería.
+Si la aplicación no aporta valor, ese esfuerzo se desperdicia.
