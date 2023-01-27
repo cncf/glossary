@@ -64,6 +64,9 @@ $cookie-banner-bg: #bff3ff;
 	@media (min-width: 600px) {
 		font-size: 10px;
 	}
+	p {
+		margin-bottom: 0;
+	}
 }
 
 .osano-cm-dialog__list {
