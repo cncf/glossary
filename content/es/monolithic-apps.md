@@ -1,8 +1,8 @@
 ---
 title: Aplicaciones monolíticas
-status: Feedback Appreciated
-category: concepto
-tags: ["arquitectura", "fundamental"]
+status: Completed
+category: Concepto
+tags: ["architecture", "fundamental", ""]
 ---
 
 ## ¿Qué es?
