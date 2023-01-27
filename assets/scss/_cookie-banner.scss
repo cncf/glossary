@@ -158,10 +158,14 @@ div.osano-cm-disclosure__toggle {
 
 // FYI 14px is the smallest it can go for the maths of the circle to work.
 .osano-cm-close {
-	min-height: 14px;
-	min-width: 14px;
+	min-height: unset;
+	min-width: unset;
 	height: 14px;
 	width: 14px;
+	display: flex;
+	align-content: center;
+	align-items: center;
+	justify-content: center;
 	margin: 15px 25px;
 	@media (min-width: 600px) {
 		margin: 25px;
