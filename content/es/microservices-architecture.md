@@ -1,7 +1,7 @@
 ---
-título: Arquitectura de Microservicios
-estado: Feedback Appreciated 
-tags: ["arquitectura", "fundamental", ""]
+title: Arquitectura de Microservicios
+status: Feedback Appreciated 
+tags: ["architecture", "fundamental", ""]
 ---
 
 ## ¿Qué es?
