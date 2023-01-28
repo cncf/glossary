@@ -22,7 +22,7 @@ A automação de infraestrutura e o gerenciamento declarativo de configuração 
 ## Como isso ajuda
 
 De forma similar às ferramentas tradicionais de [infraestrutura como código](/pt-br/infrastructure-as-code/), o Kubernetes ajuda na automação e tem a vantagem de trabalhar com contêineres.
-Os contêineres são mais resistentes ao desvio de configuração do que [virtual](/pt-br/virtual-machine/) ou máquinas físicas.
+Os contêineres são mais resistentes ao desvio de configuração do que [máquinas virtuais](/pt-br/virtual-machine/) ou físicas.
 
 Adicionalmente, o Kubernetes funciona de forma declarativa, o que significa que, em vez de fornecer instruções ao Kubernetes os operadores descrevem o que desejam - geralmente com arquivos de manifesto (por exemplo, no formato YAML) - definindo como a infraestrutura deve ser.
 
