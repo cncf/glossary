@@ -7,7 +7,7 @@ tags: ["infraestrutura", "", ""]
 
 ## O que é
 
-O escalonamento horizontal é uma técnica em que aumenta a capacidade de um sistema adicionando mais nós em vez de adicionar mais recursos de computação aos [nós](/nodes/) individualmente (este último é conhecido como [escalonamento vertical](/pt-br/vertical-scaling/)). 
+O escalonamento horizontal é uma técnica em que aumenta a capacidade de um sistema adicionando mais nós em vez de adicionar mais recursos de computação aos [nós](/nodes/) individuais (este último é conhecido como [escalonamento vertical](/pt-br/vertical-scaling/)). 
 Imagine um sistema com 4GB de RAM, e queremos aumentar sua capacidade para 16GB de RAM. 
 Escalonar horizontalmente significa adicionar 4 x 4GB de RAM em vez de alterar para um sistema de 16GB de RAM.
 
