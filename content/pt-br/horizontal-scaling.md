@@ -17,7 +17,7 @@ Em outras palavras, visa diminuir a carga do servidor em vez de expandir a capac
 ## Problema relacionado
 
 À medida que a demanda por uma aplicação cresce além da capacidade atual da instância dessa aplicação, precisamos encontrar uma maneira de [escalar](/pt-br/scalability/) o sistema (ou seja, aumentar a sua capacidade). 
-Podemos adicionar mais nós ao sistema (escalonamento horizontal) ou mais recursos computacional aos nós existentes (escalonamento vertical).
+Podemos adicionar mais nós ao sistema (escalonamento horizontal) ou mais recursos computacionais aos nós existentes (escalonamento vertical).
 
 ## Como isso ajuda
 
