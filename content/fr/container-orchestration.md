@@ -13,7 +13,7 @@ L'outil d'orchestration dirige les conteneurs tel un chef d'orchestre, s'assuran
 
 ## Problème auquel il répond
 
-Gérer des [microservices](/microservices), la sécurité, et la communication réseaux à grande échelle — et des [systèmes distribués](/distributed-systems) en général — est compliqué, pour ne pas dire impossible, manuellement.
+Gérer manuellement des [microservices](/microservices), la sécurité, et la communication réseaux à grande échelle — et des [systèmes distribués](/distributed-systems) en général — est compliqué, pour ne pas dire impossible.
 L'orchestration de conteneurs permet aux utilisateurs d'automatiser toutes ces tâches de gestion.
 
 ## Quelle en est l'utilité
