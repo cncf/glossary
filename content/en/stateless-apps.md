@@ -7,7 +7,12 @@ tags: ["fundamental", "application", ""]
 
 ## What it is
 
-A stateless application operates independently of past interactions and user data. When a user interacts with the application, it processes the request immediately and forgets the information once the request is processed. This indicates that the application lacks any permanent storage containing information on prior user interactions or data. Each utilization of the application is treated as an isolated session, without reference to past interactions. For instance, consider someone using a search engine to find an answer. If their search is interrupted or the window is closed, they must start a new search because there is no saved information from their previous attempt.
+A stateless application operates independently of past interactions and user data. 
+When a user interacts with the application, it processes the request and immediately forgets the information once the request is processed. 
+This indicates that the application lacks any permanent storage containing information on prior user interactions or data. 
+Each utilization of the application is treated as an isolated session, without reference to past interactions. 
+For instance, consider someone using a search engine to find an answer. If their search is interrupted or the window is closed, 
+they must start a new search because there is no saved information from their previous attempt.
 
 
 ## Problem it addresses
