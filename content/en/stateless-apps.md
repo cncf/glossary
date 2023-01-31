@@ -7,13 +7,8 @@ tags: ["fundamental", "application", ""]
 
 ## What it is
 
-A stateless application doesn’t save any client session (state) data on the server where the application lives. 
-Each session is carried out as if it was the first time and responses are not dependent upon data from a previous session and 
-provides functionality to use print services, CDN (Content Delivery Network) or the Web Servers 
-in order to process every short-term request. 
-For example, someone is searching a question in the search engine and pressed the Enter button. 
-In case if the searching operation gets interrupted or closed due to some reason, 
-you have to start a new one as there is no saved data for your previous request.
+A stateless application operates independently of past interactions and user data. When a user interacts with the application, it processes the request immediately and forgets the information once the request is processed. This indicates that the application lacks any permanent storage containing information on prior user interactions or data. Each utilization of the application is treated as an isolated session, without reference to past interactions. For instance, consider someone using a search engine to find an answer. If their search is interrupted or the window is closed, they must start a new search because there is no saved information from their previous attempt.
+
 
 ## Problem it addresses
 
