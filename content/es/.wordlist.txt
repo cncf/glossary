@@ -58,7 +58,7 @@ Container
 contenedores
 contenedorizadas
 contenedorizados
-contenerizaciÃ³n
+contenerización
 content
 create
 creating
@@ -161,6 +161,7 @@ monitoreará
 monitoreo
 Morgan
 multiple
+multiples
 multitenancy
 NASDAQ
 Native
