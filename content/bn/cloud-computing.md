@@ -2,6 +2,7 @@
 title: ক্লাউড কম্পিউটিং (Cloud Computing)
 status: Completed
 category: ধারণা
+tags: ["infrastructure", "fundamental", ""]
 ---
 
 ## এটা কি

@@ -2,6 +2,7 @@
 title: কুবারনেটিস (Kubernetes)
 status: Completed
 category: প্রযুক্তি
+tags: ["infrastructure", "fundamental", ""]
 ---
 
 ## এটা কি

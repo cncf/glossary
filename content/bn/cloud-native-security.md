@@ -2,6 +2,7 @@
 title: ক্লাউড নেটিভ  নিরাপত্তা (Cloud Native Security)
 status: Completed
 category: ধারণা
+tags: ["security", "", ""]
 ---
 
 ## এটা কি

@@ -1,7 +1,8 @@
 ---
 title: সার্ভিস ডিসকভারি (Service Discovery)
-status: Feedback Appreciated
+status: Completed
 category: ধারণা
+tags: ["networking", "", ""]
 ---
 
 

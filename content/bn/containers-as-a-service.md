@@ -1,8 +1,8 @@
 ---
 title: কন্টেইনার এজ এ সার্ভিস (Containers as a Service)
-status: Completed
+status: Deprecated
 category: প্রযুক্তি
-tags: ["প্ল্যাটফর্ম", "", ""]
+tags: ["platform", "", ""]
 ---
 
 ## এটা কি
