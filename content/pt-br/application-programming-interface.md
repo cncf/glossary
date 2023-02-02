@@ -2,6 +2,7 @@
 title: Interface de Programação de Aplicações
 status: Completed
 category: tecnologia
+tags: ["arquitetura", "", ""]
 ---
 
 ## O que é

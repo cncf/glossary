@@ -1,6 +1,7 @@
 ---
 title: কিভাবে অবদান রাখতে হবে
 toc_hide: true
+status: Completed
 menu:
   main:
     weight: 10

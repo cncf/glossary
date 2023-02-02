@@ -1,0 +1,131 @@
+# This workflow will check if localized terms are outdated or not
+# by comparing English terms in the old branch and the latest branch.
+name: Check outdated terms
+on: 
+  pull_request:
+    paths:
+      - 'content/en/**.md'
+    branches:
+      - 'dev-ko' # add other branches or use wildcard 'dev-**'
+
+jobs:
+  check-outdated-terms:
+    name: Check outdated terms
+    
+    # Condition to run this workflow on the upstream repository
+    #if: github.repository == 'cncf/glossary'
+    
+    runs-on: ubuntu-latest
+    # permissions:
+    #   issues: write
+    
+    # NOTE - In this workflow, "github.base_ref" refers to the old upstream/dev-xx.
+    # NOTE - In this workflow, "github.head_ref" refers to the latest forked/dev-xx or the latest upstream/main.
+    steps:
+    - name: Set up environment variables for the target L10n team
+      shell: bash
+      run: |
+        
+        # Set L10n branch
+        L10N_BRANCH="${{github.base_ref}}"
+        echo "(DEBUG) L10N Branch: ${L10N_BRANCH}"
+        
+        # Set L10n directory and code
+        case "${L10N_BRANCH}" in
+          dev-ko)          
+          L10N_DIR="./content/ko/"
+          L10N_CODE="ko"
+          ;;
+          
+          #dev-pt)
+          #L10N_DIR="./content/pt-br/"
+          #L10N_CODE="pt"
+          #;;
+        esac
+        
+        echo "(DEBUG) L10N Directory: ${L10N_DIR}"
+        echo "(DEBUG) L10N Code: ${L10N_CODE}"
+        
+        # Set L10N_DIR and L10N_CODE as environment variables
+        # Ref: https://docs.github.com/en/actions/using-workflows/workflow-commands-for-github-actions#setting-an-environment-variable
+        echo "L10N_DIR=${L10N_DIR}" >> $GITHUB_ENV
+        echo "L10N_CODE=${L10N_CODE}" >> $GITHUB_ENV        
+    
+    - name: Checkout 
+      uses: actions/checkout@v3
+      with:
+        fetch-depth: 0 # fetch all history for all tags and branches
+        
+    - name: Check outdated
+      id: checker
+      shell: bash
+      run: |
+        ##### DEBUG section, this will be removed later ###########
+        ls -al
+        git status
+        git branch
+        
+        # Default environment variables 
+        echo "GITHUB_REF: $GITHUB_REF"
+        echo "Extract branch: ${GITHUB_REF#refs/}"
+        
+        # `github` context information
+        echo "(DEBUG) github.ref: ${{github.ref}}"
+        echo "(DEBUG) github.head_ref: ${{github.head_ref}}"
+        echo "(DEBUG) github.base_ref: ${{github.base_ref}}"
+        echo "(DEBUG) L10N_DIR: ${L10N_DIR}"
+        echo "(DEBUG) L10N_DIR: ${{ env.L10N_DIR }}"
+        #####################################################
+        
+        # Get the lastest branch name from 'GITHUB_REF' 
+        # The latest branch can be 'upstream/main' or 'forked/dev-ko' (rebased)
+        LATEST_BRANCH=${GITHUB_REF#refs/}
+        echo "(DUBUG) LATEST_BRANCH: ${LATEST_BRANCH}"
+        
+        # Get the old branch from 'github.base_ref' 
+        # The old branch can be 'upstream/dev-ko'
+        OLD_BRANCH="origin/${{github.base_ref}}"
+        echo "(DUBUG) OLD_BRANCH: ${OLD_BRANCH}"
+        
+        # Make an output directory
+        mkdir outdated
+        
+        # Check outdated only if there is a localized term
+        # Loop files in a localization directory, which is ${L10N_DIR} (e.g., ./content/ko/)
+        echo "(DEBUG) Check outdated"
+        for FILE_PATH in $(find ${L10N_DIR} -name '*.md'); do
+            # ${MYVAR#pattern}: delete shortest match of pattern from the beginning
+            FILE_NAME="${FILE_PATH#${L10N_DIR}}" 
+            echo "(DEBUG) FILE_NAME: ${FILE_NAME}"
+            echo "(DEBUG) Localized file path: $FILE_PATH"
+            echo "(DEBUG) Original file path: ./content/en/${FILE_NAME}"
+            
+            # Actually compare between the old and lastest English terms and log diff in the file
+            if [[ -f "./content/en/${FILE_NAME}" ]]; then
+              # File exists
+              git diff ${OLD_BRANCH}..${LATEST_BRANCH} -- ./content/en/${FILE_NAME} > ./outdated/${FILE_NAME}
+            else
+              # File dose not exist (e.g, changed, renamed or removed)
+              echo "Could not find ${FILE_NAME} in content/en/" > ./outdated/${FILE_NAME}
+              echo "Need to check if it has been changed, renamed or removed" >> ./outdated/${FILE_NAME}
+            fi
+
+        done 
+        
+        echo "(DEBUG) The outdated files"
+        ls -al ./outdated
+        
+    - name: Upload output
+      uses: actions/upload-artifact@v3
+      with:
+        name: ${{ env.L10N_CODE }}-outdated-checking-result
+        path: ./outdated/
+
+#     - name: Create an issue from file    
+#       uses: peter-evans/create-issue-from-file@v4
+#       with:
+#         title: An example issue
+#         content-filepath:  ${{ steps.checker.outputs.output_path }}
+#         labels: |
+#           outdated
+#           lang/ko
