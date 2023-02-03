@@ -24,7 +24,7 @@ The goal of this Glossary is to make the cloud native space — which is notorio
 To do that, we must focus on simplicity. 
 
 Explaining complex concepts in simple words is really hard. 
-And while the digestible, user-friendly outcome may seem easy, it requires cloud native experts to collaborate until the desired degree of simplicity is achieved. 
+And while the digestible, user-friendly outcome may seem easy, achieving the desired simplicity is the result of hard work and collaboration between cloud native experts.
 In short, to contribute new terms, you need a deep understanding of the topic. 
 
 The localization effort is a bit different. 
