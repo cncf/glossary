@@ -1,6 +1,6 @@
 ---
 title: Cloud Native Applikationen
-status: Feedback erwünscht
+status: Completed
 category: Konzept
 ---
 
