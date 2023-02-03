@@ -7,8 +7,9 @@ tags: ["인프라스트럭처", "", ""]
 
 ## 개념
 
-코드형 인프라(IaC, Infrastructure as code)는 인프라의 정의를 하나 이상의 파일로 저장하는 방식(practice)이다.
+코드형 인프라(IaC, Infrastructure as code)는 서버, 네트워크, 로드밸런서, 저장소 등의 인프라 자원을 수동으로 설정하는 것이 아닌 코드를 이용하여 하나 이상의 파일로 저장하는 방식(practice)이다. 
 이는 일반적으로 쉘 스크립트 또는 기타 설정(configuration) 도구를 통해 서비스형 인프라(IaaS, infrastructure as a service)를 수동으로 프로비저닝하던 기존 모델을 대체한다.
+대표적으로 IaC 도구로 Terraform, Crossplane, CloudFormation, Pulumi, Azure ARM Template 등이 있다.
 
 ## 다루는 문제
 
@@ -20,5 +21,5 @@ tags: ["인프라스트럭처", "", ""]
 ## 문제 해결 방식
 
 서버, 로드 밸런서 및 서브넷과 같은 데이터 센터 리소스를 코드로 표현함으로써,
-인프라 팀이 모든 설정에 대해 단일 진실 공급원(single source of truth)을 가질 수 있고,
+안정적으로 운영환경에 배포할 수 있으므로, 사람의 손에 거치지 않아 사람에 의한 실수(human error)를 최소화하여 인프라 팀이 모든 설정에 대해 단일 진실 공급원(single source of truth)을 가질 수 있고,
 또한 버전 제어 및 배치 전략을 구현하는 [CI](/continuous-integration/)/[CD](/continuous-delivery/) 파이프라인으로 데이터 센터를 관리할 수 있다.
