@@ -23,7 +23,7 @@ There are four ways you can contribute:
 The goal of this Glossary is to make the cloud native space — which is notorious for its complexity — simpler for people by making it easier to understand. 
 To do that, we must focus on simplicity. 
 
-Explaining complex concepts in simple words is really hard. 
+Explaining complex concepts in simple words is *really* hard. 
 And while the digestible, user-friendly outcome may seem easy, achieving the desired simplicity is the result of hard work and collaboration between cloud native experts.
 In short, to contribute new terms, you need a deep understanding of the topic. 
 
