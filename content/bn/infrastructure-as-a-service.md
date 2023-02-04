@@ -2,6 +2,7 @@
 title: পরিষেবা হিসেবে পরিকাঠামো (Infrastructure as a service)
 status: Completed
 category: ধারণা
+tags: ["infrastructure", "", ""]
 ---
 
 

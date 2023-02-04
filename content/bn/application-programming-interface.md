@@ -2,6 +2,7 @@
 title: অ্যাপ্লিকেশান প্রোগ্রামিং ইন্টারফেস (API)
 status: Completed
 category: প্রযুক্তি
+tags: ["architecture", "fundamental", ""]
 ---
 
 ## এটা কি

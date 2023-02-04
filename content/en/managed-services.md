@@ -1,6 +1,7 @@
 ---
 title: Managed services
-status: Completed
+status: Deprecated
+draft: true
 category: Technology
 tags: ["", "", ""]
 ---

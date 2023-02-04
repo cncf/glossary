@@ -2,7 +2,7 @@
 title: বেয়ার মেটাল মেশিন (Bare Metal Machine)
 status: সম্পন্ন
 category: প্রযুক্তি
-ট্যাগ: ["অবকাঠামো", "", ""]
+tags: ["infrastructure", "", ""]
 ---
 
 ## এটা কি

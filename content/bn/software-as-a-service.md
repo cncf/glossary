@@ -1,7 +1,8 @@
 ---
 Title: সফ্টওয়্যার এজ এ সার্ভিস(Software as a Service)(SaaS)
-Status: Completed
+Status: Deprecated
 Category: প্রযুক্তি
+tags: ["fundamental", "platform", ""]
 ---
 
 ## এটা কি

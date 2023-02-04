@@ -1,7 +1,8 @@
 ---
 title: নির্ভরযোগ্যতা (Reliability)
-status: Feedback Appreciated
+status: Completed
 category: সম্পত্তি
+tags: ["fundamental", "property", ""]
 ---
 
 

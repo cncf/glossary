@@ -1,7 +1,8 @@
 ---
 title: স্ব নিরাময়(Self Healing)
-status: Feedback Appreciated
+status: Completed
 category: সম্পত্তি
+tags: ["infrastructure", "property"]
 ---
 
 একটি স্ব-নিরাময় ব্যবস্থা কোনও মানুষের হস্তক্ষেপ ছাড়াই নির্দিষ্ট ধরণের ব্যর্থতা থেকে পুনরুদ্ধার করতে সক্ষম। 

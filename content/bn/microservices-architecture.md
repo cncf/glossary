@@ -1,7 +1,8 @@
 ---
-title: মাইক্রোসার্ভিসেস (Microservices)
+title: মাইক্রোসার্ভিসেস আর্কিটেকচার (Microservices Architecture)
 status: Completed
 category: প্রযুক্তি
+tags: ["architecture", "fundamental", ""]
 ---
 
 ## এটা কি
