@@ -112,6 +112,7 @@ keys
 kubernetes
 lang
 lifecycle
+lifecycles
 linters
 localization
 localizations
@@ -168,6 +169,8 @@ seo
 seokho
 serverless
 sexualized
+signup
+signups
 skipenes
 smartsymbols
 snippets

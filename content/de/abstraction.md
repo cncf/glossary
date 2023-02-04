@@ -1,6 +1,6 @@
 ---
 title: Abstraktion
-status: Feedback erwünscht
+status: Completed
 category: Eigenschaft
 ---
 

@@ -2,7 +2,7 @@
 title: Observability
 status: Completed
 category: concept
-tags: ["methodology", "application", "infrastructure"]
+tags: ["property", "", ""]
 ---
 
 ## What it is

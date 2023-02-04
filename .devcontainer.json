@@ -1,0 +1,9 @@
+{
+    "image": "mcr.microsoft.com/vscode/devcontainers/javascript-node",
+    "features": {
+        "ghcr.io/devcontainers/features/hugo:1": {
+            "extended": true
+        }
+    },
+    "postCreateCommand": "git submodule update --init --recursive && npm install"
+}
