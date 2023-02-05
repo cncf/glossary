@@ -2,6 +2,7 @@
 title: কন্টেইনার (Container)
 status: Completed
 category: প্রযুক্তি
+tags: ["application", "fundamental", ""]
 ---
 
 ## এটা কি
