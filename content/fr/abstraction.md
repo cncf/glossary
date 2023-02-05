@@ -9,8 +9,8 @@ Dans le contexte informatique, une abstraction est une représentation qui masqu
 Le système d'exploitation de votre ordinateur portable en est un bon exemple.
 Il masque tous les détails du fonctionnement de votre ordinateur.
 
-Vous n'avez pas besoin d'avoir une compréhension approfondie du processeur, de la mémoire et du fonctionnement des programmes, vous utilisez simplement le système d'exploitation et le système d'exploitation s'occupe des détails.
-Tous ces détails sont cachés sous le « capot » ou l'abstraction du système d'exploitation.
+Vous n'avez pas besoin d'avoir une compréhension approfondie du processeur, de la mémoire et du fonctionnement des programmes, vous utilisez simplement le système d'exploitation et ce dernier s'occupe des détails.
+Tous ces détails sont cachés sous le « capot » abstrait par le système d'exploitation.
 
 Généralement, les systèmes ont plusieurs couches d'abstraction.
 Cela simplifie considérablement le développement.
