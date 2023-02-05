@@ -20,7 +20,7 @@ status: Completed
 
 শব্দকোষটি পরিচালিত হয় [Catherine Paganini](https://www.linkedin.com/in/catherinepaganini/en/), [Jason Morgan](https://www.linkedin.com/in/jasonmorgan2/), [Jihoon Seo](https://www.linkedin.com/in/jihoon-seo/), [Noah Ispas](https://www.linkedin.com/in/noah-ispas-0665b42a/), এবং [Seokho Son](https://www.linkedin.com/in/seokho-son/) দ্বারা ।
 
-ক্লাউড নেটিভ ভোকাবুলারির বাংলা স্থানীয়করণের সূচনা [Bengali localization team](https://cloud-native.slack.com/archives/C02UG2WGXQQ) দ্বারা করা হয়েছে এবং এতে অন্তর্ভুক্ত রয়েছে [MD Shahriyar Al Mustakim Mitul](https://www.linkedin.com/in/md-shahriyar-al-mustakim-mitul-9084b31a0/), [MD Ikramul Kayes](https://www.linkedin.com/in/md-ikramul-kayes-753674214/), [Umme Abira Azmary](https://www.linkedin.com/in/umme-abira-azmary-68404a1bb/) এবং আরও অনেক অবদানকারী।
+ক্লাউড নেটিভ ভোকাবুলারির বাংলা স্থানীয়করণের সূচনা [Bengali localization team](https://cloud-native.slack.com/archives/C02UG2WGXQQ) দ্বারা করা হয়েছে এবং এতে অন্তর্ভুক্ত রয়েছে [MD Shahriyar Al Mustakim Mitul](https://www.linkedin.com/in/mitul-shahriyar/), [MD Ikramul Kayes](https://www.linkedin.com/in/md-ikramul-kayes-753674214/), [Umme Abira Azmary](https://www.linkedin.com/in/umme-abira-azmary-68404a1bb/) এবং আরও অনেক অবদানকারী।
 
 ## লাইসেন্স
 
