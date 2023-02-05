@@ -12,7 +12,7 @@ utilisées pour construire des [applications cloud native](/cloud-native-apps/).
 Ces technologies permettent aux organisations de développer des applications capables de se mettre à l'échelle dans des environnements
 modernes et dynamiques tels que les clouds publics, privés et hybrides.
 Tout en tirant pleinement parti des avantages du [cloud computing](/cloud-computing/).
-Elles sont conçues dès le départ pour exploiter les capacités du cloud computings ainsi que des conteneurs, du service meshes, des micro-services. Les infrastructures immuables illustrent cette approche.
+Elles sont conçues dès le départ pour exploiter les capacités du cloud computing ainsi que des conteneurs, des service meshes, des micro-services. Les infrastructures immuables illustrent cette approche.
 
 ## Problème auquel il répond
 
@@ -27,5 +27,5 @@ capable de se réparer toute seule. Il adresse également l'utilisation ineffica
 ## Quel en est l'utilité
 
 Bien que chaque technologie réponde à un problème très spécifique,
-en tant que groupe, les technologies cloud natives permettent de créer des systèmes faiblement co uplés qui sont résilients, gérabels et observables..
+en tant que groupe, les technologies cloud natives permettent de créer des systèmes faiblement couplés qui sont résilients, gérables et observables..
 Combiné à une automatisation robuste, elles permettent aux ingénieurs de faire des changements à fort impact de manière fréquente et prévisible avec un minimum d'effort.
