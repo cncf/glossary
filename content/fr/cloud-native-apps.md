@@ -1,5 +1,5 @@
 ---
-title: Application Cloud Native
+title: Applications Cloud Native
 status: Completed
 category: concept
 tags: ["application", "", ""]
