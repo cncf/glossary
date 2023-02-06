@@ -2,7 +2,7 @@
 title: Infrastructure as Code (IaC)
 status: Completed
 category: concept
-tags: ["infrastructure", "", ""]
+tags: ["infrastructure", "methodology", ""]
 ---
 
 ## What it is
