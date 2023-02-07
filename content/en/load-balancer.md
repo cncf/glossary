@@ -2,7 +2,7 @@
 title: Load Balancer
 status: Feedback Appreciated
 category: concept
-tags: ["", "", ""]
+tags: ["infrastructure", "networking", ""]
 ---
 
 ## What it is

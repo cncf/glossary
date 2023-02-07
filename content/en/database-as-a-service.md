@@ -2,6 +2,7 @@
 title: Database as a Service (DBaaS)
 status: Deprecated
 category: Technology
+draft: true
 tags: ["", "", ""]
 ---
 
