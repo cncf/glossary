@@ -175,6 +175,7 @@ platform
 Política
 portable
 pr
+preestrenar
 prem
 premises
 Preview
