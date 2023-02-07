@@ -2,6 +2,7 @@
 title: DevOps
 status: Completed
 category: conceito
+tags: ["metodologia", "", ""]
 ---
 
 ## O que é

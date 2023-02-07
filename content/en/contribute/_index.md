@@ -1,6 +1,7 @@
 ---
 title: How To Contribute
 toc_hide: true
+status: Completed
 menu:
   main:
     weight: 10
@@ -16,6 +17,19 @@ There are four ways you can contribute:
 2) [Propose new terms](#propose-new-terms)
 3) [Update existing ones](#update-an-existing-term)
 4) [Help translate the glossary](#help-translate-the-glossary)
+
+## Who can contribute?
+
+The goal of this Glossary is to make the cloud native space — which is notorious for its complexity — simpler for people by making it easier to understand. 
+To do that, we must focus on simplicity. 
+
+Explaining complex concepts in simple words is *really* hard. 
+And while the digestible, user-friendly outcome may seem easy, achieving the desired simplicity is the result of hard work and collaboration between cloud native experts.
+In short, to contribute new terms, you need a deep understanding of the topic. 
+
+The localization effort is a bit different. 
+With solid existing definitions in English, less experienced contributors can still provide good localized terms. 
+This side of the project is better suited for beginners.
 
 ## Join the Glossary community! {#join-the-glossary-community}
 

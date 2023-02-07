@@ -2,6 +2,7 @@
 Title: Serverless
 Status: Completed
 Category: tecnologia
+tags: ["infraestrutura", "", ""]
 ---
 
 ## O que é
