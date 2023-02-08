@@ -160,8 +160,6 @@ monitorear
 monitoreará
 monitoreo
 Morgan
-multiple
-multiples
 multitenancy
 NASDAQ
 Native
