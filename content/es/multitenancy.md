@@ -35,5 +35,6 @@ a los inquilinos, lo que reduce significativamente el costo para los usuarios (d
 
 ## Términos relacionados
 
-La multitenancy no es sinónimo de [SaaS](/software-as-a-service/), aunque es muy común que el SaaS tenga multitenancy e incluso que la multitenancy sea una de sus principales ventajas.
+La multitenancy no es sinónimo de [SaaS](/software-as-a-service/),
+aunque es muy común que el SaaS tenga multitenancy e incluso que la funcionalidad de multitenancy sea una de sus principales ventajas.
 
