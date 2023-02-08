@@ -1,6 +1,6 @@
 {{ define "main" }}
 <div>
-  <h1 class="thin mb-5 pb-3">{{ with .Data.Singular }}{{ . | humanize }}: {{ end }}<span>{{title .Title }}</span></h1>
+  <h1 class="thin mb-5 pb-3">{{ humanize ( T "ui_tag" ) }}: <span>{{title .Title }}</span></h1>
   {{ .Content }}
     <div class="articles-of-tag">
       {{ $pages := (where .Pages ".Params.status" "Completed") | union (where .Pages ".Params.status" "completed") -}}
@@ -29,7 +29,7 @@
       {{ end }}
     </div>
     <div class="mt-5 mb-5">
-    <a href="{{ with .Site.GetPage (printf "/%s" ( lower .Data.Plural )) }}{{ .RelPermalink }}{{ end }}" class="all-tax-terms">{{ humanize ( T "ui_see_all" ) }} {{ with .Data.Plural }}{{ . | humanize }}{{ end }}</a>
+    <a href="{{ with .Site.GetPage (printf "/%s" ( lower .Data.Plural )) }}{{ .RelPermalink }}{{ end }}" class="all-tax-terms">{{ humanize ( T "ui_see_all" ) }} {{ humanize ( T "ui_tags" ) }}</a>
     </div>
     </article>
 </div>
