@@ -1,8 +1,8 @@
 ---
 title: Tenencia Múltiple (multitenancy)
 status: Feedback Appreciated
-category: propiedad
-tags: ["arquitectura", "propiedad", ""]
+category: Propiedad
+tags: ["architecture", "property", ""]
 ---
 
 ## ¿Qué es?
