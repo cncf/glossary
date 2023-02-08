@@ -5,7 +5,7 @@ category: Propiedad
 tags: ["fundamental", "property", ""]
 ---
 
-La escalabilidad se refiere a qué tan bien puede crecer un sistema.
+La escalabilidad se refiere a que tan bien puede crecer un sistema.
 Eso está aumentando la capacidad de hacer lo que se supone que debe hacer el sistema.
 Por ejemplo, un [clúster](/es/cluster/) de [Kubernetes](/es/kubernetes/) escala
 aumentando o reduciendo el número de aplicaciones [en contenedores](/es/containerización/),
