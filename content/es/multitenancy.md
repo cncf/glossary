@@ -7,7 +7,9 @@ tags: ["architecture", "property", ""]
 
 ## ¿Qué es?
 
-Multitenancy se refiere a una única instalación de software que sirve a varios inquilinos. Un inquilino es un usuario, una aplicación o un grupo de usuarios/aplicaciones que utilizan el software para operar con su propio conjunto de datos. Estos inquilinos no comparten datos (a menos que el propietario se lo indique explícitamente) y pueden incluso no ser conscientes unos de otros.  
+Tenencia Múltiple (o multitenancy) se refiere a una única instalación de software que sirve a varios inquilinos.
+Un inquilino es un usuario, una aplicación o un grupo de usuarios/aplicaciones que utilizan el software para operar con su propio conjunto de datos.
+Estos inquilinos no comparten datos (a menos que el propietario explícitamente se lo indique) e incluso pueden no ser conscientes unos de otros.  
 
 Un inquilino puede ser tan pequeño como un usuario independiente con un único identificador de inicio de sesión - piensa en un software de productividad personal - o tan grande como toda una corporación con miles de identificadores de inicio de sesión, cada uno con sus propios privilegios, pero interrelacionados de múltiples maneras. Algunos ejemplos de software multiusuario son Google Mail, Google Docs, Microsoft Office 365, Salesforce CRM y Dropbox, entre muchos otros que se clasifican como programas totalmente o parcialmente para multiples usuarios.
 
