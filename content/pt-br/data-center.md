@@ -2,6 +2,7 @@
 title: Data Center
 status: Feedback Appreciated
 category: tecnologia
+tags: ["", "", ""]
 ---
 
 ## O que é

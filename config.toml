@@ -109,7 +109,6 @@ languageName ="中文(Chinese)"
 contentDir = "content/zh-cn"
 weight = 7
 
-
 [languages.bn]
 title = "ক্লাউড নেটিভ শব্দকোষ"
 description = "CNCF ক্লাউড নেটিভ শব্দকোষ প্রকল্পটি ক্লাউড নেটিভ অ্যাপ্লিকেশন সম্পর্কে কথা বলার সময় ব্যবহৃত সাধারণ পদগুলির জন্য একটি রেফারেন্স হিসাবে ব্যবহার করার উদ্দেশ্যে।"
@@ -117,12 +116,19 @@ languageName = "বাংলা(Bengali)"
 contentDir = "content/bn"
 weight = 8
 
+[languages.de]
+title = "Cloud Native Glossar"
+description = "Das CNCF Cloud Native Glossar soll als Referenz für gängige Begriffe dienen, die im Zusammenhang mit Cloud Native Anwendungen verwendet werden."
+languageName ="Deutsch"
+contentDir = "content/de"
+weight = 9
+
 [languages.fr]
 title = "Glossaire Cloud Native"
 description = "Le projet de Glossaire CNCF Cloud Natif a pour objectif de référencer les termes courants utilisés dans les différentes applications cloud native."
 languageName ="Français(French)"
 contentDir = "content/fr"
-weight = 9
+weight = 10
 
 
 [markup]
@@ -146,7 +152,7 @@ copyright = "The Linux Foundation®"
 privacy_policy = "https://www.linuxfoundation.org/privacy"
 
 # First one is picked as the Twitter card image if not set on page.
-images = ["images/cncf-glossary-social.png"]
+images = ["images/cncf-glossary-social.jpg"]
 
 # Menu title if your navbar has a versions selector to access old versions of your site.
 # This menu appears only if you have at least one [params.versions] set.
