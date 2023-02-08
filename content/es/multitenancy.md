@@ -24,7 +24,14 @@ Esto aumenta la utilización de recursos y los esfuerzos de mantenimiento y, en 
 
 ## ¿Cómo ayuda?
 
-Aplicaciones con multitenancy proveen a cada inquilino un entorno segregado (datos de trabajo, configuraciones, lista de credenciales, etc.), sirviendo simultáneamente a otros inquilinos. Desde la perspectiva del inquilino, cada uno tiene su propia instalación de software, aunque, en realidad, todos comparten una. Esto se consigue ejecutando el software en un servidor y permitiendo que los inquilinos se conecten a él a través de la red mediante una interfaz y/o una [API](/application-programming-interface/) (consulte también [Client-Server Architecture](/client-server-architecture/)). Con multitenancy en la aplicación, los inquilinos comparten los recursos de una instalación sin afectarse mutuamente o sólo de forma predefinida y controlada. El ahorro de recursos resultante por parte del proveedor de software pueden pasar a los inquilinos, lo que reduce significativamente el costo para los usuarios (de nuevo, piense en el correo electrónico o los editores de documentos en línea).
+Software con multitenancy provee a cada inquilino un entorno segregado (datos de trabajo, configuraciones, lista de credenciales, etc.),
+sirviendo simultáneamente a varios inquilinos. Desde la perspectiva del inquilino, cada uno tiene su propia instalación de software,
+aunque, en realidad, todos comparten una. Esto se consigue ejecutando el software en un servidor y permitiendo
+que los inquilinos se conecten a través de la red mediante una interfaz y/o una [API](/es/application-programming-interface/)
+(consulte también [Arquitectura Cliente-Servidor](/es/client-server-architecture/)).
+Con multitenancy en el software, los inquilinos comparten recursos de una instalación sin afectarse mutuamente o sólo
+de forma predefinida y controlada. El ahorro de recursos resultante por parte del proveedor de software pueden pasar
+a los inquilinos, lo que reduce significativamente el costo para los usuarios (de nuevo, piense en el correo electrónico o los editores de documentos en línea).
 
 ## Términos relacionados
 
