@@ -8,7 +8,7 @@ tags: ["fundamental", "property", ""]
 La escalabilidad se refiere a que tan bien puede crecer un sistema.
 Eso está aumentando la capacidad de hacer lo que se supone que debe hacer el sistema.
 Por ejemplo, un [clúster](/es/cluster/) de [Kubernetes](/es/kubernetes/) escala
-aumentando o reduciendo el número de aplicaciones [en contenedores](/es/containerización/),
+aumentando o reduciendo el número de aplicaciones [en contenedores](/es/containerization/),
 pero esa escalabilidad depende de varios factores.
 ¿Cuántos [nodos](/es/nodes/) tiene?, ¿cuántos [contenedores](/container/) puede manejar cada nodo?,
 y ¿cuántos registros y operaciones puede soportar el plano de control?
