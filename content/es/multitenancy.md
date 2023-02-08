@@ -19,7 +19,8 @@ o parcialmente para múltiples usuarios.
 
 ## Problema que aborda 
 
-Sin multitenancy, cada inquilino necesitaría una instalación de software dedicada. Esto aumenta la utilización de recursos y los esfuerzos de mantenimiento y los costos de la aplicación.
+Sin multitenancy, cada inquilino necesitaría una instalación de software dedicada.
+Esto aumenta la utilización de recursos y los esfuerzos de mantenimiento y, en última instancia, los costos de la aplicación.
 
 ## ¿Cómo ayuda?
 
