@@ -10,7 +10,7 @@ Eso está aumentando la capacidad de hacer lo que se supone que debe hacer el si
 Por ejemplo, un [clúster](/es/cluster/) de [Kubernetes](/es/kubernetes/) escala
 aumentando o reduciendo el número de aplicaciones [en contenedores](/es/containerización/),
 pero esa escalabilidad depende de varios factores.
-¿Cuántos [nodos](/es/nodes/) tiene, cuántos [contenedores](/container/) puede manejar cada nodo,
+¿Cuántos [nodos](/es/nodes/) tiene?, ¿cuántos [contenedores](/container/) puede manejar cada nodo?,
 y ¿cuántos registros y operaciones puede soportar el plano de control?
 
 Un sistema escalable facilita agregar más capacidad.
