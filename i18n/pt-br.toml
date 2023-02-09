@@ -22,6 +22,11 @@ other = "todas"
 [ui_see_all]
 other = "Ver todas"
 
+[ui_tag]
+other = "Tag"
+[ui_tags]
+other = "Tags"
+
 # Footer text
 [footer_all_rights_reserved]
 other = "Todos os direitos reservados"

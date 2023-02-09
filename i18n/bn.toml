@@ -21,6 +21,14 @@ other = "ভিতরে"
 # Used in sentences such as "All Tags"
 [ui_all]
 other = "সব"
+[ui_see_all]
+other = "See all"
+
+[ui_tag]
+other = "Tag"
+[ui_tags]
+other = "Tags"
+
 
 # Footer text
 [footer_all_rights_reserved]
