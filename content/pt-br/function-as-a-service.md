@@ -12,19 +12,6 @@ Função como um Serviço, (FaaS - Function as a Service ), é um tipo de [servi
 Com FaaS, os usuários gerenciam apenas funções e dados enquanto o provedor de nuvem gerencia a aplicação.
 Isso permite que os desenvolvedores obtenham as funções necessárias sem pagar pelos serviços quando o código não está em execução.
 
-Alguns exemplos de FaaS em Nuvem Pública Gerenciado incluem:
-
-- [AWS Lambda](https://aws.amazon.com/lambda/)
-- [Funções do Microsoft Azure](https://azure.microsoft.com/en-us/services/functions/).
-- [Funções do Google Cloud](https://cloud.google.com/functions/)
-- [Funções do Oracle Cloud Infrastructure](https://www.oracle.com/cloud/cloud-native/functions/)
-
-Alguns exemplos de Plataformas para execução de FaaS em Nuvem Pública e Privada:
-
-- [OpenFaaS](https://www.openfaas.com)
-- [Apache OpenWhisk](https://openwhisk.apache.org)
-- [Knative](https://www.openfaas.com)
-
 ## Problema relacionado
 
 Em um cenário tradicional, uma empresa gerencia e mantém seu próprio data center local. A empresa deve investir em servidores, armazenamento, software e outras tecnologias e possivelmente contratar uma equipe de TI ou terceirizados para comprar, gerenciar e atualizar todos os equipamentos e licenças. O data center deve ser construído para atender a demanda de pico, mesmo quando as cargas de trabalho diminuem e esses recursos ficam ociosos. Por outro lado, o departamento de TI pode ter dificuldades para acompanhar se o negócio se expandir.
