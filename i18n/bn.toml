@@ -18,12 +18,9 @@ other = "এই সাইট খোঁজ করুন…"
 [ui_in]
 other = "ভিতরে"
 
-# Used in sentences such as "All Tags"
-[ui_all]
-other = "সব"
-[ui_see_all]
-other = "See all"
-
+# Phrases for tags
+[ui_see_all_tags]
+other = "See all tags"
 [ui_tag]
 other = "Tag"
 [ui_tags]

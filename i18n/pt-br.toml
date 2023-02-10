@@ -16,12 +16,9 @@ other = "Procurar"
 [ui_in]
 other = "em"
 
-# Used in sentences such as "All Tags"
-[ui_all]
-other = "todas"
-[ui_see_all]
-other = "Ver todas"
-
+# Phrases for tags
+[ui_see_all_tags]
+other = "See all tags"
 [ui_tag]
 other = "Tag"
 [ui_tags]
