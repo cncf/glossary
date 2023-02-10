@@ -2,6 +2,7 @@
 title: Segurança Nativa da Nuvem
 status: Completed
 category: conceito
+tags: ["segurança", "", ""]
 ---
 
 ## O que é

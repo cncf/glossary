@@ -1,0 +1,130 @@
+# This workflow will post outdated terms report
+# by using data from previous workflows. 
+name: Post outdated terms report
+
+on:
+  workflow_run:
+    workflows: ["Check outdated terms"]
+    types:
+      - completed
+      
+jobs:
+  post-outdated-report:
+    name: Post outdated terms report
+    
+    if: ${{ github.event.workflow_run.conclusion == 'success' }}
+    
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write 
+#       pull-requests: write
+
+    steps:    
+    - name: Show the github context
+      shell: bash
+      run: |
+        echo "(DEBUG) ParsedBranch: ${GITHUB_REF#refs/heads/}"
+        echo "(DEBUG) github: ${{ github }}"
+        echo "(DEBUG) toJSON(github):" 
+        echo '${{ toJSON(github) }}'
+        echo "(DEBUG) github.action: ${{ github.action }}"
+        echo "(DEBUG) github.action_path: ${{ github.action_path }}"
+        echo "(DEBUG) github.actor: ${{ github.actor }}"
+        echo "(DEBUG) github.base_ref: ${{ github.base_ref	}}"
+        echo "(DEBUG) github.event: ${{ github.event }}"
+        echo "(DEBUG) github.event_name: ${{ github.event_name }}"
+        echo "(DEBUG) github.event_path: ${{ github.event_path }}"
+        echo "(DEBUG) github.head_ref: ${{ github.head_ref }}"
+        echo "(DEBUG) github.job: ${{ github.job }}"
+        echo "(DEBUG) github.ref: ${{ github.ref }}"
+        echo "(DEBUG) github.repository: ${{ github.repository }}"
+        echo "(DEBUG) github.repository_owner: ${{ github.repository_owner }}"
+        echo "(DEBUG) github.run_id: ${{ github.run_id }}"
+        echo "(DEBUG) github.run_number: ${{ github.run_number }}"
+        echo "(DEBUG) github.sha: ${{ github.sha }}"
+        echo "(DEBUG) github.token: ${{ github.token }}"
+        echo "(DEBUG) github.workflow: ${{ github.workflow }}"
+        echo "(DEBUG) github.workspace: ${{ github.workspace }}"
+        
+#     NOTE - "actions/download-artifact" is not working for sharing data between workflows. 
+#     - name: Download output
+#       uses: actions/download-artifact@v3
+    - name: Download output
+      uses: dawidd6/action-download-artifact@v2
+      with:
+        github_token: ${{secrets.GITHUB_TOKEN}}
+        workflow: check-outdated-terms.yaml
+        workflow_conclusion: success
+        
+    - name: Set up environment variables from the output
+      shell: bash
+      run: |
+        echo "(DEBUG) Display files and directories"
+        tree
+        
+        # Set the last changed directory as the output directory
+        OUTPUT_DIR=$(ls -tp | head -1)
+        
+        # Extract L10N code from the directory name
+        # ${MYVAR%%-*}: retain the part before the first '-'
+        L10N_CODE=${OUTPUT_DIR%%-*}
+        
+        # Count outdated terms 
+        OUTDATED_TERMS_COUNT=$(ls $OUTPUT_DIR | wc -l)
+        
+        echo "(DEBUG) OUTPUT_DIR: ${OUTPUT_DIR}"
+        echo "(DEBUG) L10N_CODE: ${L10N_CODE}"
+        echo "(DEBUG) OUTDATED_TERMS_COUNT: ${OUTDATED_TERMS_COUNT}"
+        
+        # Set OUTPUT_DIR, L10N_CODE, and OUTDATED_TERMS_COUNT as environment variables
+        # Ref: https://docs.github.com/en/actions/using-workflows/workflow-commands-for-github-actions#setting-an-environment-variable
+        echo "OUTPUT_DIR=${OUTPUT_DIR}" >> $GITHUB_ENV
+        echo "L10N_CODE=${L10N_CODE}" >> $GITHUB_ENV
+        echo "OUTDATED_TERMS_COUNT=${OUTDATED_TERMS_COUNT}" >> $GITHUB_ENV
+        
+    - name: Generate a report markdown
+      if: ${{ env.OUTDATED_TERMS_COUNT > 0 }}
+      shell: bash
+      run: |
+        FILE_LIST=$(find ${OUTPUT_DIR} -name '*.md')
+        
+        # Create report.md
+        touch report.md
+        
+        # Generate markdown
+        echo "NOTICE - The following outdated terms must be resolved before the next L10n branch updates." >> report.md
+        echo "" >> report.md
+        echo "### Outdated files" >> report.md
+        
+        for FILE in ${FILE_LIST}; do 
+          FILE_NAME="${FILE#${OUTPUT_DIR}}" 
+          echo "- ${FILE_NAME}" >> report.md
+        done 
+        
+        echo "" >> report.md
+        
+        echo "### Details" >> report.md
+        
+        for FILE in ${FILE_LIST}; do 
+          FILE_NAME="${FILE#${OUTPUT_DIR}}" 
+
+          echo "Outdated file: ${FILE_NAME}" >> report.md
+          echo "" >> report.md
+          echo "\`\`\`diff" >> report.md 
+          cat ${FILE} >> report.md      
+          echo "\`\`\`" >> report.md 
+          echo "" >> report.md
+          
+        done 
+        
+        echo "The end of report"  >> report.md
+        
+    - name: Create an issue from the report
+      uses: peter-evans/create-issue-from-file@v4
+      with:
+        title: "[${{ env.L10N_CODE }}] A report to track update"
+        content-filepath: report.md
+        labels: |
+          outdated
+          good first issue
+          lang/${{ env.L10N_CODE }}

@@ -112,6 +112,7 @@ keys
 kubernetes
 lang
 lifecycle
+lifecycles
 linters
 localization
 localizations
@@ -168,6 +169,8 @@ seo
 seokho
 serverless
 sexualized
+signup
+signups
 skipenes
 smartsymbols
 snippets
@@ -205,3 +208,12 @@ wordlists
 www
 yaml
 yml
+DBaaS
+DBA
+Ispas
+Jihoon
+Seo
+TCP
+TCP/IP
+UDP
+HTTP/3

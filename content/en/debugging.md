@@ -1,8 +1,9 @@
 ---
 title: Debugging
-status: Completed
+status: Deprecated
 category: concept
-tags: ["application", "", ""]
+draft: true
+tags: ["application", "methodology", ""]
 ---
 
 ## What it is

@@ -2,6 +2,7 @@
 title: Imagem de Contêiner
 status: Feedback Appreciated
 category: conceito
+tags: ["", "", ""]
 ---
 
 Uma imagem de contêiner é um arquivo estático imutável que contém as dependências para a criação de um contêiner. Essas dependências podem incluir um único arquivo binário executável, bibliotecas do sistema, ferramentas do sistema, variáveis de ambiente e outras configurações necessárias da plataforma. As imagens do contêiner resultam do encapsulamento de um aplicativo e geralmente são armazenadas em repositório de imagens, onde podem ser baixadas e executadas como um processo isolado usando um Container Runtime Interface (CRI). Uma estrutura de imagem de um contêiner deve seguir o esquema padrão definido pela Open Container Initiative (OCI).
