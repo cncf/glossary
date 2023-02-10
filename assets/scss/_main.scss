@@ -1,0 +1,10 @@
+body {
+	background-color: #fdfdfd;
+}
+
+// Align main content on desktop.
+.td-main main {
+	@media (min-width: 768px) {
+		padding-top: 9.5rem;
+	}
+}

@@ -2,7 +2,7 @@
 title: API গেটওয়ে(API Gateway)
 status: Completed
 category: প্রযুক্তি
-tags: ["নেটওয়ার্কিং", "", ""]
+tags: ["networking", "", ""]
 ---
 
 ## এটা কি

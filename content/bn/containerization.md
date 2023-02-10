@@ -2,6 +2,7 @@
 title: কন্টেইনারাইজেশন (Containerization)
 status: Completed
 category: প্রযুক্তি
+tags: ["application", "", ""]
 ---
 
 ## এটা কি

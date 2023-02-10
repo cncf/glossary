@@ -2,7 +2,7 @@
 title: নীল সবুজ স্থাপনা (Blue Green Deployment)
 status: Completed
 category: ধারণা
-tags: ["অ্যাপ্লিকেশন", "", ""]
+tags: ["methodology", "application", ""]
 ---
 
 ## এটা কি

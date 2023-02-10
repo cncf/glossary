@@ -2,6 +2,7 @@
 title: 金丝雀部署
 status: Completed
 category: 概念
+tags: ["应用程序", "", ""]
 ---
 
 ## 是什么

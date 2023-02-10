@@ -1,6 +1,7 @@
 ---
 title: 기여자 계층
 toc_hide: true
+status: Completed
 menu:
   main:
     weight: 10

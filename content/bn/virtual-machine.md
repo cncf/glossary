@@ -1,7 +1,8 @@
 ---
 title: ভার্চুয়াল মেশিন (Virtual Machine)
-status: Feedback Appreciated
+status: Completed
 category: প্রযুক্তিবিদ্যা
+tags: ["fundamental", "infrastructure", ""]
 ---
 
 ## এটা কি

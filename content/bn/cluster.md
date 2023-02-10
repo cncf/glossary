@@ -2,6 +2,7 @@
 title: ক্লাস্টার (Cluster)
 status: Completed
 category: ধারণা
+tags: ["infrastructure", "fundamental", ""]
 ---
 
 ## এটা কি

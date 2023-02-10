@@ -1,6 +1,11 @@
-{{ if .Path }}
-{{ if not ( or ( in .Path "search" ) ( in .Path "tags" ) ) }}
-  {{ $pathFormatted := replace .Path "\\" "/" }}
+{{ $path := "" }}
+{{ with .File }}
+  {{ $path = .Path }}
+{{ else }}
+  {{ $path = .Path }}
+{{ end }}
+{{ if not ( or ( in $path "search" ) ( in $path "tags" ) ) }}
+  {{ $pathFormatted := replace $path "\\" "/" }}
   {{ $gh_repo := ($.Param "github_repo") }}
   {{ $gh_url := ($.Param "github_url") }}
   {{ $gh_subdir := ($.Param "github_subdir") }}
@@ -37,5 +42,4 @@
     <a id="print" href="{{ .Permalink | safeURL }}"><i class="fa fa-print fa-fw"></i> {{ T "print_entire_section" }}</a>
   {{ end }}
   </div>
-{{ end }}
 {{ end }}

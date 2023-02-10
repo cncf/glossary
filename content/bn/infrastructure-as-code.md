@@ -2,6 +2,7 @@
 title: কোড হিসেবে পরিকাঠামো (Infrastructure as Code)
 status: Completed
 category: ধারণা
+tags: ["infrastructure", "methodology", ""]
 ---
 
 ## এটা কি

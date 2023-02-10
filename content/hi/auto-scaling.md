@@ -1,5 +1,5 @@
 ---
-title: ऑटो स्केलिंग
+title: ऑटो स्केलिंग (Auto Scaling)
 status: Completed
 category: गुण
 ---

@@ -2,7 +2,7 @@
 title: কেওস ইঞ্জিনিয়ারিং (Chaos Engineering)
 status: Completed
 category: ধারণা
-tags: ["security", "", ""]
+tags: ["methodology", "", ""]
 ---
 
 ## এটা কি

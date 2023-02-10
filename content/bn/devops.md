@@ -2,6 +2,7 @@
 title: ডেভওপস (DevOps)
 status: Completed
 category: ধারণা
+tags: ["methodology", "", ""]
 ---
 
 ## এটা কি

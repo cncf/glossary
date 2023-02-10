@@ -2,6 +2,7 @@
 title: Implantação Canário
 status: Completed
 category: conceito
+tags: ["aplicação", "", ""]
 ---
 
 ## O que é
