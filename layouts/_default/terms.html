@@ -1,6 +1,6 @@
 {{ define "main" }}
 <div>
-    <h1>{{ .Title }}</h1>
+    <h1>{{ title ( T "ui_filter_by_tags" ) }}</h1>
 
     <link href="{{ "css/glossary.css" | relURL }}" rel="stylesheet">
     <script src="{{ "js/glossary.js" | relURL }}"></script>
@@ -14,8 +14,8 @@
                 <a class="tax-term taxonomy-label" href="javascript:void(0)">{{ title .Page.Title }}</a>
             </span>
         {{ end }}
-        <span class="tag-option"><a id="select-all-tags" href="javascript:void(0)">{{ T "layouts_docs_glossary_select_all" }}</a></span>
-        <span class="tag-option"><a id="deselect-all-tags" href="javascript:void(0)">{{ T "layouts_docs_glossary_deselect_all" }}</a></span>
+        <span class="tag-option"><a id="select-all-tags" href="javascript:void(0)">{{ T "ui_select_all" }}</a></span>
+        <span class="tag-option"><a id="deselect-all-tags" href="javascript:void(0)">{{ T "ui_deselect_all" }}</a></span>
     </div>
 
 
