@@ -18,9 +18,13 @@ other = "搜索本站..."
 [ui_in]
 other = "里面"
 
-# Used in sentences such as "All Tags"
-[ui_all]
-other = "所有"
+# Phrases for tags
+[ui_see_all_tags]
+other = "See all tags"
+[ui_tag]
+other = "Tag"
+[ui_tags]
+other = "Tags"
 
 # Footer text
 [footer_all_rights_reserved]
