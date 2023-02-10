@@ -16,8 +16,30 @@
         <span class="tag-option"><a id="select-all-tags" href="javascript:void(0)">{{ T "ui_select_all" }}</a></span>
         <span class="tag-option"><a id="deselect-all-tags" href="javascript:void(0)">{{ T "ui_deselect_all" }}</a></span>
     </div>
-
-
+    
+    {{ $glossary_items := (where .Site.Pages "Params.status" "Completed") | union (where .Site.Pages "Params.status" "completed") }}
+    {{ with $glossary_items }}
+        {{ $glossary_terms := sort . "Title" "asc" }}
+        <div id="terms-by-tag">
+            {{ range $glossary_terms }}
+                {{ $.Scratch.Set "tag_classes" "" }}
+                {{ range .Params.tags }}
+                    {{ $.Scratch.Add "tag_classes" (printf "tag-%s " .)  }}
+                {{ end }}
+                {{ $term_identifier := (printf "term-%s" .Params.id) }}
+                
+                <div class="{{ $.Scratch.Get "tag_classes" }} hide" data-show-count="0">
+                    <div id="{{ $term_identifier }}" class="term-anchor"></div>
+                    <div>
+                        <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+                        <div>
+                            {{ .Summary | safeHTML }}
+                        </div>
+                    </div>
+                </div>
+            {{ end }}
+        </div>
+    {{ end }}
 
 </div>
 {{ end }}

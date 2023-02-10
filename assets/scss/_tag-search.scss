@@ -47,10 +47,15 @@ visibility: hidden;
 }
 
 #tag-container {
-margin: 25px 0px;
+margin: 35px 0px;
 }
 
 .tag-description {
 text-align: center;
 margin: 5px 0px;
+}
+
+#terms-by-tag {
+    clear: both;
+    padding-top: 3rem;
 }
