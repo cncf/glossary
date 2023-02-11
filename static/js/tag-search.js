@@ -132,31 +132,6 @@ $( document ).ready(function() {
         urlParamLib.updateParams(queryParams);
       });
   
-      // Expands/hides glossary term definitions when [+] button is clicked
-      $(".click-controller").each(function(){
-        $(this).click(function() {
-          var targetId = $(this).data("target");
-          var shouldExpand = $(this).html() == expandText;
-  
-          if (shouldExpand) {
-            $("#" + targetId).removeClass('hide');
-            $(this).html(closeText);
-          } else {
-            $("#" + targetId).addClass('hide');
-            $(this).html(expandText);
-          }
-        });
-      });
-  
-      // Shows permalink when term name is hovered over
-      $(".term-name").each(function() {
-        var permalink = $($(this).parent().find(".permalink")[0]);
-        $(this).mouseenter(function(){
-          permalink.removeClass("hide");
-        }).mouseleave(function(){
-          permalink.addClass("hide");
-        });
-      });
     };
   
     function initActiveTags() {
