@@ -25,8 +25,8 @@ other = "See all tags"
 other = "Tag"
 [ui_tags]
 other = "Tags"
-[ui_filter_by_tags]
-other = "Filter by Tags"
+[ui_search_by_tags]
+other = "Search by Tags"
 [ui_select_all]
 other = "Select All"
 [ui_deselect_all]

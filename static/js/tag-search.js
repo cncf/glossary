@@ -1,8 +1,6 @@
 // TODO (long-term): Would be easier to manage all this state with React
 
 $( document ).ready(function() {
-    var expandText = "[+]";
-    var closeText = "[-]";
     var selectAllKey = "all";
     var deselectAllKey = "none";
   
