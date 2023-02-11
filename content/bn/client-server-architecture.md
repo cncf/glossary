@@ -2,7 +2,7 @@
 title: ক্লায়েন্ট-সার্ভার স্থাপত্য (Client-Server Architecture)
 status: Completed
 category: ধারণা
-tags: ["স্থাপত্য", "", ""]
+tags: ["architecture", "", ""]
 ---
 
 ## এটা কি
