@@ -61,6 +61,12 @@ margin: 5px 0px;
 
     h3 {
         margin: 2.5rem 0 1rem;
+        a {
+            color: black;
+            &:hover {
+                color: $link-color;
+            }
+        }
     }
 }
 
