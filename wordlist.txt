@@ -169,6 +169,8 @@ seo
 seokho
 serverless
 sexualized
+signup
+signups
 skipenes
 smartsymbols
 snippets

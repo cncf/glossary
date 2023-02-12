@@ -2,6 +2,7 @@
 title: Containers as a Service
 status: Deprecated
 category: Technology
+draft: true
 tags: ["platform", "", ""]
 ---
 

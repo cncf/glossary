@@ -2,6 +2,7 @@
 title: Version Control
 status: Deprecated
 category: Technology
+draft: true
 tags: ["methodology", "", ""]
 ---
 
