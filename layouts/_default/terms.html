@@ -34,7 +34,7 @@
                 <div class="{{ $.Scratch.Get "tag_classes" }} hide" data-show-count="0">
                     <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
                     <div>
-                        {{ replace ( .Summary | markdownify ) "What it is" "" }}
+                        {{ replace ( .Summary | markdownify ) "What it is" "" }}..
                     </div>
                 </div>
             {{ end }}

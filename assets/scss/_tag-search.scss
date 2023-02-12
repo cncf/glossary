@@ -47,7 +47,7 @@ visibility: hidden;
 }
 
 #tag-container {
-margin: 35px 0px;
+margin: 35px 0 0;
 }
 
 .tag-description {
@@ -57,10 +57,10 @@ margin: 5px 0px;
 
 #terms-by-tag {
     clear: both;
-    padding-top: 3rem;
+    padding-top: 1rem;
 
     h3 {
-        margin-top: 2.5rem;
+        margin: 2.5rem 0 1rem;
     }
 }
 
