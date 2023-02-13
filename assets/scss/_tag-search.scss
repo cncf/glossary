@@ -20,7 +20,7 @@ visibility: hidden;
 
 .tag-option {
 padding: 1px 8px 2px;
-margin: 10px 10px 10px 0;
+margin: 10px 15px 10px 0;
 float:left;
 }
 
@@ -28,6 +28,8 @@ float:left;
 color: black;
 background-color: #E2E2E2;
 border-radius: 5px;
+width: 105px;
+text-align: center;
 }
 
 .tag-option a {
@@ -40,7 +42,8 @@ font-size: 10px;
 }
 
 #select-all-tags, #deselect-all-tags {
-    padding: 0;
+    margin: 0;
+    padding-right: 0;
 }
 
 .active-tag {
