@@ -32,7 +32,7 @@
                 {{ $term_identifier := (printf "term-%s" .Params.id) }}
                 
                 <div class="{{ $.Scratch.Get "tag_classes" }} hide" data-show-count="0">
-                    <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+                    <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
                     <div>
                         {{ replace ( .Summary | markdownify ) "What it is" "" }}..
                     </div>
