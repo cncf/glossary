@@ -27,6 +27,8 @@ other = "Tag"
 other = "Tags"
 [ui_search_by_tags]
 other = "Search by Tags"
+[ui_or_search_by_tags]
+other = "...or search by tags"
 [ui_select_all]
 other = "Select All"
 [ui_deselect_all]
