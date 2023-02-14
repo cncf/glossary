@@ -1,76 +1,93 @@
-
-.permalink {
-background-image: url(../images/link.png);
-background-repeat: no-repeat;
-display: inline-block;
-vertical-align: middle;
-font-size: 0;
-color: transparent;
-width: 17px;
-height: 17px;
-margin-left: 10px;
+// Hide the sidebar on Taxonomy Search/Browse page.
+.td-taxonomy .td-sidebar-toc {
+    display: none !important;
 }
 
-.term-anchor {
-display: block;
-position: relative;
-top: -90px;
-visibility: hidden;
+// Adding padding to bottom of Taxonomy Browse page.
+.td-taxonomy .td-main main {
+    padding-bottom: 6rem;
 }
 
-.tag-option {
-padding: 1px 8px 2px;
-margin: 10px 15px 10px 0;
-float:left;
+// Tags container.
+.canonical-tag-container {
+    margin-top: 1.5625rem;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    align-items: center;
 }
 
+// Tag item. Default gray.
 .canonical-tag {
-color: black;
-background-color: #E2E2E2;
-border-radius: 5px;
-width: 105px;
-text-align: center;
+    // button reset
+    border: none;
+    background: none;
+    box-sizing: border-box;
+    // button sizing.
+    min-width: 96px;
+    // style to match _taxonomy/.tax-term
+    display: block;
+    background-color: #e2e2e2;
+    color: black;
+    border-radius: 10px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-weight: 700;
+    font-size: 10px;
+    line-height: 120%;
+    text-align: center;
+    letter-spacing: 0.02em;
+    // Turn pink when selected is-active.
+    &.is-active {
+        background-color: $link-color;
+        color: white;
+        &:hover {
+            background-color: $link-color;
+            color: white;
+        }
+    }
+    // Hover default state.
+    &:hover {
+        background-color: #d2d2d2;
+    }
 }
 
-.tag-option a {
-color: inherit;
-text-decoration: none;
-font-weight: 600;
-letter-spacing: 0.02em;
-padding: 0 10px;
-font-size: 10px;
+// Reset buttons to look like text.
+.button-reset-to-text {
+    border: none;
+    background: none;
+    box-sizing: border-box;
+    padding: 0;
+    cursor: pointer;
+    display: block;
+    margin-left: initial;
+    margin-right: initial;
+    width: unset;
+    // styling.
+    font-size: 10px;
+    line-height: 120%;
+    font-weight: 700;
+    letter-spacing: 0.02em;
+    color: black;
+    &:active {
+        color: inherit;
+    }
+    &:hover {
+        color: $link-color;
+    }
 }
 
-#select-all-tags, #deselect-all-tags {
-    margin: 0;
-    padding-right: 0;
-}
-
-.active-tag {
-    font-weight: 500;
-    background-color: $link-color;
-    color: white;
-}
-
-.invisible {
-visibility: hidden;
-}
-
-#tag-container {
-margin: 35px 0 0;
-}
-
-.tag-description {
-text-align: center;
-margin: 5px 0px;
-}
-
+// Results
 #terms-by-tag {
-    clear: both;
-    padding-top: 1rem;
-
+    margin-top: 1rem;
+    > div {
+        margin-top: 2.5rem;
+    }
     h3 {
-        margin: 2.5rem 0 1rem;
+        margin-top: 2.5rem;
+        margin-bottom: 1rem;
         a {
             color: black;
             &:hover {
@@ -80,6 +97,35 @@ margin: 5px 0px;
     }
 }
 
+// Tag results.
+.invisible {
+    visibility: hidden;
+}
+
 .hide {
     display: none;
 }
+
+// Unused?
+.tag-description {
+    text-align: center;
+    margin: 5px 0px;
+}
+
+// Unused?
+.permalink {
+    background-image: url(../images/link.png); // does not exist?
+    background-repeat: no-repeat;
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 0;
+    color: transparent;
+    width: 17px;
+    height: 17px;
+    margin-left: 10px;
+}
+
+
+
+
+
