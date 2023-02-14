@@ -35,6 +35,9 @@ collaborators:
 
   - username: iamNoah1
     permission: maintain  
+
+  - username: thetwopct
+    permission: push
   
   - username: thetwopct
     permission: push
