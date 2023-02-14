@@ -4,7 +4,7 @@ $( document ).ready(function() {
     var selectAllKey = "all";
     var deselectAllKey = "none";
   
-    var defaultActiveTag = "fundamental";
+    var defaultActiveTag = "";
     var activeTags = {};
   
     var paramSize = function(paramHash) {
@@ -51,7 +51,7 @@ $( document ).ready(function() {
         var targetClass = "." + targetTag;
         var tagName = targetTag.split('tag-')[1];
   
-        elt.removeClass("active-tag");
+        elt.removeClass("is-active");
         $(targetClass).each(function(){
           var showCount = $(this).data("show-count");
           var newShowCount = showCount - 1;
@@ -68,7 +68,7 @@ $( document ).ready(function() {
         var targetClass = "." + targetTag;
         var tagName = targetTag.split('tag-')[1];
   
-        elt.addClass("active-tag");
+        elt.addClass("is-active");
         $(targetClass).each(function(){
           var showCount = $(this).data("show-count");
           var newShowCount = showCount + 1;
@@ -96,7 +96,7 @@ $( document ).ready(function() {
         });
   
         $(this).click(function(){
-          var shouldHide = $(this).hasClass("active-tag");
+          var shouldHide = $(this).hasClass("is-active");
           if (shouldHide) {
             deactivateTagTerms($(this));
           } else {
@@ -109,7 +109,7 @@ $( document ).ready(function() {
       // Adds functionality to "select all tags" link
       $("#select-all-tags").click(function(){
         $(".canonical-tag").each(function(){
-          var shouldActivate = !$(this).hasClass("active-tag");
+          var shouldActivate = !$(this).hasClass("is-active");
           if (shouldActivate) {
             activateTagTerms($(this));
           }
@@ -122,7 +122,7 @@ $( document ).ready(function() {
       // Adds functionality to "deselect all tags" link
       $("#deselect-all-tags").click(function(){
         $(".canonical-tag").each(function(){
-          var shouldHide = $(this).hasClass("active-tag");
+          var shouldHide = $(this).hasClass("is-active");
           if (shouldHide) {
             deactivateTagTerms($(this));
           }
@@ -140,8 +140,9 @@ $( document ).ready(function() {
       } else if (activeTags[deselectAllKey]) {
         $("#deselect-all-tags").click();
       } else {
+        console.log({activeTags})
         for (var tagId in activeTags) {
-          $("#tag-" + tagId).find("a")[0].click();
+          $("#tag-" + tagId).click();
         }
       }
     }
