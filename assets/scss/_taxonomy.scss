@@ -14,8 +14,9 @@
 
 .tax-term {
 	display: block;
+	color: $white;
 	background-color: $link-color;
-	border-radius: 10px;
+	border-radius: 50px;
 	padding-top: 7px;
 	padding-bottom: 7px;
 	padding-left: 15px;
@@ -25,7 +26,6 @@
 	line-height: 120%;
 	text-align: center;
 	letter-spacing: 0.02em;
-	color: $white;
 	&:hover {
 		color: $white;
 		text-decoration: none;
