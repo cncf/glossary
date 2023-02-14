@@ -15,4 +15,4 @@ Tous ces détails sont cachés sous le « capot » abstrait par le système d'
 Généralement, les systèmes ont plusieurs couches d'abstraction.
 Cela simplifie considérablement le développement.
 Lors de la programmation, les développeurs construisent des composants compatibles avec une couche d'abstraction particulière et n'ont pas à se soucier de tous les détails sous-jacents qui peuvent être très hétérogènes.
-Si cela fonctionne avec la couche d'abstraction, cela fonctionne avec le système — peu importe ce qui se trouve sous le capot.
+Si cela fonctionne avec la couche d'abstraction, cela fonctionne avec le système — peu importe ce qui se trouve en dessous.
