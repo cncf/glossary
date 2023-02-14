@@ -39,7 +39,7 @@
     min-width: 96px;
     // style to match _taxonomy/.tax-term
     display: block;
-	background: #EFEFEF;
+    background: #efefef;
     color: black;
     border-radius: 50px;
     padding-top: 7px;
@@ -55,14 +55,18 @@
     &.is-active {
         background-color: $link-color;
         color: white;
-        &:hover {
-            background-color: $link-color;
-            color: white;
+        @media (hover: hover) {
+            &:hover {
+                background-color: $link-color;
+                color: white;
+            }
         }
     }
-    // Hover default state.
-    &:hover {
-        background-color: #d2d2d2;
+    @media (hover: hover) {
+        // Hover default state.
+        &:hover {
+            background-color: #d2d2d2;
+        }
     }
 }
 
@@ -136,8 +140,3 @@
     height: 17px;
     margin-left: 10px;
 }
-
-
-
-
-
