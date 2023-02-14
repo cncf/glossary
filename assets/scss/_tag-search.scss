@@ -27,14 +27,14 @@
     min-width: 96px;
     // style to match _taxonomy/.tax-term
     display: block;
-    background-color: #e2e2e2;
+	background: #EFEFEF;
     color: black;
-    border-radius: 10px;
+    border-radius: 50px;
     padding-top: 7px;
     padding-bottom: 7px;
-    padding-left: 15px;
-    padding-right: 15px;
-    font-weight: 700;
+    padding-left: 18px;
+    padding-right: 18px;
+    font-weight: 600;
     font-size: 10px;
     line-height: 120%;
     text-align: center;
@@ -68,7 +68,7 @@
     // styling.
     font-size: 10px;
     line-height: 120%;
-    font-weight: 700;
+    font-weight: 600;
     letter-spacing: 0.02em;
     color: black;
     &:active {
