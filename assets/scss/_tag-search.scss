@@ -11,10 +11,22 @@
 // Tags container.
 .canonical-tag-container {
     margin-top: 1.5625rem;
-    display: flex;
-    flex-wrap: wrap;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(96px, 1fr));
     gap: 20px;
-    align-items: center;
+    @media (min-width: 768px) {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+    }
+    @media (max-width: 767px) {
+        > span {
+            display: flex;
+            align-items: center;
+            align-content: center;
+            justify-content: center;
+        }
+    }
 }
 
 // Tag item. Default gray.
