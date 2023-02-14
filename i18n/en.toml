@@ -28,7 +28,7 @@ other = "Tags"
 [ui_search_by_tags]
 other = "Browse by Tags"
 [ui_tags_intro]
-other = "We've categorized the glossary terms by tags. Use the filters to browse terms by tag."
+other = "We've categorized the glossary terms. Use the filters to browse terms by tag."
 [ui_or_search_by_tags]
 other = "...or browse by tag"
 [ui_select_all]
