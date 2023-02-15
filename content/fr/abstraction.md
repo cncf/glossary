@@ -8,7 +8,6 @@ tags: ["fundamental", "", ""]
 Dans le contexte informatique, une abstraction est une représentation qui masque les détails spécifiques à un consommateur de services (un consommateur étant un programme informatique ou un humain), rendant un système plus générique, et ainsi facilement compréhensible.
 Le système d'exploitation de votre ordinateur portable en est un bon exemple.
 Il masque tous les détails du fonctionnement de votre ordinateur.
-
 Vous n'avez pas besoin d'avoir une compréhension approfondie du processeur, de la mémoire et du fonctionnement des programmes, vous utilisez simplement le système d'exploitation et ce dernier s'occupe des détails.
 Tous ces détails sont cachés sous le « capot » abstrait par le système d'exploitation.
 
