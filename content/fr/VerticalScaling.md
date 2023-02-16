@@ -1,5 +1,6 @@
 Mise à l'échelle verticale
 
+
 Ce que c'est
 
 La mise à l'échelle verticale, également connue sous le nom de "mise à l'échelle vers le haut et vers le bas", est une technique dans
