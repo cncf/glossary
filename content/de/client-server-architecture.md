@@ -20,7 +20,8 @@ Eine Client-Server-Architektur löst eine große Herausforderung, die in sich ge
 Bei einer Standalone-Anwendung müssten die Benutzer bei jeder Aktualisierung die neueste Version herunterladen und installieren. 
 Zum Beispiel müssten sich die Benutzer regelmäßig den kompletten Produktkatalog von Amazon auf ihre Computer herunterladen. 
 Außerdem vereinfacht es die gemeinsame Nutzung von Daten. So müssen Daten nicht mehr verschickt oder sogar auf physischen Datenträgern weitergegeben werden.
-Je größer eine Applikation ist, desto höher werden die Anforderungen an das Endgeräte. Wachsende Standalone Anwendungen belegen dadurch immer mehr physische Ressourcen auf der Maschine des Nutzers-
+Je größer eine Applikation ist, desto höher werden die Anforderungen an das Endgeräte. 
+Wachsende Standalone Anwendungen belegen dadurch immer mehr physische Ressourcen auf der Maschine des Nutzers.
 
 ## Wie es das Problem löst
 
