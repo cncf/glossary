@@ -8,7 +8,7 @@ tags: ["방법론", "애플리케이션", ""]
 ## 개념
 
 지속적인 전달(Continuous delivery, CD)은,
-코드 변경사항이 인수 환경(acceptance environment)으로(또는
+코드 변경사항이 승인 환경(acceptance environment)으로(또는
 지속적인 배포(continuous deployment)의 경우, 프로덕션(production)으로) 자동으로 배포되는 일련의 작업이다.
 CD는 배포 전에 소프트웨어가 적절하게 테스트되었는지 보장하는 절차를 포함하며,
 필요한 경우 변경사항을 롤백(rollback)하는 방법을 제공한다.
