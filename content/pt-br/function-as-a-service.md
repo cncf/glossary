@@ -16,7 +16,7 @@ Isso permite que os desenvolvedores obtenham as funções necessárias sem pagar
 
 Em um cenário tradicional, uma empresa gerencia e mantém seu próprio data center local. A empresa deve investir em servidores, armazenamento, software e outras tecnologias e possivelmente contratar uma equipe de TI ou terceirizados para comprar, gerenciar e atualizar todos os equipamentos e licenças. O data center deve ser construído para atender a demanda de pico, mesmo quando as cargas de trabalho diminuem e esses recursos ficam ociosos. Por outro lado, o departamento de TI pode ter dificuldades para acompanhar se o negócio se expandir.
 
-Sob um modelo padrão de computação em nuvem [Infrastructure-as-a-Service (IaaS)](/pt-br/infrastructure-as-a-service/), os usuários compram antecipadamente unidades de capacidade, o que significa que será pago a um provedor de nuvem pública por componentes de servidor sempre ativos para executar suas aplicações. É, portanto, responsabilidade do usuário aumentar a capacidade do servidor durante períodos de alta demanda e reduzir quando essa capacidade não for mais necessária.
+Sob um modelo padrão de computação em nuvem [Infrastructure-as-a-Service (IaaS)](/infrastructure-as-a-service/), os usuários compram antecipadamente unidades de capacidade, o que significa que será pago a um provedor de nuvem pública por componentes de servidor sempre ativos para executar suas aplicações. É, portanto, responsabilidade do usuário aumentar a capacidade do servidor durante períodos de alta demanda e reduzir quando essa capacidade não for mais necessária.
 
 A infraestrutura de nuvem necessária para executar uma aplicação está ativa mesmo quando a aplicação não está sendo usado.
 
