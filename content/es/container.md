@@ -7,7 +7,7 @@ tags: ["application", "fundamental", ""]
 
 ## ¿Qué es?
 
-Un contenedor es un proceso en ejecución con restricciones de recursos y capacidades administrado por el Sistema Operativo de una computadora.
+Un contenedor es un proceso en ejecución con restricciones de recursos y capacidades administrado por el sistema operativo de una computadora.
 Los archivos disponibles para el contenedor se empaquetan como una imagen de contenedor.
 Los contenedores corren uno al lado del otro en la misma máquina,
 pero, por lo general, el Sistema Operativo evita que los procesos de contenedores separados interactúen entre sí.
