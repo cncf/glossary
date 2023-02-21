@@ -21,7 +21,7 @@ Además, el mantenimiento, la actualización y el inicio de un sistema operativo
 
 ## ¿Cómo ayuda?
 
-Los contenedores comparten el mismo Sistema Operativo y sus recursos de máquina,
+Los contenedores comparten el mismo sistema operativo y sus recursos de máquina,
 distribuyen la sobrecarga de recursos del sistema operativo y crean un uso eficiente de la máquina física.
 Esta capacidad solo es posible porque los contenedores normalmente no pueden interactuar entre sí.
 Esto permite ejecutar muchas más aplicaciones en la misma máquina física.
