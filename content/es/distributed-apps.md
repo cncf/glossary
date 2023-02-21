@@ -15,7 +15,7 @@ En un entorno de nube nativa, los componentes individuales suelen ejecutarse com
 
 ## Problema que aborda
 
-Una aplicación que se ejecuta en un único ordenador representa un único punto de fallo: si ese ordenador falla, la aplicación deja de estar disponible. 
+Una aplicación que se ejecuta en un único ordenador representa un punto único de fallo: si ese ordenador falla, la aplicación deja de estar disponible. 
 Las aplicaciones distribuidas a menudo se contraponen a las [aplicaciones monolíticas](/monolithic-apps/). 
 Una aplicación monolítica puede ser más difícil de escalar, ya que los distintos componentes no pueden escalarse de forma independiente. 
 También pueden convertirse en un lastre para la velocidad de los desarrolladores a medida que crecen 
