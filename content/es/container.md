@@ -27,6 +27,6 @@ Esta capacidad solo es posible porque los contenedores normalmente no pueden int
 Esto permite ejecutar muchas más aplicaciones en la misma máquina física.
 
 Sin embargo, existen limitaciones.
-Dado que los contenedores comparten el mismo Sistema Operativo, los procesos pueden considerarse menos seguros que las alternativas.
+Dado que los contenedores comparten el mismo sistema operativo, los procesos pueden considerarse menos seguros que las alternativas.
 Los contenedores también requieren límites en los recursos compartidos.
 Para garantizar los recursos, los administradores deben restringir y limitar el uso de la memoria y la CPU para que otras aplicaciones no funcionen mal.
