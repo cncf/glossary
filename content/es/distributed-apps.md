@@ -1,7 +1,7 @@
 ---
 title: Aplicaciones Distribuidas
 status: Completed
-category: concept
+category: Concepto
 tags: ["architecture", "", ""]
 ---
 
