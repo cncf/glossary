@@ -1,5 +1,5 @@
 ---
-title: Technologies Cloud Native
+title: Technologies Cloud Natives
 status: Completed
 category: Concept
 tags: ["fundamentals", "", ""]
