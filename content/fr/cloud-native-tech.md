@@ -8,7 +8,7 @@ tags: ["fundamentals", "", ""]
 ## Ce que c'est
 
 Les technologies Cloud Natives, aussi référencées comme la pile des technologies cloud natives, sont les technologies
-utilisées pour construire des [applications cloud native](/cloud-native-apps/).
+utilisées pour construire des [applications cloud natives](/cloud-native-apps/).
 Ces technologies permettent aux organisations de développer des applications capables de se mettre à l'échelle dans des environnements
 modernes et dynamiques tels que les clouds publics, privés et hybrides.
 Tout en tirant pleinement parti des avantages du [cloud computing](/cloud-computing/).
