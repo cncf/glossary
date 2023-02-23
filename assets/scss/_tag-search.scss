@@ -18,6 +18,7 @@
         display: flex;
         flex-wrap: wrap;
         align-items: center;
+        margin-bottom: 3rem;
     }
     @media (max-width: 767px) {
         > span {
@@ -120,23 +121,4 @@
 
 .hide {
     display: none;
-}
-
-// Unused?
-.tag-description {
-    text-align: center;
-    margin: 5px 0px;
-}
-
-// Unused?
-.permalink {
-    background-image: url(../images/link.png); // does not exist?
-    background-repeat: no-repeat;
-    display: inline-block;
-    vertical-align: middle;
-    font-size: 0;
-    color: transparent;
-    width: 17px;
-    height: 17px;
-    margin-left: 10px;
 }
