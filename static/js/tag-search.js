@@ -140,7 +140,6 @@ $( document ).ready(function() {
       } else if (activeTags[deselectAllKey]) {
         $("#deselect-all-tags").click();
       } else {
-        console.log({activeTags})
         for (var tagId in activeTags) {
           $("#tag-" + tagId).click();
         }
