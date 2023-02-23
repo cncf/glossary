@@ -16,7 +16,7 @@ Los nodos están programados para lograr un objetivo común e intercambian mensa
 Una gran cantidad de aplicaciones modernas son tan grandes que necesitan de supercomputadoras para poder operar. 
 Ninguna computadora es lo suficientemente poderosa para alojar toda una aplicación. 
 Sin embargo, cuando se conectan varias computadoras el poder de computación se vuelve casi ilimitado. 
-Sin computación distribuida, no sería posible construir muchas de las aplicaciones que utilizamos hoy en dia. 
+Sin computación distribuida, no sería posible construir muchas de las aplicaciones que utilizamos hoy en día. 
 
 Tradicionalmente, los sistemas implementarían un [escalamiento](/scalability/) vertical. 
 Esto es, cuando se añade más CPU o memoria a una máquina individual. 
@@ -24,7 +24,7 @@ El escalamiento vertical consume mucho tiempo, requiere de un periodo de inactiv
 
 ## ¿Cómo ayuda?
 
-Los sistemas distribuídos permiten el [escalamiento horizontal](/horizontal-scaling/) (por ejemplo, añadir más nodos al sistema siempre que éste lo requiera). 
+Los sistemas distribuidos permiten el [escalamiento horizontal](/horizontal-scaling/) (por ejemplo, añadir más nodos al sistema siempre que éste lo requiera). 
 Este proceso se puede automatizar, lo que permite al sistema manejar un incremento repentino de la carga de trabajo o del consumo de recursos. 
-Un sistema no distribuído está expuesto a los riesgos de falla porque cuando una máquina deja de funcionar, todo el sistema falla. 
-En cambio, un sistema distribuído puede ser contruído de tal manera que si una máquina deja de funcionar, el sistema completo puede seguir funcionando para producir los mismos resultados. 
+Un sistema no distribuido está expuesto a los riesgos de falla porque cuando una máquina deja de funcionar, todo el sistema falla. 
+En cambio, un sistema distribuido puede ser contruido de tal manera que si una máquina deja de funcionar, el sistema completo puede seguir funcionando para producir los mismos resultados. 
