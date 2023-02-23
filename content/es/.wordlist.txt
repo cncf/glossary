@@ -54,6 +54,7 @@ community
 Completed
 concept
 confiabilidad
+construido
 Container
 contenedores
 contenedorizadas
@@ -76,6 +77,8 @@ DevOps
 DevSecOps
 DigitalOcean
 directly
+distribuido
+distribuidos
 Docs
 draft
 Dropbox
@@ -228,6 +231,7 @@ submit
 submitting
 subrúbricas
 Subversion
+supercomputadoras
 tags
 TCP
 technology
