@@ -39,6 +39,9 @@ collaborators:
   - username: thetwopct
     permission: push
   
+  - username: thetwopct
+    permission: push
+
   # English approvers (approver for all files in repository)
 
   
