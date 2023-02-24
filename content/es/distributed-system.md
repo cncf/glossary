@@ -1,7 +1,7 @@
 ---
 title: Sistema Distribuido
 status: Completed
-category: concepto
+category: Concepto
 tags: ["architecture", "", ""]
 ---
 
