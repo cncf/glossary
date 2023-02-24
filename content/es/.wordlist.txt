@@ -76,8 +76,6 @@ DevOps
 DevSecOps
 DigitalOcean
 directly
-distribuido
-distribuidos
 Docs
 draft
 Dropbox
