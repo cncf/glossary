@@ -26,6 +26,7 @@ El escalamiento vertical consume mucho tiempo, requiere de un periodo de inactiv
 ## ¿Cómo ayuda?
 
 Los sistemas distribuidos permiten el [escalamiento horizontal](/horizontal-scaling/) (por ejemplo, añadir más nodos al sistema siempre que éste lo requiera). 
-Este proceso se puede automatizar, lo que permite al sistema manejar un incremento repentino de la carga de trabajo o del consumo de recursos. 
+Este proceso se puede automatizar, lo que permite al sistema manejar un incremento repentino de la carga de trabajo o del consumo de recursos.
+
 Un sistema no distribuido está expuesto a los riesgos de falla porque cuando una máquina deja de funcionar, todo el sistema falla. 
 En cambio, un sistema distribuido puede ser contruido de tal manera que si una máquina deja de funcionar, el sistema completo puede seguir funcionando para producir los mismos resultados. 
