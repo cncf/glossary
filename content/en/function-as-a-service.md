@@ -12,9 +12,7 @@ that allows executing code in response to events
 without maintaining the complex infrastructure 
 typically associated with building and launching [microservices](/microservices/) applications. 
 With FaaS, users manage only functions and data while the cloud provider manages the application. 
-This allows developers to get the functions they need without paying for services when code isn’t running. 
-Some popular FaaS examples include: [Amazon's AWS Lambda](https://aws.amazon.com/lambda/), 
-[Google Cloud Functions](https://cloud.google.com/functions/) and [Microsoft Azure Functions](https://azure.microsoft.com/en-us/services/functions/).   
+This allows developers to get the functions they need without paying for services when code isn’t running.  
 
 ## Problem it addresses
 

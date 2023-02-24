@@ -18,11 +18,13 @@ other = "Search this site…"
 [ui_in]
 other = "in"
 
-# Used in sentences such as "All Tags"
-[ui_all]
-other = "all"
-[ui_see_all]
-other = "See all"
+# Phrases for tags
+[ui_see_all_tags]
+other = "See all tags"
+[ui_tag]
+other = "Tag"
+[ui_tags]
+other = "Tags"
 
 # Footer text
 [footer_all_rights_reserved]
