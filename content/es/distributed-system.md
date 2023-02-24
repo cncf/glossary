@@ -19,7 +19,7 @@ Ninguna computadora es lo suficientemente poderosa para alojar toda una aplicaci
 Sin embargo, cuando se conectan varias computadoras el poder de computación se vuelve casi ilimitado. 
 Sin computación distribuida, no sería posible construir muchas de las aplicaciones que utilizamos hoy en día. 
 
-Tradicionalmente, los sistemas implementarían un [escalamiento](/scalability/) vertical. 
+Tradicionalmente, los sistemas implementarían un [escalamiento](/es/scalability/) vertical. 
 Esto es, cuando se añade más CPU o memoria a una máquina individual. 
 El escalamiento vertical consume mucho tiempo, requiere de un periodo de inactividad y alcanza su límite rápidamente. 
 
