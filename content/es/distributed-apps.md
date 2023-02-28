@@ -28,4 +28,4 @@ Al dividir una aplicación en diferentes partes y ejecutarlas en muchos lugares,
 También permite a una aplicación aprovechar características de escalado no disponibles para aplicaciones de una única instancia, 
 es decir, permite aprovechar la capacidad de [escalar horizontalmente](/horizontal-scaling/). 
 Sin embargo, esto tiene un precio: una mayor complejidad y sobrecarga operativa. 
-- ahora estás ejecutando muchos componentes en lugar de una aplicación única.
+— ahora estás ejecutando muchos componentes en lugar de una aplicación única.
