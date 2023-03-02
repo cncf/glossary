@@ -60,6 +60,7 @@ contenedorizadas
 contenedorizados
 contenerización
 content
+continuous
 create
 creating
 CRI
@@ -68,6 +69,7 @@ Daniel
 Datadog
 declarativamente
 DEFINITION
+delivery
 Deployment
 deployments
 Deprecated
@@ -80,6 +82,7 @@ Docs
 draft
 Dropbox
 ej
+empoderan
 Engine
 Engineering
 English
@@ -123,6 +126,7 @@ indisponibilidad
 infrastructure
 Initiative
 inmutable
+integration
 interface
 io
 issue
