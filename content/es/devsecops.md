@@ -26,7 +26,7 @@ puede degradar la postura de seguridad de una organización.
 
 ## ¿Cómo ayuda?
 
-DevSecOps se enfoca en romper los silos del equipo y promueve la creación de flujos de trabajo automatizados y seguros.
+DevSecOps se enfoca en romper el aislamiento del equipo y promueve la creación de flujos de trabajo automatizados y seguros.
 Al seleccionar aplicaciones de seguridad, las organizaciones deben aprovechar
 flujos de trabajo de CI/CD automatizados y la aplicación de políticas que empoderan al desarrollador.
 El objetivo no es bloquear sino hacer cumplir las políticas de seguridad
