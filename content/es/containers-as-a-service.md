@@ -34,4 +34,4 @@ Permite a los equipos crear [sistemas distribuidos](/es/distributed-systems/) de
 Además, al permitir implementaciones rápidas, CaaS aumenta la velocidad de desarrollo del equipo.
 Mientras que los contenedores garantizan un objetivo de implementación consistente,
 CaaS reduce los costos operativos de ingeniería
-al reducir los recursos [DevOps](/es/devops/) necesarios para administrar un depliegue.
+al reducir los recursos [DevOps](/es/devops/) necesarios para administrar un despliegue.
