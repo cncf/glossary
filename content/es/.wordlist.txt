@@ -73,6 +73,7 @@ DEFINITION
 Deployment
 deployments
 Deprecated
+despliegue
 development
 DevOps
 DevSecOps
@@ -141,6 +142,7 @@ Language
 laptop
 Layer
 localizations
+logs
 loop
 Mail
 main
