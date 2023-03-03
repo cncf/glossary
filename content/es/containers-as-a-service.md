@@ -8,8 +8,7 @@ tags: ["platform", "", ""]
 
 ## ¿Qué es? 
 
-Contenedores como servicio (CaaS, por sus siglas en inglés _containers as a service_) 
-es un servicio en la nube que ayuda a administrar e implementar aplicaciones
+Contenedores como Servicio (CaaS, por sus siglas en inglés _containers as a service_) es un servicio en la nube que ayuda a administrar e implementar aplicaciones
 mediante la [abstracción](/es/abstraction/) basada en [contenedores](/container/). 
 Este servicio se puede implementar en las instalaciones o en la nube. 
 
