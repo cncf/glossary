@@ -22,7 +22,7 @@ entregar [aplicaciones nativas para la nube](/es/cloud-native-apps/) que se pued
 
 ## Problema que aborda
 
-Sin CaaS, los equipos desarrolladores de software necesitan implementar, administrar y monitorear 
+Sin CaaS, los equipos de desarrollo de software necesitan implementar, administrar y monitorear 
 la infraestructura subyacente donde se ejecutan los contenedores. 
 
 ## ¿Cómo ayuda?
