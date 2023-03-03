@@ -18,7 +18,7 @@ Esto ayuda a los desarrolladores a crear aplicaciones seguras y [escalables](/es
 Debido a que los usuarios solo compran los recursos que necesitan (capacidades de planificación, balanceo de carga, etc.),
 se ahorra dinero y se aumenta la eficiencia.
 Los contenedores crean entornos consistentes para desarrollar y
-entregar [aplicaciones nativas de la nube](/es/cloud-native-apps/) que se pueden ejecutar en cualquier lugar.
+entregar [aplicaciones nativas para la nube](/es/cloud-native-apps/) que se pueden ejecutar en cualquier lugar.
 
 ## Problema que aborda
 
