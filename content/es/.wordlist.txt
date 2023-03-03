@@ -29,6 +29,7 @@ bugs
 Business
 BVS
 BY
+CaaS
 calendar
 Canary
 CAPEX
@@ -55,6 +56,7 @@ Completed
 concept
 confiabilidad
 Container
+containers
 contenedores
 contenedorizadas
 contenedorizados
@@ -73,6 +75,7 @@ delivery
 Deployment
 deployments
 Deprecated
+despliegue
 development
 DevOps
 DevSecOps
@@ -143,6 +146,7 @@ Language
 laptop
 Layer
 localizations
+logs
 loop
 Mail
 main
