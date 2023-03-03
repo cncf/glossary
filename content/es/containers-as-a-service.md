@@ -12,8 +12,8 @@ Contenedores como Servicio (CaaS, por sus siglas en inglés _containers as a ser
 mediante la [abstracción](/es/abstraction/) basada en [contenedores](/container/). 
 Este servicio se puede implementar en las instalaciones o en la nube. 
 
-Los proveedores de CaaS ofrecen un marco o plataforma de orquestación que
-automatiza funciones clave de TI en las que se implementan y administran los contenedores.
+Los proveedores de CaaS ofrecen un marco de trabajo o plataforma de orquestación que
+automatiza las funciones clave de TI en las cuales los contenedores son desplegados y administrados.
 Esto ayuda a los desarrolladores a crear aplicaciones seguras y [escalables](/es/scalability/) en los contenedores.
 Debido a que los usuarios solo compran los recursos que necesitan (capacidades de planificación, balanceo de carga, etc.),
 se ahorra dinero y se aumenta la eficiencia.
