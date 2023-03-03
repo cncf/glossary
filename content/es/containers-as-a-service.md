@@ -35,5 +35,3 @@ Además, al permitir implementaciones rápidas, CaaS aumenta la velocidad de des
 Mientras que los contenedores garantizan un objetivo de implementación consistente,
 CaaS reduce los costos operativos de ingeniería
 al reducir los recursos [DevOps](/es/devops/) necesarios para administrar una implementación.
-
-
