@@ -28,7 +28,7 @@ la infraestructura subyacente donde se ejecutan los contenedores.
 ## ¿Cómo ayuda?
 
 Al implementar aplicaciones en contenedores en una plataforma CaaS,
-los usuarios obtienen visibilidad del rendimiento del sistema a través de la agregación de registros y las herramientas de supervisión.
+los usuarios obtienen visibilidad del rendimiento del sistema a través de herramientas de agregación de logs y monitoreo.
 CaaS también incluye funcionalidad integrada para el [autoescalado](/es/auto-scaling/) y la gestión de orquestación.
 Permite a los equipos crear [sistemas distribuidos](/es/distributed-systems/) de alta visibilidad y alta disponibilidad.
 Además, al permitir implementaciones rápidas, CaaS aumenta la velocidad de desarrollo del equipo.
