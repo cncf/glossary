@@ -18,7 +18,7 @@ Las prácticas de DevOps incluyen la [integración continua](/es/continuous-inte
 y la [entrega continua](/es/continuous-delivery/) (CD, por sus siglas en inglés _continuous delivery_)
 las cuales aceleran los ciclos de desarrollo y la publicación de aplicaciones.
 Desafortunadamente, los procesos de publicación automatizados que fallan en representar adecuadamente a todas las partes interesadas de la organización
-pueden exacerbar problemas existentes.
+pueden intensificar los problemas existentes.
 Un proceso que publica rápidamente nuevo software sin tener en cuenta las necesidades de seguridad
 puede degradar la postura de seguridad de una organización.
 
