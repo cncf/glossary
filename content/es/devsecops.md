@@ -22,7 +22,6 @@ pueden exacerbar problemas existentes.
 Un proceso que publica rápidamente nuevo software sin tener en cuenta las necesidades de seguridad
 puede degradar la postura de seguridad de una organización.
 
-
 ## ¿Cómo ayuda?
 
 DevSecOps se enfoca en romper el aislamiento del equipo y promueve la creación de flujos de trabajo automatizados y seguros.
