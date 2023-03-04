@@ -2,7 +2,7 @@
 title: Firewall
 status: Deprecated
 category: Technology
-tags: ["", "", ""]
+tags: [""]
 ---
 
 ## ¿Qué es?
