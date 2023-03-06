@@ -52,9 +52,9 @@ Si desea trabajar en varios términos, termine uno antes de reclamar el siguient
 Una vez que le asignen el issue, puede empezar a trabajar en él.
 Para conocer los próximos pasos, consulte la sección [Enviar un nuevo término (crear un PR)](#submitting-a-new-term-creating-a-pr).
 
-Antes de concluir la creación del pull request (PR), necesita firmar el [Contributor License Agreement](https://docs.linuxfoundation.org/lfx/easycla/v2-current/contributors) (CLA). Seleccione la opción ICLA si usted es un individuo contribuyendo al projecto a título personal. A continuación siga los pasos descritos en el link. 
+Antes de concluir la creación del pull request (PR), necesita firmar el [Contributor License Agreement](https://docs.linuxfoundation.org/lfx/easycla/v2-current/contributors) (CLA). Seleccione la opción ICLA si usted es un individuo contribuyendo al proyecto a título personal. A continuación siga los pasos descritos en el link. 
 
-También necesitará [verificar la firma de sus commits](https://docs.github.com/en/authentication/managing-commit-signature-verification/about-commit-signature-verification) y activar el [modo vigilante](https://docs.github.com/en/authentication/managing-commit-signature-verification/displaying-verification-statuses-for-all-of-your-commits#about-vigilant-mode) en GitHub para comprobar el origen de sus commits y mostrar el estado "verified".  
+También necesitará [verificar la firma de su commit](https://docs.github.com/en/authentication/managing-commit-signature-verification/about-commit-signature-verification) y activar el [modo vigilante](https://docs.github.com/en/authentication/managing-commit-signature-verification/displaying-verification-statuses-for-all-of-your-commits#about-vigilant-mode) en GitHub para comprobar el origen de su commit y mostrar el estado "verified".  
 
 ## Proponer nuevos términos {#propose-new-terms}
 
@@ -65,7 +65,7 @@ Las únicas excepciones son los términos básicos necesarios para comprender lo
 
 A continuación se muestra una guía paso a paso para aquellos que aún no están familiarizados con GitHub.
 **Si usted es un profesional de GitHub**, puede dar sólo un vistazo para asegurarse de usar nuestras plantillas de issues,
-encontrar la plantilla del archuvo, conocer las convenciones de nomenclatura y 
+encontrar la plantilla del archivo, conocer las convenciones de nomenclatura y 
 notificar a los mantenedores en Slack (de lo contrario, podemos perderlo).
 Y asegúrese de leer la [Guía de estilo](/es/style-guide/) antes de comenzar. ¡Gracias!
 
