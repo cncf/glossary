@@ -1,4 +1,5 @@
 add
+Agreement
 Amazon
 an
 Aniszczyk
@@ -42,6 +43,7 @@ Chaos
 Chris
 CI
 cifrada
+CLA
 Client
 Cloud
 clúster
@@ -63,6 +65,7 @@ contenedorizados
 contenerización
 content
 continuous
+Contributor
 create
 creating
 CRI
@@ -124,6 +127,7 @@ HTTP
 https
 IaaS
 IaC
+ICLA
 iamnoah
 indisponibilidad
 infrastructure
@@ -145,6 +149,8 @@ Kubernetes
 Language
 laptop
 Layer
+License
+link
 localizations
 logs
 loop
@@ -196,6 +202,7 @@ prem
 premises
 Preview
 proactiva
+proyecto
 profesionistas
 properties
 property
