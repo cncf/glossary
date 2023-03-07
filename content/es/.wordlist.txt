@@ -79,6 +79,7 @@ Deployment
 deployments
 Deprecated
 despliegue
+dev
 development
 DevOps
 DevSecOps
@@ -261,6 +262,7 @@ trunk
 update
 URL
 Value
+verified
 Victor
 videos
 virtuales
