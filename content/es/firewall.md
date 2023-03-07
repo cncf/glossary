@@ -22,7 +22,7 @@ comunicación y hacer daño si no hubiera un Firewall.
 
 ## ¿Cómo ayuda?
 
-Un firewall examina el tráfico de red utilizando reglas predefinidas.
+Un Firewall examina el tráfico de red utilizando reglas predefinidas.
 Todo el tráfico es filtrado y cualquier comunicación proveniente de una fuente sospechosa o
 no confiable es bloqueada - solo ingresa a la red el tráfico configurado para ser aceptado.
 Los Firewall establecen una barrera entre redes internas de confianza, seguras y controladas.
