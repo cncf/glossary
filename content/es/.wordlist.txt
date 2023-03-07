@@ -127,8 +127,8 @@ HTTP
 https
 IaaS
 IaC
-ICLA
 iamnoah
+ICLA
 indisponibilidad
 infrastructure
 Initiative
@@ -202,11 +202,11 @@ prem
 premises
 Preview
 proactiva
-proyecto
 profesionistas
 properties
 property
 propose
+proyecto
 PRs
 pull
 Quiceno
