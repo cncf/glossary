@@ -1,12 +1,8 @@
 ---
-title: Self Healing
-status: Completed
-category: property
-tags: ["infrastructure", "architecture", ""]
----
+título : Autosanación (Self-Healing)
+estado : Terminado
+categoría : propiedad
+etiquetas : ["infraestructura" , "propiedad"]
+___
 
-A self-healing system is capable of recovering from certain types of failure without any human intervention. 
-It has a "convergence" or "control" loop that actively looks at the system’s actual state and 
-compares it to the state that the operators initially desired. 
-If there is a difference (e.g., fewer application instances are running than desired), 
-it will take corrective action (e.g., start new instances).
+Un sistema de auto-curación es capaz de recuperarse de ciertos tipos de fallas sin ninguna intervención humana. Tiene un ciclo de "convergencia" o "control" que mira activamente el estado actual del sistema y lo compara con el estado que los operadores inicialmente desearon. Si hay una diferencia (por ejemplo, hay menos instancias de aplicación en ejecución de lo deseado), tomará medidas correctivas (por ejemplo, iniciar nuevas instancias).
