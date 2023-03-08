@@ -220,7 +220,6 @@ Salesforce
 scripts
 Secure
 security
-securizar
 Seokho
 Server
 service
