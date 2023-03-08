@@ -89,6 +89,7 @@ empoderen
 Engine
 Engineering
 English
+enrutamiento
 entregables
 escalarse
 escaneos
@@ -98,6 +99,7 @@ extensibilidad
 externalizar
 Feedback
 Finance
+Firewall
 first
 fix
 Foster
@@ -218,6 +220,7 @@ Salesforce
 scripts
 Secure
 security
+securizar
 Seokho
 Server
 service
