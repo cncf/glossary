@@ -1,4 +1,5 @@
 add
+Agreement
 Amazon
 an
 Aniszczyk
@@ -42,6 +43,7 @@ Chaos
 Chris
 CI
 cifrada
+CLA
 Client
 Cloud
 clúster
@@ -63,6 +65,7 @@ contenedorizados
 contenerización
 content
 continuous
+Contributor
 create
 creating
 CRI
@@ -76,6 +79,7 @@ Deployment
 deployments
 Deprecated
 despliegue
+dev
 development
 DevOps
 DevSecOps
@@ -127,6 +131,7 @@ https
 IaaS
 IaC
 iamnoah
+ICLA
 indisponibilidad
 infrastructure
 Initiative
@@ -147,6 +152,8 @@ Kubernetes
 Language
 laptop
 Layer
+License
+link
 localizations
 logs
 loop
@@ -202,6 +209,7 @@ profesionistas
 properties
 property
 propose
+proyecto
 PRs
 pull
 Quiceno
@@ -256,6 +264,7 @@ trunk
 update
 URL
 Value
+verified
 Victor
 videos
 virtuales
