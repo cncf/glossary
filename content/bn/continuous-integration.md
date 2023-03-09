@@ -1,5 +1,5 @@
 ---
-title: ক্রমাগত একীকরণ (Continuous integration) (CI)
+title: ক্রমাগত একীকরণ (Continuous Integration) (CI)
 status: Completed 
 category: ধারণা
 tags: ["application", "methodology", ""]
