@@ -20,7 +20,7 @@ Publicar nuevas versiones de software puede ser un proceso engorroso y sujeto a 
 Además, es una tarea que las organizaciones prefieren hacer siempre de manera no frecuente para evitar incidentes en producción
 y reducir así el número de ingenieros que necesitan estar disponibles fuera del horario regular de trabajo.
 Los modelos de despliegue de software tradicionales tienden a crear un circulo vicioso
-donde el proceso de publicación no satisface las necesidades de estabilidad y actualización de funcionalidades en una organización.
+donde el proceso de publicación no satisface en simultáneo las necesidades de estabilidad y frecuencia de actualización de funcionalidades en una organización.
 
 ## ¿Cómo ayuda?
 
