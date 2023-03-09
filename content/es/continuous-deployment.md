@@ -9,7 +9,7 @@ tags: ["application", "methodology", ""]
 
 Despliegue continuo, habitualmente abreviado como CD, va un paso más allá que la [entrega continua](/es/continuous-delivery/)
 desplegando software finalizado directamente a producción.
-El despliegue continuo (CD) es asociado con la [integración continua](/es/continuous-integration/) (CI),
+El despliegue continuo (CD) es comunmente asociado con la [integración continua](/es/continuous-integration/) (CI),
 y son referidos como CI/CD.
 El proceso de CI chequea que los cambios en una aplicación sean válidos,
 y el proceso de CD despliega automáticamente esos cambios de código a todos los ambientes de una organización, desde test a producción.
