@@ -1,7 +1,7 @@
 ---
 title: Centro de Datos
 status: Feedback Appreciated
-category: Tecnologia
+category: Tecnología
 tags: ["infrastructure", "", ""]
 ---
 
