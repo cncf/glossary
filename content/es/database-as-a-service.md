@@ -15,7 +15,7 @@ tener que contratar administradores de bases de datos para mantener sus aplicaci
 
 ## Problema que aborda
 
-Tradicionalmente, en centros de datos locales (nubes privadas), una organización debe inviertir en
+Tradicionalmente, en centros de datos locales (nubes privadas), una organización debe invertir en
 almacenamiento y procesamiento adicional para planificar y poder satisfacer eventuales expansiones de bases de datos,
 que a su vez puede ser un proceso caro.
 Además, los desarrolladores configuran las bases de datos con ayuda de un equipo de infraestructura,
