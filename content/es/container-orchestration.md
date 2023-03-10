@@ -13,7 +13,7 @@ Al igual que un director de orquesta, la herramienta de orquestación dirige a l
 
 ## Problema que aborda
 
-El manejo de [microservicios](/es/microservices), la seguridad, y la comunicación de red a escala - y los [sistemas distribuidos](/es/distributed-systems) en general - es muy difícil, casi imposible, de hacer manualmente.
+El manejo de [microservicios](/es/microservices), la seguridad, y la comunicación de red a escala - y los [sistemas distribuidos](/es/distributed-systems) en general - es muy difícil, casi imposible de hacerse manualmente.
 La orquestación de contenedores permite a los usuarios automatizar todas estas tareas operacionales.
 
 ## ¿Cómo ayuda?
