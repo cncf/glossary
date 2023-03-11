@@ -73,6 +73,7 @@ CRI
 CRM
 Daniel
 Datadog
+DBaaS
 declarativamente
 DEFINITION
 delivery
