@@ -17,7 +17,7 @@ pero, por lo general, el sistema operativo evita que los procesos de contenedore
 Antes de que los contenedores estuvieran disponibles, se necesitaban máquinas separadas para ejecutar aplicaciones.
 Cada máquina requeriría su propio sistema operativo, que requiere CPU, memoria y espacio en disco,
 todo para que una aplicación individual funcione.
-Además, el mantenimiento, la actualización y el inicio de un sistema operativo es otra fuente importante de trabajo.
+Además, el mantenimiento, la actualización y el inicio de un sistema operativo es considerablemente otra fuente de esfuerzo.
 
 ## ¿Cómo ayuda?
 
