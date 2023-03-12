@@ -130,6 +130,9 @@ collaborators:
   # l10n es approvers
   - username: raelga
     permission: push
+
+  - username: ramrodo
+    permission: push
     
   - username: electrocucaracha
     permission: push
@@ -338,6 +341,7 @@ branches:
         # es approvers
         users:
          - raelga
+         - ramrodo
          - electrocucaracha
          - krol3
          - 92nqb
