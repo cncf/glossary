@@ -60,6 +60,7 @@ confiabilidad
 Container
 containers
 contenedores
+contenedorizada
 contenedorizadas
 contenedorizados
 contenerización
@@ -72,6 +73,7 @@ CRI
 CRM
 Daniel
 Datadog
+DBaaS
 declarativamente
 DEFINITION
 delivery
