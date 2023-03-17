@@ -70,7 +70,7 @@ A continuación se muestra una guía paso a paso para aquellos que aún no está
 2. encontrar la plantilla del archivo, 
 3. conocer las convenciones de nomenclatura, 
 4. notificar a los mantenedores en Slack (de lo contrario, podemos perderlo), 
-5. resolver fallas en la {revisión de ortografía}(#spell-check).
+5. resolver fallas en la [revisión de ortografía](#spell-check).
 
 Antes de comenzar, le sugerimos leer la [Guía de estilo](/es/style-guide/) ¡Gracias!
 
