@@ -11,7 +11,7 @@ El contenido del Glosario Cloud Native se almacena en [este repositorio de GitHu
 donde encontrará una lista de [issues](https://github.com/cncf/glossary/issues), [PRs](https://github.com/cncf/glossary/pulls) y
 [discusiones](https://github.com/cncf/glossary/discussions) sobre el glosario.
 
-Existen cuatro formas en las que puede contribuir:
+Existen cuatro formas en las que se puede contribuir:
 
 1) [Trabajar en un issue existente](#work-on-an-existing-issue)
 2) [Proponer nuevos términos](#propose-new-terms)
