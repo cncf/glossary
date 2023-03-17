@@ -187,7 +187,7 @@ Puede unirse a un equipo existente o crear uno nuevo
 La revisión de ortografía puede fallar por las siguientes razones:
 
 - el PR contiene error(es) ortográfico(s),
-- el PR contierne palabras que no están registradas en la lista de palabras en español.
+- el PR contiene palabras que no están registradas en la lista de palabras en español.
 
 Para poder añadir nuevas palabras a la lista en español, siga los siguientes pasos:
 
@@ -196,7 +196,7 @@ Para poder añadir nuevas palabras a la lista en español, siga los siguientes p
 3. Seleccione la opción "Edit this file" y añada las palabras faltantes. 
 4. Al terminar, describa los cambios en el mensaje del commit y dé click en "Sign off and propose changes". 
 
-Nótese que las palbras están ordenadas alfabéticamente. Le pedimos encarecidamente cuide este orden. 
+Notese que las palabras están ordenadas alfabéticamente. Le pedimos encarecidamente cuide este orden. 
 La revisión ortográfica ignora el uso de mayúsculas y minúsculas. 
 
 
