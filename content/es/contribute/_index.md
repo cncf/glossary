@@ -196,7 +196,7 @@ Para poder añadir nuevas palabras a la lista en español, siga los siguientes p
 3. Seleccione la opción "Edit this file" y añada las palabras faltantes. 
 4. Al terminar, describa los cambios en el mensaje del commit y dé click en "Sign off and propose changes". 
 
-Notese que las palabras están ordenadas alfabéticamente. Le pedimos encarecidamente cuide este orden. 
+Nótese que las palabras están ordenadas alfabéticamente. Le pedimos encarecidamente cuide este orden. 
 La revisión ortográfica ignora el uso de mayúsculas y minúsculas. 
 
 
