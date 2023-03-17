@@ -174,7 +174,7 @@ Para cambiar un término directamente, vaya a "Editar esta página".
 Esto abrirá la página del término en GitHub. Realice sus cambios y envíe un PR.
 Consulte "Envío de un nuevo término" (más arriba en este documento) para obtener una descripción mas detallada (salte a la sección que habla acerca de markdown).
 
-## Ayudar a traducir el glosario
+## Ayudar a traducir el glosario {#help-translate-the-glossary}
 
 Para ayudar a traducir el glosario a su idioma, únase al canal [#glossary-localizations](https://cloud-native.slack.com/archives/C02N2RGFXDF) en CNCF Slack y háganoslo saber.
 Puede unirse a un equipo existente o crear uno nuevo
