@@ -20,5 +20,5 @@ qualquer aplicativo que queira encontrá-lo precisa de uma ferramenta para forne
 ## Como isso ajuda
 
 A descoberta de serviço rastreia os aplicativos dentro da rede para que eles possam se encontrar quando necessário.
-Ele fornece um local comum para localizar e potencialmente identificar serviços individuais.
+Ela fornece um local comum para localizar e potencialmente identificar serviços individuais.
 Os mecanismos de descoberta de serviços são ferramentas semelhantes a bancos de dados que armazenam informações sobre quais serviços existem e como localizá-los.
