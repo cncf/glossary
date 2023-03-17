@@ -8,7 +8,7 @@ tags: ["methodology", "", ""]
 ## Ce que c'est
 
 Un ensemble de pratiques qui mettent l'accent sur les cycles de développement itératifs et les équipes auto-organisées.
-Contrairement aux projets dits en cascade où la valeur n'est générée qu'à la toute fin d'un projet,
+Contrairement aux projets dits en cascade où la valeur n'est générée qu'à la toute fin du projet,
 le développement Agile de logiciels se concentre sur une livraison de valeur continue et incrémentale, ainsi que sur l'amélioration évolutive du processus lui-même.
 
 ## Problème auquel il répond
