@@ -15,7 +15,7 @@ Existen cuatro formas en las que puede contribuir:
 
 1) [Trabajar en un issue existente](#work-on-an-existing-issue)
 2) [Proponer nuevos términos](#propose-new-terms)
-3) [Actualizar los existentes](#update-an-existing-term)
+3) [Actualizar un término existente](#update-an-existing-term)
 4) [Ayudar a traducir el glosario](#help-translate-the-glossary)
 
 ## Unirse a la comunidad del glosario {#join-the-glossary-community}
