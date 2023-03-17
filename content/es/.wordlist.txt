@@ -47,7 +47,6 @@ Chris
 CI
 cifrada
 CLA
-click
 Client
 Cloud
 clúster
