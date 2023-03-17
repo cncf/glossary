@@ -11,14 +11,14 @@ El contenido del Glosario Cloud Native se almacena en [este repositorio de GitHu
 donde encontrará una lista de [issues](https://github.com/cncf/glossary/issues), [PRs](https://github.com/cncf/glossary/pulls) y
 [discusiones](https://github.com/cncf/glossary/discussions) sobre el glosario.
 
-Existen tres formas en las que puedes contribuir:
+Existen cuatro formas en las que puede contribuir:
 
 1) [Trabajar en un issue existente](#work-on-an-existing-issue)
 2) [Proponer nuevos términos](#propose-new-terms)
 3) [Actualizar los existentes](#update-an-existing-term)
 4) [Ayudar a traducir el glosario](#help-translate-the-glossary)
 
-## ¡Únete a la comunidad del glosario! {#join-the-glossary-community}
+## Unirse a la comunidad del glosario {#join-the-glossary-community}
 
 Si desea contribuir con regularidad, considere unirse a nuestras reuniones mensuales del Grupo de trabajo del glosario.
 Puede encontrar los detalles de la reunión en el [calendario de la CNCF](https://www.cncf.io/calendar/).
@@ -64,12 +64,17 @@ Tenga en cuenta que debe cumplir los términos de la [definición nativa para la
 Las únicas excepciones son los términos básicos necesarios para comprender los conceptos nativos de la nube.
 
 A continuación se muestra una guía paso a paso para aquellos que aún no están familiarizados con GitHub.
-**Si usted es un profesional de GitHub**, puede dar sólo un vistazo para asegurarse de usar nuestras plantillas de issues,
-encontrar la plantilla del archivo, conocer las convenciones de nomenclatura y 
-notificar a los mantenedores en Slack (de lo contrario, podemos perderlo).
-Y asegúrese de leer la [Guía de estilo](/es/style-guide/) antes de comenzar. ¡Gracias!
+**Si usted es un profesional de GitHub**, puede dar sólo un vistazo para asegurarse de lo siguiente:
 
-### Creando un issue {#creating-an-issue}
+1. usar nuestras plantillas de issues,
+2. encontrar la plantilla del archivo, 
+3. conocer las convenciones de nomenclatura, 
+4. notificar a los mantenedores en Slack (de lo contrario, podemos perderlo), 
+5. resolver fallas en la {revisión de ortografía}(#spell-check).
+
+Antes de comenzar, le sugerimos leer la [Guía de estilo](/es/style-guide/) ¡Gracias!
+
+### Crear un issue {#creating-an-issue}
 
 Vaya a los issues [del repositorio del Glosario en GitHub](https://github.com/cncf/glossary/issues) y haga clic en "New issue".
 
@@ -82,7 +87,7 @@ Verá una variedad de plantillas. Para proponer un nuevo término en Español, s
 Agregue la palabra que está sugiriendo, responda las dos preguntas a continuación, marque las casillas de verificación y presione "Submit new issue".
 Si solo está proponiendo un nuevo término, ¡ya está listo! Para trabajar en ello, siga los siguientes pasos.
 
-### Evaluación de tu issue {#triaging-your-issue}
+### Evaluar su issue {#triaging-your-issue}
 
 A continuación, los mantenedores evaluarán el issue.
 Eso significa que evaluarán si el término debe formar parte del Glosario
@@ -96,7 +101,7 @@ Si el término es aprobado y quiere trabajar en él, ellos se lo asignarán.
 Tenga en cuenta que solo puede reclamar un término a la vez.
 Si desea trabajar en varios términos, termine uno antes de reclamar el siguiente.
 
-### Envío de un nuevo término (creando un PR) {#submitting-a-new-term-creating-a-pr}
+### Proponer un nuevo término (crear un PR) {#submitting-a-new-term-creating-a-pr}
 
 Antes de comenzar, lea la [Guía de estilo](/es/style-guide/) — le ayudará a minimizar el ir de un lado a otro.
 Como se indica en la guía de estilo, recomendamos encarecidamente el comenzar con un documento de Google o Word.
@@ -146,7 +151,7 @@ Al finalizar estos pasos, su PR deberá de aparecer en "Pull requests".
 
 ![prs](/images/how-to/howto-13.png)
 
-## Actualizando un término existente {#update-an-existing-term}
+## Actualizar un término existente {#update-an-existing-term}
 
 Para actualizar un término existente, puede sugerir un cambio a través de un issue o continuar y actualizar el término directamente enviando un pull request.
 
@@ -169,11 +174,29 @@ Para cambiar un término directamente, vaya a "Editar esta página".
 Esto abrirá la página del término en GitHub. Realice sus cambios y envíe un PR.
 Consulte "Envío de un nuevo término" (más arriba en este documento) para obtener una descripción mas detallada (salte a la sección que habla acerca de markdown).
 
-## Ayuda a traducir el glosario
+## Ayudar a traducir el glosario
 
 Para ayudar a traducir el glosario a su idioma, únase al canal [#glossary-localizations](https://cloud-native.slack.com/archives/C02N2RGFXDF) en CNCF Slack y háganoslo saber.
 Puede unirse a un equipo existente o crear uno nuevo
 (la [Guía de localización](https://github.com/cncf/glossary/blob/main/LOCALIZATION.md) le proporcionará la información necesaria para comenzar).
 Únase también a nuestras juntas mensuales del grupo de trabajo. Puede encontrar mas detalles en el [calendario de la CNCF](https://www.cncf.io/calendar/).
 ¡Esperamos verle allí!
+
+## Revisar la ortografía {#spell-check}
+
+La revisión de ortografía puede fallar por las siguientes razones:
+
+- el PR contiene error(es) ortográfico(s),
+- el PR contierne palabras que no están registradas en la lista de palabras en español.
+
+Para poder añadir nuevas palabras a la lista en español, siga los siguientes pasos:
+
+1. Seleccione la carpeta "content" en su PR. 
+2. Vaya a la carpeta "es" y localice el archivo _".wordlist.txt".
+3. Seleccione la opción "Edit this file" y añada las palabras faltantes. 
+4. Al terminar, describa los cambios en el mensaje del commit y dé click en "Sign off and propose changes". 
+
+Nótese que las palbras están ordenadas alfabéticamente. Le pedimos encarecidamente cuide este orden. 
+La revisión ortográfica ignora el uso de mayúsculas y minúsculas. 
+
 
