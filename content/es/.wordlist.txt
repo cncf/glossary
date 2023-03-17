@@ -193,6 +193,7 @@ needed
 Netflix
 networking
 new
+nótese
 Nicolas
 Not
 OCI
@@ -240,6 +241,7 @@ security
 Seokho
 Server
 service
+sign
 Slack
 sobreescriba
 Sockets
