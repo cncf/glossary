@@ -192,7 +192,7 @@ La revisión de ortografía puede fallar por las siguientes razones:
 Para poder añadir nuevas palabras a la lista en español, siga los siguientes pasos:
 
 1. Seleccione la carpeta "content" en su PR. 
-2. Vaya a la carpeta "es" y localice el archivo _".wordlist.txt".
+2. Vaya a la carpeta "es" y localice el archivo ".wordlist.txt".
 3. Seleccione la opción "Edit this file" y añada las palabras faltantes. 
 4. Al terminar, describa los cambios en el mensaje del commit y dé clic en "Sign off and propose changes". 
 
