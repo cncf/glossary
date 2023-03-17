@@ -194,7 +194,7 @@ Para poder añadir nuevas palabras a la lista en español, siga los siguientes p
 1. Seleccione la carpeta "content" en su PR. 
 2. Vaya a la carpeta "es" y localice el archivo _".wordlist.txt".
 3. Seleccione la opción "Edit this file" y añada las palabras faltantes. 
-4. Al terminar, describa los cambios en el mensaje del commit y dé click en "Sign off and propose changes". 
+4. Al terminar, describa los cambios en el mensaje del commit y dé clic en "Sign off and propose changes". 
 
 Nótese que las palabras están ordenadas alfabéticamente. Le pedimos encarecidamente cuide este orden. 
 La revisión ortográfica ignora el uso de mayúsculas y minúsculas. 
