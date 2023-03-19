@@ -1,7 +1,7 @@
 ---
 title: কনেরী ডিপ্লোইমন্ট (Canary Deployment)
 status: Completed
-category: concept
+category: ধারণা
 tags: ["methodology", "application", ""]
 ---
 
