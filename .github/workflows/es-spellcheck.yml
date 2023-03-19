@@ -29,6 +29,6 @@ jobs:
           set -o errexit
           diff content/es/.wordlist.txt <(LC_ALL= sort -f content/es/.wordlist.txt)
       - name: GitHub Spellcheck Action
-        uses: rojopolis/spellcheck-github-actions@0.29.0
+        uses: rojopolis/spellcheck-github-actions@0.30.0
         with:
           config_path: content/es/.spellcheck.yml
