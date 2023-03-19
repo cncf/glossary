@@ -1,7 +1,7 @@
 ---
 title: ডেটবেস-ঐজ়-এ-সর্বিস (Database as a Service) (DBaaS)
 status: Deprecated
-category: প্রযুক্তিবিদ্যা
+category: প্রযুক্তি
 draft: true
 tags: ["", "", ""]
 ---
