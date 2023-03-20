@@ -199,4 +199,3 @@ Para poder añadir nuevas palabras a la lista en español, siga los siguientes p
 Nótese que las palabras están en orden alfabético, le pedimos encarecidamente mantenga este orden. 
 La revisión ortográfica ignora el uso de mayúsculas y minúsculas. 
 
-
