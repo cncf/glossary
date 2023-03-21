@@ -15,7 +15,7 @@ Installare un sistema operativo ed eseguire le applicazioni direttamente su quel
 ## Quali problematiche affronta
 
 Accoppiare un sistema operativo con un computer fisico è il modello originale dell'informatica.
-Tutte le risorse del computer fisico sono direttamente disponibili per il sistema operativo, e senza livelli di virtualizzazione non c'è ritardo artificiale nella traduzione delle istruzione del sistema operativo all'hardware.
+Tutte le risorse del computer fisico sono direttamente disponibili per il sistema operativo, e, senza livelli di virtualizzazione, non si introduce ritardo nella traduzione delle istruzione del sistema operativo all'hardware.
 
 ## In che modo aiuta
 
