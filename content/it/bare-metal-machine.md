@@ -10,7 +10,7 @@ tags: ["infrastruttura", "", ""]
 Bare metal (puro metallo) si riferisce a un computer fisico, più specificamente un server, che ha uno e un solo sistema operativo.
 Nell'informatica moderna questa distinzione è importante perché molti, se non la maggior parte, dei server sono [macchine virtuali](/it/virtual-machine/).
 Un server fisico è tipicamente un computer di grandi dimensioni con un hardware potente.
-Installare un sistema operativo ed eseguire le applicazioni direttamente su quell'hardware fisico senza [virtualizzazione](/it/virtualization/), si definisce eseguire su “bare metal.”
+Installare un sistema operativo ed eseguire le applicazioni direttamente su quell'hardware fisico senza [virtualizzazione](/it/virtualization/), si definisce come in esecuzione su “bare metal”.
 
 ## Quali problematiche affronta
 
