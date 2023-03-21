@@ -20,5 +20,6 @@ Il mTLS assicura che nessun soggetto non autorizzato possa mettersi in ascolto o
 ## In che modo aiuta
 
 Il mTLS garantisce che il traffico sia sicuro e affidabile in entrambe le direzioni tra un client e il server,fornendo un livello di sicurezza per gli utenti che accedono a una rete o a delle applicazioni.
-Inoltre, verifica che le connessioni con dispositivi client che non seguono un processo di accesso, come i dispositivi Internet of Things (IoT).
+Inoltre, verifica le connessioni con dispositivi client che non seguono un processo di accesso, come i dispositivi Internet of Things (IoT).
+
 Gli attacchi come quelli on-path, spoofing, credential stuffing, brute force, ecc. possono essere prevenuti dal mTLS.
