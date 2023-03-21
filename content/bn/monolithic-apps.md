@@ -1,5 +1,5 @@
 ---
-title: মনোলিথিক অ্যাপ
+title: মনোলিথিক অ্যাপ (Monolithic Apps)
 status: Completed
 category: ধারণা
 ---
