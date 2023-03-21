@@ -24,7 +24,7 @@ Se è necessario eseguire un carico di lavoro che deve avere un accesso estremam
 
 Nel contesto di [applicazioni cloud native](/it/cloud-native-apps/),
 generalmente si pensa alle performance in termini di [scalabilità](/it/scalability/) a un numero più alto di eventi concomitanti,
-che possono essere gestiti [scalando orizzontalmente](/it/horizontal-scaling/) (aggiungendo più macchine).
+che possono essere gestiti utilizzando la proprietà di [scalabilità orizzontale](/it/horizontal-scaling/) (aggiungendo più macchine al pool di risorse).
 Alcuni carichi di lavoro possono richiedere di [scalare verticalmente](/it/vertical-scaling/) (aggiungendo più potenza a una macchina fisica esistente)
 e/o una risposta hardware estremamente veloce, e in questi casi il bare metal è più indicato.
 Bare metal permette anche di regolare l'hardware fisico ed eventualmente anche i driver hardware drivers per aiutare a raggiungere l'obiettivo.
