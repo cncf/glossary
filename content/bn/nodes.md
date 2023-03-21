@@ -1,5 +1,5 @@
 ---
-title: নোড
+title: নোড (Nodes)
 status: Completed
 category: ধারণা
 tags: ["infrastructure", "fundamental", ""]
