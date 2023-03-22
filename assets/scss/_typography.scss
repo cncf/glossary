@@ -1,0 +1,51 @@
+// General Styling.
+
+// Links
+a {
+	font-weight: 700;
+	&.tree-root:hover {
+		color: $primary;
+		text-decoration: none;
+	}
+}
+
+h1 {
+	&.thin {
+		font-weight: 400;
+	}
+	@media (min-width: 768px) {
+		font-size: 3rem;
+	}
+}
+
+h2 {
+	@media (max-width: 374px) {
+		font-size: 1.5rem;
+	}
+	&.feedback--title {
+		margin-top: 3rem;
+	}
+}
+
+h2,
+h3 {
+	a:hover {
+		text-decoration: none;
+	}
+}
+
+// Main page content styling.
+.td-content {
+	> h1 {
+		margin-bottom: 1.5625rem;
+	}
+	> h2:not(:first-child) {
+		margin-top: 3rem;
+	}
+	> h2 {
+		margin-bottom: 2.1rem;
+	}
+	p {
+		line-height: 170%;
+	}
+}
