@@ -8,9 +8,7 @@ tags: ["infrastructure", "fundamental", ""]
 ## What it is
 
 Cloud computing is a model that offers compute resources like CPU, network, and disk capabilities on-demand over the internet, allowing users to access and use computing power in a remote physical location. 
-Cloud providers offer third parties the ability to rent access to compute resources in multiple geographic locations.
-Users rent these compute resources in a public or private virtual cloud (PVC).
-In a public cloud, users share physical hardware with other users, whereas in a PVC, the user rents an entire server. 
+Cloud computing can be classified into public cloud and private cloud depending on whether the cloud computing-based services are open to the outside.
 
 ## Problem it addresses
 
