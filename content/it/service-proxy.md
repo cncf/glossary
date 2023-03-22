@@ -20,7 +20,7 @@ Tradizionalmente, il codice che abilitava la raccolta di dati e la gestione del 
 
 Un service proxy permette di "esternalizzare" questa funzionalità.
 Quel codice non deve più necessariamente essere all'interno delle applicazioni,
-ma invece ora è incorporato all'interno del livello della piattaforma (cioè dove l'applicazione è in esecuzione).
+ma diviene parte integrante della piattaforma, cioè dove l'applicazione è in esecuzione.
 
 Fungendo da guardiani tra i servizi, i proxy forniscono informazioni riguardo a che tipo di comunicazione sta avvenendo.
 Basandosi su queste informazioni, determinano dove inviare una particolare richiesta, o anche rigettarla del tutto.
