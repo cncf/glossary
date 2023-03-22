@@ -13,7 +13,7 @@ Essenzialmente si comporta come un intermediario che raccoglie informazioni rigu
 
 ## Quali problematiche affronta
 
-Per tenere traccia delle comunicazioni tra servizi, cioè traffico di rete, e potenzialmente trasformarlo o reindirizzarlo, bisogna raccogliere dati.
+Per tenere traccia delle comunicazioni tra servizi, anche detto traffico di rete, e potenzialmente trasformarlo o reindirizzarlo, bisogna raccogliere dati.
 Tradizionalmente, il codice che abilitava la raccolta di dati e la gestione del traffico di rete era incorporato all'interno di ogni applicazione.
 
 ## In che modo aiuta
