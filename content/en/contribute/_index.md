@@ -7,28 +7,50 @@ menu:
     weight: 10
 ---
 
-The Cloud Native Glossary content is stored in [this GitHub repo](https://github.com/cncf/glossary) 
-where you'll find a list of [issues](https://github.com/cncf/glossary/issues), pull requests ([PRs](https://github.com/cncf/glossary/pulls)), and 
-[discussions](https://github.com/cncf/glossary/discussions) about the glossary. 
+## Welcome 
 
-There are four ways you can contribute:
+Welcome to the Cloud Native Glossary contributing guide and thank you for your interest. If you would like to contribute to our project, checkout the following list of contribution types and their corresponding sections in this guide: 
 
 1) [Work on an existing issue](#work-on-an-existing-issue)
 2) [Propose new terms](#propose-new-terms)
 3) [Update existing ones](#update-an-existing-term)
-4) [Help translate the glossary](#help-translate-the-glossary)
+4) [Localize the glossary](#help-translate-the-glossary)
 
-## Who can contribute?
+## CNCF glossary overview 
 
 The goal of this glossary is to simplify the cloud native space — which is notorious for its complexity — and thus make it more accessible to people. 
 
-Simplifying complex concepts requires expertise of the topic and peer-collaboration. Therefore, to contribute with a new term you must have expert knowledge of the cloud native space. 
+The Cloud Native Glossary content is stored in [this GitHub repo](https://github.com/cncf/glossary) 
+where you'll find a list of [issues](https://github.com/cncf/glossary/issues), pull requests ([PRs](https://github.com/cncf/glossary/pulls)), and 
+[discussions](https://github.com/cncf/glossary/discussions) about the glossary. 
+
+## Who can contribute?
+
+Basically, anyone can contribute, however, how you participate in the project depends on your level of expertise of the cloud native space. 
+Simplifying complex concepts requires a deep knowledge of the topic. Therefore, to contribute with a new term you must be proficient in the cloud native space. 
 
 The localization effort is where beginners can make valuable contributions to the glossary. 
 With solid existing definitions in English, less experienced contributors can localize terms to a target language. You can join an existing localization team or create a new one. Read the section [Help translate the glossary](#help-translate-the-glossary) of this guide to learn how to get started. 
 
-Before making any contribution to the glossary, you will need to sign the [Contributor License Agreement](https://docs.linuxfoundation.org/lfx/easycla/v2-current/contributors) (CLA). You will also need to [verify your commit signature](https://docs.github.com/en/authentication/managing-commit-signature-verification/about-commit-signature-verification) and enable [vigilant mode](https://docs.github.com/en/authentication/managing-commit-signature-verification/displaying-verification-statuses-for-all-of-your-commits#about-vigilant-mode) in your GitHub account to display the "Verified" status on your commits. 
+## Before you start
 
+Before making any contribution to the glossary, please make sure of the following:
+
+1. If you don't already have one, create a [GitHub account](https://docs.github.com/en/get-started/signing-up-for-github/signing-up-for-a-new-github-account). 
+2. Sign the [Contributor License Agreement](https://docs.linuxfoundation.org/lfx/easycla/v2-current/contributors) (CLA). 
+3. [Verify your commit signature](https://docs.github.com/en/authentication/managing-commit-signature-verification/about-commit-signature-verification)
+4. Enable [vigilant mode](https://docs.github.com/en/authentication/managing-commit-signature-verification/displaying-verification-statuses-for-all-of-your-commits#about-vigilant-mode) in your GitHub account to display the "Verified" status on your commits. 
+
+## Best practices {#best-practices}
+
+To facilitate the reviewing process, our project uses [semantic line breaks](https://sembr.org/) (e.g., one line per sentence).
+We recommend checking out this [markdown cheat sheet](https://www.markdownguide.org/cheat-sheet/) 
+to correctly format Markdown text in GitHub (e.g., hyperlink, bold, italic).
+To name the .md file of each term we use lowercase letters, hyphens instead of spaces to separate words, and we don't use parenthesis.
+
+## Style guide
+
+Read our [Style Guide](/style-guide/) to understand our guidelines for formatting and writing documents and make the contribution process more efficient. 
 
 ## Join the Glossary community! {#join-the-glossary-community}
 
@@ -40,7 +62,6 @@ You can also connect with the maintainers and fellow contributors in our [#gloss
 ## Work on an existing issue {#work-on-an-existing-issue}
 
 Go to the [Glossary GitHub repo issues](https://github.com/cncf/glossary/issues) where you will find a list of available issues. You can use labels (e.g., English language, help needed, good first issue) to filter out issues. 
-Note that you'll need a GitHub account to do any of this.
 
 ![Issue and labels](/images/how-to/issue-and-labels.png)
 
@@ -53,9 +74,8 @@ Once you select a term to work on, write a comment in the issue.
 
 ![Claiming an issue](/images/how-to/claiming-an-issue.png)
 
-Additionally, please join the [#glossary](https://cloud-native.slack.com/archives/C02TX20MQBB) channel on the CNCF Slack and 
-let the maintainers know that you've selected an issue
-(tag _@Catherine Paganini_, _@jmo_, _@Seokho Son_, _@Jihoon Seo_, and/or _@iamnoah_ to be sure they don't miss it). 
+Additionally, notify the maintainers on the [#glossary](https://cloud-native.slack.com/archives/C02TX20MQBB) channel of the CNCF Slack workspace and 
+tag _@Catherine Paganini_, _@jmo_, _@Seokho Son_, _@Jihoon Seo_, and/or _@iamnoah_ to be sure they don't miss it. 
 
 For the next steps, please refer to the [Submitting a new term (creating a PR)](#submitting-a-new-term) section.
 
@@ -66,19 +86,16 @@ Workig on multiple terms is sequential, you must complete a term before claiming
 ## Propose new terms {#propose-new-terms}
 
 You can propose a new term for others to work on or create a new definition yourself. 
-Either way, you'll start by creating an issue. 
-Please note that terms must meet the [CNCF's cloud native definition](https://github.com/cncf/toc/blob/main/DEFINITION.md). 
+Either way, you'll start by [creating an issue](#creating-an-issue). 
+To be added to the glossary, every new term must meet the [CNCF's cloud native definition](https://github.com/cncf/toc/blob/main/DEFINITION.md). 
 The only exceptions are foundational terms needed to understand cloud native concepts.
 
-Below is a step-by-step guide for those not yet familiar with GitHub. 
-**If you are a GitHub Pro**, please _do_ scan this guide to ensure you gather enough information about the following topics:
+Below is a step-by-step guide for people unfamiliar with GitHub. 
+**If you are a GitHub Pro**, please _do_ scan this guide to gather enough information about the following topics:
 
 1. Locating templates for issues and new terms.
-2. Using naming conventions. 
-3. Claiming issues. 
-4. Solving [spell check](#spell-check) failures. 
-
-Before getting started, we encourage you to read our [Style Guide](/style-guide/) to make the contribution processs more efficient — thank you! 
+2. Claiming issues. 
+3. Solving [spell check](#spell-check) failures. 
 
 ### Creating an issue {#creating-an-issue}
 
@@ -91,7 +108,7 @@ Select "Request to add a new term (English)" from the list of templates.
 ![templates](/images/how-to/english-issue-template.jpg)
 
 Add the word you're suggesting, answer the questions, check the boxes, and hit "Submit new issue".
-If you're just proposing a new term, you're done! If you want to work on the definition, follow the next steps.
+If you're just proposing a new term, you're done! If you want to work on the definition, keep reading.
 
 ### Triaging your issue {#triaging-your-issue}
 
@@ -110,7 +127,7 @@ Once the term is ready to submit, go to content (under <>code)…
 
 ![content](/images/how-to/howto-05.png)
 
-…then "en" (or the language you are contributing to)…
+…then "en" (for English) or the first two letters of the language you are contributing to…
 
 ![language folder](/images/how-to/howto-06.png)
 
@@ -126,38 +143,36 @@ Copy the content…
 
 ![create new file](/images/how-to/howto-09.png)
 
-Add the name of the term in the URL (no capitalization, no spaces, no parentheses, and use hyphens to separate words).
-Add the .md extension at the end (without this extension you won't be able to preview your file).
-Now paste the template content in the section below. Copy and paste your definition into the file.
-To make reviews easier, please **use [semantic line breaks](https://sembr.org/)** (e.g., one line per sentence).
-Note that GitHub uses markdown to format the text (e.g., hyperlink, bold, italic).
-Please refer to this [markdown cheat sheet](https://www.markdownguide.org/cheat-sheet/).
-To verify you've used markdown as intended, click on "Preview".
+Add the name of the term in the URL as described in the [Best practices](#best-practices) section. 
+Add the .md extension at the end of the name (without this extension you won't be able to preview your file).
+Now paste the template content in the section below. Copy and paste the text of your definition into the file.
+To verify you've used Markdown as described in the [Best practices](#best-practices) section, click on "Preview".
 
 ![finalize term](/images/how-to/howto-10.png)
 
-Scroll down and name the new commit file when you are ready to submit. 
-You are now about to commit the term to your own branch. 
-To submit a PR hit "Commit new file" and…
+Scroll down and name the new commit file. Hit "Commit new file" when you are ready to submit 
+and…
 
 ![commit new file](/images/how-to/howto-11.png)
 
-…now you're creating a PR:
+… you're now ready to create a new PR:
 
 ![create a pr](/images/how-to/howto-12.png)
 
-After completing these steps your PR should be visible in the "Pull requests" tab.
+Once you hit the "Create pull request" button your PR should be visible in the "Pull requests" tab.
 
 ![prs](/images/how-to/howto-13.png)
 
 ## Update an existing term {#update-an-existing-term}
 
-To update an existing term, you can either report an issue or submit a PR containing your suggestions.
+To update an existing term, you can either request changes by creating an issue 
+or work on the changes yourself and submit a PR.
 
 ### Request a change via an issue {#request-a-change-via-an-issue}
 
 If you want to flag a problem with a term, you can use the "Report issue" option of the CNCF Glossary webpage. 
-Locate yourself in the CNCF page of the concept you'd like to flag and click on "Report issue", which will create an issue. 
+Locate yourself in the CNCF page of the concept you'd like to flag and click on "Report issue". 
+This will automatically open an issue for you
 
 ![report issue](/images/how-to/howto-14.png)
 
@@ -167,20 +182,20 @@ Please describe your suggestions and why they are needed. Hit submit, and that's
 
 ### Update a term directly {#update-a-term-directly}
 
-To modify a term directly, go to "Edit this page".
+To modify a term and submit your suggestions, click "Edit this page."
 
 ![edit this page](/images/how-to/howto-16.png)
 
-This will open the term's GitHub page. Make your changes and submit a PR. 
-Please refer to the "Submitting a new term" section above, and more specifically, the part that describes how to work with markdown. 
+This will open the term's GitHub page. Make your changes and create a PR. 
+Please refer to the [Best practices](#best-practices) section above 
+and read our [Style Guide](/style-guide/) to make sure you follow our guidelines. 
 
 ## Help translate the glossary {#help-translate-the-glossary}
 
-To help translate the glossary into your native language, please join the [#glossary-localizations](https://cloud-native.slack.com/archives/C02N2RGFXDF) channel on the CNCF Slack workspace and let us know.
+To help translate the glossary into a target language, please join the [#glossary-localizations](https://cloud-native.slack.com/archives/C02N2RGFXDF) channel on the CNCF Slack workspace and send us a message.
 You can either join an existing team or create a new one 
-(to see what it takes, read our [Localization Guide](https://github.com/cncf/glossary/blob/main/LOCALIZATION.md)). Please read the **How to contribute** guide of the target language to gather the specifics of that team's contribution process. 
-Please also join our monthly Glossary Working Group meetings. You can find the meeting details in the [CNCF calendar](https://www.cncf.io/calendar/). 
-We look forward to meeting you there!
+(to see what it takes, read our [Localization Guide](https://github.com/cncf/glossary/blob/main/LOCALIZATION.md)). 
+Please read the **How to contribute** guide of the target language to gather the specifics of that team's contribution process. 
 
 ## Spell check {#spell-check}
 
@@ -196,3 +211,6 @@ To add new words to the list, follow these steps:
 3. Add a commit message and select "Sign off and propose changes".
 
 **Note**: the spell check is case-insensitive. 
+
+
+**We updated this guide based on templates from [The Good Docs Project](https://thegooddocsproject.dev/).**
