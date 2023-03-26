@@ -1,5 +1,5 @@
 ---
-title: Security Chaos Engineering
+title: নিরাপত্তা বিশৃঙ্খলা ইঞ্জিনিয়ারিং (Security Chaos Engineering)
 status: Completed
 category: ধারণা
 tags: ["security", "methodology", ""]
@@ -7,29 +7,16 @@ tags: ["security", "methodology", ""]
 
 ## এটা কি
 
-Security Chaos Engineering or SCE is a discipline based on [Chaos Engineering](/chaos-engineering/). 
-SCE performs proactive security experimentation on a distributed system 
-to build confidence in the system's capability to withstand turbulent and malicious conditions. 
-Security chaos engineers use scientific method loops to achieve this, 
-including steady-state, hypothesis, continuous verification, lesson learned, and mitigation implementation.
+নিরাপত্তা বিশৃঙ্খলা ইঞ্জিনিয়ারিং অথবা SCE [বিশৃঙ্খলা ইঞ্জিনিয়ারিং](/bn/chaos-engineering/) এর উপর ভিত্তি করে একটি নিয়মানুবর্তিতা। কোলাহলপূর্ণ এবং দূষিত পরিস্থিতি সহ্য করার জন্য সিস্টেমের ক্ষমতার উপর আস্থা তৈরি করতে SCE একটি ডিসট্রিবিউটেদ সিস্টেমে সক্রিয় নিরাপত্তা পরীক্ষা করে (proactive security experimentation)। নিরাপত্তা বিশৃঙ্খলা ইঞ্জিনিয়াররা এটি অর্জন করতে বৈজ্ঞানিক পদ্ধতি লুপ ব্যবহার করে, যার মধ্যে রয়েছে স্থির-স্থিতি (steady-state), হাইপোথিসিস, ক্রমাগত যাচাইকরণ, শিক্ষামূলক অভিজ্ঞতা (lesson learned) এবং প্রশমন (mitigation) বাস্তবায়ন।
 
 ## এটা যেসব সমস্যাতে দৃষ্টিপাত করে
 
-The main priority for [site reliability engineers](/site-reliability-engineering/) (SREs) and cyber security engineers is 
-to restore service as fast as possible with the goal of achieving zero downtime and minimizing business impact. 
-SREs and cyber security engineers deal both with pre-failure and post-failure incidents situations. 
-Most security issues are challenging to discover and patch quickly, impacting application or system functionality. 
-Additionally, security incidents are usually tricky to uncover during the development phase.
+[সাইট নির্ভরযোগ্যতা প্রকৌশলী](/bn/site-reliability-engineering/) (SREs) এবং সাইবার নিরাপত্তা প্রকৌশলীদের প্রধান অগ্রাধিকার হল শূন্য ডাউনটাইম অর্জন এবং ব্যবসায়িক প্রভাব কমানোর লক্ষ্যে যত দ্রুত সম্ভব পরিষেবা পুনরুদ্ধার করা। SRE এবং সাইবার সিকিউরিটি ইঞ্জিনিয়াররা প্রাক-ব্যর্থতা (pre-failure) এবং পরবর্তী ব্যর্থতার ঘটনা উভয় পরিস্থিতির সাথেই মোকাবেলা করে। বেশিরভাগ সুরক্ষা সমস্যাগুলি দ্রুত আবিষ্কার এবং প্যাচ করা চ্যালেঞ্জিং, যেগুলো অ্যাপ্লিকেশন বা সিস্টেম কার্যকারিতাকে প্রভাবিত করে। উপরন্তু, নিরাপত্তা ঘটনাগুলি সাধারণত ডেভেলপমেন্টের সময় চিহ্নিত করা কঠিন।
 
 ## এটা কিভাবে সাহায্য করে
 
-Security Chaos Engineering is built around [observability](/observability/) and cyber resiliency practices. 
-It aims to uncover the "unknown unknowns" and build confidence in the system, 
-increasing cyber resiliency and improving observability.
+নিরাপত্তা বিশৃঙ্খলা ইঞ্জিনিয়ারিং, [পর্যবেক্ষণযোগ্যতা](/bn/observability/) এবং সাইবার স্থিতিস্থাপকতা অনুশীলনকে ঘিরে তৈরি করা হয়েছে।
+এর লক্ষ্য "অজানার অজানা" উন্মোচন করা এবং সিস্টেমে আস্থা তৈরি করা, সাইবার স্থিতিস্থাপকতা বৃদ্ধি এবং পর্যবেক্ষণযোগ্যতা উন্নত করা।
 
-Engineering teams will progressively improve the understanding for security concerns 
-within complex infrastructure, platforms, and distributed systems. 
-SCE improves the cyber resiliency of the entire product, uncovers hidden security issues, 
-exposes the classical blind spots, and prepares teams for critical edge cases. 
-This approach helps SREs, [DevOps](/devops/) and [DevSecOps](/devsecops/) engineers 
-create confidence in the system, increase cyber resiliency and improve observability.
+ইঞ্জিনিয়ারিং দলগুলি ধীরে ধীরে জটিল অবকাঠামো, প্ল্যাটফর্ম এবং ডিসট্রিবিউটেদ সিস্টেমের মধ্যে নিরাপত্তা উদ্বেগের (security concerns) জন্য বোঝাপড়ার উন্নতি ঘটাবে। SCE সমগ্র পণ্যের সাইবার স্থিতিস্থাপকতা উন্নত করে, লুকানো নিরাপত্তা সমস্যাগুলি উন্মোচন করে, ক্লাসিক্যাল ব্লাইন্ড স্পটগুলিকে উন্মোচন করে, এবং গুরুত্বপূর্ণ প্রান্তের ক্ষেত্রে (critical edge cases) দলগুলিকে প্রস্তুত করে৷
+এই পদ্ধতি SREs, [DevOps](/bn/devops/) এবং [DevSecOps](/bn/devsecops/) ইঞ্জিনিয়ারদের সিস্টেমে আস্থা তৈরি করতে, সাইবার স্থিতিস্থাপকতা বাড়াতে এবং পর্যবেক্ষণযোগ্যতা উন্নত করতে সাহায্য করে।
