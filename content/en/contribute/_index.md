@@ -15,7 +15,7 @@ There are a number of ways you can contribute to this project, which we'll cover
 1) [Work on an existing issue](#work-on-an-existing-issue)
 2) [Propose new terms](#propose-new-terms)
 3) [Update existing ones](#update-an-existing-term)
-4) [Localize the glossary](#help-translate-the-glossary)
+4) [Localize the glossary](#help-localize-the-glossary)
 
 ## CNCF glossary overview 
 
