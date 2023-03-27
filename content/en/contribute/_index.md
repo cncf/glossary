@@ -27,7 +27,7 @@ where you'll find a list of [issues](https://github.com/cncf/glossary/issues), p
 
 ## Who can contribute?
 
-Basically, anyone can contribute, however, how you participate in the project depends on your level of expertise of the cloud native space. 
+How you can participate in this project depends on your level of cloud native expertise. 
 Simplifying complex concepts requires a deep knowledge of the topic. Therefore, to contribute with a new term you must be proficient in the cloud native space. 
 
 The localization effort is where beginners can make valuable contributions to the glossary. 
