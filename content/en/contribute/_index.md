@@ -48,7 +48,7 @@ Before making any contribution to the glossary, please make sure of the followin
 
 ## Best practices {#best-practices}
 
-To facilitate the reviewing process, our project uses [semantic line breaks](https://sembr.org/) (e.g., one line per sentence).
+To facilitate the reviewing process, please use [semantic line breaks](https://sembr.org/) (e.g., one line per sentence).
 We recommend checking out this [markdown cheat sheet](https://www.markdownguide.org/cheat-sheet/) 
 to correctly format Markdown text in GitHub (e.g., hyperlink, bold, italic).
 To name the .md file of each term we use lowercase letters, hyphens instead of spaces to separate words, and we don't use parenthesis.
