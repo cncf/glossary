@@ -66,7 +66,8 @@ You can also connect with the maintainers and fellow contributors in our [#gloss
 
 ## Work on an existing issue {#work-on-an-existing-issue}
 
-Go to the [Glossary GitHub repo issues](https://github.com/cncf/glossary/issues) where you will find a list of available issues. You can use labels (e.g., English language, help needed, good first issue) to filter out issues. 
+Go to the [Glossary GitHub repo issues](https://github.com/cncf/glossary/issues) to find a list of available issues. 
+You can use labels (e.g., English language, help needed, good first issue) to filter out issues.
 
 ![Issue and labels](/images/how-to/issue-and-labels.png)
 
