@@ -190,7 +190,7 @@ This will open the term's GitHub page. Make your changes and create a PR.
 Please refer to the [Best practices](#best-practices) section above 
 and read our [Style Guide](/style-guide/) to make sure you follow our guidelines. 
 
-## Help translate the glossary {#help-translate-the-glossary}
+## Help localize the glossary {#help-localize-the-glossary}
 
 To help translate the glossary into a target language, please join the [#glossary-localizations](https://cloud-native.slack.com/archives/C02N2RGFXDF) channel on the CNCF Slack workspace and send us a message.
 You can either join an existing team or create a new one 
