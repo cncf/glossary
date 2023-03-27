@@ -28,7 +28,11 @@ where you'll find a list of [issues](https://github.com/cncf/glossary/issues), p
 ## Who can contribute?
 
 How you can participate in this project depends on your level of cloud native expertise. 
-Simplifying complex concepts requires a deep knowledge of the topic. Therefore, to contribute with a new term you must be proficient in the cloud native space. 
+Simplifying complex concepts requires a deep knowledge of the topic. 
+Therefore, to contribute new terms, you must be proficient in them. 
+Contributors are typically engineers who have worked with these technologies for some time or academics focused on cloud native. 
+
+That know-how is required because explaining complex concepts in simple words is _really_ hard. And while the digestible, user-friendly outcome may seem easy, achieving the desired simplicity results from hard work and collaboration between cloud native experts. 
 
 The localization effort is where beginners can make valuable contributions to the glossary. 
 With solid existing definitions in English, less experienced contributors can localize terms to a target language. You can join an existing localization team or create a new one. Read the section [Help translate the glossary](#help-translate-the-glossary) of this guide to learn how to get started. 
