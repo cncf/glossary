@@ -9,7 +9,8 @@ menu:
 
 ## Welcome 
 
-Welcome to the Cloud Native Glossary contributing guide and thank you for your interest. If you would like to contribute to our project, checkout the following list of contribution types and their corresponding sections in this guide: 
+Welcome to the Cloud Native Glossary contributing guide, and thank you for your interest. 
+There are a number of ways you can contribute to this project, which we'll cover in detail here: 
 
 1) [Work on an existing issue](#work-on-an-existing-issue)
 2) [Propose new terms](#propose-new-terms)
