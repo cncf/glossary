@@ -76,7 +76,7 @@ For example, here you can see that the first three terms are available while the
 
 ![assigning a term](/images/how-to/howto-04.png)
 
-Once you select a term to work on, write a comment in the issue. 
+Once you select a term to work on, comment on the issue. 
 
 ![Claiming an issue](/images/how-to/claiming-an-issue.png)
 
