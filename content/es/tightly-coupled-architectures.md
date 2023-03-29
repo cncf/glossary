@@ -5,7 +5,7 @@ category: Property
 tags: ["fundamental", "architecture", "property"]
 ---
 
-La arquitectura estrechamente acoplada es un estilo arquitectónico en el que varios componentes de la aplicación son interdependientes.
+La arquitectura estrechamente acoplada es un estilo arquitectónico en el que varios componentes de la aplicación son interdependientes
 (el paradigma opuesto de [arquitecturas débilmente acopladas](/es/loosely-coupled-architecture/)).
 Esto significa que un cambio en un componente probablemente afectará a otros componentes.
 Por lo general, es más fácil de implementar que los estilos arquitectónicos más vagamente acoplados,
