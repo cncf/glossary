@@ -2,6 +2,7 @@
 title: 裸机
 status: Completed
 category: 技术
+tags: ["基础设施", "", ""]
 ---
 
 ## 是什么

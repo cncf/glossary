@@ -2,6 +2,7 @@
 title: Aplicações Stateless
 status: Feedback Appreciated
 category: tecnologia
+tags: ["fundamentos", "", ""]
 ---
 
 ## O que é

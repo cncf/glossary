@@ -2,7 +2,7 @@
 title: Stateful Apps
 status: Completed
 category: concept
-tags: ["fundamentals", "", ""]
+tags: ["fundamental", "application", ""]
 ---
 
 ## What it is

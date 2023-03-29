@@ -2,7 +2,7 @@
 title: DevSecOps 
 status: Completed
 category: concept
-tags: ["methodology", "", ""]
+tags: ["methodology", "security", ""]
 ---
 
 ## What it is

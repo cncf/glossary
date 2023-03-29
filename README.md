@@ -33,3 +33,5 @@ npm install
 ```
 
 You can then run the site using `hugo server`.
+
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?repo=cncf/glossary)
