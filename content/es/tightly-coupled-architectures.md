@@ -18,5 +18,4 @@ Si bien no es necesariamente consistente con todas las mejores prácticas de des
 
 ## Cómo ayuda
 
-Pueden ser útiles en circunstancias específicas. Tienden a ser más rápidos y sencillos de implementar y
-al igual que las [aplicaciones monolíticas](/monolithic-apps/), pueden acelerar el ciclo de desarrollo inicial.
+Pueden ser útiles en circunstancias específicas. Tienden a ser más rápidos y sencillos de implementar yal igual que las [aplicaciones monolíticas](/monolithic-apps/), pueden acelerar el ciclo de desarrollo inicial.
