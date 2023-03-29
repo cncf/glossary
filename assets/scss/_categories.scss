@@ -1,0 +1,39 @@
+// Category.
+.category {
+	margin-top: 0;
+	margin-right: 0;
+	margin-bottom: 1.875rem;
+	@media (min-width: 768px) {
+		margin-bottom: 3.125rem;
+	}
+	margin-right: 12px;
+	color: $gray-700;
+	font-weight: 700;
+	letter-spacing: 0.2em;
+}
+
+// Category labels.
+i.technology,
+i.property,
+i.concept {
+	-moz-osx-font-smoothing: grayscale;
+	-webkit-font-smoothing: antialiased;
+	display: inline-block;
+	font-style: normal;
+	font-variant: normal;
+	text-rendering: auto;
+	line-height: 1;
+	font-family: 'Font Awesome 5 Free';
+	font-weight: 900;
+	padding-right: 0.5em;
+	color: $gray-700;
+}
+i.technology:before {
+	content: '\f7d9';
+}
+i.property:before {
+	content: '\f1ad';
+}
+i.concept:before {
+	content: '\f0eb';
+}

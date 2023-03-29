@@ -1,0 +1,50 @@
+.article-meta {
+	margin-bottom: 3rem;
+}
+
+.taxonomy-terms {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	display: flex;
+	flex-wrap: wrap;
+	gap: 13px;
+}
+
+.tax-term {
+	display: block;
+	color: $white;
+	background-color: $link-color;
+	border-radius: 50px;
+	padding-top: 7px;
+	padding-bottom: 7px;
+	padding-left: 15px;
+	padding-right: 15px;
+	font-weight: 600;
+	font-size: 10px;
+	line-height: 120%;
+	text-align: center;
+	letter-spacing: 0.02em;
+	&:hover {
+		color: $white;
+		text-decoration: none;
+		background-color: $primary-300;
+	}
+}
+
+// Used in Tax Terms Cloud
+.tax-terms {
+	list-style: none;
+	margin: 60px 0;
+	padding: 0;
+	li {
+		margin: 20px 0;
+	}
+}
+
+// Used in Tax Terms Cloud
+.taxonomy-count {
+	padding-left: 0;
+	margin-left: 0;
+}
