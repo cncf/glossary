@@ -10,7 +10,7 @@ La arquitectura estrechamente acoplada es un estilo arquitectónico en el que va
 Esto significa que un cambio en un componente probablemente afectará a otros componentes.
 Por lo general, es más fácil de implementar que los estilos arquitectónicos más vagamente acoplados,
 pero puede dejar un sistema más vulnerable a fallas en cascada.
-También tienden a requerir lanzamientos coordinados de componentes.
+También tienden a requerir lanzamientos coordinados de componentes
 lo que puede convertirse en un lastre para la productividad del desarrollador.
 
 Las arquitecturas de aplicaciones estrechamente acopladas son una forma bastante tradicional de crear aplicaciones.
