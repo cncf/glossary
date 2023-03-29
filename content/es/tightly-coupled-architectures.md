@@ -1,8 +1,8 @@
 ---
-título: Arquitecturas fuertemente acopladas
-Estado: COMPLETADO
-categoría: Propiedad
-etiquetas: ["fundamental", "arquitectura", "propiedad"]
+title: Tightly Coupled Architectures
+status: Completed
+category: Property
+tags: ["fundamental", "architecture", "property"]
 ---
 
 ## Lo que es
