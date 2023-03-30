@@ -27,4 +27,4 @@ generalmente si pensa alle performance in termini di [scalabilità](/it/scalabil
 che possono essere gestiti utilizzando la proprietà di [scalabilità orizzontale](/it/horizontal-scaling/) (aggiungendo più macchine al pool di risorse).
 Alcuni carichi di lavoro possono richiedere di utilizzare la [scalabilità verticale](/it/vertical-scaling/) (aggiungendo più potenza a una macchina fisica esistente);
 e/o una risposta hardware estremamente veloce, e in questi casi il bare metal è più indicato.
-Bare metal permette anche di regolare l'hardware fisico ed eventualmente anche i driver hardware drivers per aiutare a raggiungere l'obiettivo.
+Il bare metal permette anche di regolare l'hardware fisico ed eventualmente anche i driver hardware per aiutare a raggiungere l'obiettivo.
