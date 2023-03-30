@@ -17,12 +17,12 @@ Le capacità di Kubernetes possono essere estese attraverso le sue [API](/it/app
 
 ## Quali problematiche affronta
 
-L'automazione dell'infrastruttura e la gestione delle configurazioni in modo dichiarativo sono concetti importanti da diverso tempo, ma sono diventati sempre più importanti da quando il [cloud computing](/it/cloud-computing/) si è diffuso.
-Man mano che la richiesta di risorse computazionali aumenta e le organizzazioni hanno bisogno di fornire più capacità operative con meno ingegneri, servono nuove tecnologie e nuovi metodi di lavoro per rispondere a tale esigenza.
+L'automazione dell'infrastruttura e la gestione delle configurazioni in modo dichiarativo sono concetti importanti da diverso tempo, ma sono diventati sempre più importanti da quando il [cloud computing](/it/cloud-computing/) ha cominciato a diffodersi.
+Man mano che la richiesta di risorse computazionali aumenta e le organizzazioni hanno bisogno di fornire più capacità operative con meno ingegneri, servono nuove tecnologie e nuovi metodi di lavoro.
 
 ## In che modo aiuta
 
-In modo simile agli strumenti tradizionali di [infrastructure as code](/it/infrastructure-as-code/), Kubernetes aiuta con l'automazione e ha il vantaggio di lavorare con i container.
+Analogamente agli strumenti tradizionali di [infrastructure as code](/it/infrastructure-as-code/), Kubernetes aiuta con l'automazione e ha il vantaggio di lavorare con i container.
 I container sono più resistenti alla deriva della configurazione rispetto a macchine [virtuali](/it/virtual-machine/) o fisiche.
 
 Inoltre, Kubernetes lavora in maniera dichiarativa: ciò significa che invece di avere operatori che istruiscono la macchina su come fare qualcosa, descrivono — di solito tramite file manifest (per esempio YAML) — come l'infrastruttura dovrebbe essere.
