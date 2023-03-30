@@ -7,12 +7,23 @@ tags: ["security", "networking", ""]
 
 ## ¿Qué es?
 
-Transport Layer Security (TLS) es un protocolo diseñado para proporcionar mayor seguridad a la comunicación a través de una red.Garantiza la entrega segura de los datos enviados a través de Internet, evitando posibles seguimientos y/o alteraciones de los datos. Este protocolo es muy utilizado en aplicaciones como mensajería, correo electrónico, etc.
+Transport Layer Security (TLS) is a protocol designed to provide increased security to communication over a network.
+Garantiza la entrega segura de los datos enviados a través de Internet,
+evitando posibles seguimientos y/o alteraciones de los datos.
+Este protocolo es muy utilizado en aplicaciones como mensajería, correo electrónico, etc.
 
 ## Problema que aborda
 
-Sin TLS, la información confidencial, como los hábitos de navegación, la correspondencia por correo electrónico, los chats en línea y las llamadas en conferencia, pueden ser fácilmente rastreadas y modificadas por otros durante la transmisión. Habilitar las aplicaciones de servidor y cliente para admitir TLS garantiza que los datos transmitidos entre ellos estén encriptados y no puedan ser vistos por terceros.
+Sin TLS, la información confidencial, como los hábitos de navegación, la correspondencia por correo electrónico, los chats en línea y las llamadas en conferencia pueden
+ser fácilmente rastreado y modificado por otros durante la transmisión.
+Permitir que las aplicaciones de servidor y cliente admitan TLS garantiza que
+los datos transmitidos entre ellos están encriptados y no son visibles para terceros.
 
 ## ¿Cómo ayuda?
 
-TLS utiliza una combinación de técnicas de codificación que brindan seguridad al transmitir datos a través de una red. TLS permite una conexión cifrada entre una aplicación cliente y un servidor, como un navegador web y un sitio bancario. También permite que las aplicaciones cliente identifiquen positivamente el servidor al que están llamando, lo que reduce el riesgo de que un cliente se comunique con un sitio fraudulento. Esto garantiza que los terceros no puedan ver ni controlar los datos transmitidos entre aplicaciones mediante TLS, que protege la información confidencial y privada, como números de tarjetas de crédito, contraseñas, ubicación, etc.
+TLS utiliza una combinación de técnicas de codificación que brindan seguridad al transmitir datos a través de una red.
+TLS permite una conexión cifrada entre una aplicación cliente y un servidor, como un navegador web y un sitio bancario.
+También permite que las aplicaciones cliente identifiquen positivamente el servidor al que están llamando,
+lo que reduce el riesgo de que un cliente se comunique con un sitio fraudulento.
+Esto garantiza que los terceros no puedan ver ni controlar los datos transmitidos entre aplicaciones mediante TLS, 
+que protege la información confidencial y privada, como números de tarjetas de crédito, contraseñas, ubicación, etc.
