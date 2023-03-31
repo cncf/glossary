@@ -42,6 +42,7 @@ CC
 CD
 changes
 Chaos
+chats
 check
 Chris
 CI
@@ -96,6 +97,7 @@ Dropbox
 edit
 ej
 empoderen
+encriptados
 Engine
 Engineering
 English
@@ -267,10 +269,12 @@ terms
 the
 this
 title
+TLS
 to
 toc
 translate
 transmisión
+Transport
 triaging
 true
 trunk
