@@ -39,7 +39,7 @@ With solid existing definitions in English, less experienced contributors can lo
 
 ## Before you start
 
-Before making any contribution to the glossary, please make sure of the following:
+Before beginning your Glossary contributor journey, be sure to complete the following steps:
 
 1. Create a [GitHub account](https://docs.github.com/en/get-started/signing-up-for-github/signing-up-for-a-new-github-account), if you don't have one already. 
 2. Sign the [Contributor License Agreement](https://docs.linuxfoundation.org/lfx/easycla/v2-current/contributors) (CLA). 
