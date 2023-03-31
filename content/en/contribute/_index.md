@@ -124,7 +124,7 @@ Next, the maintainers will triage the issue.
 That means they will assess if the term should be part of the Glossary. 
 Not every term will be admitted. To be included in the Glossary, they should be established and widely-used cloud native concepts.
 
-Please let the maintainers know that you've proposed a new term on Slack and tag _@Catherine Paganini_, _@jmo_, _@Seokho Son_, _@Jihoon Seo_, and/or _@iamnoah_ so that hey don't miss it.  
+Please let the maintainers know that you've proposed a new term on Slack and tag _@Catherine Paganini_, _@Seokho Son_, _@Jihoon Seo_, and/or _@iamnoah_ so that hey don't miss it.  
 If you want to work on the definition, let the maintainers know and they'll assign it to you.
 
 ### Submitting a new term (creating a PR) {#submitting-a-new-term}
