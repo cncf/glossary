@@ -14,8 +14,8 @@ Este protocolo es muy utilizado en aplicaciones como mensajería, correo electr�
 
 ## Problema que aborda
 
-Sin TLS, la información confidencial, como los hábitos de navegación, la correspondencia por correo electrónico, los chats en línea y las llamadas en conferencia pueden
-ser fácilmente rastreado y modificado por otros durante la transmisión.
+Sin TLS, la información confidencial, como los hábitos de navegación, la correspondencia por correo electrónico, los chats en línea y las llamadas en conferencia puede
+ser fácilmente rastreada y modificada por otros durante la transmisión.
 Permitir que las aplicaciones de servidor y cliente admitan TLS garantiza que
 los datos transmitidos entre ellos están encriptados y no son visibles para terceros.
 
