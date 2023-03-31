@@ -200,7 +200,7 @@ and read our [Style Guide](/style-guide/) to make sure you follow our guidelines
 
 ## Help localize the glossary {#help-localize-the-glossary}
 
-To help translate the glossary into a target language, please join the [#glossary-localizations](https://cloud-native.slack.com/archives/C02N2RGFXDF) channel on the CNCF Slack workspace and send us a message.
+To help localize the glossary into a target language, please join the [#glossary-localizations](https://cloud-native.slack.com/archives/C02N2RGFXDF) channel on the CNCF Slack workspace and send us a message.
 You can either join an existing team or create a new one 
 (to see what it takes, read our [Localization Guide](https://github.com/cncf/glossary/blob/main/LOCALIZATION.md)). 
 Please read the **How to contribute** guide of the target language to gather the specifics of that team's contribution process. 
