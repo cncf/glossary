@@ -38,6 +38,7 @@ Catherine
 CC
 CD
 Chaos
+chats
 Chris
 CI
 cifrada
@@ -83,6 +84,7 @@ ej
 Engine
 Engineering
 English
+encriptados
 entregables
 escalarse
 escaneos
@@ -236,9 +238,11 @@ term
 terms
 the
 title
+TLS
 to
 toc
 transmisión
+Transport
 triaging
 true
 trunk
