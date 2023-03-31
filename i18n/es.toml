@@ -20,11 +20,11 @@ other = "en"
 
 # Phrases for tags
 [ui_see_all_tags]
-other = "See all tags"
+other = "Ver todas las etiquetas"
 [ui_tag]
-other = "Tag"
+other = "Etiqueta"
 [ui_tags]
-other = "Tags"
+other = "Etiquetas"
 [ui_search_by_tags]
 other = "Browse by Tags"
 [ui_tags_intro]
