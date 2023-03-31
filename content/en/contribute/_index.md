@@ -34,6 +34,8 @@ Contributors are typically engineers who have worked with these technologies for
 
 That know-how is required because explaining complex concepts in simple words is _really_ hard. And while the digestible, user-friendly outcome may seem easy, achieving the desired simplicity results from hard work and collaboration between cloud native experts. 
 
+If you are not a cloud native expert yet but still want to contribute, we recommend teaming up with someone who is. 
+Once the expert is confident that the term accurately describes the concept, you are ready for your first Glossary contribution.
 The localization effort is where beginners proficient in another language can make valuable contributions to the Glossary. 
 With solid existing definitions in English, less experienced contributors can localize terms to a target language. You can join an existing localization team or create a new one. Read this guide's [Help Localize the glossary](#help-localize-the-glossary) section to learn how to get started. 
 
