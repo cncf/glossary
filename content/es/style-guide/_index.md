@@ -118,7 +118,7 @@ Las definiciones de las categorías **technology** y **concept** contienen tres 
 Tenga en cuenta que la etiqueta **properties** no requiere secciones separadas.Una definición será suficiente.
 
 
-Para facilitar la revisión, por favor utilice **saltos de línea semánticos** (o en su traducción en Inglés *semantic line breaks*) - una oración por línea.
+Para facilitar la revisión, por favor utilice **saltos de línea semánticos** (una oración por línea).
 
 
 #### La calidad es esencial
@@ -139,7 +139,7 @@ El Glosario debe contener definiciones aceptadas globalmente y sin perspectivas 
 No copie y pegue definiciones de otras personas a menos que les de crédito y sea una referencia.
 Si a usted le gusta una cierta sección de una definición, intente parafrasearla en sus propias palabras.
 
-**Referencie recursos de autor**. Cuando sea posible, agregue referencias a recursos de autor, como documentación oficial de un proyecto.
+**Agregue referencias a recursos de autor**. Cuando sea posible, agregue referencias a recursos de autor, como documentación oficial de un proyecto.
 Nótese que no podemos agregar referencias a documentación de un proveedor externo.
 
 #### Manteniéndolo simple
