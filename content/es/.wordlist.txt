@@ -123,6 +123,7 @@ frontend
 fundamentals
 Garcia
 gateway
+GB
 GCP
 Git
 GitHub
