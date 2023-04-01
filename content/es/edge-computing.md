@@ -15,7 +15,7 @@ Algunos ejemplos de computación en el borde incluyen los sensores de muñeca o 
 
 A lo largo de la década pasada, hemos visto un incremento de dispositivos en el borde (por ejemplo teléfonos móviles, relojes inteligentes o sensores).
 En algunos casos, el procesamiento en tiempo real no solo es una buena posibilidad sino que es vital.
-Pensemos en los automóviles autoconducidos.
+Pensemos en los automóviles autónomos.
 Imaginemos la información generada por los sensores del automóvil que tiene que ser transferida a un centro de datos para ser procesada y luego enviada de vuelta al vehículo para reaccionar en efecto.
 La latencia de la red involucrada podría ser fatal.
 Si bien este es un ejemplo llevado al extremo, la mayoría de los usuarios no querrían utilizar un dispositivo inteligente que no fuera capaz de generar reacciones instantáneas.
