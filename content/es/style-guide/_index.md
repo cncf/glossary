@@ -28,10 +28,10 @@ Adicionalmente, sigue las siguientes reglas:
 El Glosario está escrito para una audiencia técnica Y no técnica.
 Asegúrese de que las definiciones sean explicadas en términos simples y no asuma conocimientos técnicos. Más acerca de eso a continuación en Definición.
 
-## Contenido minimo viable
+## Contenido mínimo viable
 Nuestro objetivo es facilitar la comprensión de términos nativos de nube a cualquiera.
 Por lo tanto, nos focalizamos en la simplicidad.
-Lo que significa utilizar lenguaje simple y conciso con ejemplos que cualquiera que usa tecnología pueda identificarse, pero también proveyendo un *contenido minimo viable*, al menos desde un punto de vista técnico.
+Lo que significa utilizar lenguaje simple y conciso con ejemplos que cualquiera que usa tecnología pueda identificarse, pero también proveyendo un *contenido mínimo viable*, al menos desde un punto de vista técnico.
 No queremos ahorrar en contexto o ejemplos - que ayudan al lector a entender el concepto - pero si el detalle técnico no es necesario para entender lo explicado, no serán incluidos.
 El objetivo es no complicar las cosas. Una vez que el lector entienda el concepto básico, otros recursos ayudarán a ahondar.
 Esa parte está fuera del control de este Glosario.
@@ -124,11 +124,11 @@ Para facilitar la revisión, por favor utilice **saltos de línea semánticos** 
 #### La calidad es esencial
 
 
-Si ha sido agregada, su contribución sera la definicion oficial de la CNCF para ese término (hasta que alguien más la mejore).
+Si ha sido agregada, su contribución sera la definición oficial de la CNCF para ese término (hasta que alguien más la mejore).
 Crear un término que cumpla con los altos estándares de la CNCF no puede ser un proceso apurado - la calidad toma su tiempo y esfuerzo.
 
 
-**Haga su investigación**: Incluso si usted se sienta confiado de que conoce el término, verifique que realmente es como lo piensa.
+**Haga su investigación**: Incluso si usted se siente confiado de que conoce el término, verifique que realmente es como lo piensa.
 Habitualmente utilizamos términos en una organización de una cierta manera que no refleja el panorama completo.
 Cuando haga su investigación, especialmente cuando el término no sea del todo familiar, utilice múltiples fuentes.
 Muchas definiciones son algo subjetivas, especialmente si provienen de un proveedor.
@@ -140,7 +140,7 @@ No copie y pegue definiciones de otras personas a menos que les de crédito y se
 Si a usted le gusta una cierta sección de una definición, intente parafrasearla en sus propias palabras.
 
 **Referencie recursos de autor**. Cuando sea posible, agregue referencias a recursos de autor, como documentación oficial de un proyecto.
-Notese que no podemos agregar referencias a documentación de un proveedor externo.
+Nótese que no podemos agregar referencias a documentación de un proveedor externo.
 
 #### Manteniéndolo simple
 
