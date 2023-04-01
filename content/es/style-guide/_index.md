@@ -25,7 +25,7 @@ Adicionalmente, sigue las siguientes reglas:
 
 ## Audiencia
 
-El Glosario está escrito para una audiencia técnica Y no técnica.
+El Glosario está escrito para una audiencia técnica y no técnica.
 Asegúrese de que las definiciones sean explicadas en términos simples y no asuma conocimientos técnicos. Más acerca de eso a continuación en Definición.
 
 ## Contenido mínimo viable
@@ -118,7 +118,7 @@ Las definiciones de las categorías **technology** y **concept** contienen tres 
 Tenga en cuenta que la etiqueta **properties** no requiere secciones separadas.Una definición será suficiente.
 
 
-Para facilitar la revisión, por favor utilice **saltos de línea semánticos** (una oración por línea).
+Para facilitar la revisión, por favor utilice **[semántica de saltos de línea](https://sembr.org/)** (una oración por línea).
 
 
 #### La calidad es esencial
