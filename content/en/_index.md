@@ -5,8 +5,10 @@ status: Completed
 
 # Cloud Native Glossary
 
-The Cloud Native Glossary is a project led by the CNCF Business Value Subcommittee (BVS). 
-Its goal is to explain cloud native concepts in clear and simple language without requiring any previous technical knowledge.
+The Cloud Native Glossary aims to make the cloud native space — which is notorious for its complexity — simpler for people by making it easier to understand, 
+not only for technologists but also for people on the business side. 
+To achieve that, we focus on simplicity (e.g., simple language free from buzzwords, examples anyone using technology can relate to, leaving unnecessary details out). 
+The Glossary is a project led by the CNCF Business Value Subcommittee (BVS). 
 
 <p><img class="mt-3" src="/images/homepage/kubecon.jpg" alt="People watching a Kubecon presentation"></p>
 
