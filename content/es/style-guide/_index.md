@@ -29,6 +29,7 @@ El Glosario está escrito para una audiencia técnica y no técnica.
 Asegúrese de que las definiciones sean explicadas en términos simples y no asuma conocimientos técnicos. Más acerca de eso a continuación en Definición.
 
 ## Contenido mínimo viable
+
 Nuestro objetivo es facilitar la comprensión de términos nativos de nube a cualquiera.
 Por lo tanto, nos focalizamos en la simplicidad.
 Lo que significa utilizar lenguaje simple y conciso con ejemplos que cualquiera que usa tecnología pueda identificarse, pero también proveyendo un *contenido mínimo viable*, al menos desde un punto de vista técnico.
@@ -125,19 +126,14 @@ Las definiciones de las categorías **technology** y **concept** contienen tres 
  De hecho, evite mencionar el término que se esta definiendo. El problema se centra en *qué* nos llevó a necesitar esto.
 - **Cómo ayuda**: ahora, vuelve al término. ¿Cómo aborda el problema descrito anteriormente?
 
-
 Tenga en cuenta que la etiqueta **properties** no requiere secciones separadas.Una definición será suficiente.
-
 
 Para facilitar la revisión, por favor utilice **[semántica de saltos de línea](https://sembr.org/)** (una oración por línea).
 
-
 #### La calidad es esencial
-
 
 Si ha sido agregada, su contribución sera la definición oficial de la CNCF para ese término (hasta que alguien más la mejore).
 Crear un término que cumpla con los altos estándares de la CNCF no puede ser un proceso apurado - la calidad toma su tiempo y esfuerzo.
-
 
 **Haga su investigación**: Incluso si usted se siente confiado de que conoce el término, verifique que realmente es como lo piensa.
 Habitualmente utilizamos términos en una organización de una cierta manera que no refleja el panorama completo.
@@ -145,8 +141,7 @@ Cuando haga su investigación, especialmente cuando el término no sea del todo 
 Muchas definiciones son algo subjetivas, especialmente si provienen de un proveedor.
 El Glosario debe contener definiciones aceptadas globalmente y sin perspectivas particulares.
 
-
-**No cometa plagio**. Como cualquier publicación seria, las mismas reglas aplican al Glosario.
+**No cometa plagio**. Como cualquier publicación seria, las mismas reglas aplican al Glosario
 No copie y pegue definiciones de otras personas a menos que les de crédito y sea una referencia.
 Si a usted le gusta una cierta sección de una definición, intente parafrasearla en sus propias palabras.
 
