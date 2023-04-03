@@ -26,7 +26,7 @@ Y allí es donde los centros de datos brillan.
 
 ## ¿Cómo ayuda?
 
-Conectando varios servidores, los usuarios pueden crear [sistemas distribuidos](/es/distributed-systems/) que funcionan como una "super computadora".
+Conectando varios servidores, los usuarios pueden crear [sistemas distribuidos](/es/distributed-systems/) que funcionan como una "súper computadora".
 Ya que estamos combinando la potencia de muchas máquinas, podemos ejecutar aplicaciones o procesos mucho más grandes y con tareas computacionales más poderosas.
 Los centros de datos dan vida a muchas de las aplicaciones que hoy utilizamos a diario.
 
