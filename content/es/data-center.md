@@ -16,17 +16,19 @@ y aire acondicionado para la dispersión del calor generado por los servidores.
 
 ## Problema que aborda
 
-Cualquier compañía o individuo puede aprovechar el servicio especializado y la eficiencia que ofrece un Centro de Datos,
-en cuanto a servidores y escala de procesamiento, en vez de comprar y mantener sus servidores en sus propios edificios.
-Un Centro de Datos, por ejemplo, libera el encargarse de asegurar el suministro de energía, las medidas y equipamiento contra incendio,
-aire acondicionado o las líneas de Internet de alta velocidad.
+Antes de que los centros de datos sean en los años 90, había mayormente computadoras individuales con tareas específicas y otras utilizadas por usuarios particulares para hacer su trabajo.
+
+Pero las computadoras tenían recursos limitados (almacenamiento, memoria y CPU).
+Lo que conlleva que las aplicaciones que son ejecutadas en ellas, tienen sus mismos límites, condicionando así el tipo de aplicaciones que pueden ejecutarse allí.
+Antes de los centros de datos, la escala de una aplicación era limitada por la capacidad de la computadora donde era ejecutada.
+Pero si se piensa en aplicaciones a escala, como Gmail o Netflix (refiriendo a la aplicación, no a la interfaz de usuario que tenemos en nuestros teléfonos o computadoras), necesitan mucha más capacidad computacional que cualquier computadora puede proveer.
+Y allí es donde los centros de datos brillan.
 
 ## ¿Cómo ayuda?
 
-Los Centros de Datos son indispensables para la computación en la nube.
-Dado que los recursos y la infraestructura pueden ser creados según la [escalabilidad](/es/scalability/),
-una compañía puede rentar equipos de computación en la nube a un Centro de Datos sin tener que preocuparse de planificar -
-además del eventual desaprovechamiento o sobreprecio - recursos computacionales.
-Los Centros de Datos existen alrededor del mundo,
-lo que posibilita la creación de infraestructura físicamente cercana a la demanda
-sin la necesidad de transportar y configurar equipamiento a una zona determinada.
+Conectando varios servidores, los usuarios pueden crear [sistemas distribuidos](/es/distributed-systems/) que funcionan como una "supercomputadora".
+Ya que estamos combinando la potencia de muchas máquinas, podemos ejecutar aplicaciones o procesos mucho más grandes y con tareas computacionales más poderosas.
+Los centros de datos dan vida a muchas de las aplicaciones que hoy utilizamos a diario.
+
+La [computación en la nube](/es/cloud-computing/) es en sí misma centros de datos que rentan su capacidad computacional a sus clientes.
+A lo largo de los últimos años, hemos visto un cambio desde centros de datos propios en una compañía hacia la nube.
