@@ -54,6 +54,7 @@ community
 Completed
 concept
 confiabilidad
+confiablemente
 Container
 contenedores
 contenedorizadas
@@ -155,6 +156,7 @@ microservicios
 Microsoft
 Mike
 mitigarse
+monitorea
 monitorean
 monitorear
 monitoreará
@@ -199,6 +201,7 @@ Rael
 Ramer
 RDS
 relevantes
+Reliability
 reprogramados
 request
 requests
@@ -213,6 +216,7 @@ security
 Seokho
 Server
 service
+Site
 Slack
 sobreescriba
 Sockets
