@@ -2,8 +2,9 @@ name: "Stale label"
 on:
   schedule:
     - cron: '0 0 * * *' # Runs daily at 12am UTC
-  branches:
-    - dev-es    
+  push:
+    branches:
+      - 'dev-es'
 permissions:
   issues: write
   pull-requests: write
