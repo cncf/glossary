@@ -14,4 +14,4 @@ A list of these tools can be viewed in the [Cloud Native Landscape's observabili
 
 Observable systems yield meaningful, actionable data to their operators, allowing them to achieve favorable outcomes (faster incident response, increased developer productivity) and less toil and downtime.
 
-Consequently, how observable a system is, will significantly impact its operating and development costs. 
+Consequently, how observable a system is will significantly impact its operating and development costs. 
