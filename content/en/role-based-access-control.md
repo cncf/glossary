@@ -13,7 +13,8 @@ Sales and marketing have different permissions based on their roles, hence role-
 
 ## Problem it addresses
 
-Without RBAC, it is easy to lose track of who has access to what. Malicious actors are always in search of vulnerabilities to exploit and a mismanaged account with too many privileges can put an entire system at risk. 
+Individually managing access permissions to many users in an organization of various system resources and data is very complex considering that each user will have different set of resources the user can access. For instance, if there are 100,000 users and 1,000 resources in an organization, an administrator needs to check whether each user has authority and responsibility for each resource 100,000 times.
+Therefore, it is necessary to simplify the access control according to role groups based on authority and responsibility.
 
 
 ## How it helps
