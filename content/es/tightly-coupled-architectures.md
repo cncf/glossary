@@ -14,7 +14,7 @@ También tienden a requerir lanzamientos coordinados de componentes
 lo que puede convertirse en un lastre para la productividad del desarrollador.
 
 Las arquitecturas de aplicaciones estrechamente acopladas son una forma bastante tradicional de crear aplicaciones.
-Si bien no es necesariamente consistente con todas las mejores prácticas de desarrollo de [microservicios](/microservicios/)
+Si bien no es necesariamente consistente con todas las mejores prácticas de desarrollo de [microservicios](/es/microservices-architecture/)
 pueden ser útiles en circunstancias específicas.
 Tienden a ser más rápidos y sencillos de implementar y
-al igual que las [aplicaciones monolíticas](/monolithic-apps/), pueden acelerar el ciclo de desarrollo inicial.
+al igual que las [aplicaciones monolíticas](/es/monolithic-apps/), pueden acelerar el ciclo de desarrollo inicial.
