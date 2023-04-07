@@ -17,7 +17,7 @@ SRE garantiza que el código que se ejecuta en producción funcione correctament
 
 Asegurar que las aplicaciones se ejecuten [confiablemente](/es/reliability/) requiere múltiples capacidades,
 desde la supervisión del rendimiento, las alertas, la [depuración](/es/debugging/) hasta la resolución de problemas.
-Sin estos, los operadores del sistema solo pueden reaccionar a los problemas en lugar de trabajar de manera proactiva para evitarlos.
+Sin estos, los operadores del sistema solo pueden reaccionar a los problemas en lugar de trabajar de manera proactiva para evitarlos
 — el tiempo de inactividad solo se convierte en una cuestión de tiempo.
 
 ## ¿Cómo ayuda?
