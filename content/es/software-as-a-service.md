@@ -1,7 +1,7 @@
 ---
-Title: Software as a Service (SaaS)
+Title: Software como Servicio (SaaS)
 Status: Deprecated
-Category: Technology
+Category: Tecnología
 draft: true
 tags: ["fundamental", "platform", ""]
 ---
@@ -15,11 +15,11 @@ Todas las tareas de operación y mantenimiento, y los datos de la aplicación, s
 
 ## Problema que aborda
 
-Traditionally, business software is installed on individual computers, requiring an admin to maintain and update.
-As an example: An organization may use on-premise software for customer relationship management (CRM).
-This software needs to be purchased, installed, secured, maintained, and regularly upgraded
-by the internal IT department, placing a burden on the IT team.
-The up front cost associated with licenses, installation, and potentially additional hardware can be prohibitive.
+Tradicionalmente, el software comercial se instala en computadoras individuales, lo que requiere un administrador para mantenerlo y actualizarlo.
+Como ejemplo: una organización puede usar software local para la gestión de relaciones con los clientes (CRM).
+Este software debe comprarse, instalarse, protegerse, mantenerse y actualizarse regularmente
+por el departamento de TI interno, lo que supone una carga para el equipo de TI.
+El costo inicial asociado con las licencias, la instalación y el hardware potencialmente adicional puede ser prohibitivo.
 También puede ser difícil responder a la demanda y [escala](/es/scalability/) hacia arriba y hacia abajo
 según sea necesario rápidamente en respuesta al crecimiento o cambio.
 
