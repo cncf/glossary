@@ -2,7 +2,7 @@
 title: 클라우드 네이티브 앱 (Cloud Native Apps)
 status: Completed
 category: 개념
-tags: ["애플리케이션", "", ""]
+tags: ["애플리케이션", "기본 개념", ""]
 ---
 
 ## 개념
