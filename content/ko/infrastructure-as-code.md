@@ -2,7 +2,7 @@
 title: 코드형 인프라 (IaC)
 status: Completed
 category: 개념
-tags: ["인프라스트럭처", "", ""]
+tags: ["인프라스트럭처", "방법론", ""]
 ---
 
 ## 개념
