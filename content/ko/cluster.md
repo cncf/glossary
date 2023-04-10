@@ -2,7 +2,7 @@
 title: 클러스터 (Cluster)
 status: Completed
 category: 개념
-tags: ["인프라스트럭처", "구조", ""]
+tags: ["인프라스트럭처", "기본 개념", ""]
 ---
 
 ## 개념
