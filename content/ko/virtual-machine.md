@@ -2,7 +2,7 @@
 title: 가상 머신 (Virtual Machine)
 status: Completed
 category: 기술
-tags: ["핵심 개념", "인프라스트럭처", ""]
+tags: ["기본 개념", "인프라스트럭처", ""]
 ---
 
 ## 개념
