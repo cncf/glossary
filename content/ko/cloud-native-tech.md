@@ -2,7 +2,7 @@
 title: 클라우드 네이티브 기술 (Cloud Native Technology)
 status: Completed
 category: 개념
-tags: ["핵심 개념", "", ""]
+tags: ["기본 개념", "", ""]
 ---
 
 ## 개념
