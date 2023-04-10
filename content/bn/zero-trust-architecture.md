@@ -2,6 +2,7 @@
 title: জিরো ট্রাস্ট আর্কিটেকচার (Zero Trust Architecture)
 status: Completed
 category: নিরাপত্তা
+tags: ["security", "", ""]
 ---
 
 ## এটি কি
