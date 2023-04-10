@@ -2,7 +2,7 @@
 title: 추상화 (Abstraction)
 status: Completed
 category: 속성
-tags: ["아키텍처", "", ""]
+tags: ["기본 개념", "", ""]
 ---
 
 컴퓨팅 관점에서 추상화는 [서비스](/ko/service/)의
