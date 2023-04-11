@@ -2,7 +2,7 @@
 title: 확장성 (Scalability)
 status: Completed
 category: 속성
-tags: ["핵심 개념", "", ""]
+tags: ["기본 개념", "속성", ""]
 ---
 
 확장성(scalability)은 시스템의 규모를 얼마나 유연하게 조절할 수 있는지를 나타낸다.

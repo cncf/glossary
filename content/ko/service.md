@@ -2,7 +2,7 @@
 title: 서비스 (Service)
 status: Completed
 category: 개념
-tags: ["아키텍처", "", ""]
+tags: ["애플리케이션", "기본 개념", ""]
 ---
 
 IT에서 서비스는 다양한 의미를 가진다는 점에 유의해야 한다.
