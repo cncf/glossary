@@ -1,7 +1,8 @@
 ---
 title: 디버깅 (Debugging)
-status: Completed
+status: Deprecated
 category: 개념
+draft: true
 tags: ["애플리케이션", "방법론", ""]
 ---
 
