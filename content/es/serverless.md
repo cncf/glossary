@@ -11,7 +11,7 @@ Sin servidor es un modelo de desarrollo cloud native que ayuda a los desarrollad
 crear y ejecutar aplicaciones sin tener que mantener servidores.
 Hay servidores en el modelo sin servidor, pero han sido [abstraídos](/es/abstraction/) del proceso de desarrollo.
 Un proveedor de nube se encarga del aprovisionamiento, mantenimiento y [escalamiento](/es/scalability/) de la infraestructura de servidores.
-Luego los desarrolladores pueden [contenerizar](/es/containers/) su código para el despliegue.
+Luego los desarrolladores pueden empacar su código en [contenedores](/es/containers/) para el despliegue.
 Una vez desplegado el código, las aplicaciones sin servidor satisfacen la demanda y escalan automáticamente según sea necesario.
 La modalidad sin servidor de proveedores de nube públicas usualmente esta medida bajo demanda a través de un modelo de ejecución basado en eventos.
 Como resultado, cuando una función sin servidor está inutilizada, no representa costo alguno.
