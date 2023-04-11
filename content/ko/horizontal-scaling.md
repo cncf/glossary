@@ -1,5 +1,5 @@
 ---
-title: 수평적 확장(Horizontal Scaling)
+title: 수평적 확장 (Horizontal Scaling)
 status: Completed
 category: 개념
 tags: ["인프라스트럭처", "", ""]
