@@ -2,7 +2,7 @@
 title: 애플리케이션 프로그래밍 인터페이스 (API)
 status: Completed
 category: 기술
-tags: ["아기텍처", "핵심 개념", ""]
+tags: ["아키텍처", "기본 개념", ""]
 ---
 
 ## 개념
