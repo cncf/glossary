@@ -28,7 +28,7 @@ body:
       options:
         - label: I understand that maintainers will confirm if the term should be updated. (Please be patient)
           required: true
-        - label: I want to work on this suggestion. (If not checked, maintainers will assign another volunteer)
+        - label: I want to work on this suggestion and confirm that I meet the criteria as outlined in "[who can contribute](https://glossary.cncf.io/contribute/#who-can-contribute)".. (If not checked, maintainers will assign another volunteer)
           required: false
   - type: textarea
     id: note
