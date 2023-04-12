@@ -98,6 +98,7 @@ Exceptuando "fundamental", que simplemente indica que el término referido es vi
 **Nota**: Por favor no cree nuevas etiquetas a menos que sean aprobadas por los mantenedores. Cuando agregue etiquetas, asegúrese de que estén correctamente deletreadas como se lista a continuación (en singular, sin errores).
 
 Las etiquetas existentes son:
+
 - application
 - architecture
 - fundamental
