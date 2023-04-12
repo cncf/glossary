@@ -18,6 +18,19 @@ Existen cuatro formas en las que se puede contribuir:
 3) [Actualizar un término existente](#update-an-existing-term)
 4) [Ayudar a traducir el glosario](#help-translate-the-glossary)
 
+## ¿Quién puede contribuir?
+
+El objetivo de este Glosario es simplificar el espacio Cloud Native - notorio por su complejidad - haciéndolo más fácil de entender.
+Para ello, debemos focalizarnos en la simplicidad.
+
+Explicar conceptos complejos en palabras simples es muy difícil.
+Y mientras pueda parecer fácil crear un contenido entendible y amigable, llegar a esa simplicidad es fruto del trabajo arduo y colaborativo entre expertos de Cloud Native.
+En concreto, para agregar un nuevo término, usted debería tener un conocimiento profundo al respecto.
+
+El esfuerzo de traducción es algo diferente.
+Dado que existen definiciones sólidas en Inglés, contribuidores menos experimentados técnicamente pueden también proveer términos traducidos.
+Esta parte del proyecto es más amigable para principiantes.
+
 ## Unirse a la comunidad del glosario {#join-the-glossary-community}
 
 Si desea contribuir con regularidad, considere unirse a nuestras reuniones mensuales del Grupo de trabajo del glosario.
