@@ -22,5 +22,5 @@ Los cambios manuales no son reproducibles, rápidamente se enfrentan a limites d
 
 Representados los recursos del [centro de datos](/data-center/) tales como servidores, balanceadores de carga y sub-redes como código,
 les permite a los equipos de infraestructura poseer una fuente única de verdad para todas las configuraciones y
-también les permite administrar sus [centro de datos](/data-center/) en flujos de [CI](/es/continuous-integration/)/[CD](/continuous-delivery/)
+también les permite administrar sus [centro de datos](/data-center/) en flujos de [CI](/es/continuous-integration/)/[CD](/es/continuous-delivery/)
 implementando un sistema de control de versiones y estrategias de despliegue.
