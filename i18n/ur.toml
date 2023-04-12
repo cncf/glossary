@@ -18,11 +18,23 @@ other = "اس سائٹ کو تلاش کریں…"
 [ui_in]
 other = "میں"
 
-# Used in sentences such as "All Tags"
-[ui_all]
-other = "تمام"
-[ui_see_all]
-other = "تمام دیکھیں"
+# Phrases for tags
+[ui_see_all_tags]
+other = "تمام ٹیگز دیکھیں"
+[ui_tag]
+other = "ٹیگ"
+[ui_tags]
+other = "ٹیگز"
+[ui_search_by_tags]
+other = " ٹیگز کے ذریعہ تلاش کریں"
+[ui_tags_intro]
+other = "ہم نے لغت کے الفاظ کی درجہ بندی کی ہے۔ ٹیگ کے ذریعے الفاظ کو تلاش کرنے کے لیے فلٹرذ کا استعمال کریں۔"
+[ui_or_search_by_tags]
+other = "...یا ٹیگز کے ذریعہ تلاش کریں"
+[ui_select_all]
+other = "تمام منتخب کریں"
+[ui_deselect_all]
+other = "سب کا انتخاب ختم کریں"
 
 # Footer text
 [footer_all_rights_reserved]
