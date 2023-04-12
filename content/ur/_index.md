@@ -40,6 +40,14 @@ Cloud Native Glossary ایک پروجیکٹ ہے جس کی قیادت CNCF بز�
 [Noah Ispas](https://www.linkedin.com/in/noah-ispas-0665b42a/) 
 ، اور  [Seokho Son](https://www.linkedin.com/in/seokho-son/) نے کی۔
 
+کلاؤڈ مقامی لغت کی اردو لوکلائزیشن کا آغاز [ اردو لوکلائزیشن ٹیم](https://cloud-native.slack.com/archives/C042NGNKDGT) نے کیا تھا اور اس میں 
+
+[Saim Safdar](https://www.linkedin.com/in/saim-safder/)، 
+[Waleed Ahmed](https://www.linkedin.com/in/waleed-ahmed3/)، 
+[Zubair Haque](https://www.linkedin.com/in/zubair-haque/)، 
+[Asad Ali](https://www.linkedin.com/in/asad-ali-86356220a/) 
+اور بہت سے دوسرے شراکت دار شامل ہیں۔
+
 ## لائسنس
 
 تمام کوڈ شراکتیں Apache 2.0 لائسنس کے تحت ہیں۔ دستاویزات CC BY 4.0 کے تحت تقسیم کی گئی ہیں۔
