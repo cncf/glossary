@@ -1,5 +1,5 @@
 ---
-title: ট্রান্সপোর্ট লেয়ার সিকিউরিটি (TLS)
+title: ট্রান্সপোর্ট লেয়ার সিকিউরিটি (Transport Layer Security )
 status: Completed
 category: সম্পত্তি
 tags: ["security", "networking", ""]
