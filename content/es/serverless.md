@@ -1,5 +1,5 @@
 ---
-Title: Sin servidor
+Title: Sin servidor (Serverless)
 Status: Completed
 Category: Tecnología
 tags: ["architecture", "", ""]
@@ -7,18 +7,18 @@ tags: ["architecture", "", ""]
 
 ## ¿Qué es?
 
-Sin servidor es un modelo de desarrollo cloud native que ayuda a los desarrolladores a
+Sin servidor (Serverless) es un modelo de desarrollo nativo en la nube que ayuda a los desarrolladores a
 crear y ejecutar aplicaciones sin tener que mantener servidores.
 Hay servidores en el modelo sin servidor, pero han sido [abstraídos](/es/abstraction/) del proceso de desarrollo.
 Un proveedor de nube se encarga del aprovisionamiento, mantenimiento y [escalamiento](/es/scalability/) de la infraestructura de servidores.
 Luego los desarrolladores pueden empacar su código en [contenedores](/es/containers/) para el despliegue.
 Una vez desplegado el código, las aplicaciones sin servidor satisfacen la demanda y escalan automáticamente según sea necesario.
-La modalidad sin servidor de proveedores de nube públicas usualmente esta medida bajo demanda a través de un modelo de ejecución basado en eventos.
+La modalidad sin servidor en proveedores de nube públicas usualmente es una medida bajo demanda a través de un modelo de ejecución basado en eventos.
 Como resultado, cuando una función sin servidor está inutilizada, no representa costo alguno.
 
 ## Problema que aborda
 
-En un modelo de [Infraestructura-como-servicio](/es/infrastructure-as-a-service/),
+En un modelo de [Infraestructura como Servicio](/es/infrastructure-as-a-service/),
 los usuarios compran unidades de cómputo o capacidad de forma anticipada, es decir, se paga a un proveedor de nube pública por componentes de servidores de ejecución continua para las aplicaciones.
 Es responsabilidad del usuario luego aumentar la capacidad de cómputo durante periodos de alta demanda y
 reducirla cuando ya no sea necesaria.
