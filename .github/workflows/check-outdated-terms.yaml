@@ -1,6 +1,6 @@
-# This workflow will check if localized terms are outdated or not
-# by comparing English terms in the old branch and the latest branch.
-name: Check outdated terms
+# This workflow will check if a localized content is outdated or not
+# by comparing English content in the old branch and the latest branch.
+name: Check outdated content
 on: 
   pull_request:
     branches:
@@ -9,8 +9,8 @@ on:
       - 'content/en/**.md'
 
 jobs:
-  check-outdated-terms:
-    name: Check outdated terms
+  check-outdated-content:
+    name: Check outdated content
 
     # if: contains(fromJSON('["dev-ko", "dev-xx"]'), github.base_ref) 
     # Ref: https://docs.github.com/en/actions/learn-github-actions/expressions
@@ -103,7 +103,7 @@ jobs:
             echo "$OUTPUT_DIR already exists but is not a directory" 1>&2
         fi
         
-        # Check outdated only if there is a localized term
+        # Check outdated only if a localized content exists
         # Loop files in a localization directory, which is ${L10N_DIR} (e.g., ./content/ko/)
         echo "(DEBUG) Check outdated"
         for L10N_FILE_PATH in $(find ${L10N_DIR} -name '*.md'); do
@@ -123,7 +123,7 @@ jobs:
             # Create subdirectories
             mkdir -p ${OUTPUT_DIR}/${FILE_DIR}
             
-            # Actually compare between the old and lastest English terms and log diff in the file
+            # Actually compare between the old and lastest English content and log diff in the file
             if [[ -f "./content/en/${FILE_PATH}" ]]; then
               # File exists
               # Check changes
