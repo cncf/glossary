@@ -1,35 +1,29 @@
 ---
-title: Continuous Deployment (CD)
+title: ক্রমাগত স্থাপনা (Continuous Deployment) (CD)
 status: Completed
-category: concept
+category: ধারণা
 tags: ["application", "methodology", ""]
 ---
 
-## What it is
+## এটা কি
 
-Continuous deployment, often abbreviated as CD, goes a step further than [continuous delivery](/continuous-delivery/) 
-by deploying finished software directly to production. 
-Continuous deployment (CD) goes hand in hand with [continuous integration](/continuous-integration/) (CI), 
-and is often referred to as CI/CD. 
-The CI process tests if the changes to a given application are valid, 
-and the CD process automatically deploys the code changes through an organization's environments from test to production.
+ক্রমাগত স্থাপনা (Continuous Deployment), প্রায়ই CD হিসাবে সংক্ষেপে, সরাসরি উত্পাদনে সমাপ্ত সফ্টওয়্যার স্থাপনের মাধ্যমে [কননিউয়াস ডেলিভারি](/continuous-delivery/) থেকে এক ধাপ এগিয়ে যায়।
+কন্টিনিউয়াস ডিপ্লোয়মেন্ট (সিডি) [কন্টিনিউয়াস ইন্টিগ্রেশন](/continuous-integration/) (CI) এর সাথে হাত মিলিয়ে যায় এবং প্রায়ই CI/CD হিসাবে উল্লেখ করা হয়।
+একটি প্রদত্ত অ্যাপ্লিকেশনে পরিবর্তনগুলি বৈধ কিনা তা CI প্রক্রিয়া পরীক্ষা করে এবং CD প্রক্রিয়া স্বয়ংক্রিয়ভাবে একটি প্রতিষ্ঠানের পরিবেশের মাধ্যমে পরীক্ষা থেকে উত্পাদন পর্যন্ত কোড পরিবর্তনগুলি স্থাপন করে।
 
-## Problem it addresses
+## এটা যেসব সমস্যাতে দৃষ্টিপাত করে
 
-Releasing new software versions can be a labor-intensive and error-prone process. 
-It is also often something that organizations will only want to do infrequently to avoid production incidents 
-and reduce the number of time engineers need to be available outside of regular business hours. 
-Traditional software deployment models leave organizations in a vicious cycle 
-where the process of releasing software fails to meet organizational needs around both stability and feature velocity.
+নতুন সফ্টওয়্যার সংস্করণ প্রকাশ করা একটি শ্রম-নিবিড় এবং ত্রুটি-প্রবণ প্রক্রিয়া হতে পারে।
+এটি প্রায়শই এমন কিছু যা সংস্থাগুলি উত্পাদন ঘটনা এড়াতে এবং নিয়মিত ব্যবসায়িক সময়ের বাইরে প্রকৌশলীদের উপলব্ধ থাকার সময় কমাতে কদাচিৎ করতে চায়।
+ঐতিহ্যগত সফ্টওয়্যার স্থাপনার মডেলগুলি সংস্থাগুলিকে একটি দুষ্ট চক্রের মধ্যে ফেলে দেয় যেখানে সফ্টওয়্যার প্রকাশের প্রক্রিয়াটি স্থিতিশীলতা এবং বৈশিষ্ট্যের বেগ উভয়ের চারপাশে সাংগঠনিক চাহিদা মেটাতে ব্যর্থ হয়।
 
-## How it helps
+## এটা কিভাবে সাহায্য করে
 
-By automating the release cycle and forcing organizations to release to production more frequently, 
-CD does what CI did for development teams for operations teams. 
-Specifically, it forces operations teams to automate the painful and error-prone portions of production deployments, reducing overall risk. 
-It also makes organizations better at accepting and adapting to production changes, which leads to higher stability.
+রিলিজ চক্রকে স্বয়ংক্রিয় করে এবং সংস্থাগুলিকে আরও ঘন ঘন উত্পাদনে মুক্তি দিতে বাধ্য করার মাধ্যমে, সিডি অপারেশন টিমের জন্য ডেভেলপমেন্ট টিমের জন্য সিআই যা করেছে।
+বিশেষত, এটি অপারেশন দলগুলিকে উত্পাদন স্থাপনের বেদনাদায়ক এবং ত্রুটি-প্রবণ অংশগুলিকে স্বয়ংক্রিয় করতে বাধ্য করে, সামগ্রিক ঝুঁকি হ্রাস করে।
+এটি উত্পাদন পরিবর্তনগুলি গ্রহণ এবং মানিয়ে নেওয়ার ক্ষেত্রে সংস্থাগুলিকে আরও ভাল করে তোলে, যা উচ্চ স্থিতিশীলতার দিকে পরিচালিত করে।
 
-## Related terms
+## সম্পর্কিত পদ
 
-* [Continuous Integration](/continuous-integration/)
-* [Continuous Delivery](/continuous-delivery/)
+* [ক্রমাগত একীকরণ (Continuous Integration)](/bn/continuous-integration/)
+* [ক্রমাগত বিতরণ (Continuous Delivery)](/bn/continuous-delivery/)
