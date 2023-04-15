@@ -1,5 +1,5 @@
 ---
-title: ক্রমাগত স্থাপনা (Continuous Deployment) (CD)
+title: ক্রমাগত স্থাপনা (Continuous Deployment (CD))
 status: Completed
 category: ধারণা
 tags: ["application", "methodology", ""]
