@@ -8,7 +8,7 @@ tags: ["infrastructure", "fundamental", ""]
 ## What it is
 
 Cloud computing is a model that offers compute resources like CPU, network, and disk capabilities on-demand over the internet, allowing users to access and use computing power in a remote physical location. 
-Cloud computing can be classified into public and private cloud depending on whether the cloud services are open to the outside.
+Cloud computing can be classified into private and public cloud depending on whether the cloud infrastructure is dedicated to an organization for exclusive use or shared for open public services.
 
 ## Problem it addresses
 
