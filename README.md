@@ -1,6 +1,6 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/ba021536-b074-49b8-8981-7a0d19882970/deploy-status)](https://app.netlify.com/sites/cncfglossary/deploys)
 
-# Cloud Native Glossary
+# Cloud Native Glossary 
 
 The [CNCF](https://www.cncf.io/) Cloud Native Glossary Project is hosted at [https://glossary.cncf.io/](https://glossary.cncf.io/) and is intended to be used as a reference for common terms when talking about cloud native applications. You can [view and download the PDF version here](https://github.com/cncf/glossary/blob/main/cloudnative-glossary.pdf).
 
