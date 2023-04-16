@@ -13,7 +13,7 @@ elles peuvent mettre un système à risque par rapport aux erreurs en cascade.
 Elles ont également tendance à nécessiter des déploiements synchronisés des composants
 ce qui peut devenir un frein à la productivité des développeurs.
 
-Les architectures fortement couplées sont une manière assez traditionnelle de construction d'applications.
+Les architectures fortement couplées sont une manière assez traditionnelle de construction des applications.
 Bien qu'elles ne soient pas nécessairement conformes avec les meilleures pratiques de développement de [microservices](/microservices/)
 elles peuvent être utiles dans des circonstances spécifiques.
 Elles ont tendances à être plus rapides et plus simples à mettre en oeuvre et
