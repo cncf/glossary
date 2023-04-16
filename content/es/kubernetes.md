@@ -8,9 +8,9 @@ tags: ["infrastructure", "fundamental", ""]
 ## ¿Qué es?
 
 Kubernetes, comúnmente abreviado como K8s, es un orquestador de contenedores de código abierto.
-Automatiza el ciclo de vida de las aplicaciones contenedorizadas en infraestructuras modernas, funcionando como un "sistema operativo en un Centro de Datos" que administra las aplicaciones ejecutándose en [sistemas distribuidos](/distributed-systems/).
+Automatiza el ciclo de vida de las aplicaciones contenedorizadas en infraestructuras modernas, funcionando como un "sistema operativo en un Centro de Datos" que administra las aplicaciones ejecutándose en [sistemas distribuidos](/es/distributed-systems/).
 
-Kubernetes gestiona [contenedores](/container/) en los [nodos](/nodes/) de un [clúster](/es/cluster/), agrupa muchos componentes de infraestructura, en ocasiones referidos como "primitivos", como una instancia de una aplicación, balanceadores de carga, almacenamiento persistente y otros, de manera que puedan integrarse en aplicaciones.
+Kubernetes gestiona [contenedores](/es/container/) en los [nodos](/es/nodes/) de un [clúster](/es/cluster/), agrupa muchos componentes de infraestructura, en ocasiones referidos como "primitivos", como una instancia de una aplicación, balanceadores de carga, almacenamiento persistente y otros, de manera que puedan integrarse en aplicaciones.
 
 Kubernetes permite la automatización y extensibilidad, permitiendo a los usuarios desplegar sus aplicaciones de una manera declarativa y reproducible.
 Kubernetes puede ser extendido a través de su [API](/es/application-programming-interface/), permitiendo aprovechar la automatización de Kubernetes y hacer que sus herramientas sean más accesibles para profesionistas experimentados de Kubernetes.
