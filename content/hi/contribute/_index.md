@@ -38,7 +38,7 @@ menu:
 
 ![नया इशू](/images/how-to/howto-03.png)
 
-कृपया CNCF Slack पर [#glossary](https://cloud-native.slack.com/archives/C02TX20MQBB) चैनल से जुड़ें और @Catherine Paganini, @jmo, और @Seokho Son को सुचना दें कि आपने एक इशू जमा कर दी है और उस पर काम करना चाहते हैं। वे आपको वह इशू सौंपेंगे जो अन्य सभी को संकेत देगा कि यह शब्द पहले ही लिया जा चुका है।
+कृपया CNCF Slack पर [#glossary](https://cloud-native.slack.com/archives/C02TX20MQBB) चैनल से जुड़ें और @garima negi, @Sayantani, @Jayesh और @Anubhav को सुचना दें कि आपने एक इशू जमा कर दी है और उस पर काम करना चाहते हैं। वे आपको वह इशू सौंपेंगे जो अन्य सभी को संकेत देगा कि यह शब्द पहले ही लिया जा चुका है।
 
 यहां आप देख सकते हैं कि पहले तीन शब्द उपलब्ध हैं जबकि अगला शब्द किसी को सौंपा गया है।
 
