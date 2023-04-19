@@ -1,5 +1,5 @@
 ---
-title: স্টেটফুল অ্যাপ (Stateful Apps)
+title: স্টেটফুল অ্যাপস (Stateful Apps)
 status: Completed
 category: ধারণা
 tags: ["fundamental", "application", " "]
