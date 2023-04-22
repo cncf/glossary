@@ -2,6 +2,7 @@
 title: सर्वरलेस (Serverless)
 status: Completed
 category: प्रौद्योगिकी
+tags: ["architecture", "", ""]
 ---
 
 ## यह क्या है
