@@ -166,6 +166,9 @@ collaborators:
   - username: Krast76
     permission: push
 
+  - username: sestegra
+    permission: push
+
   # l10n ur approvers
   - username: Saim-Safdar
     permission: push
