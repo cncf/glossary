@@ -17,7 +17,7 @@ agregando [fiabilidad](/es/reliability/), [observabilidad](/observability/) e im
 Cuando se ha migrado a una arquitectura de microservicios, los ingenieros ahora deben lidiar con cientos,
 incluso miles de servicios individuales que necesitan comunicarse.
 Lo que significa que existe mucho tráfico hacia y desde estos servicios a través de la red.
-Sumado a lo anterior, las aplicaciones individuales podrían necesitar encriptar la comunicación para cumplir con requerimientos regulatorios,
+Sumado a lo anterior, las aplicaciones individuales podrían necesitar codificar la comunicación para cumplir con requerimientos legales,
 Proveer métricas a los equipos de operaciones o habilitar información diagnóstica para ayudar a mitigar eventuales problemas.
 Si todas estas funcionalidades se agregaran a cada aplicación,
 cada una causaría una duplicación innecesaria y podría hacer más lento el desarrollo de nuevas funcionalidades.
