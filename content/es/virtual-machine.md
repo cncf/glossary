@@ -32,6 +32,6 @@ Sin la necesidad de tener que comprar nuevo hardware, instalarlo o configurarlo,
 el tiempo de aprovisionamiento de una nueva computadora mejora considerablemente.
 Las máquinas virtuales permiten utilizar los recursos de un hardware existente de mejor manera
 colocando múltiples máquinas virtuales en una misma máquina física.
-Sin estar limitadas a una máquina física específica, las máquinas virtuales también son más resilientes que las físicas.
+Sin estar limitadas a una máquina física específica, las máquinas virtuales aumentan su resiliencia frente a las físicas.
 Cuando una máquina física necesita dejar de funcionar,
 las máquinas virtuales que se estén ejecutando allí pueden ser migradas a otra máquina física con un impacto mínimo en su operatividad.
