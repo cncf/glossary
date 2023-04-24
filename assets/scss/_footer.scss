@@ -15,9 +15,10 @@ footer {
 	.logo-and-hub {
 		display: flex;
 		flex-direction: column;
-		gap: 35px;
+		gap: 10px;
 		width: 100%;
 		@media (min-width: 992px) {
+			gap: 35px;
 			width: unset;
 			flex-direction: row;
 			align-items: center;
@@ -74,7 +75,8 @@ footer {
 	align-content: center;
 	justify-content: center;
 	list-style: none;
-	gap: calc(43px - 15px - 15px);
+	column-gap: calc(43px - 15px - 15px);
+	row-gap: 0;
 	margin-left: auto;
 	margin-right: auto;
 	@media (min-width: 992px) {
