@@ -1,6 +1,6 @@
 ---
 title: 서비스형 컨테이너 (Containers as a Service)
-status: Completed
+status: Deprecated
 category: 기술
 tags: ["플랫폼", "", ""]
 ---
