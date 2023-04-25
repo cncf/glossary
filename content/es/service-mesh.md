@@ -7,10 +7,10 @@ tags: ["networking", "", ""]
 
 ## ¿Qué es?
 
-En el mundo de los [microservicios](/microservices/)], las aplicaciones se dividen en múltiples [servicios](/service/) que se comunican a través de una red.
+En un mundo de [arquitectura de microservicios](/es/microservices-architecture/)], las aplicaciones se dividen en múltiples [servicios](/service/) que se comunican a través de una red.
 Al igual que las redes de wifi, las redes de computadoras son poco confiables, proclives a ser atacadas y en muchos casos lentas.
 Las mallas de servicios afrontan estos nuevos desafíos mediante el manejo de tráfico (por ejemplo la comunicación) entre servicios y
-agregando [fiabilidad](/es/reliability/), [observabilidad](/observability/) e implementaciones de seguridad a todos los servicios.
+agregando [fiabilidad](/es/reliability/), [observabilidad](/es/observability/) e implementaciones de seguridad a todos los servicios.
 
 ## Problema que aborda
 
@@ -18,7 +18,7 @@ Cuando se ha migrado a una arquitectura de microservicios, los ingenieros ahora 
 incluso miles de servicios individuales que necesitan comunicarse.
 Lo que significa que existe mucho tráfico hacia y desde estos servicios a través de la red.
 Sumado a lo anterior, las aplicaciones individuales podrían necesitar codificar la comunicación para cumplir con requerimientos legales,
-Proveer métricas a los equipos de operaciones o habilitar información diagnóstica para ayudar a mitigar eventuales problemas.
+proveer métricas a los equipos de operaciones o proporcionar información detallada sobre el tráfico para ayudar a diagnosticar problemas.
 Si todas estas funcionalidades se agregaran a cada aplicación,
 cada una causaría una duplicación innecesaria y podría hacer más lento el desarrollo de nuevas funcionalidades.
 
