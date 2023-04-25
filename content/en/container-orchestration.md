@@ -18,4 +18,4 @@ Container orchestration allows users to automate all these management tasks.
 Container orchestration tools allow users to determine a system's state. 
 First, they declare how it should look like (e.g., x containers, y pods, etc.).
 The orchestration tool will then automatically monitor the infrastructure and correct it if its state deviates from the declared one (e.g., spin up a new container if one crashes). 
-This automation simplifies many of the engineering teams' otherwise highly manual and complex operational tasks, including provisioning, deployment, scaling (up and down), networking, load balancing, and other activities.
+This automation that container orchestrator provide simplifies many of the engineering teams' otherwise highly manual and complex operational tasks, including provisioning, deployment, scaling (up and down), networking, load balancing, and other activities.
