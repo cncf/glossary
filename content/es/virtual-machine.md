@@ -19,7 +19,7 @@ Las máquinas virtuales se basan en la virtualización.
 Cuando una [máquina bare metal](/es/bare-metal-machine/) utiliza un solo sistema operativo,
 la posibilidad de utilización de sus recursos es limitada.
 Además, cuando un sistema operativo está directamente ligado a una sola máquina física,
-su disponibilidad está directamente ligada a ese hardware.
+su disponibilidad está directamente vinculada a ese hardware.
 Si la máquina física se encontrase fuera de línea debido a tareas de mantenimiento o fallas de hardware, su sistema operativo también lo estará.
 
 ## ¿Cómo ayuda?
