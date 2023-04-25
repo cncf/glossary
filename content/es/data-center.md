@@ -9,8 +9,7 @@ tags: ["infrastructure", "fundamental", ""]
 
 Un centro de datos es un edificio diseñado específicamente para almacenar computadoras, habitualmente referidas como servidores.
 Estos centros de datos suelen estar conectados a líneas de Internet de alta velocidad, especialmente en el caso de los centros de datos para [computación en la nube](/es/cloud-computing/).
-Las edificaciones donde se alojan los centros de datos poseen equipamiento para mantener el servicio incluso en caso de fuerza mayor, como generadores para proveer energía durante apagones,
-y aire acondicionado para la dispersión del calor generado por los servidores.
+Las edificaciones donde se alojan los centros de datos poseen equipamiento para mantener el servicio incluso en caso de fuerza mayor, como generadores para proveer energía durante apagones y aire acondicionado para la dispersión del calor generado por los servidores.
 
 ## Problema que aborda
 
