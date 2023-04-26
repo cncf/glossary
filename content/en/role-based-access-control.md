@@ -13,7 +13,9 @@ Sales and marketing have different permissions based on their roles, hence role-
 
 ## Problem it addresses
 
-Individually managing access permissions to many users in an organization of various system resources and data is very complex considering that each user will have different set of resources the user can access. For instance, if there are 100,000 users and 1,000 resources in an organization, an administrator needs to check whether each user has authority and responsibility for each resource 100,000 times.
+Individually managing access permissions of multiple users across various system resources and data can be complex.
+After all, each user likely needs access to a different set of resources. 
+Let's say an organization has 500 developers (users) and 300 resources with varying permission levels (read, write, and no access). The administrator must ensure each user has the correct permissions for all 300 resources.  
 Therefore, it is necessary to simplify the access control according to role groups based on authority and responsibility.
 
 
