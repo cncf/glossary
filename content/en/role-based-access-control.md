@@ -1,6 +1,6 @@
 ---
 title: Role-Based Access Control (RBAC)
-status: Feedback Appreciated
+status: Completed
 category: concept
 ---
 
