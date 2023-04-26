@@ -15,12 +15,13 @@ All diese Services, die über ein Netzwerk miteinander verbunden sind, stellen e
 ## Welches Problem es löst
 
 Software, die nur auf einem einzelnen Computer läuft, stellt einen Single Point of Failure dar. Business-kritische Systeme können offline gehen, wenn dieser Computer abstürzt oder Jemand aus Versehen den Stecker zieht.
-Daher wird moderne Software grundsätzlich als verteilte Anwendung entwickelt, die als Cluster zusammen gebündelt wird.
 
 ## Wie es das Problem löst
 
-Geclusterte, verteilte Anwendungen laufen über mehrere Maschinen. So wird ein Single Point of Failure vermieden.
-Verteilte Systeme zu bauen ist jedoch schwer.
-Tatsächlich ist es eine eigene Disziplin in der Informatik.
+Moderne Software wird grundsätzlich als verteilte Anwendung entwickelt, die als Cluster zusammengefasst werden und auf mehreren Maschinen laufen.
+
+Das ermöglicht es, automatisiert skalieren zu können. Die Anwendungen werden widerstandsfähig gegen Störungen.
+
 Der Bedarf an global verfügbaren Systemen, und viele Jahre mit "trial and error" führten zur Entwicklung einer neuen Art von Technologie-Stack: [Cloud-native Technologien](/cloud-native-tech/).
+
 Diese neuen Technologien sind die Grundbausteine, die die Erstellung und den Betrieb von verteilten Systemen einfacher machen.
