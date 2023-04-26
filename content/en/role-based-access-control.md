@@ -23,4 +23,4 @@ RBAC simplifies the process by providing predefined access control based on role
 
 RBAC provides granular control over user permissions within software systems. 
 Depending on their roles, team members can modify a section, only view it, or have no access at all. 
-This granular permission allocation allows various team members with different roles to work on the same system without risking.
+This granular permission allocation allows team members with different roles to work on the same system while minimizing risk.
