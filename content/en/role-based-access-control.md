@@ -16,7 +16,7 @@ Sales and marketing have different permissions based on their roles, hence role-
 Individually managing access permissions of multiple users across various system resources and data can be complex.
 After all, each user likely needs access to a different set of resources. 
 Let's say an organization has 500 developers (users) and 300 resources with varying permission levels (read, write, and no access). The administrator must ensure each user has the correct permissions for all 300 resources.  
-Therefore, it is necessary to simplify the access control according to role groups based on authority and responsibility.
+RBAC simplifies the process by providing predefined access control based on role groups.
 
 
 ## How it helps
