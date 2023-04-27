@@ -7,7 +7,7 @@ tags: ["infrastructure", "", ""]
 
 ## ¿Qué es?
 
-La Función como Servicio (FaaS según sus siglas en Inglés) es un tipo de [servicio](/service/) [sin servidor](/es/serverless/) en [computación en la nube](/es/cloud-computing/)
+La Función como Servicio (FaaS según sus siglas en Inglés) es un tipo de [servicio](/service/) [sin servidor](/es/serverless/) en la [computación en la nube](/es/cloud-computing/)
 que permite ejecutar código como respuesta a ciertos eventos
 sin necesidad de mantener infraestructura compleja
 típicamente asociada con la creación y lanzamiento de aplicaciones en [arquitectura de microservicios](/es/microservices-architecture/).
@@ -21,9 +21,10 @@ Esta organización debe invertir en servidores, almacenamiento, software y otras
 y potencialmente contratar un equipo de TI o contratistas para comprar, manejar y actualizar todo el equipamiento y sus licencias.
 El centro de datos tiene que ser construido para soportar grandes demandas, incluso cuando la carga de trabajo se vea disminuida y los equipos se utilizan muy por debajo de su capacidad.
 En caso contrario si la organización crece, el equipo contratado podría no cubrir la demanda.
-Bajo un modelo estándar de computación en la nube basado en [Infraestructura-como-Servicio (IaaS)](/es/infrastructure-as-a-service/),
+Bajo un modelo estándar de computación en la nube basado en [Infraestructura como Servicio (IaaS)](/es/infrastructure-as-a-service/),
 los usuarios pueden contratar de antemano unidades de capacidad, es decir, pagando a un proveedor de nube pública por componentes de un servidor que siempre está encendido para ejecutar una serie de aplicaciones.
-Es responsabilidad del usuario aumentar la capacidad del servidor durante tiempos de gran demanda y reducirla cuando no es necesaria.
+Es responsabilidad del usuario aumentar la capacidad del servidor durante tiempos de gran demanda
+y reducirla cuando no es necesaria.
 La infraestructura de la nube necesaria para ejecutar una aplicación está encendida incluso cuando la aplicación no está siendo utilizada.
 
 ## ¿Cómo ayuda?
