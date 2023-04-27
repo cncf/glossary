@@ -7,14 +7,15 @@ tags: ["fundamental", "application", ""]
 
 ## What it is
 
-Stateless applications operate independently of past interactions and user session data (referred to as state)
-Each session is carried out as if it was the first time, and responses are not dependent upon data from a previous session. 
-The application processes the request and immediately "forgets" about it.
+Stateless applications process requests as if they were their first. 
+The app doesn't "remember" previous interactions or user session data. 
+Data from previous interactions is referred to as state, and since that data isn't stored anywhere, these apps are state*less*. 
 In short, stateless apps lack permanent storage. 
-Hence state**less**, no state (data) is stored locally.
 Here's an example. 
 When you use a search engine, and that search is interrupted (e.g., the window is closed), those search results are lost. 
 You'll need to start your search again.
+
+On the other hand, applications that process requests while considering previous interactions are called [stateful applications](/stateful-apps/). 
 
 ## Problem it addresses
 
