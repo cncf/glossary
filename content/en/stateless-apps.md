@@ -9,7 +9,7 @@ tags: ["fundamental", "application", ""]
 
 Stateless applications operate independently of past interactions and user session data (referred to as state)
 Each session is carried out as if it was the first time, and responses are not dependent upon data from a previous session. 
-it processes the request and immediately forgets the information once the request is processed. 
+The application processes the request and immediately "forgets" about it.
 In short, stateless apps lack permanent storage. 
 Hence state**less**, no state (data) is stored locally.
 Each utilization of the application is treated as an isolated session, 
