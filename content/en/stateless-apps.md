@@ -13,7 +13,9 @@ it processes the request and immediately forgets the information once the reques
 In short, stateless apps lack permanent storage. 
 Hence state**less**, no state (data) is stored locally.
 Each utilization of the application is treated as an isolated session, 
-For instance, consider someone using a search engine to find an answer. 
+Here's an example. 
+When you use a search engine, and that search is interrupted (e.g., the window is closed), those search results are lost. 
+You'll need to start your search again.
 If their search is interrupted or the window is closed, 
 they must start a new search because there is no saved information from their previous attempt.
 
