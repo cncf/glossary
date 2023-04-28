@@ -19,7 +19,7 @@ On the other hand, applications that process requests while considering previous
 
 ## Problem it addresses
 
-Stateful applications (applications that **do** save session data) are composed of multiple pods distributed across a [cluster](/cluster/). 
+Stateful applications (applications that *do* save session data) are composed of multiple pods distributed across a [cluster](/cluster/). 
 To function correctly, they must be aware of each other. 
 If one pod processes a request, the other pods must have access to that data to take it into account when they process the next request. 
 That brings some challenges. 
