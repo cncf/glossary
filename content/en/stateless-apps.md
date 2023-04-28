@@ -19,14 +19,14 @@ On the other hand, applications that process requests while considering previous
 
 ## Problem it addresses
 
-Stateless applications tackle the problem of resiliency, 
-because different pods across a [cluster](/cluster/) can work independently, 
-with multiple requests coming to them at the same time. 
-If there’s a problem, you can easily restart the application, 
-and it will return to its initial state with little or no downtime. 
-As such, the benefits of stateless applications include resiliency, elasticity, and high availability. 
-However, most applications we use today are at least partly [stateful](/stateful-apps/), 
-as they store things like preferences and settings to improve the user experience.
+Stateful applications (applications that **do** save session data) are composed of multiple pods distributed across a [cluster](/cluster/). 
+To function correctly, they must be aware of each other. 
+If one pod processes a request, the other pods must have access to that data to take it into account when they process the next request. 
+That brings some challenges. 
+Pods must constantly communicate to ensure they are all in sync for a seamless user experience. 
+However, networks are inherently unreliable. Also, session data is lost if there’s a problem and the application restarts. 
+In short, stateful apps are less resilient. 
+That being said, most applications today are at least partly stateful as they must store preferences and settings to improve the user experience.
 
 ## How it helps
 
