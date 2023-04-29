@@ -13,7 +13,7 @@ Una herramienta de descubrimiento de servicio mantiene una lista de varios nodos
 ## Problema que aborda
 
 Las arquitecturas cloud native son dinámicas y fluidas, es decir que están en constante cambio.
-Una aplicación [contenerizada](/es/containerization/) se ejecutará y detendrá varias veces en su tiempo de vida.
+Una aplicación [contenedorizada](/es/containerization/) se ejecutará y detendrá varias veces en su tiempo de vida.
 Cada vez que eso sucede, obtendrá una nueva dirección y
 cualquier otra aplicación que quiera encontrarla necesita una herramienta que provea su nueva dirección.
 
