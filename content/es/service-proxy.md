@@ -27,4 +27,4 @@ Actuando como protectores de entrada entre servicios, los intermediarios proveen
 Basados en dicho panorama, ellos determinan dónde enviar una petición particular o delegarla por completo.
 
 Los intermediarios colectan información crítica, manejan el enrutamiento (distribuyendo el tráfico equitativamente entre servicios o redirigiendo el mismo si algún servicio se rompiera),
-encriptan conexiones y acumulan contenido (reduciendo el consumo de recursos).
+se encargan de la encriptación de conexiones y acumulan contenido (reduciendo el consumo de recursos).
