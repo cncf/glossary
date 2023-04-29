@@ -26,5 +26,5 @@ En reemplazo, ahora será parte de la capa de plataforma (donde la aplicación s
 Actuando como protectores de entrada entre servicios, los intermediarios proveen un panorama del tipo de comunicación que sucede.
 Basados en dicho panorama, ellos determinan dónde enviar una petición particular o delegarla por completo.
 
-Los intermediarios colectan información crítica, manejan enrutamientos (distribuyendo el tráfico equitativamente entre servicios o redirigiendo el mismo si algún servicio se rompiera),
+Los intermediarios colectan información crítica, manejan el enrutamiento (distribuyendo el tráfico equitativamente entre servicios o redirigiendo el mismo si algún servicio se rompiera),
 encriptan conexiones y acumulan contenido (reduciendo el consumo de recursos).
