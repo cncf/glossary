@@ -9,6 +9,7 @@ tags: ["infrastructure", "fundamental", ""]
 
 In [cloud native computing](/cloud-computing/), a "pod" is a basic building block for deploying and managing containerized applications. 
 A pod represents a single instance of an application, and can contain one or more [containers](/container/).
+[Kubernetes](/kubernetes/) manages pods as part of a larger deployment, and can scale pods up or down depending on the application's resource requirements.
 
 ## Problem it addresses
 
@@ -29,5 +30,5 @@ This can simplify deployment, scaling, and monitoring of applications.
 
 Portability: Pods can be easily moved between different hosts or cloud providers, which allows for greater flexibility and portability of applications.
 
-Overall, pods are a key concept in cloud native computing, and provide a powerful tool for deploying and managing containerized applications.
+Overall, pods are a key concept in Kubernetes, and provide a powerful tool for deploying and managing containerized applications in a scalable and efficient way.
 
