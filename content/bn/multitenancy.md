@@ -24,10 +24,8 @@ tags: ["architecture", "property", ""]
 বহু মালিকানা (multitenancy) সফ্টওয়্যার (software) প্রতিটি ভাড়াটেকে একটি পৃথক পরিবেশ (কাজের ডেটা, সেটিংস (settings), প্রমাণপত্রের তালিকা, ইত্যাদি) প্রদান করে, একই সাথে একাধিক ভাড়াটেদের পরিবেশন করে। ভাড়াটেদের দৃষ্টিকোণ থেকে, প্রত্যেকেরই নিরধারিত সফ্টওয়্যার (software) ইনস্টলেশন (installation) রয়েছে, যদিও বাস্তবে, তারা সবাই ভাগ করে নিচ্ছে।
 একটি সার্ভারে (server) সফ্টওয়্যার (software) চালানোর মাধ্যমে এবং ভাড়াটেদের একটি নেটওয়ার্কের মাধ্যমে ইন্টারফেস (interface) এবং/অথবা একটি [API](/bn/application-programming-interface/) (এছাড়াও পড়ুন [ক্লায়েন্ট-সার্ভার আর্কিটেকচার (Client-Server Architecture)](/bn/client-server-architecture/)) এর মাধ্যমে  এটির সাথে সংযোগ করার অনুমতি দিয়ে এটি অর্জন করা হয়।
 বহু মালিকানা (multitenancy) সফ্টওয়্যারের (software) দ্বারা, ভাড়াটেরা একে অপরকে প্রভাবিত না করে বা শুধুমাত্র পূর্বনির্ধারিত এবং নিয়ন্ত্রিত উপায়ে একটি ইনস্টলেশনের (installation) মাধ্যমে সম্পদ ভাগ করে দেয়।
-The resulting resource savings on the software provider's side can be passed on to the tenants, significantly reducing the software cost for users (again, think web-based e-mail or document editors).
 সফ্টওয়্যার (software) প্রদানকারীর পক্ষ থেকে সম্পদের সঞ্চয়গুলি ভাড়াটেদের কাছে প্রেরণ করা যেতে পারে, ব্যবহারকারীদের জন্য সফ্টওয়্যার (software) খরচ উল্লেখযোগ্যভাবে হ্রাস করে (আবার মনে করুন, ওয়েব-ভিত্তিক (web-based) ই-মেইল (e-mail) বা ডকুমেন্ট সম্পাদক (document editors))।
 
 ## সম্পর্কিত পদ
 
-Multitenancy is not synonymous with [SaaS](/software-as-a-service/), although it is very common for SaaS to be multitenant and even to feature multitenancy as one of its core benefits.
-বহু মালিকানা (multitenancy) [SaaS](/software-as-a-service/) এর সমার্থক নয়, যদিও SaaS-এর বহু মালিকানা (multitenancy) হওয়া খুবই সাধারণ এবং এমনকি বহু মালিকানার (multitenancy) বৈশিষ্ট্য গুলি এর মূল সুবিধাগুলির মধ্যে একটি।
+বহু মালিকানা (multitenancy) [SaaS](/bn/software-as-a-service/) এর সমার্থক নয়, যদিও SaaS-এর বহু মালিকানা (multitenancy) হওয়া খুবই সাধারণ এবং এমনকি বহু মালিকানার (multitenancy) বৈশিষ্ট্য গুলি এর মূল সুবিধাগুলির মধ্যে একটি।
