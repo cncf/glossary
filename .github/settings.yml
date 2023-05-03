@@ -36,6 +36,9 @@ collaborators:
   - username: iamNoah1
     permission: maintain  
   
+  - username: thetwopct
+    permission: push
+
   # English approvers (approver for all files in repository)
 
   
@@ -127,6 +130,9 @@ collaborators:
   # l10n es approvers
   - username: raelga
     permission: push
+
+  - username: ramrodo
+    permission: push
     
   - username: electrocucaracha
     permission: push
@@ -158,6 +164,9 @@ collaborators:
     permission: push
 
   - username: Krast76
+    permission: push
+
+  - username: sestegra
     permission: push
 
   # l10n ur approvers
@@ -335,6 +344,7 @@ branches:
         # es approvers
         users:
          - raelga
+         - ramrodo
          - electrocucaracha
          - krol3
          - 92nqb
