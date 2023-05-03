@@ -13,7 +13,7 @@ Les nœuds sont programmés pour atteindre un objectif commun et échangent des 
 
 ## Problème auquel il répond
 
-De nos jours, de nombreuses applications modernes sont si conséquentes de par leur taille qu'elles nécessiteraient de superordinateurs afin de pouvoir fonctionner.
+De nos jours, de nombreuses applications modernes sont si conséquentes de par leur taille qu'elles nécessiteraient des superordinateurs afin de pouvoir fonctionner.
 Pensez à Gmail ou Netflix: il n'existe aucune machine physique suffisamment puissante pour héberger ces applications dans leur intégralité.
 En connectant entre elles de multiples machines physiques, la puissance de calcul devient quasiment infinie.
 Sans calcul distribué, beaucoup d'applications sur lesquelles nous nous appuyons aujourd'hui ne pourraient pas exister.
