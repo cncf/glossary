@@ -143,7 +143,7 @@ collaborators:
   - username: 92nqb
     permission: push
 
-  # l10n zh approvers
+  # l10n zh-ch approvers
   - username: hanyuancheung
     permission: push
 
@@ -174,6 +174,13 @@ collaborators:
     permission: push
 
   - username: waleed318
+    permission: push
+
+  # l10n zh-tw approvers
+  - username: pichuang
+    permission: push
+
+  - username: ydFu
     permission: push
 
 
@@ -352,7 +359,7 @@ branches:
       enforce_admins: null
       required_linear_history: null
 
-  # l10n branch for zh contents only
+  # l10n branch for zh-ch contents only
   - name: dev-zh
     protection:
       required_pull_request_reviews:
@@ -361,7 +368,7 @@ branches:
       required_status_checks: null
       restrictions:
         apps: []
-        # zh approvers
+        # zh-ch approvers
         users:
          - hanyuancheung
          - Jacob953
@@ -402,6 +409,23 @@ branches:
         users:
          - Saim-Safdar
          - waleed318
+        teams: []
+      enforce_admins: null
+      required_linear_history: null
+
+  # l10n branch for zh-tw contents only
+  - name: dev-tw
+    protection:
+      required_pull_request_reviews:
+        required_approving_review_count: 2
+        require_code_owner_reviews: true
+      required_status_checks: null
+      restrictions:
+        apps: []
+        # zh-tw approvers
+        users:
+         - pichuang
+         - ydFu
         teams: []
       enforce_admins: null
       required_linear_history: null
