@@ -143,7 +143,7 @@ collaborators:
   - username: 92nqb
     permission: push
 
-  # l10n zh-ch approvers
+  # l10n zh-cn approvers
   - username: hanyuancheung
     permission: push
 
@@ -359,7 +359,7 @@ branches:
       enforce_admins: null
       required_linear_history: null
 
-  # l10n branch for zh-ch contents only
+  # l10n branch for zh-cn contents only
   - name: dev-zh
     protection:
       required_pull_request_reviews:
@@ -368,7 +368,7 @@ branches:
       required_status_checks: null
       restrictions:
         apps: []
-        # zh-ch approvers
+        # zh-cn approvers
         users:
          - hanyuancheung
          - Jacob953
