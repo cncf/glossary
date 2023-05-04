@@ -105,7 +105,7 @@ jobs:
         
         for FILE in ${FILE_LIST}; do 
           FILE_NAME="${FILE#${OUTPUT_DIR}}" 
-          echo "- ${FILE_NAME}" >> report.md
+          echo "- [ ] ${FILE_NAME}" >> report.md
         done 
         
         echo "" >> report.md
@@ -115,7 +115,7 @@ jobs:
         for FILE in ${FILE_LIST}; do 
           FILE_NAME="${FILE#${OUTPUT_DIR}}" 
 
-          echo "- [ ] ${FILE_NAME}" >> report.md
+          echo "#### ${FILE_NAME}" >> report.md
           echo "- en: https://github.com/${{ github.repository }}/blob/main/content/en/${FILE_NAME}" >> report.md
           echo "- ${{ env.L10N_CODE }}: https://github.com/${{ github.repository }}/blob/dev-${{ env.L10N_CODE }}/${{ env.L10N_DIR }}${FILE_NAME}" >> report.md
           echo "" >> report.md
