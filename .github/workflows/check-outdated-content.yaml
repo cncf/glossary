@@ -41,12 +41,12 @@ jobs:
         # Set L10n directory and code
         case "${L10N_BRANCH}" in
           dev-ko)          
-          L10N_DIR="./content/ko/"
+          L10N_DIR="content/ko/"
           L10N_CODE="ko"
           ;;
           
           #dev-pt)
-          #L10N_DIR="./content/pt-br/"
+          #L10N_DIR="content/pt-br/"
           #L10N_CODE="pt"
           #;;
         esac
@@ -95,16 +95,25 @@ jobs:
         # The old branch can be 'upstream/dev-ko'
         OLD_BRANCH="origin/${{github.base_ref}}"
         echo "(DUBUG) OLD_BRANCH: ${OLD_BRANCH}"
+
+        L10N_INFO_JSON=$(cat <<EOF
+        {
+          "L10N_DIR": "${L10N_DIR}",
+          "L10N_CODE": "${L10N_CODE}"
+        }
+        EOF
+        )
         
         # Make an output directory
         if [[ ! -e $OUTPUT_DIR ]]; then
             mkdir $OUTPUT_DIR
+            echo "${L10N_INFO_JSON}" > ${OUTPUT_DIR}/L10N_INFO.json
         elif [[ ! -d $OUTPUT_DIR ]]; then
             echo "$OUTPUT_DIR already exists but is not a directory" 1>&2
         fi
         
         # Check outdated only if a localized content exists
-        # Loop files in a localization directory, which is ${L10N_DIR} (e.g., ./content/ko/)
+        # Loop files in a localization directory, which is ${L10N_DIR} (e.g., content/ko/)
         echo "(DEBUG) Check outdated"
         for L10N_FILE_PATH in $(find ${L10N_DIR} -name '*.md'); do
             echo "(DEBUG) L10N_FILE_PATH: ${L10N_FILE_PATH}"      
