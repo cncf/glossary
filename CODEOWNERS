@@ -36,7 +36,7 @@
 # Approvers for Spanish contents
 /content/es/ @raelga @ramrodo @electrocucaracha @krol3 @92nqb
 
-# Approvers for Chinese contents
+# Approvers for Simplified Chinese contents
 /content/zh-cn/ @hanyuancheung @Jacob953 @Rocksnake @Submarinee
 
 # Approvers for French contents
@@ -44,3 +44,6 @@
 
 # Approvers for Urdu contents
 /content/ur/ @Saim-Safdar @waleed318
+
+# Approvers for Traditional Chinese contents
+/content/zh-tw/ @pichuang @ydFu
