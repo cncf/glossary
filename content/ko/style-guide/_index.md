@@ -1,6 +1,7 @@
 ---
 title: 스타일 가이드
 toc_hide: true
+status: Completed
 menu:
   main:
     weight: 10

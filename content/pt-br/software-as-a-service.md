@@ -2,6 +2,7 @@
 Title: Software como Serviço
 Status: Completed
 Category: tecnologia
+tags: ["fundamentos", "plataforma", ""]
 ---
 
 ## O que é

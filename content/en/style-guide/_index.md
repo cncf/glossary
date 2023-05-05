@@ -1,6 +1,7 @@
 ---
 title: Style Guide
 toc_hide: true
+status: Completed
 menu:
   main:
     weight: 10
@@ -26,6 +27,15 @@ Additionally, it follows the following rules:
 
 The Glossary is written for a technical AND non-technical audience. 
 Please ensure definitions are explained in simple terms and don’t assume technical knowledge. More do that below under Definition. 
+
+## Minimal Viable Definition 
+
+Our goal is to make it really easy for anyone to understand cloud native terms. 
+As such, we focus on simplicity. 
+That means using clear and simple language with examples anyone who uses technology can relate to (more to that below) but also providing a *minimal viable definition*, at least from a technical point of view. 
+We don't want to save on context and examples — after all, those things help the reader understand the concept — but if a technical detail is not needed to understand it, we'll skip it. 
+The goal is not to overcomplicate things. Once the reader understands the basic concept, other resources will help them dig deeper. 
+That part is out of the scope of this Glossary. 
 
 ## Definition Template
 
@@ -78,19 +88,31 @@ title: Definition Template
 status: Feedback Appreciated
 ```
 
-### Category
+### Tags
 
-The **category** label will come after the status label. Its value should be one of the following values:
+The **tag** label follows the status label. 
+For the tags to be meaningful and thus helpful to the user, we will use them in a strict sense. 
+Applying too many tags will only delute its meaning. 
+With the exception of "fundamental," which simply indicates this term is needed to understand other cloud native concepts, most terms will likely only have one tag.
 
-- Technology
-- Property
-- Concept
+**Note**: Please do not introduce new tags unless approved by the maintainers. When you add tags to an entry, ensure they are spelled exactly as listed below (singular, no typos).
+
+The current tags are:
+
+- application
+- architecture
+- fundamental
+- infrastructure
+- methodology
+- networking
+- property
+- security
 
 ```md
 ---
 title: Definition Template
 status: Feedback Appreciated
-category: Concept
+tags: ["tag 1"], ["tag 2"]
 ---
 ```
 

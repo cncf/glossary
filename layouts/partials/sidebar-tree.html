@@ -46,7 +46,7 @@
 {{ $activePath := and (not $shouldDelayActive) ($p.IsDescendant $s) -}}
 {{ $show := cond (or (lt $ulNr $ulShow) $activePath (and (not $shouldDelayActive) (eq $s.Parent $p.Parent)) (and (not $shouldDelayActive) (eq $s.Parent $p)) (not $p.Site.Params.ui.sidebar_menu_compact) (and (not $shouldDelayActive) ($p.IsDescendant $s.Parent))) true false -}}
 {{ $mid := printf "m-%s" ($s.RelPermalink | anchorize) -}}
-{{ $pages_tmp := (where $s.Pages ".Params.status" "Completed") | union (where $s.Pages ".Params.status" "completed") -}}
+{{ $pages_tmp := ( (where $s.Pages ".Params.status" "Completed") | union (where $s.Pages ".Params.status" "completed") ) | intersect (where $s.Pages ".Params.toc_hide" "!=" true) -}}
 {{ $pages := $pages_tmp -}}
 {{ $withChild := gt (len $pages) 0 -}}
 {{ $manualLink := cond (isset $s.Params "manuallink") $s.Params.manualLink ( cond (isset $s.Params "manuallinkrelref") (relref $s $s.Params.manualLinkRelref) $s.RelPermalink) -}}

@@ -2,6 +2,7 @@
 title: Contêinerização
 status: Completed
 category: tecnologia
+tags: ["aplicação", "", ""]
 ---
 
 ## O que é

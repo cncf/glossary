@@ -1,6 +1,7 @@
 ---
 title: 贡献者阶梯
 toc_hide: true
+status: Completed
 menu:
   main:
     weight: 10

@@ -1,5 +1,5 @@
 ---
-title: क्लाउड नेटिव प्रौद्योगिकी
+title: क्लाउड नेटिव प्रौद्योगिकी (Cloud Native Tech)
 status: Completed
 category: अवधारणा
 ---
