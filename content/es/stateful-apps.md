@@ -9,7 +9,7 @@ tags: ["fundamental", "application", ""]
 
 Cuando hablamos de aplicaciones con estado (y [sin estado](/stateless-apps/)),
 ese estado refiere a cualquier dato que la aplicación necesita almacenar para funcionar.
-Por ejemplo, cualquier tipo de sitio de ventas en línea que recuerda tu carrito de compras es una aplicación con estado.
+Por ejemplo, cualquier tipo de sitio de ventas en línea que recuerda tu carro de compras es una aplicación con estado.
 
 ## Problema que aborda
 
