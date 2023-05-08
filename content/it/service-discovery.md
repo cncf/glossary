@@ -7,14 +7,14 @@ tags: ["networking", "", ""]
 
 ## Che cos'è
 
-Il service discovery è il processo di individuare le singole istanze che compongono un servizio.
+Il service discovery è il processo di individuazione delle singole istanze che compongono un servizio.
 Uno strumento di service discovery tiene traccia dei vari nodi o endpoint che compongono un servizio.
 
 ## Quali problematiche affronta
 
 Le architetture cloud native sono dinamiche e fluide, ossia sono in costante cambiamento.
 Un'applicazione [containerizzata](/it/containerization/) probabilmente partirà e si fermerà più volte durante il suo ciclo di vita.
-Ogni volta che ciò accade, l'applicazione avrà un nuovo indirizzo e ogni altra applicazione che vuole individuarla avrà bisogno di un servizio che fornisca le informazioni circa il suo nuovo indirizzo.
+Ogni volta che ciò accadrà, l'applicazione avrà un nuovo indirizzo: qualunque altra applicazione che vorrà individuarla avrà bisogno di un servizio che possa fornire le informazioni circa il suo nuovo indirizzo.
 
 ## In che modo aiuta
 
