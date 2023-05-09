@@ -10,7 +10,7 @@ Con un sistema dotato di autoscaling, le risorse sono automaticamente aggiunte a
 Il processo di autoscaling è variabile, ed è configurabile per modificare le risorse di un sistema in base a più metriche, come la memoria o il tempo di computazione.
 I [managed service](/it/managed-service/) sono classicamente associati a funzionalità di autoscaling, dal momento che offrono più opzioni e implementazioni della maggior parte dei sistemi on-premise.
 
-In passato le infrastrutture e le applicazioni erano pensate perchè le loro architetture potessero soddisfare persino i picchi di utilizzo dei sistemi. Questo comportava l'impiego di molte risorse in maniera non elastica, cioè che non cambiavano a seconda del numero di richieste degli utenti.
+In passato le infrastrutture e le applicazioni erano pensate perché le loro architetture potessero soddisfare persino i picchi di utilizzo dei sistemi. Questo comportava l'impiego di molte risorse in maniera non elastica, cioè che non variavano accordandosi al numero di richieste degli utenti.
 Questa mancanza di elasticità comportava maggiori costi di business e/o perdita di business in caso di disservizi dovuti a un sovraccarico di richieste.
 
 Sfruttando il cloud, la [virtualizzazione](/it/virtualization/), e la [containerizzazione](/it/containerization/) delle applicazioni e delle rispettive dipendenze, 
