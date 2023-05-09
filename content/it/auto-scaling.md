@@ -11,7 +11,7 @@ Il processo di autoscaling è variabile, ed è configurabile per modificare le r
 I [managed service](/it/managed-service/) sono classicamente associati a funzionalità di autoscaling, dal momento che offrono più opzioni e implementazioni della maggior parte dei sistemi on-premise.
 
 In passato le infrastrutture e le applicazioni erano pensate perchè le loro architetture potessero soddisfare persino i picchi di utilizzo dei sistemi. Questo comportava l'impiego di molte risorse in maniera non elastica, cioè che non cambiavano a seconda del numero di richieste degli utenti.
-Questa non elasticità comportava maggiori costi di business e/o perdità di business in caso di disservizi dovuti a un sovraccarico di richieste.
+Questa mancanza di elasticità comportava maggiori costi di business e/o perdita di business in caso di disservizi dovuti a un sovraccarico di richieste.
 
 Sfruttando il cloud, la [virtualizzazione](/it/virtualization/), e la [containerizzazione](/it/containerization/) delle applicazioni e delle rispettive dipendenze, 
 le organizzazioni possono sviluppare applicazioni scalabili in relazione alla portata delle richieste degli utenti.
