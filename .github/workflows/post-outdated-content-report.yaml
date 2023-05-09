@@ -1,16 +1,16 @@
-# This workflow will post outdated terms report
+# This workflow will post a report of outdated content
 # by using data from previous workflows. 
-name: Post outdated terms report
+name: Post outdated content report
 
 on:
   workflow_run:
-    workflows: ["Check outdated terms"]
+    workflows: ["Check outdated content"]
     types:
       - completed
       
 jobs:
   post-outdated-report:
-    name: Post outdated terms report
+    name: Post outdated content report
     
     if: ${{ github.event.workflow_run.conclusion == 'success' }}
     
@@ -53,37 +53,42 @@ jobs:
       uses: dawidd6/action-download-artifact@v2
       with:
         github_token: ${{secrets.GITHUB_TOKEN}}
-        workflow: check-outdated-terms.yaml
+        workflow: check-outdated-content.yaml
         workflow_conclusion: success
         
     - name: Set up environment variables from the output
       shell: bash
       run: |
+        echo "(DEBUG) Install 'jq' to read json"
+        sudo apt-get install -y jq
+
         echo "(DEBUG) Display files and directories"
         tree
         
         # Set the last changed directory as the output directory
         OUTPUT_DIR=$(ls -tp | head -1)
         
-        # Extract L10N code from the directory name
-        # ${MYVAR%%-*}: retain the part before the first '-'
-        L10N_CODE=${OUTPUT_DIR%%-*}
+        # Read L10N_DIR and L10N_CODE from L10N_INFO.json
+        L10N_DIR=$(jq -r '.L10N_DIR' < ${OUTPUT_DIR}/L10N_INFO.json)
+        L10N_CODE=$(jq -r '.L10N_CODE' < ${OUTPUT_DIR}/L10N_INFO.json)
         
-        # Count outdated terms 
-        OUTDATED_TERMS_COUNT=$(ls $OUTPUT_DIR | wc -l)
+        # Count outdated content
+        OUTDATED_CONTENT_COUNT=$(ls $OUTPUT_DIR | wc -l)
         
         echo "(DEBUG) OUTPUT_DIR: ${OUTPUT_DIR}"
+        echo "(DEBUG) L10N_DIR: ${L10N_DIR}"
         echo "(DEBUG) L10N_CODE: ${L10N_CODE}"
-        echo "(DEBUG) OUTDATED_TERMS_COUNT: ${OUTDATED_TERMS_COUNT}"
+        echo "(DEBUG) OUTDATED_CONTENT_COUNT: ${OUTDATED_CONTENT_COUNT}"
         
-        # Set OUTPUT_DIR, L10N_CODE, and OUTDATED_TERMS_COUNT as environment variables
+        # Set OUTPUT_DIR, L10N_DIR, L10N_CODE, and OUTDATED_CONTENT_COUNT as environment variables
         # Ref: https://docs.github.com/en/actions/using-workflows/workflow-commands-for-github-actions#setting-an-environment-variable
         echo "OUTPUT_DIR=${OUTPUT_DIR}" >> $GITHUB_ENV
+        echo "L10N_DIR=${L10N_DIR}" >> $GITHUB_ENV
         echo "L10N_CODE=${L10N_CODE}" >> $GITHUB_ENV
-        echo "OUTDATED_TERMS_COUNT=${OUTDATED_TERMS_COUNT}" >> $GITHUB_ENV
+        echo "OUTDATED_CONTENT_COUNT=${OUTDATED_CONTENT_COUNT}" >> $GITHUB_ENV
         
     - name: Generate a report markdown
-      if: ${{ env.OUTDATED_TERMS_COUNT > 0 }}
+      if: ${{ env.OUTDATED_CONTENT_COUNT > 0 }}
       shell: bash
       run: |
         FILE_LIST=$(find ${OUTPUT_DIR} -name '*.md')
@@ -92,39 +97,57 @@ jobs:
         touch report.md
         
         # Generate markdown
-        echo "NOTICE - The following outdated terms must be resolved before the next L10n branch updates." >> report.md
+        echo "This is an issue to track and reflect updates of English content. Please, check the files below as they may have been improved." >> report.md
         echo "" >> report.md
-        echo "### Outdated files" >> report.md
+        echo "NOTICE - The following outdated content should be resolved before the next L10n branch updates." >> report.md
+        echo "" >> report.md
+        echo "### Files to check" >> report.md
         
         for FILE in ${FILE_LIST}; do 
           FILE_NAME="${FILE#${OUTPUT_DIR}}" 
-          echo "- ${FILE_NAME}" >> report.md
+          echo "- [ ] ${FILE_NAME}" >> report.md
         done 
         
         echo "" >> report.md
         
-        echo "### Details" >> report.md
+        echo "### Changes in each file" >> report.md
         
         for FILE in ${FILE_LIST}; do 
           FILE_NAME="${FILE#${OUTPUT_DIR}}" 
 
-          echo "Outdated file: ${FILE_NAME}" >> report.md
+          echo "#### ${FILE_NAME}" >> report.md
+          echo "- en: https://github.com/${{ github.repository }}/blob/main/content/en/${FILE_NAME}" >> report.md
+          echo "- ${{ env.L10N_CODE }}: https://github.com/${{ github.repository }}/blob/dev-${{ env.L10N_CODE }}/${{ env.L10N_DIR }}${FILE_NAME}" >> report.md
           echo "" >> report.md
-          echo "\`\`\`diff" >> report.md 
-          cat ${FILE} >> report.md      
-          echo "\`\`\`" >> report.md 
-          echo "" >> report.md
-          
+
+          # The collapsible section is applied to improve the readability of the report. 
+          # Apply collapsible section in case the number of lines is greater than 20.
+          LINES=$(wc -l < ${FILE})
+          if [[ "$LINES" -gt "20" ]]; then
+            echo "<details>" >> report.md
+            echo "<summary><b>Diff in detail</b></summary>" >> report.md
+            echo "" >> report.md
+            echo "\`\`\`diff" >> report.md 
+            cat ${FILE} >> report.md      
+            echo "\`\`\`" >> report.md 
+            echo "</details>" >> report.md
+            echo "" >> report.md
+          else
+            echo "\`\`\`diff" >> report.md 
+            cat ${FILE} >> report.md      
+            echo "\`\`\`" >> report.md 
+            echo "" >> report.md
+          fi
+        
         done 
         
-        echo "The end of report"  >> report.md
+        echo "The end of report" >> report.md
         
     - name: Create an issue from the report
       uses: peter-evans/create-issue-from-file@v4
       with:
-        title: "[${{ env.L10N_CODE }}] A report to track update"
+        title: "[${{ env.L10N_CODE }}] A report to track and reflect updates of English content"
         content-filepath: report.md
         labels: |
           outdated
-          good first issue
           lang/${{ env.L10N_CODE }}
