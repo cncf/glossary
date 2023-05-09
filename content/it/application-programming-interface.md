@@ -17,7 +17,7 @@ Avere un limite alle interazioni aiuta a creare una comunicazione stabile e funz
 Man mano che le applicazioni diventano sempre più complesse, piccoli cambiamenti nel codice possono avere un effetto dirompente su altre funzionalità.
 Le applicazioni hanno bisogno di un approccio modulare alle loro funzionailtà se vogliono crescere e allo stesso tempo mantenere la stabilità.
 Senza API mancherebbe un framework per l'interazione tra applicazioni.
-Senza un framework condiviso, per le applicazioni è difficile [scalare](/it/scalability/) e integrarsi.
+Senza un framework condiviso, per le applicazioni è difficile implementare la [scalabilità](/it/scalability/) e integrarsi.
 
 ## In che modo aiuta
 
