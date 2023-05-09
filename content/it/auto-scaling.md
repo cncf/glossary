@@ -15,7 +15,7 @@ Questa mancanza di elasticità comportava maggiori costi di business e/o perdita
 
 Sfruttando il cloud, la [virtualizzazione](/it/virtualization/), e la [containerizzazione](/it/containerization/) delle applicazioni e delle rispettive dipendenze, 
 le organizzazioni possono sviluppare applicazioni scalabili in relazione alla portata delle richieste degli utenti.
-Possono inoltre monitorare l'utilizzo delle applicazioni e sfruttare la loro scalabilità, offrendo così una esperienza ottimale all'utente. Si consideri ad esempio l'aumento dei fruitori che Netflix deve affrontare il venerdì sera. 
+Possono inoltre monitorare l'utilizzo delle applicazioni e sfruttare la loro scalabilità, offrendo così un'esperienza ottimale all'utente. Si consideri ad esempio l'aumento dei fruitori che Netflix deve affrontare il venerdì sera. 
 Con *Autoscaling out* si intende l'aggiunta dinamica di nuove risorse, come ad esempio: l'aumento del numero di server che permettano più streaming video concorrenti, server che potranno poi essere terminati una volta che il flusso si sarà normalizzato.
 
 ## Voci collegate
