@@ -26,13 +26,11 @@ That brings some challenges.
 Pods must constantly communicate to ensure they are all in sync for a seamless user experience. 
 However, networks are inherently unreliable. Also, session data is lost if there’s a problem and the application restarts. 
 In short, stateful apps are less resilient. 
-That being said, most applications today are at least partly stateful as they must store preferences and settings to improve the user experience.
 
 ## How it helps
 
-Boiling everything down, in a Stateless Application the only thing your cluster is responsible for is 
-the code, and other static content, being hosted on it. 
-That’s it, no changing databases, no writes and no left over files when the pod is deleted. 
-Stateless [containers](/container/) are easier to deploy, 
-and you don’t need to worry about saving container data on persistent storage volumes. 
-You also don't have to worry about backing up the data.
+Put simply, in a stateless application, the cluster is only responsible for the code and some static content hosted on it. 
+That's it. No changing databases. No writes. 
+And no leftover files when the pod is deleted. 
+With no need to worry about saving container data on persistent storage volumes, stateless [containers](/container/) are easier to deploy.
+That being said, most applications today are at least partly stateful as they must store preferences and settings to improve the user experience.
