@@ -13,7 +13,7 @@ Data from previous interactions is referred to as state, and since that data isn
 In short, stateless apps lack permanent storage. 
 Here's an example. 
 When you use a search engine, and that search is interrupted (e.g., the window is closed), those search results are lost. 
-You'll need to start your search again.
+You'll need to start all over.
 
 On the other hand, applications that process requests while considering previous interactions are called [stateful applications](/stateful-apps/). 
 
