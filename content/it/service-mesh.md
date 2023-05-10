@@ -1,5 +1,5 @@
 ---
-title: Applicazioni distribuite
+title: Service Mesh
 status: Completed
 category: tecnologia
 tags: ["networking", "", ""]
