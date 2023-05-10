@@ -110,6 +110,7 @@ evento
 existing
 extensibilidad
 externalizar
+FaaS
 faltantes
 Feedback
 Finance
