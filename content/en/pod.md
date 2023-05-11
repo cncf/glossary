@@ -8,7 +8,7 @@ tags: ["infrastructure", "fundamental", ""]
 ## What it is
 
 A pod is the smallest executable unit in [Kubernetes](/kubernetes/), representing an essential building block for deploying and managing containerized applications. 
-A pod represents a single instance of an application, and can contain one or more [containers](/container/).
+Each pod contains a single application instance and can hold one or more [containers](/container/).
 [Kubernetes](/kubernetes/) manages pods as part of a larger deployment, and can scale pods up or down depending on the application's resource requirements.
 
 ## Problem it addresses
