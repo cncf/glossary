@@ -13,7 +13,7 @@ Each pod contains a single application instance and can hold one or more [contai
 
 ## Problem it addresses
 
-Containers provide a lightweight and efficient way to package and deploy applications, but they can't do everything on their own. 
+Containers provide a lightweight and efficient way to package and deploy applications, but applications need more than packaging to function as designed. 
 Applications often require additional resources and services, such as storage or networking, which need to be managed and configured separately.
 
 This is where pods come in. A pod provides a way to group containers together and manage them as a single unit. 
