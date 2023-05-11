@@ -130,6 +130,12 @@ languageName ="اردو(Urdu)"
 contentDir = "content/ur"
 weight = 10
 
+[languages.zh-tw]
+title = "Cloud Native(雲原生) Glossary"
+description = "CNCF 雲原生 Glossary 專案旨在用作討論雲原生應用程式時常用術語的參考"
+languageName ="繁體中文(Traditional Chinese)"
+contentDir = "content/zh-tw"
+weight = 11
 
 [markup]
   [markup.goldmark]
