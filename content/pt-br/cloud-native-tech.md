@@ -2,6 +2,7 @@
 title: Tecnologia Nativa da Nuvem
 status: Completed
 category: conceito
+tags: ["fundamentos", "", ""]
 ---
 
 ## O que é

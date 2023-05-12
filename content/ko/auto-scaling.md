@@ -2,7 +2,7 @@
 title: 오토스케일링 (Autoscaling)
 status: Completed
 category: 속성
-tags: ["애플리케이션", "인프라스트럭처", "아키텍처"]
+tags: ["인프라스트럭처", "", ""]
 ---
 
 오토스케일링(Autoscaling)은 일반적으로 컴퓨팅 리소스 측면에서 시스템이 자동으로 [규모를 조절(scale)](/scalability/)하는 기능(ability)이다.

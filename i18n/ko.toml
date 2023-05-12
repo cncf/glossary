@@ -18,9 +18,23 @@ other = "이 사이트 검색하기…"
 [ui_in]
 other = "내부"
 
-# Used in sentences such as "All Tags"
-[ui_all]
-other = "모든"
+# Phrases for tags
+[ui_see_all_tags]
+other = "모든 태그 보기"
+[ui_tag]
+other = "태그"
+[ui_tags]
+other = "태그"
+[ui_search_by_tags]
+other = "태그로 살펴보기"
+[ui_tags_intro]
+other = "용어는 카테고리로 분류되어 있으며, '태그로 살펴보기'를 통해서 필터링이 가능하다."
+[ui_or_search_by_tags]
+other = "태그로 살펴보기"
+[ui_select_all]
+other = "모두 선택"
+[ui_deselect_all]
+other = "모두 선택 해제"
 
 # Footer text
 [footer_all_rights_reserved]
@@ -52,7 +66,7 @@ other = "읽은 시간(분)"
 
 # Print support
 [print_printable_section]
-other = "이 섹션을 다중 페이지로 프린트할 수 있는 화면 보기."
+other = "이 섹션을 다중 페이지로 프린트하기."
 [print_click_to_print]
 other = "프린트하기"
 [print_show_regular]

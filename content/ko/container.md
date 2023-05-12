@@ -2,7 +2,7 @@
 title: 컨테이너 (Containers)
 status: Completed
 category: 기술
-tags: ["애플리케이션", "", ""]
+tags: ["애플리케이션", "기본 개념", ""]
 ---
 
 ## 개념
