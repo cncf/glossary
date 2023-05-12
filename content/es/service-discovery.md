@@ -1,5 +1,5 @@
 ---
-title: Descubrimiento de Servicios
+title: Descubrimiento de Servicio
 status: Completed
 category: Concepto
 tags: ["networking", "", ""]
@@ -19,6 +19,6 @@ cualquier otra aplicación que quiera encontrarla necesita una herramienta que p
 
 ## ¿Cómo ayuda?
 
-El descubrimiento de servicios mantiene una lista de aplicaciones en una red para que puedan encontrarse unas a otras cuando sea necesario.
+El descubrimiento de servicio mantiene una lista de aplicaciones en una red para que puedan encontrarse unas a otras cuando sea necesario.
 Provee un espacio común donde encontrar y potencialmente identificar servicios individuales.
-Los motores de descubrimiento de servicios son herramientas similares a las bases de datos que almacenan información referente a qué servicios existen y cómo localizarlos.
+Los motores de descubrimiento de servicio son herramientas similares a las bases de datos que almacenan información referente a qué servicios existen y cómo localizarlos.
