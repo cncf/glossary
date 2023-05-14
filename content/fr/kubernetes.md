@@ -10,15 +10,15 @@ tags: ["infrastructure", "fundamental", ""]
 Kubernetes, souvent abrégé en k8s, est un orchestrateur de conteneur open source.
 Il automatise le cycle de vie des applications conteneurisées sur des infrastructures modernes, fonctionnant comme un "Système d'exploitation de centre de données" qui gères des applications à travers un [système distribué](/distributed-systems/).
 
-Kubernetes planifie la création de [conteneurs](/container/) sur les [noeuds](/nodes/) d'un  [cluster](/cluster/), regroupant plusieurs ressources d'infrastructure tel qu'un répartiteur de charge (load balancer), du stockage persistent, etc. Pour exécuter des applications containerisées.
+Kubernetes planifie la création de [conteneurs](/container/) sur les [nœuds](/nodes/) d'un  [cluster](/cluster/), regroupant plusieurs ressources d'infrastructure tel qu'un répartiteur de charge (load balancer), du stockage persistent, etc. Pour exécuter des applications containerisées.
 
-Kubernetes permets l'automatisation et l'extensibilitié, permettant aux utilisateurs de déployer des applications de manière déclarative (voir ci-dessosu) et reproductible.
+Kubernetes permet l'automatisation et l'extensibilité, permettant aux utilisateurs de déployer des applications de manière déclarative (voir ci-dessous) et reproductible.
 Kubernetes est extensible via ses [API](/application-programming-interface/), permettant aux utilisateurs expérimentés de Kubernetes de rajouter des possibilités d'automatisation en accord avec leurs besoins.
 
 ## Problème auquel il répond
 
-L'automatisation de l'infrastructure et la gestion de configuration déclarative sont des concepts importants depuis longtemps, mais ils sont devenus omniprésent depuis que le [cloud computing](/cloud-computing/) a gagné en popularité.
-A mesure que la demande de ressources de calcul augmente et que les organisations ont besoin de plus de capacités avec moins d'ingénieurs, les nouvelles technologies et les méthodes de travaille doivent répondre à cette demande.
+L'automatisation de l'infrastructure et la gestion de configuration déclarative sont des concepts importants depuis longtemps, mais ils sont devenus omniprésents depuis que le [cloud computing](/cloud-computing/) a gagné en popularité.
+À mesure que la demande de ressources de calcul augmente et que les organisations ont besoin de plus de capacités avec moins d'ingénieurs, les nouvelles technologies et les méthodes de travail doivent répondre à cette demande.
 
 ## Quel en est l'utilité
 
