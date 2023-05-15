@@ -16,17 +16,23 @@ lang/es:
 lang/fr:
 - content/fr/*
 
+lang/hi:
+- content/hi/*
+
 lang/it:
 - content/it/*
 
-lang/hi:
-- content/hi/*
+lang/ja:
+- content/ja/*
 
 lang/ko:
 - content/ko/*
 
 lang/pt:
 - content/pt-br/*
+
+lang/tw:
+- content/zh-tw/*
 
 lang/zh:
 - content/zh-cn/*
