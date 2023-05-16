@@ -22,7 +22,7 @@ On the other hand, applications that process requests while considering previous
 When stateful applications, apps that *do* have session data, are horizontally scaled, every instance needs access to that same data.
 If one instance processes a request, the other instances must have access to that session data to take it into account when they process the next request. 
 That brings some challenges. 
-Pods must constantly communicate to ensure they are all in sync for a seamless user experience. 
+All instances would have to somehow sync that session data, which often used to be stored only in-memory of an instance before the rise of the cloud.  
 However, networks are inherently unreliable. Also, session data is lost if there’s a problem and the application restarts. 
 In short, stateful apps are less resilient. 
 
