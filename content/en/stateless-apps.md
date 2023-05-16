@@ -23,7 +23,7 @@ When stateful applications, apps that *do* have session data, are horizontally s
 If one instance processes a request, the other instances must have access to that session data to take it into account when they process the next request. 
 That brings some challenges. 
 All instances would have to somehow sync that session data, which often used to be stored only in-memory of an instance before the rise of the cloud.  
-However, networks are inherently unreliable. Also, session data is lost if there’s a problem and the application restarts. 
+It should be obvious that this approach was not very reliable because synchronizing session data between instances would mean a high effort. Besides that, all state that is stored in memory would be lost when an instance would crash, or even be gracefully shut down to be relocated (which is not uncommon in the cloud world). 
 In short, stateful apps are less resilient. 
 
 ## How it helps
