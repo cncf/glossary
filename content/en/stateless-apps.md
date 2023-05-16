@@ -20,7 +20,6 @@ On the other hand, applications that process requests while considering previous
 ## Problem it addresses
 
 When stateful applications, apps that *do* have session data, are horizontally scaled, every instance needs access to that same data.
-To function correctly, they must be aware of each other. 
 If one pod processes a request, the other pods must have access to that data to take it into account when they process the next request. 
 That brings some challenges. 
 Pods must constantly communicate to ensure they are all in sync for a seamless user experience. 
