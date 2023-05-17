@@ -19,4 +19,4 @@ tags: ["", "", ""]
 ## 문제 해결 방식
 
 관리형 서비스는 첫날부터 운영 오버헤드(overhead)가 거의 없이 사용할 수 있다.
-이를 통해 조직은 잘 정의되고, 일반적으로 [API](/application-programming-interface/) 중심의 경계로 핵심 역량을 벗어나는 작업을 효과적으로 아웃소싱(outsource)할 수 있다.
+이를 통해, 조직은 [API](/application-programming-interface/)와 같은 명확하게 정의된 경계를 바탕으로 핵심 역량을 벗어나는 작업을 효과적으로 아웃소싱(outsource)할 수 있다.
