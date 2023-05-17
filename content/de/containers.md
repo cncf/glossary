@@ -13,7 +13,7 @@ Benötigte Tools und Dateien werden als Container-Image verpackt und dieses ist 
 
 ## Welches Problem es löst
 
-Bevor es Container gab, waren separate Rechner erforderlich, um Anwendungen auszuführen. 
+Bevor es Container gab, waren separate Rechner oder [virtuellen Maschinen](/virtual-machine/) erforderlich, um Anwendungen auszuführen. 
 Jede Maschine benötigte ihr eigenes Betriebssystem, das CPU, Speicher und Festplattenplatz beanspruchte, damit eine einzelne Anwendung funktionieren konnte. 
 Führte man mehrere Anwendungen auf derselben Maschine aus, konnte das zu Konflikten in der Ressourcenbelegung führen, wenn z.B. zwei Anwendungen auf die selbe Speicherstelle zugreifen. 
 Darüber hinaus ist die Wartung, das Upgrade und der Start eines Betriebssystems eine weitere mühsame Angelegenheit. 
@@ -21,11 +21,10 @@ Darüber hinaus ist die Wartung, das Upgrade und der Start eines Betriebssystems
 
 ## Wie es das Problem löst
 
-Container teilen sich dasselbe Betriebssystem und seine Ressourcen sind aber durch die Zuordnung virtueller Ressourcen voneinander isoliert, wodurch der Ressourcen-Overhead des Betriebssystems verteilt wird und eine effiziente Nutzung des physischen Rechners ermöglicht wird. 
-Dadurch können viel mehr Anwendungen auf demselben physischen Rechner ausgeführt werden. 
+Container teilen sich dasselbe Betriebssysten, jedoch sind sie durch die Zuordnung virtueller Ressourcen voneinander isoliert, wodurch der Ressourcen-Overhead des Betriebssystems verteilt wird und eine effiziente Nutzung des physischen Rechners ermöglicht wird. 
+Dadurch können mehrere Anwendungen auf demselben physischen Rechner ausgeführt werden. 
 Durch die Nutzung des zugrunde liegenden Betriebssystem, sind sie im Vergleich zu [virtuellen Maschinen](/virtual-machine/) sehr leichtgewichtig und können schneller hoch- und heruntergefahren werden.
 
 Allerdings gibt es auch Einschränkungen. 
-Da Container dasselbe Betriebssystem nutzen, können Prozesse als weniger sicher angesehen werden.
-Container erfordern auch eine Begrenzung der gemeinsam genutzten Ressourcen. 
+Da Container das selbe Betriebssystem nutzen, können Prozesse als weniger sicher angesehen werden. 
 Um die Ressourcen zu garantieren, müssen die Administratoren die Speicher- und CPU-Nutzung einschränken und begrenzen, damit andere Anwendungen keine schlechten Leistungen erbringen oder abstürzen.
