@@ -1,6 +1,7 @@
 ---
 title: 관리형 서비스 (Managed services)
 status: Deprecated
+draft: true
 category: 기술
 tags: ["", "", ""]
 ---
