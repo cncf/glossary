@@ -21,7 +21,7 @@ Prenons l'exemple de l'augmentation du nombre de spectateurs que Netflix connaî
 La mise à l'échelle automatique signifie ajouter dynamiquement plus de ressources: par exemple,
 en augmentant le nombre de serveurs permettant une diffusion de plus de vidéos et en réduisant l'échelle une fois que la consommation s'est normalisée.
 
-## Termes connexes
+## Termes liés
 
 * [Mise à l'échelle horizontale (Horizontal Scaling)](/horizontal-scaling/)
 * [Mise à l'échelle verticale (Vertical Scaling)](/vertical-scaling/)
