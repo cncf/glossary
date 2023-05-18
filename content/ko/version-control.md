@@ -1,6 +1,7 @@
 ---
 title: 버전 관리 (Version Control)
 status: Deprecated
+draft: true
 category: 기술
 tags: ["방법론", "", ""]
 ---
