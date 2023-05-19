@@ -44,6 +44,9 @@ other = "版权所有"
 other = "隐私政策"
 
 
+[footer_hub_button_text]
+other = "All CNCF Sites"
+
 # Post (blog, articles etc.)
 [post_byline_by]
 other = "通过"
