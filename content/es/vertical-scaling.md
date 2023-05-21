@@ -24,9 +24,9 @@ La [escalabilidad](/es/scalability/) contribuye a la competitividad, eficiencia,
 ## ¿Cómo ayuda?
 
 El escalado vertical permite modificar su servidor sin tener que cambiar el código de la aplicación.
-Esto contrasta con el escalado horizontal, donde la aplicación debe soportar replicación para escalar, potencialmente requiriendo actualizaciones de codigo.
+Esto contrasta con el escalado horizontal, donde la aplicación debe soportar replicación para escalar, potencialmente requiriendo actualizaciones de código.
 El escalado vertical incrementa la capacidad de una aplicación existente
-agregando recursos computacionales, permitiendo a la aplicación procesar mas peticiones y hacer mas trabajo de forma concurrente.
+agregando recursos computacionales, permitiendo a la aplicación procesar más peticiones y hacer más trabajo de forma concurrente.
 
 ## Términos relacionados
 
