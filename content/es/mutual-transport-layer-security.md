@@ -13,7 +13,7 @@ en vez de validar la identidad de solo una conexión, se validan ambos lados.
 
 ## Problema que aborda
 
-Los [microservicios](/microservices) se comunican a través de una red y,
+Los [microservicios](/es/microservices-architecture/) se comunican a través de una red y,
 como las redes de wifi, la comunicación en tránsito en la red puede ser atacada.
 mTLS asegura que ningún agente no autorizado pueda escuchar o personificar peticiones legítimas.
 
