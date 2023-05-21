@@ -35,5 +35,5 @@ sin la necesidad de incrementar la capacidad de un nodo en particular.
 
 ## Términos relacionados
 
-* [Escalado vertical](/vertical-scaling/)
+* [Escalado vertical](/es/vertical-scaling/)
 * [Autoescalado](/es/auto-scaling/)
