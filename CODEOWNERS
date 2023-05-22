@@ -13,7 +13,7 @@
 # in each `/content/language/` directory.
 
 # Approvers for Korean contents
-/content/ko/ @seokho-son @Eviekim @jihoon-seo @yunkon-kim
+/content/ko/ @seokho-son @jihoon-seo @yunkon-kim
 
 # Approvers for Portuguese contents
 /content/pt-br/ @edsoncelio @brunoguidone @jessicalins @MrErlison
@@ -47,3 +47,6 @@
 
 # Approvers for Traditional Chinese contents
 /content/zh-tw/ @pichuang @ydFu
+
+# Approvers for Japanese contents
+/content/ja/ @inductor @kaitoii11 @naonishijima
