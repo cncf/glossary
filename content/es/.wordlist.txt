@@ -254,6 +254,7 @@ Seokho
 Server
 Serverless
 service
+Shift
 sign
 Site
 Slack
