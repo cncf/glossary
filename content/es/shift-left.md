@@ -7,7 +7,7 @@ tags: ["methodology", "", ""]
 
 ## ¿Qué es?
 
-Izquierda en Shift Left se refiere a las etapas anteriores en un ciclo de vida de desarrollo de software,
+Left en Shift Left se refiere a las etapas anteriores en un ciclo de vida de desarrollo de software,
 pensando en el ciclo de vida como una línea donde las etapas se ejecutan de izquierda a derecha.
 Shift Left es la práctica de implementar pruebas, seguridad u otras prácticas de desarrollo
 temprano en el ciclo de vida de desarrollo de software en lugar de implementarlas al final.
@@ -29,7 +29,7 @@ Debido a que la responsabilidad de las pruebas y la seguridad se comparte en tod
 — desde ingenieros de software hasta control de calidad y operaciones —
 todos juegan un papel para garantizar la estabilidad y la seguridad de una aplicación.
 
-Además, el desplazamiento a la izquierda permite la mejora continua y
+Además, el Shift Left permite la mejora continua y
 sigue un enfoque [ágil](/es/agile-software-development/) en lugar de un enfoque en cascada para el desarrollo.
 Los equipos pueden realizar pequeñas mejoras iterativas e identificar problemas antes.
 Este enfoque permite a los ingenieros adoptar prácticas de seguridad y desarrollo seguro
