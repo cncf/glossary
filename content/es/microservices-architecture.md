@@ -27,7 +27,6 @@ Las arquitecturas monolíticas también hacen que los desarrolladores tengan la 
 Como todo el código está en el mismo sitio, es más fácil hacer que ese código esté [estrechamente acoplado](/tightly-coupled-architectures/) y más difícil aplicar el principio de separación de preocupaciones.
 Los monolitos también suelen requerir que los desarrolladores entiendan todo el código base antes de desplegar cualquier funcionalidad.
 La arquitectura de microservicios es una respuesta a estos retos.
-
 ## ¿Cómo ayuda?
 
 Separar la funcionalidad en diferentes microservicios hace que sean más fáciles de desplegar, actualizar y escalar de forma independiente.
