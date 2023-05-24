@@ -1,7 +1,7 @@
 ---
 title: Servicio
 status: Completed
-category: concept
+category: Concepto
 tags: ["application", "fundamental", ""]
 ---
 
