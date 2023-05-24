@@ -130,6 +130,12 @@ languageName ="اردو (Urdu)"
 contentDir = "content/ur"
 weight = 10
 
+[languages.ja]
+title = "クラウドネイティブ用語集"
+description = "CNCF クラウドネイティブ用語集プロジェクトは、クラウドネイティブアプリケーションについて話すときに使われる一般的な用語のリファレンスとして使用することを目的としています。"
+languageName ="日本語 (Japanese)"
+contentDir = "content/ja"
+weight = 11
 
 [markup]
   [markup.goldmark]
