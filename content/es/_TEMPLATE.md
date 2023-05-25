@@ -1,7 +1,7 @@
 ---
 title: Plantilla de Definición
 status: Feedback Appreciated
-category: concepto
+category: Concepto
 ---
 
 ## ¿Qué es?
@@ -10,7 +10,7 @@ Resumen rápido del concepto y qué es.
 
 ## Problema que aborda
 
-Definir el problema que aborda. Idealmente, no mencionar el término que se está definiendo.
+Definir el problema que aborda. Idealmente, no se debe mencionar el término que se está definiendo.
 
 ## ¿Cómo ayuda?
 
