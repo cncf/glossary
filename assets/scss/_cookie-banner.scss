@@ -17,10 +17,7 @@ $cookie-banner-bg: #bff3ff;
 	letter-spacing: 0.02em;
 	font-size: 13px;
 	font-family: $font-primary;
-	padding-top: 35px;
-	padding-left: 25px;
-	padding-right: 25px;
-	padding-bottom: 25px;
+	padding: 35px 25px 25px 25px;
 	@media (min-width: 600px) {
 		font-size: 16px;
 	}
