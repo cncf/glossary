@@ -20,7 +20,8 @@ Runtime helps address these challenges by providing a standardized and container
 It [abstracts](/abstraction/) away the underlying infrastructure details, enabling applications to be deployed and run consistently across different cloud platforms or environments. 
 The runtime environment includes features like [container orchestration](container-orchestration/), automatic [scaling](/auto-scaling/), service discovery, and fault tolerance, simplifying the deployment, management, and scaling of applications.
 
-By leveraging a cloud-native runtime, developers can focus on building and shipping applications without worrying about the specific infrastructure details. It provides portability, scalability, and resilience, allowing applications to dynamically adapt to changing conditions and handle increased workloads efficiently.
+A runtime allows developers to focus on building and shipping applications without worrying about specific infrastructure details. 
+It provides [portability](/portability/), scalability, and resilience, allowing applications to dynamically adapt to changing conditions and handle increased workloads efficiently.
 
 
 ## Related terms
