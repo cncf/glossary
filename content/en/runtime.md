@@ -10,7 +10,8 @@ In [cloud native](/cloud-native-apps/) computing, runtime refers to the environm
 
 ## Problem it addresses
 
-Traditional software applications often faced challenges when being deployed and executed in distributed environments, such as cloud platforms. These challenges include managing dependencies, scaling resources, handling failures, and ensuring consistent behavior across different environments.
+Traditional software applications often face challenges when deployed and executed in distributed environments like cloud platforms. 
+These challenges include managing dependencies, scaling resources, handling failures, and ensuring consistent behavior across different environments.
  
 
 ## How it helps
