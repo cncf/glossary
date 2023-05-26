@@ -6,7 +6,7 @@ category: concept
 
 ## What it is
 
-In cloud-native computing, "runtime" refers to the environment where applications or services run. It includes the necessary components and resources to make software work in a cloud-native setup.
+In [cloud native](/cloud-native-apps/) computing, runtime refers to the environment where applications or services run. It includes the necessary components and resources to make software work in a cloud native setup.
 
 ## Problem it addresses
 
