@@ -29,7 +29,7 @@ Aún más, Kubernetes funciona declarativamente, lo que significa que, en lugar 
 Kubernetes se encargará del "cómo" por sí mismo.
 Esto da como resultado que Kubernetes sea extremadamente compatible con la Infraestructura como Código.
 
-Kubernetes también se [autocura](/self-healing/).
+Kubernetes también se [autocura](/es/self-healing/).
 Esto significa que garantiza que el estado real del clúster siempre coincida con el estado deseado por el operador.
 Si Kubernetes detecta una desviación del estado deseado, un controlador de Kubernetes será invocado para corregirlo.
 Así que, aunque la infraestructura cambie continuamente, Kubernetes en sí mismo se adaptará continuamente y automáticamente a los cambios y asegurará de que coincida con el estado deseado.
