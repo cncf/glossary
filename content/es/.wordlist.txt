@@ -163,6 +163,7 @@ Kubernetes
 Language
 laptop
 Layer
+layout
 License
 link
 localizations
@@ -241,6 +242,7 @@ SaaS
 Salesforce
 SCE
 scripts
+search
 Secure
 security
 Seokho
