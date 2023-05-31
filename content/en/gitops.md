@@ -20,9 +20,8 @@ extends this practice to applications, infrastructure, and operational procedure
 ## Problem it addresses
 
 Existing processes for configuration management can face 
-challenges such as configuration drift, failed deployments, 
-inconsistency across different infrastructure, 
-or unknown development history.
+challenges such as configuration drift, failed deployments, inconsistency 
+across different infrastructure, or unknown development history.
 Emphasising on continues deployment and delivery, 
 a GitOps workflow can help alleviate these issues, 
 among several others.
