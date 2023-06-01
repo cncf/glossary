@@ -16,7 +16,7 @@ Kubernetes manages pods as part of a larger deployment and can scale pods [verti
 Containers provide a lightweight and efficient way to package and deploy applications, but applications need more than packaging to function as designed. 
 They often require additional resources and services, such as storage or networking, which must be managed and configured separately.
 
-This is where pods come in. A pod provides a way to group containers together and manage them as a single unit. 
+Pods provide a way to group and manage containers as a single unit, ensuring all the resources and services the app needs are available and configured correctly.
 This makes it easier to ensure that all the resources and services in application needs are available and configured correctly.
 
 ## How it helps
