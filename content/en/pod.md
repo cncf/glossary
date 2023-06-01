@@ -17,7 +17,6 @@ Containers provide a lightweight and efficient way to package and deploy applica
 They often require additional resources and services, such as storage or networking, which must be managed and configured separately.
 
 Pods provide a way to group and manage containers as a single unit, ensuring all the resources and services the app needs are available and configured correctly.
-This makes it easier to ensure that all the resources and services in application needs are available and configured correctly.
 
 ## How it helps
 
