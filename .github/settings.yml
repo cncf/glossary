@@ -31,10 +31,10 @@ collaborators:
     permission: admin
   
   - username: jihoon-seo
-    permission: maintain
+    permission: admin
 
   - username: iamNoah1
-    permission: maintain  
+    permission: admin
   
   - username: thetwopct
     permission: push
@@ -44,11 +44,10 @@ collaborators:
   
 
   # Localization approvers
+  
   # l10n ko approvers
   # Note: seokho-son is both Maintainer (maintain) and Korean approver (push)
   # Note: jihoon-seo is both Maintainer (maintain) and Korean approver (push)
-  - username: Eviekim
-    permission: push
 
   - username: yunkon-kim
     permission: push
@@ -183,6 +182,15 @@ collaborators:
   - username: ydFu
     permission: push
 
+  # l10n ja approvers
+  - username: inductor
+    permission: push
+
+  - username: kaitoii11
+    permission: push
+
+  - username: naonishijima
+    permission: push
 
 branches:
 
@@ -219,7 +227,6 @@ branches:
         # Ko approvers
         users:
          - seokho-son
-         - Eviekim
          - jihoon-seo
          - yunkon-kim
         teams: []
@@ -429,3 +436,22 @@ branches:
         teams: []
       enforce_admins: null
       required_linear_history: null
+
+  # l10n branch for ja contents only
+  - name: dev-ja
+    protection:
+      required_pull_request_reviews:
+        required_approving_review_count: 2
+        require_code_owner_reviews: true
+      required_status_checks: null
+      restrictions:
+        apps: []
+        # ja approvers
+        users:
+         - inductor
+         - kaitoii11
+         - naonishijima
+        teams: []
+      enforce_admins: null
+      required_linear_history: null
+      
