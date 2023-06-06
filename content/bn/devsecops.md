@@ -1,5 +1,5 @@
 ---
-title: বেভসেকঅপ্স (DevSecOps)
+title: ডেভসেকঅপ্স (DevSecOps)
 status: Completed
 category: ধারণা
 ---
