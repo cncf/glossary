@@ -15,7 +15,7 @@ Es un sistema que registra cambios en un archivo o conjunto de archivos a lo lar
 
 Los sistemas de control de versiones funcionan para abordar los siguientes problemas:
 respaldar un documento o base de código a medida que cambia con el tiempo,
-permitir a múltiples usuarios resolver conflictos cuando hay cambios superpuestos, y
+permitir a múltiples usuarios resolver conflictos cuando hay cambios superpuestos y
 almacenar un registro de los cambios a lo largo del tiempo.
 Dado que el código de la aplicación a menudo es complejo y vital para los procedimientos de negocio esenciales, resulta relevante seguir la pista de quién hizo qué cambio, cuándo se produjo y la razón del mismo.
 Además, muchas, si no la mayoría de las aplicaciones, son modificadas por varios desarrolladores, y a menudo existen conflictos entre los cambios introducidos por diferentes desarrolladores.
