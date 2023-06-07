@@ -23,4 +23,4 @@ Además, muchas, si no la mayoría de las aplicaciones, son modificadas por vari
 ## ¿Cómo ayuda?
 
 El control de versiones ayuda a los desarrolladores a avanzar rápidamente y a mantener la eficiencia, al mismo tiempo que guarda un registro de los cambios y ofrece una herramienta para resolver conflictos.
-Esta herramienta facilita la tarea de guardar el código de una aplicación en un repositorio, lo que simplifica el trabajo en equipo. Hoy en día, para desarrollar aplicaciones modernas, es muy común depender de sistemas de control de versiones, como git, que se utilizan para almacenar este código.
+Esta herramienta facilita la tarea de guardar el código de una aplicación en un repositorio, lo que simplifica el trabajo en equipo. Hoy en día, para desarrollar aplicaciones modernas, es muy común depender de sistemas de control de versiones, como git, que se utiliza para almacenar este código.
