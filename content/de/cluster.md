@@ -16,7 +16,9 @@ All diese Services, die über ein Netzwerk miteinander verbunden sind, stellen e
 
 Software, die nur auf einem einzelnen Computer läuft, stellt einen Single Point of Failure dar. Business-kritische Systeme können offline gehen, wenn dieser Computer abstürzt oder Jemand aus Versehen den Stecker zieht.
 
-Durch Cluster werden Anwendungen widerstandsfähig gegen Störungen.
+Durch Cluster werden Anwendungen widerstandsfähiger gegen Störungen. Sie bestehen aus mehreren sogenannten Nodes, die nach Außen hin als ein System (Cluster) dargestellt werden.
+
+Fallen einzelne Nodes aus, so kann die Anwendung dennoch weiter laufen.
 
 ## Wie es das Problem löst
 
