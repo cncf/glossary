@@ -16,11 +16,13 @@ All diese Services, die über ein Netzwerk miteinander verbunden sind, stellen e
 
 Software, die nur auf einem einzelnen Computer läuft, stellt einen Single Point of Failure dar. Business-kritische Systeme können offline gehen, wenn dieser Computer abstürzt oder Jemand aus Versehen den Stecker zieht.
 
+Durch Cluster werden Anwendungen widerstandsfähig gegen Störungen.
+
 ## Wie es das Problem löst
 
 Moderne Software wird grundsätzlich als verteilte Anwendung entwickelt, die als Cluster zusammengefasst werden und auf mehreren Maschinen laufen.
 
-Das ermöglicht es, automatisiert skalieren zu können. Die Anwendungen werden widerstandsfähig gegen Störungen.
+Das ermöglicht es, automatisiert skalieren zu können.
 
 Der Bedarf an global verfügbaren Systemen, und viele Jahre mit "trial and error" führten zur Entwicklung einer neuen Art von Technologie-Stack: [Cloud-native Technologien](/cloud-native-tech/).
 
