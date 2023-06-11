@@ -6,12 +6,16 @@ category: architecture
 
 ## What it is
 
-Linux system has two spaces: kernel and user space. Kernel space is the core of the operating system and it is the only part that has unlimited access to the hardware. 
-Usually, applications reside in the user space and if they need some higher permissions, they send a request to the kernel space for that.
-For applications that require more flexibility (exp. to access hardware), there is an approach called “Linux kernel modules”. It allows extending the kernel base without adding directly to the kernel source code. 
-However, it also introduces some security risks.
-eBPF stands for "extended Berkeley Packet Filter". 
-It is a revolved technology that allows applications to run within the kernel space of a Linux system without the need to change the kernel source or load Linux kernel modules.
+eBPF, or extended Berkeley Packet Filter, is a technology that allows applications to run within the kernel of a Linux system without changing the kernel source code or load Linux kernel modules.
+
+A Linux system has two spaces: the kernel and the user space. 
+The kernel represents the operating system's core and is the only part with unlimited access to the hardware. 
+
+Applications reside in the user space, and when they need higher permissions, they send a request to the kernel. 
+These permissions allow applications to perform tasks that require deeper integration with the underlying operating system, such as interacting with low-level hardware, modifying system configurations, or accessing protected data.
+
+For applications that require more flexibility, e.g., access hardware, the kernel can be extended with eBPF via a so-called "Linux kernel modules" approach. It allows extending the kernel base without adding directly to the kernel source code. 
+However, such an approach also introduces some security risks.
 
 ## Problem it addresses
 Normally, applications run in user space, and if the application requires some privileges from the kernel (exp. to access some hardware), then it needs to send a call referred to as a “system call” and ask for that request from the kernel. 
