@@ -41,7 +41,8 @@ collaborators:
 
   # English approvers (approver for all files in repository)
 
-  
+  - username: nate-double-u
+    permission: admin
 
   # Localization approvers
   
@@ -211,6 +212,7 @@ branches:
          - seokho-son
          - iamNoah1
          - jihoon-seo
+         - nate-double-u
         teams: []
       enforce_admins: null
       required_linear_history: null
