@@ -16,7 +16,7 @@ La arquitectura de confianza cero toma un enfoque opuesto en el que, a pesar de 
 
 En el enfoque tradicional basado en la confianza, donde los sistemas y dispositivos se encuentran dentro de un perímetro de red corporativa, la suposición es que, ya que existe confianza, no hay problemas.
 Sin embargo, la arquitectura de confianza cero reconoce que la confianza es una vulnerabilidad.
-En el supuesto de que un atacante consiga acceso a un dispositivo confiable, el sistema se vuelve vulnerable a un ataque. Esto depende del nivel de confianza y del acceso que se le haya otorgado a dicho dispositivo, pues el atacante, al estar dentro del perímetro 'de confianza' de la red, es capaz de moverse lateralmente a lo largo del sistema.
+En el supuesto de que un atacante consiga acceso a un dispositivo confiable, el sistema se vuelve vulnerable a un ataque. Esto depende del nivel de confianza y del acceso que se le haya otorgado a dicho dispositivo, pues el atacante, al estar dentro del perímetro "de confianza" de la red, es capaz de moverse lateralmente a lo largo del sistema.
 Dentro de una arquitectura de confianza cero, la confianza se elimina, reduciendo de esta manera la superficie de ataque, ya que el atacante se ve obligado a realizar una verificación antes de proceder a través del sistema.
 
 ## ¿Cómo ayuda?
