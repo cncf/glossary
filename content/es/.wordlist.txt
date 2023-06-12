@@ -163,11 +163,8 @@ Kubernetes
 Language
 laptop
 Layer
-<<<<<<< HEAD
 layout
-=======
 Left
->>>>>>> dd95457 (Add Left to the es/wordlist)
 License
 link
 localizations
@@ -254,7 +251,6 @@ Seokho
 Server
 Serverless
 service
-Shift
 sign
 Site
 Slack
