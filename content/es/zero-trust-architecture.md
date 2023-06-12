@@ -1,5 +1,5 @@
 ---
-title: Arquitectura de Confianza cero
+title: Arquitectura de Confianza Cero
 status: Completed
 category: Concepto
 tags: ["security", "", ""]
