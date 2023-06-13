@@ -14,7 +14,7 @@ The kernel represents the operating system's core and is the only part with unli
 Applications reside in the user space, and when they need higher permissions, they send a request to the kernel. 
 These permissions allow applications to perform tasks that require deeper integration with the underlying operating system, such as interacting with low-level hardware, modifying system configurations, or accessing protected data.
 
-For applications that require more flexibility, e.g., access hardware, the kernel can be extended with eBPF via a so-called "Linux kernel modules" approach. It allows extending the kernel base without adding directly to the kernel source code. 
+For applications that require more flexibility, e.g., access hardware, the kernel can be extended via a so-called "Linux kernel modules" approach. It allows extending the kernel base without adding directly to the kernel source code. 
 However, such an approach also introduces some security risks.
 
 ## Problem it addresses
