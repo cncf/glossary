@@ -25,7 +25,9 @@ While using Linux kernel modules bring the mentioned benefits, it adds to the se
 Kernel modules have elevated privileges and direct access to system resources, making them a potential target for attackers.
 
 ## How it helps
-
+Compared to Linux Kernel modules, eBPF provides a more controlled and contained environment for executing user-defined programs. 
+eBPF programs run in a sandboxed environment within the kernel, providing isolation and mitigating some risks. 
+If a vulnerability or flaw is exploited in an eBPF program, its impact is generally limited to the sandboxed environment.
 Before an eBPF program can start running in the kernel, it has to pass some verifications. 
 The verifier component checks all the potential possibilities that would happen as a result of running the eBPF program. 
 This way, it makes sure that the program would not go into an infinitive loop and would not cause a kernel crash. 
