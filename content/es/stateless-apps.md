@@ -9,7 +9,7 @@ tags: ["fundamental", "application", ""]
 
 Una aplicación sin estado o independiente al estado, es la que no guarda ningún dato de sesión del cliente (estado) en el servidor donde la aplicación vive.
 Cada sesión del usuario se maneja como si fuese la primera vez y las respuestas no son dependientes de datos de la sesión anterior y
-brinda funcionalidad para usar servicios de impresión, CDN (Red de distribución de contenido) o los servidores web
+brinda funcionalidad para usar servicios de impresión, Red de Distribución de Contenido (CDN, Content Delivery Network) o servidores web
 para procesar cada solicitud a corto plazo.
 Por ejemplo, alguien utiliza un motor de búsqueda para resolver una duda,
 en caso de que la operación sea interrumpida o abortada luego de que se envía la solicitud de búsqueda,
