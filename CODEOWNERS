@@ -6,11 +6,14 @@
 
 # These owners will be default owners for everything in this repository.
 # These owners consist of Maintainers and English approvers.
-* @caniszczyk @CathPag @jasonmorgan @seokho-son @iamNoah1 @jihoon-seo
+* @caniszczyk @CathPag @jasonmorgan @seokho-son @iamNoah1 @jihoon-seo @nate-double-u
 
 
 # These are the owners (approvers) for localization contents
 # in each `/content/language/` directory.
+
+# Approvers for English content
+/content/en/ @caniszczyk @CathPag @jasonmorgan @seokho-son @iamNoah1 @jihoon-seo @nate-double-u
 
 # Approvers for Korean contents
 /content/ko/ @seokho-son @Eviekim @jihoon-seo @yunkon-kim
