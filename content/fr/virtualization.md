@@ -8,7 +8,7 @@ tags: ["fundamental", "infrastructure", "methodology"]
 ## Ce que c'est
 
 La virtualisation, dans le cadre de l'informatique Cloud Native,
-fait référence à l'exécution de plusieurs systèmes d'exploitation isolés sur un même ordinateur physique, aussi appelé serveur.
+est l'exécution de plusieurs systèmes d'exploitation isolés sur un même ordinateur physique, aussi appelé serveur.
 Ces systèmes d'exploitation isolés et leurs ressources de calcul dédiées (processeur, mémoire et réseau) sont
 appelées machines virtuelles ou VM.
 Lorsque nous parlons d'une [machine virtuelle](/virtual-machine/), nous parlons d'un ordinateur défini logiciellement.
