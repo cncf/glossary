@@ -18,7 +18,9 @@ and can be customized to meet specific business needs.
 On the other hand, a public cloud is a shared infrastructure available for open public services, 
 where resources are owned and operated by third-party cloud service providers. 
 
-Additionally, a hybrid cloud model combines aspects of both private and public clouds. This model enables businesses to leverage the advantages of both deployment models by integrating their private cloud with the public cloud. This combination can be used for creating a balanced, flexible, and cost-effective cloud environment.
+Additionally, a hybrid cloud model combines aspects of both private and public clouds. 
+This model enables businesses to leverage the advantages of both deployment models by integrating their private cloud with the public cloud. 
+This combination can be used for creating a balanced, flexible, and cost-effective cloud environment.
 
 Therefore, the distinction among cloud computing models isn't solely about whether the infrastructure is private or public. It also involves the location of the infrastructure and the customization level it can offer, as well as the possibility to create a hybrid solution that maximizes the benefits of both environments.
 
