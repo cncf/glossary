@@ -8,7 +8,8 @@ tags: ["infrastructure", "fundamental", ""]
 ## What it is
 
 Cloud computing offers compute resources like CPU, network, and disk capabilities on-demand over the internet, allowing users to access and use computing power in a remote physical location. 
-It extends beyond merely providing resources and we generally differentiate between private and public cloud. These models differ based on the usage and accessibility of the cloud infrastructure.
+It extends beyond merely providing resources and we generally differentiate between private and public cloud. 
+These models differ based on the usage and accessibility of the cloud infrastructure.
 
 In a private cloud, the infrastructure is exclusively dedicated to a single organization, 
 and it can exist both on-premise (within the organization's physical location) or off-premise (hosted by a third-party service provider). 
