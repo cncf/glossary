@@ -15,7 +15,8 @@ and it can exist both on-premise (within the organization's physical location) o
 This setup offers more control over the infrastructure, data security, and regulatory compliance, 
 and can be customized to meet specific business needs.
 
-On the other hand, a public cloud is a shared infrastructure available for open public services, where resources are owned and operated by third-party cloud service providers. 
+On the other hand, a public cloud is a shared infrastructure available for open public services, 
+where resources are owned and operated by third-party cloud service providers. 
 
 Additionally, a hybrid cloud model combines aspects of both private and public clouds. This model enables businesses to leverage the advantages of both deployment models by integrating their private cloud with the public cloud. This combination can be used for creating a balanced, flexible, and cost-effective cloud environment.
 
