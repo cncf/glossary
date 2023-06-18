@@ -20,7 +20,7 @@ These challenges include managing dependencies, scaling resources, handling fail
 
 ## How it helps
 
-Runtime helps address these challenges by providing a standardized and containerized execution environment. 
+Runtime, as a containerized execution environment, helps address these challenges.
 It [abstracts](/abstraction/) away the underlying infrastructure details, enabling applications to be deployed and run consistently across different cloud platforms or environments. 
 The runtime environment includes features like [container orchestration](container-orchestration/), automatic [scaling](/auto-scaling/), service discovery, and fault tolerance, simplifying application deployment, management, and scaling.
 
