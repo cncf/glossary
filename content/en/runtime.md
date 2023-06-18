@@ -7,7 +7,10 @@ tags: ["application", "", ""]
 
 ## What it is
 
-In [cloud native](/cloud-native-apps/) computing, runtime refers to the environment where applications or services operate. It includes the necessary components and resources to make software work in a cloud native setup.
+A runtime in general is something that executes a piece of software. 
+It can be seen as an abstraction of the underlying operating system that knows how to translate the commands of the program into respective actions on the operating system level. 
+In [cloud native](/cloud-native-apps/) computing, when we talk about the runtime we refer to the container runtime. 
+The container runtime is that piece of Kubernetes that knows and takes care of how to run containers.
 
 ## Problem it addresses
 
