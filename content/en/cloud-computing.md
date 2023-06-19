@@ -12,7 +12,7 @@ It extends beyond merely providing resources and we generally differentiate betw
 These models differ based on the usage and accessibility of the cloud infrastructure.
 
 In a private cloud, the infrastructure is exclusively dedicated to a single organization, 
-and it can exist both on-premise (within the organization's physical location) or off-premise (hosted by a third-party service provider). 
+and it can exist both on-premises (within the organization's physical location) or off-premises (hosted by a third-party service provider). 
 This setup offers more control over the infrastructure, data security, and regulatory compliance, 
 and can be customized to meet specific business needs.
 
