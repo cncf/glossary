@@ -22,15 +22,15 @@ L'automatisation de l'infrastructure et la gestion de configuration déclarative
 
 ## Quel en est l'utilité
 
-Comme pour les outils traditionnels d'[infrastructure en tant que code](/infrastructure-as-code/), Kubernetes aide à l'automatisation mais à l'avantage de fonctionnait avec des conteneurs.
-Les conteneurs sont plus résistants aux écarts de configuration que les machines [virtuelles](/virtual-machine/) ou physique.
+Comme pour les outils traditionnels d'[infrastructure en tant que code](/infrastructure-as-code/) Kubernetes aide à l'automatisation, mais à l'avantage de fonctionner avec des conteneurs.
+Les conteneurs sont plus résistants aux écarts de configuration que les [machines virtuelles](/virtual-machine/) ou physique.
 
-De plus, Kubernetes fonctionne de manière déclarative, cela veut dire qu'au lieu qu'un operator demande à la machine de faire quelque chose, ils décrivent - souvent via un manifeste (e.g., YAML) - à quoi l'infrastructure devrait ressembler.
+De plus, Kubernetes fonctionne de manière déclarative, cela veut dire qu'au lieu que des opérateurs demandent à la machine de faire quelque chose, ils décrivent - souvent via un manifeste (e.g., YAML) - à quoi l'infrastructure devrait ressembler.
 Kubernetes s'occupe ensuite du "Comment".
 Il en résulte que Kubernetes est extrêmement compatible avec l'infrastructure en tant que code.
 
-Kubernetes s'[auto-guérit](/self-healing/) également.
+Kubernetes s'[auto-répare](/self-healing/) également.
 L'état actuel du cluster correspond toujours à l'état désiré par l'opérateur.
-Si kubernetes détecte une déviation par rapport à ce qui est décrit dans les fichiers manifests, un contrôleur Kubernetes va s'en occuper et le corriger.
+Si Kubernetes détecte une déviation par rapport à ce qui est décrit dans les fichiers manifestes, un contrôleur Kubernetes va s'en occuper et le corriger.
 Bien que l'infrastructure utilisée par Kubernetes puisse être en constante évolution, Kubernetes s'adapte constamment et automatiquement aux changements et s'assure qu'elle correspond à l'état souhaité.
 
