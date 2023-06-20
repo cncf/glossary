@@ -11,7 +11,6 @@ application
 Appreciated
 approver
 architecture
-Arnes
 autocura
 autoescalado
 autoescalamiento
@@ -110,6 +109,7 @@ evento
 existing
 extensibilidad
 externalizar
+FaaS
 faltantes
 Feedback
 Finance
@@ -122,7 +122,6 @@ Foundry
 framework
 frontend
 fundamentals
-Garcia
 gateway
 GB
 GCP
@@ -131,6 +130,7 @@ GitHub
 GitOps
 glossary
 Gmail
+González
 good
 Google
 help
@@ -163,6 +163,7 @@ Kubernetes
 Language
 laptop
 Layer
+layout
 License
 link
 localizations
@@ -189,6 +190,7 @@ monitorear
 monitoreará
 monitoreo
 Morgan
+mTLS
 multitenancy
 multitenant
 NASDAQ
@@ -227,7 +229,6 @@ proyecto
 PRs
 pull
 Quiceno
-Rael
 Ramer
 RDS
 relevantes
@@ -242,6 +243,7 @@ SaaS
 Salesforce
 SCE
 scripts
+search
 Secure
 security
 Seokho
