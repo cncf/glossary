@@ -22,7 +22,7 @@ On the other hand, applications that process requests while considering previous
 When stateful applications, apps that *do* have session data, are horizontally scaled, every instance needs access to that same data.
 If one instance processes a request, the other instances must have access to that session data to take it into account when they process the next request. 
 And that brings some challenges. 
-All instances would have to somehow sync that session data, which often used to be stored only in-memory of an instance before the rise of the cloud.  
+For example, all instances must sync that session data stored *in memory* of the instance that processed the request.
 This approach isn't reliable as synchronizing session data between instances is a high effort. 
 Additionally, state stored in memory is lost when an instance crashes or is gracefully shut down and relocated — a common scenario in the cloud. 
 
