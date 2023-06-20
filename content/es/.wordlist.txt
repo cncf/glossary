@@ -39,6 +39,7 @@ category
 Catherine
 CC
 CD
+CDN
 changes
 Chaos
 chats
@@ -198,6 +199,7 @@ NASDAQ
 Native
 needed
 Netflix
+Network
 networking
 new
 Nicolas
