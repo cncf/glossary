@@ -164,6 +164,7 @@ Language
 laptop
 Layer
 layout
+Left
 License
 link
 localizations
@@ -250,6 +251,7 @@ Seokho
 Server
 Serverless
 service
+Shift
 sign
 Site
 Slack
