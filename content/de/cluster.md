@@ -15,7 +15,8 @@ Der Bedarf an global verfügbaren Systemen, und viele Jahre mit "trial and error
 
 ## Welches Problem es löst
 
-Software, die nur auf einem einzelnen Computer läuft, stellt einen Single Point of Failure dar. Business-kritische Systeme können offline gehen, wenn dieser Computer abstürzt oder Jemand aus Versehen den Stecker zieht.
+Software, die nur auf einem einzelnen Computer läuft, stellt einen Single Point of Failure dar. 
+Business-kritische Systeme können offline gehen, wenn dieser Computer abstürzt oder Jemand aus Versehen den Stecker zieht.
 
 Durch Cluster werden Anwendungen widerstandsfähiger gegen Störungen. Sie bestehen aus mehreren sogenannten Nodes, die nach Außen hin als ein System (Cluster) dargestellt werden.
 
