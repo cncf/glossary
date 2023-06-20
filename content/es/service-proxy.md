@@ -8,7 +8,7 @@ tags: ["networking", "", ""]
 ## ¿Qué es?
 
 Un intermediario de servicio intercepta tráfico desde o hacia un [servicio](/service/) determinado,
-aplica algún tipo de lógica predefinida y luego envía ese tráfico hacia otro servicio.
+aplicando algún tipo de lógica predefinida y luego envía ese tráfico hacia otro servicio.
 En esencia actúa como un agente intermedio que recolecta información referente al tráfico de red y/o aplica reglas al mismo.
 
 ## Problema que aborda
