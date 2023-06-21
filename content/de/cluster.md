@@ -23,6 +23,5 @@ Fallen einzelne Nodes aus, so kann die Anwendung dennoch weiter laufen.
 
 ## Wie es das Problem löst
 
-Moderne Software wird grundsätzlich als verteilte Anwendung entwickelt, die als Cluster zusammengefasst werden und auf mehreren Maschinen laufen.
 
 Diese neuen Technologien sind die Grundbausteine, die die Erstellung und den Betrieb von verteilten Systemen einfacher machen.
