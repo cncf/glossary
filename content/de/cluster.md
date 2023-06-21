@@ -24,4 +24,3 @@ Fallen einzelne Nodes aus, so kann die Anwendung dennoch weiter laufen.
 ## Wie es das Problem löst
 
 
-Diese neuen Technologien sind die Grundbausteine, die die Erstellung und den Betrieb von verteilten Systemen einfacher machen.
