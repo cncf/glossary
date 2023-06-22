@@ -10,8 +10,8 @@ tags: ["infrastructure", "fundamental", ""]
 Un nœud est un ordinateur qui travaille de concert avec d'autres ordinateurs, ou nœuds, pour accomplir une tâche commune.
 Prenez par exemple votre ordinateur portable, votre modem et votre imprimante.
 Ils sont tous connectés sur votre réseau wifi communiquant et collaborant, chacun représentant un nœud.
-En [Cloud computing](/cloud-computing/), un nœud peut être un ordinateur physique,
-un ordinateur virtuel, appelé [VM](/virtual-machine/), ou encore un [Conteneur](/container/).
+En [cloud computing](/cloud-computing/), un nœud peut être un ordinateur physique,
+un ordinateur virtuel, appelé [VM](/virtual-machine/), ou encore un [conteneur](/container/).
 
 ## Problème auquel il répond
 
