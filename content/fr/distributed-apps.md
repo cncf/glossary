@@ -7,7 +7,7 @@ tags: ["architecture", "", ""]
 
 ## Ce que c'est
 
-Une application distribuée est une application dont les fonctionnalités sont découpées en plusieurs parties indépendantes plus petites.
+Une application distribuée est une application dont les fonctionnalités sont découpées en plusieurs parties indépendantes et plus petites.
 Les applications distribuées sont généralement composées de [microservices](/microservices/) individuels
 qui s'occupent de différentes problématiques au sein d'une application plus large.
 Dans un environnement cloud native, ces composants individuels s'exécutent généralement en tant que [conteneurs](/container/) sur un [cluster](/cluster/).
@@ -17,7 +17,7 @@ Dans un environnement cloud native, ces composants individuels s'exécutent gén
 Une application s'exécutant sur un seul ordinateur représente un point unique de défaillance : si cet ordinateur tombe en panne, l'application devient indisponible.
 Les applications distribuées sont souvent opposées aux [applications monolithiques](/monolithic-apps/).
 Une application monolithique peut être plus difficile à mettre à l'échelle car les différents composants ne peuvent pas être mis à l'échelle indépendamment.
-Une application monolithique peut également devenir un frein à la vitesse de développement à mesure que l'application grossi
+Une application monolithique peut également devenir un frein à la vitesse de développement à mesure que l'application grossit
 car davantage de développeurs doivent travailler sur une base de code partagée qui n'a pas toujours des limites bien définies.
 
 ## Quel en est l'utilité
