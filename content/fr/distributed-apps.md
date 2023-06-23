@@ -14,16 +14,16 @@ Dans un environnement cloud native, ces composants individuels s'exécutent gén
 
 ## Problème auquel il répond
 
-Une application s'exécutant sur un seul ordinateur représente un point unique de défaillance : si cet ordinateur tombe en panne, l'application devient indisponible.
+Une application s'exécutant sur un seul ordinateur représente un point de défaillance unique — si cet ordinateur tombe en panne, l'application devient indisponible.
 Les applications distribuées sont souvent opposées aux [applications monolithiques](/monolithic-apps/).
 Une application monolithique peut être plus difficile à mettre à l'échelle car les différents composants ne peuvent pas être mis à l'échelle indépendamment.
-Une application monolithique peut également devenir un frein à la vitesse de développement à mesure que l'application grossit
+Les applications monolithiques peuvent également devenir un frein à la vitesse de développement à mesure qu'elles grossissent,
 car davantage de développeurs doivent travailler sur une base de code partagée qui n'a pas toujours des limites bien définies.
 
 ## Quel en est l'utilité
 
-En divisant une application en différents éléments et en les exécutant à différents endroits, le système global peut tolérer davantage d'échecs.
+En divisant une application en différents éléments et en les exécutant à différents endroits, le système global peut tolérer davantage de pannes.
 Cela permet également à une application de tirer parti des fonctionnalités de mise à l'échelle non disponibles pour une application ayant une instance unique,
 à savoir la possibilité de [mettre à l'échelle horizontalement](/horizontal-scaling/).
 Cela a cependant un coût : une complexité accrue et des couts opérationnels supplémentaires
-car vous exécutez désormais de nombreux composants d'application au lieu d'une seule application monolithique.
+— vous exécutez désormais de nombreux composants d'application au lieu d'une seule application.
