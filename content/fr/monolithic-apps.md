@@ -2,7 +2,7 @@
 title: Applications Monolithiques
 status: Completed
 category: concept
-tags: ["architecture", "", ""]
+tags: ["architecture", "fundamental", ""]
 ---
 
 ## Ce que c'est

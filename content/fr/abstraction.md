@@ -1,6 +1,6 @@
 ---
 title: Abstraction
-status: Feedback Appreciated
+status: Completed
 category: Property
 tags: ["fundamental", "", ""]
 ---

@@ -2,7 +2,7 @@
 title: Architectures Fortement Couplées
 status: Completed
 category: Property
-tags: ["fundamentals", "", ""]
+tags: ["fundamental", "architecture", "property"]
 ---
 
 L'architecture fortement couplée est un type d'architecture où un nombre de composants d'application sont interdépendants

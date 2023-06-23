@@ -1,6 +1,6 @@
 ---
 title: Interface de Programmation d'Application (API)
-status: Feedback Appreciated
+status: Completed
 category: technology
 tags: ["architecture", "fundamental", ""]
 ---

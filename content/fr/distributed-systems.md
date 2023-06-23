@@ -1,8 +1,8 @@
 ---
 title: Système distribué
-status: Feedback Appreciated
+status: Completed
 category: concept
-tags: ["architecture"]
+tags: ["architecture", "", ""]
 ---
 
 ## Ce que c'est
