@@ -13,10 +13,15 @@ Kubernetes manages pods as part of a larger deployment and can scale pods [verti
 
 ## Problem it addresses
 
-Containers provide a lightweight and efficient way to package and deploy applications, but applications need more than packaging to function as designed. 
-They often require additional resources and services, such as storage or networking, which must be managed and configured separately.
+While containers themselves are individual entities that can act as units for running and controlling applications, there are many situations where multiple containers need to interact and be controlled in a tightly coupled manner. 
+For instance, an auxiliary container can be used alongside each main application container to add additional functionalities or to set up global configurations. 
+Examples of these include init containers that inject and apply basic settings to the application container, sidecar containers that handle network traffic routing for each application container, and containers that collect logs in conjunction with each container.
 
-Pods provide a way to group and manage containers as a single unit, ensuring all the resources and services the app needs are available and configured correctly.
+Managing these closely related containers individually can lead to redundancy in management tasks.
+For example, an operator may have to repeatedly determine the placement of each related container, even though the operator already aware that those related containers should be placed on the same node.
+Similarly, even though the lifecycles of these related containers need to be synchronized, they will be managed individually.
+
+Therefore, to alleviate these management burdens and simplify usage, it is necessary to treat closely tied containers as a single integrated control entity.
 
 ## How it helps
 
