@@ -14,7 +14,7 @@ Supposons que vous avez un ordinateur avec 4 Go de mémoire et que vous voulez a
 
 Lorsque la demande d'une application dépasse la capacité actuelle de l'instance de cette application, nous devons trouver un moyen de [mettre à l'échelle](/scalability/) le système (ajouter de la capacité au système).
 Nous pouvons soit ajouter plus de ressources informatiques aux nœuds existants (mise à l'échelle verticale), soit ajouter plus de nœuds au système ([mise à l'échelle horizontale](/horizontal-scaling/)).
-La [capacité de mise à l'échelle](/scalability/) contribue à la compétitivité, l'efficacité, la réputation et la qualité
+La [capacité de mise à l'échelle](/scalability/) contribue à la compétitivité, à l'efficacité, à la réputation et à la qualité.
  
 ## Quel en est l'utilité
 
