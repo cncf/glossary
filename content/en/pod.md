@@ -14,7 +14,7 @@ Kubernetes manages pods as part of a larger deployment and can scale pods [verti
 ## Problem it addresses
 
 While containers themselves are individual entities that can act as units for running and controlling applications, there are many situations where multiple containers need to interact and be controlled in a tightly coupled manner. 
-For instance, an auxiliary container can be used alongside each main application container to add additional functionalities or to set up global configurations. 
+For instance, auxiliary containers are often used alongside the main container to add additional functionalities or to set up global configurations. 
 Examples of these include init containers that inject and apply basic settings to the application container, sidecar containers that handle network traffic routing for each application container, and containers that collect logs in conjunction with each container.
 
 Managing these closely related containers individually can lead to redundancy in management tasks.
