@@ -41,7 +41,8 @@ collaborators:
 
   # English approvers (approver for all files in repository)
 
-  
+  - username: nate-double-u
+    permission: admin
 
   # Localization approvers
   
@@ -114,16 +115,16 @@ collaborators:
     permission: push
 
   # l10n bn approvers
+  - username: Arindam200
+    permission: push
+
+  - username: Imtiaz1234
+    permission: push
+
   - username: mitul3737
     permission: push
-
-  - username: Mouly22
-    permission: push
-
-  - username: ikramulkayes
-    permission: push
     
-  - username: Imtiaz1234
+  - username: sajibAdhi
     permission: push
     
   # l10n es approvers
@@ -192,6 +193,19 @@ collaborators:
   - username: naonishijima
     permission: push
 
+  # l10n tr approvers
+  - username: aliok
+    permission: push
+
+  - username: halil-bugol
+    permission: push
+
+  - username: developer-guy
+    permission: push
+
+  - username: eminalemdar
+    permission: push
+
 branches:
 
   # Default branch of this repository for configurations and English contents
@@ -211,6 +225,7 @@ branches:
          - seokho-son
          - iamNoah1
          - jihoon-seo
+         - nate-double-u
         teams: []
       enforce_admins: null
       required_linear_history: null
@@ -338,10 +353,10 @@ branches:
         apps: []
         # bn approvers
         users:
-         - mitul3737
-         - Mouly22
-         - ikramulkayes
+         - Arindam200
          - Imtiaz1234
+         - mitul3737
+         - sajibAdhi
         teams: []
       enforce_admins: null
       required_linear_history: null
@@ -455,3 +470,21 @@ branches:
       enforce_admins: null
       required_linear_history: null
       
+  # l10n branch for tr contents only
+  - name: dev-tr
+    protection:
+      required_pull_request_reviews:
+        required_approving_review_count: 2
+        require_code_owner_reviews: true
+      required_status_checks: null
+      restrictions:
+        apps: []
+        # tr approvers
+        users:
+         - aliok
+         - halil-bugol
+         - developer-guy
+         - eminalemdar
+        teams: []
+      enforce_admins: null
+      required_linear_history: null
