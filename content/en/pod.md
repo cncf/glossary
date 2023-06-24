@@ -17,7 +17,7 @@ While containers themselves are individual entities that can act as units for ru
 For instance, auxiliary containers are often used alongside the main container to add additional functionalities or to set up global configurations. 
 Examples of these include init containers that inject and apply basic settings to the application container, sidecar containers that handle network traffic routing for each application container, and containers that collect logs in conjunction with each container.
 
-Managing these closely related containers individually can lead to redundancy in management tasks.
+Managing these closely related containers individually would lead to management task redundancies.
 For example, the operator would have to repeatedly determine the placement of related containers to ensure they remain together, even though they already specified it during the initial setup.  
 And although the lifecycles of these related containers need to be synchronized, they can only be managed individually.  
 
