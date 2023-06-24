@@ -21,7 +21,7 @@ Managing these closely related containers individually can lead to redundancy in
 For example, the operator would have to repeatedly determine the placement of related containers to ensure they remain together, even though they already specified it during the initial setup.  
 And although the lifecycles of these related containers need to be synchronized, they can only be managed individually.  
 
-Therefore, to alleviate these management burdens and simplify usage, it is necessary to treat closely tied containers as a single integrated control entity.
+Pods bundle closely tied containers into a single unit, significantly simplifying container operations. 
 
 ## How it helps
 
