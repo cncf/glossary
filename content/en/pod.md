@@ -18,7 +18,7 @@ For instance, auxiliary containers are often used alongside the main container t
 Examples of these include init containers that inject and apply basic settings to the application container, sidecar containers that handle network traffic routing for each application container, and containers that collect logs in conjunction with each container.
 
 Managing these closely related containers individually can lead to redundancy in management tasks.
-For example, an operator may have to repeatedly determine the placement of each related container, even though the operator already aware that those related containers should be placed on the same node.
+For example, the operator would have to repeatedly determine the placement of related containers to ensure they remain together, even though they already specified it during the initial setup.  
 Similarly, even though the lifecycles of these related containers need to be synchronized, they will be managed individually.
 
 Therefore, to alleviate these management burdens and simplify usage, it is necessary to treat closely tied containers as a single integrated control entity.
