@@ -6,41 +6,55 @@
 
 # These owners will be default owners for everything in this repository.
 # These owners consist of Maintainers and English approvers.
-* @caniszczyk @CathPag @jasonmorgan @seokho-son @iamNoah1 @jihoon-seo
+* @caniszczyk @CathPag @jasonmorgan @seokho-son @iamNoah1 @jihoon-seo @nate-double-u
+
+
+# Approvers for English content
+/content/en/ @caniszczyk @CathPag @jasonmorgan @seokho-son @iamNoah1 @jihoon-seo @nate-double-u
 
 
 # These are the owners (approvers) for localization contents
 # in each `/content/language/` directory.
 
-# Approvers for Korean contents
-/content/ko/ @seokho-son @Eviekim @jihoon-seo @yunkon-kim
-
-# Approvers for Portuguese contents
-/content/pt-br/ @edsoncelio @brunoguidone @jessicalins @MrErlison
-
-# Approvers for Hindi contents
-/content/hi/ @Garima-Negi @sayantani11 @anubha-v-ardhan @jayesh-srivastava
-
-# Approvers for German contents
-/content/de/ @iamNoah1 @DaveVentura @CathPag @bcubk
-
-# Approvers for Italian contents
-/content/it/ @fsbaraglia @ugho16 @annalisag-spark @sistella
 
 # Approvers for Arabic contents
 /content/ar/ @TarekMSayed @same7ammar @AShabana @arezk84
 
 # Approvers for Bengali contents
-/content/bn/ @mitul3737 @Mouly22 @ikramulkayes @Imtiaz1234
+/content/bn/ @Arindam200 @Imtiaz1234 @mitul3737 @sajibAdhi
+
+# Approvers for German contents
+/content/de/ @iamNoah1 @DaveVentura @CathPag @bcubk
 
 # Approvers for Spanish contents
-/content/es/ @raelga @electrocucaracha @krol3 @92nqb
-
-# Approvers for Chinese contents
-/content/zh-cn/ @hanyuancheung @Jacob953 @Rocksnake @Submarinee
+/content/es/ @raelga @ramrodo @electrocucaracha @krol3 @92nqb
 
 # Approvers for French contents
-/content/fr/ @huats @fydrah @Krast76
+/content/fr/ @huats @fydrah @Krast76 @sestegra
+
+# Approvers for Hindi contents
+/content/hi/ @Garima-Negi @sayantani11 @anubha-v-ardhan @jayesh-srivastava
+
+# Approvers for Italian contents
+/content/it/ @fsbaraglia @ugho16 @annalisag-spark @sistella
+
+# Approvers for Japanese contents
+/content/ja/ @inductor @naonishijima @kaitoii11
+
+# Approvers for Korean contents
+/content/ko/ @seokho-son @jihoon-seo @yunkon-kim
+
+# Approvers for Portuguese contents
+/content/pt-br/ @edsoncelio @brunoguidone @jessicalins @MrErlison
+
+# Approvers for Turkish contents
+/content/tr/ @aliok @halil-bugol @developer-guy @eminalemdar
 
 # Approvers for Urdu contents
 /content/ur/ @Saim-Safdar @waleed318
+
+# Approvers for Simplified Chinese contents
+/content/zh-cn/ @hanyuancheung @Jacob953 @Rocksnake @Submarinee
+
+# Approvers for Traditional Chinese contents
+/content/zh-tw/ @pichuang @ydFu
