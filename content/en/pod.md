@@ -14,7 +14,6 @@ Kubernetes manages pods as part of a larger deployment and can scale pods [verti
 ## Problem it addresses
 
 While containers generally act as independent units that run and control a certain workload, there are cases when containers need to interact and be controlled in a tightly coupled manner. 
-Examples include containers that inject and apply basic settings to the main container, _sidecar_ (containers) that handle network traffic routing for the main container (see [service mesh](/service-mesh/)), or containers collecting logs in conjunction with each container.
 
 Managing these closely related containers individually would lead to management task redundancies.
 For example, the operator would have to repeatedly determine the placement of related containers to ensure they remain together, even though they already specified it during the initial setup.  
