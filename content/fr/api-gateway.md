@@ -1,6 +1,6 @@
 ---
 title: Passerelle d'API (API Gateway)
-status: Feedback Appreciated
+status: Completed
 category: technology
 tags: ["networking", "", ""]
 ---

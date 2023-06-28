@@ -1,6 +1,6 @@
 ---
 title: Développement Agile de logiciels
-status: Feedback Appreciated
+status: Completed
 category: concept
 tags: ["methodology", "", ""]
 ---

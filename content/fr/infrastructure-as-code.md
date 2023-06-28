@@ -1,9 +1,9 @@
 ---
 title: Infrastructure en tant que code
-status: Feedback Appreciated
+status: Completed
 category: concept
+tags: ["infrastructure", "methodology", ""]
 ---
-
 
 ## Ce que c'est
 
