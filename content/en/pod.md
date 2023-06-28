@@ -27,7 +27,7 @@ Pods allow operators to group containers with dependencies and manage them as on
 For instance, auxiliary containers are often used alongside the main container to add additional functionalities or to set up global configurations. 
 Examples include containers that inject and apply basic settings to the main container, _sidecar_ (containers) that handle network traffic routing for the main container (see [service mesh](/service-mesh/)), or containers collecting logs in conjunction with each container.
 
-Resource sharing: Containers in the same pod can share resources, such as CPU and memory, which allows for efficient use of resources.
+Operators can also set per-pod resource limits, allowing services within a pod to share resources but to limit (without taking away resources from other pods). 
 
 Simplified management: Pods make it easier to manage groups of containers as a single unit, rather than managing each container individually. 
 This can simplify deployment, scaling, and monitoring of applications.
