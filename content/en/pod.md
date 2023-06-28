@@ -23,7 +23,7 @@ And although the lifecycles of these related containers need to be synchronized,
 
 ## How it helps
 
-Pods allow operators to group containers with dependencies and manage them as one unit. 
+Pods bundle closely tied containers into a single unit, significantly simplifying container operations.
 For instance, auxiliary containers are often used alongside the main container to add additional functionalities or to set up global configurations. 
 Examples include containers that inject and apply basic settings to the main container, _sidecar_ (containers) that handle network traffic routing for the main container (see [service mesh](/service-mesh/)), or containers collecting logs in conjunction with each container.
 
