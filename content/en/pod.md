@@ -32,7 +32,6 @@ Resource sharing: Containers in the same pod can share resources, such as CPU an
 Simplified management: Pods make it easier to manage groups of containers as a single unit, rather than managing each container individually. 
 This can simplify deployment, scaling, and monitoring of applications.
 
-Portability: Pods can be easily moved between different hosts or cloud providers, which allows for greater flexibility and portability of applications.
 
 Overall, pods are a key concept in Kubernetes, and provide a powerful tool for deploying and managing containerized applications in a scalable and efficient way.
 
