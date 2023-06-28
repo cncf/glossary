@@ -31,5 +31,4 @@ Operators can also set per-pod resource limits, allowing services within a pod t
 
 
 
-Overall, pods are a key concept in Kubernetes, and provide a powerful tool for deploying and managing containerized applications in a scalable and efficient way.
 
