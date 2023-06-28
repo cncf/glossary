@@ -17,7 +17,7 @@ While containers generally act as independent units that run and control a certa
 there are cases when containers need to interact and be controlled in a tightly coupled manner. 
 
 Managing these closely related containers individually would lead to management task redundancies.
-For example, the operator would have to repeatedly determine the placement of related containers to ensure they remain together, even though they already specified it during the initial setup.  
+For example, the operator would have to repeatedly determine the placement of related containers to ensure they remain together.
 And although the lifecycles of these related containers need to be synchronized, they can only be managed individually.  
 
 Pods bundle closely tied containers into a single unit, significantly simplifying container operations. 
