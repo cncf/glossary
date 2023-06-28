@@ -23,7 +23,9 @@ Pods bundle closely tied containers into a single unit, significantly simplifyin
 
 ## How it helps
 
-Isolation: Each pod has its own isolated environment, including its own network stack and file system. This ensures that containers in the same pod can't interfere with each other, and helps maintain security and stability.
+Pods allow operators to group containers with dependencies and manage them as one unit. 
+For instance, auxiliary containers are often used alongside the main container to add additional functionalities or to set up global configurations. 
+Examples include containers that inject and apply basic settings to the main container, _sidecar_ (containers) that handle network traffic routing for the main container (see [service mesh](/service-mesh/)), or containers collecting logs in conjunction with each container.
 
 Resource sharing: Containers in the same pod can share resources, such as CPU and memory, which allows for efficient use of resources.
 
