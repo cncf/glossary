@@ -44,6 +44,9 @@ collaborators:
   - username: nate-double-u
     permission: admin
 
+  - username: castrojo
+    permission: push
+
   # Localization approvers
   
   # l10n ko approvers
@@ -226,6 +229,7 @@ branches:
          - iamNoah1
          - jihoon-seo
          - nate-double-u
+         - castrojo
         teams: []
       enforce_admins: null
       required_linear_history: null
