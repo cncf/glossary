@@ -29,7 +29,6 @@ Examples include containers that inject and apply basic settings to the main con
 
 Operators can also set per-pod resource limits, allowing services within a pod to share resources but to limit (without taking away resources from other pods). 
 
-Simplified management: Pods make it easier to manage groups of containers as a single unit, rather than managing each container individually. 
 This can simplify deployment, scaling, and monitoring of applications.
 
 
