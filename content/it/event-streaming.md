@@ -18,7 +18,7 @@ I dati inviati, insieme ai loro cambiamenti (il prezzo delle azioni) sono gli ev
 
 Tradizionalmente, Yahoo! Finance avrebbe usato singole richieste TCP.
 Questo sarebbe stato molto inefficiente, in quanto avrebbe richiesto la creazione di una connessione per ogni evento.
-Man mano che i dati diventano più in tempo reale, scalare questo tipo di soluzione diventa inefficiente.
+Man mano che i dati diventano più in tempo reale, rendere scalabile questo tipo di soluzione diventa inefficiente.
 Aprire una connessione una sola volta e permettere agli eventi di fluire è una soluzione ideale per il funzionamento in tempo reale.
 La quantità di dati generati sta crescendo in modo esponenziale e contestualmente il loro stato è in continuo cambiamento. Gli sviluppatori e gli utenti devono essere in grado di visualizzare tali dati in tempo pressoché reale.
 
