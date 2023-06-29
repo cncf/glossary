@@ -11,15 +11,15 @@ L'architettura Zero trust prevede di progettare e implementare sistemi IT con un
 nel quale la fiducia è completamente rimossa.
 Il principio fondamentale è "non fidarsi mai, verificare sempre": prima di comunicare con altri componenti di un sistema,
 i dispositivi o i sistemi stessi attuano delle verifiche.
-Oggi accade spesso che all'interno di un network aziendale i sistemi e i dispositivi possano comunicare liberamente tra loro
+Oggi accade spesso che internamente ad un network aziendale i sistemi e i dispositivi possano comunicare liberamente tra loro
 poiché si trovano all'interno del confine considerato affidabile del perimetro del network aziendale.
 Un'architettura Zero trust applica l'approccio opposto, nel quale anche all'interno del perimetro del network
-i componenti all'interno del sistema devono superare delle verifiche, prima che possa avvenire un qualsiasi tipo di comunicazione.
+i componenti del sistema debbano superare delle verifiche, prima che possa avvenire un qualsiasi tipo di comunicazione.
 
 ## Quali problematiche affronta
 
-Con l'approccio tradizionale basato sulla fiducia con il quale si ritengono affidabili i sistemi e i dispositivi all'interno del perimetro del network aziendale,
-l'assunto è che siccome c'è fiducia non ci sono problemi.
+Con l'approccio tradizionale che si fonda sulla fiducia, secondo la quale si ritengono affidabili i sistemi e i dispositivi all'interno del perimetro del network aziendale,
+si basa sull'assunto che siccome c'è fiducia, non c'è da preoccuparsi.
 Un'architettura Zero trust, invece, considera la fiducia una vulnerabilità.
 Nel caso in cui un agente malevolo abbia ottenuto l'accesso a un dispositivo considerato affidabile,
 a seconda del livello di fiducia e accesso che abbia quel determinato dispositivo,
