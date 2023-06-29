@@ -30,8 +30,4 @@ Examples include containers that inject and apply basic settings to the main con
 _sidecar_ (containers) that handle network traffic routing for the main container (see [service mesh](/service-mesh/)), 
 or containers collecting logs in conjunction with each container.
 
-Memory and CPU allocation can be defined either on a pod level, allowing the containers inside to share resources in a flexible way, or per container. 
-
-
-
-
+Memory and CPU allocation can be defined either on a pod level, allowing the containers inside to share resources in a flexible way, or per container.
