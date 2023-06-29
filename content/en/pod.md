@@ -14,7 +14,7 @@ Kubernetes manages pods as part of a larger deployment and can scale pods [verti
 
 ## Problem it addresses
 
-While containers generally act as independent units that run and control a certain workload, 
+While containers generally act as independent units that run and control a particular workload, 
 there are cases when containers need to interact and be controlled in a tightly coupled manner. 
 
 Managing these closely related containers individually would lead to management task redundancies.
