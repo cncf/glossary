@@ -8,7 +8,7 @@ category: Concetto
 
 Il Role-based access control (RBAC - Controllo degli accessi basato sul ruolo) è un metodo per regolare l'accesso a sistemi e risorse basato sui ruoli dei singoli utenti all'interno di un'organizzazione.
 Ogni funzione aziendale ha un ruolo specifico e determinati permessi.
-Per esempio, un membro del team di marketing potrebbe avere i permessi per vedere le trattative in corso (permesso di *lettura*), ma potrebbe non essere in grado di modificarle (permesso di *scrittura*).
+Per esempio, un membro del team di marketing potrebbe avere i permessi per vedere le trattative in corso (permesso di *lettura*), ma non sarà in grado di modificarle (permesso di *scrittura*).
 I team di vendita e di marketing hanno permessi diversi in base ai loro ruoli, da cui RBAC, e lo stesso vale per i ruoli all'interno dei team di sviluppo.
 
 ## Quali problematiche affronta
