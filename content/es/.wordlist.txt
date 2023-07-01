@@ -39,6 +39,7 @@ category
 Catherine
 CC
 CD
+CDN
 changes
 Chaos
 chats
@@ -164,6 +165,7 @@ Language
 laptop
 Layer
 layout
+Left
 License
 link
 localizations
@@ -197,6 +199,7 @@ NASDAQ
 Native
 needed
 Netflix
+Network
 networking
 new
 Nicolas
@@ -251,6 +254,7 @@ Seokho
 Server
 Serverless
 service
+Shift
 sign
 Site
 Slack
