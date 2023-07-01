@@ -1,6 +1,7 @@
 ---
 title: 如何参与贡献
 toc_hide: true
+status: Completed
 menu:
   main:
     weight: 10

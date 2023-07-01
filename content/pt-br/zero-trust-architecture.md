@@ -2,6 +2,7 @@
 title: Arquitetura de Confiança Zero
 status: Completed
 category: conceito
+tags: ["segurança", "", ""]
 ---
 
 ## O que é

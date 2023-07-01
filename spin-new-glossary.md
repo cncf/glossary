@@ -12,6 +12,12 @@ rm -rf themes/docsy
 git submodule add https://github.com/google/docsy.git themes/docsy
 ```
 
+Switch the docsy repo to the same changeset used in the CNCF Glossary if you want to keep the UI consistent:
+```
+cd themes/docsy/
+git checkout 170cdd9
+```
+
 Create a .gitignore with these lines:
 ```
 public/

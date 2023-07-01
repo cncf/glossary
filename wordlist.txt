@@ -26,9 +26,9 @@ caret
 catherine
 cavalcanti
 cd
-chatbot
 cdn
 changelog
+chatbot
 cio
 cka
 ckad
@@ -46,7 +46,10 @@ customizable
 cyber
 daniel
 datacenter
+datacenters
 datadog
+dba
+dbaas
 de
 declaratively
 decrypt
@@ -93,12 +96,15 @@ https
 iaas
 iac
 idempotence
+ies
 impactful
 inelasticity
 inlinehilite
 io
 iot
+ispas
 jason
+jihoon
 jonasbn
 jones
 josé
@@ -108,6 +114,7 @@ keys
 kubernetes
 lang
 lifecycle
+lifecycles
 linters
 localization
 localizations
@@ -122,6 +129,8 @@ microservices
 misconfiguration
 mkdn
 mtls
+multitenancy
+multitenant
 navbar
 observability
 oci
@@ -129,6 +138,7 @@ oliveira
 opencontainers
 orchestrator
 overdemand
+overprivileged
 paas
 pathconverter
 pavel
@@ -143,6 +153,7 @@ py
 pypi
 pyspelling
 ramer
+RBAC
 rdbms
 readme
 replicable
@@ -158,9 +169,12 @@ sbates
 scalability
 scalable
 sce
+seo
 seokho
 serverless
 sexualized
+signup
+signups
 skipenes
 smartsymbols
 snippets
@@ -203,3 +217,7 @@ DBA
 Ispas
 Jihoon
 Seo
+TCP
+TCP/IP
+UDP
+HTTP/3

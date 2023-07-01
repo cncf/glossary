@@ -1,6 +1,7 @@
 ---
 title: 기여 방법
 toc_hide: true
+status: Completed
 menu:
   main:
     weight: 10

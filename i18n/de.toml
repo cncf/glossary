@@ -1,0 +1,88 @@
+
+
+# UI strings. Buttons and similar.
+
+[ui_pager_prev]
+other = "Zurück"
+
+[ui_pager_next]
+other = "Weiter"
+
+[ui_read_more]
+other = "Weiter lesen"
+
+[ui_search]
+other = "Diese Seite durchsuchen ..."
+
+# Used in sentences such as "Posted in News"
+[ui_in]
+other = "in"
+
+# Phrases for tags
+[ui_see_all_tags]
+other = "See all tags"
+[ui_tag]
+other = "Tag"
+[ui_tags]
+other = "Tags"
+[ui_search_by_tags]
+other = "Browse by Tags"
+[ui_tags_intro]
+other = "We've categorized the glossary terms. Use the filters to browse terms by tag."
+[ui_or_search_by_tags]
+other = "...or browse by tag"
+[ui_select_all]
+other = "Select All"
+[ui_deselect_all]
+other = "Deselect All"
+
+# Footer text
+[footer_all_rights_reserved]
+other = "Alle Rechte vorbehalten"
+
+[footer_privacy_policy]
+other = "Datenschutzerklärung"
+
+
+[footer_hub_button_text]
+other = "All CNCF Sites"
+
+# Post (blog, articles etc.)
+[post_byline_by]
+other = "Von"
+[post_created]
+other = "Erstellt"
+[post_last_mod]
+other = "Letzte Änderung"
+[post_edit_this]
+other = "Diese Seite anpassen"
+[post_create_child_page]
+other = "Untergeordnete Seite erstellen"
+[post_create_issue]
+other = "Problem melden"
+[post_create_project_issue]
+other = "Problem bzgl. Projekt melden"
+[post_posts_in]
+other = "Beiträge in"
+[post_reading_time]
+other = "minute read"
+
+# Print support
+[print_printable_section]
+other = "Dies ist die mehrseitige druckbare Ansicht dieses Abschnitts."
+[print_click_to_print]
+other = "Hier klicken zum Drucken"
+[print_show_regular]
+other = "Zurück zur normalen Ansicht dieser Seite"
+[print_entire_section]
+other = "Gesamten Abschnitt drucken"
+
+# Feedback section
+[feedback_title]
+other = "Feedback"
+[feedback_question]
+other = "War diese Seite hilfreich?"
+[feedback_answer_yes]
+other = "Ja"
+[feedback_answer_no]
+other = "Nein"
