@@ -19,8 +19,8 @@ We employ a community-driven process governed by the CNCF to develop and improve
 This Glossary provides a vendor-neutral platform to organize a shared vocabulary around cloud native technologies. 
 Contributions are welcome from all participants who abide by the project's purpose and charter.
 
-Anyone who wishes to make a contribution may submit a GitHub issue or create a pull request. 
-Please ensure you follow the [Style Guide](/style-guide/), read the [How To Contribute](/contribute/) doc, and join the [#glossary](https://cloud-native.slack.com/archives/C02TX20MQBB) channel on the CNCF Slack.
+Anyone wishing to contribute may submit a GitHub issue or create a pull request.
+Please ensure you follow the [Style Guide](/style-guide/), read the [How To Contribute](/contribute/) doc, join the [CNCF Slack](https://communityinviter.com/apps/cloud-native/cncf) workspace, and join the [#glossary](https://cloud-native.slack.com/archives/C02TX20MQBB) channel.
 There is also a [#glossary-localizations](https://cloud-native.slack.com/archives/C02N2RGFXDF) channel for those who want to help translate the glossary into their native language.
 
 ## Acknowledgements
