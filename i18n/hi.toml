@@ -20,21 +20,21 @@ other = "में"
 
 # Phrases for tags
 [ui_see_all_tags]
-other = "सभी टैग को देखे"
+other = "See all tags"
 [ui_tag]
-other = "टैग"
+other = "Tag"
 [ui_tags]
-other = "टैग"
+other = "Tags"
 [ui_search_by_tags]
-other = "टैग के द्वारा चुने"
+other = "Browse by Tags"
 [ui_tags_intro]
-other = "हमने शब्दावली शब्दों को वर्गीकृत किया है. टैग द्वारा शब्दों को चुगन करने के लिए फ़िल्टर का उपयोग करें."
+other = "We've categorized the glossary terms. Use the filters to browse terms by tag."
 [ui_or_search_by_tags]
-other = "...या टैग द्वारा चुने"
+other = "...or browse by tag"
 [ui_select_all]
-other = "सबका चुनाव करें"
+other = "Select All"
 [ui_deselect_all]
-other = "सबका चुनाव रद्द करें"
+other = "Deselect All"
 
 # Footer text
 [footer_all_rights_reserved]
@@ -45,7 +45,7 @@ other = "गोपनीयता नीति"
 
 
 [footer_hub_button_text]
-other = "सभी CNCF साइटें"
+other = "All CNCF Sites"
 
 # Post (blog, articles etc.)
 [post_byline_by]
