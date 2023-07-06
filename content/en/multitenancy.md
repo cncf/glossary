@@ -35,5 +35,5 @@ on to the tenants, significantly reducing the software cost for users (again, th
 
 ## Related terms
 
-Multitenancy is not synonymous with [SaaS](/software-as-a-service/),
+Multitenancy is not synonymous with SaaS,
 although it is very common for SaaS to be multitenant and even to feature multitenancy as one of its core benefits.
