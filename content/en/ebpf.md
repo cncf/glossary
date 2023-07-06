@@ -12,7 +12,8 @@ A Linux system has two spaces: the kernel and the user space.
 The kernel represents the operating system's core and is the only part with unlimited access to the hardware. 
 
 Applications reside in the user space, and when they need higher permissions, they send a request to the kernel. 
-These permissions allow applications to perform tasks that require deeper integration with the underlying operating system, such as interacting with low-level hardware, modifying system configurations, or accessing protected data.
+These permissions allow applications to perform tasks that require deeper integration with the underlying operating system, 
+such as interacting with low-level hardware, modifying system configurations, or accessing protected data.
 
 For applications that require more flexibility, such as direct hardware access, the kernel can be extended via what is known as the "Linux kernel modules" approach.
 It allows extending the kernel base without adding directly to the kernel source code.
