@@ -15,7 +15,8 @@ Applications reside in the user space, and when they need higher permissions, th
 These permissions allow applications to perform tasks that require deeper integration with the underlying operating system, 
 such as interacting with low-level hardware, modifying system configurations, or accessing protected data.
 
-For applications that require more flexibility, such as direct hardware access, the kernel can be extended via what is known as the "Linux kernel modules" approach.
+For applications that require more flexibility, such as direct hardware access, 
+the kernel can be extended via what is known as the "Linux kernel modules" approach.
 It allows extending the kernel base without adding directly to the kernel source code.
 However, since kernel modules operate within the kernel space, this approach introduces some security risks.
 
