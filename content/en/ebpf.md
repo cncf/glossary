@@ -9,16 +9,16 @@ category: architecture
 eBPF, or extended Berkeley Packet Filter, is a technology that allows small, sandboxed programs or scripts to be run in the kernel space of a Linux system without having to change the kernel's source code or load Linux kernel modules.
 
 A Linux system has two spaces: the kernel and the user space. 
-The kernel represents the operating system's core and is the only part with unlimited access to the hardware. 
+The kernel represents the operating system's core and is the only part 
+with unlimited access to the hardware. 
 
-Applications reside in the user space, and when they need higher permissions, they send a request to the kernel. 
-These permissions allow applications to perform tasks that require deeper integration with the underlying operating system, 
-such as interacting with low-level hardware, modifying system configurations, or accessing protected data.
-
-For applications that require more flexibility, such as direct hardware access, 
-the kernel can be extended via what is known as the "Linux kernel modules" approach.
-It allows extending the kernel base without adding directly to the kernel source code.
-However, since kernel modules operate within the kernel space, this approach introduces some security risks.
+Applications reside in the user space, and when they need higher permissions, 
+they send a request to the kernel.
+For applications that require more flexibility, such as direct hardware 
+access, the kernel can be extended via what is known as the "Linux 
+kernel modules" approach. It can extend the kernel's default functionality
+ allowing applications deeper access to the underlying components. 
+ Unfortunately, this could introduce security risks as well.
 
 ## Problem it addresses
 Normally, applications run in user space, and if the application requires some privileges from the kernel (exp. to access some hardware), 
@@ -34,6 +34,7 @@ Compared to Linux Kernel modules, eBPF provides a more controlled and contained 
 eBPF programs run in a sandboxed environment within the kernel, providing isolation and mitigating some risks. 
 If a vulnerability or flaw is exploited in an eBPF program, its impact is generally limited to the sandboxed environment.
 Moreover, before an eBPF program can start running in the kernel, it has to pass some verifications. 
-The verifier component checks the eBPF program for any potential safety violations, such as out-of-bounds memory access, infinite loops, and the usage of unauthorized kernel functions.
+The verifier component checks the eBPF program for any potential safety violations, 
+such as out-of-bounds memory access, infinite loops, and the usage of unauthorized kernel functions.
 This way, it ensures that the program will not enter an infinite loop and will not cause a kernel crash.
 These safety controls make eBPF a more secure option to run applications in the Linux kernel compared to the Linux kernel modules.
