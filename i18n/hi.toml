@@ -22,9 +22,9 @@ other = "में"
 [ui_see_all_tags]
 other = "सभी टैग को देखे"
 [ui_tag]
-other = "टैग""
+other = "टैग"
 [ui_tags]
-other = "टैग""
+other = "टैग"
 [ui_search_by_tags]
 other = "टैग के द्वारा चुने"
 [ui_tags_intro]
@@ -45,7 +45,7 @@ other = "गोपनीयता नीति"
 
 
 [footer_hub_button_text]
-other = "सभी CNCF साइटें""
+other = "सभी CNCF साइटें"
 
 # Post (blog, articles etc.)
 [post_byline_by]
