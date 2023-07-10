@@ -7,18 +7,25 @@ tags: ["infrastructure", "", ""]
 
 ## What it is
 
-Function as a Service (FaaS) is a type of [serverless](/serverless/) [cloud computing](/cloud-computing/) [service](/service/) 
-that allows executing code in response to events 
-without maintaining the complex infrastructure 
-typically associated with building and launching [microservices](/microservices/) applications. 
-With FaaS, users manage only functions and data while the cloud provider manages the application. 
-This allows developers to get the functions they need without paying for services when code isn’t running.  
+"Function as a Service (FaaS) is a compute service model in line with other as a Service offerings. 
+The core of this concept are event-triggered, single-scoped functions, i.e. cloud functions, which scale up and 
+down on demand without user interaction. 
+This [autoscaling](/auto-scaling/) property is one of the unique characteristics of FaaS. 
+Such platforms conceptually start a single function instance for each request and tear this instance down again 
+after the function is executed. Therefore,
+cloud functions are inherently stateless. 
+Which means that platform providers are able to offer a genuine pay as-you-go billing model where users are only 
+charged when the cloud function is running as instances scaled
+to zero results in no idling costs. 
+Other comparable computing models like [Platform as a Service (PaaS)](/platform-as-a-service/) based offerings always 
+have at least a single instance running to serve requests." [(Manner 2023, p.521)](https://doi.org/10.1109/CLOUD60044.2023.00068)
+
 
 ## Problem it addresses
 
-In a traditional on-premises scenario, a business manages and maintains its own data center. 
+In a traditional on-premise scenario, a business manages and maintains its own data center. 
 The business must invest in servers, storage, software, and other technologies 
-and potentially hire an IT staff or contractors to purchase, manage, and upgrade all the equipment and licenses. 
+and potentially hire IT staff or contractors to purchase, manage, and upgrade all the equipment and licenses. 
 The data center has to be built to meet peak demand, even when workloads decline and those resources stand idle. 
 Conversely, if the business grows quickly, the IT department might struggle to keep up. 
 Under a standard [Infrastructure-as-a-Service (IaaS)](/infrastructure-as-a-service/) cloud computing model, 
@@ -34,3 +41,6 @@ For example, uploading a file could trigger custom code that transcodes the file
 FaaS infrastructure will auto-scale the code for heavy use, 
 and the developer does not have to spend any time or resources building the code for [scalability](/scalability/). 
 Billing is based on computation time alone, which means businesses do not have to pay when the functions are not in use.
+
+See also the glossary for [Serverless](/serverless/).
+Serverless and FaaS are often used as synonyms, but there is a difference.
