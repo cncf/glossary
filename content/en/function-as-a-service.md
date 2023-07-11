@@ -23,7 +23,7 @@ have at least a single instance running to serve requests." [(Manner 2023, p.521
 
 ## Problem it addresses
 
-In a traditional on-premise scenario, a business manages and maintains its own data center.
+In a traditional on-premises scenario, a business manages and maintains its own data center.
 The business must invest in servers, storage, software, and other technologies
 and potentially hire IT staff or contractors to purchase, manage, and upgrade all the equipment and licenses.
 The data center has to be built to meet peak demand, even when workloads decline and those resources stand idle.
