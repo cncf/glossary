@@ -14,7 +14,7 @@ También tiende a requerir coordinación entre despliegues de componentes
 lo cual puede afectar negativamente la productividad del desarrollador.
 
 Las arquitecturas fuertemente acopladas son una manera tradicional de construir aplicaciones. 
-Mientras que no necesariamente siguen todas buenas prácticas de desarrollo de [microservicios](/microservices/)
+Mientras que no necesariamente siguen todas buenas prácticas de desarrollo de [microservicios](/es/microservices-architecture/)
 pueden ser útiles en circunstancias específicas.
 Tienden a ser más rápidas y sencillas de implementar,
 al igual que las [aplicaciones monolíticas](/es/monolithic-apps/) pueden acelerar el ciclo de desarrollo inicial.
