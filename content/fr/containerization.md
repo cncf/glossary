@@ -7,7 +7,7 @@ tags: ["application", "", ""]
 
 ## Ce que c'est
 
-La contenérisation est l'action de regrouper une application et ses dépendances dans une [image de conteneur](/container-image/).
+La contenérisation est l'action de regrouper une application et ses dépendances dans une image de conteneur.
 Le processus de construction du conteneur nécessite de respecter le standard de l'[Open Container Initiative](https://opencontainers.org) (OCI).
 Du moment que le résultat est une image qui respecte ce standard, l'outil de contenérisation qui sera utilisé n'a pas d'importance.
 
