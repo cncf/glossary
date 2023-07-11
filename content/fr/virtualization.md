@@ -27,4 +27,3 @@ tout en restant isolés les uns des autres pour des raisons de sécurité.
 Les applications exécutées sur des machines virtuelles ne savent pas qu'elles partagent un ordinateur physique.
 La virtualisation permet également de démarrer un nouvel "ordinateur" (une machine virtuelle) en quelques minutes
 sans se soucier des contraintes physiques liées à l'ajout d'un nouvel ordinateur dans un centre de données.
-Les VMs permettent également aux utilisateurs de réduire le temps nécessaire pour obtenir un nouvel ordinateur virtuel.
