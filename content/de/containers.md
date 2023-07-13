@@ -21,7 +21,7 @@ Darüber hinaus ist die Wartung, das Upgrade und der Start eines Betriebssystems
 
 ## Wie es das Problem löst
 
-Container teilen sich dasselbe Betriebssysten, jedoch sind sie durch die Zuordnung virtueller Ressourcen voneinander isoliert, wodurch der Ressourcen-Overhead des Betriebssystems verteilt wird und eine effiziente Nutzung des physischen Rechners ermöglicht wird. 
+Container teilen sich dasselbe Betriebssystem, jedoch sind sie durch die Zuordnung virtueller Ressourcen voneinander isoliert, wodurch der Ressourcen-Overhead des Betriebssystems verteilt wird und eine effiziente Nutzung des physischen Rechners ermöglicht wird. 
 Dadurch können mehrere Anwendungen auf demselben physischen Rechner ausgeführt werden. 
 Durch die Nutzung des zugrunde liegenden Betriebssystem, sind sie im Vergleich zu [virtuellen Maschinen](/virtual-machine/) sehr leichtgewichtig und können schneller hoch- und heruntergefahren werden.
 
