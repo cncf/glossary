@@ -26,4 +26,4 @@ aber über das Netzwerk nicht erreichbar sind.
 Ein Cluster löst dieses Problem indem mehr als nur ein Computer verwendet wird. 
 Man spricht hier auch von verteilten Systemen. 
 Wenn eines dieser Computer oder die Anwendung darin abstürzt oder aus anderen Gründen ausfällt, können die anderen Computer übernehmen. 
-Hierfür wird üblicherweise eine Komponente verwendet die als Load Balancer bekannt ist und anfragen an ein Cluster lediglich an erreichbare Computer weiterleitet.
+Hierfür wird üblicherweise eine Komponente verwendet, die als Load Balancer bekannt ist und Anfragen an ein Cluster lediglich an erreichbare Computer weiterleitet.
