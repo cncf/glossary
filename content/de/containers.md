@@ -23,7 +23,7 @@ Darüber hinaus ist die Wartung, das Upgrade und der Start eines Betriebssystems
 
 Container teilen sich dasselbe Betriebssystem, jedoch sind sie durch die Zuordnung virtueller Ressourcen voneinander isoliert, wodurch der Ressourcen-Overhead des Betriebssystems verteilt wird und eine effiziente Nutzung des physischen Rechners ermöglicht wird. 
 Dadurch können mehrere Anwendungen auf demselben physischen Rechner ausgeführt werden. 
-Durch die Nutzung des zugrunde liegenden Betriebssystem, sind sie im Vergleich zu [virtuellen Maschinen](/virtual-machine/) sehr leichtgewichtig und können schneller hoch- und heruntergefahren werden.
+Durch die Nutzung des zugrunde liegenden Betriebssystems, sind sie im Vergleich zu [virtuellen Maschinen](/virtual-machine/) sehr leichtgewichtig und können schneller hoch- und heruntergefahren werden.
 
 Allerdings gibt es auch Einschränkungen. 
 Da Container das selbe Betriebssystem nutzen, können Prozesse als weniger sicher angesehen werden. 
