@@ -1,5 +1,5 @@
 ---
-title: Contenérisation
+title: Conteneurisation 
 status: Completed
 category: Technology
 tags: ["application", "", ""]
@@ -7,9 +7,9 @@ tags: ["application", "", ""]
 
 ## Ce que c'est
 
-La contenérisation est l'action de regrouper une application et ses dépendances dans une image de conteneur.
+La conteneurisation est l'action de regrouper une application et ses dépendances dans une image de conteneur.
 Le processus de construction du conteneur nécessite de respecter le standard de l'[Open Container Initiative](https://opencontainers.org) (OCI).
-Du moment que le résultat est une image qui respecte ce standard, l'outil de contenérisation qui sera utilisé n'a pas d'importance.
+Du moment que le résultat est une image qui respecte ce standard, l'outil de conteneurisation qui sera utilisé n'a pas d'importance.
 
 ## Problème auquel il répond
 
@@ -21,7 +21,7 @@ De plus, les VMs peuvent souffrir d'une dérive de configuration ce qui enfreint
 ## Quel en est l'utilité
 
 Les images de conteneurs sont légères (par opposition aux VM traditionnelles) et
-le processus de contenérisation nécessite un fichier qui liste les dépendances.
+le processus de conteneurisation nécessite un fichier qui liste les dépendances.
 Ce fichier peut être versionné et la construction automatisée, permettant
 à une organisation de se concentrer sur d'autres priorités pendant que 
 le processus automatisé va se charger de la construction.
