@@ -10,7 +10,7 @@ tags: ["infrastructure", "fundamental", ""]
 Kubernetes, souvent abrégé en k8s, est un orchestrateur de conteneurs open source.
 Il automatise le cycle de vie des applications conteneurisées sur des infrastructures modernes, fonctionnant comme un "Système d'exploitation de centre de données" qui gère des applications à travers un [système distribué](/distributed-systems/).
 
-Kubernetes planifie la création de [conteneurs](/container/) sur les [nœuds](/nodes/) d'un  [cluster](/cluster/), regroupant plusieurs ressources d'infrastructure tel qu'un répartiteur de charge (load balancer), du stockage persistent, etc. pour exécuter des applications conteneurisées.
+Kubernetes planifie la création de [conteneurs](/container/) sur les [nœuds](/nodes/) d'un [cluster](/cluster/), regroupant plusieurs ressources d'infrastructure tel qu'un répartiteur de charge (load balancer), du stockage persistent, etc. pour exécuter des applications conteneurisées.
 
 Kubernetes permet l'automatisation et l'extensibilité, permettant aux utilisateurs de déployer des applications de manière déclarative (voir ci-dessous) et reproductible.
 Kubernetes est extensible via ses [API](/application-programming-interface/), permettant aux utilisateurs expérimentés de Kubernetes de rajouter des possibilités d'automatisation en accord avec leurs besoins.
@@ -22,10 +22,10 @@ L'automatisation de l'infrastructure et la gestion de configuration déclarative
 
 ## Quel en est l'utilité
 
-Comme pour les outils traditionnels d'[infrastructure en tant que code](/infrastructure-as-code/) Kubernetes aide à l'automatisation, mais a l'avantage de fonctionner avec des conteneurs.
+Comme pour les outils traditionnels d'[infrastructure en tant que code](/infrastructure-as-code/), Kubernetes aide à l'automatisation, mais a l'avantage de fonctionner avec des conteneurs.
 Les conteneurs sont plus résistants aux écarts de configuration que les [machines virtuelles](/virtual-machine/) ou physiques.
 
-De plus, Kubernetes fonctionne de manière déclarative, cela veut dire qu'au lieu que des opérateurs demandent à la machine de faire quelque chose, ils décrivent - souvent via un manifeste (p. ex., YAML) — à quoi l'infrastructure devrait ressembler.
+De plus, Kubernetes fonctionne de manière déclarative, cela veut dire qu'au lieu que des opérateurs demandent à la machine de faire quelque chose, ils décrivent — souvent via un manifeste (p. ex., YAML) — à quoi l'infrastructure devrait ressembler.
 Kubernetes s'occupe ensuite du "comment".
 Il en résulte que Kubernetes est extrêmement compatible avec l'infrastructure en tant que code.
 
