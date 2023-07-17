@@ -15,7 +15,7 @@ L'ensemble de tous ces services [conteneurisés](/containerization/), connectés
 ## Problème auquel il répond
 
 Un logiciel qui s'exécute sur un seul ordinateur représente un point de défaillance unique
-— si cet ordinateur tombe en panne, ou si accidentellement quelqu'un débranche le cable d'alimentation,
+— si cet ordinateur tombe en panne, ou si accidentellement quelqu'un débranche le câble d'alimentation,
 alors un système critique pourrait être mis hors-ligne.
 C'est pourquoi généralement les logiciels modernes sont souvent construits sous forme d'[applications distribuées](/distributed-apps/), regroupées ensemble comme un cluster.
 
