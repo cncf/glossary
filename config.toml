@@ -130,8 +130,7 @@ languageName ="اردو (Urdu)"
 contentDir = "content/ur"
 weight = 10
 
-[languages]
-[languages.en]
+[languages.tr]
 title = "Cloud Native Lügatı"
 description = "CNCF Cloud Native Lügatı projesi, cloud native uygulamalardan bahsederken kullanılan yaygın terimler için bir referans olarak kullanılmak üzere tasarlanmıştır."
 languageName ="Türkçe"
