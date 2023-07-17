@@ -10,7 +10,7 @@ tags: ["application", "fundamental", ""]
 Un conteneur est un processus qui fonctionne avec des contraintes de ressources et de capacités gérées par le système d'exploitation d'un ordinateur.
 Les fichiers accessibles au processus du conteneur sont regroupés dans une image de conteneur.
 Les conteneurs sont exécutés les uns à côté des autres sur la même machine,
-mais habituellement le système d'exploitation empêche les processus de conteneurs différents d'interagir les uns avec les autres.
+mais généralement le système d'exploitation empêche les processus de conteneurs différents d'interagir les uns avec les autres.
 
 ## Problème auquel il répond
 
@@ -22,7 +22,7 @@ De plus, la maintenance, la mise à jour et le lancement d'un système d'exploit
 ## Quel en est l'utilité
 
 Les conteneurs partagent le même système d'exploitation et ses ressources machine,
-et se répartissent la surcharge des ressources dues au système d'exploitation, permettant un usage efficace de la machine physique.
+et se partagent donc la charge additionnelle des ressources dues au système d'exploitation, ce qui permet un usage efficace de la machine physique.
 Cette possibilité est uniquement offerte, car les conteneurs sont habituellement limités dans leurs interactions mutuelles.
 Ceci permet de faire fonctionner beaucoup plus d'applications sur la même machine physique.
 
