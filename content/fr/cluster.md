@@ -8,7 +8,7 @@ tags: ["infrastructure", "fundamental", ""]
 ## Ce que c'est
 
 Un cluster est un groupe d'ordinateurs ou d'applications qui fonctionnent ensemble dans un but commun.
-Dans le contexte du cloud native computing, le terme est souvent appliqué à [Kubernetes](/kubernetes/).
+Dans un contexte Cloud Native, le terme est souvent appliqué à [Kubernetes](/kubernetes/).
 Un cluster Kubernetes est un ensemble de services (ou de charges de travail) qui s'exécutent dans leurs propres conteneurs, souvent sur des machines différentes.
 L'ensemble de tous ces services [conteneurisés](/containerization/), connectés au travers du réseau, représente un cluster.
 
