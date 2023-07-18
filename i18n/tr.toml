@@ -28,7 +28,7 @@ other = "Etiketler"
 [ui_search_by_tags]
 other = "Etiketlere gözat"
 [ui_tags_intro]
-other = "Lügat terimlerini etiketledik. Filtreleri kullanarak terimleri etiketlere göre listeleyebilirsiniz."
+other = "Sözlük terimlerini etiketledik. Filtreleri kullanarak terimleri etiketlere göre listeleyebilirsiniz."
 [ui_or_search_by_tags]
 other = "...veya etiketlere bak"
 [ui_select_all]

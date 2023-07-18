@@ -131,8 +131,8 @@ contentDir = "content/ur"
 weight = 10
 
 [languages.tr]
-title = "Cloud Native Lügatı"
-description = "CNCF Cloud Native Lügatı projesi, cloud native uygulamalardan bahsederken kullanılan yaygın terimler için bir referans olarak kullanılmak üzere tasarlanmıştır."
+title = "Cloud Native Sözlüğü"
+description = "CNCF Cloud Native Sözlüğü projesi, cloud native uygulamalardan bahsederken kullanılan yaygın terimler için bir referans olarak kullanılmak üzere tasarlanmıştır."
 languageName ="Türkçe"
 contentDir = "content/tr"
 # Weight used for sorting.
