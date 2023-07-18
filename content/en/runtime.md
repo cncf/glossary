@@ -9,23 +9,26 @@ tags: ["application", "", ""]
 
 A runtime in general is something that executes a piece of software. 
 It can be seen as an abstraction of the underlying operating system that knows how to translate the commands of the program into respective actions on the operating system level. 
-In [cloud native](/cloud-native-apps/) computing, when we talk about the runtime we refer to the container runtime. 
-The container runtime is that piece of Kubernetes that knows and takes care of how to run containers.
+
+In [cloud native](/cloud-native-apps/) computing, when we talk about the runtime we refer to the container runtime. A container runtime specifically implements the [Open Container Inititative](https://opencontainers.org/) specification to ensure consistent consumption around the ecosystem. This includes the container image specification, the method in which the runtime can retrieve an image, and how that image is unpacked, layered, mounted, and executed. These runtimes utilize kernel features such as namespaces and cgroups to provide isolation and resource management for the containers.
+
+Container runtimes read the specification [configuration files](https://github.com/opencontainers/runtime-spec/blob/main/glossary.md#configuration) from a [bundle](https://github.com/opencontainers/runtime-spec/blob/main/glossary.md#bundle), and use that information to create a [container](https://github.com/opencontainers/runtime-spec/blob/main/glossary.md#container), launches a process inside the container, and performs other [lifecycle actions](https://github.com/opencontainers/runtime-spec/blob/main/runtime.md).
+
+Common runtimes include containerd, CRI-O, Docker, Firecracker, gVisor, lxd, Podman, and runc. 
+
+cgroups, etc.
 
 ## Problem it addresses
 
-Traditional software applications often face challenges when deployed and executed in distributed environments like cloud platforms. 
-These challenges include managing dependencies, scaling resources, handling failures, and ensuring consistent behavior across different environments.
- 
+Container runtimes are a necessary component of container orchestrators such as Kubernetes. The runtime is scoped to only handle the lifecycle of the containers. User-facing features such as scaling and service discovery, fault tolerance, etc. are handled by the orchestrator or some other high level tool that interfaces with the runtime. 
 
 ## How it helps
 
-Runtime, as a containerized execution environment, helps address these challenges.
-It [abstracts](/abstraction/) away the underlying infrastructure details, enabling applications to be deployed and run consistently across different cloud platforms or environments. 
-The runtime environment includes features like [container orchestration](container-orchestration/), automatic [scaling](/auto-scaling/), service discovery, and fault tolerance, simplifying application deployment, management, and scaling.
+The container runtimes are responsible for launching, managing, and terminating containers. Many runtimes, like LXC, LMCTFY, and rkt predate the creation of the OCI Specification. Over time the OCI Specification has become the standard for container runtimes. 
 
-A runtime allows developers to focus on building and shipping applications without worrying about specific infrastructure details. 
-It provides [portability](/portability/), scalability, and resilience, allowing applications to dynamically adapt to changing conditions and handle increased workloads efficiently.
+This allows a diverse set of container runtimes to be used with different tools. For example Kubernetes can use OCI compliant runtimes via it's container runtime interface, giving end users the flexibility of using a specific runtime. 
+
+
 
 
 ## Related terms
