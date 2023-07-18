@@ -9,7 +9,7 @@ tags: ["infrastruktur", "grundlegendes", ""]
 
 Ein Cluster ist eine Gruppe von Computern, die ein gemeinsames Ziel haben und als eine Einheit auftreten.
 Im Kontext von [Cloud Native Technologien](/cloud-native-tech/) wird der Begriff häufig mit [Kubernetes](/kubernetes/) gleichgesetzt.
-Jedenfalls kommunizieren einzelnen Computer über ein geeignetes Netzwerk miteinander. 
+Jedenfalls kommunizieren einzelnen Computer über ein Netzwerk miteinander. 
 
 
 ## Welches Problem es löst
