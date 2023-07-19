@@ -27,7 +27,10 @@ Container runtimes are a necessary component of container orchestrators such as 
 
 ## How it helps
 
-The container runtimes are responsible for launching, managing, and terminating containers. Many runtimes, like LXC, LMCTFY, and rkt predate the creation of the OCI Specification. Over time the OCI Specification has become the standard for container runtimes. 
+Container runtimes help to address this by taking of all those low level actions for us, 
+thus they are responsible for launching, managing, and terminating containers. 
+Over time different container runtime products evolved, leading to the OCI Specification, 
+which became the standard for container runtimes. 
 
 This allows a diverse set of container runtimes to be used with different tools. For example Kubernetes can use OCI compliant runtimes via it's container runtime interface, giving end users the flexibility of using a specific runtime. 
 
