@@ -23,7 +23,7 @@ The runtime is scoped to only handle the lifecycle of the containers.
 User-facing features such as scaling and service discovery, fault tolerance, etc. are handled by the orchestrator or some other high level tool that interfaces with the runtime. 
 
 Without a container runtime the user would have to manually handle container lifecycle, interface directly with cgroups and namespaces in the kernel, and handle hardware resources.
-The container runtime acts an abstraction layer for these features.
+The container runtime acts as an abstraction layer for these features.
 
 ## How it helps
 
