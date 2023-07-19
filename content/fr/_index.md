@@ -1,19 +1,19 @@
 ---
-title: "Glossaire Cloud Natif"
+title: "Glossaire Cloud Native"
 ---
 
-# Glossaire Cloud Natif
+# Glossaire Cloud Native
 
-Le Glossaire Cloud Natif est un project dirigé par le Comité Marketing de la CNCF (Business Value Subcommittee, BVS).
-Son rôle est d'expliquer les concepts cloud natifs en termes simples et clairs, et sans nécessité de connaissances techniques.
+Le Glossaire Cloud Native est un project dirigé par le Comité Marketing de la CNCF (Business Value Subcommittee, BVS).
+Son rôle est d'expliquer les concepts Cloud Natives en termes simples et clairs, et sans nécessité de connaissances techniques.
 
 <p><img class="mt-5" src="/images/homepage/stage.jpg" alt="Une femme et deux hommes en présentation technique"></p>
 
 ## Contribution
 
-Toute personne est invitée à suggérer des changements, des ajouts, ou des amélioration au Glossaire Cloud Natif.
+Toute personne est invitée à suggérer des changements, des ajouts, ou des amélioration au Glossaire Cloud Native.
 Nous employons un processus dirigé par la communauté, et gouverné par la CNCF, afin de développer et d'améliorer ce lexique partagé.
-Ce Glossaire fournit un plateforme indépendante de toute solution propriétaire, afin d'organiser un vocabulaire partagé par tous, le tout centré autour des technologies cloud natives.
+Ce Glossaire fournit un plateforme indépendante de toute solution propriétaire, afin d'organiser un vocabulaire partagé par tous, le tout centré autour des technologies Cloud Natives.
 Les contributions sont les bienvenues pour tous les participants adhérant au principe du projet, ainsi qu'à sa charte.
 
 Toute personne souhaitant faire une contribution peut soumettre une Issue ou ouvrir une Pull Request sur le dépôt GitHub.
@@ -22,7 +22,7 @@ Il existe également un canal [#glossary-localizations](https://cloud-native.sla
 
 ## Remerciements
 
-Le Glossaire Cloud Natif a été initié par le Comité Marketing de la CNCF (Business Value Subcommittee) et inclue les contributions de
+Le Glossaire Cloud Native a été initié par le Comité Marketing de la CNCF (Business Value Subcommittee) et inclue les contributions de
 [Catherine Paganini](https://www.linkedin.com/in/catherinepaganini/en/), 
 [Chris Aniszczyk](https://www.linkedin.com/in/caniszczyk/), 
 [Daniel Jones](https://www.linkedin.com/in/danieljoneseb/?originalSubdomain=uk), 

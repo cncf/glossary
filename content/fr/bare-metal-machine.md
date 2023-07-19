@@ -25,7 +25,7 @@ vous fournissez théoriquement les meilleures performances possibles au système
 Si vous devez exécuter une charge de travail qui doit avoir un accès extrêmement rapide aux ressources matérielles,
 une machine physique peut être la solution adéquate.
 
-Dans le contexte des [applications cloud natives](/cloud-native-apps/),
+Dans le contexte des [applications Cloud Natives](/cloud-native-apps/),
 vous envisagez généralement les performances en termes de [mise à l'échelle](/scalability/), pour traiter un grand nombre d'événements simultanés.
 Vous pouvez utiliser pour cela la [mise à l'échelle horizontale](/horizontal-scaling/) (ajout de plus de machines pour augmenter la capacité de traitement).
 Mais, certaines charges de travail peuvent nécessiter une [mise à l'échelle verticale](/vertical-scaling/) (ajouter plus de puissance à une machine existante)

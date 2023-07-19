@@ -9,7 +9,7 @@ menu:
 Ce guide de rédaction aide à comprendre la cible du Glossaire, la structure des définitions, le niveau requis de détails, ainsi que la manière
 de maintenir un style constant.
 
-Le Glossaire Cloud Natif suit le guide de [rédaction de référence](https://github.com/cncf/foundation/blob/master/style-guide.md) du dépôt de la CNCF.
+Le Glossaire Cloud Native suit le guide de [rédaction de référence](https://github.com/cncf/foundation/blob/master/style-guide.md) du dépôt de la CNCF.
 
 De plus, les règles suivantes sont appliquées:
 

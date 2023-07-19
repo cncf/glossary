@@ -21,7 +21,7 @@ Par exemple, les applications nécessitant une intervention manuelle pour démar
 
 ## Quel en est l'utilité
 
-Bien qu'il n'y ait pas de solution miracle pour qu'une application soit définie comme cloud native, les applications
+Bien qu'il n'y ait pas de solution miracle pour qu'une application soit définie comme Cloud Native, les applications
 Cloud Natives présentent des points en commun.
 Les applications Cloud Natives sont résilientes, elles sont gérables et tirent profit de l'ensemble des services Cloud où elles
 sont déployées.

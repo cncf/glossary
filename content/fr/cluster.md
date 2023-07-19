@@ -25,6 +25,6 @@ Les applications réparties en cluster s'exécutent sur plusieurs machines, éli
 Cependant, fabriquer des systèmes distribués est vraiment difficile.
 Dans les fait, c'est une discipline informatique à part entière.
 Le besoin en systèmes globaux et les années d'essais et d'erreurs ont mené au développement d'un nouveau genre de pile technique:
-[technologies cloud natives](/cloud-native-tech/).
+[technologies Cloud Natives](/cloud-native-tech/).
 Ces nouvelles technologies sont les blocs de construction qui facilitent l'exploitation et la création de systèmes distribués.
 

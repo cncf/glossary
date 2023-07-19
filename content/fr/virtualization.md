@@ -7,7 +7,7 @@ tags: ["fundamental", "infrastructure", "methodology"]
 
 ## Ce que c'est
 
-La virtualisation, dans un cadre cloud native,
+La virtualisation, dans un cadre Cloud Native,
 est l'exécution de plusieurs systèmes d'exploitation isolés sur un même ordinateur physique, aussi appelé serveur.
 Ces systèmes d'exploitation isolés et leurs ressources de calcul dédiées (processeur, mémoire et réseau) sont
 appelées machines virtuelles ou VMs.
