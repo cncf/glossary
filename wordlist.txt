@@ -29,6 +29,8 @@ cd
 cdn
 changelog
 chatbot
+cgroup
+cgroups
 cio
 cka
 ckad
@@ -131,12 +133,15 @@ mkdn
 mtls
 multitenancy
 multitenant
+namespace
+namespaces
 navbar
 observability
 oci
 oliveira
 opencontainers
 orchestrator
+orchestrators
 overdemand
 overprivileged
 paas
