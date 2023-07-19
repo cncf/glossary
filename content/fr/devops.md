@@ -9,7 +9,7 @@ tags: ["methodology", "", ""]
 ## Ce que c'est
 
 Le DevOps est une méthodologie dans laquelle une équipe gère le processus complet du développement d'une application jusqu'aux opérations en production, d'où le terme DevOps.
-Ceci va au delà de l'implémentation de technologies et demande un changement complet dans la culture et les processus.
+Ceci va au-delà de l'implémentation de technologies et demande un changement complet dans la culture et les processus.
 Le DevOps fait appel à un groupe d'ingénieurs travaillant sur des petits composants (en opposition à une fonctionnalité complète), permettant ainsi de réduire les actions de passations – une source d'erreurs commune.
 
 ## Problème auquel il répond
@@ -30,5 +30,5 @@ Le DevOps vient chambouler cette approche.
 
 Avoir une seule équipe en charge du cycle de vie d'une application permet de
 minimiser les passations, réduisant ainsi les risques lors des déploiements en production, améliorant
-la qualité du code car les équipes sont également responsable de sa mise en production et augmentant
+la qualité du code, car les équipes sont également responsables de sa mise en production et augmentant
 la satisfaction des employés grâce au gain d'autonomie et de responsabilité.
