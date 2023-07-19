@@ -10,7 +10,7 @@ tags: ["application", "", ""]
 A runtime, in general, is something that executes a piece of software.
 It is an abstraction of the underlying operating system that knows how to translate the program's commands into respective actions on the operating system level. 
 
-In the context of [cloud native](/cloud-native-apps/), when we talk about the runtime we refer to the container runtime. 
+In the context of [cloud native](/cloud-native-apps/), we refer to the container runtime when we talk about the _runtime_. 
 A container runtime specifically implements the [Open Container Initiative](https://opencontainers.org/) specification to ensure consistent handling around the ecosystem. 
 This includes the container image specification, the method in which the runtime can retrieve an image, 
 and how that image is unpacked, layered, mounted, and executed. 
