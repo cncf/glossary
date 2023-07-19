@@ -20,7 +20,6 @@ Container runtimes read the specification [configuration files](https://github.c
 
 Common runtimes include containerd, CRI-O, Docker, Firecracker, gVisor, lxd, Podman, and runc. 
 
-cgroups, etc.
 
 ## Problem it addresses
 
