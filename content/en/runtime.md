@@ -32,7 +32,7 @@ thus they are responsible for launching, managing, and terminating containers.
 Over time different container runtime products evolved, leading to the OCI Specification, 
 which became the standard for container runtimes. 
 
-This gives end users the flexibility of using a specific container runtime that suits their needs best, 
+This allows end users to use a specific container runtime that suits their needs best, 
 as long as they use a product that can use OCI compliant container runtimes (like Kubernetes) 
 and a specific container runtime that actually is OCI compliant. 
 
