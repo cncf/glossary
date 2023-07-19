@@ -7,7 +7,7 @@ tags: ["application", "", ""]
 
 ## What it is
 
-A runtime in general is something that executes a piece of software. 
+A runtime, in general, is something that executes a piece of software.
 It can be seen as an abstraction of the underlying operating system that knows how to translate the commands of the program into respective actions on the operating system level. 
 
 In the context of [cloud native](/cloud-native-apps/), when we talk about the runtime we refer to the container runtime. 
