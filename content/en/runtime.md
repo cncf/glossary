@@ -33,9 +33,6 @@ This gives end users the flexibility of using a specific container runtime that 
 as long as they use a product that can use OCI compliant container runtimes (like Kubernetes) 
 and a specific container runtime that actually is OCI compliant. 
 
-
-
-
 ## Related terms
 
 - [Cloud Native](https://glossary.cncf.io/cloud-native-apps/)
