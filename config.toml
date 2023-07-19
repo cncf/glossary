@@ -157,6 +157,14 @@ weight = 12
 [languages.zh-tw.params]
 description = "CNCF 雲端原生 Glossary 專案旨在用作討論雲端原生應用程式時常用術語的參考"
 
+[languages.tr]
+title = "Cloud Native Sözlüğü"
+description = "CNCF Cloud Native Sözlüğü projesi, cloud native uygulamalardan bahsederken kullanılan yaygın terimler için bir referans olarak kullanılmak üzere tasarlanmıştır."
+languageName ="Türkçe (Turkish)"
+contentDir = "content/tr"
+# Weight used for sorting.
+weight = 13
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
