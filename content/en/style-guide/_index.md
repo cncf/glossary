@@ -48,7 +48,7 @@ status:
 category: 
 ---
 
-## What it is
+## What is it?
 
 A quick summary of the technology or concept.
 

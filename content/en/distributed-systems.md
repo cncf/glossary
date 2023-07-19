@@ -5,7 +5,7 @@ category: concept
 tags: ["architecture", "", ""]
 ---
 
-## What it is
+## What is it?
 
 A distributed system is a collection of autonomous computing elements 
 connected over a network that appears to users as a single coherent system. 

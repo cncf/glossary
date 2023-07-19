@@ -5,7 +5,7 @@ category: technology
 tags: ["infrastructure", "", ""]
 ---
 
-## What it is
+## What is it?
 
 Bare metal refers to a physical computer, more specifically a server, that has one, and only one, operating system. 
 The distinction is important in modern computing because many, if not most, servers are [virtual machines](/virtual-machine/). 

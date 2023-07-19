@@ -5,7 +5,7 @@ category: concept
 tags: ["application", "methodology", ""]
 ---
 
-## What it is 
+## What is it?
 
 Continuous integration, often abbreviated as CI, is the practice of integrating code changes as regularly as possible. 
 CI is a prerequisite for [continuous delivery](/continuous-delivery/) (CD). 

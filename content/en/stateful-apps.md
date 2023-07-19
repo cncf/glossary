@@ -5,7 +5,7 @@ category: concept
 tags: ["fundamental", "application", ""]
 ---
 
-## What it is
+## What is it?
 
 When we speak of stateful (and [stateless](/stateless-apps/)) apps, 
 state refers to any data the app needs to store to function as designed. 

@@ -6,7 +6,7 @@ tags: ["methodology", "", ""]
 draft: 
 ---
 
-## What it is
+## What is it?
 
 Policy as Code is the practice of storing the definition of policies as one or more files in machine-readable and processable form. 
 This replaces the traditional model where policies are documented in human-readable form in separate documents.

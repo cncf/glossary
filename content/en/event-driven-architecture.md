@@ -5,7 +5,7 @@ category: concept
 tags: ["architecture", "", ""]
 ---
 
-## What it is
+## What is it?
 
 Event-driven architecture is a software architecture that promotes the creation, processing, and consumption of events.
 An event is any change to an application's state.

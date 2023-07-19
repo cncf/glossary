@@ -4,7 +4,7 @@ status: Feedback Appreciated
 category: concept
 ---
 
-## What it is
+## What is it?
 
 Quick summary of the concept and what it is.
 

@@ -5,7 +5,7 @@ category: concept
 tags: ["security", "methodology", ""]
 ---
 
-## What it is
+## What is it?
 
 Security Chaos Engineering or SCE is a discipline based on [Chaos Engineering](/chaos-engineering/). 
 SCE performs proactive security experimentation on a distributed system 

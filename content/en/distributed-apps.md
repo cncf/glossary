@@ -5,7 +5,7 @@ category: concept
 tags: ["architecture", "", ""]
 ---
 
-## What it is
+## What is it?
 
 A distributed application is an application where the functionality is broken down into multiple smaller independent parts. 
 Distributed applications are usually composed of individual [microservices](/microservices/) 

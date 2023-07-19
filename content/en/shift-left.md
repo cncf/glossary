@@ -5,7 +5,7 @@ category: Concept
 tags: ["methodology", "", ""]
 ---
 
-## What it is
+## What is it?
 
 Left in Shift Left refers to earlier stages in a software development lifecycle, 
 thinking of the lifecycle as a line where stages are executed from left to right. 

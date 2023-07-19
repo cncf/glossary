@@ -6,7 +6,7 @@ draft: true
 tags: ["application", "methodology", ""]
 ---
 
-## What it is
+## What is it?
 
 Debugging is the process or activity of finding and resolving bugs (or errors) from computer programs, software, or systems to get the desired result. 
 A bug is a defect or a problem leading to incorrect or unexpected results.

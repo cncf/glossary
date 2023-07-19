@@ -5,7 +5,7 @@ category: Concept
 tags: ["infrastructure", "fundamental", ""]
 ---
 
-## What it is
+## What is it?
 
 A node is a computer that works in concert with other computers, or nodes, to accomplish a common task. 
 Take your laptop, modem, and printer, for example. 

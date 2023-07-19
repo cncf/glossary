@@ -5,7 +5,7 @@ category: concept
 tags: ["methodology", "application", ""]
 ---
 
-## What it is
+## What is it?
 
 Continuous delivery, often abbreviated as  CD, is a set of practices 
 in which code changes are automatically deployed into an acceptance environment 
