@@ -18,8 +18,6 @@ These runtimes utilize kernel features such as namespaces and cgroups to provide
 
 Container runtimes read the specification [configuration files](https://github.com/opencontainers/runtime-spec/blob/main/glossary.md#configuration) from a [bundle](https://github.com/opencontainers/runtime-spec/blob/main/glossary.md#bundle), and use that information to create a [container](https://github.com/opencontainers/runtime-spec/blob/main/glossary.md#container), launches a process inside the container, and performs other [lifecycle actions](https://github.com/opencontainers/runtime-spec/blob/main/runtime.md).
 
-Common runtimes include containerd, CRI-O, Docker, Firecracker, gVisor, lxd, Podman, and runc. 
-
 
 ## Problem it addresses
 
