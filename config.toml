@@ -130,6 +130,14 @@ languageName ="اردو (Urdu)"
 contentDir = "content/ur"
 weight = 10
 
+[languages.tr]
+title = "Cloud Native Sözlüğü"
+description = "CNCF Cloud Native Sözlüğü projesi, cloud native uygulamalardan bahsederken kullanılan yaygın terimler için bir referans olarak kullanılmak üzere tasarlanmıştır."
+languageName ="Türkçe (Turkish)"
+contentDir = "content/tr"
+# Weight used for sorting.
+weight = 11
+
 
 [markup]
   [markup.goldmark]
