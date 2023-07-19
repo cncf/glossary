@@ -34,7 +34,7 @@ which became the standard for container runtimes.
 
 This allows end users to use a specific container runtime that suits their needs best, 
 as long as they use a product that can use OCI compliant container runtimes (like Kubernetes) 
-and a specific container runtime that actually is OCI compliant. 
+and a specific container runtime that is OCI-compliant.
 
 ## Related terms
 
