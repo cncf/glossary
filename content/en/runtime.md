@@ -12,7 +12,7 @@ It is an abstraction of the underlying operating system that knows how to transl
 
 In the context of [cloud native](/cloud-native-apps/), we refer to the container runtime when we talk about the _runtime_. 
 A container runtime specifically implements the [Open Container Initiative](https://opencontainers.org/) specification to ensure consistent handling around the ecosystem. 
-This includes the container image specification, the method in which the runtime can retrieve an image, 
+This includes the container image specification, the method by which the runtime can retrieve an image, 
 and how that image is unpacked, layered, mounted, and executed. 
 These runtimes utilize kernel features such as namespaces and cgroups to provide isolation and resource management for the containers.
 
