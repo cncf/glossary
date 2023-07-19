@@ -33,4 +33,4 @@ L'architecture en microservices est une réponse à ces défis.
 La séparation des fonctionnalités en différents microservices facilite leur déploiement, leur mise à jour et leur mise à l'échelle de manière indépendante.
 Cela permet également à différentes équipes de travailler simultanément sur une petite partie d'une application plus grande sans avoir d'impact involontairement négatif sur le reste de l'application.
 Bien qu'une architecture en microservices résolve de nombreux problèmes, elle crée également des surcoûts opérationnels - le nombre d'éléments que vous devez déployer et gérer augmente considérablement. 
-De nombreuses [technologies cloud native](/cloud-native-tech/) visent à faciliter le déploiement et la gestion des microservices.
+De nombreuses [technologies Cloud Natives](/cloud-native-tech/) visent à faciliter le déploiement et la gestion des microservices.

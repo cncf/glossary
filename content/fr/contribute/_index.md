@@ -54,8 +54,8 @@ Pour les étapes suivantes, merci de prendre connaissance de la section [Propose
 
 Vous pouvez proposer un nouveau terme à la communauté ou créer vous-même la définition de ce terme.
 Dans les deux cas, vous commencerez par créer une issue.
-Il est à noter que les termes doivent être en accord avec le [CNCF's cloud native definition](https://github.com/cncf/toc/blob/main/DEFINITION.md).
-Les seules exceptions sont les termes fondamentaux nécessaires pour comprendre les concepts cloud natif.
+Il est à noter que les termes doivent être en accord avec le [CNCF's Cloud Native definition](https://github.com/cncf/toc/blob/main/DEFINITION.md).
+Les seules exceptions sont les termes fondamentaux nécessaires pour comprendre les concepts Cloud Native.
 
 Ci-après, un guide étape par étape pour ceux et celles qui ne sont pas familier avec Github
 **Si vous avez un compte GitHub Pro**, merci de vérifier que vous utilisez nos modèles d'issue,
