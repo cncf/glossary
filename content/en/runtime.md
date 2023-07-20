@@ -27,8 +27,8 @@ The container runtime acts as an abstraction layer for these features.
 
 ## How it helps
 
-Container runtimes help to address this by taking of all those low level actions for us, 
-thus they are responsible for launching, managing, and terminating containers. 
+Container runtimes help to address this by taking care of all those low-level actions for us; 
+thus, they are responsible for launching, managing, and terminating containers.
 Over time different container runtime products evolved, leading to the OCI Specification, 
 which became the standard for container runtimes. 
 
