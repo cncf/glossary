@@ -6,7 +6,7 @@ tags: ["fundamental", "", ""]
 ---
 
 En el contexto de la informática, una abstracción es una representación que
-oculta los detalles específicos a un consumidor de [servicios](/service/)
+oculta los detalles específicos a un consumidor de [servicios](/es/service/)
 (un consumidor que es un programa de computadora o un ser humano),
 haciendo un sistema más genérico y, por lo tanto, más fácil de entender.
 Un buen ejemplo es el sistema operativo (SO) de su computadora portátil.

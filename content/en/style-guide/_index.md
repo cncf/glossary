@@ -7,7 +7,7 @@ menu:
     weight: 10
 ---
 
-This style guide will help you understand the Glossary audience, definition structure, required level of detail, and how to maintain a consistent style.
+This style guide will help you understand the Glossary audience, definition structure, required level of detail, and how to keep a consistent style.
 
 The Cloud Native Glossary follows the [default style guide](https://github.com/cncf/foundation/blob/master/style-guide.md) of the CNCF repository. 
 Additionally, it follows the following rules:
@@ -25,19 +25,19 @@ Additionally, it follows the following rules:
 
 ## Audience
 
-The Glossary is written for a technical AND non-technical audience. 
-Please ensure definitions are explained in simple terms and don’t assume technical knowledge. More do that below under Definition. 
+The Glossary is written for technical *and* non-technical audiences.
+Please explain definitions in simple terms, and don’t assume technical knowledge. More about this is below in [Definition](#definition).
 
-## Minimal Viable Definition 
+## Minimum viable definition 
 
-Our goal is to make it really easy for anyone to understand cloud native terms. 
+We aim to make it easy for anyone to understand cloud native terms. 
 As such, we focus on simplicity. 
-That means using clear and simple language with examples anyone who uses technology can relate to (more to that below) but also providing a *minimal viable definition*, at least from a technical point of view. 
-We don't want to save on context and examples — after all, those things help the reader understand the concept — but if a technical detail is not needed to understand it, we'll skip it. 
-The goal is not to overcomplicate things. Once the reader understands the basic concept, other resources will help them dig deeper. 
+Use clear, simple language with examples anyone who uses technology can relate to while also providing a *minimum viable definition*, at least from a technical point of view. 
+We don't want to save on context and examples—after all, those things help the reader understand the concept—but if a technical detail is not needed to understand it, we'll skip it. 
+The goal is not to overcomplicate things. Once the reader understands the basic idea, other resources will help them dig deeper. 
 That part is out of the scope of this Glossary. 
 
-## Definition Template
+## Definition template
 
 Each glossary term is stored in a markdown file and follows this template:
 
@@ -72,7 +72,7 @@ title: Definition Template
 
 ### Status
 
-The **status** label will come after the title label. The status label indicates whether definitions are thoroughly vetted or require more effort.
+The **status** label will come after the title label. These labels indicate the amount of effort still required to complete the definition.
 
 Valid values are: 
 
@@ -92,10 +92,10 @@ status: Feedback Appreciated
 
 The **tag** label follows the status label. 
 For the tags to be meaningful and thus helpful to the user, we will use them in a strict sense. 
-Applying too many tags will only delute its meaning. 
-With the exception of "fundamental," which simply indicates this term is needed to understand other cloud native concepts, most terms will likely only have one tag.
+Applying too many tags will only dilute its meaning. 
+An exception to this is the `fundamental` tag, which indicates this term is needed to understand other cloud native concepts; most terms will likely only have one tag.
 
-**Note**: Please do not introduce new tags unless approved by the maintainers. When you add tags to an entry, ensure they are spelled exactly as listed below (singular, no typos).
+**Note**: Please only introduce new tags if approved by the maintainers. When you add tags to an entry, ensure they are spelled exactly as listed below (singular, no typos).
 
 The current tags are:
 
@@ -112,7 +112,7 @@ The current tags are:
 ---
 title: Definition Template
 status: Feedback Appreciated
-tags: ["tag 1"], ["tag 2"]
+tags: ["tag 1", "tag 2", ""]
 ---
 ```
 
@@ -124,21 +124,21 @@ The definitions for **technology** and **concept** categories contain three subh
 
 - **What it is**: provide a short and clear overview of what we are talking about.
 - **Problem it addresses**: focus on the problem, not the solution (that comes in the next section). 
-  In fact, avoid mentioning the term that is defined. The problem focuses on *what* led us to need that thing. 
+  Avoid mentioning the term that is defined. The problem focuses on *what* led us to need that thing. 
 - **How it helps**: now, come back to the term. How does it address the problem described above?
 
 Note that **properties** don't require separate sections. A definition will suffice. 
 
-To facilitate review, please use **semantic line breaks** (one sentence per line).
+Please use **semantic line breaks** (one sentence per line) to ease review. 
 
 #### Quality is paramount
 
 If merged, your submission will be the official CNCF definition for that term (until someone else improves it). 
-Creating a term that meets the CNCF's high standards can't be rushed — quality takes time and effort.
+Creating a term that meets the CNCF's high standards can't be rushed—quality takes time and effort.
 
 **Do your research**: Even if you are confident you know the term, verify you got it right. 
-We often use terms in organizations a certain way that may not reflect the full picture. 
-When you do your research, especially when you're not 100% familiar with the term, use multiple resources. 
+We often use terms in organizations in a certain way that may not reflect the full picture. 
+When researching, especially when you're not 100% familiar with the term, use multiple resources. 
 Many definitions are one-sided, especially if provided by a vendor. 
 The Glossary must contain vendor-neutral, globally accepted definitions.
 
@@ -151,40 +151,40 @@ Note that we cannot link to content developed by vendors.
 
 #### Keeping it simple
 
-The Glossary aims at **explaining complex concepts in simple words** — that is a surprisingly difficult task that will likely take multiple revisions. 
+The Glossary aims to **explain complex concepts in simple words**—a surprisingly difficult task that will likely take multiple revisions. 
 Always keep the audience in mind when drafting your definition. 
-Avoid using industry terms and buzzwords — you'll probably catch yourself going back to them and may need to autocorrect. 
+Avoid using industry terms and buzzwords—you might catch yourself returning to them and may need to train yourself to look for different terms. 
 
-When appropriate, use **real-world examples** that help readers (especially non-technical ones) better understand *when* and *why* the concept you’re explaining is relevant. 
+When appropriate, use **real-world examples** that help readers (especially non-technical ones) better understand *when* and *why* the idea you’re explaining is relevant. 
 
 When used in your definition, always **link to existing glossary terms** (only the first mention should be hyperlinked).
 
-**Example**: take a look at the “What it is” section of the [service mesh definition](/service-mesh/). 
-It links back to the microservices, service, reliability, and observability definitions. 
+**Example**: look at the “What it is” section of the [service mesh definition](/service-mesh/). 
+It links back to the definitions of microservices, service, reliability, and observability. 
 Additionally, it uses a real-world example comparing network challenges in a microservices environment (something non-technical people can't relate to) 
 to wifi problems (something anyone using a laptop can understand). 
 Where possible, try to make that connection. 
 
 #### Start with a Google or Word doc
 
-We recommend starting with a Google or Word doc, letting it sit for a few days, and revisiting again. 
-This will allow you to catch phrases or expressions that could be worded in a simpler and more accessible way. 
+We recommend starting with a Google or Word doc, letting it sit for a few days, and revisiting it. 
+This will allow you to catch phrases or expressions that could be worded in a more straightforward and accessible way. 
 Also, make sure to run a spellcheck before submitting a PR.
 
-To ensure no one else submits a PR while working on a term, make sure to claim an issue (or create one) and that it is assigned to you. 
-More to that in the [How To Contribute](/contribute/) doc.
+To ensure no one else submits a PR while working on a term, claim an issue (or create one) and request it be assigned to you.
+More about that in the [How To Contribute](/contribute/) doc.
 
-Before getting started, please read some of the published Glossary terms 
+Before getting started, please read some published Glossary terms 
 to get a feeling for the level of detail and difficulty and when examples are appropriate.
 
-## The review process: what to expect
+## The review process: What to expect
 
 Please note that we are currently only three maintainers doing this in their spare time. 
-Occasionally, we'll be able to review terms quickly; on other occasions, it may take some time — we appreciate your patience. 
-If you have any questions, please get in touch with us in the #glossary Slack channel 
+Occasionally, we'll be able to review terms quickly; on other occasions, it may take some time—we appreciate your patience. 
+If you have any questions, please contact us in the #glossary Slack channel 
 (for where and how to find it, please refer to our [How To Contribute](/contribute/) doc).
 
 Our goal is for the Glossary to be the best possible resource. 
 Once you submit a PR, we may ask for one or more revisions. 
-Don't be frustrated — that is the case for many PRs. 
-Those backs and forth and our collaboration will ensure that your contribution becomes a truly useful definition read and referred to by readers all around the globe.
+Don't get frustrated—that is the case for many PRs. 
+These back and forths and our collaboration will ensure that your contribution becomes a helpful definition read and referred to by readers all around the globe.
