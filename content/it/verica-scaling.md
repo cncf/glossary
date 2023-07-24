@@ -8,7 +8,7 @@ tags: ["infrastruttura", "", ""]
 ## Cos'è
 
 La scalabilità verticale, è una tecnica in cui la capacita del sistema 
-viene aumentata aggiungendo CPU e memoria sui singoli [nodes](/nodes/) quando il carico di lavoro aumenta. 
+viene aumentata aggiungendo CPU e memoria sui singoli [nodes](/it/nodes/) quando il carico di lavoro aumenta. 
 Ad esempio, nel caso in cui abbiate un computer con 4GB RAM e vogliate incrementare la sua capacità a 16GB RAM, 
 Scalabilità verticale significa portare a 16GB RAM la memoria del sistema. 
 (Si prega di fare riferimento a [horizontal scaling](/horizontal-scaling/) per una differente modalità di scalabilità.)
