@@ -16,7 +16,7 @@ Scalabilità verticale significa portare a 16GB RAM la memoria del sistema.
 ## Quali problematiche affronta
 
 Quando la domanda di risorse per un'applicazione cresce oltre la capacità attuale di quell'istanza dell'applicazione, 
-dobbiamo trovare un modo per scalare (aggiungere capacità) al sistema. 
+bisogna trovare un modo per rendere scalabile il sistema, cioè aggiungere capacità. 
 Si possono aggiungere più risorse di calcolo ai nodi esistenti (scalabilità verticale) 
 o più nodi al sistema ([horizontal scaling](/it/horizontal-scaling/)). 
 La scalabilità contribuisce alla competitività, all'efficienza, alla reputazione ed alla qualità.
