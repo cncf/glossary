@@ -25,7 +25,7 @@ La scalabilità contribuisce alla competitività, all'efficienza, alla reputazio
 ## In che modo aiuta
 
 La scalabilità verticale consente di ridimensionare il server senza modificare il codice dell'applicazione. 
-Questo tecnica contrasta con la scalabilità orizzontale, in cui l'applicazione deve essere replicabile per scalare, potenzialmente richiedendo aggiornamenti del codice. 
+Questa tecnica contrasta con la scalabilità orizzontale, in cui l'applicazione deve essere replicabile per scalare, potenzialmente richiedendo aggiornamenti del codice. 
 La scalabilità verticale aumenta la capacità di un'applicazione esistente aggiungendo risorse di calcolo, 
 consentendo all'app di elaborare più richieste e fare più lavoro contemporaneamente.
 
