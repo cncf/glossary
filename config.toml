@@ -140,6 +140,13 @@ weight = 10
 [languages.ur.params]
 description = "CNCF کلاؤڈ کی مقامی لغت کا مقصد کلاؤڈ مقامی ایپلی کیشنز کے بارے میں بات کرتے وقت استعمال ہونے والی عام اصطلاحات کے حوالے کے طور پر استعمال کرنا ہے۔"
 
+[languages]
+[languages.ru]
+title = "Глоссарий Cloud Native"
+languageName ="Русский (Russian)"
+weight = 11
+[languages.ru.params]
+description = "Глоссарий Cloud Native — справочник по общим терминам, имеющим отношение к облачно-нативным приложениям и технологиям. Разрабатывается CNCF."
 
 [markup]
   [markup.goldmark]
