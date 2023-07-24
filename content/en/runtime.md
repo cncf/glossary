@@ -18,7 +18,6 @@ These runtimes utilize kernel features such as namespaces and cgroups to provide
 
 ## Problem it addresses
 
-Container runtimes are a necessary component of container orchestrators such as Kubernetes. 
 The runtime is scoped to only handle the lifecycle of the containers. 
 
 Without a container runtime, the user would have to manually handle the container lifecycle, interface directly with cgroups and namespaces in the kernel, and handle hardware resources.
