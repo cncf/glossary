@@ -32,5 +32,5 @@ consentendo all'app di elaborare più richieste e fare più lavoro contemporanea
 
 ## Termini Collegati
 
-* [Horizontal Scaling](/horizontal-scaling/)
-* [Auto Scaling](/auto-scaling/)
+* [Horizontal Scaling](/it/horizontal-scaling/)
+* [Auto Scaling](/it/auto-scaling/)
