@@ -43,12 +43,17 @@ jobs:
         case "${L10N_BRANCH}" in
           dev-pt)
           L10N_DIR="content/pt-br/"
-          L10N_CODE="pt"
+          L10N_CODE="pt-br"
           ;;
 
           dev-zh)
           L10N_DIR="content/zh-cn/"
-          L10N_CODE="zh"
+          L10N_CODE="zh-cn"
+          ;;
+
+          dev-tw)
+          L10N_DIR="content/zh-tw/"
+          L10N_CODE="zh-tw"
           ;;
 
           *)
