@@ -1,6 +1,6 @@
 ---
 title: Managed services
-status: Completed
+status: Deprecated
 category: Tecnologia
 ---
 

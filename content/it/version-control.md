@@ -1,7 +1,7 @@
 ---
 title: Controllo di Versione
 status: Completed
-category: Tecnologia
+category: Deprecated
 tags: ["metodologia", "", ""]
 ---
 
