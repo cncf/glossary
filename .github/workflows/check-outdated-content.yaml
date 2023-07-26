@@ -39,31 +39,26 @@ jobs:
         # Set output direcory
         OUTPUT_DIR="./outdated"
         
-        # Set L10n directory and code
+        # Set L10n code
+        L10N_CODE="${L10N_BRANCH//dev-/}"
+        echo "(DEBUG) L10N Code: ${L10N_CODE}"
+
+        # Set L10n directory
         case "${L10N_BRANCH}" in
           dev-pt)
-          L10N_DIR="content/pt-br/"
-          L10N_CODE="pt-br"
+          L10N_DIR="./content/pt-br/"
           ;;
-
           dev-zh)
-          L10N_DIR="content/zh-cn/"
-          L10N_CODE="zh-cn"
+          L10N_DIR="./content/zh-cn/"
           ;;
-
           dev-tw)
-          L10N_DIR="content/zh-tw/"
-          L10N_CODE="zh-tw"
+          L10N_DIR="./content/zh-tw/"
           ;;
-
           *)
-          L10N_CODE="${L10N_BRANCH//dev-/}"
           L10N_DIR="./content/${L10N_CODE}/"
           ;;
         esac
-        
         echo "(DEBUG) L10N Directory: ${L10N_DIR}"
-        echo "(DEBUG) L10N Code: ${L10N_CODE}"
         
         # Set L10N_DIR, L10N_CODE, and OUTPUT_DIR as environment variables
         # Ref: https://docs.github.com/en/actions/using-workflows/workflow-commands-for-github-actions#setting-an-environment-variable
@@ -106,7 +101,6 @@ jobs:
         # The old branch can be 'upstream/dev-ko'
         OLD_BRANCH="origin/${{github.base_ref}}"
         echo "(DEBUG) OLD_BRANCH: ${OLD_BRANCH}"
-        echo "(DUBUG) OLD_BRANCH: ${OLD_BRANCH}"
 
         L10N_INFO_JSON=$(cat <<EOF
         {
