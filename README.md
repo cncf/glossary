@@ -17,7 +17,7 @@ Committee (Business Value Subcommittee) and includes contributions
 from [Catherine Paganini](https://www.linkedin.com/in/catherinepaganini/en/), [Chris Aniszczyk](https://www.linkedin.com/in/caniszczyk/),
 [Daniel Jones](https://www.linkedin.com/in/danieljoneseb/?originalSubdomain=uk), [Jason Morgan](https://www.linkedin.com/in/jasonmorgan2/), [Katelin Ramer](https://www.linkedin.com/in/katelinramer/) and [Mike Foster](https://www.linkedin.com/in/mfosterche/?originalSubdomain=ca).
 
-## License 
+## License
 
 All code contributions are under the Apache 2.0 license. Documentation is distributed under CC BY 4.0.
 
@@ -32,6 +32,6 @@ git submodule update --init --recursive
 npm install
 ```
 
-You can then run the site using `hugo server`.
+You can then run the site using `npm run serve` (select "[Hugo]").
 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?repo=cncf/glossary)

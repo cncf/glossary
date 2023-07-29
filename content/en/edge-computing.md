@@ -27,5 +27,3 @@ As described above, for edge devices to be useful, they must do at least part of
 This is achieved by shifting some storage and processing resources from the data center to where the data is generated: the edge device.
 Processed and unprocessed data is subsequently sent to the data center for further processing and storage.
 In short, efficiency and speed are the primary drivers of edge computing. 
-
-
