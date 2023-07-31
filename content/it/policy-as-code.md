@@ -1,0 +1,29 @@
+---
+title: Policy as Code (PaC)
+status: Completed
+category: Concetto
+tags: ["metodologia", "", ""]
+draft: 
+---
+
+## Cos'è
+
+Policy as code è la pratica che consente di memorizzare la definizione delle policy in uno o più file in formato leggibile e processabile da macchine. 
+Questa metodologia sostituisce il modello tradizionale in cui le policy sono documentate in formato leggibile da umani in documenti esterni al sistema.
+
+## Quali problematiche affronta
+
+La costruzione di applicazioni e infrastrutture è spesso vincolata da molte policy che un'organizzazione definisce, 
+ad esempio policy di sicurezza che vietano di memorizzare segreti nel codice sorgente, di eseguire un container con autorizzazioni di superutente 
+o di memorizzare alcuni dati al di fuori di una specifica regione geografica. 
+Il processo di verifica manuale della loro appliaczione su applicazioni o infrastruttura da parte di sviluppatori e revisori 
+è complesso e soggetto a errori. 
+I processi manuali non possono soddisfare i requisiti di reattività e scalabilità delle applicazioni native del cloud.
+
+## In che modo aiuta
+
+Utilizzare il policy as a code consente la ripetibilità ed automazione, riducendo gli errori rispetto alla loro applicazione manuale.
+Un altro vantaggio è che il codice può essere gestito da un sistema di controllo di versione come Git. 
+Git crea una cronologia dei log delle modifiche, che è particolarmente utile quando qualcosa non funziona come previsto. 
+Consente all'utente di determinare chi ha apportato la modifica e di ripristinare una versione precedente.
+
