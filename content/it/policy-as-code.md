@@ -16,7 +16,7 @@ Questa metodologia sostituisce il modello tradizionale in cui le policy sono doc
 La costruzione di applicazioni e infrastrutture è spesso vincolata da molte policy che un'organizzazione definisce, 
 ad esempio policy di sicurezza che vietano di memorizzare segreti nel codice sorgente, di eseguire un container con autorizzazioni di superutente 
 o di memorizzare alcuni dati al di fuori di una specifica regione geografica. 
-Il processo di verifica manuale della loro appliaczione su applicazioni o infrastruttura da parte di sviluppatori e revisori 
+ Per gli sviluppatori e i revisori è molto laborioso e soggetto a errori verificare manualmente le applicazioni e le infrastrutture rispetto alle policy documentate.
 è complesso e soggetto a errori. 
 I processi manuali non possono soddisfare i requisiti di reattività e scalabilità delle applicazioni native del cloud.
 
