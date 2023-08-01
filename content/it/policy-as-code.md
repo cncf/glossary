@@ -17,7 +17,6 @@ La costruzione di applicazioni e infrastrutture è spesso vincolata da molte pol
 ad esempio policy di sicurezza che vietano di memorizzare segreti nel codice sorgente, di eseguire un container con autorizzazioni di superutente 
 o di memorizzare alcuni dati al di fuori di una specifica regione geografica. 
  Per gli sviluppatori e i revisori è molto laborioso e soggetto a errori verificare manualmente le applicazioni e le infrastrutture rispetto alle policy documentate.
-è complesso e soggetto a errori. 
 I processi manuali non possono soddisfare i requisiti di reattività e scalabilità delle applicazioni native del cloud.
 
 ## In che modo aiuta
