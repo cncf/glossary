@@ -13,7 +13,7 @@ Questa metodologia sostituisce il modello tradizionale in cui le policy sono doc
 
 ## Quali problematiche affronta
 
-La costruzione di applicazioni e infrastrutture è spesso vincolata da molte policy che un'organizzazione definisce, 
+La costruzione di applicazioni e infrastrutture è spesso vincolata a molte policy che un'organizzazione definisce, 
 ad esempio policy di sicurezza che vietano di memorizzare segreti nel codice sorgente, di eseguire un container con autorizzazioni di superutente 
 o di memorizzare alcuni dati al di fuori di una specifica regione geografica. 
 Per gli sviluppatori e i revisori è molto laborioso e soggetto a errori verificare manualmente le applicazioni e le infrastrutture rispetto alle policy documentate.
