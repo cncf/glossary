@@ -21,7 +21,7 @@ I processi manuali non possono soddisfare i requisiti di reattività e scalabili
 
 ## In che modo aiuta
 
-Utilizzare il policy as a code consente la ripetibilità ed automazione, riducendo gli errori rispetto alla loro applicazione manuale.
+Utilizzare Policy as Code la ripetibilità e riduce gli errori, a differenza di quanto avviene manualmente.
 Un altro vantaggio è che il codice può essere gestito da un sistema di controllo di versione come Git. 
 Git crea una cronologia dei log delle modifiche, che è particolarmente utile quando qualcosa non funziona come previsto. 
 Consente all'utente di determinare chi ha apportato la modifica e di ripristinare una versione precedente.
