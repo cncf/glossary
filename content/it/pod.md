@@ -27,7 +27,7 @@ I pod raggruppano i container strettamente legati in un'unica unità, semplifica
 Ad esempio, i container ausiliari vengono spesso utilizzati insieme al container principale per aggiungere funzionalità aggiuntive o per impostare configurazioni globali. 
 Esempi possono includere container che iniettano e applicano impostazioni di base al container principale,
 sidecar (container) che gestiscono il routing del traffico di rete per il container principale  (vedi [service mesh](/it/service-mesh/)), 
-o container che raccolgono i log in di altri determianti container.
+o container che raccolgono i log di altri determinati container.
 
 
 L'allocazione di memoria e CPU può essere definita a livello di pod, consentendo ai container all'interno di condividere le risorse in modo flessibile, o per container.
