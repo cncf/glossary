@@ -10,7 +10,7 @@ tags: ["infrastruttura", "fondamenti", ""]
 In un ambiente [Kubernetes](/it/kubernetes/), un pod è la più piccola unità di base di un'applicazione;
 rappresenta un blocco di costruzione essenziale per l'installazione e la gestione di applicazioni containerizzate.
 Ogni pod contiene una singola instanza applicativa, e può contenere uno o piu [containers](/it/container/).
-Kubernetes gestisce i pod come parte di un deployment e se necessario può scalare i pod [verticalmente](/it/vertical-scaling/) or [orizzontalmente](/it/horizontal-scaling/).
+Kubernetes gestisce i pod come parte di un deployment e se necessario può eseguire lo scaling [verticale](/it/vertical-scaling/) o [orizzontale](/it/horizontal-scaling/) dei pod.
 
 ## Quali problematiche affronta
 
