@@ -19,7 +19,7 @@ and [continuous deployment](/continuous-deployment/) and accelerate application 
 Unfortunately, automated release processes that fail to represent 
 all organizational stakeholders adequately can exacerbate existing issues. 
 A process that rapidly releases new software without considering security needs 
-can degrade an organizations’ security posture.
+can degrade an organization's security posture.
 
 ## How it helps
 
