@@ -132,9 +132,9 @@ _@Catherine Paganini_, _@Seokho Son_, _@Jihoon Seo_, 및/또는 _@iamnoah_를 �
 
 [스타일 가이드](/style-guide/)에 설명된 바와 같이 Google 또는 Word 문서부터 시작하는 것을 추천한다.
 
-용어를 제출할 준비가 되면 콘텐츠로 이동한다(<> Code 탭에서).
+용어를 제출할 준비가 되면, 코드 트리 아래의 `content/` 디렉토리로 이동한다(<> Code 탭에서).
 
-![콘텐츠 디렉토리](/images/how-to/howto-05.png)
+![content 디렉토리](/images/how-to/howto-05.png)
 
 다음으로, 제출할 용어가 영문인 경우 `en`, 다른 언어인 경우 해당 언어 디렉토리로 이동한다.
 
