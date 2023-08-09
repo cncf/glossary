@@ -28,4 +28,4 @@ tags: ["architecture", "property", ""]
 
 ## সম্পর্কিত পদ
 
-বহু মালিকানা (multitenancy) [SaaS](/bn/software-as-a-service/) এর সমার্থক নয়, যদিও SaaS-এর বহু মালিকানা (multitenancy) হওয়া খুবই সাধারণ এবং এমনকি বহু মালিকানার (multitenancy) বৈশিষ্ট্য গুলি এর মূল সুবিধাগুলির মধ্যে একটি।
+বহু মালিকানা (multitenancy) SaaS এর সমার্থক নয়, যদিও SaaS-এর বহু মালিকানা (multitenancy) হওয়া খুবই সাধারণ এবং এমনকি বহু মালিকানার (multitenancy) বৈশিষ্ট্য গুলি এর মূল সুবিধাগুলির মধ্যে একটি।
