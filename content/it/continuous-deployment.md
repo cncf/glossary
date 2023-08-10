@@ -1,0 +1,37 @@
+---
+title: Continuous Deployment (CD)
+status: Completed
+category: Concetto
+tags: ["metodologia", "applicazione", ""]
+---
+
+## Cos'è
+
+Il Continuous deployment, spesso abbreviato CD, è il passo successivo di [continuous delivery](/it/continuous-delivery/)
+ed esegue l'installazione del sofware finito direttamente in produzione.
+Il continuous deployment (CD) va di pari passo con la [continuous integration](/it/continuous-integration/) (CI), 
+e viene spesso indicata come CI/CD.
+Il processo CI verifica se le modifiche apportate a una determinata applicazione sono valide, 
+ed il processo CD distribuisce automaticamente le modifiche al codice attraverso i vari ambienti di un'organizzazione, da test alla produzione.
+
+## Quali problematiche affronta
+
+Il rilascio di nuove versioni di software può essere un processo laborioso e soggetto a errori; 
+è anche spesso qualcosa che le organizzazioni vorranno fare non frequentemente per evitare incidenti in produzione 
+e ridurre il numero di volte in cui gli ingegneri devono essere disponibili al di fuori dell'orario lavorativo normale. 
+I modelli tradizionali di distribuzione del software portano le organizzazioni in un circolo vizioso 
+in cui il processo di rilascio del software non soddisfa le esigenze organizzative in termini di velocità di rilascio
+di correzzioni applicative e nel rilascio delle nuove funzionalità.
+
+## In che modo aiuta
+
+Automatizzando il ciclo di rilascio e costringendo le organizzazioni a rilasciare in produzione più frequentemente, 
+il CD fa per i team operativi quello che il CI ha fatto per i team di sviluppo. 
+In particolare, obbliga i team operativi ad automatizzare le parti complesse e soggette a errori dei deployment in produzione, 
+riducendo il rischio complessivo. 
+Inoltre, rende le organizzazioni migliori nell'accettare e adattarsi ai cambiamenti in produzione, il che porta a una maggiore stabilità.
+
+## Termini correlati
+
+* [Continuous Integration](/it/continuous-integration/)
+* [Continuous Delivery](/it/continuous-delivery/)
