@@ -19,7 +19,7 @@ menu:
 
 ## CNCF Glossary 概述
 
-該 Glossary 的目標是簡化複雜的雲原生領域，使其更容易被人們理解和使用。
+該 Glossary 的目標是簡化複雜的雲端原生領域，使其更容易被人們理解和使用。
 
 Cloud Native Glossary 的內容存儲在[此 GitHub 存儲庫](https://github.com/cncf/glossary) 中，
 您可以在那裡找到有關 Glossary 的[議題](https://github.com/cncf/glossary/issues)、拉取請求(([PRs](https://github.com/cncf/glossary/pulls))和 
@@ -27,14 +27,14 @@ Cloud Native Glossary 的內容存儲在[此 GitHub 存儲庫](https://github.co
 
 ## 誰可以貢獻？
 
-您如何參與此專案取決於您的雲原生專業知識水準。
+您如何參與此專案取決於您的雲端原生專業知識水準。
 簡化複雜的概念需要對該主題有深入的了解。
 因此，要貢獻新術語，您必須精通該主題。
-貢獻者通常是在這些技術上工作了一段時間的工程師或專注於雲原生的學者。
+貢獻者通常是在這些技術上工作了一段時間的工程師或專注於雲端原生的學者。
 
-專業知識是必需的，因為用簡單的話語解釋複雜的概念 _真的_ 很難。而且，儘管易於理解的結果可能看起來很簡單，但達到所需的簡單性需要雲原生專家之間的努力和協作。
+專業知識是必需的，因為用簡單的話語解釋複雜的概念 _真的_ 很難。而且，儘管易於理解的結果可能看起來很簡單，但達到所需的簡單性需要雲端原生專家之間的努力和協作。
 
-如果您尚未成為雲原生專家但仍想貢獻，我們建議與專家合作。
+如果您尚未成為雲端原生專家但仍想貢獻，我們建議與專家合作。
 一旦專家確信術語準確描述概念，您就可以做出第一個 Glossary 貢獻。
 
 本地化是初學者可以為 Glossary 提供有價值貢獻的地方。
@@ -92,8 +92,8 @@ Cloud Native Glossary 的內容存儲在[此 GitHub 存儲庫](https://github.co
 
 您可以提出新術語供他人研究，或自己創建新定義。
 不管哪種方式，您都需要從[新增議題](#creating-an-issue)開始。
-每個新術語必須符合 [CNCF的雲原生定義](https://github.com/cncf/toc/blob/main/DEFINITION.md)才能被添加到 glossary 中。
-唯一的例外是理解雲原生概念所需的基礎術語。
+每個新術語必須符合 [CNCF的雲端原生定義](https://github.com/cncf/toc/blob/main/DEFINITION.md)才能被添加到 glossary 中。
+唯一的例外是理解雲端原生概念所需的基礎術語。
 
 以下是對於不熟悉 GitHub 的人的逐步指南。
 **如果您是 GitHub 專家**，請掃描本指南以獲取有關以下主題的足夠資訊：
@@ -118,7 +118,7 @@ Cloud Native Glossary 的內容存儲在[此 GitHub 存儲庫](https://github.co
 ### 緊急處理您的議題 {#triaging-your-issue}
 
 接下來，維護者將會進行緊急處理。這意味著他們將評估該術語是否應該成為 Glossary 的一部分。
-並不是每個術語都會被批准。若要納入 Glossary，它們應該是建立且廣泛使用的雲原生概念。
+並不是每個術語都會被批准。若要納入 Glossary，它們應該是建立且廣泛使用的雲端原生概念。
 
 請讓維護者知道您已在 Slack 上提出新術語並標記 _@Catherine Paganini_、_@Seokho Son_、_@Jihoon Seo_ 和/或 _@iamnoah_，以便他們不會錯過。
 如果您想編寫定義，請讓維護者知道，他們會指派它給您。
