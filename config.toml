@@ -140,20 +140,13 @@ weight = 10
 [languages.ur.params]
 description = "CNCF کلاؤڈ کی مقامی لغت کا مقصد کلاؤڈ مقامی ایپلی کیشنز کے بارے میں بات کرتے وقت استعمال ہونے والی عام اصطلاحات کے حوالے کے طور پر استعمال کرنا ہے۔"
 
-[languages.ur]
-title = "کلاؤڈ کی مقامی لغت"
-description = "CNCF کلاؤڈ کی مقامی لغت کا مقصد کلاؤڈ مقامی ایپلی کیشنز کے بارے میں بات کرتے وقت استعمال ہونے والی عام اصطلاحات کے حوالے کے طور پر استعمال کرنا ہے۔"
-languageName ="اردو (Urdu)"
-contentDir = "content/ur"
-weight = 10
-
 [languages.fr]
 title = "Glossaire Cloud Native"
-description = "Le projet de Glossaire CNCF Cloud Natif a pour objectif de référencer les termes courants utilisés dans les différentes applications cloud native."
 languageName ="Français (French)"
 contentDir = "content/fr"
 weight = 11
-
+[languages.fr.params]
+description = "Le projet de Glossaire CNCF Cloud Native a pour objectif de référencer les termes courants utilisés dans les différentes applications Cloud Natives."
 
 [markup]
   [markup.goldmark]
@@ -182,13 +175,13 @@ images = ["images/cncf-glossary-social.jpg"]
 # This menu appears only if you have at least one [params.versions] set.
 version_menu = "Releases"
 
-# Flag used in the "version-banner" partial to decide whether to display a
+# Flag used in the "version-banner" partial to decide whether to display a 
 # banner on every page indicating that this is an archived version of the docs.
 # Set this flag to "true" if you want to display the banner.
 archived_version = false
 
 # The version number for the version of the docs represented in this doc set.
-# Used in the "version-banner" partial to display a version number for the
+# Used in the "version-banner" partial to display a version number for the 
 # current doc set.
 version = "0.0"
 
@@ -244,7 +237,7 @@ yes = 'Thank you! Please <a href="https://github.com/cncf/glossary/issues/new">l
 no = 'Thanks for your feedback. Please <a href="https://github.com/cncf/glossary/issues/new">tell us how we can improve</a>.'
 
 # Adds a reading time to the top of each doc.
-# If you want this feature, but occasionally need to remove the Reading time from a single page,
+# If you want this feature, but occasionally need to remove the Reading time from a single page, 
 # add "hide_readingtime: true" to the page's front matter
 [params.ui.readingtime]
 enable = false
