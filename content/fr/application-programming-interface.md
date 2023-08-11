@@ -17,10 +17,10 @@ Les contraintes sur leurs interactions permettent de créer une communication st
 Au fur et à mesure que les applications deviennent plus complexes, de petites modifications du code peuvent avoir des effets drastiques sur d'autres fonctionnalités.
 Les applications doivent adopter une approche modulaire de leur fonctionnement si elles veulent simultanément croître et maintenir leur stabilité.
 Sans API, il manque un cadre pour l'interaction entre les applications.
-Sans un cadre partagé, il est difficile pour les applications de [passer à l'échelle](/scalability/) et de s'intégrer.
+Sans un cadre partagé, il est difficile pour les applications de [passer à l'échelle](/fr/scalability/) et de s'intégrer.
 
 ## Quel en est l'utilité
 
 Les APIs permettent aux programmes informatiques ou aux applications d'interagir et de partager des informations de manière définie et compréhensible.
 Elles sont les éléments constitutifs des applications modernes et elles offrent aux développeurs un moyen d'intégrer les applications entre elles.
-Lorsque vous entendez parler de [microservices](/microservices/) travaillant ensemble, vous pouvez en déduire qu'ils interagissent via une API.
+Lorsque vous entendez parler de [microservices](/fr/microservices/) travaillant ensemble, vous pouvez en déduire qu'ils interagissent via une API.

@@ -17,7 +17,7 @@ Ce Glossaire fournit un plateforme indépendante de toute solution propriétaire
 Les contributions sont les bienvenues pour tous les participants adhérant au principe du projet, ainsi qu'à sa charte.
 
 Toute personne souhaitant faire une contribution peut soumettre une Issue ou ouvrir une Pull Request sur le dépôt GitHub.
-S'assurer avant tout de suivre le [Guide de Rédaction](/style-guide/), de lire la [Documentation de contribution](/contribute/), ainsi que de rejoindre le canal [#glossary](https://cloud-native.slack.com/archives/C02TX20MQBB) du Slack de la CNCF.
+S'assurer avant tout de suivre le [Guide de Rédaction](/fr/style-guide/), de lire la [Documentation de contribution](/fr/contribute/), ainsi que de rejoindre le canal [#glossary](https://cloud-native.slack.com/archives/C02TX20MQBB) du Slack de la CNCF.
 Il existe également un canal [#glossary-localizations](https://cloud-native.slack.com/archives/C02N2RGFXDF) pour ceux qui souhaitent aider à la traduction du glossaire dans leur langage natif.
 
 ## Remerciements

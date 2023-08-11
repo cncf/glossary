@@ -143,7 +143,7 @@ vision du *quand* et *pourquoi* du concept que vous expliquez.
 
 Lorsqu'utilisé dans vos définitions, toujours **rediriger vers des termes existant du Glossaire** (uniquement la première mention du terme doit-être redirigée).
 
-**Exemple**: référez vous à la section "Ce que c'est" de la définition d'un [service mesh](/service-mesh/).
+**Exemple**: référez vous à la section "Ce que c'est" de la définition d'un [service mesh](/fr/service-mesh/).
 Cette dernière fait référence aux définitions de micro-services, service, fiabilité, et observabilité.
 De plus, elle utilise un exemple de la vie réelle en comparant les enjeux des réseaux dans un environnement micro-services (un concept auquel un non-technique peut difficilement s'identifier) à une problématique de réseau wifi (ce que toute personne possédant un ordinateur peut comprendre).
 Lorsque cela est possible, tentez de faire cette connexion.
@@ -155,7 +155,7 @@ Aussi, assurez-vous d'effectuer une vérification orthographique avant de soumet
 
 Afin d'éviter qu'un autre contributeur soumette une PR concernant le terme sur lequel vous travaillez,
 assurez-vous de vous approprier un ticket (ou d'en créer un) et qu'il vous soit assigné.
-Plus d'information sur la documentation de [Comment contribuer](/contribute/).
+Plus d'information sur la documentation de [Comment contribuer](/fr/contribute/).
 
 Avant de démarrer, veillez à lire quelques termes du Glossaire afin de vous approprier le niveau de détails et de difficulté,
 ainsi que de l'utilisation judicieuse des exemples.
@@ -164,7 +164,7 @@ ainsi que de l'utilisation judicieuse des exemples.
 
 Notez que nous ne sommes actuellement que 3 mainteneurs, effectuant ce travail sur notre temps personnel.
 Occasionnellement, nous serons capables de revoir les termes rapidement; en d'autres occasions, il est possible que cela prenne plus de temps - merci de votre patience.
-Si vous avez des questions, n'hésitez pas à nous contacter sur le canal Slack #glossary (pour savoir où et comment le trouver, référez-vous à la section de [Comment contribuer](/contribute/)).
+Si vous avez des questions, n'hésitez pas à nous contacter sur le canal Slack #glossary (pour savoir où et comment le trouver, référez-vous à la section de [Comment contribuer](/fr/contribute/)).
 
 Notre but est de faire du Glossaire la meilleure des ressources possible.
 Une fois que vous aurez soumis votre PR, il est possible que nous demandions une ou plusieurs révisions.

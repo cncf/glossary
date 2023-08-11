@@ -13,10 +13,10 @@ Du moment que le résultat est une image qui respecte ce standard, l'outil de co
 
 ## Problème auquel il répond
 
-Avant que les conteneurs ne se répandent, les organisations s'appuyaient sur les machines virtuelles (VMs) pour orchestrer différentes applications au sein d'une unique [machine physique](/bare-metal-machine/).
+Avant que les conteneurs ne se répandent, les organisations s'appuyaient sur les machines virtuelles (VMs) pour orchestrer différentes applications au sein d'une unique [machine physique](/fr/bare-metal-machine/).
 Les VMs sont sensiblement plus grosses que les conteneurs et nécessitent un hyperviseur pour fonctionner.
 À cause du stockage, des sauvegardes et du transfert de ces gros modèles de VM, la création des modèles de VM est également longue.
-De plus, les VMs peuvent souffrir d'une dérive de configuration ce qui enfreint le principe de l'[immuabilité](/immutable-infrastructure/).
+De plus, les VMs peuvent souffrir d'une dérive de configuration ce qui enfreint le principe de l'[immuabilité](/fr/immutable-infrastructure/).
 
 ## Quel en est l'utilité
 

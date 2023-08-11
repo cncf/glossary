@@ -7,11 +7,11 @@ tags: ["networking", "", ""]
 
 ## Ce que c'est 
 
-Dans un monde de [microservices](/microservices/), les applications sont découpées en plusieurs petits services qui communiquent via 
+Dans un monde de [microservices](/fr/microservices/), les applications sont découpées en plusieurs petits services qui communiquent via 
 le réseau.
 Exactement comme votre réseau wifi, les réseaux informatiques sont intrinsèquement non fiables, piratables et souvent lents.
 Les services mesh répondent à cette problématique en gérant le trafic (i.e., la communication) entre les services et ajoutent de la
-[fiabilité](/reliability/), de l'[observabilité](/observability/) et des fonctionnalités liées à la sécurité de manière uniforme pour tous
+[fiabilité](/fr/reliability/), de l'[observabilité](/fr/observability/) et des fonctionnalités liées à la sécurité de manière uniforme pour tous
 les services.
 
 ## Problème auquel il répond
