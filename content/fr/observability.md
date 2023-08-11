@@ -1,6 +1,6 @@
 ---
 title: Observabilité
-status: Feedback Appreciated
+status: Completed
 category: concept
 tags: ["property", "", ""]
 ---
