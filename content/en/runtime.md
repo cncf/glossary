@@ -16,7 +16,6 @@ and how these images are unpacked, layered, mounted, and executed.
 
 ## Problem it addresses
 
-
 Without the abstraction of a container runtime, the application would have to deal with all the mechanics of each operating system, increasing the complexity of running the app. 
 
 ## How it helps
