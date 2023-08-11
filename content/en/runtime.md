@@ -21,7 +21,9 @@ Without the abstraction of a container runtime, the application would have to de
 Container runtimes are a necessary component of container orchestrators such as Kubernetes. 
 They handle the container lifecycle, which does mainly two things.
 First, it defines how container images are specified and how the runtime can retrieve them. 
-Runtimes also manage hardware resources and automate [??], taking care of all these operating system-level actions. 
+Second, they handle how these images are unpacked, layered, mounted, and executed.
+Furthermore, runtimes manage hardware resources taking care of all these operating system-level actions. 
+These include resource allocation and isolation.  
 Over time different container runtime products evolved, leading to the OCI Specification, 
 which became the standard for container runtimes. 
 
