@@ -19,6 +19,6 @@ L'orchestration de conteneurs permet aux utilisateurs d'automatiser toutes ces t
 ## Quelle en est l'utilité
 
 Les outils d'orchestration de conteneurs permettent aux utilisateurs de déterminer l'état d'un système.
-Tout d'abord, on déclare tel qu'il devrait être (i.e. x conteneurs, y pods, etc...).
+Tout d'abord, vous déclarez tel qu'il devrait être (i.e. x conteneurs, y pods, etc...).
 L'outil d'orchestration va ensuite automatiquement surveiller l'infrastructure et la corriger si son état dévie de l'état déclaré (i.e. ajouter un nouveau conteneur si un autre est tombé en panne).
 Cette automatisation simplifie nombre des tâches complexes et hautement manuelles qui sont réalisées autrement par les équipes d'ingénieurie, comme l'approvisionnement, le déploiement, la scalabilité (vers le haut ou le bas), la répartition de charge parmi d'autres activités.

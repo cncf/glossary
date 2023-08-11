@@ -12,7 +12,7 @@ Les services cloud gérés sont couramment associés à cette fonctionnalité de
 
 Auparavant, l'infrastructure et les applications étaient conçues en tenant compte de l'utilisation maximale du système.
 Cette architecture signifiait que beaucoup de ressources étaient sous-utilisées et inélastiques face à l'évolution de la demande des consommateurs.
-L'inélasticité entraînait des coûts plus élevés pour l'entreprise et des pertes d'activité causées par les pannes dues à une demande excessive.
+L'inélasticité entraînait des coûts plus élevés pour l'organisation et des pertes d'activité causées par les pannes dues à une demande excessive.
 
 En exploitant le cloud, la [virtualisation](/fr/virtualization/) et la [conteneurisation](/fr/containerization/) des applications et leurs dépendances,
 les organisations peuvent développer des applications qui se mettent à l'échelle selon les demandes des utilisateurs.
