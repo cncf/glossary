@@ -20,7 +20,6 @@ These runtimes utilize kernel features such as namespaces and cgroups to provide
 
 
 Without the abstraction of a container runtime, the application would have to deal with all the mechanics of each operating system, increasing the complexity of running the app. 
-The container runtime acts as an abstraction layer for these features.
 
 ## How it helps
 Container runtimes are a necessary component of container orchestrators such as Kubernetes. 
