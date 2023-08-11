@@ -19,7 +19,7 @@ These runtimes utilize kernel features such as namespaces and cgroups to provide
 ## Problem it addresses
 
 
-Without a container runtime, the user would have to manually handle the container lifecycle, interface directly with cgroups and namespaces in the kernel, and handle hardware resources.
+Without the abstraction of a container runtime, the application would have to deal with all the mechanics of each operating system, increasing the complexity of running the app. 
 The container runtime acts as an abstraction layer for these features.
 
 ## How it helps
