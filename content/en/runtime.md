@@ -14,7 +14,6 @@ In the context of [cloud native](/cloud-native-apps/), _runtime_ generally refer
 A container runtime specifically implements the [Open Container Initiative](https://opencontainers.org/) specification to ensure consistent handling around the ecosystem. 
 This includes container image specifications, how the runtime can retrieve images,
 and how these images are unpacked, layered, mounted, and executed. 
-These runtimes utilize kernel features such as namespaces and cgroups to provide isolation and resource management for the containers.
 
 ## Problem it addresses
 
