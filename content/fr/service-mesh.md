@@ -7,7 +7,7 @@ tags: ["networking", "", ""]
 
 ## Ce que c'est 
 
-Dans un monde de [microservices](/fr/microservices-architecture/), les applications sont découpées en plusieurs petits services qui communiquent via 
+Dans un monde de [microservices](/fr/microservices-architecture/), les applications sont découpées en plusieurs petits [services](/fr/service/) qui communiquent via 
 le réseau.
 Exactement comme votre réseau wifi, les réseaux informatiques sont intrinsèquement non fiables, piratables et souvent lents.
 Les services mesh répondent à cette problématique en gérant le trafic (i.e., la communication) entre les services et ajoutent de la
