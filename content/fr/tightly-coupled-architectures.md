@@ -14,7 +14,7 @@ Elles ont également tendance à nécessiter des déploiements synchronisés des
 ce qui peut devenir un frein à la productivité des développeurs.
 
 Les architectures fortement couplées sont une manière assez traditionnelle de construction des applications.
-Bien qu'elles ne soient pas nécessairement conformes avec les meilleures pratiques de développement de [microservices](/fr/microservices/)
+Bien qu'elles ne soient pas nécessairement conformes avec les meilleures pratiques de développement de [microservices](/fr/microservices-architecture/)
 elles peuvent être utiles dans des circonstances spécifiques.
 Elles ont tendances à être plus rapides et plus simples à mettre en oeuvre et
 à la manière des [applications monolithiques](/fr/monolithic-apps/) elles peuvent accélérer le cycle de développement initial.

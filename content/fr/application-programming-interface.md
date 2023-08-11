@@ -23,4 +23,4 @@ Sans un cadre partagé, il est difficile pour les applications de [passer à l'�
 
 Les APIs permettent aux programmes informatiques ou aux applications d'interagir et de partager des informations de manière définie et compréhensible.
 Elles sont les éléments constitutifs des applications modernes et elles offrent aux développeurs un moyen d'intégrer les applications entre elles.
-Lorsque vous entendez parler de [microservices](/fr/microservices/) travaillant ensemble, vous pouvez en déduire qu'ils interagissent via une API.
+Lorsque vous entendez parler de [microservices](/fr/microservices-architecture/) travaillant ensemble, vous pouvez en déduire qu'ils interagissent via une API.

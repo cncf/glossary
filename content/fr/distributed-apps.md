@@ -8,7 +8,7 @@ tags: ["architecture", "", ""]
 ## Ce que c'est
 
 Une application distribuée est une application dont les fonctionnalités sont découpées en plusieurs parties indépendantes et plus petites.
-Les applications distribuées sont généralement composées de [microservices](/fr/microservices/) individuels
+Les applications distribuées sont généralement composées de [microservices](/fr/microservices-architecture/) individuels
 qui s'occupent de différentes problématiques au sein d'une application plus large.
 Dans un environnement Cloud Native, ces composants individuels s'exécutent généralement en tant que [conteneurs](/fr/container/) sur un [cluster](/fr/cluster/).
 
