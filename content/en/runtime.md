@@ -12,7 +12,6 @@ It is an [abstraction](/abstraction/) of the underlying operating system that tr
 
 In the context of [cloud native](/cloud-native-apps/), _runtime_ generally refers to container runtime. 
 A container runtime specifically implements the [Open Container Initiative](https://opencontainers.org/) specification to ensure consistent handling around the ecosystem. 
-and how these images are unpacked, layered, mounted, and executed. 
 
 ## Problem it addresses
 
