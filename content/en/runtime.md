@@ -11,7 +11,7 @@ A runtime, in general, executes a piece of software.
 It is an [abstraction](/abstraction/) of the underlying operating system that translates the program's commands into respective actions for the operating system. 
 
 In the context of [cloud native](/cloud-native-apps/), _runtime_ generally refers to container runtime. 
-A container runtime specifically implements the [Open Container Initiative](https://opencontainers.org/) specification to ensure consistent handling around the ecosystem. 
+A container runtime specifically implements the [Open Container Initiative](https://opencontainers.org/) specification to ensure consistent handling around different container orchestration technologies. 
 
 ## Problem it addresses
 
