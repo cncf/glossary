@@ -16,7 +16,7 @@ Applications reside in the user space, and when they need higher permissions,
 they send a request to the kernel.
 For applications that require more flexibility, such as direct hardware 
 access, the kernel can be extended via what is known as the "Linux 
-kernel modules" approach. It can extend the kernel's default functionality
+kernel modules" approach. This approach extends the kernel's default functionality
  allowing applications deeper access to the underlying components. 
  Unfortunately, this could introduce security risks as well.
 
