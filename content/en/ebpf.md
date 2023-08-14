@@ -22,7 +22,7 @@ kernel modules" approach. This approach extends the kernel's default functionali
 
 ## Problem it addresses
 Typically, applications run in the user space, and if the application requires some privileges from the kernel (e.g., to access some hardware), 
-then it needs to send a call referred to as a “system call” and ask for that request from the kernel. 
+it requests it from the kernel via a so-called "system call."  
 In most cases, this approach works just fine. However, there are instances where developers require more flexibility for low-level system access.
 Observability, security, and networking features are some of the ideal examples to be implemented within the kernel space.
 One of the possibilities to reach such a goal is to use Linux kernel modules, which allow extending the kernel base without adding directly to the kernel source code. 
