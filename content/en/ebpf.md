@@ -21,7 +21,7 @@ kernel modules" approach. This approach extends the kernel's default functionali
  Unfortunately, this could introduce security risks as well.
 
 ## Problem it addresses
-Normally, applications run in user space, and if the application requires some privileges from the kernel (exp. to access some hardware), 
+Typically, applications run in the user space, and if the application requires some privileges from the kernel (e.g., to access some hardware), 
 then it needs to send a call referred to as a “system call” and ask for that request from the kernel. 
 In most cases, this approach works just fine. However, there are instances where developers require more flexibility for low-level system access.
 Observability, security, and networking features are some of the ideal examples to be implemented within the kernel space.
