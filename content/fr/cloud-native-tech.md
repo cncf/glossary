@@ -2,7 +2,7 @@
 title: Technologies Cloud Natives
 status: Completed
 category: Concept
-tags: ["fundamental", "", ""]
+tags: ["fondamental", "", ""]
 ---
 
 ## Ce que c'est

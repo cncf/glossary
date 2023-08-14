@@ -2,7 +2,7 @@
 title: Cloud Computing
 status: Completed
 category: concept
-tags: ["infrastructure", "fundamental", ""]
+tags: ["infrastructure", "fondamental", ""]
 ---
 
 ## Ce que c'est

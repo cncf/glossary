@@ -2,7 +2,7 @@
 title: Maillage de services (Service Mesh)
 status: Completed
 category: technology
-tags: ["networking", "", ""]
+tags: ["réseau", "", ""]
 ---
 
 ## Ce que c'est 

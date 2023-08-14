@@ -2,7 +2,7 @@
 title: Fiabilité
 status: Completed
 category: property
-tags: ["fundamental", "property", ""]
+tags: ["fondamental", "propriété", ""]
 ---
 
 Du point de vue Cloud Native, la fiabilité fait référence à la capacité d'un système à réagir face aux pannes.

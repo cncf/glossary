@@ -2,7 +2,7 @@
 title: Infrastructure en tant que code
 status: Completed
 category: concept
-tags: ["infrastructure", "methodology", ""]
+tags: ["infrastructure", "méthodologie", ""]
 ---
 
 ## Ce que c'est

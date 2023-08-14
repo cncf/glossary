@@ -2,7 +2,7 @@
 title: Passerelle d'API (API Gateway)
 status: Completed
 category: technology
-tags: ["networking", "", ""]
+tags: ["réseau", "", ""]
 ---
 
 ## Ce que c'est

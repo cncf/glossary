@@ -2,7 +2,7 @@
 title: Infrastructure immuable
 status: Completed
 category: property
-tags: ["infrastructure", "property", ""]
+tags: ["infrastructure", "propriété", ""]
 ---
 
 L'infrastructure immuable fait référence à l'infrastructure informatique ([machines virtuelles](/fr/virtual-machine/), [conteneurs](/fr/container/), équipements réseau) qui ne peut pas être modifiée une fois déployée.

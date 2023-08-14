@@ -2,7 +2,7 @@
 title: Nœud 
 status: Completed
 category: Concept
-tags: ["infrastructure", "fundamental", ""]
+tags: ["infrastructure", "fondamental", ""]
 ---
 
 ## Ce que c'est

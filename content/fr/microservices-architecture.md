@@ -1,7 +1,7 @@
 ---
 title: Architecture en Microservices
 status: Completed
-tags: ["architecture", "fundamental", ""]
+tags: ["architecture", "fondamental", ""]
 ---
 
 ## Ce que c'est

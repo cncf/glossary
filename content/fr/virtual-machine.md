@@ -2,7 +2,7 @@
 title: Machine Virtuelle
 status: Completed
 category: Technology
-tags: ["fundamental", "infrastructure", ""]
+tags: ["fondamental", "infrastructure", ""]
 ---
 
 ## Ce que c'est

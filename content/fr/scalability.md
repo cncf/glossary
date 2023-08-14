@@ -2,7 +2,7 @@
 title: Capacité de mise à l'échelle (Scalabilité)
 status: Completed
 category: property
-tags: ["fundamental", "property", ""]
+tags: ["fondamental", "propriété", ""]
 ---
 
 La capacité de mise à l'échelle (ou scalabilité) correspond à la capacité d'un système à s'agrandir.

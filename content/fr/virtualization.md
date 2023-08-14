@@ -2,7 +2,7 @@
 title: Virtualisation
 status: completed
 category: technology
-tags: ["fundamental", "infrastructure", "methodology"]
+tags: ["fondamental", "infrastructure", "méthodologie"]
 ---
 
 ## Ce que c'est

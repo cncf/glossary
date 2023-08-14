@@ -2,7 +2,7 @@
 title: Auto-réparant
 status: Completed
 category: property
-tags: ["infrastructure", "property"]
+tags: ["infrastructure", "propriété"]
 ---
 
 

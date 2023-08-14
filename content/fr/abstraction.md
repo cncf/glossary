@@ -2,7 +2,7 @@
 title: Abstraction
 status: Completed
 category: Property
-tags: ["fundamental", "", ""]
+tags: ["fondamental", "", ""]
 ---
 
 Dans le contexte informatique, une abstraction est une représentation qui masque les détails spécifiques à un consommateur de [services](/fr/service/) (un consommateur étant un programme informatique ou un humain), rendant un système plus générique, et ainsi facilement compréhensible.

@@ -2,7 +2,7 @@
 title: Observabilité
 status: Completed
 category: concept
-tags: ["property", "", ""]
+tags: ["propriété", "", ""]
 ---
 
 L'observabilité est une propriété des systèmes qui définit le degré auquel le système peut générer des informations exploitables.

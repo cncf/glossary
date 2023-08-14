@@ -2,7 +2,7 @@
 title: Applications Cloud Natives
 status: Completed
 category: concept
-tags: ["application", "fundamental", ""]
+tags: ["application", "fondamental", ""]
 ---
 
 ## Ce que c'est

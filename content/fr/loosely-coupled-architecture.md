@@ -2,7 +2,7 @@
 title: Architecture Faiblement Couplée
 status: Completed
 category: Property
-tags: ["fundamental", "architecture", "property"]
+tags: ["fondamental", "architecture", "propriété"]
 ---
 
 L'architecture faiblement couplée est un type d'architecture où les différents composants

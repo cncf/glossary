@@ -2,7 +2,7 @@
 title: Service
 status: Completed
 category: concept
-tags: ["application", "fundamental", ""]
+tags: ["application", "fondamental", ""]
 ---
 
 Notez bien qu'en informatique, le mot service a plusieurs significations.
