@@ -1,26 +1,26 @@
 ---
-title: Event-Driven Architecture
-status: Completed
-category: concept
-tags: ["architecture", "", ""]
+title: 事件驅動架構
+status: 已完成
+category: 概念
+tags: ["架構", "", ""]
 ---
 
-## What it is
+## 是什麼
 
-Event-driven architecture is a software architecture that promotes the creation, processing, and consumption of events.
-An event is any change to an application's state.
-For example, hailing a ride on a ride-sharing app represents an event.
-This architecture creates the structure in which events can be properly routed from their source (the app requesting a ride) to the desired receivers (the apps of available drivers nearby).
+事件驅動架構是一種軟體架構，促進了事件的創建、處理和消費。
+事件是應用程式狀態的任何變化。
+例如，在共乘應用程式中叫車代表著一個事件。
+這種架構創建了一個結構，使得事件能夠從其來源（請求乘車的應用程式）適當地路由到所需的接收者（附近可用司機的應用程式）。
 
-## Problem it addresses
+## 解決的問題
 
-As more data becomes real-time, finding reliable ways to ensure that events are captured and routed to the appropriate [service](/service/) that must process event requests gets increasingly challenging.
-Traditional methods of handling events often have no way to guarantee that messages are appropriately routed or were actually sent or received.
-As applications begin to scale, it becomes more challenging to orchestrate events.
+隨著越來越多的數據變得實時，確保事件被捕獲並路由到必須處理事件請求的適當[服務](/service/)的可靠方法變得越來越具有挑戰性。
+傳統處理事件的方法通常無法保證消息被適當地路由，或者是否實際上已發送或接收。
+隨著應用程式開始擴展，協調事件變得更加具有挑戰性。
 
-## How it helps
+## 如何幫助
 
-Event-driven architectures establish a central hub for all events (e.g., Kafka).
-You then define the event producers (source) and consumers (receiver), and the central event hub guarantees the flow of events.
-This architecture ensures that services remain decoupled and events are properly routed from the producer to the consumer.
-The producer will take the incoming event, usually by HTTP protocol, then route the event information.
+事件驅動架構建立了一個集中的中心樞紐，用於處理所有的事件（例如，Kafka）。
+然後，您可以定義事件的產生者（來源）和消費者（接收者），中央事件樞紐保證事件的流動。
+這種架構確保了服務保持解耦，並且能夠將事件從生產者正確路由到消費者。
+生產者將接收到的事件，通常通過HTTP協議，然後將事件信息進行路由。
