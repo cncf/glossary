@@ -1,35 +1,30 @@
 ---
 title: Kubernetes
-status: Completed
-category: technology
-tags: ["infrastructure", "fundamental", ""]
+status: 已完成
+category: 技术
+tags: ["基础设施", "基础", ""]
 ---
 
-## What it is
+## 是什么
 
-Kubernetes, often abbreviated as K8s, is an open source container orchestrator. 
-It automates the lifecycle of containerized applications on modern infrastructures, functioning as a "datacenter operating system" that manages applications across a [distributed system](/distributed-systems/).
+Kubernetes，通常缩写为K8s，是一个开源的容器编排器。
+它自动化了现代基础设施上容器化应用的生命周期，充当着一个"数据中心操作系统"，在分布式系统中管理应用程序。
 
-Kubernetes schedules [containers](/container/) across [nodes](/nodes/) in a [cluster](/cluster/), bundling several infrastructure resources such as load balancer, persistent storage, etc. to run containerized applications.
+Kubernetes在集群中的节点上调度容器，捆绑了诸多基础设施资源，如负载均衡器、持久存储等，以运行容器化应用。
 
-Kubernetes enables automation and extensibility, allowing users to deploy applications declaratively (see below) in a reproducible way. 
-Kubernetes is extensible via its [API](/application-programming-interface/), allowing experienced Kubernetes practitioners to leverage its automation capabilities according to their needs.
+Kubernetes实现了自动化和可扩展性，允许用户以声明式（见下文）的方式复现地部署应用程序。
+Kubernetes通过其API（应用程序编程接口）进行扩展，使有经验的Kubernetes从业者能够根据自己的需求利用其自动化能力。
 
-## Problem it addresses
+## 解决的问题
 
-Infrastructure automation and declarative configuration management have been important concepts for a long time, but they have become more pressing as [cloud computing](/cloud-computing/) has gained popularity. 
-As demand for compute resources increases and organizations need to provide more operational capabilities with fewer engineers, new technologies and working methods are required to meet that demand. 
+基础设施自动化和声明式配置管理长期以来一直是重要的概念，但随着云计算的普及，它们变得更加紧迫。
+随着对计算资源的需求增加，组织需要用更少的工程师提供更多的运维能力，需要新的技术和工作方法来满足这一需求。
 
-## How it helps
+## 如何帮助
 
-Similar to traditional [infrastructure as code](/infrastructure-as-code/) tools, Kubernetes helps with automation but has the advantage of working with containers. 
-Containers are more resistant to configuration drift than [virtual](/virtual-machine/) or physical machines. 
+与传统的基础设施即代码工具类似，Kubernetes帮助实现自动化，但其优势在于可以与容器一起使用。
+与虚拟机或物理机相比，容器对配置漂移更具有抵抗力。
 
-Additionally, Kubernetes works declaratively, which means that instead of operators instructing the machine how to do something, they describe — usually as manifest files (e.g., YAML) — what the infrastructure should look like. 
-Kubernetes then takes care of the "how". 
-This results in Kubernetes being extremely compatible with infrastructure as code.
-
-Kubernetes also [self-heals](/self-healing/). 
-The cluster's actual state will always match the operator's desired state.
-If Kubernetes detects a deviation from what is described in the manifest files, a Kubernetes controller kicks in and fixes it. 
-While the infrastructure Kubernetes uses may be continually changing, Kubernetes constantly and automatically adapts to changes and ensures that it matches with the desired state.
+此外，Kubernetes采用声明式方法工作，这意味着操作者不需要告诉机器如何执行操作，而是描述——通常以清单文件（如YAML）的形式——基础设施应该是什么样子的。
+然后Kubernetes会处理"如何"。
+这使得Kubernetes与基础设施即代码非常兼容。
