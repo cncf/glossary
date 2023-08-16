@@ -111,7 +111,7 @@ Birden çok terim üzerinde çalışacaksanız, bunları sırasıyla yapmanız g
 
 Başkalarının üzerinde çalışması için veya kendiniz tanımını oluşturmak için bir terim önerebilirsiniz.
 Her iki durumda da, bir [issue oluşturarak](#creating-an-issue) işe başlamalısınız.
-Sözlük'e eklenmek için, her terimin [CNCF's cloud native tanımına](https://github.com/cncf/toc/blob/main/DEFINITION.md) uygun olması gerekmektedir
+Sözlük'e eklenmek için, her terimin [CNCF'in cloud native tanımına](https://github.com/cncf/toc/blob/main/DEFINITION.md) uygun olması gerekmektedir
 Bu kuralın istisnası, sadece Cloud Native kavramlarını anlamak için kullanılan temel terimler olabilir.
 
 Aşağıda, GitHub ile aşınalığı olmayanlar için bir adım adım kılavuz bulunmaktadır. 
