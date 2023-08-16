@@ -18,7 +18,7 @@ For applications that require more flexibility, such as direct hardware
 access, the kernel can be extended via what is known as the "Linux 
 kernel modules" approach. This approach extends the kernel's default functionality
  allowing applications deeper access to the underlying components. 
- Unfortunately, this could introduce security risks as well.
+ However, this approach also introduces security risks.
 
 ## Problem it addresses
 Typically, applications run in the user space, and if the application requires some privileges from the kernel (e.g., to access some hardware), 
