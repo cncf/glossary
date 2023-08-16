@@ -25,7 +25,7 @@ Typically, applications run in the user space, and if the application requires s
 it requests it from the kernel via a so-called "system call."  
 In most cases, this approach works just fine. However, there are instances where developers require more flexibility for low-level system access.
 Observability, security, and networking features are good examples.
-One of the possibilities to reach such a goal is to use Linux kernel modules, which allow extending the kernel base without adding directly to the kernel source code. 
+To achieve that, we can use Linux kernel modules, extending the kernel base without adding directly to the kernel source code. 
 While there are benefits to using Linux kernel modules, it also introduces security risks. 
 Because they operate within the kernel space, Linux kernel modules can crash the kernel, and when the kernel crashes, so does the entire machine.
 Kernel modules have elevated privileges and direct access to system resources, which, if not properly secured, can be exploited by attackers.
