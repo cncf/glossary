@@ -7,17 +7,17 @@ tags: ["methodology", "", ""]
 
 ## ¿Qué es?
 
-Ingeniería del Caos o CE (Chaos Engineering) es la disciplina de experimentación sobre un [Sistema Distribuido](/distributed_systems/) en producción
+Ingeniería del Caos o CE (Chaos Engineering) es la disciplina de experimentación sobre un [Sistema Distribuido](/es/distributed-systems/) en producción
 para construir confianza en la capacidad del sistema para soportar condiciones inesperadas y turbulentas.
 
 ## Problema que aborda
 
-Las prácticas de [SRE](/site_reliability_engineering/) y [DevOps](/es/devops/) se centran en
+Las prácticas de [SRE](/es/site-reliability-engineering/) y [DevOps](/es/devops/) se centran en
 técnicas para el incremento de la resiliencia del producto y de la [confiabilidad](/es/reliability/).
 La capacidad del sistema para tolerar fallos al mismo tiempo que aseguran una calidad de servicio adecuado
 suele ser un típico requerimiento de desarrollo de software.
 Existen muchos aspectos involucrados al momento de la indisponibilidad de una aplicación,
-como la infraestructura, la plataforma o otras partes del ecosistema de las aplicaciones basadas en ([microservicios](/microservices/)).
+como la infraestructura, la plataforma o otras partes del ecosistema de las aplicaciones basadas en ([microservicios](/es/microservices/)).
 La alta frecuencia de despliegues de funcionalidades hacia el ambiente productivo puede
 aumentar la posibilidad de un incidente crítico o estar fuera de línea,
 generando consecuencias considerables para el negocio.

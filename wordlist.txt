@@ -29,6 +29,8 @@ cd
 cdn
 changelog
 chatbot
+cgroup
+cgroups
 cio
 cka
 ckad
@@ -46,6 +48,7 @@ customizable
 cyber
 daniel
 datacenter
+datacenters
 datadog
 dba
 dbaas
@@ -95,6 +98,7 @@ https
 iaas
 iac
 idempotence
+ies
 impactful
 inelasticity
 inlinehilite
@@ -129,13 +133,17 @@ mkdn
 mtls
 multitenancy
 multitenant
+namespace
+namespaces
 navbar
 observability
 oci
 oliveira
 opencontainers
 orchestrator
+orchestrators
 overdemand
+overprivileged
 paas
 pathconverter
 pavel
@@ -150,6 +158,7 @@ py
 pypi
 pyspelling
 ramer
+RBAC
 rdbms
 readme
 replicable
