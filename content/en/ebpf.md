@@ -28,7 +28,7 @@ Observability, security, and networking features are good examples.
 To achieve that, we can use Linux kernel modules, extending the kernel base without adding directly to the kernel source code. 
 While there are benefits to using Linux kernel modules, it also introduces security risks. 
 Because they operate within the kernel space, Linux kernel modules can crash the kernel, and when the kernel crashes, so does the entire machine.
-Kernel modules have elevated privileges and direct access to system resources, which, if not properly secured, can be exploited by attackers.
+Additionally, kernel modules have elevated privileges and direct access to system resources. And if not properly secured, attackers can exploit these.
 
 ## How it helps
 Compared to Linux Kernel modules, eBPF provides a more controlled and contained environment for executing user-defined programs. 
