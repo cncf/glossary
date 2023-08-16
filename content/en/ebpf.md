@@ -26,7 +26,8 @@ it requests it from the kernel via a so-called "system call."
 In most cases, this approach works just fine. However, there are instances where developers require more flexibility for low-level system access.
 Observability, security, and networking features are good examples.
 One of the possibilities to reach such a goal is to use Linux kernel modules, which allow extending the kernel base without adding directly to the kernel source code. 
-While using Linux kernel modules bring the mentioned benefits, it adds to the security risks because they operate within the kernel space and can make the kernel crash. 
+While there are benefits to using Linux kernel modules, it also introduces security risks. 
+Because they operate within the kernel space, Linux kernel modules can crash the kernel, and when the kernel crashes, so does the entire machine.
 Kernel modules have elevated privileges and direct access to system resources, which, if not properly secured, can be exploited by attackers.
 
 ## How it helps
