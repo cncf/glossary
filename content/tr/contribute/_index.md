@@ -76,7 +76,7 @@ Ayrıca, .md dosyalarına isim verirken, lütfen parantezlerden kaçının, sade
 
 ## Stil Kılavuzu
 
-Katkı sürecini daha verimli hale getirmek için, biçimlendirme ve belge yazımını anlatan [Stil Kılavuzumuzu](/style-guide/) okuyun.
+Katkı sürecini daha verimli hale getirmek için, biçimlendirme ve belge yazımını anlatan Stil Kılavuzumuzu okuyun.
 
 ## Sözlük topluluğuna katılın! {#join-the-glossary-community}
 
@@ -145,7 +145,7 @@ Eğer terimin tanımı üzerinde çalışmak istiyorsanız, issue'yu size atamal
 
 ### Yeni bir terim gönderme (PR oluşturma) {#submitting-a-new-term}
 
-[Stil Kılavuzunda](/style-guide/) açıklandığı gibi, bir Google Docs veya Word belgesi ile başlamanızı tavsiye ediyoruz.
+Stil Kılavuzunda açıklandığı gibi, bir Google Docs veya Word belgesi ile başlamanızı tavsiye ediyoruz.
 
 Terim göndermeye hazır olduğunda, "content" klasörüne gidin.
 
@@ -212,7 +212,7 @@ Bir terimi değiştirip önerilerinizi bildirmek için, "Bu Sayfayı Düzenle" l
 
 Terimin GitHub sayfası açılacaktır. Değişikliklerinizi yapın ve bir PR oluşturun.
 Lütfen kurallarımıza uyduğunuzdan emin olmak için [Örnek Uygulamalar](#best-practices) kısmına bakın 
-ve [Stil Kılavuzu](/style-guide/) kısmını okuyun.
+ve Stil Kılavuzu kısmını okuyun.
 
 ## Sözlüğü yerelleştirmemize yardım edin {#help-localize-the-glossary}
 
