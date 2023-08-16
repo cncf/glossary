@@ -8,7 +8,7 @@ tags: ["애플리케이션", "", ""]
 ## 개념
 
 컨테이너화(containerization)는 애플리케이션과 그 의존 요소들을 
-[컨테이너 이미지](/container-image/) 형태로 포장하는 것(bundling)을 의미한다. 
+컨테이너 이미지 형태로 포장하는 것(bundling)을 의미한다. 
 컨테이너 빌드 프로세스는 [OCI(Open Container Initiative)](https://opencontainers.org) 표준을 준수해야 한다. 
 컨테이너화의 결과물이 이 표준을 준수하는 컨테이너 이미지이기만 한다면, 어떠한 컨테이너화 도구라도 사용할 수 있다.
 

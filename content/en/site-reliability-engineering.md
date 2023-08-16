@@ -16,7 +16,7 @@ SRE ensures that code running in production works properly.
 ## Problem it addresses
 
 Ensuring applications run [reliably](/reliability/) requires multiple capabilities, 
-from performance monitoring, alerting, [debugging](/debugging/) to troubleshooting. 
+from performance monitoring, alerting, debugging to troubleshooting. 
 Without these, system operators can only react to problems vs. proactively working towards avoiding them 
 — downtime only becomes a matter of time.
 

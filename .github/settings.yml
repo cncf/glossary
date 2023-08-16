@@ -418,6 +418,7 @@ branches:
          - huats
          - fydrah
          - Krast76
+         - sestegra
         teams: []
       enforce_admins: null
       required_linear_history: null

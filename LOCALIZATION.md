@@ -138,6 +138,7 @@ If the team seems inactive (no response after several days), reach out to @Seokh
 --- 
 
 # Localization team guidelines
+
 Every localization team may have its own process of working on localizing terms. However, here are some guidelines that are common for all localization teams:
 
 1. Only terms with the status `Completed` in the English version are ready to be localized.
