@@ -165,6 +165,7 @@ runtime
 runtimeerror
 runtimes
 saas
+sandbox
 saneheaders
 sbates
 scalability
@@ -201,6 +202,8 @@ unencrypted
 utf
 valueerror
 vcs
+verification
+verifier
 virtualized
 virtualizing
 vm
