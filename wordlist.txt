@@ -165,7 +165,7 @@ runtime
 runtimeerror
 runtimes
 saas
-sandbox
+sandboxed
 saneheaders
 sbates
 scalability
