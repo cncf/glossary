@@ -32,7 +32,7 @@ Additionally, kernel modules have elevated privileges and direct access to syste
 
 ## How it helps
 eBPF provides a more controlled and contained environment for executing user-defined programs than Linux Kernel modules.
-eBPF programs run in a sandboxed environment within the kernel, providing isolation and mitigating some risks. 
+It runs in a sandboxed environment within the kernel, providing isolation and mitigating risk. 
 If a vulnerability or flaw is exploited in an eBPF program, its impact is generally limited to the sandboxed environment.
 Moreover, before an eBPF program can start running in the kernel, it has to pass some verifications. 
 The verifier component checks the eBPF program for any potential safety violations, 
