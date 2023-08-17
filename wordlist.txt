@@ -202,7 +202,7 @@ unencrypted
 utf
 valueerror
 vcs
-verification
+verifications
 verifier
 virtualized
 virtualizing
