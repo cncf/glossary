@@ -38,4 +38,4 @@ Moreover, before an eBPF program can start running in the kernel, it has to pass
 The verifier component checks the eBPF program for potential safety violations, 
 such as out-of-bounds memory access, infinite loops, and unauthorized kernel functions.
 This way, it ensures the program won't enter an infinite loop and cause a kernel crash.
-These safety controls make eBPF a more secure option to run applications in the Linux kernel compared to the Linux kernel modules.
+These safety controls make eBPF a more secure option to run applications in the Linux kernel than the Linux kernel modules.
