@@ -35,7 +35,7 @@ eBPF provides a more controlled and contained environment for executing user-def
 It runs in a sandboxed environment within the kernel, providing isolation and mitigating risk. 
 If a vulnerability or flaw is exploited in an eBPF program, its impact is generally limited to the sandboxed environment.
 Moreover, before an eBPF program can start running in the kernel, it has to pass some verifications. 
-The verifier component checks the eBPF program for any potential safety violations, 
+The verifier component checks the eBPF program for potential safety violations, 
 such as out-of-bounds memory access, infinite loops, and the usage of unauthorized kernel functions.
 This way, it ensures that the program will not enter an infinite loop and will not cause a kernel crash.
 These safety controls make eBPF a more secure option to run applications in the Linux kernel compared to the Linux kernel modules.
