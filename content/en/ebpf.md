@@ -31,7 +31,7 @@ Because they operate within the kernel space, Linux kernel modules can crash the
 Additionally, kernel modules have elevated privileges and direct access to system resources. And if not properly secured, attackers can exploit these.
 
 ## How it helps
-Compared to Linux Kernel modules, eBPF provides a more controlled and contained environment for executing user-defined programs. 
+eBPF provides a more controlled and contained environment for executing user-defined programs than Linux Kernel modules.
 eBPF programs run in a sandboxed environment within the kernel, providing isolation and mitigating some risks. 
 If a vulnerability or flaw is exploited in an eBPF program, its impact is generally limited to the sandboxed environment.
 Moreover, before an eBPF program can start running in the kernel, it has to pass some verifications. 
