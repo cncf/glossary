@@ -1,11 +1,11 @@
 ---
-title: Soyutlama (Abstraction)
+title: Soyutlama
 status: Completed
 category: Nitelik
 tags: ["fundamental", "", ""]
 ---
 
-Bilişimde soyutlama, bir [hizmet](https://glossary.cncf.io/service/) kullanıcısından (bu bir program veya insan olabilir) ayrıntıları gizleyip, bir sistemi daha genelleyici ve kolay anlaşılır hale getiren bir temsildir.
+Bilişimde soyutlama (abstraction), bir hizmet kullanıcısından (bu bir program veya insan olabilir) ayrıntıları gizleyip, bir sistemi daha genelleyici ve kolay anlaşılır hale getiren bir temsildir.
 Bilgisayarlarımızın işletim sistemi buna iyi bir örnektir; bilgisayarın nasıl çalıştığına dair tüm ayrıntıları soyutlar.
 İşlemci, bellek ve programların nasıl yönetildiği hakkında bir şey bilmenize gerek yoktur.
 Yapılması gereken sadece işletim sistemini çalıştırmaktır, detaylarla işletim sistemi ilgilenir.
