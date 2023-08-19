@@ -18,11 +18,23 @@ other = "Rechercher sur ce site…"
 [ui_in]
 other = "dans"
 
-# Used in sentences such as "All Tags"
-[ui_all]
-other = "tous"
-[ui_see_all]
-other = "Voir tous"
+# Phrases for tags
+[ui_see_all_tags]
+other = "Voir tous les tags"
+[ui_tag]
+other = "Tag"
+[ui_tags]
+other = "Tags"
+[ui_search_by_tags]
+other = "Parcourir par Tags"
+[ui_tags_intro]
+other = "Nous avons catégorisé les termes du glossaire. Utilisez les filtres pour parcourir les termes par tag."
+[ui_or_search_by_tags]
+other = "...ou parcourir par tag"
+[ui_select_all]
+other = "Tout sélectionner"
+[ui_deselect_all]
+other = "Tout désélectionner"
 
 # Footer text
 [footer_all_rights_reserved]
@@ -31,6 +43,8 @@ other = "Tous droits réservés"
 [footer_privacy_policy]
 other = "Politique de confidentialité"
 
+[footer_hub_button_text]
+other = "Tous les sites de la CNCF"
 
 # Post (blog, articles etc.)
 [post_byline_by]
