@@ -24,5 +24,5 @@ incrementando el número de servidores que permitirán una mayor transmisión de
 
 ## Términos relacionados
 
-* [Escalado Horizontal](/horizontal-scaling/)
-* [Escalado Vertical](/vertical-scaling/)
+* [Escalado Horizontal](/es/horizontal-scaling/)
+* [Escalado Vertical](/es/vertical-scaling/)

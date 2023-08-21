@@ -12,7 +12,7 @@ en vez de agregar más recursos computacionales a nodos individuales (conocido c
 Como ejemplo, digamos que tenemos un sistema con 4 GB de memoria y queremos incrementar su capacidad a 16 GB,
 escalar horizontalmente significa agregar 4 x 4 GB en vez de cambiar a un sistema de 16 GB.
 
-Esta método mejora el funcionamiento de una aplicación agregando nuevas instancias o [nodos](/es/nodes),
+Este método mejora el funcionamiento de una aplicación agregando nuevas instancias o [nodos](/es/nodes),
 para distribuir de mejor manera la carga de trabajo.
 En concreto, apunta a disminuir la carga del servidor
 en vez de expandir la capacidad de cada uno individualmente.
@@ -35,5 +35,5 @@ sin la necesidad de incrementar la capacidad de un nodo en particular.
 
 ## Términos relacionados
 
-* [Escalado vertical](/vertical-scaling/)
+* [Escalado Vertical](/es/vertical-scaling/)
 * [Autoescalado](/es/auto-scaling/)

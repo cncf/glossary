@@ -28,13 +28,13 @@ other = "Etiquetas"
 [ui_search_by_tags]
 other = "Browse by Tags"
 [ui_tags_intro]
-other = "We've categorized the glossary terms. Use the filters to browse terms by tag."
+other = "Hemos clasificado los términos del glosario. Utiliza los filtros para buscar términos por etiqueta."
 [ui_or_search_by_tags]
-other = "...or browse by tag"
+other = "...o busca por etiqueta"
 [ui_select_all]
-other = "Select All"
+other = "Seleccionar todas"
 [ui_deselect_all]
-other = "Deselect All"
+other = "Deseleccionar todas"
 
 # Footer text
 [footer_all_rights_reserved]
