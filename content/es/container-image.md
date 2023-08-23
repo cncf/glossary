@@ -7,7 +7,7 @@ tags: ["", "", ""]
 
 ## ¿Qué es?
 
-Una imagen es un fichero estático e inmutable que contiene las dependencias para la creación de un [contenedor](/container/).
+Una imagen es un fichero estático e inmutable que contiene las dependencias para la creación de un [contenedor](/es/container/).
 Estas dependencias pueden incluir un archivo binario ejecutable, librerías del sistema,
 herramientas del sistema, variables de entorno y otras configuraciones de plataforma necesarias.
 Las imágenes son el resultado de la [contenerización](/es/containerization) de una aplicación y típicamente están guardadas en los registros de contenedor,
@@ -21,7 +21,7 @@ Cualquier configuración errónea entre los entornos es problemática, a menudo 
 Un entorno de aplicación tiene que ser fácil de replicar, además de estar bien definido;
 en caso contrario, la posibilidad de bugs y errores relacionados con el entorno aumenta.
 Cuando los entornos de aplicación no están configurados de manera adecuada o son inexactos,
-el escalado [horizontal](/horizontal-scaling/) y [vertical](/vertical-scaling/) de las aplicaciones se complica y reduce su efectividad.
+el escalado [horizontal](/es/horizontal-scaling/) y [vertical](/vertical-scaling/) de las aplicaciones se complica y reduce su efectividad.
 
 ## ¿Cómo ayuda?
 

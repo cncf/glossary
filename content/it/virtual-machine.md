@@ -4,13 +4,13 @@ status: Completed
 category: Tecnologia
 ---
 
-## Che cos’è
+## Cos'è
 
-Una macchina virtuale (VM) è un computer e il suo sistema operativo che non è legato a un particolare componente hardware. Le macchine virtuali si basano sulla [virtualizzazione](/virtualization/) per suddividere un singolo computer fisico in più computer virtuali. Questa separazione consente alle organizzazioni e ai fornitori di infrastrutture di creare e distruggere VM senza influire sull'hardware sottostante.
+Una macchina virtuale (VM) è un computer e il suo sistema operativo che non è legato a un particolare componente hardware. Le macchine virtuali si basano sulla [virtualizzazione](/it/virtualization/) per suddividere un singolo computer fisico in più computer virtuali. Questa separazione consente alle organizzazioni e ai fornitori di infrastrutture di creare e distruggere VM senza influire sull'hardware sottostante.
 
-## Quale problema affronta
+## Quali problematiche affronta
 
-Le macchine virtuali sfruttano la virtualizzazione. Quando una macchina [bare metal](/bare-metal-machine/) è vincolata a un singolo sistema operativo (OS), il modo in cui le risorse della macchina possono essere utilizzate è alquanto limitato. Inoltre, quando un sistema operativo è legato a una singola macchina fisica, la sua disponibilità è direttamente legata a quell'hardware. Se la macchina fisica è offline a causa di manutenzione o guasti hardware, lo è anche il sistema operativo.
+Le macchine virtuali sfruttano la virtualizzazione. Quando una macchina [bare metal](/it/bare-metal-machine/) è vincolata a un singolo sistema operativo (OS), il modo in cui le risorse della macchina possono essere utilizzate è alquanto limitato. Inoltre, quando un sistema operativo è legato a una singola macchina fisica, la sua disponibilità è direttamente legata a quell'hardware. Se la macchina fisica è offline a causa di manutenzione o guasti hardware, lo è anche il sistema operativo.
 
 ## In che modo aiuta
 
