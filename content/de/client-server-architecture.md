@@ -1,6 +1,6 @@
 ---
 title: Client-Server-Architektur
-status: Feedback erwünscht
+status: Completed
 category: Konzept
 ---
 

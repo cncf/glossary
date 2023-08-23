@@ -1,6 +1,6 @@
 ---
 title: Cluster
-status: Feedback erwünscht
+status: Completed
 category: Konzept
 tags: ["infrastruktur", "grundlegendes", ""]
 ---
