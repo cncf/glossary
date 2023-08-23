@@ -22,19 +22,19 @@ other = "में"
 [ui_see_all_tags]
 other = "See all tags"
 [ui_tag]
-other = "Tag"
+other = "टैग"
 [ui_tags]
-other = "Tags"
+other = "टैग"
 [ui_search_by_tags]
-other = "Browse by Tags"
+other = "टैग द्वारा ब्राउज़ करें"
 [ui_tags_intro]
-other = "We've categorized the glossary terms. Use the filters to browse terms by tag."
+other = "हमने शब्दकोश शब्दों को वर्गीकृत किया है। टैग द्वारा शब्दों को ब्राउज़ करने के लिए फ़िल्टर उपयोग करें"
 [ui_or_search_by_tags]
-other = "...or browse by tag"
+other = "...या टैग द्वारा ब्राउज़ करें"
 [ui_select_all]
-other = "Select All"
+other = "सभी का चयन करें"
 [ui_deselect_all]
-other = "Deselect All"
+other = "सभी का चयन अचयनित करें"
 
 # Footer text
 [footer_all_rights_reserved]
