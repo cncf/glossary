@@ -29,7 +29,7 @@ Automatizzando il ciclo di rilascio e costringendo le organizzazioni a rilasciar
 il CD fa per i team operativi quello che il CI ha fatto per i team di sviluppo. 
 In particolare, obbliga i team operativi ad automatizzare le parti complesse e soggette a errori dei deployment in produzione, 
 riducendo il rischio complessivo. 
-Inoltre, rende le organizzazioni migliori nell'accettare e adattarsi ai cambiamenti in produzione, il che porta a una maggiore stabilità.
+Inoltre, migliora la capacità delle organizzazioni di accettare e adattarsi ai cambiamenti in produzione, portando conseguentemente a una maggiore stabilità.
 
 ## Termini correlati
 
