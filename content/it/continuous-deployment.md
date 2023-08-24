@@ -17,7 +17,7 @@ ed la fase CD distribuisce automaticamente le modifiche al codice attraverso i v
 ## Quali problematiche affronta
 
 Il rilascio di nuove versioni di software può essere un processo laborioso e soggetto a errori; 
-è anche spesso qualcosa che le organizzazioni vorranno fare non frequentemente per evitare incidenti in produzione 
+peraltro, spesso le organizzazioni vogliono affrontarlo non troppo frequentemente per evitare incidenti in produzione 
 e ridurre il numero di volte in cui gli ingegneri devono essere disponibili al di fuori dell'orario lavorativo normale. 
 I modelli tradizionali di distribuzione del software portano le organizzazioni in un circolo vizioso 
 in cui il processo di rilascio del software non soddisfa le esigenze organizzative in termini di velocità di rilascio
