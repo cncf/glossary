@@ -12,7 +12,7 @@ ed esegue l'installazione del sofware finito direttamente in produzione.
 Il continuous deployment (CD) va di pari passo con la [continuous integration](/it/continuous-integration/) (CI), 
 e il processo nel suo insieme viene spesso indicato come CI/CD.
 La fase di CI verifica se le modifiche apportate a una determinata applicazione sono valide, 
-ed il processo CD distribuisce automaticamente le modifiche al codice attraverso i vari ambienti di un'organizzazione, da test alla produzione.
+ed la fase CD distribuisce automaticamente le modifiche al codice attraverso i vari ambienti di un'organizzazione, dai test alla produzione.
 
 ## Quali problematiche affronta
 
