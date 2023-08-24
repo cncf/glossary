@@ -10,7 +10,7 @@ tags: ["metodologia", "applicazione", ""]
 Il Continuous deployment, o Distribuzione Continua, spesso abbreviato CD, è il passo successivo di [continuous delivery](/it/continuous-delivery/), o 
 ed esegue l'installazione del sofware finito direttamente in produzione.
 Il continuous deployment (CD) va di pari passo con la [continuous integration](/it/continuous-integration/) (CI), 
-e viene spesso indicata come CI/CD.
+e il processo nel suo insieme viene spesso indicato come CI/CD.
 Il processo CI verifica se le modifiche apportate a una determinata applicazione sono valide, 
 ed il processo CD distribuisce automaticamente le modifiche al codice attraverso i vari ambienti di un'organizzazione, da test alla produzione.
 
