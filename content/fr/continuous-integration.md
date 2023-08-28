@@ -14,11 +14,11 @@ et se termine par un artefact testé prêt à être consommé par un système CD
 
 ## Problème auquel il répond
 
-Les systèmes logiciels sont souvent volumineux et complexes, et de nombreux développeurs les maintiennent et les mettent à jour.
+Les systèmes logiciels sont souvent grands et complexes, et de nombreux développeurs les maintiennent et les mettent à jour.
 En travaillant en parallèle sur différentes parties du système,
 ces développeurs peuvent apporter des modifications contradictoires et, par inadvertance, se causer les uns les autres des problémes.
 De plus, avec plusieurs développeurs travaillant sur le même projet,
-toutes les tâches quotidiennes telles que tester et calculer la qualité du code devraient être répétées par chaque développeur, ce qui ferait perdre du temps.
+toutes les tâches quotidiennes telles que tester ou mesurer la qualité du code devraient être répétées par chaque développeur, ce qui ferait perdre du temps.
 
 ## Quel en est l'utilité
 
