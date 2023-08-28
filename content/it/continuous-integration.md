@@ -25,8 +25,8 @@ qualsiasi attività quotidiana come il test e la misura della qualità del codic
 La CI controlla automaticamente che le modifiche al codice si inseriscano in modo pulito ogni volta che uno sviluppatore finalizza una modifica.
 È una pratica molto diffusa utilizzare il server CI per eseguire controlli di qualità del codice, test e persino installazioni.
 In questo modo, diventa una concreta implementazione del controllo qualità all'interno dei team.
-Il processo di CI consente ai team di software di identificare chiaramente ogni commit di codice come un fallimento o come un candidato al rilascio 
-in produzione valido.
+Il processo di CI consente ai team di software di identificare chiaramente ogni commit di codice come un fallimento o come un valido candidato
+ al rilascio in produzione.
 
 ## Termini correlati
 
