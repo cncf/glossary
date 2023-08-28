@@ -16,7 +16,7 @@ e termina con un artefatto testato pronto per essere consumato da un sistema di 
 
 I software sono spesso estesi e complessi, con numerosi sviluppatori che li mantengono e aggiornano. 
 Lavorando in parallelo su diverse parti del sistema, 
-gli sviluppatori potrebbero apportare modifiche in conflitto e inavvertitamente rompere il lavoro l'uno dell'altro.
+gli sviluppatori potrebbero apportare modifiche in conflitto e danneggiare inavvertitamente il lavoro l'uno dell'altro.
 Inoltre, con più sviluppatori che lavorano allo stesso progetto, 
 qualsiasi attività quotidiana come il test e la misura della qualità del codice dovrebbe essere ripetuta da ogni sviluppatore, sprecando tempo.
 
