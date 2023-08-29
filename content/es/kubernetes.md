@@ -23,7 +23,7 @@ La demanda de recursos de cómputo incrementa día con día y las organizaciones
 ## ¿Cómo ayuda?
 
 De manera parecida a las herramientas tradicionales de [infraestructura como código](/es/infrastructure-as-code/), Kubernetes ayuda con la automatización pero tiene la ventaja de trabajar con contenedores.
-Los contenedores son más resistentes a fallas por diferencias en entornos a comparación con las [máquinas virtuales](/virtual-machine/) o físicas.
+Los contenedores son más resistentes a fallas por diferencias en entornos a comparación con las [máquinas virtuales](/es/virtual-machine/) o físicas.
 
 Aún más, Kubernetes funciona declarativamente, lo que significa que, en lugar de que los operadores proporcionen las instrucciones sobre cómo realizar una acción, ellos describen, por lo general en archivos de manifiesto (por ejemplo, YAML), lo que quieren que se logre;
 Kubernetes se encargará del "cómo" por sí mismo.
