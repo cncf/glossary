@@ -1,7 +1,7 @@
 ---
-title: Role-Based Access Control (RBAC)
+title: control de acceso basado en roles (RBAC)
 status: Completed
-category: concept
+category: concepto
 ---
 
 ## ¿Qué es?
