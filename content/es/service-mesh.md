@@ -1,5 +1,5 @@
 ---
-title: Malla de Servicios
+title: Malla de Servicios (Service Mesh)
 status: Completed
 category: Tecnología
 tags: ["networking", "", ""]
@@ -7,9 +7,9 @@ tags: ["networking", "", ""]
 
 ## ¿Qué es?
 
-En un mundo de [arquitectura de microservicios](/es/microservices-architecture/)], las aplicaciones se dividen en múltiples [servicios](/es/service/) que se comunican a través de una red.
+En un mundo de [arquitectura de microservicios](/es/microservices-architecture/), las aplicaciones se dividen en múltiples [servicios](/es/service/) que se comunican a través de una red.
 Al igual que las redes de wifi, las redes de computadoras son poco confiables, proclives a ser atacadas y en muchos casos lentas.
-Las mallas de servicios afrontan estos nuevos desafíos mediante el manejo de tráfico (por ejemplo la comunicación) entre servicios y
+Las mallas de servicios (Service meshes) afrontan estos nuevos desafíos mediante el manejo de tráfico (por ejemplo la comunicación) entre servicios y
 agregando [fiabilidad](/es/reliability/), [observabilidad](/es/observability/) e implementaciones de seguridad a todos los servicios.
 
 ## Problema que aborda
