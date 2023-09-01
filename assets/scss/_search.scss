@@ -8,7 +8,7 @@
 		padding-top: 0.5rem !important;
 		padding-left: 1.5rem;
 		padding-right: 1rem;
-		padding-bottom: 1rem;
+		padding-bottom: 5px;
 	}
 	@media (min-width: 1300px) {
 		padding-left: 2.5rem;
@@ -74,5 +74,29 @@
 				border-bottom: $black 2px solid;
 			}
 		}
+	}	
+}
+
+.search-by-tag {
+	position: relative;
+	width: 100%;
+	font-size: 12px;
+	text-align: right;
+	@media (max-width: 767px) {
+		display: none;
 	}
+	@media (min-width: 768px) {
+		width: calc(100% - 20px);
+	}
+	padding-left: calc(20px + 20px);
+	@media (min-width: 768px) {
+		padding-left: 30px;
+	}
+	@media (min-width: 992px) {
+		padding-left: 35px;
+	}
+	@media (min-width: 1100px) {
+		padding-left: calc(20px + 20px);
+	}
+
 }

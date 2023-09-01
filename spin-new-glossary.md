@@ -12,6 +12,12 @@ rm -rf themes/docsy
 git submodule add https://github.com/google/docsy.git themes/docsy
 ```
 
+Switch the docsy repo to the same changeset used in the CNCF Glossary if you want to keep the UI consistent:
+```
+cd themes/docsy/
+git checkout 170cdd9
+```
+
 Create a .gitignore with these lines:
 ```
 public/
@@ -25,7 +31,7 @@ Complete your local dev setup using [these instructions](https://github.com/cncf
 
 Edit `config.toml` to set title, Google Analytics, languages, copyright, social image, social links, and various other settings.
 
-Replace favicons in in the `static/favicons` directory with your own.
+Replace favicons in the `static/favicons` directory with your own.
 
 Replace `assets/icons/logo.svg` with your own logo.
 
@@ -36,7 +42,6 @@ Edit various static copy in the `layouts` folder as needed.
 ## Content
 
 Replace all content in the `content/en` folder with your own glossary terms. Create a language folder for each of the translation languages you will support. Note that terms will only be listed on the site when `status: Completed` in the header of the term file.
-
 
 ## Feedback buttons configuration
 
