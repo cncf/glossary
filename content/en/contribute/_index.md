@@ -84,7 +84,7 @@ Once you select a term to work on, comment on the issue.
 ![Claiming an issue](/images/how-to/claiming-an-issue.png)
 
 Additionally, notify the maintainers on the [#glossary](https://cloud-native.slack.com/archives/C02TX20MQBB) channel of the CNCF Slack workspace and 
-tag  _@iamnoah_, _@nate-double-u_, _@Seokho Son_, _@Jihoon Seo_, and/or _@castrojo_ to be sure they don't miss it. 
+tag _@iamnoah_, _@nate-double-u_, _@Seokho Son_, _@Jihoon Seo_, and/or _@castrojo_ to be sure they don't miss it.
 
 For the next steps, please refer to the [Submitting a new term (creating a PR)](#submitting-a-new-term) section.
 
@@ -125,7 +125,7 @@ Next, the maintainers will triage the issue.
 That means they will assess if the term should be part of the Glossary. 
 Not every term will be admitted. To be included in the Glossary, they should be established and widely-used cloud native concepts.
 
-Please let the maintainers know that you've proposed a new term on Slack and tag _@iamnoah_, _@nate-double-u_, _@Seokho Son_, _@Jihoon Seo_, and/or _@castrojo_ so that they don't miss it.  
+Please let the maintainers know that you've proposed a new term on Slack and tag _@iamnoah_, _@nate-double-u_, _@Seokho Son_, _@Jihoon Seo_, and/or _@castrojo_ so that they don't miss it.
 If you want to work on the definition, let the maintainers know and they'll assign it to you.
 
 ### Submitting a new term (creating a PR) {#submitting-a-new-term}
