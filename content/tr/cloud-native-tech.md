@@ -18,7 +18,7 @@ Cloud native yığını, zorlukların çeşidini adresleyen birçok farklı tekn
 Ancak genel olarak bahsedecek olursak cloud native teknolojileri, bir ana zorluk kümesini ele almaktadır; geleneksel BT işletim modellerinin olumsuz yönleri.
 Bu zorluk kümesi, ölçeklenebilir, arızalanırsa bile çalışmaya devam edebilen, kendi kendini onaran uygulamalar oluşturma güçlüklerinin yanı sıra kaynakların verimsiz kullanımını içermektedir.
 
-## Sorunu nasıl çözer
+## Nasıl Yardımcı Olur
 
 Her teknoloji çok spesifik bir sorun üzerine giderken, bir grup olarak cloud native teknolojileri dayanıklı, yönetilebilir ve gözlemlenebilir olan gevşek bağlı sistemlere olanak tanır.
 Sağlam otomasyon ile birleştirildiğinde, mühendislerin minimum çabayla öngörülebilir ve sık sık yüksek etkili değişiklikler yapmasına imkan tanır.
