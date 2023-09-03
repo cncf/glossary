@@ -11,7 +11,7 @@ Cloud native yığını olarak da adlandırılan cloud native teknolojileri, clo
 Bu teknolojiler kuruluşlar için genel, özel ve hibrit bulut ortamları gibi modern ve dinamik ortamlarda ölçeklenebilir uygulamalar oluşturmaya ve çalıştırmaya olanak tanırken [bulut bilişimin](/tr/cloud-computing/) yararlarını en üst düzeye çıkarırlar.
 Bulut bilişimin yeteneklerinden yararlanmak için sıfırdan tasarlanmışlardır ve konteynerler, servis ağları, mikro servisler ve sabit altyapı bu yaklaşımın örnekleridir.
 
-## Hangi sorunu çözer
+## Hangi Sorunları Çözer
 
 Cloud native yığını, zorlukların çeşidini adresleyen birçok farklı teknoloji kategorisine sahiptir.
 [CNCF Cloud Native Landscape’e](https://landscape.cncf.io/) baktığınızda ne kadar farklı alana temas ettiğini görebilirsiniz.
