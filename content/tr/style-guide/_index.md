@@ -43,9 +43,9 @@ Her sözlük terimi bir markdown dosyasında tutulur ve aşağıdaki şablonu ta
 
 ```md
 ---
-title: 
-status: 
-category: 
+title:
+status:
+category:
 ---
 
 ## Nedir
