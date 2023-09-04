@@ -1,5 +1,5 @@
 ---
-title: Sistemas Distribuídas
+title: Sistemas Distribuídos
 status: Completed
 category: conceito
 tags: ["arquitetura", "", ""]
@@ -11,9 +11,9 @@ Um sistema distribuído é uma coleção de elementos de computação autônomos
 
 ## Problema relacionado     
 
-Inúmeras aplicações modernas hoje são tão grandes que precisariam de supercomputadores para operar. Pense no Gmail ou Netflix. Nenhum computador único é suficientemente poderoso para hospedar toda a aplicação. Ao conectar vários computadores, o poder computacional se torna praticamente ilimitado. Sem a computação distribuída, muitas das aplicações das quais dependemos hoje não seriam possíveis.
+Hoje, inúmeras aplicações modernas são tão grandes que precisariam de supercomputadores para operar. Pense no Gmail ou Netflix. Nenhum computador único é suficientemente poderoso para hospedar toda a aplicação. Ao conectar vários computadores, o poder computacional se torna praticamente ilimitado. Sem a computação distribuída, muitas das aplicações das quais dependemos hoje não seriam possíveis.
 
-Tradicionalmente, os sistemas seriam escalados verticalmente. Isso significa adicionar mais CPU ou memória a uma máquina individual. A [escalabilidade vertical](/vertical-scaling/) é demorada, requer tempo de inatividade e atinge seu limite rapidamente.
+Tradicionalmente, os sistemas seriam [escalados](/pt-br/scalability) verticalmente. Isso significa adicionar mais CPU ou memória a uma máquina individual. A [escalabilidade vertical](/pt-br/vertical-scaling/) é demorada, requer tempo de inatividade e atinge seu limite rapidamente.
 
 ## Como ajuda
 
