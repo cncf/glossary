@@ -9,7 +9,7 @@ tags: ["sicurezza", "metodologia", ""]
 
 Security Chaos Engineering o SCE è una disciplina basata sul [Chaos Engineering](/it/chaos-engineering/).
 SCE esegue proattivamente test di sicurezza su un sistema distribuito per assicurarsi che questo sia in grado di resistere a condizioni di instabilità e malevole.
-Gli ingegneri del caos della sicurezza utilizzano cicli di metodi scientifici per raggiungere questo obiettivo,
+I security chaos engineers utilizzano cicli di metodi scientifici per raggiungere questo obiettivo,
 tra cui stato stazionario, ipotesi, verifica continua, lessons learned e implementazione delle mitigazioni.
 
 
