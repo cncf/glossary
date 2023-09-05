@@ -30,4 +30,4 @@ CI permite que los equipos de software conviertan cada cambio de código en un f
 ## Términos relacionados
 
 * [Entrega Continua](/es/continuous-delivery/)
-* [Despliegue Continuo](/continuous-deployment/)
+* [Despliegue Continuo](/es/continuous-deployment/)
