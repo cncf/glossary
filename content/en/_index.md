@@ -40,7 +40,7 @@ The Glossary is maintained by
 [Seokho Son](https://www.linkedin.com/in/seokho-son/),
 [Jihoon Seo](https://www.linkedin.com/in/jihoon-seo/), 
 [Jorge Castro](https://www.linkedin.com/in/jorge-castro2112/),
-and [Nate W.](https://www.linkedin.com/in/nate-double-u/0.
+and [Nate W.](https://www.linkedin.com/in/nate-double-u/).
 
 ## License
 
