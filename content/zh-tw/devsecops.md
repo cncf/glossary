@@ -13,7 +13,7 @@ DevSecOps 一詞指的是開發、維運與安全責任的文化融合。
 
 ## 解決的問題 {#problem-it-addresses}
 
-DevOps 的實踐包含[持續整合](/zh-tw/continuous-integration)與[持續部署](/zh-tw/continuous-deployment)，並加速應用程式的開發和發佈週期。
+DevOps 的實踐包含[持續整合](/zh-tw/continuous-integration)、[持續交付](/zh-tw/continuous-delivery/)和[持續部署](/zh-tw/continuous-deployment)，並加速應用程式的開發和發佈週期。
 可惜的是，無法充分體現所有組織利害關係人的自動化發佈流程可能會惡化現存的問題。
 一個快速發佈卻沒有考量安全需求的流程可能會降低組織的安全態勢。
 
