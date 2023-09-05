@@ -36,11 +36,11 @@ and many more contributors.
 For a complete contributor list, please refer to [this GitHub page](https://github.com/cncf/glossary/graphs/contributors).
 
 The Glossary is maintained by 
-[Catherine Paganini](https://www.linkedin.com/in/catherinepaganini/en/), 
-[Jason Morgan](https://www.linkedin.com/in/jasonmorgan2/), 
-[Jihoon Seo](https://www.linkedin.com/in/jihoon-seo/), 
 [Noah Ispas](https://www.linkedin.com/in/noah-ispas-0665b42a/), 
-and [Seokho Son](https://www.linkedin.com/in/seokho-son/).
+[Seokho Son](https://www.linkedin.com/in/seokho-son/),
+[Jihoon Seo](https://www.linkedin.com/in/jihoon-seo/), 
+[Jorge Castro](https://www.linkedin.com/in/jorge-castro2112/),
+and [Nate W.](https://www.linkedin.com/in/nate-double-u/).
 
 ## License
 
