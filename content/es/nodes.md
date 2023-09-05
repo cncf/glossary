@@ -11,7 +11,7 @@ Un nodo es un servidor que trabaja en conjunto a otros servidores, o nodos, para
 Toma tu laptop, el módem y la impresora como ejemplo.
 Están conectados a través de tu red wifi comunicándose y colaborando, cada uno representa un nodo.
 En [computación en la nube](/es/cloud-computing/), un nodo puede ser un servidor físico,
-un servidor virtual, denominado [VM](/virtual-machine/), o incluso un [contenedor](/es/container/).
+un servidor virtual, denominado [VM](/es/virtual-machine/), o incluso un [contenedor](/es/container/).
 
 ## Problema que aborda
 
