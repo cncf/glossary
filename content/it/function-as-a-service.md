@@ -18,7 +18,7 @@ Ciò consente agli sviluppatori di ottenere le funzioni di cui hanno bisogno sen
 
 In uno scenario tradizionale on-premise, un'azienda gestisce e mantiene il proprio data center.
 L'azienda deve investire in server, storage, software e altre tecnologie
-e potenzialmente assumere uno staff IT o appaltare l'acquisto, la gestione e l'aggiornamento di tutte le apparecchiature e le licenze.
+e potenzialmente assumere uno staff IT o dei consulenti per l'acquisto, la gestione e l'aggiornamento di tutte le apparecchiature e le licenze.
 Il data center deve essere costruito per soddisfare i picchi di domanda, anche quando i carichi di lavoro diminuiscono e quelle risorse restano inattive.
 Viceversa, se l'azienda cresce rapidamente, il reparto IT potrebbe avere difficoltà a tenere il passo.
 In base a un modello di cloud computing standard [Infrastructure-as-a-Service (IaaS)](/it/infrastructure-as-a-service/),
