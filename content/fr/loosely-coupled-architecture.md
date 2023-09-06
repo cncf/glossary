@@ -2,13 +2,13 @@
 title: Architecture Faiblement Couplée
 status: Completed
 category: Property
-tags: ["fundamental", "architecture", "property"]
+tags: ["fondamental", "architecture", "propriété"]
 ---
 
 L'architecture faiblement couplée est un type d'architecture où les différents composants
 d'une application sont construits indépendamment les uns des autres (c'est le paradigme opposé
-des [architectures fortement couplées](/tightly-coupled-architectures/)).
-Chaque composant, parfois identifié comme un [microservice](/microservices/), est construit pour effectuer une tâche spécifique d'une manière qui lui permet d'être utilisé par d'autres services.
+des [architectures fortement couplées](/fr/tightly-coupled-architectures/)).
+Chaque composant, parfois identifié comme un [microservice](/fr/microservices-architecture/), est construit pour effectuer une tâche spécifique d'une manière qui lui permet d'être utilisé par d'autres services.
 Cette approche est souvent plus longue à mettre en œuvre que l'architecture fortement couplée
 mais, elle a plusieurs avantages en particulier lorsque l'application change d'échelle.
 

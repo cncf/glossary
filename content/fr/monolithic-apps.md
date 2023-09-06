@@ -2,7 +2,7 @@
 title: Applications Monolithiques
 status: Completed
 category: concept
-tags: ["architecture", "fundamental", ""]
+tags: ["architecture", "fondamental", ""]
 ---
 
 ## Ce que c'est
@@ -14,7 +14,7 @@ Avec plus de développeurs qui travaillent sur la même base de code, la probabi
 
 ## Problème auquel il répond
 
-Transformer une application en [microservices](/microservices/) augmente la charge de travail - comme il y a plus de choses à tester, déployer et à maintenir opérationel.
+Transformer une application en [microservices](/fr/microservices-architecture/) augmente la charge de travail - comme il y a plus de choses à tester, déployer et à maintenir opérationel.
 Au début du cycle de développement d'un produit il peut être avantageux de repousser cette complexité et de construire une application monolithique jusqu'à ce que le produit soit reconnu comme un succès.
 
 ## Quelle en est l'utilité

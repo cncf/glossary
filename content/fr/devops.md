@@ -2,7 +2,7 @@
 title: DevOps
 status: Completed
 category: concept
-tags: ["methodology", "", ""]
+tags: ["méthodologie", "", ""]
 ---
 
 
@@ -14,7 +14,7 @@ Le DevOps fait appel à un groupe d'ingénieurs travaillant sur des petits compo
 
 ## Problème auquel il répond
 
-Traditionnellement, dans les organisations complexes possédant des [applications monolithiques](/monolithic-apps/) [fortement couplées](/tightly-coupled-architectures/),
+Traditionnellement, dans les organisations complexes possédant des [applications monolithiques](/fr/monolithic-apps/) [fortement couplées](/fr/tightly-coupled-architectures/),
 le travail était généralement fragmenté entre plusieurs équipes.
 Ce fonctionnement menait à de nombreuses passations entre les équipes et allongeait les délais de livraison.
 À chaque nouveau composant ou nouvelle mise à jour, le résultat était mis en file d'attente pour la prochaine équipe.

@@ -60,7 +60,7 @@ Les seules exceptions sont les termes fondamentaux nécessaires pour comprendre 
 Ci-après, un guide étape par étape pour ceux et celles qui ne sont pas familier avec Github
 **Si vous avez un compte GitHub Pro**, merci de vérifier que vous utilisez nos modèles d'issue,
 une convention de nommage appropriée, réclamé une PR sur Slack (autrement on pourrait l'avoir raté), et où trouver les modèles de fichier.
-Et merci de lire le [Style Guide](/style-guide/) avant de commencer - Merci!
+Et merci de lire le [Style Guide](/fr/style-guide/) avant de commencer - Merci!
 
 ### Créer une issue {#creating-an-issue}
 
@@ -92,7 +92,7 @@ Si vous souhaitez travailler sur plusieurs termes, merci d'en finir un avant de 
 
 ### Proposer un nouveau terme (créer une PR) {#submitting-a-new-term}
 
-Avant de commencer, merci de lire le [Style Guide](/style-guide/) — il aidera à minimiser les aller/retour.
+Avant de commencer, merci de lire le [Style Guide](/fr/style-guide/) — il aidera à minimiser les aller/retour.
 Comme mentionné dans le style guide, il est fortement recommandé de commencer par un document texte (Gdoc, Word ou autre)
 
 Une fois que le terme est prêt à être proposé, rédigez le contenu (sous forme de code)...

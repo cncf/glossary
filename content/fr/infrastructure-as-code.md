@@ -2,7 +2,7 @@
 title: Infrastructure en tant que code
 status: Completed
 category: concept
-tags: ["infrastructure", "methodology", ""]
+tags: ["infrastructure", "méthodologie", ""]
 ---
 
 ## Ce que c'est
@@ -14,8 +14,8 @@ habituellement au travers de scripts ou autres outils de configuration.
 ## Problème auquel il répond
 
 Construire des applications d'une manière Cloud Native nécessite des infrastructures qui peuvent être duplicables et jettables.
-Il est également nécessaire de pouvoir [mettre à l'échelle](/scalability/) à la demande de manière automatique et répétable, potentiellement sans intervention humaine.
-Le provisionnement manuel ne pouvant pas répondre aux besoins de réactivité et de passage à l'échelle des [applications Cloud Natives](/cloud-native-apps/).
+Il est également nécessaire de pouvoir [mettre à l'échelle](/fr/scalability/) à la demande de manière automatique et répétable, potentiellement sans intervention humaine.
+Le provisionnement manuel ne pouvant pas répondre aux besoins de réactivité et de passage à l'échelle des [applications Cloud Natives](/fr/cloud-native-apps/).
 Les changements manuels sur l'infrastructure ne sont pas reproductibles, affichent rapidement des problèmes de mise à l'échelle, et amènent des erreurs de configuration.
 
 ## Quel en est l'utilité

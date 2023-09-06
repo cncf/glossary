@@ -2,7 +2,7 @@
 title: Développement Agile de logiciels
 status: Completed
 category: concept
-tags: ["methodology", "", ""]
+tags: ["méthodologie", "", ""]
 ---
 
 ## Ce que c'est

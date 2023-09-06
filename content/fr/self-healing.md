@@ -1,8 +1,8 @@
 ---
 title: Auto-réparant
-status: Feedback Appreciated
+status: Completed
 category: property
-tags: ["infrastructure", "property"]
+tags: ["infrastructure", "propriété"]
 ---
 
 
