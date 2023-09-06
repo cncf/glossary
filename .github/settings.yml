@@ -83,7 +83,6 @@ collaborators:
     permission: push
 
   # l10n de approvers
-  # Note: CathPag is both Maintainer (maintain) and de approver (push)
   # Note: iamNoah1 is both Maintainer (maintain) and de approver (push)
   - username: DaveVentura
     permission: push
@@ -180,6 +179,12 @@ collaborators:
     permission: push
 
   # l10n zh-tw approvers
+  - username: hwchiu
+    permission: push
+
+  - username: johnlinp
+    permission: push
+
   - username: pichuang
     permission: push
 
@@ -196,6 +201,9 @@ collaborators:
   - username: naonishijima
     permission: push
 
+  - username: yuichi-nakamura
+    permission: push
+
   # l10n tr approvers
   - username: aliok
     permission: push
@@ -207,6 +215,13 @@ collaborators:
     permission: push
 
   - username: eminalemdar
+    permission: push
+
+  # l10n ru approvers
+  - username: shurup
+    permission: push
+
+  - username: kirkonru
     permission: push
 
 branches:
@@ -451,6 +466,8 @@ branches:
         apps: []
         # zh-tw approvers
         users:
+         - hwchiu
+         - johnlinp
          - pichuang
          - ydFu
         teams: []
@@ -471,6 +488,7 @@ branches:
          - inductor
          - kaitoii11
          - naonishijima
+         - yuichi-nakamura
         teams: []
       enforce_admins: null
       required_linear_history: null
@@ -490,6 +508,23 @@ branches:
          - halil-bugol
          - developer-guy
          - eminalemdar
+        teams: []
+      enforce_admins: null
+      required_linear_history: null
+
+  # l10n branch for ru contents only
+  - name: dev-ru
+    protection:
+      required_pull_request_reviews:
+        required_approving_review_count: 2
+        require_code_owner_reviews: true
+      required_status_checks: null
+      restrictions:
+        apps: []
+        # ru approvers
+        users:
+         - shurup
+         - kirkonru
         teams: []
       enforce_admins: null
       required_linear_history: null

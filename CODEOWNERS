@@ -5,13 +5,13 @@
 # when someone opens a pull request that modifies code that they own.
 
 # These owners will be default owners for everything in this repository.
-# These owners consist of Maintainers and English approvers.
-* @caniszczyk @CathPag @jasonmorgan @seokho-son @iamNoah1 @jihoon-seo @nate-double-u
+# These owners consist of Maintainers
+* @caniszczyk @seokho-son @iamNoah1 @jihoon-seo @nate-double-u
 
 
 # Approvers for English content
-/content/en/ @caniszczyk @CathPag @jasonmorgan @seokho-son @iamNoah1 @jihoon-seo @nate-double-u @castrojo
-/i18n/en.toml @caniszczyk @CathPag @jasonmorgan @seokho-son @iamNoah1 @jihoon-seo @nate-double-u @castrojo
+/content/en/ @caniszczyk @seokho-son @iamNoah1 @jihoon-seo @nate-double-u @castrojo
+/i18n/en.toml @caniszczyk @seokho-son @iamNoah1 @jihoon-seo @nate-double-u @castrojo
 
 
 # These are the owners (approvers) for localization contents
@@ -47,8 +47,8 @@
 /i18n/it.toml @fsbaraglia @ugho16 @annalisag-spark @sistella
 
 # Approvers for Japanese contents
-/content/ja/ @inductor @naonishijima @kaitoii11
-/i18n/ja.toml @inductor @naonishijima @kaitoii11
+/content/ja/ @inductor @naonishijima @kaitoii11 @yuichi-nakamura
+/i18n/ja.toml @inductor @naonishijima @kaitoii11 @yuichi-nakamura
 
 # Approvers for Korean contents
 /content/ko/ @seokho-son @jihoon-seo @yunkon-kim
@@ -57,6 +57,10 @@
 # Approvers for Portuguese contents
 /content/pt-br/ @edsoncelio @brunoguidone @jessicalins @MrErlison
 /i18n/pt-br.toml @edsoncelio @brunoguidone @jessicalins @MrErlison
+
+# Approvers for Russian contents
+/content/ru/ @shurup @kirkonru
+/i18n/ru.toml @shurup @kirkonru
 
 # Approvers for Turkish contents
 /content/tr/ @aliok @halil-bugol @developer-guy @eminalemdar
@@ -71,5 +75,5 @@
 /i18n/zh-cn.toml @hanyuancheung @Jacob953 @Rocksnake @Submarinee
 
 # Approvers for Traditional Chinese contents
-/content/zh-tw/ @pichuang @ydFu
-/i18n/zh-tw.toml @pichuang @ydFu
+/content/zh-tw/ @pichuang @ydFu @hwchiu @johnlinp
+/i18n/zh-tw.toml @pichuang @ydFu @hwchiu @johnlinp
