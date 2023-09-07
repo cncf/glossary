@@ -33,5 +33,5 @@ Die eine Umgebung (blue) stellt die produktive Anwendung dar (die Version, die v
 während eine zweite Umgebung (green) bereitgestellt wird.
 Diese zweite Umgebung enthält eine neue Version der Anwendung.  
 Sobald die Tests in der neuen Umgebung abgeschlossen sind, 
-wird der Datenverkehr auf diese Umgebung umgelenkt (oft mit Hilfe eines [Load Balancer](/load-balancer/)).
+wird der Datenverkehr auf diese Umgebung umgelenkt (oft mit Hilfe eines Load Balancer).
 Im Anschluss kann die ältere Umgebung (blue) aus dem Betrieb genommen werden.
