@@ -8,9 +8,9 @@ tags: ["fondamentali", "infrastruttura", "metodologia"]
 ## Cos'è
 
 La virtualizzazione, nell'ambito del cloud native computing (calcolo nativo su cloud), 
-fa riferimento al processo di prendere un computer fisico, talvolta denominato server, 
-e consentirgli di eseguire più sistemi operativi isolati.
-Tali sistemi operativi isolati e le risorse di calcolo dedicate ad essi (CPU, memoria e rete) vengono
+si riferisce alla pratica per la quale a un computer fisico, talvolta denominato server,
+viene consentito di eseguire più sistemi operativi isolati.
+Tali sistemi operativi isolati e le risorse di calcolo ad essi dedicate (CPU, memoria e rete) vengono
 chiamati macchine virtuali o VM.
 Quando si parla di [macchine virtuali](/it/virtual-machine/), si fa riferimento a un computer definito da un software.
 Qualcosa che sembra e agisce come un vero computer ma che condivide l'hardware con altre macchine virtuali.
