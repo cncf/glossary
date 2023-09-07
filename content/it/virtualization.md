@@ -7,7 +7,7 @@ tags: ["fondamentali", "infrastruttura", "metodologia"]
 
 ## Cos'è
 
-La virtualizzazione, nell'ambito del calcolo nativo su cloud, 
+La virtualizzazione, nell'ambito del cloud native computing (calcolo nativo su cloud), 
 fa riferimento al processo di prendere un computer fisico, talvolta denominato server, 
 e consentirgli di eseguire più sistemi operativi isolati.
 Tali sistemi operativi isolati e le risorse di calcolo dedicate ad essi (CPU, memoria e rete) vengono
