@@ -27,5 +27,5 @@ mantenendole isolate l'una dall'altra per sicurezza.
 
 Le applicazioni eseguite su macchine virtuali operano senza alcuna consapevolezza del fatto che condividono una stessa risorsa fisica.
 La virtualizzazione permette anche agli utenti del [datacenter](/it/datacenter/) di avviare un nuovo "computer" (cioè una VM) in pochi minuti,
-senza preoccuparsi dei vincoli fisici di dover aggiungere un nuovo computer fisico al datacenter.
+senza preoccuparsi dei vincoli fisici di dover aggiungere del nuovo hardware al datacenter.
 Le VM consentono inoltre agli utenti di ridurre il tempo necessario per mettere a disposizione un nuovo computer.
