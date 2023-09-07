@@ -15,7 +15,7 @@ chiamati macchine virtuali o VM.
 Quando si parla di [macchine virtuali](/it/virtual-machine/), si fa riferimento a un computer definito da un software.
 Qualcosa che sembra e agisce come un vero computer ma che condivide l'hardware con altre macchine virtuali.
 Il [cloud computing](/it/cloud-computing/) è alimentato principalmente dalle tecnologie di virtualizzazione.
-Per esempio, è possibile noleggiare un "computer" da AWS, ma quel computer è in realtà una VM.
+Per esempio, è possibile noleggiare un "computer" da un provider, ma quel computer è in realtà una VM.
 
 ## Quali problematiche affronta
 
