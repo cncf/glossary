@@ -1,13 +1,16 @@
 ---
 title: "Glossaire Cloud Native"
+status: Completed
 ---
 
 # Glossaire Cloud Native
 
+Le Glossaire Cloud Native a pour objectif de démystifier l'univers Cloud Natif, réputé pour sa complexité.
+Il vise à le rendre accessible aussi bien aux spécialistes technologiques qu'aux acteurs du monde des affaires.
+Pour y parvenir, nous mettons l'accent sur la simplicité (par exemple, un langage simple sans buzzwords, des exemples auxquels toute personne utilisant la technologie peut se rapporter, en laissant de côte les détails inutiles).
 Le Glossaire Cloud Native est un project dirigé par le Comité Marketing de la CNCF (Business Value Subcommittee, BVS).
-Son rôle est d'expliquer les concepts Cloud Natives en termes simples et clairs, et sans nécessité de connaissances techniques.
 
-<p><img class="mt-5" src="/images/homepage/stage.jpg" alt="Une femme et deux hommes en présentation technique"></p>
+<p><img class="mt-3" src="/images/homepage/kubecon.jpg" alt="Personnes regardant une présentation de la Kubecon"></p>
 
 ## Contribution
 
@@ -33,11 +36,24 @@ et bien d'autres contributeurs.
 Pour la liste complète des contributeurs, se référer à la [Page GitHub](https://github.com/cncf/glossary/graphs/contributors).
 
 Ce Glossaire est maintenue par
-[Catherine Paganini](https://www.linkedin.com/in/catherinepaganini/en/), 
-[Jason Morgan](https://www.linkedin.com/in/jasonmorgan2/), 
-[Jihoon Seo](https://www.linkedin.com/in/jihoon-seo/), 
+[Seokho Son](https://www.linkedin.com/in/seokho-son/),
 [Noah Ispas](https://www.linkedin.com/in/noah-ispas-0665b42a/), 
-et [Seokho Son](https://www.linkedin.com/in/seokho-son/).
+[Jihoon Seo](https://www.linkedin.com/in/jihoon-seo/),
+[Nate W.](https://www.linkedin.com/in/nate-double-u/),
+and [Jorge Castro](https://www.linkedin.com/in/jorge-castro2112/).
+
+[Catherine Paganini](https://www.linkedin.com/in/catherinepaganini/en/),
+et [Jason Morgan](https://www.linkedin.com/in/jasonmorgan2/)
+sont des Mainteneurs Émérites, et nous leur sommes profondément reconnaissants pour leurs contributions inestimables au fil des années.
+
+Enfin, la traduction et localisation française du Glossaire Cloud Native sont réalisées et maintenues par
+[Christophe Sauthier](https://www.linkedin.com/in/christophesauthier/),
+[Flavien Hardy](https://www.linkedin.com/in/flavien-h-93208a18b/),
+[Ludovic Logiou](https://www.linkedin.com/in/ludovic-%F0%9F%92%BB-logiou-98123978/),
+[Stéphane Este-Gracias](https://www.linkedin.com/in/sestegra/),
+[Guillaume Bernard](https://www.linkedin.com/in/gbernardit/),
+et divers contributeurs.
+Pour ceux intéressés à contribuer à la traduction et à la localisation du glossaire en français, un canal [#glossary-localization-french](https://cloud-native.slack.com/archives/C03JHQ02FCH) est disponible.
 
 ## Licence
 
