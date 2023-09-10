@@ -171,6 +171,9 @@ collaborators:
   - username: sestegra
     permission: push
 
+  - username: guillaumebernard84
+    permission: push
+
   # l10n ur approvers
   - username: Saim-Safdar
     permission: push
@@ -434,6 +437,7 @@ branches:
          - fydrah
          - Krast76
          - sestegra
+         - guillaumebernard84
         teams: []
       enforce_admins: null
       required_linear_history: null
