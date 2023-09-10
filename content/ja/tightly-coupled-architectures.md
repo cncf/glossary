@@ -1,6 +1,6 @@
 ---
 title: 密結合アーキテクチャ
-status: 完了
+status: Completed
 category: プロパティ
 tags: ["基礎", "アーキテクチャ", "プロパティ"]
 ---
