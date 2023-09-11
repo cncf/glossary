@@ -23,7 +23,6 @@ definisce come vengono specificate le immagini del container e come il runtime p
 gestiscono come queste immagini vengono decompresse, stratificate, montate ed eseguite;
 gestiscono le risorse hardware occupandosi di tutte queste azioni a livello di sistema operativo, come allocazione e isolamento delle risorse.
 Nel tempo, diversi implementazioni di container runtime hanno continuato ad evolversi, portando alla Specifica OCI, che è diventata lo standard per i runtime dei container.
-
 L'introduzione di questo standard consente agli utenti finali di combinare qualsiasi runtime conforme a OCI con qualsiasi orchestratore di container conforme a OCI (come Kubernetes).
 
 ## Termini correlati
