@@ -1,6 +1,6 @@
 ---
 title: Debugging
-status: Completed
+status: Deprecated
 category: conceito
 tags: ["aplicação", "metodologia", ""]
 ---

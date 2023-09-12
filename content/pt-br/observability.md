@@ -2,7 +2,7 @@
 title: Observabilidade
 status: Completed
 category: conceito
-tags: ["metodologia", "aplicação", "infraestrutura"]
+tags: ["propriedade"]
 ---
 
 ## O que é
