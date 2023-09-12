@@ -23,5 +23,5 @@ La computación en la nube permite a las organizaciones subcontratar una parte d
 
 Los proveedores de la nube ofrecen a las organizaciones la capacidad de alquilar recursos informáticos bajo demanda y pagar por el uso.
 Esto permite dos innovaciones principales:
-las organizaciones pueden probar cosas sin perder tiempo planificando y gastando dinero o recursos en nueva infraestructura física y pueden [escalar](/scalability/) según sea necesario y bajo demanda.
+las organizaciones pueden probar cosas sin perder tiempo planificando y gastando dinero o recursos en nueva infraestructura física y pueden [escalar](/es/scalability/) según sea necesario y bajo demanda.
 La computación en la nube permite a las organizaciones adoptar tanta o tan poca infraestructura como necesiten.
