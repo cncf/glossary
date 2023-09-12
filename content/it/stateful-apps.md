@@ -7,7 +7,7 @@ tags: ["fondamentali", "basi"]
 
 ## Cos'è
 
-Quando parliamo di applicazioni _stateful_ (letteralmente "a pieno stato") e [stateless](/it/stateless-apps/) (letteralmente "senza stato"),
+Quando parliamo di applicazioni _stateful_ (letteralmente "a pieno stato") e stateless (letteralmente "senza stato"),
 il concetto di stato si riferisce a tutti i dati da salvare affinché l'applicazione funzioni come previsto.
 Qualsiasi tipo di esperienza di acquisto online che ti ricorda a che punto sta il tuo carrello è, ad esempio, un'applicazione _stateful_.
 

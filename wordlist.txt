@@ -29,6 +29,8 @@ cd
 cdn
 changelog
 chatbot
+cgroup
+cgroups
 cio
 cka
 ckad
@@ -66,6 +68,7 @@ digitalocean
 dockerfile
 dockerhub
 docstrings
+eBPF
 edumco
 emoji
 engineerbetter
@@ -131,13 +134,17 @@ mkdn
 mtls
 multitenancy
 multitenant
+namespace
+namespaces
 navbar
 observability
 oci
 oliveira
 opencontainers
 orchestrator
+orchestrators
 overdemand
+overprivileged
 paas
 pathconverter
 pavel
@@ -152,6 +159,7 @@ py
 pypi
 pyspelling
 ramer
+RBAC
 rdbms
 readme
 replicable
@@ -162,6 +170,7 @@ runtime
 runtimeerror
 runtimes
 saas
+sandboxed
 saneheaders
 sbates
 scalability
@@ -198,6 +207,8 @@ unencrypted
 utf
 valueerror
 vcs
+verifications
+verifier
 virtualized
 virtualizing
 vm

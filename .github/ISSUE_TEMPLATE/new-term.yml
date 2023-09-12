@@ -38,7 +38,7 @@ body:
           required: true
         - label: I understand that maintainers will assess if the term should be part of the Glossary. (Please be patient)
           required: true
-        - label: I want to work on this term. (If not checked, maintainers will assign another volunteer)
+        - label: I want to work on this term and confirm that I meet the criteria as outlined in "[who can contribute](https://glossary.cncf.io/contribute/#who-can-contribute)". (If not checked, maintainers will assign another volunteer)
           required: false
   - type: textarea
     id: note
