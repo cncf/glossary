@@ -8,10 +8,10 @@ tags: ["infrastructure", "", ""]
 ## ¿Qué es?
 
 Bare metal se refiere a una computadora física, más específicamente un servidor, que tiene un solo sistema operativo.
-La distinción es importante en la informática moderna porque muchos, si no es que la mayoría, de los servidores son [máquinas virtuales](/virtual-machine/).
+La distinción es importante en la informática moderna porque muchos, si no es que la mayoría, de los servidores son [máquinas virtuales](/es/virtual-machine/).
 Un servidor físico suele ser una computadora bastante grande con un potente hardware incorporado.
 La instalación de un sistema operativo y la ejecución de aplicaciones directamente en ese hardware físico,
-sin [virtualización](/virtualization/), se conoce como ejecución "bare metal".
+sin [virtualización](/es/virtualization/), se conoce como ejecución "bare metal".
 
 ## Problema que aborda
 
@@ -27,8 +27,8 @@ Si necesita ejecutar una carga de trabajo que debe tener un acceso extremadament
 bare metal puede ser la solución adecuada.
 
 En el contexto de las [aplicaciones nativas para la nube](/es/cloud-native-apps/),
-generalmente pensamos en el rendimiento en términos de [escalabilidad](/scalability/) para una gran cantidad de eventos simultáneos,
-que pueden mitigarse mediante el [escalado horizontal](/horizontal-scaling/) (agregando más máquinas a su grupo de recursos).
-Sin embargo, algunas cargas de trabajo pueden requerir [escalado vertical](/vertical-scaling/) (agregar más potencia a una máquina física existente)
+generalmente pensamos en el rendimiento en términos de [escalabilidad](/es/scalability/) para una gran cantidad de eventos simultáneos,
+que pueden mitigarse mediante el [escalado horizontal](/es/horizontal-scaling/) (agregando más máquinas a su grupo de recursos).
+Sin embargo, algunas cargas de trabajo pueden requerir [escalado vertical](/es/vertical-scaling/) (agregar más potencia a una máquina física existente)
 y/o una respuesta extremadamente rápida de hardware físico, en cuyo caso se adapta mejor el bare metal.
 Bare metal también le permite ajustar el hardware físico y posiblemente incluso los controladores de hardware para ayudarlo a realizar su tarea.
