@@ -23,6 +23,7 @@ result in a high probability of downtime and a critical incident
 — with considerable consequences to the business.
 
 ## How it helps
+Following are some key points elucidating the benefits of chaos engineering:
 
 1. Chaos engineering is a technique to meet resilience requirements. 
 2. It is used to achieve resilience against infrastructure, platform, and application failures. 
