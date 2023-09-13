@@ -24,10 +24,10 @@ result in a high probability of downtime and a critical incident
 
 ## How it helps
 
-Chaos engineering is a technique to meet resilience requirements. 
-It is used to achieve resilience against infrastructure, platform, and application failures. 
-Chaos engineers use chaos experiments to proactively inject random failures 
+1. Chaos engineering is a technique to meet resilience requirements. 
+2. It is used to achieve resilience against infrastructure, platform, and application failures. 
+3. Chaos engineers use chaos experiments to proactively inject random failures 
 to verify that an application, infrastructure, or platform can self-heal and the failure cannot noticeably impact customers. 
-Chaos experiments aim to discover blind spots 
+4. Chaos experiments aim to discover blind spots 
 (e.g. monitoring or autoscaling techniques) and to improve the communications between teams during critical incidents. 
-This approach helps increase resiliency and the team's confidence in complex systems, particularly production.
+5. This approach helps increase resiliency and the team's confidence in complex systems, particularly production.
