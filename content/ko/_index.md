@@ -20,7 +20,9 @@ status: Completed
 본 프로젝트의 목적과 헌장(charter)을 준수하는 모든 참여자의 기여를 환영한다.
 
 기여하고 싶은 사람은 GitHub 이슈를 제출하거나 풀 리퀘스트(pull request)를 생성하면 된다.
-[기여 방법](/ko/contribute/)을 확인하고, [스타일 가이드](/ko/style-guide/)를 준수해야 하며, CNCF Slack의 [#glossary](https://cloud-native.slack.com/archives/C02TX20MQBB) 채널에도 참여한다.
+[기여 방법](/ko/contribute/)을 확인하고, [스타일 가이드](/ko/style-guide/)를 준수해야 하며,
+[CNCF Slack](https://communityinviter.com/apps/cloud-native/cncf) 워크스페이스에 참여하고,
+CNCF Slack의 [#glossary](https://cloud-native.slack.com/archives/C02TX20MQBB) 채널에 참여한다.
 [#glossary-localizations](https://cloud-native.slack.com/archives/C02N2RGFXDF) 채널에는 용어집을 자신의 모국어로 번역하고 싶은 사람이 참여하면 좋다.
 
 ## 감사의 글
@@ -36,15 +38,20 @@ status: Completed
 전체 기여자 목록은 [GitHub 페이지](https://github.com/cncf/glossary/graphs/contributors)에서 확인할 수 있다.
 
 클라우드 네이티브 용어집 프로젝트는 메인테이너인 
-[Catherine Paganini](https://www.linkedin.com/in/catherinepaganini/en/),
-[Jason Morgan](https://www.linkedin.com/in/jasonmorgan2/),
-[Jihoon Seo](https://www.linkedin.com/in/jihoon-seo/),
+[Seokho Son](https://www.linkedin.com/in/seokho-son/),
 [Noah Ispas](https://www.linkedin.com/in/noah-ispas-0665b42a/),
-그리고 [Seokho Son](https://www.linkedin.com/in/seokho-son/)가 운영 및 관리하고 있다.
+[Jihoon Seo](https://www.linkedin.com/in/jihoon-seo/),
+[Nate W.](https://www.linkedin.com/in/nate-double-u/),
+그리고 [Jorge Castro](https://www.linkedin.com/in/jorge-castro2112/)가 운영 및 관리하고 있다.
+
+명예 메인테이너인
+[Catherine Paganini](https://www.linkedin.com/in/catherinepaganini/en/)와
+[Jason Morgan](https://www.linkedin.com/in/jasonmorgan2/)가
+오랫동안 이어온 귀중한 기여에 대해 감사를 표한다.
 
 그리고, 한국어 클라우드 네이티브 용어집은
 [Jihoon Seo (서지훈)](https://www.linkedin.com/in/jihoon-seo/),
-[Seokho Son (손석호)](https://www.linkedin.com/in/seokho-son/), 
+[Seokho Son (손석호)](https://www.linkedin.com/in/seokho-son/),
 [Yunkon Kim (김윤곤)](https://www.linkedin.com/in/yunkon-kim/)
 의 기여로 시작되었으며, 한글화팀([#glossary-localization-korean](https://cloud-native.slack.com/archives/C02PC0MLQKU)) 및 다양한 기여자의 기여를 통해 개발되고 있다.
 
