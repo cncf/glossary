@@ -140,6 +140,13 @@ weight = 10
 [languages.ur.params]
 description = "CNCF کلاؤڈ کی مقامی لغت کا مقصد کلاؤڈ مقامی ایپلی کیشنز کے بارے میں بات کرتے وقت استعمال ہونے والی عام اصطلاحات کے حوالے کے طور پر استعمال کرنا ہے۔"
 
+[languages.fr]
+title = "Glossaire Cloud Native"
+languageName ="Français (French)"
+contentDir = "content/fr"
+weight = 11
+[languages.fr.params]
+description = "Le projet de Glossaire CNCF Cloud Native a pour objectif de référencer les termes courants utilisés dans les différentes applications Cloud Natives."
 
 [markup]
   [markup.goldmark]
