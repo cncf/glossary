@@ -1,6 +1,6 @@
 ---
 title: 可観測性
-status: 完了
+status: Completed
 category: コンセプト
 tags: ["プロパティ", "", ""]
 ---
