@@ -1,0 +1,70 @@
+name: Auto Comment on Labeled PR
+
+on:
+  pull_request_target:
+    types:
+      - labeled
+      - unlabeled
+
+permissions:
+  pull-requests: write
+
+jobs:
+  comment:
+    runs-on: ubuntu-latest
+    steps:
+    # Checkout the repository code to the runner.
+    - name: Checkout code
+      uses: actions/checkout@v3
+
+    # Create a bin directory in the runner's home
+    - name: Create bin directory
+      run: |
+        mkdir -p $HOME/bin
+        echo "$HOME/bin" >> $GITHUB_PATH
+
+    # Install the latest jq and yq from GitHub releases
+    - name: Install jq and yq
+      run: |
+        wget https://github.com/jqlang/jq/releases/latest/download/jq-linux-amd64 -O $HOME/bin/jq
+        chmod +x $HOME/bin/jq
+        wget https://github.com/mikefarah/yq/releases/latest/download/yq_linux_amd64 -O $HOME/bin/yq
+        chmod +x $HOME/bin/yq      
+        
+    # Main logic for adding comments based on labels.
+    - name: Comment on PR based on external config
+      run: |
+        # Fetch the labels attached to the PR from the GitHub event JSON.
+        pr_labels=$(jq -r '.pull_request.labels[] | .name' "$GITHUB_EVENT_PATH" | tr '\n' ' ')
+        
+        # Define the path to the external YAML config file.
+        config_file=".github/auto-comment-config.yaml"
+        
+        # Get the number of label-comment mappings defined in the config file.
+        num_mappings=$(yq e '.label_mappings | length' "$config_file")
+        
+        # Loop through each label-comment mapping in the config file.
+        for (( i=0; i<$num_mappings; i++ )); do
+          # Fetch the labels and comment for the current mapping.
+          mapfile -t labels < <(yq e ".label_mappings[$i].labels[]" "$config_file")
+          comment=$(yq e ".label_mappings[$i].comment" "$config_file")
+
+          # Check if all required labels from the current mapping are present in the PR.
+          for label in "${labels[@]}"; do
+            if [[ ! $pr_labels == *"$label"* ]]; then
+              echo "One or more required labels not found. Skipping."
+              continue 2  # Skip to the next iteration of the outer loop.
+            fi
+          done
+          
+          # Fetch the PR number from the GitHub event JSON.
+          pr_number=$(jq -r '.pull_request.number' "$GITHUB_EVENT_PATH")
+          
+          # If all required labels are found, add the comment to the PR.
+          echo "All required labels found. Adding comment."
+          gh pr comment "$pr_number" --body "$comment"
+
+        done
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      shell: bash
