@@ -1,5 +1,5 @@
 ---
-title: 如何貢獻
+title: 如何參與貢獻
 toc_hide: true
 status: Completed
 menu:
@@ -7,25 +7,25 @@ menu:
     weight: 10
 ---
 
-## 歡迎
+## 歡迎 {#welcome}
 
-歡迎使用 Cloud Native Glossary 的貢獻指南，感謝您的關注。 
+歡迎使用雲端原生 Glossary 的貢獻指南，感謝您的關注。 
 您可以透過以下方式參與貢獻，我們將在此進行詳細說明：
 
-1) [處理現有議題](#work-on-an-existing-issue)
+1) [在現有議題上進行工作](#work-on-an-existing-issue)
 2) [提出新術語](#propose-new-terms)
 3) [更新現有術語](#update-an-existing-term)
-4) [本地化術語表](#help-localize-the-glossary)
+4) [幫助本地化 Glossary](#help-localize-the-glossary)
 
-## CNCF Glossary 概述
+## CNCF Glossary 概述 {#cncf-glossary-overview}
 
 該 Glossary 的目標是簡化複雜的雲端原生領域，使其更容易被人們理解和使用。
 
-Cloud Native Glossary 的內容存儲在[此 GitHub 存儲庫](https://github.com/cncf/glossary) 中，
-您可以在那裡找到有關 Glossary 的[議題](https://github.com/cncf/glossary/issues)、拉取請求(([PRs](https://github.com/cncf/glossary/pulls))和 
+雲端原生 Glossary 的內容存儲在[此 GitHub 存儲庫](https://github.com/cncf/glossary)中，
+您可以在那裡找到有關 Glossary 的[議題](https://github.com/cncf/glossary/issues)、拉取請求([PRs](https://github.com/cncf/glossary/pulls))和 
 [討論](https://github.com/cncf/glossary/discussions)。
 
-## 誰可以貢獻？
+## 誰可以貢獻？ {#who-can-contribute}
 
 您如何參與此專案取決於您的雲端原生專業知識水準。
 簡化複雜的概念需要對該主題有深入的了解。
@@ -37,17 +37,18 @@ Cloud Native Glossary 的內容存儲在[此 GitHub 存儲庫](https://github.co
 如果您尚未成為雲端原生專家但仍想貢獻，我們建議與專家合作。
 一旦專家確信術語準確描述概念，您就可以做出第一個 Glossary 貢獻。
 
-本地化是初學者可以為 Glossary 提供有價值貢獻的地方。
-在英語中有堅實的現有定義的情況下，經驗較少的貢獻者可以將術語本地化到目標語言。您可以加入現有的本地化團隊或創建新的本地化團隊。閱讀本指南的[幫助本地化 Glossary](#help-localize-the-glossary)章節，了解如何開始。
+本地化工作是精通另一種語言的初學者可以為 Glossary 做出寶貴貢獻的地方。
+借助現有的可靠英語定義，經驗不足的貢獻者可以將術語本地化為目標語言。您可以加入現有的本地化團隊或創建新的本地化團隊。
+請閱讀本指南中[幫助本地化 Glossary](#help-localize-the-glossary) 章節，了解如何開始。
 
-## 開始之前
+## 開始之前 {#before-you-start}
 
 在開始您的 Glossary 貢獻之前，請確認完成以下步驟：
 
 1. 建立 [GitHub 帳號](https://docs.github.com/zh/get-started/signing-up-for-github/signing-up-for-a-new-github-account)，如果您還沒有的話。
 2. 簽署[貢獻者授權協議(Contributor License Agreement)](https://docs.linuxfoundation.org/lfx/easycla/v2-current/contributors) (CLA)。
 3. [驗證您的提交簽名](https://docs.github.com/zh/authentication/managing-commit-signature-verification/about-commit-signature-verification)。
-4. 啟用 [vigilant mode](https://docs.github.com/zh/authentication/managing-commit-signature-verification/displaying-verification-statuses-for-all-of-your-commits#about-vigilant-mode)在您的 GitHub 帳戶上，以顯示 "Verified" 狀態在您的提交上。
+4. 啟用 [vigilant mode](https://docs.github.com/zh/authentication/managing-commit-signature-verification/displaying-verification-statuses-for-all-of-your-commits#about-vigilant-mode) 在您的 GitHub 帳戶上，以顯示 "Verified" 狀態在您的提交上。
 
 ## 最佳實踐 {#best-practices}
 
@@ -55,19 +56,19 @@ Cloud Native Glossary 的內容存儲在[此 GitHub 存儲庫](https://github.co
 我們建議查看這份 [markdown cheat sheet](https://www.markdownguide.org/cheat-sheet/) 以正確地在 GitHub 中格式化 Markdown 文本（例如，超連結、粗體、斜體）。
 並且在命名 .md 文件時，請使用小寫字母和連字符而不是空格來分隔議題，避免使用括號。
 
-## 樣式指南
+## 風格指南 {#style-guide}
 
-閱讀我們的[樣式指南](/zh-tw/style-guide/) 以了解我們的格式和撰寫文件的指南，使貢獻流程更加高效。
+閱讀我們的[風格指南](/zh-tw/style-guide/)以了解我們的格式和撰寫文件的指南，使貢獻流程更加高效。
 
 ## 加入 Glossary 社群！ {#join-the-glossary-community}
 
 如果您想定期貢獻，請考慮加入我們的 Glossary 工作組月會。
-您可以在 [CNCF 行事曆](https://www.cncf.io/calendar/) 中找到會議詳細資訊。
+您可以在 [CNCF 行事曆](https://www.cncf.io/calendar/)中找到會議詳細資訊。
 您也可以在 CNCF Slack 的 [#glossary](https://cloud-native.slack.com/archives/C02TX20MQBB) 頻道中與維護人員和其他貢獻者聯繫 - 我們很樂意認識您！
 
 ## 在現有議題上進行工作 {#work-on-an-existing-issue}
 
-前往[Glossary GitHub 存儲庫的議題](https://github.com/cncf/glossary/issues)找到可用議題列表。您可以使用標籤（例如，英語語言、需要幫助、良好的第一個議題）過濾議題。
+前往 [Glossary GitHub 存儲庫的議題](https://github.com/cncf/glossary/issues)找到可用議題列表。您可以使用標籤（例如，英語語言、需要幫助、良好的第一個議題）過濾議題。
 
 ![議題和標籤](/images/how-to/issue-and-labels.png)
 
@@ -80,9 +81,9 @@ Cloud Native Glossary 的內容存儲在[此 GitHub 存儲庫](https://github.co
 ![聲明議題](/images/how-to/claiming-an-issue.png)
 
 此外，請在 CNCF Slack 工作區的 [#glossary](https://cloud-native.slack.com/archives/C02TX20MQBB) 頻道中通知維護者
-並標記 _@Catherine Paganini_, _@Seokho Son_, _@Jihoon Seo_, 和/或 _@iamnoah_，以確保他們不會錯過它。
+並標記 _@iamnoah_、_@nate-double-u_、_@Seokho Son_、_@Jihoon Seo_ 和/或 _@castrojo_，以確保他們不會錯過它。
 
-有關下一步，請參閱[提交新術語（創建 PR）](#submitting-a-new-term) 部分。
+有關下一步，請參閱[提交新術語（創建 PR）](#submitting-a-new-term)部分。
 
 **注意**：您只能在維護人員將議題分配給您後開始處理議題。
 您一次只能聲明一個術語。
@@ -92,7 +93,7 @@ Cloud Native Glossary 的內容存儲在[此 GitHub 存儲庫](https://github.co
 
 您可以提出新術語供他人研究，或自己創建新定義。
 不管哪種方式，您都需要從[新增議題](#creating-an-issue)開始。
-每個新術語必須符合 [CNCF的雲端原生定義](https://github.com/cncf/toc/blob/main/DEFINITION.md)才能被添加到 glossary 中。
+每個新術語必須符合 [CNCF 的雲端原生定義](https://github.com/cncf/toc/blob/main/DEFINITION.md)才能被添加到 Glossary 中。
 唯一的例外是理解雲端原生概念所需的基礎術語。
 
 以下是對於不熟悉 GitHub 的人的逐步指南。
@@ -120,30 +121,30 @@ Cloud Native Glossary 的內容存儲在[此 GitHub 存儲庫](https://github.co
 接下來，維護者將會進行緊急處理。這意味著他們將評估該術語是否應該成為 Glossary 的一部分。
 並不是每個術語都會被批准。若要納入 Glossary，它們應該是建立且廣泛使用的雲端原生概念。
 
-請讓維護者知道您已在 Slack 上提出新術語並標記 _@Catherine Paganini_、_@Seokho Son_、_@Jihoon Seo_ 和/或 _@iamnoah_，以便他們不會錯過。
+請讓維護者知道您已在 Slack 上提出新術語並標記 _@iamnoah_、_@nate-double-u_、_@Seokho Son_、_@Jihoon Seo_ 和/或 _@castrojo_，以便他們不會錯過。
 如果您想編寫定義，請讓維護者知道，他們會指派它給您。
 
 ### 提交新術語（創建 PR）{#submitting-a-new-term}
 
-如我們的[風格指南](/zh-tw/style-guide/)所述，我們強烈建議先使用Google 文檔或 Word 文檔進行起草。
+如我們的[風格指南](/zh-tw/style-guide/)所述，我們強烈建議先使用 Google 文檔或 Word 文檔進行起草。
 
-一旦術語準備好提交，請轉到 content（在<>程式碼下）…
+一旦術語準備好提交，請轉到 content（在 <> 程式碼下）...
 
 ![content](/images/how-to/howto-05.png)
 
-…然後轉到 "zh-tw" 或您要貢獻的語言的前兩個字母…
+...然後轉到 "en" 或您要貢獻的語言的前兩個字母...
 
 ![語言文件夾](/images/how-to/howto-06.png)
 
-…並選擇 `_TEMPLATE.md`
+...並選擇 `_TEMPLATE.md`
 
 ![樣板](/images/how-to/howto-07.png)
 
-複製內容…
+複製內容...
 
 ![複製內容](/images/how-to/howto-08.png)
 
-…然後返回 "zh-tw" 文件夾。單擊 "Add file" 並選擇 "Create new file"。
+...然後返回 "en" 文件夾。單擊 "Add file" 並選擇 "Create new file"。
 
 ![創建新文件](/images/how-to/howto-09.png)
 
@@ -193,14 +194,14 @@ Cloud Native Glossary 的內容存儲在[此 GitHub 存儲庫](https://github.co
 
 這將打開術語的 GitHub 頁面。進行修改並建立 PR。
 請參考上面的[最佳實踐](#best-practices)部分，
-並閱讀我們的[樣式指南](/zh-tw/style-guide/)以確保您遵循我們的指南。
+並閱讀我們的[風格指南](/zh-tw/style-guide/)以確保您遵循我們的指南。
 
-## 幫助本地化術語表 {#help-localize-the-glossary}
+## 幫助本地化 Glossary {#help-localize-the-glossary}
 
-如果要幫助將術語表本地化為目標語言，請加入 CNCF Slack 工作區中的[#glossary-localizations](https://cloud-native.slack.com/archives/C02N2RGFXDF)頻道，然後發送消息給我們。
+如果要幫助將術語表本地化為目標語言，請加入 CNCF Slack 工作區中的 [#glossary-localizations](https://cloud-native.slack.com/archives/C02N2RGFXDF)頻道，然後發送消息給我們。
 您可以加入現有團隊或創建新團隊
 （要查看需要什麼，請閱讀我們的[本地化指南](https://github.com/cncf/glossary/blob/main/LOCALIZATION.md)）。
-請閱讀目標語言的**如何貢獻**指南，以了解該團隊的具體貢獻流程。
+請閱讀目標語言的**如何參與貢獻**指南，以了解該團隊的具體貢獻流程。
 
 ## 拼寫檢查 {#spell-check}
 
@@ -217,5 +218,4 @@ Cloud Native Glossary 的內容存儲在[此 GitHub 存儲庫](https://github.co
 
 **注意**：拼寫檢查不區分大小寫。
 
-
-**我們基於[The Good Docs Project](https://thegooddocsproject.dev/)的樣板更新了此指南。**
+**我們基於 [The Good Docs Project](https://thegooddocsproject.dev/)的樣板更新了此指南。**
