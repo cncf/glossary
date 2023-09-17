@@ -68,6 +68,7 @@ description = "The CNCF Cloud Native Glossary Project is intended to be used as 
 #time_format_default = "02.01.2006"
 #time_format_blog = "02.01.2006"
 
+
 [languages.hi]
 title = "क्लाउड नेटिव शब्दावली"
 languageName ="हिन्दी (Hindi)"
