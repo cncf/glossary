@@ -15,7 +15,7 @@ Comme DevOps, DevSecOps est un changement culturel, poussé par les technologies
 ## Problème auquel il répond
 
 Les pratiques DevOps incluent l'[intégration continue](/fr/continuous-integration/), la [livraison continue](/fr/continuous-delivery/),
-et le [déploiement continu](/fr/continuous-deployment/) et accélère les cycles de développement et de publication d'applications.
+et le [déploiement continu](/fr/continuous-deployment/) et accélèrent les cycles de développement et de publication d'applications.
 Malheureusement, les processus de publication automatisés qui ne parviennent pas à représenter
 toutes les parties prenantes de l’organisation peuvent exacerber les problèmes existants.
 Un processus qui publie rapidement de nouveaux logiciels sans tenir compte des besoins de sécurité
