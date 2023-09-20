@@ -18,7 +18,7 @@ Pour éviter cette ambiguïté, le terme "déploiement sans temps d'arrêt" (ou 
 
 ## Problème auquel il répond
 
-Les déploiements bleu/vert permettent une interruption minimale lors de la mise à jour de logiciels qui doivent être modifiés en "étapes vérouillées" en raison d'un manque de rétrocompatibilité.
+Les déploiements bleu/vert permettent une interruption minimale lors de la mise à jour de logiciels qui doivent être modifiés en "étapes vérouillées" (ou lockstep en anglais) en raison d'un manque de rétrocompatibilité.
 Par exemple, le déploiement bleu/vert serait approprié pour une boutique en ligne composée d'un site web et d'une base de données qui doivent être mise à jour, mais la nouvelle version de la base de données ne fonctionne pas avec l'ancienne version du site web, et vice versa.
 Dans ce cas, les deux doivent être modifiés en même temps.
 Si cela était fait sur le système de production, les clients remarqueraient une interruption de service.
