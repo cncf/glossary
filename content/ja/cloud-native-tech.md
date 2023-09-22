@@ -1,7 +1,7 @@
 ---
 title: クラウドネイティブテクノロジー
 status: Completed
-category: Concept
+category: コンセプト
 tags: ["基礎", "", ""]
 ---
 
