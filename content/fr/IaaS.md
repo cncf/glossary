@@ -2,7 +2,7 @@
 title: Infrastructure en tant que Service (IaaS)
 status: Completed
 category: concept
-tags: ["infrastructure", "méthodologie"]
+tags: ["infrastructure", "méthodologie", ""]
 ---
 
 ## Qu'est-ce que c'est ?
