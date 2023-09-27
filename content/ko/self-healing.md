@@ -2,7 +2,7 @@
 title: 셀프 힐링 (Self Healing)
 status: Completed
 category: 속성
-tags: ["인프라스트럭처", "아키텍처", ""]
+tags: ["인프라스트럭처", "속성", ""]
 ---
 
 셀프 힐링(Self Healing)은 하드웨어 또는 소프트웨어의 특정 오류 또는 실패로부터 사용자의 개입 없이 자동적으로 복구할 수 있는 시스템의 고유한 능력을 가리킨다. 
