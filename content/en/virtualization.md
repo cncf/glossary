@@ -21,7 +21,7 @@ As an example, you can lease a "computer" from AWS – that computer is actually
 
 Virtualization addresses a number of problems, including the improvement of physical hardware usage 
 by allowing more apps to run on the same physical machine 
-whilst still being isolated from each other for security.
+while still being isolated from each other for security and also, addresses many of the challenges associated with cloud-native computing, including resource management, isolation, scalability, and portability, making it an essential component of modern cloud-native architectures.
 
 ## How it helps
 
