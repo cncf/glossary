@@ -21,7 +21,7 @@ As an example, you can lease a "computer" from AWS – that computer is actually
 
 Virtualization addresses a number of problems, including the improvement of physical hardware usage 
 by allowing more apps to run on the same physical machine 
-whilst still being isolated from each other for security.
+while still being isolated from each other for security. Also, with virtualization, all the servers and softwares required by other cloud providers are managed by third parties, and cloud providers have to pay money monthly or annually.
 
 ## How it helps
 
