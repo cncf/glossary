@@ -24,6 +24,7 @@ Dans une architecture zéro confiance, la confiance est éliminée, réduisant a
 car un attaquant est contraint de se soumettre à une vérification avant de pouvoir progresser dans le système.
 
 ## Quel en est l'utilité
+
 L'adoption d'une architecture zéro confiance présente le principal avantage d'augmenter la sécurité tout en réduisant la surface d'attaque. 
 En éliminant la notion de confiance de votre système d'entreprise, 
 vous renforcez le nombre et la robustesse des portes de sécurité que l'attaquant doit franchir pour accéder à d'autres parties du système.
