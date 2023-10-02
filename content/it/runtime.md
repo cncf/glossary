@@ -17,7 +17,7 @@ Un container runtime è un implementazione che segue le specifiche [Open Contain
 Senza l'astrazione di un runtime del container, l'applicazione dovrebbe occuparsi di tutte le meccaniche di ciascun sistema operativo, aumentando la complessità dell'esecuzione dell'app.
 
 ## In che modo aiuta
-I container runtime sono un componente necessario degli orchestratori di container come Kubernetes. 
+I container runtime sono un componente necessario degli orchestratori di container come [Kubernetes](/it/kubernetes). 
 Gestiscono il ciclo di vita del container, che fa principalmente tre cose: 
 
 - definisce come vengono specificate le immagini del container e come il runtime può recuperarle;
