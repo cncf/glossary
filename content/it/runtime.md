@@ -24,7 +24,7 @@ Gestiscono il ciclo di vita del container, che fa principalmente tre cose:
 - gestisce come queste immagini vengono decompresse, stratificate, montate ed eseguite;
 - gestisce le risorse hardware occupandosi di tutte queste azioni a livello di sistema operativo, come allocazione e isolamento delle risorse.
 
-Nel tempo, diversi implementazioni di container runtime hanno continuato ad evolversi, portando alla Specifica OCI, che è diventata lo standard per i runtime dei container.
+Nel tempo, diverse implementazioni di container runtime hanno continuato ad evolversi, portando alla Specifica OCI, che è diventata lo standard per i runtime dei container.
 L'introduzione di questo standard consente agli utenti finali di combinare qualsiasi runtime conforme a OCI con qualsiasi orchestratore di container conforme a OCI (come Kubernetes).
 
 ## Termini correlati
