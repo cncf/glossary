@@ -20,7 +20,7 @@ Tuttavia, questo approccio introduce anche rischi di sicurezza, rendendo eBPF un
 In genere, le applicazioni vengono eseguite nello spazio utente e, se l'applicazione richiede alcuni privilegi dal kernel (ad esempio per accedere a una parte hardware),
 lo richiede al kernel tramite una "chiamata di sistema".
 Nella maggior parte dei casi, questo approccio funziona bene. Ci sono però dei casi, come ad esempio nell'utilizzo di funzionalità di osservabilità, sicurezza e networking, 
-in cui i sviluppatori richiedono una maggiore privilegi per l'accesso al sistema a basso livello. 
+in cui gli sviluppatori richiedono una maggiore flessibilità per l'accesso al sistema a basso livello. 
 A questo scopo, possiamo utilizzare i moduli del kernel Linux, che estendono la base del kernel senza richiederne la modifica del codice sorgente.
 Sebbene ci siano vantaggi nell'utilizzo dei moduli del kernel Linux, questo approccio introduce anche rischi per la sicurezza: 
 operando nello spazio kernel, in caso di problemi i moduli del kernel Linux possono causare il crash del kernel stesso e, quando il kernel si blocca, si blocca anche l'intera macchina.
