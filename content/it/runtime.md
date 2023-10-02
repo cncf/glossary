@@ -19,9 +19,11 @@ Senza l'astrazione di un runtime del container, l'applicazione dovrebbe occupars
 ## In che modo aiuta
 I container runtime sono un componente necessario degli orchestratori di container come Kubernetes. 
 Gestiscono il ciclo di vita del container, che fa principalmente tre cose: 
-definisce come vengono specificate le immagini del container e come il runtime può recuperarle;
-gestiscono come queste immagini vengono decompresse, stratificate, montate ed eseguite;
-gestiscono le risorse hardware occupandosi di tutte queste azioni a livello di sistema operativo, come allocazione e isolamento delle risorse.
+
+- definisce come vengono specificate le immagini del container e come il runtime può recuperarle;
+- gestisce come queste immagini vengono decompresse, stratificate, montate ed eseguite;
+- gestisce le risorse hardware occupandosi di tutte queste azioni a livello di sistema operativo, come allocazione e isolamento delle risorse.
+
 Nel tempo, diversi implementazioni di container runtime hanno continuato ad evolversi, portando alla Specifica OCI, che è diventata lo standard per i runtime dei container.
 L'introduzione di questo standard consente agli utenti finali di combinare qualsiasi runtime conforme a OCI con qualsiasi orchestratore di container conforme a OCI (come Kubernetes).
 
