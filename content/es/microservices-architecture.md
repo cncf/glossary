@@ -24,7 +24,7 @@ El aumento de suscripciones exige más capacidad de suscripción.
 Tradicionalmente (enfoque monolítico), toda la aplicación tendría que ser [escalada](/es/scalability/) para acomodar el aumento - un uso muy ineficiente de los recursos.
 
 Las arquitecturas monolíticas también hacen que los desarrolladores tengan la posibilidad de caer en errores del diseño.
-Como todo el código está en el mismo sitio, es más fácil hacer que ese código esté [estrechamente acoplado](/tightly-coupled-architectures/) y más difícil aplicar el principio de separación de preocupaciones.
+Como todo el código está en el mismo sitio, es más fácil hacer que ese código esté [estrechamente acoplado](/es/tightly-coupled-architectures/) y más difícil aplicar el principio de separación de preocupaciones.
 Los monolitos también suelen requerir que los desarrolladores entiendan todo el código base antes de desplegar cualquier funcionalidad.
 La arquitectura de microservicios es una respuesta a estos retos.
 

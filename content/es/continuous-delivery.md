@@ -34,4 +34,4 @@ Por lo general, el desarrollo basado en troncos (trunk-based development) se usa
 ## Términos relacionados
 
 * [Integración Continua](/es/continuous-integration/)
-* [Despliegue Continuo](/continuous_deployment/)
+* [Despliegue Continuo](/es/continuous-deployment/)
