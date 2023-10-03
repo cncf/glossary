@@ -14,7 +14,7 @@ Nel contesto [cloud native](/it/cloud-native-apps/), il termine runtime si rifer
 Un container runtime è un implementazione che segue le specifiche [Open Container Initiative](https://opencontainers.org/) per garantire una gestione coerente dei container nelle differenti tecnologie di orchestrazione degli stessi.
 
 ## Quali problematiche affronta
-Senza l'astrazione di un runtime del container, l'applicazione dovrebbe occuparsi di tutte le meccaniche di ciascun sistema operativo, aumentando la complessità dell'esecuzione dell'app.
+Senza l'astrazione di un runtime del container, l'applicazione dovrebbe occuparsi di tutte le meccaniche di ciascun sistema operativo, aumentando la complessità dell'esecuzione dell'applicazione.
 
 ## In che modo aiuta
 I container runtime sono un componente necessario degli orchestratori di container come [Kubernetes](/it/kubernetes). 
