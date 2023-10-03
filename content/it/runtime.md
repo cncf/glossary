@@ -8,7 +8,7 @@ tags: ["applicazione", "", ""]
 ## Cos'è
 
 Un runtime, in generale, esegue un software.
-È un'[astrazione](/it/abstraction/) del sistema operativo sottostante che traduce i comandi del programma in azioni relative per il sistema operativo.
+È un'[astrazione](/it/abstraction/) del sistema operativo sottostante che traduce i comandi del programma in azioni corrispondenti perché siano utili al sistema operativo stesso.
 
 Nel contesto [cloud native](/it/cloud-native-apps/), per _runtime_ si intende container runtime. 
 Un container runtime è un implementazione che segue le specifiche [Open Container Initiative](https://opencontainers.org/) per garantire una gestione coerente dei container nelle differenti tecnologie di orchestrazione degli stessi.
