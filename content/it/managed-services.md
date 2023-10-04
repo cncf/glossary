@@ -1,12 +1,12 @@
 ---
 title: Managed services
-status: Completed
+status: Deprecated
 category: Tecnologia
 ---
 
 ## Cos'è
 
-Con _managed service_ si intende un'offerta di servizio da parte di un fornitore che comprende un software assieme alla sua gestione ordinaria e manutenzione. Ne sono esempi i servizi di [Database as a Service](/it/database-as-a-service/) come RDS di Amazon, o i servizi esterni di monitoring come Datadog.
+Con _managed service_ si intende un'offerta di servizio da parte di un fornitore che comprende un software assieme alla sua gestione ordinaria e manutenzione. Ne sono esempi i servizi di Database as a Service come RDS di Amazon, o i servizi esterni di monitoring come Datadog.
 
 ## Quali problematiche affronta
 

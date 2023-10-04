@@ -21,10 +21,10 @@ Cualquier configuración errónea entre los entornos es problemática, a menudo 
 Un entorno de aplicación tiene que ser fácil de replicar, además de estar bien definido;
 en caso contrario, la posibilidad de bugs y errores relacionados con el entorno aumenta.
 Cuando los entornos de aplicación no están configurados de manera adecuada o son inexactos,
-el escalado [horizontal](/es/horizontal-scaling/) y [vertical](/vertical-scaling/) de las aplicaciones se complica y reduce su efectividad.
+el escalado [horizontal](/es/horizontal-scaling/) y [vertical](/es/vertical-scaling/) de las aplicaciones se complica y reduce su efectividad.
 
 ## ¿Cómo ayuda?
 
 Las imágenes empaquetan una aplicación con todas las dependencias necesarias para ejecutarse, como el servidor de aplicación.
 Esto otorga consistencia en todos los entornos, incluyendo los dispositivos locales de desarrollo.
-Una imagen puede dar lugar a cualquier número de contenedores, según sea necesario, permitiendo una mayor [escalabilidad](/scalability/).
+Una imagen puede dar lugar a cualquier número de contenedores, según sea necesario, permitiendo una mayor [escalabilidad](/es/scalability/).

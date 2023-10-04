@@ -13,7 +13,7 @@ DevOps requiere grupos de ingenieros que trabajen en componentes pequeños (en l
 
 ## Problema que aborda
 
-Tradicionalmente, en organizaciones complejas con [aplicaciones monolíticas](/es/monolithic-apps/) con arquitecturas [estrechamente acopladas](/tightly-coupled-architectures/),
+Tradicionalmente, en organizaciones complejas con [aplicaciones monolíticas](/es/monolithic-apps/) con arquitecturas [estrechamente acopladas](/es/tightly-coupled-architectures/),
 el trabajo generalmente se distribuía entre varios equipos.
 Esta fragmentación del desarrollo dio lugar a numerosos traspasos y largos plazos de entrega.
 Cada vez que un componente o alguna actualización estaba lista, se colocaba en una cola para el siguiente equipo.
