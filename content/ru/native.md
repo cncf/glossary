@@ -1,5 +1,5 @@
 ---
-title: Abstraction
+title: Нативный
 status: Feedback Appreciated
 category: Property
 tags: ["fundamental", "", ""]
