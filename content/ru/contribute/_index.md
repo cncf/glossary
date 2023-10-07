@@ -83,7 +83,7 @@ menu:
 ![Закрепление Issue](/images/how-to/claiming-an-issue.png)
 
 Сообщите хранителям в канале [#glossary](https://cloud-native.slack.com/archives/C02TX20MQBB) в рабочем пространстве CNCF в Slack, 
-призвав _@Catherine Paganini_, _@Seokho Son_, _@Jihoon Seo_, и/или _@iamnoah_, чтобы они наверняка увидели ваше уведомление. 
+призвав _@iamnoah_, _@nate-double-u_, _@Seokho Son_, _@Jihoon Seo_ и/или _@castrojo_, чтобы они наверняка увидели ваше уведомление. 
 
 Дальнейшие шаги описаны в разделе [Создание нового термина (открываем PR)](#submitting-a-new-term).
 
@@ -128,7 +128,7 @@ menu:
 А именно, решат, стоит ли включать термин в глоссарий. 
 Принимаются далеко не все термины: чтобы попасть в глоссарий, они должны устояться в мире cloud native-технологий и широко там использоваться.
 
-Сообщите хранителям в Slack'е о новом термине (позовите _@Catherine Paganini_, _@Seokho Son_, _@Jihoon Seo_, и/или _@iamnoah_).  
+Сообщите хранителям в Slack'е о новом термине (позовите _@iamnoah_, _@nate-double-u_, _@Seokho Son_, _@Jihoon Seo_ и/или _@castrojo_).  
 Если вы хотите поработать над определением, сообщите об этом хранителям, и они закрепят термин за вами.
 
 ### Отправка нового термина (создаем PR) {#submitting-a-new-term}

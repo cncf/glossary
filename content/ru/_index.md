@@ -35,12 +35,16 @@ status: Completed
 и многих других авторов. 
 Полный список участников проекта можно найти на [этой странице](https://github.com/cncf/glossary/graphs/contributors) на GitHub.
 
-Хранителями глоссария являются 
-[Catherine Paganini](https://www.linkedin.com/in/catherinepaganini/en/), 
-[Jason Morgan](https://www.linkedin.com/in/jasonmorgan2/), 
-[Jihoon Seo](https://www.linkedin.com/in/jihoon-seo/), 
+Хранителями глоссария являются:
 [Noah Ispas](https://www.linkedin.com/in/noah-ispas-0665b42a/), 
-и [Seokho Son](https://www.linkedin.com/in/seokho-son/).
+[Jihoon Seo](https://www.linkedin.com/in/jihoon-seo/),
+[Nate W.](https://www.linkedin.com/in/nate-double-u/),
+и [Jorge Castro](https://www.linkedin.com/in/jorge-castro2112/).
+
+[Catherine Paganini](https://www.linkedin.com/in/catherinepaganini/en/),
+и [Jason Morgan](https://www.linkedin.com/in/jasonmorgan2/)
+являются Почетными Хранителями, и мы глубоко признательны
+за их неоценимый вклад в развитие проекта на протяжении многих лет.
 
 ## Лицензия
 
