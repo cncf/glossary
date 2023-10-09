@@ -17,7 +17,7 @@ Cette logique s'applique également aux rôles au sein des équipes d'ingénieri
 
 La gestion individuelle des autorisations d'accès pour de multiples utilisateurs, à diverses ressources système et données, peut être complexe. 
 Chaque utilisateur nécessite généralement l'accès à un ensemble de ressources spécifique. 
-Supposons qu'une organisation compte avec 500 développeurs (utilisateurs) et 300 ressources avec différents niveaux d'autorisation (lecture, écriture et absence d'accès). 
+Supposons qu'une organisation compte 500 développeurs (utilisateurs) et 300 ressources avec différents niveaux d'autorisation (lecture, écriture et absence d'accès). 
 L'administrateur doit s'assurer que chaque utilisateur dispose des autorisations adéquates pour les 300 ressources.
 Le RBAC simplifie le processus en offrant un contrôle d'accès préétabli basé sur des groupes de rôles.
 
