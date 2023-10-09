@@ -17,8 +17,8 @@ Même à l'intérieur du périmètre du réseau, les composants du système doiv
 
 ## Problème auquel il répond
 
-Selon l'approche traditionnelle basée sur la confiance avec laquelle les systèmes et les dispositifs existent à l'intérieur d'un périmètre du réseau d'entreprise, 
-l'hypothèse est que parce qu'il y a confiance, il n'y a aucun problème. 
+Avec l'approche traditionnelle basée sur la confiance avec laquelle les systèmes et les dispositifs existent à l'intérieur d'un périmètre du réseau d'entreprise, 
+l'hypothèse est que parce qu'il y a confiance, il n'y a aucun problème.
 Cependant, l'architecture zéro confiance reconnaît que cette confiance peut constituer une vulnérabilité. 
 Si un attaquant parvient à accéder à un appareil de confiance, la vulnérabilité du système dépend du niveau de confiance et d'accès accordé à cet appareil. 
 L'attaquant se trouve alors à l'intérieur du périmètre "de confiance" du réseau et peut se déplacer librement dans l'ensemble du système. 
