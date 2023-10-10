@@ -14,7 +14,7 @@ menu:
 
 1) [Поработать над существующим Issue](#work-on-an-existing-issue)
 2) [Предложить новое определение](#propose-new-terms)
-3) [Дополнить существующее](#update-an-existing-term)
+3) [Дополнить существующее определение](#update-an-existing-term)
 4) [Локализовать глоссарий](#help-localize-the-glossary)
 
 ## Общие сведения о глоссарии CNCF 
