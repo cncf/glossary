@@ -19,8 +19,8 @@ status: Completed
 Приветствуется любое участие при условии, что оно соответствует целям и уставу проекта.
 
 Все желающие могут открыть Issue на GitHub или создать Pull Request. 
-Для этого необходимо предварительно ознакомиться с документом [Как внести свой вклад](/contribute/) и присоединиться к каналу [#glossary](https://cloud-native.slack.com/archives/C02TX20MQBB) в рабочем пространстве CNCF в Slack.
-Кроме того, важно убедиться, что предлагаемые правки соответствуют [Руководству по стилю](/style-guide/). 
+Для этого необходимо предварительно ознакомиться с документом [Как внести свой вклад](/ru/contribute/) и присоединиться к каналу [#glossary](https://cloud-native.slack.com/archives/C02TX20MQBB) в рабочем пространстве CNCF в Slack.
+Кроме того, важно убедиться, что предлагаемые правки соответствуют [Руководству по стилю](/ru/style-guide/). 
 Для тех, кто хочет помочь перевести глоссарий на родной язык, существует канал [#glossary-localizations](https://cloud-native.slack.com/archives/C02N2RGFXDF) (для русского языка — [#glossary-localization-russian](https://cloud-native.slack.com/archives/C05G46RMQTX)).
 
 ## Благодарности
