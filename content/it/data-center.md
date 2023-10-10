@@ -1,5 +1,5 @@
 ---
-title: Datacenter
+title: Data center
 status: Completed
 category: Tecnologia
 tags: ["infrastruttura", "fondamentali", ""]
