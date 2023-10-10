@@ -152,7 +152,7 @@ description = "Le projet de Glossaire CNCF Cloud Native a pour objectif de réf�
 [languages.ru]
 title = "Глоссарий Cloud Native"
 languageName ="Русский (Russian)"
-weight = 11
+weight = 12
 [languages.ru.params]
 description = "Глоссарий Cloud Native — справочник по общим терминам, имеющим отношение к нативным облачным приложениям и технологиям. Разрабатывается фондом CNCF."
 
