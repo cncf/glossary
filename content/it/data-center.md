@@ -8,7 +8,7 @@ tags: ["infrastruttura", "fondamentali", ""]
 ## Cos'è
 
 Un data center è un edificio o una struttura specializzata appositamente progettata per ospitare più computer, spesso server.
-I data center sono abitualmente collegati a linee Internet ad alta velocità, soprattutto quando sono focalizzati sul [cloud computing](/it/cloud-computing/). . 
+I data center sono abitualmente collegati a linee Internet ad alta velocità, soprattutto quando sono focalizzati sul [cloud computing](/it/cloud-computing/).
 Gli edifici che ospitano i data center sono attrezzati per mantenere il servizio anche durante eventi avversi, ad esempio con generatori che forniscono energia durante le interruzioni o con potenti sistemi di aria condizionata che mantengono una temperatura controllata, proteggendo i computers dal calore che producono lavorando.
 
 ## Quali problematiche affronta
