@@ -1,0 +1,7 @@
+label_mappings:
+  - labels: 
+      - hold
+    comment: Wait, please do not proceed with this yet.
+  - labels: 
+      - lang/en
+    comment: To see where this is in the review pipeline and follow the progress, please look at the [definition review board](https://github.com/orgs/cncf/projects/26/views/1).

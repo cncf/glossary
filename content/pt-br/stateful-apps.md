@@ -7,7 +7,7 @@ tags: ["fundamentos", "", ""]
 
 ## O que é
 
-Quando falamos das aplicações stateful e [stateless](/pt-br/stateless-apps/), nos referimos a todos os dados que a aplicação precisa armazenar para funcionar como projetada. Qualquer tipo de loja online que lembre do seu carrinho é uma aplicação stateful, por exemplo.
+Quando falamos das aplicações stateful e stateless, nos referimos a todos os dados que a aplicação precisa armazenar para funcionar como projetada. Qualquer tipo de loja online que lembre do seu carrinho é uma aplicação stateful, por exemplo.
 
 ## Problema relacionado
 
