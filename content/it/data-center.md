@@ -13,7 +13,7 @@ Gli edifici che ospitano i data center sono attrezzati per mantenere il servizio
 
 ## Quali problematiche affronta
 
-Prima che i data center diventassero prevalenti alla fine degli anni '90, c'erano principalmente computer individuali con compiti specifici o computer utilizzati dalle persone per svolgere il proprio lavoro.
+Prima che i data center si diffondessero alla fine degli anni '90, i computer si distinguevano principalmente tra quelli dedicati a compiti specifici e quelli utilizzati dalle persone per svolgere il proprio lavoro.
 I computer tuttavia hanno risorse limitate (disco, RAM e CPU). Questo significa che le applicazioni in esecuzione su di essi hanno gli stessi vincoli, limitando i tipi di applicazioni che possono eseguire.
 Prima dei data center, la scalabilità dell'applicazione era limitata dalla capacità di calcolo del computer su cui era in esecuzione. 
 Se però pensiamo ad applicazioni soggette ad un utilizzo intensivo ed esteso come Gmail o Netflix (l'applicazione, non l'interfaccia utente che hai sul tuo telefono o computer),
