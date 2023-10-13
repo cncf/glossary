@@ -6,7 +6,7 @@ category: Concetto
 
 ## Cos'è
 Per orchestrazione dei [Container](/it/container/) si intende la gestione e l'automazione del ciclo di vita delle applicazioni containerizzate in ambienti dinamici.
-L'orchestrazione dei container viene effettuata tramite l'utilizzo di un orchestratore di container (nella maggior parte dei casi [Kubernetes](/it/kubernetes)), che consente di eseguire i processi di deployement, (auto)scaling, auto-healing e monitoraggio.
+L'orchestrazione dei container viene effettuata tramite l'utilizzo di un orchestratore di container (nella maggior parte dei casi [Kubernetes](/it/kubernetes)), che consente di eseguire i processi di deployment (distribuzione), (auto)scaling (scalabilità), auto-healing (riparazione) e monitoraggio.
 Il concetto di orchestrazione è preso in prestito dal mondo musicale ed utilizzato come una metafora:
 lo strumento di orchestrazione dirige i container come un direttore d'orchestra musicale, assicurandosi che ogni container (o musicista) faccia ciò che dovrebbe fare.
 
