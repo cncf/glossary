@@ -13,7 +13,7 @@ lo strumento di orchestrazione dirige i container come un direttore d'orchestra 
 
 
 ## Quali problematiche affronta
-Gestire manualmente i [microservizi](/it/microservices), la sicurezza e la comunicazione di rete su larga scala - e [sistemi distribuiti](/it/distributed-systems) in generale - è difficile, se non impossibile.
+Gestire manualmente i [microservizi](/it/microservices), la sicurezza e la comunicazione di rete su larga scala - e i [sistemi distribuiti](/it/distributed-systems) in generale - è difficile, se non impossibile.
 L'orchestrazione dei container consente agli utenti di automatizzare tutte queste attività di gestione.
 
 ## In che modo aiuta
