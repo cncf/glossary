@@ -2,7 +2,7 @@
 title: 叢集
 status: Completed
 category: 概念
-tags: ["基礎架構", "架構", ""]
+tags: ["基礎設施", "架構", ""]
 ---
 
 ## 是什麼 {#what-it-is}
