@@ -2,7 +2,7 @@
 title: 零信任架構
 status: Completed
 category: 概念
-tags: ["安全性", "", ""]
+tags: ["安全", "", ""]
 ---
 
 ## 是什麼 {#what-it-is}
