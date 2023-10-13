@@ -2,7 +2,7 @@
 title: 傳輸層安全性協議 (TLS)
 status: Completed
 category: 概念
-tags: ["安全性", "網路", ""]
+tags: ["安全", "網路", ""]
 ---
 
 ## 是什麼 {#what-it-is}
