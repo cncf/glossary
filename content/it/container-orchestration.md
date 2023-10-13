@@ -20,4 +20,4 @@ L'orchestrazione dei container consente agli utenti di automatizzare tutte quest
 Gli strumenti di orchestrazione dei container consentono agli utenti di stabilire lo stato di un sistema.
 Innanzitutto, dichiarano come dovrebbe apparire (ad esempio, x container, y pod, ecc.).
 Lo strumento di orchestrazione monitorerà quindi automaticamente l'infrastruttura e la correggerà se lo stato devia da quello dichiarato (ad esempio, avvierà un nuovo container se uno dovesse arrestarsi in modo anomalo).
-Questa automazione semplifica molte delle attività operative - altrimenti altamente manuali e complesse - dei team di engineering, tra cui il provisioning, il deployment, lo scaling (verso l'alto o verso il basso), il networking, il load balancing e altre attività.
+Questa automazione semplifica molte delle attività operative dei team di engineering, che risulterebbero altrimenti profondamente manuali e complesse. Tra queste figurano: l'assegnazione di risorse, la distribuzione, lo scaling (sia in termini di aggiunta che di rimozione di nodi), la connettività, il bilanciamento del traffico e altre attività.
