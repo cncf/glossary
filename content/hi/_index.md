@@ -26,6 +26,7 @@ status: Completed
 कुणाल वर्मा [Kunal Verma](https://www.linkedin.com/in/verma-kunal/), 
 आयुष शर्मा [Aayush Sharma](https://www.linkedin.com/in/aayush-sharma967/), अनुराग कुमार [Anurag Kumar](https://github.com/kranurag7), 
 शिवम त्यागी [Shivam Tyagi](https://www.linkedin.com/in/shivam-tyagi-57b7341a6/?originalSubdomain=in), 
+अंकित कुमार [Ankit Kumar](https://www.linkedin.com/in/ankit-k-6217b6225/), 
 शुभम चौधरी [Shubham Chaudhari](https://www.linkedin.com/in/shubham28698/) और कई अन्य योगदानकर्ताओं के योगदान शामिल हैं।
 
 ## लाइसेंस
