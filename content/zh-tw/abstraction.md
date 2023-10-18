@@ -1,7 +1,7 @@
 ---
 title: 抽象
 status: Completed
-category: 特性
+category: 屬性
 tags: ["基本原理", "", ""]
 ---
 
