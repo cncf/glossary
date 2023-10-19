@@ -9,7 +9,7 @@ tags: ["架構", "", ""]
 
 分散式應用程式是一種功能被拆分為多個較小獨立部分的應用程式。
 分散式應用程式通常由獨立的[微服務](/zh-tw/microservices)組成，以處理更廣泛的應用程式中的不同問題。
-在雲原生的環境中，這些獨立元件通常在[叢集](/zh-tw/cluster)中以[容器](/zh-tw/container)執行。
+在雲端原生的環境中，這些獨立元件通常在[叢集](/zh-tw/cluster)中以[容器](/zh-tw/container)執行。
 
 ## 解決的問題 {#problem-it-addresses}
 
