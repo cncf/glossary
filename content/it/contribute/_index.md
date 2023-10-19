@@ -178,6 +178,6 @@ Fai riferimento al paragrafo [Proporre un nuovo termine](#proporre-un-nuovo-term
 
 Per aiutare a tradurre il Glossario nella tua lingua madre, entra nel canale [#glossary-localizations](https://cloud-native.slack.com/archives/C02N2RGFXDF) della CNCF Slack e faccelo sapere.
 Puoi entrare a far parte di un team già esistente o crearne uno nuovo.
-(per vedere cosa comporta, leggi la nostra [Localization Guide](https://github.com/cncf/glossary/blob/main/LOCALIZATION.md)). 
+(per vedere cosa comporta, leggi la nostra [Guida alla Localizzazione](https://github.com/cncf/glossary/blob/main/LOCALIZATION.md)). 
 Puoi anche partecipare al nostro meeting del Glossary Working Group. Trovi tutte le informazioni per il meeting nel [calendario della CNCF](https://www.cncf.io/calendar/). 
 Ti aspettiamo!
