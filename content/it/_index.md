@@ -37,6 +37,7 @@ La localizzazione del progetto in italiano è a cura di
 [Matteo Bisi](https://www.linkedin.com/in/matteobisi/),
 [Annalisa Gennaro](https://www.linkedin.com/in/annalisagennaro/),
 [Paolo Martinoli](https://www.linkedin.com/in/paolo-e-m-martinoli/),
+[Simone Ragonesi](https://www.linkedin.com/in/simone-ragonesi-275567222/),
 [Francesco Sbaraglia](https://www.linkedin.com/in/fsbaraglia/), 
 [Simone Stella](https://www.linkedin.com/in/simostella/),
 e [Sara Trappetti](https://www.linkedin.com/in/sara-trappetti/).
