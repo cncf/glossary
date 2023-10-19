@@ -12,12 +12,30 @@ If you'd like to help with the glossary we'd love to have your contributions! Pl
 
 ## Acknowledgements
 
-The Cloud Native Glossary was initiated by the CNCF Marketing 
-Committee (Business Value Subcommittee) and includes contributions 
-from [Catherine Paganini](https://www.linkedin.com/in/catherinepaganini/en/), [Chris Aniszczyk](https://www.linkedin.com/in/caniszczyk/),
-[Daniel Jones](https://www.linkedin.com/in/danieljoneseb/?originalSubdomain=uk), [Jason Morgan](https://www.linkedin.com/in/jasonmorgan2/), [Katelin Ramer](https://www.linkedin.com/in/katelinramer/) and [Mike Foster](https://www.linkedin.com/in/mfosterche/?originalSubdomain=ca).
+The Cloud Native Glossary was initiated by the CNCF Marketing Committee
+(Business Value Subcommittee) and includes contributions from 
+[Catherine Paganini](https://www.linkedin.com/in/catherinepaganini/en/), 
+[Chris Aniszczyk](https://www.linkedin.com/in/caniszczyk/), 
+[Daniel Jones](https://www.linkedin.com/in/danieljoneseb/?originalSubdomain=uk), 
+[Jason Morgan](https://www.linkedin.com/in/jasonmorgan2/), 
+[Katelin Ramer](https://www.linkedin.com/in/katelinramer/), 
+[Mike Foster](https://www.linkedin.com/in/mfosterche/?originalSubdomain=ca), 
+and many more contributors. 
+For a complete contributor list, please refer to [this GitHub page](https://github.com/cncf/glossary/graphs/contributors).
 
-## License 
+The Glossary is maintained by 
+[Seokho Son](https://www.linkedin.com/in/seokho-son/),
+[Noah Ispas](https://www.linkedin.com/in/noah-ispas-0665b42a/), 
+[Jihoon Seo](https://www.linkedin.com/in/jihoon-seo/),
+[Nate W.](https://www.linkedin.com/in/nate-double-u/),
+and [Jorge Castro](https://www.linkedin.com/in/jorge-castro2112/).
+
+[Catherine Paganini](https://www.linkedin.com/in/catherinepaganini/en/),
+and [Jason Morgan](https://www.linkedin.com/in/jasonmorgan2/)
+are Emeritus Maintainers, and we are deeply grateful
+for their invaluable contributions over the years.
+
+## License
 
 All code contributions are under the Apache 2.0 license. Documentation is distributed under CC BY 4.0.
 
@@ -32,6 +50,6 @@ git submodule update --init --recursive
 npm install
 ```
 
-You can then run the site using `hugo server`.
+You can then run the site using `npm run serve` (select "[Hugo]").
 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?repo=cncf/glossary)

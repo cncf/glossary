@@ -11,8 +11,8 @@ El despliegue Blue green es una estrategia para actualizar los sistemas informá
 El operador mantiene dos entornos, llamados "blue" y "green".
 Uno sirve el tráfico de producción (la versión que todos los usuarios usan actualmente), mientras que el otro está actualizado.
 Una vez que las pruebas han concluido en el entorno inactivo (green),
-el tráfico de producción se cambia (a menudo mediante el uso de un [balanceador de cargas](/es/load-balancer/).
-Ten en cuenta que el despliegue blue-green usualmente significa cambiar los entornos por completo, comprendiendo muchos [servicios](/service/), todos a la vez.
+el tráfico de producción se cambia (a menudo mediante el uso de un balanceador de cargas.
+Ten en cuenta que el despliegue blue-green usualmente significa cambiar los entornos por completo, comprendiendo muchos [servicios](/es/service/), todos a la vez.
 Confusamente, algunas veces el término se utiliza para referirse a servicios dentro de un sistema.
 Para evitar esta ambigüedad, se prefiere el término "despliegue con tiempo de inactividad cero" cuando se refiere a componentes individuales.
 
