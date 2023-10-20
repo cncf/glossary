@@ -1,5 +1,5 @@
 ---
-title: Contributor Ladder
+title: Livelli di Contributor
 toc_hide: true
 status: Completed
 menu:
