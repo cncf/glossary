@@ -122,4 +122,4 @@ o di passare allo stato emerito (abbandonando completamente il progetto).
 
 ## Fare un passo indietro 
 
-Nel caso in cui si decida di fare un passo indietro ad un ruolo da contributor più basso, chi guida il progetto se ne prenderà carico.
+Nel caso in cui si decida di fare un passo indietro ad un ruolo di contribuzione più contenuto, chi guida il progetto se ne prenderà carico.
