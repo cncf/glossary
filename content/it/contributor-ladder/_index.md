@@ -14,7 +14,7 @@ Questo documento spiega i diversi **livelli nel percorso di contribuzione** (cio
 
 ## 1. Contributor
 
-Il Glossario è per tuttɜ, e tuttɜ possono diventare _Contributor_ del Glossario semplicemente contribuendo al progetto.
+Chiunque può diventare _Contributor_ del Glossario semplicemente contribuendo al progetto.
 Essere _Contributor_ significa anche aderire al [Codice di Condotta della CNCF](https://github.com/cncf/foundation/blob/main/code-of-conduct.md).
 
 Fra i molti modi con cui si può contribuire al progetto, vi sono: 
