@@ -1,5 +1,5 @@
 ---
-title: Déploiement Continu (CD)
+title: Déploiement Continu (Continuous Deployment)
 status: Completed
 category: concept
 tags: ["application", "méthodologie", ""]
@@ -18,7 +18,7 @@ et le processus CD déploie automatiquement les modifications de code dans les e
 
 La livraison de nouvelles versions de logiciels peut être un processus fastidieux et source d'erreurs.
 C'est aussi souvent quelque chose que les organisations ne voudront faire que rarement, pour éviter les incidents de production
-et réduire le temps durant lequel les ingénieurs doivent être disponibles en dehors des horaires de bureau.
+et réduire le temps durant lequel les ingénieurs doivent être disponibles en dehors des heures ouvrées.
 Les modèles traditionnels de déploiement de logiciels plongent les organisations dans un cercle vicieux,
 où le processus de livraison du logiciel ne parvient pas à répondre aux besoins de l'organisation, à la fois en termes de stabilité et de fréquence de livraison des fonctionnalités.
 
