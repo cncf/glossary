@@ -10,7 +10,7 @@ menu:
 Benvenuto! 👋 Grazie per il tuo interesse nel voler contribuire al progetto del Glossario Cloud Native CNCF Cloud Native Glossary. 
 Ci sono molti modi per diventare parte attiva di questa comunità: 
 puoi contribuire con nuovi termini, o localizzare il Glossario nella tua lingua madre, o ancora aiutare gli altri ad iniziare. 
-Questo documento spiega i diversi **livelli di _Contributor_** (cioè chi collabora al progetto), assieme alle responsabilità e i privilegi che ne conseguono.
+Questo documento spiega i diversi **livelli nel percorso di contribuzione** (cioè la progressione in termini di esperienza e ingaggio all'interno del gruppo delle persone che collaborano al progetto come _Contributor_, appunto), assieme a oneri e onori che ne conseguono. 
 
 ## 1. Contributor
 
