@@ -10,7 +10,7 @@ Una Platform as a Service, o PaaS, è una piattaforma esterna ai team di svilupp
 
 ## Quali problematiche affronta
 
-Per sfruttare i modelli nativi del cloud come i [microservizi](/it/microservices/) o le [applicazioni distribuite](/it/distributed-apps/), i team delle operation e gli sviluppatori devono essere in grado di esternalizzare una quantità significativa di operazioni e lavori di manutenzione. Questi includono attività come il provisioning dell'infrastruttura, la gestione dell'[individuazione dei servizi](/service-discovery/), il bilanciamento del carico e la [scalabilità](/it/scalability/) delle applicazioni.
+Per sfruttare i modelli nativi del cloud come i [microservizi](/it/microservices-architecture/) o le [applicazioni distribuite](/it/distributed-apps/), i team delle operation e gli sviluppatori devono essere in grado di esternalizzare una quantità significativa di operazioni e lavori di manutenzione. Questi includono attività come il provisioning dell'infrastruttura, la gestione dell'[individuazione dei servizi](/service-discovery/), il bilanciamento del carico e la [scalabilità](/it/scalability/) delle applicazioni.
 
 ## In che modo aiuta
 

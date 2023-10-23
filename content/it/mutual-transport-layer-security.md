@@ -14,7 +14,7 @@ che permette la validazione dell'identità di entrambi gli estremi della conness
 
 ## Quali problematiche affronta
 
-I [microservizi](/it/microservices/) comunicano tramite una rete e,
+I [microservizi](/it/microservices-architecture/) comunicano tramite una rete e,
 proprio come in una rete Wi-Fi domestica, le comunicazioni in transito su quella rete possono essere violate.
 Il mTLS assicura che nessun soggetto non autorizzato possa mettersi in ascolto o impersonare richieste legittime.
 
