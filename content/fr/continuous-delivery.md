@@ -1,5 +1,5 @@
 ---
-title: Livraison Continue (CD)
+title: Livraison Continue (Continuous Delivery)
 status: Completed
 category: concept
 tags: ["méthodologie", "application", ""]
