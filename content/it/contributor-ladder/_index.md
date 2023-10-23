@@ -117,7 +117,7 @@ Il processo è importante perché protegge la comunità e i suoi prodotti, al co
 
 ## Processo di ritiro/stato emerito
 
-Nel caso in cui il livello di impegno profuso da contributor dovesse cambiare, si può decidere di fare un passo indietro (scendendo ad un livello di Contributor più basso), 
+Nel caso in cui il livello di impegno profuso da chi contribuisce dovesse cambiare, la persona in questione può decidere di fare un passo indietro (sposandosi al livello precedente del Percorso di Contribuzione), 
 o di passare allo stato emerito (abbandonando completamente il progetto).
 
 ## Fare un passo indietro 
