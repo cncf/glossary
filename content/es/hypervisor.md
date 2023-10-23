@@ -7,10 +7,10 @@ tags: ["application", "", ""]
 
 ## ¿Qué es?
 
-Un hipervisor utiliza el concepto de [virtualización](/virtualization/)
+Un hipervisor utiliza el concepto de [virtualización](/es/virtualization/)
 aprovechando los recursos de la llamada [máquina bare metal](/es/bare-metal-machine/)
 (CPU, memoria, recursos de red, y almacenamiento), dividiéndolos en partes más pequeñas,
-y ubicando recursos suficientes para crear [máquinas virtuales](/virtual-machine/)
+y ubicando recursos suficientes para crear [máquinas virtuales](/es/virtual-machine/)
 hasta que el servidor base alcanza su límite de funcionamiento.
 
 ## Problema que aborda

@@ -20,6 +20,6 @@ Il funzionamento di un sistema di questo tipo diventa molto più semplice
 perché gli amministratori possono fare delle ipotesi su di esso. 
 Dopotutto, sanno che nessuno può aver commesso errori o apportato cambiamenti che si è dimenticato di comunicare. 
 L'infrastruttura immutabile va di pari passo con l'[infrastructure as code](/it/infrastructure-as-code/), 
-nella quale tutte le automazioni necessarie per la creazione dell'infrastruttura sono conservate in un [controllo di versione](/it/version-control/) (ad esempio, Git). 
+nella quale tutte le automazioni necessarie per la creazione dell'infrastruttura sono conservate in un controllo di versione (ad esempio, Git). 
 Questa combinazione di immutabilità e controllo di versione significa che 
 c'è un persistente registro dei log di ogni modifica autorizzata al sistema.
