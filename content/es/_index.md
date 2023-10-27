@@ -35,7 +35,7 @@ Para una lista de contribuidores completa, consulte [esta página de GitHub](htt
 
 Esta versión del glosario Cloud Native en español incluye contribuciones realizadas por
 [Victor Morales](https://www.linkedin.com/in/electrocucaracha/),
-[Rael Garcia Arnes](https://www.linkedin.com/in/rael/),
+[Mariano Gabriel González](https://www.linkedin.com/in/marianogg9/),
 [Carol Valencia](https://www.linkedin.com/in/carolgv/),
 [Nicolas Quiceno Benavides](https://www.linkedin.com/in/nquiceno/),
 [Rodolfo Martinez Vega](https://www.linkedin.com/in/rodomar/)
