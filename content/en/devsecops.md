@@ -14,12 +14,12 @@ Like DevOps, DevSecOps is a cultural shift, pushed by the technologies adopted, 
 
 ## Problem it addresses
 
-DevOps practices include [continuous integration](/continuous-integration/) and [continuous deployment](/continuous-delivery/) 
-and accelerate application development and release cycles. 
+DevOps practices include [continuous integration](/continuous-integration/), [continuous delivery](/continuous-delivery/),
+and [continuous deployment](/continuous-deployment/) and accelerate application development and release cycles. 
 Unfortunately, automated release processes that fail to represent 
 all organizational stakeholders adequately can exacerbate existing issues. 
 A process that rapidly releases new software without considering security needs 
-can degrade an organizations’ security posture.
+can degrade an organization's security posture.
 
 ## How it helps
 

@@ -5,8 +5,10 @@ status: Completed
 
 # Cloud Native Glossary
 
-The Cloud Native Glossary is a project led by the CNCF Business Value Subcommittee (BVS). 
-Its goal is to explain cloud native concepts in clear and simple language without requiring any previous technical knowledge.
+The Cloud Native Glossary aims to make the cloud native space — which is notorious for its complexity — simpler for people by making it easier to understand, 
+not only for technologists but also for people on the business side. 
+To achieve that, we focus on simplicity (e.g., simple language free from buzzwords, examples anyone using technology can relate to, leaving unnecessary details out). 
+The Glossary is a project led by the CNCF Business Value Subcommittee (BVS). 
 
 <p><img class="mt-3" src="/images/homepage/kubecon.jpg" alt="People watching a Kubecon presentation"></p>
 
@@ -17,8 +19,8 @@ We employ a community-driven process governed by the CNCF to develop and improve
 This Glossary provides a vendor-neutral platform to organize a shared vocabulary around cloud native technologies. 
 Contributions are welcome from all participants who abide by the project's purpose and charter.
 
-Anyone who wishes to make a contribution may submit a GitHub issue or create a pull request. 
-Please ensure you follow the [Style Guide](/style-guide/), read the [How To Contribute](/contribute/) doc, and join the [#glossary](https://cloud-native.slack.com/archives/C02TX20MQBB) channel on the CNCF Slack.
+Anyone wishing to contribute may submit a GitHub issue or create a pull request.
+Please ensure you follow the [Style Guide](/style-guide/), read the [How To Contribute](/contribute/) doc, join the [CNCF Slack](https://communityinviter.com/apps/cloud-native/cncf) workspace, and join the [#glossary](https://cloud-native.slack.com/archives/C02TX20MQBB) channel.
 There is also a [#glossary-localizations](https://cloud-native.slack.com/archives/C02N2RGFXDF) channel for those who want to help translate the glossary into their native language.
 
 ## Acknowledgements
@@ -34,11 +36,16 @@ and many more contributors.
 For a complete contributor list, please refer to [this GitHub page](https://github.com/cncf/glossary/graphs/contributors).
 
 The Glossary is maintained by 
-[Catherine Paganini](https://www.linkedin.com/in/catherinepaganini/en/), 
-[Jason Morgan](https://www.linkedin.com/in/jasonmorgan2/), 
-[Jihoon Seo](https://www.linkedin.com/in/jihoon-seo/), 
+[Seokho Son](https://www.linkedin.com/in/seokho-son/),
 [Noah Ispas](https://www.linkedin.com/in/noah-ispas-0665b42a/), 
-and [Seokho Son](https://www.linkedin.com/in/seokho-son/).
+[Jihoon Seo](https://www.linkedin.com/in/jihoon-seo/),
+[Nate W.](https://www.linkedin.com/in/nate-double-u/),
+and [Jorge Castro](https://www.linkedin.com/in/jorge-castro2112/).
+
+[Catherine Paganini](https://www.linkedin.com/in/catherinepaganini/en/),
+and [Jason Morgan](https://www.linkedin.com/in/jasonmorgan2/)
+are Emeritus Maintainers, and we are deeply grateful
+for their invaluable contributions over the years.
 
 ## License
 
