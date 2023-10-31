@@ -15,8 +15,8 @@ Organizations utilize RBAC to provide their employees with varying levels of acc
 
 RBAC addresses the challenge of controlling the resources team members and applications can access, 
 as well as the actions they can perform, especially as the number of applications and team members increases. 
-Administrators must ensure that each user has the correct permissions for the resources they need to access, 
-a task that can become cumbersome and error-prone without a structured access control mechanism.
+Administrators must ensure that each user has the correct permissions for the resources they need to access.
+This task can become cumbersome and error-prone without a structured access control mechanism.
 
 
 ## How it helps
