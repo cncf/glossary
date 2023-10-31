@@ -149,6 +149,14 @@ weight = 11
 [languages.fr.params]
 description = "Le projet de Glossaire CNCF Cloud Native a pour objectif de référencer les termes courants utilisés dans les différentes applications Cloud Natives."
 
+[languages.th]
+title = "อภิธานศัพท์ Cloud Native"
+languageName ="ไทย (Thai)"
+contentDir = "content/th"
+weight = 12
+[languages.th.params]
+description = "โครงการอภิธานศัพท์ CNCF Cloud Native มีวัตถุประสงค์เพื่อใช้เป็นข้อมูลอ้างอิงสำหรับคำศัพท์ทั่วไปที่ใช้เมื่อพูดถึง cloud native applications."
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]

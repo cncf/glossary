@@ -1,0 +1,87 @@
+
+
+# UI strings. Buttons and similar.
+
+[ui_pager_prev]
+other = "ย้อนกลับ"
+
+[ui_pager_next]
+other = "ถัดไป"
+
+[ui_read_more]
+other = "อ่านเพิ่มเติม"
+
+[ui_search]
+other = "ค้นหาทั้งไซต์…"
+
+# Used in sentences such as "Posted in News"
+[ui_in]
+other = "ใน"
+
+# Phrases for tags
+[ui_see_all_tags]
+other = "ดู tags ทั้งหมด"
+[ui_tag]
+other = "Tag"
+[ui_tags]
+other = "Tags"
+[ui_search_by_tags]
+other = "เรียกดูจาก tags"
+[ui_tags_intro]
+other = "เราได้มีการจัดประเภทของคำศัพท์ให้สามารถเรียกดูได้โดยการใช้ตัวกรองด้วย tag"
+[ui_or_search_by_tags]
+other = "...หรือเรียกดูจาก tag"
+[ui_select_all]
+other = "เลือกทั้งหมด"
+[ui_deselect_all]
+other = "ยกเลิกการเลือก"
+
+# Footer text
+[footer_all_rights_reserved]
+other = "สงวนลิขสิทธิ์"
+
+[footer_privacy_policy]
+other = "นโยบายความเป็นส่วนตัว"
+
+[footer_hub_button_text]
+other = "ไซต์ของ CNCF ทั้งหมด"
+
+# Post (blog, articles etc.)
+[post_byline_by]
+other = "โดย"
+[post_created]
+other = "Created"
+[post_last_mod]
+other = "แก้ไขล่าสุดเมื่อ"
+[post_edit_this]
+other = "แก้ไขหน้านี้"
+[post_create_child_page]
+other = "สร้างเพจลูก"
+[post_create_issue]
+other = "แจ้งปัญหา"
+[post_create_project_issue]
+other = "Create project issue"
+[post_posts_in]
+other = "Posts in"
+[post_reading_time]
+other = "minute read"
+
+# Print support
+[print_printable_section]
+other = "This the multi-page printable view of this section."
+[print_click_to_print]
+other = "Click here to print"
+[print_show_regular]
+other = "Return to the regular view of this page"
+[print_entire_section]
+other = "Print entire section"
+
+# Feedback section
+[feedback_title]
+other = "ข้อเสนอแนะ"
+[feedback_question]
+other = "หน้านี้มีประโชน์หรือไม่?"
+[feedback_answer_yes]
+other = "มี"
+[feedback_answer_no]
+other = "ไม่มี"
