@@ -7,22 +7,19 @@ tags: ["securité", "fondamental", ""]
 
 ## Ce que c'est
 
-Le contrôle d'accès basé sur les rôles (RBAC) est une méthode visant à réguler l'accès aux systèmes et aux ressources en fonction des rôles attribués aux utilisateurs au sein d'une organisation. 
-Chaque métier a un rôle spécifique assorti d'autorisations particulières. Par exemple, un membre de l'équipe marketing peut avoir la permission de consulter les ventes en cours (autorisation de lecture), 
-mais ne sera pas autorisé à les modifier (autorisation d'écriture). 
-Les équipes de vente et de marketing possèdent des autorisations différentes selon leurs rôles respectifs, d'où le terme "contrôle d'accès basé sur les rôles". 
-Cette logique s'applique également aux rôles au sein des équipes d'ingénierie.
+Le contrôle d'accès basé sur les rôles (RBAC) est une méthode de sécurité permettant de gérer l'accès des utilisateurs aux systèmes, réseaux ou ressources en fonction de leur rôle au sein d'une équipe ou d'une organisation. 
+Le RBAC donne aux administrateurs informatiques la possibilité d'identifier le niveau d'accès nécessaire pour tous les utilisateurs occupant une fonction spécifique, et de leur attribuer un rôle avec un ensemble prédéfini d'autorisations. 
+Les organisations utilisent le RBAC pour offrir à leurs employés des niveaux d'accès adaptés à leurs rôles et responsabilités.
 
 ## Problème auquel il répond
 
-La gestion individuelle des autorisations d'accès pour de multiples utilisateurs, à diverses ressources système et données, peut être complexe. 
-Chaque utilisateur nécessite généralement l'accès à un ensemble de ressources spécifique. 
-Supposons qu'une organisation compte 500 développeurs (utilisateurs) et 300 ressources avec différents niveaux d'autorisation (lecture, écriture et absence d'accès). 
-L'administrateur doit s'assurer que chaque utilisateur dispose des autorisations adéquates pour les 300 ressources.
-Le RBAC simplifie le processus en offrant un contrôle d'accès préétabli basé sur des groupes de rôles.
+Le RBAC répond au défi de contrôler les ressources auxquelles les membres de l'équipe et les applications peuvent accéder, ainsi que les actions qu'ils sont autorisés à effectuer, en particulier lorsque le nombre d'applications et de membres d'équipe augmente. 
+Les administrateurs doivent veiller à ce que chaque utilisateur dispose des autorisations adéquates pour accéder aux ressources nécessaires. 
+Cette tâche peut devenir fastidieuse et sujette aux erreurs en l'absence d'un mécanisme structuré de gestion des accès.
 
 ## Quel en est l'utilité
 
-Le RBAC confère un contrôle granulaire sur les autorisations des utilisateurs au sein des systèmes logiciels. 
-En fonction de leurs rôles, les membres de l'équipe peuvent soit modifier une section, simplement la consulter, ou bien s'en voir totalement interdire l'accès. 
-Cette attribution précise des autorisations permet à des membres d'équipes ayant des rôles différents de travailler sur le même système tout en minimisant les risques.
+Le RBAC offre aux équipes informatiques la possibilité de gérer aisément les autorisations de tous les utilisateurs d'un groupe simultanément, ou d'apporter rapidement des ajustements au niveau d'accès d'un utilisateur individuel en lui attribuant ou en supprimant un rôle. 
+Cette approche garantit la sécurité des données sensibles et veille à ce que les employés n'aient accès qu'aux informations nécessaires à l'exécution de leurs tâches professionnelles. 
+Dans l'ensemble, le RBAC améliore la gestion des accès, renforce la sécurité et accroît l'efficacité opérationnelle au sein des organisations.
+
