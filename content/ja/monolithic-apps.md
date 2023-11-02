@@ -1,6 +1,6 @@
 ---
 title: モノリシックアプリケーション
-status: Feedback Appreciated
+status: Completed
 category: コンセプト
 tags: ["アーキテクチャ", "基礎"]
 ---
