@@ -227,6 +227,9 @@ collaborators:
   - username: kirkonru
     permission: push
 
+  - username: tym83
+    permission: push
+
 branches:
 
   # Default branch of this repository for configurations and English contents
@@ -529,6 +532,7 @@ branches:
         users:
          - shurup
          - kirkonru
+         - tym83
         teams: []
       enforce_admins: null
       required_linear_history: null

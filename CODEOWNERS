@@ -59,8 +59,8 @@
 /i18n/pt-br.toml @edsoncelio @brunoguidone @jessicalins @MrErlison
 
 # Approvers for Russian contents
-/content/ru/ @shurup @kirkonru
-/i18n/ru.toml @shurup @kirkonru
+/content/ru/ @shurup @kirkonru @tym83
+/i18n/ru.toml @shurup @kirkonru @tym83
 
 # Approvers for Turkish contents
 /content/tr/ @aliok @halil-bugol @developer-guy @eminalemdar
