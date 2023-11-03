@@ -149,6 +149,14 @@ weight = 11
 [languages.fr.params]
 description = "Le projet de Glossaire CNCF Cloud Native a pour objectif de référencer les termes courants utilisés dans les différentes applications Cloud Natives."
 
+[languages.zh-tw]
+title = "Cloud Native(雲端原生) Glossary"
+languageName ="繁體中文 (Traditional Chinese)"
+contentDir = "content/zh-tw"
+weight = 12
+[languages.zh-tw.params]
+description = "CNCF 雲端原生 Glossary 專案旨在用作討論雲端原生應用程式時常用術語的參考"
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
