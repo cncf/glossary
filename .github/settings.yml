@@ -73,13 +73,19 @@ collaborators:
   - username: Garima-Negi
     permission: push
 
-  - username: sayantani11
-    permission: push
-
-  - username: anubha-v-ardhan
-    permission: push
-
   - username: jayesh-srivastava
+    permission: push
+
+  - username: abhay-raj19
+    permission: push
+
+  - username: aj11anuj
+    permission: push
+
+  - username: kumarankit999
+    permission: push
+
+  - username: bishal7679
     permission: push
 
   # l10n de approvers
@@ -304,9 +310,11 @@ branches:
         # hi approvers
         users:
          - Garima-Negi
-         - sayantani11
-         - anubha-v-ardhan
          - jayesh-srivastava
+         - abhay-raj19
+         - aj11anuj
+         - kumarankit999
+         - bishal7679
         teams: []
       enforce_admins: null
       required_linear_history: null
