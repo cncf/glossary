@@ -1,6 +1,6 @@
 ---
 title: जीरो ट्रस्ट आर्किटेक्चर (Zero Trust Architecture)
-status: पूर्ण
+status: completed
 category: concept
 tags: ["सुरक्षा", "", ""]
 ---
