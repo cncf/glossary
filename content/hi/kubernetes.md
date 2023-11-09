@@ -1,6 +1,6 @@
 ---
 title: कुबेरनेट्स (Kubernetes)
-status: पूर्ण
+status: Completed
 category: प्रौद्योगिकी
 tags: ["बुनियादी ढांचा", "मौलिक", ""]
 ---
