@@ -20,21 +20,21 @@ other = "में"
 
 # Phrases for tags
 [ui_see_all_tags]
-other = "देखना सभी टैग"
+other = "सभी टैग को देख़े"
 [ui_tag]
 other = "टैग"
 [ui_tags]
-other = "टैग"
+other = "टैग्स"
 [ui_search_by_tags]
-other = "ब्राउज़ द्वारा टैग"
+other = "टैग द्वारा ब्राउज करें"
 [ui_tags_intro]
-other = "हमने शब्दावली शब्दों को वर्गीकृत किया है. टैग द्वारा शब्दों को ब्राउज़ करने के लिए फ़िल्टर का उपयोग करें."
+other = "हमने शब्दावली के शब्दों को वर्गीकृत किया है। टैग द्वारा शब्दों को ब्राउज़ करने के लिए फ़िल्टर का उपयोग करें।"
 [ui_or_search_by_tags]
-other = "...या ब्राउज़ द्वारा टैग"
+other = "...या टैग द्वारा ब्राउज़ करें"
 [ui_select_all]
-other = "सबका चुनाव करना"
+other = "सबका चुनाव करें"
 [ui_deselect_all]
-other = "सबका चुनाव रद्द करें"
+other = "सारे चुनाव रद्द करें"
 
 # Footer text
 [footer_all_rights_reserved]
