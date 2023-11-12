@@ -1,7 +1,8 @@
 ---
-title: ऑब्जर्वेबिलिटी(Observability)
+title: ऑब्जर्वेबिलिटी (Observability)
 status: Completed
 category: संकल्पना
+tags: ["property", "", ""]
 ---
 
 ## यह क्या है
