@@ -1,5 +1,5 @@
 ---
-title: कंटेनर आर्केस्ट्रा
+title: कंटेनर ऑर्केस्ट्रेशन (Container Orchestration)
 status: Completed
 category: संकल्पना
 ---
