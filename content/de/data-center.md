@@ -1,7 +1,7 @@
 ---
 title: Rechenzentrum
-status: Abgeschlossen
-category: Technology
+status: Completed
+Kategorie: Technologie
 tags: ["Infrastruktur", "grundlegend", ""]
 ---
 
