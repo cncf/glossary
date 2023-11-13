@@ -2,7 +2,7 @@
 title: コンテナ
 status: Completed
 category: テクノロジー
-tags: ["アプリケーション"、"基本"、""]
+tags: ["アプリケーション","基本",""]
 ---
 
 ## それは何ですか
