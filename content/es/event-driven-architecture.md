@@ -14,7 +14,7 @@ Esta arquitectura crea la estructura en la cual los eventos pueden ser enviados 
 
 ## Problema que aborda
 
-Mientras más datos son convertidos en tiempo real, encontrar maneras fiables de asegurar que los eventos son capturados y dirigidos al [servicio](/service/) apropiado para procesar solicitudes de eventos se hace más difícil.
+Mientras más datos son convertidos en tiempo real, encontrar maneras fiables de asegurar que los eventos son capturados y dirigidos al [servicio](/es/service/) apropiado para procesar solicitudes de eventos se hace más difícil.
 Los métodos tradicionales para manejar eventos comúnmente no tienen una manera de garantizar que los eventos son dirigidos apropiadamente o que realmente fueron enviados o recibidos.
 Mientras las aplicaciones comienzan a escalar, se hace más desafiante orquestar eventos.
 

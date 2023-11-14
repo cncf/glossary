@@ -1,6 +1,6 @@
 ---
 title: Debugging
-status: Completed
+status: Deprecated
 category: concetto
 tags: ["applicazione", "", ""]
 ---

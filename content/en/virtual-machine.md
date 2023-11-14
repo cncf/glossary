@@ -15,7 +15,6 @@ easily create and destroy VMs without impacting the underlying hardware.
 
 ## Problem it addresses
 
-Virtual machines take advantage of virtualization. 
 When a [bare metal](/bare-metal-machine/) machine is bound to a single operating system, 
 how well the machine's resources can be used is somewhat limited. 
 Also, when an operating system is bound to a single physical machine, 

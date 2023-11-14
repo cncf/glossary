@@ -1,0 +1,87 @@
+
+
+# UI strings. Buttons and similar.
+
+[ui_pager_prev]
+other = "上一頁"
+
+[ui_pager_next]
+other = "下一頁"
+
+[ui_read_more]
+other = "閱讀更多"
+
+[ui_search]
+other = "搜尋本站..."
+
+# Used in sentences such as "Posted in News"
+[ui_in]
+other = "於"
+
+# Phrases for tags
+[ui_see_all_tags]
+other = "查看所有標籤"
+[ui_tag]
+other = "標籤"
+[ui_tags]
+other = "標籤"
+[ui_search_by_tags]
+other = "按標籤瀏覽"
+[ui_tags_intro]
+other = "我們已經將詞彙分類。使用篩選器按標籤瀏覽詞彙。"
+[ui_or_search_by_tags]
+other = "...或按標籤瀏覽"
+[ui_select_all]
+other = "全選"
+[ui_deselect_all]
+other = "全不選"
+
+# Footer text
+[footer_all_rights_reserved]
+other = "版權所有"
+
+[footer_privacy_policy]
+other = "隱私政策"
+
+[footer_hub_button_text]
+other = "所有 CNCF 網站"
+
+# Post (blog, articles etc.)
+[post_byline_by]
+other = "作者："
+[post_created]
+other = "建立於"
+[post_last_mod]
+other = "最後編輯"
+[post_edit_this]
+other = "編輯此頁面"
+[post_create_child_page]
+other = "建立子頁面"
+[post_create_issue]
+other = "建立文件問題"
+[post_create_project_issue]
+other = "建立專案問題"
+[post_posts_in]
+other = "發佈於"
+[post_reading_time]
+other = "分鐘閱讀"
+
+# Print support
+[print_printable_section]
+other = "這是這個部分的多頁列印檢視。"
+[print_click_to_print]
+other = "點擊這裡列印"
+[print_show_regular]
+other = "返回此頁面的常規檢視"
+[print_entire_section]
+other = "列印整個部分"
+
+# Feedback section
+[feedback_title]
+other = "回饋"
+[feedback_question]
+other = "這個頁面對您有幫助嗎？"
+[feedback_answer_yes]
+other = "是"
+[feedback_answer_no]
+other = "否"

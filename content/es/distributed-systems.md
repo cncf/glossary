@@ -9,7 +9,7 @@ tags: ["architecture", "", ""]
 
 Un sistema distribuido es una colección de elementos computacionales autónomos
 conectados entre sí a través de una red que se muestra a los usuarios como un sistema único coherente. 
-Conocidos generalmente como [nodos](/es/nodes/), estos elementos pueden ser dispositivos de hardware (por ejemplo, computadoras o teléfonos móviles) o procesos de software. 
+Conocidos generalmente como [nodos](/es/nodes/), estos elementos pueden ser dispositivos de hardware (por ejemplo, computadoras o teléfonos móviles) o procesos de software.
 Los nodos están programados para lograr un objetivo común e intercambian mensajes a través de la red para poder colaborar. 
 
 ## Problema que aborda
@@ -25,7 +25,7 @@ El escalamiento vertical consume mucho tiempo, requiere de un periodo de inactiv
 
 ## ¿Cómo ayuda?
 
-Los sistemas distribuidos permiten el [escalamiento horizontal](/horizontal-scaling/) (por ejemplo, añadir más nodos al sistema siempre que éste lo requiera). 
+Los sistemas distribuidos permiten el [escalamiento horizontal](/es/horizontal-scaling/) (por ejemplo, añadir más nodos al sistema siempre que éste lo requiera).
 Este proceso se puede automatizar, lo que permite al sistema manejar un incremento repentino de la carga de trabajo o del consumo de recursos.
 
 Un sistema no distribuido está expuesto a los riesgos de falla porque cuando una máquina deja de funcionar, todo el sistema falla. 
