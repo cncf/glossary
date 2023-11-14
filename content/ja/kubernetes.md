@@ -32,4 +32,4 @@ Kubernetes は [API](/application-programming-interface/) を介して拡張で�
 Kubernetes は [自己修復](/self-healing/) も行います。
 クラスターの実際の状態は、オペレーターの望ましい状態と常に一致します。
 Kubernetes がマニフェスト ファイルに記述されている内容からの逸脱を検出した場合、Kubernetes コントローラーが起動して修正します。
-Kubernetes が使用するインフラストラクチャは継続的に変化する可能性がありますが、Kubernetes は常に自動的に変化に適応し、望ましい状態と一致するようにします。
+Kubernetes が使用するインフラストラクチャは継続的に変化する可能性がありますが、Kubernetes は常に自動的に変化に適応し、望ましい状態と一致するようにします
