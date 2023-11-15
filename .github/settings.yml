@@ -220,7 +220,7 @@ collaborators:
   - username: halil-bugol
     permission: push
 
-  - username: developer-guy
+  - username: rwxdash
     permission: push
 
   - username: eminalemdar
@@ -521,7 +521,7 @@ branches:
         users:
          - aliok
          - halil-bugol
-         - developer-guy
+         - rwxdash
          - eminalemdar
         teams: []
       enforce_admins: null
