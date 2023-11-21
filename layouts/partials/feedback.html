@@ -38,7 +38,7 @@
     if (typeof gtag !== 'function') return;
     gtag('event', 'page_helpful', {
       'event_category': 'Helpful',
-      'event_label': window.location.pathname,
+      'event_label': window.location.href,
       'value': value
     });
   };
