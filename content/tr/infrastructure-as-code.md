@@ -9,7 +9,7 @@ tags: ["infrastructure", "methodology", ""]
 
 Kod olarak altyapı _(Infrastructure as Code - IaC)_, altyapı tanımının bir veya daha fazla dosya olarak saklanması uygulamasıdır.
 Bu, servis olarak altyapının _(Infrastructure as a Service - IaaS)_ genellikle
-hell betiği veya diğer yapılandırma araçları aracılığıyla manuel olarak sağlandığı geleneksel modelin yerini alır.
+bir shell script veya diğer yapılandırma araçları aracılığıyla manuel olarak oluşturulduğu geleneksel modelin yerini alır.
 
 ## Hangi Sorunları Çözer
 
