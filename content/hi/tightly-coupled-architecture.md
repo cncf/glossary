@@ -1,7 +1,7 @@
 ---
 title: साइट विश्वसनीयता इंजीनियरिंग (Tightly Coupled Architecture)
 status: Completed
-category: ["मौलिक", "वास्तुकला", "संपत्ति"]
+category: वास्तुकला
 ---
 
 
