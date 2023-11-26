@@ -23,5 +23,5 @@ Manuel altyapı değişiklikleri tekrarlanamaz, hızla ölçek sınırlarına ul
 
 Sunucular, yük dengeleyiciler ve alt ağlar gibi veri merkezi kaynaklarının kod olarak temsil edilmesi,
 altyapı ekiplerinin tüm yapılandırmalar için tek bir doğruluk kaynağına sahip olmalarını sağlar
-ve aynı zamanda sürüm kontrolü ve dağıtım stratejilerini uygulayarak veri merkezlerini
+ve aynı zamanda versiyon kontrolü ve dağıtım stratejilerini uygulayarak veri merkezlerini
 bir CI/CD hattında yönetmelerine olanak tanır.
