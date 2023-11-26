@@ -16,7 +16,7 @@ bir shell script veya diğer yapılandırma araçları aracılığıyla manuel o
 Uygulamaları bulut tabanlı bir şekilde geliştirmek, altyapının tek kullanımlık ve tekrarlanabilir olmasını gerektirir.
 Ayrıca bu uygulamaların insan müdahalesine gerek kalmadan, ihtiyaca bağlı olarak otomatik
 ve tekrarlanabilir bir şekilde ölçeklendirilmesi gerekir.
-Manuel provizyon, bulut tabanlı uygulamaların yanıt verme ve ölçeklendirme gereksinimlerini karşılayamaz.
+Altyapı kaynaklarının manuel olarak oluşturulması, bulut tabanlı uygulamaların yanıt verme ve ölçeklendirme gereksinimlerini karşılayamaz.
 Manuel altyapı değişiklikleri tekrarlanamaz, hızla ölçek sınırlarına ulaşır ve yanlış yapılandırma hatalarına neden olur.
 
 ## Nasıl Yardımcı Olur
