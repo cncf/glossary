@@ -2,7 +2,7 @@
 title: क्लाउड नेटिव ऐप्स (Cloud Native Apps)
 status: Completed
 category: अवधारणा
-tags: ["आवेदन", "मौलिक", ""]
+tags: ["application", "fundamental"]
 ---
 
 ## यह क्या है
