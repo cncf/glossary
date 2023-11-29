@@ -22,3 +22,4 @@ el manejo del [descubrimiento de servicios](/es/service-discovery/) y balanceo d
 Una solución PaaS ofrece herramientas de infraestructura comunes, a los desarrolladores de aplicaciones de forma totalmente automatizada.
 Permite que los desarrolladores puedan comprender y preocuparse menos por la infraestructura y así dedicar mas tiempo en escribir código de la aplicación.
 También proporciona cierta supervisión y [observabilidad](/es/observability/) para ayudar a los equipos de aplicaciones a garantizar que sus aplicaciones estén en buen estado.
+
