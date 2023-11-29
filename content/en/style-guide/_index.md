@@ -48,7 +48,6 @@ status:
 category: 
 ---
 
-## What it is
 
 A quick summary of the technology or concept.
 
@@ -80,7 +79,7 @@ Valid values are:
 - Feedback Appreciated 
 - Not Started
 
-You can always open an issue against a completed definition. While a definition is in flux, its status will be changed to *Feedback Appreciated*.
+You can always open an issue against a completed definition. While a definition is in flux, its status will be changed to *Feedback Appreciated*. Note that we should not localize the valid status values.
 
 ```md
 ---

@@ -5,7 +5,6 @@ category: concept
 tags: ["methodology", "application", ""]
 ---
 
-## What it is
 
 Blue-green deployment is a strategy for updating running computer systems with minimal downtime. 
 The operator maintains two environments, dubbed “blue” and “green”. 

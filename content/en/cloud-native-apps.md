@@ -5,7 +5,6 @@ category: concept
 tags: ["application", "fundamental", ""]
 ---
 
-## What it is
 
 Cloud native applications are specifically designed to take advantage of innovations in [cloud computing](/cloud-computing/). 
 These applications integrate easily with their respective cloud architectures, 

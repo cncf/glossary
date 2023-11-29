@@ -5,7 +5,6 @@ category: concept
 tags: ["architecture", "fundamental", ""]
 ---
 
-## What it is
 
 A monolithic application contains all functionality in a single deployable program. 
 This is often the simplest and easiest place to start when making an application. 

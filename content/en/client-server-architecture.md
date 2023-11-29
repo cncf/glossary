@@ -5,7 +5,6 @@ category: concept
 tags: ["architecture", "fundamental", ""]
 ---
 
-## What it is
 
 In a client-server architecture, the logic (or code) that makes up an application is split between two or more components: 
 a client that asks for work to be done 

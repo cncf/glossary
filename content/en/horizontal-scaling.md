@@ -5,7 +5,6 @@ category: Concept
 tags: ["infrastructure", "", ""]
 ---
 
-## What it is
 
 Horizontal scaling is a technique where a system's capacity is increased by adding more [nodes](/nodes/) 
 versus adding more compute resources to individual nodes (the latter being known as [vertical scaling](/vertical-scaling/)). 

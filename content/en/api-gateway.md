@@ -5,7 +5,6 @@ category: technology
 tags: ["networking", "", ""]
 ---
 
-## What it is
 
 An [API](/application-programming-interface/) gateway is a tool that 
 aggregates unique application APIs, making them all available in one place. 

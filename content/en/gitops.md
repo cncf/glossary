@@ -5,7 +5,6 @@ category: Concept
 tags: ["methodology", "", ""]
 ---
 
-## What it is
 
 GitOps is a set of best practices based on [shared principles](https://opengitops.dev/), 
 applied to a workflow that depends on software agents that 
