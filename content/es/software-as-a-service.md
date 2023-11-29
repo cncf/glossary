@@ -3,7 +3,7 @@ Title: Software como Servicio (SaaS)
 Status: Deprecated
 Category: Tecnología
 draft: true
-tags: ["fundamental", "platform", ""]
+tags: ["fundamental", "plataforma", ""]
 ---
 
 ## ¿Qué es?

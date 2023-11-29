@@ -2,7 +2,7 @@
 title: Arquitectura de Confianza Cero
 status: Completed
 category: Concepto
-tags: ["security", "", ""]
+tags: ["seguridad", "", ""]
 ---
 
 ## ¿Qué es?

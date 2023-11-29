@@ -2,7 +2,7 @@
 title: DevSecOps 
 status: Completed
 category: Concepto
-tags: ["methodology", "security", ""]
+tags: ["metodología", "seguridad", ""]
 ---
 
 ## ¿Qué es?

@@ -2,7 +2,7 @@
 title: Portabilidad
 status: Completed
 category: Propiedad
-tags: ["fundamental", "property", ""]
+tags: ["fundamental", "propiedad", ""]
 ---
 
 La portabilidad es una característica del software, siendo una forma de reutilización que ayuda a evitar el "bloqueo" de ciertos entornos operativos,

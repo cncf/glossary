@@ -2,7 +2,7 @@
 title: Contenedores
 status: Completed
 category: Tecnología
-tags: ["application", "fundamental", ""]
+tags: ["aplicación", "fundamental", ""]
 ---
 
 ## ¿Qué es?

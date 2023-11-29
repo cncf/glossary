@@ -2,7 +2,7 @@
 title: Escalado Vertical
 status: Completed
 category: Concepto
-tags: ["infrastructure", "", ""]
+tags: ["infraestructura", "", ""]
 ---
 
 ## ¿Qué es?

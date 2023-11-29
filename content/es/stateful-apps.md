@@ -2,7 +2,7 @@
 title: Aplicaciones con estado
 status: Completed
 category: Concepto
-tags: ["fundamental", "application", ""]
+tags: ["fundamental", "aplicación", ""]
 ---
 
 ## ¿Qué es?

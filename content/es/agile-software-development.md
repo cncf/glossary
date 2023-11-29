@@ -2,7 +2,7 @@
 title: Desarrollo ágil de software
 status: Completed
 category: Concepto
-tags: ["methodology", "", ""]
+tags: ["metodología", "", ""]
 ---
 
 ## ¿Qué es?

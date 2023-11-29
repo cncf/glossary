@@ -2,7 +2,7 @@
 title: Seguridad Nativa para la Nube
 status: Completed
 category: Concepto
-tags: ["security", "", ""]
+tags: ["seguridad", "", ""]
 ---
 
 ## ¿Qué es?

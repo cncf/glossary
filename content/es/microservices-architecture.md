@@ -1,7 +1,7 @@
 ---
 title: Arquitectura de Microservicios
 status: Completed
-tags: ["architecture", "fundamental", ""]
+tags: ["arquitectura", "fundamental", ""]
 ---
 
 ## ¿Qué es?

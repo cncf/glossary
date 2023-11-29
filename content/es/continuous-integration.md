@@ -2,7 +2,7 @@
 title: Integración Continua (CI)
 status: Completed 
 category: Concepto
-tags: ["application", "methodology", ""]
+tags: ["aplicación", "metodología", ""]
 ---
 
 ## ¿Qué es?

@@ -2,7 +2,7 @@
 title: Sistema Distribuido
 status: Completed
 category: Concepto
-tags: ["architecture", "", ""]
+tags: ["arquitectura", "", ""]
 ---
 
 ## ¿Qué es?

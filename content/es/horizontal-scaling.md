@@ -2,7 +2,7 @@
 title: Escalado horizontal
 status: Completed
 category: Concepto
-tags: ["infrastructure", "", ""]
+tags: ["infraestructura", "", ""]
 ---
 
 ## ¿Qué es?

@@ -2,7 +2,7 @@
 title: Aplicaciones sin estado
 status: Feedback Appreciated
 category: Tecnología
-tags: ["fundamental", "application", ""]
+tags: ["fundamental", "aplicación", ""]
 ---
 
 ## ¿Qué es?

@@ -3,7 +3,7 @@ title: Contenedores como Servicio
 status: Deprecated
 category: Tecnología
 draft: true
-tags: ["platform", "", ""]
+tags: ["plataforma", "", ""]
 ---
 
 ## ¿Qué es? 

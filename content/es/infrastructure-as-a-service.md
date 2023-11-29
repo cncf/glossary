@@ -2,7 +2,7 @@
 title: Infraestructura como Servicio (IaaS)
 status: Completed
 category: Tecnología
-tags: ["infrastructure", "", ""]
+tags: ["infraestructura", "", ""]
 ---
 
 ## ¿Qué es?

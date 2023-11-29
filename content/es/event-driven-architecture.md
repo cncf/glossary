@@ -2,7 +2,7 @@
 title: Arquitectura Basada en Eventos
 status: Completed
 category: Concepto
-tags: ["architecture", "", ""]
+tags: ["arquitectura", "", ""]
 ---
 
 ## ¿Qué es?

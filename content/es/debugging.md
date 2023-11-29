@@ -2,7 +2,7 @@
 title: Depuración
 status: Completed
 category: concepto
-tags: ["application", "methodology", ""]
+tags: ["aplicación", "metodología", ""]
 ---
 
 ## ¿Qué es?

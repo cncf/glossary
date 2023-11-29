@@ -2,7 +2,7 @@
 title: Aplicaciones Distribuidas
 status: Completed
 category: Concepto
-tags: ["architecture", "", ""]
+tags: ["arquitectura", "", ""]
 ---
 
 ## ¿Qué es?

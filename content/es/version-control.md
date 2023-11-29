@@ -3,7 +3,7 @@ title: Control de versiones
 status: Deprecated
 category: Tecnología
 draft: true
-tags: ["methodology", "", ""]
+tags: ["metodología", "", ""]
 ---
 
 ## ¿Qué es?

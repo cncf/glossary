@@ -2,7 +2,7 @@
 title: Certificado Digital
 status: Feedback Appreciated
 category: Tecnología
-tags: ["security", "", ""]
+tags: ["seguridad", "", ""]
 ---
 
 ## ¿Qué es?

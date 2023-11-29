@@ -2,7 +2,7 @@
 title: Despliegue Blue Green
 status: Completed
 category: Concepto
-tags: ["methodology", "application", ""]
+tags: ["metodología", "aplicación", ""]
 ---
 
 ## ¿Qué es?

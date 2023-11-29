@@ -99,14 +99,14 @@ Exceptuando "fundamental", que simplemente indica que el término referido es vi
 
 Las etiquetas existentes son:
 
-- application
-- architecture
+- aplicación
+- arquitectura
 - fundamental
-- infrastructure
-- methodology
-- networking
-- property
-- security
+- infraestructura
+- metodología
+- redes
+- propiedad
+- seguridad
 
 ```md
 ---

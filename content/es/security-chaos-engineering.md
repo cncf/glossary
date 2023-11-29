@@ -2,7 +2,7 @@
 title: Seguridad en Ingeniería del Caos
 status: Completed
 category: Concepto
-tags: ["security", "methodology", ""]
+tags: ["seguridad", "metodología", ""]
 ---
 
 ## ¿Qué es?

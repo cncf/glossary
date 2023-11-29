@@ -2,7 +2,7 @@
 title: Despliegue Continuo (CD)
 status: Completed
 category: Concepto
-tags: ["application", "methodology", ""]
+tags: ["aplicación", "metodología", ""]
 ---
 
 ## ¿Qué es?

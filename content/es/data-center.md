@@ -2,7 +2,7 @@
 title: Centro de Datos
 status: Completed
 category: Tecnología
-tags: ["infrastructure", "fundamental", ""]
+tags: ["infraestructura", "fundamental", ""]
 ---
 
 ## ¿Qué es?

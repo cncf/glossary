@@ -2,7 +2,7 @@
 title: Servicio de Proxy
 status: Completed
 category: Tecnología
-tags: ["networking", "", ""]
+tags: ["redes", "", ""]
 ---
 
 ## ¿Qué es?

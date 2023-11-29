@@ -2,7 +2,7 @@
 title: Computación en la Nube
 status: Completed
 category: Concepto
-tags: ["infrastructure", "fundamental", ""]
+tags: ["infraestructura", "fundamental", ""]
 ---
 
 ## ¿Qué es?

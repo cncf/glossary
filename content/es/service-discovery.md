@@ -2,7 +2,7 @@
 title: Descubrimiento de Servicio
 status: Completed
 category: Concepto
-tags: ["networking", "", ""]
+tags: ["redes", "", ""]
 ---
 
 ## ¿Qué es?

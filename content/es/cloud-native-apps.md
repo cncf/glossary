@@ -2,7 +2,7 @@
 title: Aplicaciones Nativas para la Nube
 status: Completed
 category: Concepto
-tags: ["application", "fundamental", ""]
+tags: ["aplicación", "fundamental", ""]
 ---
 
 ## ¿Qué es?

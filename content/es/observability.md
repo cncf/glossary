@@ -2,7 +2,7 @@
 title: Observabilidad
 status: Completed
 category: Concepto
-tags: ["property", "", ""]
+tags: ["propiedad", "", ""]
 ---
 
 ## ¿Qué es?

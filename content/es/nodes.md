@@ -2,7 +2,7 @@
 title: Nodos
 status: Completed
 category: Tecnología
-tags: ["infrastructure", "fundamental", ""]
+tags: ["infraestructura", "fundamental", ""]
 ---
 
 ## ¿Qué es?

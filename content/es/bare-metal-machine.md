@@ -2,7 +2,7 @@
 title: Máquina Bare Metal
 status: Completed
 category: Tecnología
-tags: ["infrastructure", "", ""]
+tags: ["infraestructura", "", ""]
 ---
 
 ## ¿Qué es?

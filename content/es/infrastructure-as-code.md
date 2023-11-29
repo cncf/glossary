@@ -2,7 +2,7 @@
 title: Infraestructura como Código (IaC)
 status: Completed
 category: Concepto
-tags: ["infrastructure", "methodology", ""]
+tags: ["infraestructura", "metodología", ""]
 ---
 
 ## ¿Qué es?

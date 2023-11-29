@@ -2,7 +2,7 @@
 title: Balanceador de Carga
 status: Feedback Appreciated
 category: Concepto
-tags: ["infrastructure", "networking", ""]
+tags: ["infraestructura", "redes", ""]
 ---
 
 ## ¿Qué es?
