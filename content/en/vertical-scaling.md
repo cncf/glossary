@@ -5,8 +5,6 @@ category: Concept
 tags: ["infrastructure", "", ""]
 ---
 
-## What it is
-
 Vertical scaling, also known as "scaling up and down", is a technique where 
 a system's capacity is increased by adding CPU and memory to individual [nodes](/nodes/) as the workload increases. 
 Let's say, you have a computer of 4GB RAM and want to increase its capacity to 16GB RAM, 

@@ -5,8 +5,6 @@ category: Technology
 tags: ["infrastructure", "fundamental", ""]
 ---
 
-## What it is
-
 A datacenter is a specialized building or facility designed to house computers, most often servers. 
 These datacenters tend to be connected to high-speed internet lines, especially when focused on [cloud computing](/cloud-computing/). 
 The buildings housing datacenters are equipped to maintain service even during adverse events, including generators that provide power during outages and powerful air conditioning that keep the heat-producing computers cool. 
