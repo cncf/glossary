@@ -5,7 +5,6 @@ category: concept
 tags: ["networking", "", ""]
 ---
 
-
 Service discovery is the process of finding individual instances that make up a service. 
 A service discovery tool keeps track of the various nodes or endpoints that make up a service. 
 

@@ -5,7 +5,6 @@ category: concept
 tags: ["methodology", "", ""]
 ---
 
-
 A set of practices that emphasize iterative development cycles and self-organizing teams. 
 In contrast to waterfall-like projects where value is generated only at the very end of a project, 
 agile software development focuses on a continuous, incremental delivery of value and 

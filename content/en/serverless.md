@@ -5,7 +5,6 @@ Category: Technology
 tags: ["architecture", "", ""]
 ---
 
-
 Serverless is a cloud native development model that allows developers to 
 build and run applications without having to manage servers. 
 While servers do still exist within the serverless paradigm, they are [abstracted](/abstraction/) away from the application development process.

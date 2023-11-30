@@ -5,7 +5,6 @@ category: technology
 tags: ["networking", "", ""]
 ---
 
-
 A service proxy intercepts traffic to or from a given [service](/service/), 
 applies some logic to it, then forwards that traffic to another service. 
 It essentially acts as a “go-between” that collects information about network traffic and/or applies rules to it.

@@ -5,7 +5,6 @@ category: Technology
 tags: ["fundamental", "infrastructure", ""]
 ---
 
-
 A virtual machine (VM) is a computer and its operating system 
 that is not bound to a particular piece of hardware. 
 VMs rely on [virtualization](/virtualization/) to carve a single physical computer into multiple virtual computers. 

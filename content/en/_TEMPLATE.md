@@ -4,8 +4,7 @@ status: Feedback Appreciated
 category: concept
 ---
 
-
-Quick summary of the concept.
+Quick summary of the concept and what it is.
 
 ## Problem it addresses
 

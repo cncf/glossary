@@ -6,7 +6,6 @@ category: Technology
 tags: ["", "", ""]
 ---
 
-
 A firewall is a system that filters network traffic on the basis of specified rules. 
 Firewalls can be hardware, software, or a combination of the two.
 

@@ -5,7 +5,6 @@ category: concept
 tags: ["infrastructure", "fundamental", ""]
 ---
 
-
 Within a [Kubernetes](/kubernetes/) environment, a pod acts as the most basic deployable unit.
 It represents an essential building block for deploying and managing containerized applications.
 Each pod contains a single application instance and can hold one or more [containers](/container/).

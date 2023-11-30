@@ -4,7 +4,6 @@ status: Completed
 tags: ["architecture", "fundamental", ""]
 ---
 
-
 A microservices architecture is an architectural approach that breaks applications into individual independent (micro)[services](/service/), with each service focused on a specific functionality.
 These services work together closely, appearing to the end user as a single entity. 
 Take Netflix as an example. 
