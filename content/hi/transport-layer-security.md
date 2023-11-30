@@ -1,6 +1,6 @@
 ---
 title: ट्रांसपोर्ट लेयर सिक्योरिटी (TLS)
-status: पूर्ण
+status: Completed
 category: संकल्पना
 tags: ["सुरक्षा", "नेटवर्किंग", ""]
 ---
