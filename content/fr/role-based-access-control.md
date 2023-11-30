@@ -2,7 +2,7 @@
 title: Contrôle d'accès basé sur les rôles (RBAC)
 status: Completed
 category: Concept
-tags: ["securité", "fondamental", ""]
+tags: ["sécurité", "", ""]
 ---
 
 ## Ce que c'est
