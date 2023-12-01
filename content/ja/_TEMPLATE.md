@@ -1,10 +1,8 @@
 ---
 title: デフォルトテンプレート
 status: Feedback Appreciated
-category: concept
+category: コンセプト
 ---
-
-## これは何ですか
 
 コンセプトとその内容を簡単にまとめます。
 
