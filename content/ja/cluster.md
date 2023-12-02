@@ -1,8 +1,8 @@
 ---
-title: Cluster
+title: クラスタ
 status: Completed
-category: Concept
-tags: ["infrastructure", "fundamental", ""]
+category: コンセプト
+tags: ["インフラストラクチャー", "基礎", ""]
 ---
 
 ## What it is
