@@ -5,15 +5,16 @@ category: テクノロジー
 tags: ["インフラストラクチャー", "基礎", ""]
 ---
 
-## What it is
+## これは何ですか
 
-Kubernetes, often abbreviated as K8s, is an open source container orchestrator.
-It automates the lifecycle of containerized applications on modern infrastructures, functioning as a "datacenter operating system" that manages applications across a [distributed system](/distributed-systems/).
+Kubernetesは、しばしばK8sと略される、オープンソースのコンテナオーケストレーターです。
 
-Kubernetes schedules [containers](/container/) across [nodes](/nodes/) in a [cluster](/cluster/), bundling several infrastructure resources such as load balancer, persistent storage, etc. to run containerized applications.
+Kubernetesは、現代のインフラストラクチャー上でコンテナ化されたアプリケーションのライフサイクルを自動化し、[分散システム](/ja/distributed-systems/)全体でアプリケーションを管理するデータセンターのオペレーティングシステムとして機能します。
 
-Kubernetes enables automation and extensibility, allowing users to deploy applications declaratively (see below) in a reproducible way.
-Kubernetes is extensible via its [API](/application-programming-interface/), allowing experienced Kubernetes practitioners to leverage its automation capabilities according to their needs.
+Kubernetesは、[クラスタ](/ja/cluster/)内の[ノード](/ja/nodes/)にまたがって[コンテナ](/ja/container/)をスケジュールし、ロードバランサーや永続化ストレージなど、いくつかのインフラリソースを束ねてコンテナ化されたアプリケーションを実行します。
+
+Kubernetesは自動化と拡張性を実現し、ユーザーが宣言的に（以下参照）かつ再現可能な方法でアプリケーションをデプロイできるようにします。
+Kubernetesは[API](/ja/application-programming-interface/)を介して拡張可能であり、経験豊富なKubernetesの専門家が自分たちのニーズに応じて拡張することができます。
 
 ## Problem it addresses
 
