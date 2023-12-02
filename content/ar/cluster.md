@@ -1,5 +1,5 @@
 ---
-title: كُتلة
+title: عنقود
 status: مكتملة
 category: مفهوم
 ---
