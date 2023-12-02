@@ -20,16 +20,16 @@ Kubernetesは[API](/ja/application-programming-interface/)を介して拡張可�
 インフラの自動化と宣言的な設定の管理は長い間重要な概念でしたが、[クラウドコンピューティング](/ja/cloud-computing/)が人気になるにつれて、さらにその重要性が増していきました。
 計算機リソースへの需要が増加し、組織がより少ないエンジニアでより多くの運用機能を提供する必要が生じる中、その需要に応えるためには新しい技術や作業方法が求められています。
 
-## How it helps
+## どのように役に立つのでしょうか
 
-Similar to traditional [infrastructure as code](/infrastructure-as-code/) tools, Kubernetes helps with automation but has the advantage of working with containers.
-Containers are more resistant to configuration drift than [virtual](/virtual-machine/) or physical machines.
+従来の[コードとしてのインフラストラクチャ](/ja/infrastructure-as-code/)ツールと同様にKubernetesは自動化を支援しますが、コンテナを用いて動作するという利点があります。
+コンテナは[仮想マシン](/ja/virtual-machine/)や物理マシンよりも設定のずれに対して耐性があります。
 
-Additionally, Kubernetes works declaratively, which means that instead of operators instructing the machine how to do something, they describe — usually as manifest files (e.g., YAML) — what the infrastructure should look like.
-Kubernetes then takes care of the "how".
-This results in Kubernetes being extremely compatible with infrastructure as code.
+さらにKubernetesは宣言的に動作します。つまり、オペレータがマシンに何かを行う方法を指示するのではなく、インフラがどのようにあるべきかを記述します。これは通常、マニフェストファイル（例えばYAML）として記述されます。
+その後、Kubernetesが実行方法の詳細を管理します。
+これにより、Kubernetesはコードとしてのインフラストラクチャと非常に互換性が高くなっています。
 
-Kubernetes also [self-heals](/self-healing/).
-The cluster's actual state will always match the operator's desired state.
-If Kubernetes detects a deviation from what is described in the manifest files, a Kubernetes controller kicks in and fixes it.
-While the infrastructure Kubernetes uses may be continually changing, Kubernetes constantly and automatically adapts to changes and ensures that it matches with the desired state.
+Kubernetesはまた[セルフヒーリング](/ja/self-healing/)を行います。
+セルフヒーリングによって、クラスタの実際の状態は常にオペレータの望む状態と一致します。
+Kubernetesがマニフェストファイルで記述された内容からの逸脱を検出すると、Kubernetesコントローラーが介入してそれを修正します。
+Kubernetesが使用するインフラは絶えず変化しているかもしれませんが、Kubernetesは常に自動的に変化に適応し、望ましい状態と一致するように保証します。
