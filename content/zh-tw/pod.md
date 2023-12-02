@@ -5,8 +5,6 @@ category: 概念
 tags: ["基礎設施", "基本原理", ""]
 ---
 
-## 是什麼 {#what-it-is}
-
 Pod 是 [Kubernetes](/zh-tw/kubernetes/) 環境中最基本的可部署單位。
 它代表部署和管理容器化應用程式的必要組件。
 每個 Pod 包含一個應用程式實例，並且可以由一個或是多個[容器](/zh-tw/container/) 所組成。

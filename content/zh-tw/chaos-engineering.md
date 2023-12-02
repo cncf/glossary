@@ -5,8 +5,6 @@ category: 概念
 tags: ["方法論", "", ""]
 ---
 
-## 是什麼 {#what-it-is}
-
 混沌工程或 CE，是在正式環境中對[分散式系統](/zh-tw/distributed-systems/)進行實驗的專業，以建立對系統在承受混亂和意外情況下時能力的信心。
 
 ## 解決的問題 {#problem-it-addresses}

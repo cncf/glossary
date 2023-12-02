@@ -5,8 +5,6 @@ category: 概念
 tags: ["安全", "網路", ""]
 ---
 
-## 是什麼 {#what-it-is}
-
 雙向 TLS (mTLS) 是一種驗證和加密兩個[服務](/zh-tw/service/)之間發送訊息的技術。 
 雙向 TLS 是標準的[傳輸層安全性協議](/zh-tw/transport-layer-security) (TLS)，
 但不是只驗證單條連線，而是驗證雙方服務。

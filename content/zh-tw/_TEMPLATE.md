@@ -4,8 +4,6 @@ status: Feedback Appreciated
 category: 概念
 ---
 
-## 是什麼 {#what-it-is}
-
 快速總結概念及其意義。
 
 ## 解決的問題 {#problem-it-addresses}

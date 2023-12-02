@@ -4,8 +4,6 @@ status: Completed
 category: 架構
 ---
 
-## 是什麼 {#what-it-is}
-
 eBPF（延伸柏克萊封包篩選器）是一種允許小型沙盒程式或腳本在 Linux 系統核心空間執行的技術，不需要修改核心原始碼載入 Linux 核心模組。
 
 Linux 系統有兩個空間：核心空間和使用者空間。

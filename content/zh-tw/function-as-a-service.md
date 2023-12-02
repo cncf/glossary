@@ -5,8 +5,6 @@ category: 技術
 tags: ["基礎設施", "", ""]
 ---
 
-## 是什麼 {#what-it-is}
-
 函式即服務 (FaaS) 是一種[無伺服器](/zh-tw/serverless/)的[雲端運算](/zh-tw/cloud-computing/)[服務](/zh-tw/service/)，
 它可以在特定事件觸發時執行程式碼，
 而無需去維護常見於建置與發佈[微服務](/zh-tw/microservices/)應用程式所需的複雜基礎設施。
