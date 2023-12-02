@@ -19,11 +19,10 @@ Kubernetesクラスタは、通常異なるマシン上でそれぞれのコン�
 ビジネス上重要なシステムが利用できなくなる可能性があります。
 そのため、現代のソフトウェアは一般的に[分散アプリケーション](/ja/distributed-apps/)として構築され、クラスタとしてまとめられます。
 
-## How it helps
+## どのように役に立つのでしょうか
 
-Clustered, distributed applications run across multiple machines, eliminating a single point of failure.
-But building distributed systems is really hard.
-In fact, it's a computer science discipline in its own right.
-The need for global systems and years of trial and error led to the development of a new kind of tech stack:
-[cloud native technologies](/cloud-native-tech/).
-These new technologies are the building blocks that make the operation and creation of distributed systems easier.
+クラスタ化された分散アプリケーションは複数のマシン上で実行され、単一障害点がなくなります。
+しかし、分散システムを構築することは非常に難しいです。
+実際、それは独自したコンピュータサイエンスの一分野です。
+グローバルなシステムの必要性と長い年月をかけた試行錯誤が、新たなタイプの技術スタックの開発につながりました: [クラウドネイティブ技術](/ja/cloud-native-tech/)。
+これらの新しい技術は、分散システムの運用と作成を容易にするための構築ブロックとなります。
