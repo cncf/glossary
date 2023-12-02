@@ -15,10 +15,10 @@ Kubernetesは、[クラスタ](/ja/cluster/)内の[ノード](/ja/nodes/)にま�
 Kubernetesは自動化と拡張性を実現し、ユーザーが宣言的に（以下参照）かつ再現可能な方法でアプリケーションをデプロイできるようにします。
 Kubernetesは[API](/ja/application-programming-interface/)を介して拡張可能であり、経験豊富なKubernetesの専門家が自分たちのニーズに応じて拡張することができます。
 
-## Problem it addresses
+## 解決すべき問題はなんですか
 
-Infrastructure automation and declarative configuration management have been important concepts for a long time, but they have become more pressing as [cloud computing](/cloud-computing/) has gained popularity.
-As demand for compute resources increases and organizations need to provide more operational capabilities with fewer engineers, new technologies and working methods are required to meet that demand.
+インフラの自動化と宣言的な設定の管理は長い間重要な概念でしたが、[クラウドコンピューティング](/ja/cloud-computing/)が人気になるにつれて、さらにその重要性が増していきました。
+計算機リソースへの需要が増加し、組織がより少ないエンジニアでより多くの運用機能を提供する必要が生じる中、その需要に応えるためには新しい技術や作業方法が求められています。
 
 ## How it helps
 
