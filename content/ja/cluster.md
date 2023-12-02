@@ -12,12 +12,12 @@ tags: ["インフラストラクチャー", "基礎", ""]
 Kubernetesクラスタは、通常異なるマシン上でそれぞれのコンテナ内で実行される一連のサービス（あるいはワークロード）です。
 これらすべての[コンテナ化](/ja/containerization/)されたサービスの集合がネットワーク上で接続され、クラスタを形成しています。
 
-## Problem it addresses
+## 解決すべき問題はなんですか
 
-Software that runs on a single computer presents a single point of failure
-— if that computer crashes, or someone accidentally unplugs the power cable,
-then some business-critical system may be taken offline.
-That's why modern software is generally built as [distributed applications](/distributed-apps/), grouped together as clusters.
+単一のコンピュータ上で動作するソフトウェアには、単一障害点があります。
+もしそのコンピュータがクラッシュしたり、誰かが誤って電源ケーブルを抜いたりした場合、
+ビジネス上重要なシステムが利用できなくなる可能性があります。
+そのため、現代のソフトウェアは一般的に[分散アプリケーション](/ja/distributed-apps/)として構築され、クラスタとしてまとめられます。
 
 ## How it helps
 
