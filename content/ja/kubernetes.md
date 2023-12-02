@@ -1,8 +1,8 @@
 ---
 title: Kubernetes
 status: Completed
-category: technology
-tags: ["infrastructure", "fundamental", ""]
+category: テクノロジー
+tags: ["インフラストラクチャー", "基礎", ""]
 ---
 
 ## What it is
