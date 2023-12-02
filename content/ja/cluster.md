@@ -5,12 +5,12 @@ category: コンセプト
 tags: ["インフラストラクチャー", "基礎", ""]
 ---
 
-## What it is
+## これは何ですか
 
-A cluster is a group of computers or applications that work together towards a common goal.
-In the context of cloud native computing, the term is most often applied to [Kubernetes](/kubernetes/).
-A Kubernetes cluster is a set of services (or workloads) that run in their own containers, usually on different machines.
-The collection of all these [containerized](/containerization/) services, connected over a network, represent a cluster.
+クラスタは、共通の目的に向けて連携して働くコンピュータやアプリケーションのグループです。
+クラウドネイティブコンピューティングの文脈では、この用語は通常[Kubernetes](/ja/kubernetes/)に適用されます。
+Kubernetesクラスタは、通常異なるマシン上でそれぞれのコンテナ内で実行される一連のサービス（あるいはワークロード）です。
+これらすべての[コンテナ化](/ja/containerization/)されたサービスの集合がネットワーク上で接続され、クラスタを形成しています。
 
 ## Problem it addresses
 
