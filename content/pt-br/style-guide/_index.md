@@ -37,7 +37,6 @@ status:
 category: 
 ---
 
-## What it is
 
 Um breve resumo da tecnologia ou conceito.
 
