@@ -1,5 +1,5 @@
 ---
-title: Transport Layer Security (TLS)
+title: Sécurité de la couche de transport (TLS)
 status: Completed
 category: Concept
 tags: ["sécurité", "réseau", ""]
@@ -7,7 +7,7 @@ tags: ["sécurité", "réseau", ""]
 
 ## Ce que c'est
 
-Transport Layer Security (TLS) est un protocole conçu pour renforcer la sécurité des communications sur un réseau. 
+TLS, en français "Sécurité de la couche de transport", en anglais "Transport Layer Security", est un protocole conçu pour renforcer la sécurité des communications sur un réseau. 
 Il garantit la sécurité des données lors de la livraison de celles-ci sur Internet, 
 en évitant toute consultation et/ou altération des données. 
 Ce protocole est largement utilisé dans des applications telles que la messagerie instantanée, le courrier électronique, etc.
