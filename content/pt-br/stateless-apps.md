@@ -5,8 +5,6 @@ category: tecnologia
 tags: ["fundamento", "aplicação", ""]
 ---
 
-## O que é
-
 Um aplicação stateless não salva nenhum dado de sessão do cliente no servidor onde a aplicação está. Cada sessão é realizada como se fosse a primeira vez e as respostas não dependem de dados de uma sessão anterior e fornecem funcionalidade para usar os serviços de impressão, rede de entrega de conteúdo ou os servidores web para processar todas as requisições de curto prazo. Por exemplo, alguém está pesquisando uma pergunta no mecanismo de pesquisa e pressionou o Enter. Caso a operação de pesquisa seja interrompida ou fechada por algum motivo, você terá que iniciar uma nova, pois não há dados salvos para sua requisição anterior.
 
 ## Problema relacionado
