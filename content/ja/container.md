@@ -17,14 +17,14 @@ tags: ["アプリケーション", "基礎", ""]
 これらは全て個々のアプリケーションが機能するために必要なものです。
 さらに、オペレーティングシステムのメンテナンス、アップグレード、起動は、大きな手間のかかる作業です。
 
-## How it helps
+## どのように役に立つのでしょうか
 
-Containers share the same operating system and its machine resources,
-spreading the operating system’s resource overhead and creating efficient use of the physical machine.
-This capability is only possible because containers are typically limited from being able to interact with each other.
-This allows many more applications to be run on the same physical machine.
+コンテナはオペレーティングシステムとそのマシンリソースを共有し、
+オペレーティングシステムのリソースオーバーヘッドを分散させ、物理マシンの効率的な使用を実現します。
+これは通常、コンテナが互いに干渉することが限定されているため、実現できます。
+これにより、同じ物理マシン上で多くのアプリケーションを実行することができます。
 
-There are limitations, however.
-Since containers share the same operating system, processes can be considered less secure than alternatives.
-Containers also require limits on the shared resources.
-To guarantee resources, administrators must constrain and limit memory and CPU usage so that other applications do not perform poorly.
+しかし、いくつかの制限もあります。
+コンテナは同じオペレーティングシステムを共有するため、プロセスは代替手段と比べてセキュリティ面でのリスクが高いと考えられます。
+またコンテナは、共有されるリソースへの制限を必要とします。
+リソースを保証するために、管理者はメモリやCPUの使用を制限し、他のアプリケーションのパフォーマンスが低下しないようにする必要があります。
