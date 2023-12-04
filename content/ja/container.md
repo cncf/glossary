@@ -10,12 +10,12 @@ tags: ["アプリケーション", "基礎", ""]
 コンテナは一つのマシン上で同時に実行されますが、
 通常オペレーティングシステムは別々のコンテナプロセスが互いに干渉するのを防ぎます。
 
-## Problem it addresses
+## 解決すべき問題は何ですか
 
-Before containers were available, separate machines were necessary to run applications.
-Each machine would require its own operating system, which takes CPU, memory, and disk space,
-all for an individual application to function.
-Additionally, the maintenance, upgrade, and startup of an operating system is another significant source of toil.
+コンテナが利用可能になる前は、アプリケーションを実行するためには別々のマシンが必要でした。
+各マシンはそれぞれのオペレーティングシステムを必要とし、CPU、メモリ、ディスクスペースを消費します。
+これらは全て個々のアプリケーションが機能するために必要なものです。
+さらに、オペレーティングシステムのメンテナンス、アップグレード、起動は、大きな手間のかかる作業です。
 
 ## How it helps
 
