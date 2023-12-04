@@ -5,10 +5,10 @@ category: テクノロジー
 tags: ["アプリケーション", "基礎", ""]
 ---
 
-A container is a running process with resource and capability constraints managed by a computer’s operating system.
-The files available to the container process are packaged as a container image.
-Containers run adjacent to each other on the same machine,
-but typically the operating system prevents the separate container processes from interacting with each other.
+コンテナは、コンピューターのオペレーティングシステムによってリソースと機能面での制限を管理する、実行中のプロセスです。
+コンテナプロセスに利用可能なファイルは、コンテナイメージとしてパッケージ化されています。
+コンテナは一つのマシン上で同時に実行されますが、
+通常オペレーティングシステムは別々のコンテナプロセスが互いに干渉するのを防ぎます。
 
 ## Problem it addresses
 
