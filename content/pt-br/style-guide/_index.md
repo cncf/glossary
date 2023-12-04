@@ -37,7 +37,6 @@ status:
 category: 
 ---
 
-
 Um breve resumo da tecnologia ou conceito.
 
 ## Problem it addresses
