@@ -29,5 +29,5 @@ Kubernetesは[API](/ja/application-programming-interface/)を介して拡張可�
 
 またKubernetesは[セルフヒーリング](/ja/self-healing/)を行います。
 セルフヒーリングによって、クラスタの実際の状態は、常にオペレータの望む状態と一致します。
-Kubernetesがマニフェストファイルで記述された内容と異なる点を検出した場合、Kubernetesコントローラがそれを修正します。
+Kubernetesがマニフェストファイルで記述された内容と異なる点を検出した場合、Kubernetesコントローラーがそれを修正します。
 Kubernetesが使用するインフラは絶えず変化しているかもしれませんが、Kubernetesは常に自動的に変化に適応し、望ましい状態と一致するように保証します。
