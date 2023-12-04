@@ -16,7 +16,7 @@ scaling it vertically means switching to a 16GB RAM system.
 As demand for an application grows beyond the current capacity of that application instance, 
 we need to find a way to scale (add capacity to) the system. 
 We can either add more compute resources to existing nodes (vertical scaling) 
-or more nodes to the system ([horizontal scaling](/horizontal-scaling/)). 
+or more nodes to the system (horizontal scaling). 
 [Scalability](/scalability/) contributes to competitiveness, efficiency, reputation, and quality.
 
 ## How it helps
