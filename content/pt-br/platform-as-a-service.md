@@ -1,8 +1,8 @@
 ---
 title: Plataforma como serviço (PaaS)
-status: Completed
+status: Deprecated
 category: tecnologia
-tags: ["fundamentos", "plataforma", ""]
+tags: ["descontinuado", "", ""]
 ---
 
 ## O que é

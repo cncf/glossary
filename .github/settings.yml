@@ -31,24 +31,27 @@ collaborators:
     permission: admin
   
   - username: jihoon-seo
-    permission: maintain
+    permission: admin
 
   - username: iamNoah1
-    permission: maintain  
+    permission: admin
   
   - username: thetwopct
     permission: push
 
   # English approvers (approver for all files in repository)
 
-  
+  - username: nate-double-u
+    permission: admin
+
+  - username: castrojo
+    permission: push
 
   # Localization approvers
+  
   # l10n ko approvers
   # Note: seokho-son is both Maintainer (maintain) and Korean approver (push)
   # Note: jihoon-seo is both Maintainer (maintain) and Korean approver (push)
-  - username: Eviekim
-    permission: push
 
   - username: yunkon-kim
     permission: push
@@ -70,17 +73,22 @@ collaborators:
   - username: Garima-Negi
     permission: push
 
-  - username: sayantani11
-    permission: push
-
-  - username: anubha-v-ardhan
-    permission: push
-
   - username: jayesh-srivastava
     permission: push
 
+  - username: abhay-raj19
+    permission: push
+
+  - username: aj11anuj
+    permission: push
+
+  - username: kumarankit999
+    permission: push
+
+  - username: bishal7679
+    permission: push
+
   # l10n de approvers
-  # Note: CathPag is both Maintainer (maintain) and de approver (push)
   # Note: iamNoah1 is both Maintainer (maintain) and de approver (push)
   - username: DaveVentura
     permission: push
@@ -115,16 +123,16 @@ collaborators:
     permission: push
 
   # l10n bn approvers
+  - username: Arindam200
+    permission: push
+
+  - username: Imtiaz1234
+    permission: push
+
   - username: mitul3737
     permission: push
-
-  - username: Mouly22
-    permission: push
-
-  - username: ikramulkayes
-    permission: push
     
-  - username: Imtiaz1234
+  - username: sajibAdhi
     permission: push
     
   # l10n es approvers
@@ -143,7 +151,7 @@ collaborators:
   - username: 92nqb
     permission: push
 
-  # l10n zh approvers
+  # l10n zh-cn approvers
   - username: hanyuancheung
     permission: push
 
@@ -166,6 +174,12 @@ collaborators:
   - username: Krast76
     permission: push
 
+  - username: sestegra
+    permission: push
+
+  - username: guillaumebernard84
+    permission: push
+
   # l10n ur approvers
   - username: Saim-Safdar
     permission: push
@@ -173,6 +187,54 @@ collaborators:
   - username: waleed318
     permission: push
 
+  # l10n zh-tw approvers
+  - username: hwchiu
+    permission: push
+
+  - username: johnlinp
+    permission: push
+
+  - username: pichuang
+    permission: push
+
+  - username: ydFu
+    permission: push
+
+  # l10n ja approvers
+  - username: inductor
+    permission: push
+
+  - username: kaitoii11
+    permission: push
+
+  - username: naonishijima
+    permission: push
+
+  - username: yuichi-nakamura
+    permission: push
+
+  # l10n tr approvers
+  - username: aliok
+    permission: push
+
+  - username: halil-bugol
+    permission: push
+
+  - username: rwxdash
+    permission: push
+
+  - username: eminalemdar
+    permission: push
+
+  # l10n ru approvers
+  - username: shurup
+    permission: push
+
+  - username: kirkonru
+    permission: push
+
+  - username: tym83
+    permission: push
 
 branches:
 
@@ -193,6 +255,8 @@ branches:
          - seokho-son
          - iamNoah1
          - jihoon-seo
+         - nate-double-u
+         - castrojo
         teams: []
       enforce_admins: null
       required_linear_history: null
@@ -209,7 +273,6 @@ branches:
         # Ko approvers
         users:
          - seokho-son
-         - Eviekim
          - jihoon-seo
          - yunkon-kim
         teams: []
@@ -247,9 +310,11 @@ branches:
         # hi approvers
         users:
          - Garima-Negi
-         - sayantani11
-         - anubha-v-ardhan
          - jayesh-srivastava
+         - abhay-raj19
+         - aj11anuj
+         - kumarankit999
+         - bishal7679
         teams: []
       enforce_admins: null
       required_linear_history: null
@@ -321,10 +386,10 @@ branches:
         apps: []
         # bn approvers
         users:
-         - mitul3737
-         - Mouly22
-         - ikramulkayes
+         - Arindam200
          - Imtiaz1234
+         - mitul3737
+         - sajibAdhi
         teams: []
       enforce_admins: null
       required_linear_history: null
@@ -349,7 +414,7 @@ branches:
       enforce_admins: null
       required_linear_history: null
 
-  # l10n branch for zh contents only
+  # l10n branch for zh-cn contents only
   - name: dev-zh
     protection:
       required_pull_request_reviews:
@@ -358,7 +423,7 @@ branches:
       required_status_checks: null
       restrictions:
         apps: []
-        # zh approvers
+        # zh-cn approvers
         users:
          - hanyuancheung
          - Jacob953
@@ -382,6 +447,8 @@ branches:
          - huats
          - fydrah
          - Krast76
+         - sestegra
+         - guillaumebernard84
         teams: []
       enforce_admins: null
       required_linear_history: null
@@ -399,6 +466,81 @@ branches:
         users:
          - Saim-Safdar
          - waleed318
+        teams: []
+      enforce_admins: null
+      required_linear_history: null
+
+  # l10n branch for zh-tw contents only
+  - name: dev-tw
+    protection:
+      required_pull_request_reviews:
+        required_approving_review_count: 2
+        require_code_owner_reviews: true
+      required_status_checks: null
+      restrictions:
+        apps: []
+        # zh-tw approvers
+        users:
+         - hwchiu
+         - johnlinp
+         - pichuang
+         - ydFu
+        teams: []
+      enforce_admins: null
+      required_linear_history: null
+
+  # l10n branch for ja contents only
+  - name: dev-ja
+    protection:
+      required_pull_request_reviews:
+        required_approving_review_count: 2
+        require_code_owner_reviews: true
+      required_status_checks: null
+      restrictions:
+        apps: []
+        # ja approvers
+        users:
+         - inductor
+         - kaitoii11
+         - naonishijima
+         - yuichi-nakamura
+        teams: []
+      enforce_admins: null
+      required_linear_history: null
+      
+  # l10n branch for tr contents only
+  - name: dev-tr
+    protection:
+      required_pull_request_reviews:
+        required_approving_review_count: 2
+        require_code_owner_reviews: true
+      required_status_checks: null
+      restrictions:
+        apps: []
+        # tr approvers
+        users:
+         - aliok
+         - halil-bugol
+         - rwxdash
+         - eminalemdar
+        teams: []
+      enforce_admins: null
+      required_linear_history: null
+
+  # l10n branch for ru contents only
+  - name: dev-ru
+    protection:
+      required_pull_request_reviews:
+        required_approving_review_count: 2
+        require_code_owner_reviews: true
+      required_status_checks: null
+      restrictions:
+        apps: []
+        # ru approvers
+        users:
+         - shurup
+         - kirkonru
+         - tym83
         teams: []
       enforce_admins: null
       required_linear_history: null

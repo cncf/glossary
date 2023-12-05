@@ -5,8 +5,6 @@ category: technology
 tags: ["fundamental", "application", ""]
 ---
 
-## What it is
-
 A stateless application doesn’t save any client session (state) data on the server where the application lives. 
 Each session is carried out as if it was the first time and responses are not dependent upon data from a previous session and 
 provides functionality to use print services, CDN (Content Delivery Network) or the Web Servers 

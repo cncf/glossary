@@ -2,7 +2,7 @@
 title: Computação em Nuvem
 status: Completed
 category: conceito
-tags: ["infraestrutura", "", ""]
+tags: ["infraestrutura", "fundamento", ""]
 ---
 
 ## O que é
