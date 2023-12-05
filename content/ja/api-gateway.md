@@ -1,16 +1,15 @@
 ---
-title: API Gateway
+title: APIゲートウェイ
 status: Completed
 category: テクノロジー
 tags: ["ネットワーキング", "", ""]
 ---
 
-An [API](/application-programming-interface/) gateway is a tool that
-aggregates unique application APIs, making them all available in one place.
-It allows organizations to move key functions,
-such as authentication and authorization or limiting the number of requests between applications,
-to a centrally managed location.
-An API gateway functions as a common interface to (often external) API consumers.
+[API](/ja/application-programming-interface/)ゲートウェイは、ユニークなアプリケーションAPIを集約し、
+それらを一か所で利用可能にするツールです。
+これにより認証や認可、
+またはアプリケーション間のリクエスト数を制限するなどの重要な機能を、中央管理された場所に集約することができます。
+APIゲートウェイは、(しばしば外部の)APIの利用者に対する共通のインターフェースとして機能します。
 
 ## Problem it addresses
 
