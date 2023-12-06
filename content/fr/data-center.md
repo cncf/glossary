@@ -5,8 +5,6 @@ category: Technology
 tags: ["infrastructure", "fondamental", ""]
 ---
 
-## Ce que c'est
-
 Un centre de données (datacenter en anglais) est un bâtiment ou une installation spécialisée conçue pour héberger des ordinateurs, le plus souvent des serveurs.
 Ces centres de données sont généralement connectés à des lignes internet à haut débit, en particulier lorsqu'ils sont axés sur le [cloud computing] (/fr/cloud-computing/).
 Les bâtiments qui abritent les centres de données sont équipés pour maintenir le service même en cas d'événements défavorables, y compris des générateurs qui fournissent de l'électricité pendant les pannes et des climatiseurs puissants qui gardent les ordinateurs, produisant de la chaleur, au frais.
