@@ -27,3 +27,11 @@ An API gateway can simplify operational concerns like security and [observabilit
 by providing a single access point for requests to all web services in a system.
 As all requests flow through the API gateway, it presents a single place to
 add functionality like metrics-gathering, rate-limiting, and authorization.
+
+アプリケーション内のさまざまなAPIに対して単一のアクセスポイントを提供するAPIゲートウェイは、
+組織がビジネスロジックやセキュリティロジックを一箇所に集中して適用するのを容易にします。
+また、アプリケーションの利用者がすべてのニーズに対して単一のアドレスを通じてアクセスできるようにもします。
+APIゲートウェイは、システム内のすべてのウェブサービスへのリクエストに対して単一のアクセスポイントを提供することで、
+セキュリティや[可観測性](/ja/observability/)などの運用上の懸念を簡素化することができます。
+すべてのリクエストがAPIゲートウェイを通過するため、
+メトリクス収集、レート制限、認証などの機能を追加するための単一の場所となります。
