@@ -5,8 +5,6 @@ category: Concept
 tags: ["sécurité", "réseau", ""]
 ---
 
-## Ce que c'est
-
 TLS, en français "Sécurité de la couche de transport", en anglais "Transport Layer Security", est un protocole conçu pour renforcer la sécurité des communications sur un réseau. 
 Il garantit la sécurité des données lors de la livraison de celles-ci sur Internet, 
 en évitant toute consultation et/ou altération des données. 
