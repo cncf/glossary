@@ -1,8 +1,8 @@
 ---
 title: Controle de Versão
-status: Completed
+status: Deprecated
 category: tecnologia
-tags: ["metodologia", "", ""]
+tags: ["descontinuado", "", ""]
 ---
 
 ## O que é

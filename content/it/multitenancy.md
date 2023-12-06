@@ -22,4 +22,4 @@ Con un software multitenant, i tenant condividono le risorse di un'installazione
 
 ## Termini correlati
 
-Multitenancy non è un sinonimo di [SaaS](/it/software-as-a-service/), nonostante sia molto comune per un SaaS essere multitenant e anche di offrire la multitenancy come uno dei suoi principali vantaggi.
+Multitenancy non è un sinonimo di SaaS, nonostante sia molto comune per un SaaS essere multitenant e anche di offrire la multitenancy come uno dei suoi principali vantaggi.

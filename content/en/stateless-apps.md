@@ -1,8 +1,8 @@
 ---
-title: Stateless Apps
-status: Feedback Appreciated
-category: Property
-tags: ["fundamental", "application", "property"]
+ title: Stateless Apps
+ status: Feedback Appreciated
+ category: Property
+ tags: ["fundamental", "application", "property"]
 ---
 
 Stateless applications process requests as if they were their first. 
@@ -13,4 +13,3 @@ When you use a search engine, and that search is interrupted (e.g., the window i
 You'll need to start all over.
 
 On the other hand, applications that process requests while considering previous interactions are called [stateful applications](/stateful-apps/). 
-
