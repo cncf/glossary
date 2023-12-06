@@ -11,12 +11,12 @@ tags: ["ネットワーキング", "", ""]
 またはアプリケーション間のリクエスト数を制限するなどの重要な機能を、中央管理された場所に集約することができます。
 APIゲートウェイは、(しばしば外部の)APIの利用者に対する共通のインターフェースとして機能します。
 
-## Problem it addresses
+## 解決すべき問題はなんですか
 
-If you’re making APIs available to external consumers,
-you'll want one entry point to manage and control all access.
-Additionally, if you need to apply functionality on those interactions,
-an API gateway allows you to uniformly apply it to all traffic without requiring any app code changes.
+外部の利用者にAPIを提供する場合、
+すべてのアクセスを管理・制御するための一つのエントリーポイントが必要になります。
+さらに、それらのやり取りに機能を適用する必要がある場合、
+APIゲートウェイを使用するとアプリのコードを変更することなく、すべてのトラフィックに対して一様にそれを適用することができます。
 
 ## How it helps
 
