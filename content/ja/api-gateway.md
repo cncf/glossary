@@ -20,14 +20,6 @@ APIゲートウェイを使用するとアプリのコードを変更するこ�
 
 ## How it helps
 
-Providing one single access point for various APIs in an application,
-API gateways make it easier for organizations to apply cross-cutting business or security logic in a central location.
-They also allow application consumers to go to a single address for all their needs.
-An API gateway can simplify operational concerns like security and [observability](/observability/)
-by providing a single access point for requests to all web services in a system.
-As all requests flow through the API gateway, it presents a single place to
-add functionality like metrics-gathering, rate-limiting, and authorization.
-
 アプリケーション内のさまざまなAPIに対して単一のアクセスポイントを提供するAPIゲートウェイは、
 組織がビジネスロジックやセキュリティロジックを一箇所に集中して適用するのを容易にします。
 また、アプリケーションの利用者がすべてのニーズに対して単一のアドレスを通じてアクセスできるようにもします。
