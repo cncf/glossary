@@ -5,8 +5,6 @@ category: Concept
 tags: ["sécurité", "réseau", ""]
 ---
 
-## Ce que c'est
-
 Le TLS mutuel (mTLS, mutual TLS en anglais) est une technique utilisée pour authentifier et chiffrer les messages envoyés entre deux [services](/fr/service/). 
 Le TLS mutuel est le protocole [Sécurité de la couche de transport](/fr/transport-layer-security/) (TLS) standard mais, 
 au lieu de valider l'identité d'une seule connexion, les deux parties sont validées.
