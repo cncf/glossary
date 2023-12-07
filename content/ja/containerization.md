@@ -1,8 +1,8 @@
 ---
-title: Containerization
+title: コンテナ化
 status: Completed
-category: Technology
-tags: ["application", "", ""]
+category: テクノロジー
+tags: ["アプリケーション", "", ""]
 ---
 
 ## What it is
