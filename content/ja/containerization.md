@@ -17,14 +17,13 @@ VMはコンテナよりも非常に大きく、実行にはハイパーバイザ
 これらの大きなVMテンプレートのストレージ、バックアップ、転送により、VMテンプレートの作成もより遅くなります。
 さらに、VMは[不変性](/ja/immutable-infrastructure/)の原則に反する設定のずれに悩まされることがあります。
 
-## How it helps
+## どのように役に立つのでしょうか
 
-Container images are lightweight (unlike traditional VMs) and
-the containerization process requires a file with a list of dependencies.
-This file can be version controlled and the build process automated,
-allowing an organization to focus on other priorities
-while the automated processes take care of the build.
-A container image is stored by a unique identifier
-that is tied to its exact content and configuration.
-As containers are scheduled and rescheduled,
-they are always reset to their initial state which eliminates configuration drift.
+コンテナイメージは(従来のVMとは異なり)軽量です。
+またコンテナ化のプロセスには依存関係のリストが記載されたファイルが必要です。
+このファイルはバージョン管理が可能で、ビルドプロセスを自動化できます。
+これにより組織は他の優先事項に集中でき、
+自動化されたプロセスがビルドを担当します。
+コンテナイメージは、その正確な内容と設定に関連付けられた一意の識別子によって保存されます。
+コンテナがスケジュールされ再スケジュールされると、
+常に初期状態にリセットされるため、設定のずれが解消されます。
