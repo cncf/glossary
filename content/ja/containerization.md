@@ -9,13 +9,19 @@ tags: ["アプリケーション", "", ""]
 コンテナのビルドプロセスでは、[Open Container Initiative](https://opencontainers.org)(OCI)標準への準拠が必要です。
 出力がこの標準に準拠したコンテナイメージであれば、どのコンテナ化ツールを使用しても問題ありません。
 
-## Problem it addresses
+## 解決すべき問題は何ですか
 
 Before containers became prevalent, organizations relied on virtual machines (VMs) to
 orchestrate multiple applications on a single [bare-metal machine](/bare-metal-machine/).
 VMs are significantly larger than containers and require a hypervisor to run.
 Due to the storage, backup, and transfer of these larger VM templates, creating the VM templates is also slow.
 Additionally, VMs can suffer from configuration drift which violates the principle of [immutability](/immutable-infrastructure/).
+
+コンテナが普及する前は、組織は仮想マシン(VM)に依存して、
+単一の[ベアメタルマシン](/ja/bare-metal-machine/)上で複数のアプリケーションをオーケストレーションしていました。
+VMはコンテナよりも非常に大きく、実行にはハイパーバイザーが必要です。
+これらの大きなVMテンプレートのストレージ、バックアップ、転送により、VMテンプレートの作成もより遅くなります。
+さらに、VMは[不変性](/ja/immutable-infrastructure/)の原則に反する設定のずれに悩まされることがあります。
 
 ## How it helps
 
