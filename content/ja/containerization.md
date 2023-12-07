@@ -5,11 +5,9 @@ category: テクノロジー
 tags: ["アプリケーション", "", ""]
 ---
 
-## What it is
-
-Containerization is the process of bundling an application and its dependencies into a container image.
-The container build process requires adherence to the [Open Container Initiative](https://opencontainers.org) (OCI) standard.
-As long as the output is a container image that adheres to this standard, which containerization tool is used doesn't matter.
+コンテナ化は、アプリケーションとその依存関係をコンテナイメージにまとめるプロセスです。
+コンテナのビルドプロセスでは、[Open Container Initiative](https://opencontainers.org)(OCI)標準への準拠が必要です。
+出力がこの標準に準拠したコンテナイメージであれば、どのコンテナ化ツールを使用しても問題ありません。
 
 ## Problem it addresses
 
