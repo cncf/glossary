@@ -5,10 +5,10 @@ category: テクノロジー
 tags: ["アーキテクチャ", "基礎", ""]
 ---
 
-An API is a way for computer programs to interact with each other.
-Just as humans interact with a website via a web page, an API allows computer programs to interact with each other.
-Unlike human interactions, APIs have limitations on what can and cannot be asked of them.
-The limitation on interaction helps to create stable and functional communication between programs.
+APIは、コンピュータープログラム同士が互いにやり取りする方法です。
+人間がウェブページを介してウェブサイトとやり取りするように、APIはコンピュータープログラムが相互に通信するための手段を提供します。
+人間のやり取りとは異なり、APIには何が要求できるか、あるいはできないかについての制限があります。
+この制限によって、プログラム間で安定的で機能的なコミュニケーションが実現されます。
 
 ## Problem it addresses
 
