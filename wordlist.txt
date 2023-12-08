@@ -92,6 +92,7 @@ gmail
 gmail's
 hackable
 handoffs
+HAProxy
 highlight
 html
 http
@@ -137,6 +138,7 @@ multitenant
 namespace
 namespaces
 navbar
+Nginx
 observability
 oci
 oliveira
@@ -199,6 +201,7 @@ tilde
 tls
 tmp
 toolchain
+Traefik
 transcodes
 txt
 ubuntu
