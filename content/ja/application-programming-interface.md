@@ -17,8 +17,8 @@ APIは、コンピュータープログラム同士が互いにやり取りす�
 APIがなければ、アプリケーション同士が相互に通信するための枠組みが不足します。
 共有された枠組みがないと、アプリケーションが[スケール](/ja/scalability/)し、統合することが困難になります。
 
-## How it helps
+## どのように役に立つのでしょうか
 
-APIs allow computer programs or applications to interact and share information in a defined and understandable manner.
-They are the building blocks for modern applications and they provide developers with a way to integrate applications together.
-Whenever you hear about [microservices](/microservices/) working together, you can infer that they interact via an API.
+APIは、コンピュータープログラムやアプリケーションが定義された理解しやすい方法で相互に通信し、情報を共有することを可能にします。
+これは現代のアプリケーションの構成要素であり、開発者にアプリケーションを統合するための方法を提供します。
+[マイクロサービス](/ja/microservices/)が連携して動作しているのであれば、それはAPIを用いて相互に通信していると推測できます。
