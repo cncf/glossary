@@ -5,8 +5,6 @@ category: concept
 tags: ["methodology", "", ""]
 ---
 
-## What it is
-
 Site Reliability Engineering or SRE is a discipline that combines operations and software engineering. 
 The latter is applied to infrastructure and operations problems, specifically. 
 Meaning, instead of building product features, Site Reliability Engineers build systems to run applications. 
@@ -16,7 +14,7 @@ SRE ensures that code running in production works properly.
 ## Problem it addresses
 
 Ensuring applications run [reliably](/reliability/) requires multiple capabilities, 
-from performance monitoring, alerting, [debugging](/debugging/) to troubleshooting. 
+from performance monitoring, alerting, debugging to troubleshooting. 
 Without these, system operators can only react to problems vs. proactively working towards avoiding them 
 — downtime only becomes a matter of time.
 

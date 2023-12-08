@@ -2,7 +2,7 @@
 title: Máquina Virtual
 status: Completed
 category: tecnologia
-tags: ["fundamentos", "infraestrutura", ""]
+tags: ["fundamento", "infraestrutura", ""]
 ---
 
 ## O que é
