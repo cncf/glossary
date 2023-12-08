@@ -10,12 +10,12 @@ APIは、コンピュータープログラム同士が互いにやり取りす�
 人間のやり取りとは異なり、APIには何が要求できるか、あるいはできないかについての制限があります。
 この制限によって、プログラム間で安定的で機能的なコミュニケーションが実現されます。
 
-## Problem it addresses
+## 解決すべき問題はなんですか
 
-As applications become more complex, small code changes can have drastic effects on other functionality.
-Applications need to take a modular approach to their functionality if they can grow and maintain stability simultaneously.
-Without APIs, there is a lack of a framework for the interaction between applications.
-Without a shared framework, it is challenging for applications to [scale](/scalability/) and integrate.
+アプリケーションが複雑になるにつれて、小さなコードの変更が他の機能に大きな影響を及ぼす可能性があります。
+アプリケーションが成長しながらも安定性を維持するために、機能にモジュラーなアプローチを採用する必要があります。
+APIがなければ、アプリケーション同士が相互に通信するための枠組みが不足します。
+共有された枠組みがないと、アプリケーションが[スケール](/ja/scalability/)し、統合することが困難になります。
 
 ## How it helps
 
