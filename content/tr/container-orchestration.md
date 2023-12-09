@@ -6,7 +6,7 @@ category: Concept
 
 ## Nedir
 
-Konteyner orkestrasyonu, dinamik ortamlarda konteynerleştirilmiş uygulamaların yaşam döngüsünün yönetilmesi ve otomasyonunu ifade eder.
+[Konteyner](/container/) orkestrasyonu, dinamik ortamlarda konteynerleştirilmiş uygulamaların yaşam döngüsünün yönetilmesi ve otomasyonunu ifade eder.
 Bu genellikle bir konteyner orkestratörü aracılığıyla gerçekleştirilir (çoğu durumda Kubernetes) ve bu da yük çalıştırmayı, (otomatik) ölçeklendirmeyi, otomatik iyileştirmeyi ve takip etmeyi olanaklı kılar.
 Orkestrasyon bir metafordur: orkestrasyon aracı, her bir konteynerin (veya müzisyenin) yapması gerekeni yaptığından emin olarak adeta bir müzik şefi gibi davranır.
 
