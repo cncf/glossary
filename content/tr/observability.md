@@ -1,5 +1,5 @@
 ---
-title: Observability
+title: Gözlemlenebilirlik
 status: Completed
 category: Concept
 tags: ["property", "", ""]
