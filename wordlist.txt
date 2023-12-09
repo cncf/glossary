@@ -230,6 +230,3 @@ TCP
 TCP/IP
 UDP
 HTTP/3
-HAProxy
-Nginx
-Traefik
