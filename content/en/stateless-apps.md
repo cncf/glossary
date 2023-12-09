@@ -1,6 +1,6 @@
 ---
  title: Stateless Apps
- status: Feedback Appreciated
+ status: Completed
  category: Property
  tags: ["fundamental", "application", "property"]
 ---
