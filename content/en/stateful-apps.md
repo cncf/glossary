@@ -5,8 +5,6 @@ category: concept
 tags: ["fundamental", "application", ""]
 ---
 
-## What it is
-
 When we speak of stateful (and stateless) apps, 
 state refers to any data the app needs to store to function as designed. 
 Any kind of online shop that remembers your cart is a stateful app for example. 

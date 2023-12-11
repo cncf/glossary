@@ -5,8 +5,6 @@ category: concept
 tags: ["methodology", "security", ""]
 ---
 
-## What it is
-
 The term DevSecOps refers to a cultural merger of the development, operational, and security responsibilities. 
 It extends the [DevOps](/devops/) approach to include security priorities 
 with minimal to no disruption in the developer and operational workflow. 

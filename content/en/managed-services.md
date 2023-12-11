@@ -6,8 +6,6 @@ category: Technology
 tags: ["", "", ""]
 ---
 
-## What it is
-
 A managed service is a software offering where operations and management are taken care of by a third party. 
 Examples include database as a service offerings like Amazon’s RDS or an external monitoring service like Datadog.
 
