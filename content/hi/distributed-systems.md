@@ -1,5 +1,5 @@
 ---
-शीर्षक: वितरित प्रणाली (Distributed System)
+title: वितरित प्रणाली (Distributed System)
 status: Completed
 category: concept
 tags: ["architecture"]
