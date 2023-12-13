@@ -5,10 +5,10 @@ category: コンセプト
 tags: ["アプリケーション", "方法論", ""]
 ---
 
-Continuous integration, often abbreviated as CI, is the practice of integrating code changes as regularly as possible.
-CI is a prerequisite for [continuous delivery](/continuous-delivery/) (CD).
-Traditionally, the CI process begins when code changes are committed to a source control system (Git, Mercurial, or Subversion)
-and ends with a tested artifact ready to be consumed by a CD system.
+継続的インテグレーション(CI)とは、コードの変更を可能な限り定期的に統合することを指します。
+CIは[継続的デリバリー](/ja/continuous-delivery/)(CD)の前提条件です。
+伝統的に、CIのプロセスはバージョンコントロールシステム(GitやMercurial、あるいはSubversion)にコードの変更がコミットされることで開始し、
+CDシステムで利用できるようになったテスト済みの成果物で終了します。
 
 ## Problem it addresses
 
