@@ -1,7 +1,7 @@
 ---
 title: कंटेनर ऑर्केस्ट्रेशन (Container Orchestration)
 status: Completed
-category: Concept
+category: अवधारणा
 ---
 
 ## यह क्या है
