@@ -10,13 +10,13 @@ CIは[継続的デリバリー](/ja/continuous-delivery/)(CD)の前提条件で�
 伝統的に、CIのプロセスはバージョンコントロールシステム(GitやMercurial、あるいはSubversion)にコードの変更がコミットされることで開始し、
 CDシステムで利用できるようになったテスト済みの成果物で終了します。
 
-## Problem it addresses
+## 解決すべき問題はなんですか
 
-Software systems are often large and complex, with numerous developers maintaining and updating them.
-Working in parallel on different parts of the system,
-these developers may make conflicting changes and inadvertently break each other’s work.
-Additionally, with multiple developers working on the same project,
-any everyday tasks such as testing and calculating code quality would need to be repeated by each developer, wasting time.
+ソフトウェアシステムはしばしば大規模で複雑であり、多くの開発者が維持や更新をしています。
+システムの異なる部分で並行して作業を行う開発者たちは、
+意図せずに互いの作業を壊すような矛盾した変更を加えることがあります。
+さらに、同じプロジェクトに複数の開発者が取り組む場合、
+テストやコード品質の計測といった日常的なタスクは、各開発者によって繰り返される必要があり、時間の無駄になります。
 
 ## How it helps
 
