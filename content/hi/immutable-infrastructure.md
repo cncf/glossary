@@ -1,8 +1,8 @@
 ---
 Title: अपरिवर्तनीय इन्फ्रा़स्ट्रक्चर (Immutable Infrastructure)
 status: Completed
-concept: संपत्ति
-tags: ["इन्फ्रा़स्ट्रक्चर ", "संपत्ति", ""]
+concept: property
+tags: ["infrastructure", "property"]
 ---
 
 अपरिवर्तनीय इन्फ्रा़स्ट्रक्चर का तात्पर्य कंप्यूटर के इन्फ्रा़स्ट्रक्चर से है, 
