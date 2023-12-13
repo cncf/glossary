@@ -20,11 +20,6 @@ CDシステムで利用できるようになったテスト済みの成果物で
 
 ## どのように役に立つのでしょうか
 
-CI software automatically checks that code changes merge cleanly whenever a developer commits a change.
-It's a near-ubiquitous practice to use the CI server to run code quality checks, tests, and even deployments.
-As such, it becomes a concrete implementation of quality control within teams.
-CI allows software teams to turn every code commit into either a concrete failure or a viable release candidate.
-
 CIソフトウェアは、開発者が変更をコミットするたびに、コードの変更がスムーズにマージできることを自動的に確認します。
 CIサーバーを使用してコードの品質チェック、テスト、さらにはデプロイメントを行うことは、広範囲にわたって一般的に行われる実践です。
 そのため、CIはチーム内の品質管理を具体的に実行する方法となります。
