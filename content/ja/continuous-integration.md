@@ -25,7 +25,7 @@ CIサーバーを使用してコードの品質チェック、テスト、さら
 そのため、CIはチーム内の品質管理を具体的に実行する方法となります。
 CIを利用することで、ソフトウェアチームはすべてのコードのコミットを、具体的な失敗か実用的なリリース候補のいずれかにすることができます。
 
-## Related terms
+## 関連する用語はありますか
 
-* [Continuous Delivery](/continuous-delivery/)
-* [Continuous Deployment](/continuous-deployment/)
+* [継続的デリバリー](/ja/continuous-delivery/)
+* [継続的デプロイメント](/ja/continuous-deployment/)
