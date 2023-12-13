@@ -5,8 +5,6 @@ category: technology
 tags: ["networking", "", ""]
 ---
 
-## What it is
-
 In a [microservices](/microservices/) world, apps are broken down into multiple smaller [services](/service/) that communicate over a network. 
 Just like your wifi network, computer networks are intrinsically unreliable, hackable, and often slow. 
 Service meshes address this new set of challenges by managing traffic (i.e., communication) between services and 

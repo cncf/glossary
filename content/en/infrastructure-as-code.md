@@ -5,8 +5,6 @@ category: concept
 tags: ["infrastructure", "methodology", ""]
 ---
 
-## What it is
-
 Infrastructure as code is the practice of storing the definition of infrastructure as one or more files. 
 This replaces the traditional model where infrastructure as a service is provisioned manually, 
 usually through shell scripts or other configuration tools.
