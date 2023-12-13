@@ -1,8 +1,8 @@
 ---
-title: ट्रांसपोर्ट लेयर सिक्योरिटी (TLS)
+title: ट्रांसपोर्ट लेयर सिक्योरिटी Transport Layer Security (TLS)
 status: Completed
-category: संकल्पना
-tags: ["सुरक्षा", "नेटवर्किंग", ""]
+category: Concept
+tags: ["security", "networking"]
 ---
 
 ## यह क्या है
