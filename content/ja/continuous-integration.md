@@ -1,11 +1,9 @@
 ---
-title: Continuous integration (CI)
+title: 継続的インテグレーション(CI)
 status: Completed
-category: concept
-tags: ["application", "methodology", ""]
+category: コンセプト
+tags: ["アプリケーション", "方法論", ""]
 ---
-
-## What it is
 
 Continuous integration, often abbreviated as CI, is the practice of integrating code changes as regularly as possible.
 CI is a prerequisite for [continuous delivery](/continuous-delivery/) (CD).
