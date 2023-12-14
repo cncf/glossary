@@ -21,13 +21,12 @@ CDは、ソフトウェアがデプロイメント前に適切にテストされ
 歴史的に、これらのコストを避けるために、組織は頻繁にリリースを行わず、
 一度に多くの変更をデプロイしてきましたが、これにより何かが間違ってしまうリスクが高まります。
 
-## How it helps
+## どのように役に立つのでしょうか
 
-CD strategies create a fully automated path to production
-that tests and deploys the software using various deployment strategies
-such as [canary](/canary-deployment/) or [blue-green](/blue-green-deployment/) releases.
-This allows developers to deploy code frequently,  giving them peace of mind that the new revision has been tested.
-Typically, trunk-based development is used in CD strategies as opposed to feature branching or pull requests.
+CD戦略は、完全に自動化された本番環境へのパスを作成し、
+[カナリア](/ja/canary-deployment/)や[ブルーグリーン](/ja/blue-green-deployment/)リリースなどの様々なデプロイメント戦略を使用してソフトウェアをテストしデプロイします。
+これにより、開発者は頻繁にコードをデプロイすることができ、新しいリビジョンがテストされていることを安心して受け入れることができます。
+通常CD戦略では、フィーチャーブランチやプルリクエストとは対照的に、トランクベースの開発を行います。
 
 ## Related terms
 
