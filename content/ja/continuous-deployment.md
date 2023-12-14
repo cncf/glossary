@@ -11,13 +11,13 @@ tags: ["アプリケーション", "方法論", ""]
 CIプロセスは特定のアプリケーションへの変更が有効であるかどうかをテストし、
 CDプロセスはコードの変更を自動的に組織のテスト環境や本番環境にデプロイします。
 
-## Problem it addresses
+## 解決すべき問題はなんですか
 
-Releasing new software versions can be a labor-intensive and error-prone process.
-It is also often something that organizations will only want to do infrequently to avoid production incidents
-and reduce the number of time engineers need to be available outside of regular business hours.
-Traditional software deployment models leave organizations in a vicious cycle
-where the process of releasing software fails to meet organizational needs around both stability and feature velocity.
+新しいソフトウェアバージョンのリリースは、労力がかかりエラーが発生しやすいプロセスです。
+また本番環境でのインシデントを避け、エンジニアが通常の業務時間外に対応する時間を減らすため、
+組織が頻繁に行いたがらないことも多いです。
+伝統的なソフトウェアデプロイメントモデルでは、
+ソフトウェアのリリースプロセスが組織の安定性と機能の速度の両方に関するニーズを満たせず、組織を悪循環に陥らせます。
 
 ## How it helps
 
