@@ -19,12 +19,12 @@ CDプロセスはコードの変更を自動的に組織のテスト環境や本
 伝統的なソフトウェアデプロイメントモデルでは、
 ソフトウェアのリリースプロセスが組織の安定性と機能の速度の両方に関するニーズを満たせず、組織を悪循環に陥らせます。
 
-## How it helps
+## どのように役に立つのでしょうか
 
-By automating the release cycle and forcing organizations to release to production more frequently,
-CD does what CI did for development teams for operations teams.
-Specifically, it forces operations teams to automate the painful and error-prone portions of production deployments, reducing overall risk.
-It also makes organizations better at accepting and adapting to production changes, which leads to higher stability.
+リリースサイクルを自動化し、組織に頻繁に本番環境へのリリースを強制することにより、
+CDは運用チームに対して、CIが開発チームにもたらした効果を実現します。
+具体的には、運用チームが本番へのデプロイメントの際に煩雑でエラーが発生しやすい部分を自動化するように促し、全体的なリスクを減少させます。
+また組織が本番環境の変更を受け入れ、適応する能力を向上させ、より高い安定性を達成します。
 
 ## Related terms
 
