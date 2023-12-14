@@ -1,8 +1,8 @@
 ---
 title: डिस्ट्रिब्यूटेड सिस्टम (Distributed System)
 status: Completed
-category: concept
-tags: ["architecture"]
+category: अवधारणा
+tags: ["आर्किटेक्चर"]
 ---
 
 डिस्ट्रिब्यूटेड सिस्टम स्वायत्त कंप्यूटिंग तत्वों का एक संग्रह है
