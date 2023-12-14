@@ -5,12 +5,11 @@ category: コンセプト
 tags: ["アプリケーション", "方法論", ""]
 ---
 
-Continuous deployment, often abbreviated as CD, goes a step further than [continuous delivery](/continuous-delivery/)
-by deploying finished software directly to production.
-Continuous deployment (CD) goes hand in hand with [continuous integration](/continuous-integration/) (CI),
-and is often referred to as CI/CD.
-The CI process tests if the changes to a given application are valid,
-and the CD process automatically deploys the code changes through an organization's environments from test to production.
+継続的デプロイメント(しばしばCDと略される)は、
+完成したソフトウェアを直接本番環境にデプロイするという点で[継続的デリバリー](/ja/continuous-delivery/)より一歩進んでいます。
+継続的デプロイメント(CD)は[継続的インテグレーション](/ja/continuous-integration/)(CI)と密接に関連しており、しばしばCI/CDと呼ばれます。
+CIプロセスは特定のアプリケーションへの変更が有効であるかどうかをテストし、
+CDプロセスはコードの変更を自動的に組織のテスト環境や本番環境にデプロイします。
 
 ## Problem it addresses
 
