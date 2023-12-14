@@ -26,7 +26,7 @@ CDは運用チームに対して、CIが開発チームにもたらした効果�
 具体的には、運用チームが本番へのデプロイメントの際に煩雑でエラーが発生しやすい部分を自動化するように促し、全体的なリスクを減少させます。
 また組織が本番環境の変更を受け入れ、適応する能力を向上させ、より高い安定性を達成します。
 
-## Related terms
+## 関連する用語はありますか
 
-* [Continuous Integration](/continuous-integration/)
-* [Continuous Delivery](/continuous-delivery/)
+* [継続的インテグレーション](/ja/continuous-integration/)
+* [継続的デリバリー](/ja/continuous-delivery/)
