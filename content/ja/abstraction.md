@@ -2,7 +2,7 @@
 title: Abstraction
 status: Completed
 category: プロパティ
-tags: ["fundamental", "", ""]
+tags: ["基礎, "", ""]
 ---
 
 コンピューティングのコンテキストでは、抽象化とは[サービス](/service/)の消費者(消費者はコンピュータープログラムまたは人間)から詳細を隠す表現であり、システムをより一般的にして理解しやすくします。
