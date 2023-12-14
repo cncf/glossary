@@ -1,11 +1,9 @@
 ---
-title: Continuous Deployment (CD)
+title: 継続的デプロイメント(CD)
 status: Completed
-category: concept
-tags: ["application", "methodology", ""]
+category: コンセプト
+tags: ["アプリケーション", "方法論", ""]
 ---
-
-## What it is
 
 Continuous deployment, often abbreviated as CD, goes a step further than [continuous delivery](/continuous-delivery/)
 by deploying finished software directly to production.
