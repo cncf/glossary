@@ -5,13 +5,13 @@ category: コンセプト
 tags: ["方法論", "アプリケーション", ""]
 ---
 
-Continuous delivery, often abbreviated as  CD, is a set of practices
-in which code changes are automatically deployed into an acceptance environment
-(or, in the case of continuous deployment, into production).
-CD crucially includes procedures to ensure that software is adequately tested
-before deployment and provides a way to rollback changes if deemed necessary.
-Continuous integration (CI) is the first step towards continuous delivery
-(i.e., changes have to merge cleanly before being tested and deployed).
+継続的デリバリー（しばしばCDと略される）は、
+コードの変更が自動的に受け入れ環境にデプロイされる
+（または継続的デプロイメントの場合、本番環境にデプロイされる）一連の実践を指します。
+CDは、ソフトウェアがデプロイメント前に適切にテストされていることを保証する手順を重要視し、
+必要と判断された場合に変更をロールバックする方法を提供します。
+継続的インテグレーション(CI)は継続的デリバリーに向けた最初のステップです
+(つまり、テストやデプロイがされる前に、変更がうまく統合されなければなりません。)
 
 ## Problem it addresses
 
