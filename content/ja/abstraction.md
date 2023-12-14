@@ -1,7 +1,7 @@
 ---
 title: Abstraction
 status: Completed
-category: Property
+category: プロパティ
 tags: ["fundamental", "", ""]
 ---
 
