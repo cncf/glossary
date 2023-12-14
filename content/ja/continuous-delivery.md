@@ -28,7 +28,7 @@ CD戦略は、完全に自動化された本番環境へのパスを作成し、
 これにより、開発者は頻繁にコードをデプロイすることができ、新しいリビジョンがテストされていることを安心して受け入れることができます。
 通常CD戦略では、フィーチャーブランチやプルリクエストとは対照的に、トランクベースの開発を行います。
 
-## Related terms
+## 関連する用語はありますか
 
-* [Continuous Integration](/continuous-integration/)
-* [Continuous Deployment](/continuous-deployment/)
+* [継続的インテグレーション](/ja/continuous-integration/)
+* [継続的デプロイメント](/ja/continuous-deployment/)
