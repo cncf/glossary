@@ -13,13 +13,13 @@ CDは、ソフトウェアがデプロイメント前に適切にテストされ
 継続的インテグレーション(CI)は継続的デリバリーに向けた最初のステップです
 (つまり、テストやデプロイがされる前に、変更がうまく統合されなければなりません。)
 
-## Problem it addresses
+## 解決すべき問題は何ですか
 
-Deploying [reliable](/reliability/) updates becomes a problem at scale.
-Ideally, we'd deploy more frequently to deliver better value to end-users.
-However, doing it manually translates into high transaction costs for every change.
-Historically, to avoid these costs, organizations have released less frequently,
-deploying more changes at once and increasing the risk that something goes wrong.
+大規模な環境では、[信頼性](/ja/reliability/)の高いアップデートのデプロイが問題となります。
+理想的には、エンドユーザーにより良い価値を提供するために、頻繁にデプロイを行いたいところです。
+しかし、それを手動で行うと変更ごとに高いトランザクションコストが発生します。
+歴史的に、これらのコストを避けるために、組織は頻繁にリリースを行わず、
+一度に多くの変更をデプロイしてきましたが、これにより何かが間違ってしまうリスクが高まります。
 
 ## How it helps
 
