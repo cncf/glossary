@@ -1,11 +1,9 @@
 ---
-title: Continuous Delivery (CD)
+title: 継続的デリバリー(CD)
 status: Completed
-category: concept
-tags: ["methodology", "application", ""]
+category: コンセプト
+tags: ["方法論", "アプリケーション", ""]
 ---
-
-## What it is
 
 Continuous delivery, often abbreviated as  CD, is a set of practices
 in which code changes are automatically deployed into an acceptance environment
