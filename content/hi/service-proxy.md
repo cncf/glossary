@@ -2,7 +2,7 @@
 शीर्षक: सर्विस प्रॉक्सी (Service Proxy)
 status: Completed
 category: टैकनोलजी
-tags: ["networking"]
+tags: ["नेटवर्किंग"]
 ---
 
 सर्विस प्रॉक्सी किसी दिए गए [सर्विस](/service/) से या उससे आने वाले ट्रैफ़िक को रोकता है,
