@@ -1,7 +1,7 @@
 ---
 शीर्षक: सर्विस प्रॉक्सी (Service Proxy)
 status: Completed
-category: technology
+category: टैकनोलजी
 tags: ["networking"]
 ---
 
