@@ -10,15 +10,14 @@ tags: ["インフラストラクチャー", "基礎", ""]
 各Podには単一のアプリケーションインスタンスが含まれ、一つ以上の[コンテナ](/ja/container/)を保持することができます。
 Kubernetesは、より大規模なDeploymentの一部としてPodを管理し、必要に応じてPodを[垂直スケーリング](/ja/vertical-scaling/)または[水平スケーリング](/ja/horizontal-scaling/)することができます。
 
-## Problem it addresses
+## 解決すべき問題はなんですか
 
-While containers generally act as independent units that run and control a particular workload,
-there are cases when containers need to interact and be controlled in a tightly coupled manner.
+コンテナは一般的に、特定のワークロードを実行し制御する独立した単位として機能しますが、
+コンテナが密接に相互作用し、適切に連携して制御される必要がある場合もあります。
 
-If each of these closely related containers were managed individually, it would lead to redundant management tasks.
-For example, the operator would have to repeatedly determine the placement of related containers to ensure they remain together.
-And although the lifecycles of these related containers need to be synchronized, they can only be managed individually.
-
+これらの密接に関連するコンテナがそれぞれ個別に管理される場合、冗長な管理作業が発生します。
+たとえば、オペレーターは関連するコンテナの配置を繰り返し判断し、それらが一緒に保たれるようにしなければなりません。
+また、これらの関連するコンテナのライフサイクルは同期される必要がありますが、個別にしか管理できません。
 
 ## How it helps
 
