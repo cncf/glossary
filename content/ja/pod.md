@@ -19,12 +19,13 @@ Kubernetesは、より大規模なDeploymentの一部としてPodを管理し、
 たとえば、オペレーターは関連するコンテナの配置を繰り返し判断し、それらが一緒に保たれるようにしなければなりません。
 また、これらの関連するコンテナのライフサイクルは同期される必要がありますが、個別にしか管理できません。
 
-## How it helps
+## どのように役に立つのでしょうか
 
-Pods bundle closely tied containers into a single unit, significantly simplifying container operations.
-For instance, auxiliary containers are often used alongside the main container to add additional functionalities or to set up global configurations.
-Examples include containers that inject and apply basic settings to the main container,
-_sidecar_ (containers) that handle network traffic routing for the main container (see [service mesh](/service-mesh/)),
-or containers collecting logs in conjunction with each container.
+Podは密接に関連するコンテナを単一のユニットにまとめることで、
+コンテナ操作を大幅に簡素化します。
+たとえば、補助的なコンテナは、追加機能を提供したり、グローバルな設定を行うために主コンテナと一緒に使用されることがよくあります。
+これには、基本設定を主コンテナに注入して適用するコンテナ、
+_sidecar_(コンテナ)であり、主コンテナのためのネットワークトラフィックルーティングを処理する([サービスメッシュ](/ja/service-mesh/)を参照)、
+あるいは各コンテナと連動してログを収集するコンテナなどが含まれます。
 
-Memory and CPU allocation can be defined either on a pod level, allowing the containers inside to share resources in a flexible way, or per container.
+メモリとCPUの割り当ては、Podレベルで定義することも、コンテナごとに定義することもできます。Podレベルで定義すると、内部のコンテナがリソースを柔軟に共有できます。
