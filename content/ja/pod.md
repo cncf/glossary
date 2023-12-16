@@ -1,11 +1,9 @@
 ---
 title: Pod
 status: Completed
-category: concept
-tags: ["infrastructure", "fundamental", ""]
+category: コンセプト
+tags: ["インフラストラクチャー", "基礎", ""]
 ---
-
-## What it is
 
 Within a [Kubernetes](/kubernetes/) environment, a pod acts as the most basic deployable unit.
 It represents an essential building block for deploying and managing containerized applications.
