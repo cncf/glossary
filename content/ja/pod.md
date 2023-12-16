@@ -5,10 +5,10 @@ category: コンセプト
 tags: ["インフラストラクチャー", "基礎", ""]
 ---
 
-Within a [Kubernetes](/kubernetes/) environment, a pod acts as the most basic deployable unit.
-It represents an essential building block for deploying and managing containerized applications.
-Each pod contains a single application instance and can hold one or more [containers](/container/).
-Kubernetes manages pods as part of a larger deployment and can scale pods [vertically](/vertical-scaling/) or [horizontally](/horizontal-scaling/) as needed.
+[Kubernetes](/ja/kubernetes/)環境の中では、Podは最も基本的なデプロイ可能ユニットとして機能します。
+これはコンテナ化されたアプリケーションをデプロイし、管理するための基本的な構成要素を表しています。
+各Podには単一のアプリケーションインスタンスが含まれ、一つ以上の[コンテナ](/ja/container/)を保持することができます。
+Kubernetesは、より大規模なDeploymentの一部としてPodを管理し、必要に応じてPodを[垂直スケーリング](/ja/vertical-scaling/)または[水平スケーリング](/ja/horizontal-scaling/)することができます。
 
 ## Problem it addresses
 
