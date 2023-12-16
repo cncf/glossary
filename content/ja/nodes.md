@@ -1,11 +1,9 @@
 ---
-title: Nodes
+title: ノード
 status: Completed
 category: Concept
-tags: ["infrastructure", "fundamental", ""]
+tags: ["インフラストラクチャー", "基礎", ""]
 ---
-
-## What it is
 
 A node is a computer that works in concert with other computers, or nodes, to accomplish a common task.
 Take your laptop, modem, and printer, for example.
