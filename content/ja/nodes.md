@@ -10,12 +10,13 @@ tags: ["インフラストラクチャー", "基礎", ""]
 これらはすべてあなたのWi-Fiネットワークを介して接続されており、通信し協力しており、それぞれが一つのノードを表しています。
 [クラウドコンピューティング](/ja/cloud-computing/)において、ノードは物理的なコンピューターであったり、仮想コンピューター、つまり[VM](/ja/virtual-machine/)（バーチャルマシン）であったり、または[コンテナ](/ja/container/)であることもあります。
 
-## Problem it addresses
+## 解決すべき問題はなんですか
 
-While an application could (and many do) run on one single machine, there are some risks involved with that.
-Namely that the failure of the underlying system will disrupt the application.
-To address this, developers started creating [distributed applications](/distributed-apps/) where each process runs on its own node.
-Thus, nodes run apps or processes as part of a group forming a [cluster](/cluster/), or group, of nodes that works together to achieve a common goal.
+アプリケーションは1台のマシン上で動作させることができます(そして実際に多くのアプリケーションがそうしています)が、それにはいくつかのリスクが伴います。
+具体的には、基盤となるシステムの故障がアプリケーションの中断を引き起こすことです。
+これに対処するために、開発者たちは[分散アプリケーション](/ja/distributed-apps/)を作り始めました。
+これは、各プロセスがそれぞれのノード上で動作します。
+それゆえ、ノードはアプリやプロセスを実行し、共通の目標を達成するために協力するノードの[クラスター](/ja/cluster/)、またはグループの一部として機能します。
 
 ## How it helps
 
