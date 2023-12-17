@@ -18,9 +18,8 @@ tags: ["インフラストラクチャー", "基礎", ""]
 これは、各プロセスがそれぞれのノード上で動作します。
 それゆえ、ノードはアプリやプロセスを実行し、共通の目標を達成するために協力するノードの[クラスター](/ja/cluster/)、またはグループの一部として機能します。
 
-## How it helps
+## どのように役に立つのでしょうか
 
-A node gives you a distinct unit of compute (memory, CPU, network) that you can assign to a cluster.
-In a [cloud native](/cloud-native-tech/) platform or app a node represents a single unit that can perform work.
-Ideally, individual nodes are undifferentiated in that
-any one node of a particular type is indistinguishable from any other node of the same type.
+ノードはクラスタに割り当てることができる計算上の明確な単位(メモリ、CPU、ネットワーク)を提供します。
+[クラウドネイティブ](/cloud-native-tech/)プラットフォームやアプリでは、ノードは作業を行うことができる単一のユニットを表します。
+理想的には個々のノードには区別がなく、特定のタイプのあるノードは、同じタイプの他のノードと区別がつかないものとされます。
