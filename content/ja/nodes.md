@@ -1,7 +1,7 @@
 ---
 title: ノード
 status: Completed
-category: Concept
+category: コンセプト
 tags: ["インフラストラクチャー", "基礎", ""]
 ---
 
