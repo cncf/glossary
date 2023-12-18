@@ -4,8 +4,6 @@ status: Completed
 tags: ["architecture", "fundamental", ""]
 ---
 
-## What it is
-
 A microservices architecture is an architectural approach that breaks applications into individual independent (micro)[services](/service/), with each service focused on a specific functionality.
 These services work together closely, appearing to the end user as a single entity. 
 Take Netflix as an example. 
@@ -25,7 +23,7 @@ Traditionally (monolithic approach), the entire app would have to be [scaled](/s
 
 Monolithic architectures also make it easy for developers to succumb to design pitfalls. 
 Because all the code is in one place, it is easier to make that code [tightly coupled](/tightly-coupled-architectures/) and harder to enforce the principle of separation of concerns. 
-Monoliths also often require developers to understand the entire codebase before deploying any chances. 
+Monoliths also often require developers to understand the entire codebase before deploying any changes. 
 Microservices architecture is a response to these challenges.  
 
 

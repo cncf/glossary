@@ -5,8 +5,6 @@ category: technology
 tags: ["architecture", "fundamental", ""]
 ---
 
-## What it is
-
 An API is a way for computer programs to interact with each other. 
 Just as humans interact with a website via a web page, an API allows computer programs to interact with each other. 
 Unlike human interactions, APIs have limitations on what can and cannot be asked of them. 

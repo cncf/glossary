@@ -5,8 +5,6 @@ category: Property
 tags: ["architecture", "property", ""]
 ---
 
-## What it is
-
 Multitenancy (or multi-tenancy) refers to a single software installation that serves multiple tenants.
 A tenant is a user, application, or a group of users/applications that utilize the software to operate on their own data set.
 These tenants don't share data (unless explicitly instructed by the owner) and may not even be aware of one another.
@@ -35,5 +33,5 @@ on to the tenants, significantly reducing the software cost for users (again, th
 
 ## Related terms
 
-Multitenancy is not synonymous with [SaaS](/software-as-a-service/),
+Multitenancy is not synonymous with SaaS,
 although it is very common for SaaS to be multitenant and even to feature multitenancy as one of its core benefits.

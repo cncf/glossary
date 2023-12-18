@@ -1,34 +1,40 @@
 lang/ar:
-- content/ar/*
+- content/ar/**
 
 lang/bn:
-- content/bn/*
+- content/bn/**
 
 lang/de:
-- content/de/*
+- content/de/**
 
 lang/en:
-- content/en/*
+- content/en/**
 
 lang/es:
-- content/es/*
+- content/es/**
 
 lang/fr:
-- content/fr/*
-
-lang/it:
-- content/it/*
+- content/fr/**
 
 lang/hi:
-- content/hi/*
+- content/hi/**
+
+lang/it:
+- content/it/**
+
+lang/ja:
+- content/ja/**
 
 lang/ko:
-- content/ko/*
+- content/ko/**
 
 lang/pt:
-- content/pt-br/*
+- content/pt-br/**
+
+lang/tw:
+- content/zh-tw/**
 
 lang/zh:
-- content/zh-cn/*
+- content/zh-cn/**
 
 

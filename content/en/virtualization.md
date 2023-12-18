@@ -5,8 +5,6 @@ category: technology
 tags: ["fundamental", "infrastructure", "methodology"]
 ---
 
-## What it is
-
 Virtualization, in the context of cloud native computing, 
 refers to the process of taking a physical computer, sometimes called a server, 
 and allowing it to run multiple isolated operating systems. 
@@ -28,4 +26,3 @@ whilst still being isolated from each other for security.
 Apps running on virtual machines have no awareness that they are sharing a physical computer. 
 Virtualization also allows the users of the datacenter to spin up a new "computer" (aka a VM) in minutes 
 without worrying about the physical constraints of adding a new computer to a datacenter. 
-VMs also enable users to speed up the time to get a new virtual computer.

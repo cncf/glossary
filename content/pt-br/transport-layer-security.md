@@ -2,7 +2,7 @@
 title: TLS
 status: Completed
 category: conceito
-tags: ["segurança", "", ""]
+tags: ["segurança", "rede", ""]
 ---
 
 ## O que é

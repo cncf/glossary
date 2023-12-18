@@ -5,8 +5,6 @@ category: technology
 tags: ["security", "", ""]
 ---
 
-## What it is
-
 A (digital) certificate — also often referred to as a public key certificate, or SSL certificate — is a digital document used to help secure communications over the network. 
 Certificates allow us to know that the particular entity we're communicating with is who they say they are.
 They also allow us to ensure that our communications are private by encrypting the data we send and receive.

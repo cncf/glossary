@@ -44,6 +44,9 @@ other = "সমস্ত অধিকার সংরক্ষিত"
 other = "গোপনীয়তা নীতি"
 
 
+[footer_hub_button_text]
+other = "All CNCF Sites"
+
 # Post (blog, articles etc.)
 [post_byline_by]
 other = "দ্বারা"

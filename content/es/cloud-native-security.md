@@ -12,7 +12,7 @@ Garantiza que la seguridad sea parte de todo el ciclo de vida de la aplicación,
 La seguridad nativa para la nube busca garantizar los mismos estándares que los modelos de seguridad tradicionales
 mientras se adapta a las particularidades de los entornos nativos para la nube,
 es decir, cambios rápidos de código e infraestructura altamente efímera.
-La seguridad nativa para la nube está muy relacionada con la práctica denominada [DevSecOps](/devsecops/).
+La seguridad nativa para la nube está muy relacionada con la práctica denominada [DevSecOps](/es/devsecops/).
 
 ## Problema que aborda
 

@@ -5,8 +5,6 @@ category: concept
 tags: ["methodology", "", ""]
 ---
 
-## What it is
-
 Chaos Engineering or CE is the discipline of experimenting on a [distributed system](/distributed-systems/) in production 
 to build confidence in the system's capability to withstand turbulent and unexpected conditions.
 
