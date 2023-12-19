@@ -6,8 +6,6 @@ draft: true
 tags: ["", "", ""]
 ---
 
-## ¿Qué es?
-
 Base de Datos como Servicio (DBaaS, por sus siglas en inglés _data base as a service_) es un servicio en la [nube](/es/cloud-computing/) (pública o privada)
 que soporta aplicaciones sin necesidad de que el equipo de desarrollo ejecute tareas tradicionales de administración de base de datos.
 DBaaS permite a los desarrolladores de aplicaciones a utilizar bases de datos sin ser expertos o

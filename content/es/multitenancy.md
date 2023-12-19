@@ -5,8 +5,6 @@ category: Propiedad
 tags: ["architecture", "property", ""]
 ---
 
-## ¿Qué es?
-
 Tenencia Múltiple (o multitenancy) se refiere a una única instalación de software que sirve a varios inquilinos.
 Un inquilino es un usuario, una aplicación o un grupo de usuarios/aplicaciones que utilizan el software para operar con su propio conjunto de datos.
 Estos inquilinos no comparten datos (a menos que el propietario explícitamente se lo indique) e incluso pueden no ser conscientes unos de otros.  

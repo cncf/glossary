@@ -4,8 +4,6 @@ status: Feedback Appreciated
 category: Concepto
 ---
 
-## ¿Qué es?
-
 Resumen rápido del concepto y qué es.
 
 ## Problema que aborda

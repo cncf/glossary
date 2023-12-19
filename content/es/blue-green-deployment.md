@@ -5,8 +5,6 @@ category: Concepto
 tags: ["methodology", "application", ""]
 ---
 
-## ¿Qué es?
-
 El despliegue Blue green es una estrategia para actualizar los sistemas informáticos en ejecución con un tiempo de inactividad mínimo.
 El operador mantiene dos entornos, llamados "blue" y "green".
 Uno sirve el tráfico de producción (la versión que todos los usuarios usan actualmente), mientras que el otro está actualizado.

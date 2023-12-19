@@ -5,8 +5,6 @@ category: Tecnología
 tags: ["infrastructure", "", ""]
 ---
 
-## ¿Qué es?
-
 Infraestructura como Servicio, o IaaS, es un modelo de servicio de [computación en la nube](/es/cloud_computing/) que
 ofrece recursos de cómputo, almacenamiento y red mediante servidores [físicos](/es/bare_metal_machine/) o [virtualizados](/es/virtualization/)
 suministrados bajo demanda en un modelo de pago por uso.

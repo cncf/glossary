@@ -5,8 +5,6 @@ category: Tecnología
 tags: ["fundamental", "infrastructure", "methodology"]
 ---
 
-## ¿Qué es?
-
 La virtualización, en el contexto de la computación nativa para la nube,
 refiere al proceso de tomar una computadora física, algunas veces llamada servidor,
 y permitirle ejecutar múltiples sistemas operativos aislados.
