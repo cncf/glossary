@@ -1,10 +1,8 @@
 ---
-title: Container Orchestration
+title: コンテナオーケストレーション
 status: Completed
-category: Concept
+category: コンセプト
 ---
-
-## What it is
 
 [Container](/container/) orchestration refers to managing and automating the lifecycle of containerized applications in dynamic environments.
 It's executed through a container orchestrator (in most cases, [Kubernetes](/kubernetes)), which enables deployments, (auto)scaling, auto-healing, and monitoring.
