@@ -5,8 +5,6 @@ category: concept
 tags: ["infrastructure", "fundamental", ""]
 ---
 
-## What it is
-
 Cloud computing offers compute resources like CPU, network, and disk capabilities on-demand over the internet, allowing users to access and use computing power in a remote physical location. 
 We generally differentiate between private and public cloud, depending on whether the cloud infrastructure is exclusively dedicated to an organization or shared for open public services.
 

@@ -1,8 +1,8 @@
 ---
 Title: Software como Serviço
-Status: Completed
+Status: Deprecated
 Category: tecnologia
-tags: ["fundamentos", "plataforma", ""]
+tags: ["descontinuado", "", ""]
 ---
 
 ## O que é
