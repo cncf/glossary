@@ -2,7 +2,7 @@
 title: Konteynerleştirme
 status: Completed
 category: Teknoloji
-tags: ["application", "", ""]
+tags: ["uygulama", "", ""]
 ---
 
 ## Nedir

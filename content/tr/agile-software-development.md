@@ -2,7 +2,7 @@
 title: Çevik Yazılım Geliştirme
 status: Completed
 category: concept
-tags: ["methodology", "", ""]
+tags: ["yöntem", "", ""]
 ---
 
 ## Nedir

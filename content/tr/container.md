@@ -2,7 +2,7 @@
 title: Konteynerler
 status: Completed
 category: technology
-tags: ["application", "fundamental", ""]
+tags: ["uygulama", "temel kavram", ""]
 ---
 
 ## Nedir

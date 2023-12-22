@@ -2,7 +2,7 @@
 title: Kod Olarak Altyapı (IaC)
 status: Completed
 category: concept
-tags: ["infrastructure", "methodology", ""]
+tags: ["altyapı", "yöntem", ""]
 ---
 
 ## Nedir

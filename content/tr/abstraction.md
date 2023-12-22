@@ -2,7 +2,7 @@
 title: Soyutlama
 status: Completed
 category: Nitelik
-tags: ["fundamental", "", ""]
+tags: ["temel kavram", "", ""]
 ---
 
 Bilişimde soyutlama (abstraction), bir hizmet kullanıcısından (bu bir program veya insan olabilir) ayrıntıları gizleyip, bir sistemi daha genelleyici ve kolay anlaşılır hale getiren bir temsildir.

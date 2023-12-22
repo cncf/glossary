@@ -2,7 +2,7 @@
 title: Cloud Native Teknolojisi
 status: Completed
 category: Kavram
-tags: ["Fundamental", "", ""]
+tags: ["temel kavram", "", ""]
 ---
 
 ## Nedir
