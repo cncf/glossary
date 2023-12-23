@@ -15,9 +15,9 @@ category: コンセプト
 手動で行うには難しく、場合によっては不可能です。
 コンテナオーケストレーションにより、これらすべての管理タスクを自動化することができます。
 
-## How it helps
+## どのように役に立つのでしょうか
 
-Container orchestration tools allow users to determine a system's state.
-First, they declare how it should look like (e.g., x containers, y pods, etc.).
-The orchestration tool will then automatically monitor the infrastructure and correct it if its state deviates from the declared one (e.g., spin up a new container if one crashes).
-This automation simplifies many of the engineering teams' otherwise highly manual and complex operational tasks, including provisioning, deployment, scaling (up and down), networking, load balancing, and other activities.
+コンテナオーケストレーションツールは、ユーザーがシステムの状態を決定することを可能にします。
+まず、システムがどのようにあるべきかを宣言します(例えばx個のコンテナ、y個のポッドなど)。
+その後、オーケストレーションツールは自動的にインフラを監視し、現状が宣言した状態から逸脱した場合には修正します(例えばコンテナがクラッシュした場合に新しいコンテナを立ち上げるなど)。
+この自動化により、プロビジョニング、デプロイメント、スケーリング（増減）、ネットワーキング、ロードバランシングといった、エンジニアリングチームが手作業で行う複雑な運用タスクが大幅に簡素化されます。
