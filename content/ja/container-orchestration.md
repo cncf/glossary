@@ -9,10 +9,11 @@ category: コンセプト
 オーケストレーションという言葉は比喩です。
 オーケストレーションツールは、音楽指揮者のようにコンテナを指揮し、すべてのコンテナ(または音楽家)が適切に機能するようにします。
 
-## Problem it addresses
+## 解決すべき問題は何ですか
 
-Managing [microservices](/microservices), security, and network communication at scale — and [distributed systems](/distributed-systems) in general — is hard, if not impossible, to manage manually.
-Container orchestration allows users to automate all these management tasks.
+スケールに応じて[マイクロサービス](/ja/microservices)、セキュリティ、ネットワーク通信や一般的な[分散システム](/ja/distributed-systems)を管理することは、
+手動で行うには難しく、場合によっては不可能です。
+コンテナオーケストレーションにより、これらすべての管理タスクを自動化することができます。
 
 ## How it helps
 
