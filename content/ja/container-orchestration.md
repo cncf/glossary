@@ -4,10 +4,10 @@ status: Completed
 category: コンセプト
 ---
 
-[Container](/container/) orchestration refers to managing and automating the lifecycle of containerized applications in dynamic environments.
-It's executed through a container orchestrator (in most cases, [Kubernetes](/kubernetes)), which enables deployments, (auto)scaling, auto-healing, and monitoring.
-Orchestration is a metaphor:
-The orchestration tool conducts containers like a music conductor, ensuring every container (or musician) does what it should.
+[コンテナ](/ja/container/)オーケストレーションとは、流動的な環境において、コンテナ化されたアプリケーションのライフサイクルを管理し自動化することを指します。
+これはコンテナオーケストレータ(ほとんどの場合は[Kubernetes](/ja/kubernetes))を通じて実行され、デプロイメント、(自動)スケーリング、自動ヒーリング、モニタリングが可能になります。
+オーケストレーションという言葉は比喩です。
+オーケストレーションツールは、音楽指揮者のようにコンテナを指揮し、すべてのコンテナ(または音楽家)が適切に機能するようにします。
 
 ## Problem it addresses
 
