@@ -9,19 +9,19 @@ DevOpsは、アプリケーション開発から本番運用までの全過程�
 これは一連の技術を実装することを超えて、文化やプロセスの完全な変革を必要とします。
 DevOpsは、(全体の機能ではなく)小さなコンポーネントに取り組むエンジニアのグループを求め、エラーの一般的な原因である引き渡しの回数を減らします。
 
-## Problem it addresses
+## 解決すべき問題はなんですか
 
-Traditionally, in complex organizations with [tightly-coupled](/tightly-coupled-architectures/) [monolithic apps](/monolithic-apps/),
-work was generally fragmented between multiple groups.
-This led to numerous handoffs and long lead times.
-Each time a component or update was ready, it was placed in a queue for the next team.
-Because individuals only worked on one small piece of the project, this approach led to a lack of ownership.
-Their goal was to get the work to the next group, not deliver the right functionality to the customer
-— a clear misalignment of priorities.
+従来、[密結合な](/ja/tightly-coupled-architectures/)[モノリシックアプリ](/ja/monolithic-apps/)を持つ複雑な組織では、
+通常、作業は複数のグループ間で断片化されていました。
+これにより多くの引き渡しと長いリードタイムが発生しました。
+コンポーネントやアップデートが準備できるたびに、それは次のチームのキューに置かれました。
+個々の担当者はプロジェクトの一部分のみを扱うため、このアプローチは所有権の欠如につながりました。
+彼らの目標は、作業を次のグループに渡すことであり、顧客に適切な機能を提供することではありませんでした。
+これは明らかな優先順位のずれです。
 
-By the time code finally got into production, it went through so many developers,
-waiting in so many queues that it was difficult to trace the origin of the problem if the code didn’t work.
-DevOps turns this approach upside down.
+コードが最終的に本番環境に入る頃には、多くの開発者を経由し、多くのキューで待機していたため、
+コードが動作しない場合の問題の原因を追跡するのが難しくなりました。
+DevOpsはこのアプローチを根本から覆します。
 
 ## How it helps
 
