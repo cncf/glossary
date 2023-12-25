@@ -23,9 +23,9 @@ DevOpsは、(全体の機能ではなく)小さなコンポーネントに取り
 コードが動作しない場合の問題の原因を追跡するのが難しくなりました。
 DevOpsはこのアプローチを根本から覆します。
 
-## How it helps
+## どのように役に立つのでしょうか
 
-Having one team own the entire lifecycle of an application results in
-minimized handoffs, reduce risk when deploying into production, better code quality
-as teams are also responsible for how code performs in production
-and increased employee satisfaction due to more autonomy and ownership.
+アプリケーションの全ライフサイクルを一つのチームが担当することで、
+引き渡しを最小限に抑え、本番環境へデプロイする際のリスクを減少させ、
+チームが本番環境でのコードのパフォーマンスにも責任を持つことでコード品質が向上し、
+より多くの自主性と所有権により従業員の満足度も高まります。
