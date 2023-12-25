@@ -5,16 +5,12 @@ category: コンセプト
 tags: ["アーキテクチャ", "基礎", ""]
 ---
 
-In a client-server architecture, the logic (or code) that makes up an application is split between two or more components:
-a client that asks for work to be done
-(e.g. the Gmail web application running in your web browser),
-and one or more servers that satisfy that request
-(e.g. the "send email" service running on Google’s computers in the cloud).
-In this example, outgoing emails that you write are sent by the client (web application running in your web browser)
-to a server (Gmail's computers, which forward your outgoing emails to their recipients).
+クライアントサーバーアーキテクチャでは、アプリケーションを構築するロジック(あるいはコード)が2つ以上のコンポーネントに分割されます。
+それは作業の実行を要求するクライアント(例えばウェブブラウザで実行されるGmailのウェブアプリケーション)と、その要求を満たす1つ以上のサーバー(例えばクラウド内のGoogleのコンピューターで実行されるメール送信サービス)です。
+この例では、あなたが書いた送信メールは、クライアント(ウェブブラウザで実行されるウェブアプリケーション)によってサーバー(あなたの送信メールを受信者に転送するGmailのコンピューター)へ送られます。
 
-This contrasts with self-contained applications (such as desktop applications) that do all the work in one place.
-For example, a word processing program like Microsoft Word may be installed and run entirely on your computer.
+これは、(例えばデスクトップアプリケーションのような)すべての作業を一つの場所で行う自己完結型のアプリケーションとは対照的です。
+例えば、Microsoft Wordのようなワード処理プログラムは、あなたのコンピューター上にインストールされ完全にあなたのコンピューター上で実行されます。
 
 ## Problem it addresses
 
