@@ -5,9 +5,9 @@ category: コンセプト
 tags: ["方法論", "", ""]
 ---
 
-DevOps is a methodology in which teams own the entire process from application development to production operations, hence DevOps.
-It goes beyond implementing a set of technologies and requires a complete shift in culture and processes.
-DevOps calls for groups of engineers that work on small components (versus an entire feature), decreasing handoffs – a common source of errors.
+DevOpsは、アプリケーション開発から本番運用までの全過程をチームが所有する方法論で、それゆえDevOpsと呼ばれます。
+これは一連の技術を実装することを超えて、文化やプロセスの完全な変革を必要とします。
+DevOpsは、(全体の機能ではなく)小さなコンポーネントに取り組むエンジニアのグループを求め、エラーの一般的な原因である引き渡しの回数を減らします。
 
 ## Problem it addresses
 
