@@ -1,11 +1,9 @@
 ---
 title: DevOps
 status: Completed
-category: concept
-tags: ["methodology", "", ""]
+category: コンセプト
+tags: ["方法論", "", ""]
 ---
-
-## What it is
 
 DevOps is a methodology in which teams own the entire process from application development to production operations, hence DevOps.
 It goes beyond implementing a set of technologies and requires a complete shift in culture and processes.
