@@ -18,13 +18,12 @@ tags: ["アーキテクチャ", "基礎", ""]
 自己完結型アプリでは、更新のたびにユーザーは最新バージョンをダウンロードしてインストールする必要があります。
 Amazonの商品カタログ全体を、ブラウジングする前に自分のコンピュータにダウンロードすることを想像してみてください！
 
-## How it helps
+## どのように役に立つのでしょうか
 
-By implementing application logic in a remote server or service,
-operators can update that without needing to change the logic on the client-side.
-This means updates can be made much more frequently.
-Storing data on the server allows many clients to all see and share the same data.
-Consider the difference between using an online word processor, compared to a traditional offline word processor.
-In the former, your files exist on the server-side and
-can be shared with other users who simply download them from the server.
-In the legacy world, files needed to be copied to removable media (floppy disks!) and shared with individuals.
+リモートサーバーやサービスでアプリケーションロジックを実装することにより、
+オペレーターはクライアント側のロジックを変更することなく、それを更新できます。
+これによって更新をより頻繁に行うことができます。
+データをサーバー上に保存することで、多くのクライアントが同じデータを見て共有することができます。
+オンラインのワードプロセッサーを使用することと、従来のオフラインのワードプロセッサーを使用することの違いを考えてみてください。
+前者ではファイルはサーバー側に存在し、他のユーザーがサーバーからダウンロードするだけで共有することができます。
+従来の世界では、ファイルはリムーバブルメディア(フロッピーディスク！)にコピーされ、個別に共有される必要がありました。
