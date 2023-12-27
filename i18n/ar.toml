@@ -58,3 +58,13 @@ other = "أضغط للطباعة"
 other = "العودة للوضع الأصلي"
 [print_entire_section]
 other = "طباعة كامل المحتوي"
+
+# Feedback section
+[feedback_title]
+other = "التقييم"
+[feedback_question]
+other = "هل وجدت الصفحة مفيدة؟"
+[feedback_answer_yes]
+other = "نعم"
+[feedback_answer_no]
+other = "لا"
