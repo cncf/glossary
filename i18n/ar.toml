@@ -19,7 +19,7 @@ other = "خلال"
 
 # Phrases for tags
 [ui_see_all_tags]
-other = "إعرض كل الوسوم"
+other = "اعرض كل الوسوم"
 [ui_tag]
 other = "وسم"
 [ui_tags]
@@ -31,7 +31,7 @@ other = "صنفت جميع المصطلحات بوسومٍٍ مختلفة لتي
 [ui_or_search_by_tags]
 other = "...أو ابحث عن وسم"
 [ui_select_all]
-other = "إختر الكل"
+other = "اختر الكل"
 [ui_deselect_all]
 other = "أَزِل الكل"
 
