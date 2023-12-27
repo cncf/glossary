@@ -61,7 +61,7 @@ other = "طباعة كامل المحتوي"
 
 # Feedback section
 [feedback_title]
-other = "التعليقات"
+other = "التقييم"
 [feedback_question]
 other = "هل وجدت الصفحة مفيدة؟"
 [feedback_answer_yes]
