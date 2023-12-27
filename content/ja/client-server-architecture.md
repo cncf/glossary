@@ -12,11 +12,11 @@ tags: ["アーキテクチャ", "基礎", ""]
 これは、(例えばデスクトップアプリケーションのような)すべての作業を一つの場所で行う自己完結型のアプリケーションとは対照的です。
 例えば、Microsoft Wordのようなワード処理プログラムは、あなたのコンピューター上にインストールされ完全にあなたのコンピューター上で実行されます。
 
-## Problem it addresses
+## 解決すべき問題はなんですか
 
-A client-server architecture solves a big challenge self-contained applications pose: regular updates.
-In a self-contained app, for each update, users would have to download and install the latest version.
-Imagine having to download all of Amazon’s product catalog to your own computer before being able to browse it!
+クライアントサーバーアーキテクチャは、自己完結型のアプリケーションが抱える、定期的な更新という大きな課題を解決します。
+自己完結型アプリでは、更新のたびにユーザーは最新バージョンをダウンロードしてインストールする必要があります。
+Amazonの商品カタログ全体を、ブラウジングする前に自分のコンピュータにダウンロードすることを想像してみてください！
 
 ## How it helps
 
