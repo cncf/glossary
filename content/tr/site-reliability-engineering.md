@@ -2,7 +2,7 @@
 title: Site Güvenilirlik Mühendisliği (SRE)
 status: Completed
 category: concept
-tags: ["methodology", "", ""]
+tags: ["yöntem", "", ""]
 ---
 
 ## Nedir

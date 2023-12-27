@@ -2,7 +2,7 @@
 title: Bulut Bilişim
 status: Completed
 category: Kavram
-tags: ["infrastructure", "fundamental", ""]
+tags: ["altyapı", "temel kavram", ""]
 ---
 
 ## Nedir

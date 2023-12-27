@@ -2,7 +2,7 @@
 title: Gözlemlenebilirlik
 status: Completed
 category: Concept
-tags: ["property", "", ""]
+tags: ["özellik", "", ""]
 ---
 
 Gözlemlenebilirlik, sistemin işlemeye uygun sezgiler üretebilme derecesini tanımlayan bir sistem özelliğidir.

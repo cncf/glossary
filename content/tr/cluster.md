@@ -2,7 +2,7 @@
 title: Küme (Cluster)
 status: Completed
 category: Concept
-tags: ["infrastructure", "fundamental", ""]
+tags: ["altyapı", "temel kavram", ""]
 ---
 
 ## Nedir
