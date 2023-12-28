@@ -1,8 +1,9 @@
 ---
-title: Uygulama Programlama Arayüzü (API)
-status: Tamamlandı
+
+title: Uygulama Geliştirme Arayüzü (API)
+status: Completed
 category: Teknoloji
-tags: ["mimari", "temel", ""]
+tags: ["mimari", "temel kavram", ""]
 ---
 
 ## Nedir
@@ -16,4 +17,5 @@ Uygulamalar karmaşıklaştıkça küçük kod değişikliklerinin diğer işlev
 ## Nasıl Yardımcı Olur
 
 API’ler, bilgisayar programlarının veya uygulamaların etkileşime girmesine ve tanımlanmış ve anlaşılır biçimde bilgi paylaşımına izin verir. Modern uygulamaların yapı taşlarıdır ve geliştiricilere uygulamaları birbirlerine entegre etme yolu sağlar. Mikroservislerin birlikte çalıştığını duyduğunuzda, bunların bir API aracılığıyla etkileşime girdiği sonucunu çıkarabilirsiniz.
+
 
