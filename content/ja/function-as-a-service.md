@@ -1,11 +1,9 @@
 ---
 title: Function as a Service (FaaS)
 status: Completed
-category: Technology
-tags: ["infrastructure", "", ""]
+category: テクノロジー
+tags: ["インフラストラクチャー", "", ""]
 ---
-
-## What it is
 
 Function as a Service (FaaS) is a type of [serverless](/serverless/) [cloud computing](/cloud-computing/) [service](/service/)
 that allows executing code in response to events
