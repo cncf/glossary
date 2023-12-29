@@ -25,10 +25,10 @@ FaaSを使用すると、ユーザーは関数とデータのみを管理し、�
 需要が高まる時にサーバー容量を増やし、その容量が不要になった時に減らすのはユーザーの責任です。
 アプリが使用されていないときでも、そのアプリを実行するためのクラウドインフラは稼働しています。
 
-## How it helps
+## どのように役に立つのでしょうか
 
-FaaS gives developers an [abstraction](/abstraction/) for running web applications in response to events without managing servers.
-For example, uploading a file could trigger custom code that transcodes the file into various formats.
-FaaS infrastructure will auto-scale the code for heavy use,
-and the developer does not have to spend any time or resources building the code for [scalability](/scalability/).
-Billing is based on computation time alone, which means businesses do not have to pay when the functions are not in use.
+FaaSはサーバーを管理することなく、イベントに応じてウェブアプリケーションを実行するための[抽象化](/ja/abstraction/)を開発者に提供します。
+例えば、ファイルのアップロードがそのファイルを様々な形式にトランスコードするカスタムコードのトリガーとなるかもしれません。
+FaaSのインフラストラクチャーは、頻繁に使用するコードを自動的にスケールアップし、
+開発者は[スケーラビリティ](/ja/scalability/)のためのコード構築に時間やリソースを費やす必要がありません。
+課金は計算時間のみに基づいているため、機能が使用されていない時には企業は支払いをする必要がありません。
