@@ -13,18 +13,17 @@ Function as a Service (FaaS)は、
 FaaSを使用すると、ユーザーは関数とデータのみを管理し、クラウドプロバイダーがアプリケーションを管理します。
 これにより、開発者はコードが実行されていないときにサービスの費用を支払うことなく、必要な機能を得ることができます。
 
-## Problem it addresses
+## 解決すべき問題はなんですか
 
-In a traditional on-premises scenario, a business manages and maintains its own data center.
-The business must invest in servers, storage, software, and other technologies
-and potentially hire an IT staff or contractors to purchase, manage, and upgrade all the equipment and licenses.
-The data center has to be built to meet peak demand, even when workloads decline and those resources stand idle.
-Conversely, if the business grows quickly, the IT department might struggle to keep up.
-Under a standard [Infrastructure-as-a-Service (IaaS)](/infrastructure-as-a-service/) cloud computing model,
-users pre-purchase capacity units, meaning you pay a public cloud provider for always-on server components to run your apps.
-It’s the user’s responsibility to scale up server capacity during times of high demand
-and scale down when that capacity is no longer needed.
-The cloud infrastructure necessary to run an app is active even when the app isn’t being used.
+従来のオンプレミスシナリオでは、企業は自社のデータセンターの管理や維持をします。
+企業はサーバー、ストレージ、ソフトウェア、その他の技術に投資し、ITスタッフや請負業者を雇ってすべての機器やライセンスの購入、管理、更新を行う必要があります。
+データセンターはピーク需要に合わせて構築されるため、作業負荷が減少し、それらのリソースが稼働していなくても対応しなければなりません。
+逆にビジネスが急速に成長する場合、IT部門は追いつくのに苦労するかもしれません。
+標準的な[Infrastructure-as-a-Service (IaaS)](/ja/infrastructure-as-a-service/)クラウドコンピューティングモデルでは、
+ユーザーは事前に容量ユニットを購入します。
+つまりアプリを実行するために、サーバーコンポーネントを常時起動させ、それに対する支払いをパブリッククラウドプロバイダーに行います。
+需要が高まる時にサーバー容量を増やし、その容量が不要になった時に減らすのはユーザーの責任です。
+アプリが使用されていないときでも、そのアプリを実行するためのクラウドインフラは稼働しています。
 
 ## How it helps
 
