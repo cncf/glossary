@@ -4,8 +4,6 @@ status: Completed
 category: Technologie
 ---
 
-## Was es ist
-
 Ein [API](/application-programming-interface/) Gateway ist ein Werkzeug zur Zusammenfassung einzelner
 Applikations APIs an einem einzigen Ort. Es erlaubt Organisationen Kernfunktionen wie 
 Authentifikation, Autorisation oder auch die Limitierung von Anfragen zentral zu managen.
