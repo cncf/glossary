@@ -5,12 +5,13 @@ category: テクノロジー
 tags: ["インフラストラクチャー", "", ""]
 ---
 
-Function as a Service (FaaS) is a type of [serverless](/serverless/) [cloud computing](/cloud-computing/) [service](/service/)
-that allows executing code in response to events
-without maintaining the complex infrastructure
-typically associated with building and launching [microservices](/microservices/) applications.
-With FaaS, users manage only functions and data while the cloud provider manages the application.
-This allows developers to get the functions they need without paying for services when code isn’t running.
+Function as a Service (FaaS)は、
+[サーバーレス](/ja/serverless/)、[クラウドコンピューティング](/ja/cloud-computing/)、[サービス](/ja/service/)の一種であり、
+イベントによってコードを実行することを可能にします。
+これは通常、[マイクロサービス](/ja/microservices-architecture/)アプリケーションの構築や立ち上げに関連する、
+複雑なインフラのメンテナンスを必要としません。
+FaaSを使用すると、ユーザーは関数とデータのみを管理し、クラウドプロバイダーがアプリケーションを管理します。
+これにより、開発者はコードが実行されていないときにサービスの費用を支払うことなく、必要な機能を得ることができます。
 
 ## Problem it addresses
 
