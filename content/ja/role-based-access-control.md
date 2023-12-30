@@ -12,13 +12,13 @@ category: コンセプト
 ロールベースのアクセス制御が適用されます。
 エンジニアリングチーム内の役割にも同様のことが当てはまります。
 
-## Problem it addresses
+## 解決すべき問題はなんですか
 
-Individually managing access permissions of multiple users across various system resources and data can be complex.
-After all, each user likely needs access to a different set of resources.
-Let's say an organization has 500 developers (users) and 300 resources with varying permission levels (read, write, and no access). The administrator must ensure each user has the correct permissions for all 300 resources.
-RBAC simplifies the process by providing predefined access control based on role groups.
-
+様々なシステムのリソースやデータにわたって複数のユーザーのアクセス権限を個別に管理することは、複雑になることがあります。
+結局のところ、それぞれのユーザーには、異なるリソースセットへのアクセスが必要になる可能性があります。
+例えば、ある組織に500人の開発者(ユーザー)がおり、さまざまな権限レベル(読み取り、書き込み、アクセス禁止)を持つ300のリソースがあるとしましょう。
+管理者は、全300のリソースに対して各ユーザーが正しい権限を持っていることを保証しなければなりません。
+RBACは、役割グループに基づいて事前に定義されたアクセス制御を提供することで、このプロセスを簡素化します。
 
 ## How it helps
 
