@@ -22,9 +22,8 @@ tags: ["セキュリティ", "", ""]
 なぜなら、攻撃者は信頼されたネットワークの境界内におり、システム内を横断的に移動することができるからです。
 ゼロトラストアーキテクチャでは、信頼が排除されるため、攻撃者はシステム内をさらに横断する前に検証を強いられ、結果として攻撃される場所が減ります。
 
-## How it helps
+## どのように役に立つのでしょうか
 
-Adopting a zero trust architecture brings the principal benefit of increased security
-with a reduction in the attack surface.
-Removing trust from your corporate system now increases the number and strength of security gates
-that an attacker has to go through to gain access to other areas of the system.
+ゼロトラストアーキテクチャを採用することで、主な利点としてセキュリティが向上し、攻撃される場所が減少します。
+企業システムから信頼を排除することで、攻撃者がシステムの他の領域へアクセスするために通過しなければならない、
+セキュリティゲートの数と強度が増加します。
