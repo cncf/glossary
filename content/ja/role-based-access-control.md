@@ -4,10 +4,13 @@ status: Completed
 category: コンセプト
 ---
 
-Role-based access control (RBAC) is a method to regulate system and resource access based on individual user roles within an organization.
-Each job function has a specific role and permissions.
-For instance, a marketing team member may have permission to view sales deals in the pipeline (*read* permission) but won't be allowed to edit them (*write* permission).
-Sales and marketing have different permissions based on their roles, hence role-based access control, and the same applies to roles within engineering teams.
+ロールベースアクセス制御(RBAC)は、組織内の個々のユーザーのロールに基づいてシステムやリソースへのアクセスを規制する方法です。
+各職務には特定の役割と権限があります。
+例えば、マーケティングチームのメンバーは、パイプライン内の販売取引を閲覧する権限(*読み取り*権限)はありますが、
+それらを編集する権限(*書き込み* 権限)は許可されていません。
+販売チームおよびマーケティングチームは、それぞれの役割に基づいた異なる権限を持っているため、
+ロールベースのアクセス制御が適用されます。
+エンジニアリングチーム内の役割にも同様のことが当てはまります。
 
 ## Problem it addresses
 
