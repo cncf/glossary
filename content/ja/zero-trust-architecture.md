@@ -12,17 +12,15 @@ tags: ["セキュリティ", "", ""]
 ゼロトラストアーキテクチャは、ネットワークの境界内にあっても、
 システム内のコンポーネントは通信する前に検証しなければならないという、正反対のアプローチを取ります。
 
-## Problem it addresses
+## 解決すべき問題はなんですか
 
-With the traditional trust based approach where systems and devices that exist within a corporate network perimeter,
-the assumption is that because there is trust, there is no problem.
-Zero trust architecture however, recognises that trust is a vulnerability.
-In the event where an attacker has gained access to a trusted device,
-depending on the level of trust and access that has been given to that device,
-the system is now vulnerable to attack
-as the attacker is within the "trusted" network perimeter and is able to move laterally throughout the system.
-In a zero trust architecture, trust is removed, therefore reducing the attack surface
-as an attacker is now forced to verify before going any further throughout the system.
+伝統的な信頼ベースのアプローチでは、企業ネットワークの境界内に存在するシステムやデバイスに対して、
+信頼があるため問題がないという前提があります。
+しかし、ゼロトラストアーキテクチャは、その信頼が脆弱性になると認識しています。
+攻撃者が信頼されたデバイスへのアクセスを獲得した場合、そのデバイスに与えられている信頼のレベルとアクセスに依存して、
+システムは攻撃に対して脆弱になります。
+なぜなら、攻撃者は信頼されたネットワークの境界内におり、システム内を横断的に移動することができるからです。
+ゼロトラストアーキテクチャでは、信頼が排除されるため、攻撃者はシステム内をさらに横断する前に検証を強いられ、結果として攻撃される場所が減ります。
 
 ## How it helps
 
