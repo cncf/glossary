@@ -1,11 +1,9 @@
 ---
-title: Zero Trust Architecture
+title: ゼロトラストアーキテクチャ
 status: Completed
-category: Concept
-tags: ["security", "", ""]
+category: コンセプト
+tags: ["セキュリティ", "", ""]
 ---
-
-## What it is
 
 Zero trust architecture prescribes to an approach to the design and implementation of IT systems
 where trust is completely removed.
