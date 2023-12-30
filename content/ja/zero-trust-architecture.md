@@ -5,14 +5,12 @@ category: コンセプト
 tags: ["セキュリティ", "", ""]
 ---
 
-Zero trust architecture prescribes to an approach to the design and implementation of IT systems
-where trust is completely removed.
-The core principle being "never trust, always verify", devices or systems themselves,
-whilst communicating to other components of a system, always verify themselves before doing so.
-In many networks today, within the corporate network, systems and devices inside may freely communicate with each other
-as they are within the trusted boundary of the corporate network perimeter.
-Zero trust architecture takes the opposite approach where although inside the network perimeter,
-components within the system first have to pass verification before any communication is made.
+ゼロトラストアーキテクチャは、ITシステムの設計と実装において信頼を完全に排除するアプローチを推奨します。
+その核心の原則は「決して信頼せず、常に検証する」であり、
+デバイスやシステムは、システムの他のコンポーネントと通信する際に常に事前に自分自身を検証します。
+今日の多くのネットワークは、企業ネットワークの信頼された境界内にあるため、システムやデバイスは互いに自由に通信することができます。
+ゼロトラストアーキテクチャは、ネットワークの境界内にあっても、
+システム内のコンポーネントは通信する前に検証しなければならないという、正反対のアプローチを取ります。
 
 ## Problem it addresses
 
