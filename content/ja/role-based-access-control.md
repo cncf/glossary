@@ -20,8 +20,8 @@ category: コンセプト
 管理者は、全300のリソースに対して各ユーザーが正しい権限を持っていることを保証しなければなりません。
 RBACは、役割グループに基づいて事前に定義されたアクセス制御を提供することで、このプロセスを簡素化します。
 
-## How it helps
+## どのように役に立つのでしょうか
 
-RBAC provides granular control over user permissions within software systems.
-Depending on their roles, team members can modify a section, only view it, or have no access at all.
-This granular permission allocation allows team members with different roles to work on the same system while minimizing risk.
+RBACは、ソフトウェアシステム内のユーザー権限を細かく制御します。
+チームメンバーは、役割に応じてセクションを変更することも、閲覧することも、あるいはまったくアクセスできないこともあります。
+この細かな権限の割り当てにより、異なる役割を持つチームメンバーが同じシステムで作業を行いつつ、リスクを最小限に抑えることができます。
