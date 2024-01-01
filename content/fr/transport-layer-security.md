@@ -13,7 +13,7 @@ Ce protocole est largement utilisé dans des applications telles que la messager
 ## Problème auquel il répond
 
 Sans TLS, des informations sensibles telles que les habitudes de navigation, la correspondance par courrier électronique, les discussions en ligne et les conférences téléphoniques peuvent facilement être tracées et modifiées par des tiers pendant la transmission. 
-La prise en charge de TLS par les applications serveurs et clientes garantit que 
+La prise en charge de TLS par les applications serveurs et clientes garantit
 que les données transmises entre elles sont chiffrées et ne peuvent pas être consultées par des tiers.
 
 
