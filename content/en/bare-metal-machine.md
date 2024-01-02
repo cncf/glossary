@@ -19,8 +19,8 @@ there is no artificial delay in translating operating system instructions to har
 
 ## How it helps
 
-By dedicating all computer computing resources to a single operating system, 
-you can provide the best possible performance to the operating system. 
+By dedicating all compute resources of a computer to a single operating system, 
+you potentially provide the best possible performance to the operating system. 
 If you need to run a workload that must have extremely fast access to hardware resources, 
 bare metal may be the right solution. 
 
