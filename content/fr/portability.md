@@ -2,7 +2,7 @@
 title: Portabilité
 status: Completed
 category: Property
-tags: ["fundamental", "property", ""]
+tags: ["fondamental", "propriété", ""]
 ---
 
 La portabilité comme caractéristique logicielle est une forme de réutilisabilité permettant d'éviter le "verrouillage" à certains environnements d'exploitation,
