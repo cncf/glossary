@@ -5,8 +5,6 @@ category: concept
 tags: ["application", "méthodologie", ""]
 ---
 
-## Ce que c'est
-
 Le déploiement continu, souvent abrégé en CD, va plus loin que la [livraison continue](/fr/continuous-delivery/)
 en déployant le logiciel fini directement en production.
 Le déploiement continu (CD) va de pair avec [l'intégration continue](/fr/continuous-integration/) (CI),

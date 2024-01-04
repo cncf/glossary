@@ -6,8 +6,6 @@ tags: ["méthodologie", "", ""]
 draft: 
 ---
 
-## Ce que c'est
-
 La politique en tant que code est la pratique de stocker la définition des politiques sous forme d'un ou plusieurs fichiers dans un format lisible et exploitable par un programme informatique.
 Cela remplace le modèle traditionnel où les politiques sont documentées sous une forme lisible par l'homme dans des documents distincts.
 
