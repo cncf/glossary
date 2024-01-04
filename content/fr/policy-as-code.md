@@ -3,7 +3,6 @@ title: Politique en tant que code
 status: Completed
 category: concept
 tags: ["méthodologie", "", ""]
-draft: 
 ---
 
 La politique en tant que code est la pratique de stocker la définition des politiques sous forme d'un ou plusieurs fichiers dans un format lisible et exploitable par un programme informatique.

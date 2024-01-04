@@ -1,7 +1,7 @@
 ---
 title: Architecture Zéro Confiance
 status: Completed
-category: concepts
+category: Concept
 tags: ["sécurité", "", ""]
 ---
 

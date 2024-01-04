@@ -1,8 +1,8 @@
 ---
 title: Infrastructure en tant que Service (IaaS)
 status: Completed
-category: concept
-tags: ["infrastructure", "méthodologie", ""]
+category: Technology
+tags: ["infrastructure", "", ""]
 ---
 
 L'infrastructure en tant que service, ou Infrastructure as a Service (IaaS) en anglais, est un modèle de service de cloud computing qui offre des ressources physiques ou virtualisées de calcul, de stockage et de réseau à la demande selon un modèle de paiement à l'utilisation. 
