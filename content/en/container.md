@@ -12,10 +12,7 @@ but typically the operating system prevents the separate container processes fro
 
 ## Problem it addresses
 
-Before containers were available, separate machines were necessary to run applications. 
-Each machine would require its own operating system, which takes CPU, memory, and disk space, 
-all for an individual application to function. 
-Additionally, the maintenance, upgrade, and startup of an operating system is another significant source of toil. 
+Containers enable consistent deployment and execution across diverse machines. By abstracting the user space and not the entire operating system, containers eliminate the toil of starting and maintaining independent instances of operating systems, enabling the next computing model after virtualization. 
 
 ## How it helps
 
