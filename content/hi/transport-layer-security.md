@@ -1,5 +1,5 @@
 ---
-title: ट्रांसपोर्ट लेयर सिक्योरिटी Transport Layer Security (TLS)
+title: ट्रांसपोर्ट लेयर सिक्योरिटी (Transport Layer Security)
 status: Completed
 category: अवधारणा
 tags: ["सिक्योरिटी", "नेटवर्किंग"]
