@@ -48,8 +48,6 @@ status:
 category:
 ---
 
-## ¿Qué es?
-
 Un breve resumen de la tecnología o concepto.
 
 ## Problema que aborda

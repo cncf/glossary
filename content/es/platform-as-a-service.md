@@ -5,8 +5,6 @@ category: Tecnología
 tags: ["fundamentals", "platform", ""]
 ---
 
-## ¿Qué es?
-
 Una plataforma como servicio, o PaaS, es una plataforma externa usada por los equipos de desarrollo de aplicaciones para desplegar y correr sus aplicaciones.
 Heroku, Cloud Foundry y App Engine son ejemplos de ofertas de PaaS.
 

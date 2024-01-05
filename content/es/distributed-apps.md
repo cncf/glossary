@@ -5,8 +5,6 @@ category: Concepto
 tags: ["architecture", "", ""]
 ---
 
-## ¿Qué es?
-
 Una aplicación distribuida es una aplicación en la que la funcionalidad se divide en múltiples partes independientes más pequeñas. 
 Las aplicaciones distribuidas suelen estar formadas por componentes individuales llamados [microservicios](/es/microservices/)
 que se ocupan de diferentes responsabilidades dentro de una aplicación más extensa. 

@@ -5,8 +5,6 @@ category: Concepto
 tags: ["security", "", ""]
 ---
 
-## ¿Qué es?
-
 La seguridad nativa para la nube es un enfoque que crea seguridad en las [aplicaciones nativas para la nube](/es/cloud-native-apps/).
 Garantiza que la seguridad sea parte de todo el ciclo de vida de la aplicación, desde el desarrollo hasta la producción.
 La seguridad nativa para la nube busca garantizar los mismos estándares que los modelos de seguridad tradicionales

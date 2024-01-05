@@ -5,8 +5,6 @@ category: Concepto
 tags: ["methodology", "", ""]
 ---
 
-## ¿Qué es?
-
 Site Reliability Engineering o SRE es una disciplina que combina operaciones e ingeniería de software.
 Este último se aplica a problemas de infraestructura y operaciones, específicamente.
 Es decir, en lugar de crear características del producto, los ingenieros de confiabilidad del sitio crean sistemas para ejecutar aplicaciones.
