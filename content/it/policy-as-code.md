@@ -6,7 +6,7 @@ tags: ["metodologia", "", ""]
 draft: 
 ---
 
-## Cos'è
+
 
 Policy as code è la pratica che consente di memorizzare la definizione delle policy in uno o più file in formato leggibile e processabile da macchine. 
 Questa metodologia sostituisce il modello tradizionale in cui le policy sono documentate in formato leggibile da umani in documenti esterni al sistema.

@@ -5,7 +5,7 @@ category: tecnologia
 tags: ["fondamentali", "infrastruttura", "metodologia"]
 ---
 
-## Cos'è
+
 
 La virtualizzazione, nell'ambito del cloud native computing (calcolo nativo su cloud), 
 si riferisce alla pratica per la quale a un computer fisico, talvolta denominato server,

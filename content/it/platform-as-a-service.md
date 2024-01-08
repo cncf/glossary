@@ -4,7 +4,7 @@ status: Deprecated
 category: Tecnologia
 ---
 
-## Cos'è
+
 
 Una Platform as a Service, o PaaS, è una piattaforma esterna ai team di sviluppo per distribuire ed eseguire le proprie applicazioni. Heroku, Cloud Foundry, App Engine sono esempi di offerte PaaS.
 

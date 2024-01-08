@@ -4,7 +4,7 @@ status: Completed
 category: Concetto
 ---
 
-## Cos'è
+
 Con _Chaos Engineering_ (CE) si intende la disciplina che consiste nel condurre esperimenti su un [sistema distribuito](/it/distributed_systems/) nell'ambiente di produzione, per creare confidenza nella capacità del sistema di tollerare condizioni turbolente e inaspettate.
 
 ## Quali problematiche affronta

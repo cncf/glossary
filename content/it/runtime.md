@@ -5,7 +5,7 @@ category: concetto
 tags: ["applicazione", "", ""]
 ---
 
-## Cos'è
+
 
 Un runtime, in generale, esegue un software.
 È un'[astrazione](/it/abstraction/) del sistema operativo sottostante che traduce i comandi del programma in azioni corrispondenti perché siano utili al sistema operativo stesso.

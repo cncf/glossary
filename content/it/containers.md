@@ -4,7 +4,7 @@ status: Completed
 category: Tecnologia
 ---
 
-## Cos'è
+
 Un container è un processo in esecuzione con vincoli di risorse e capacità gestiti dal sistema operativo di un computer. I file disponibili per il processo del container vengono compressi in una "immagine" del container. I container vengono eseguiti in spazi di memoria adiacenti sulla stessa macchina, ma in genere il sistema operativo impedisce ai processi container separati di interagire tra loro.
 
 ## Quali problematiche affronta

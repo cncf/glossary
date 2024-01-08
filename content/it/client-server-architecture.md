@@ -5,7 +5,7 @@ category: concetto
 tags: ["architettura", "", ""]
 ---
 
-## Cos'è
+
 
 In un'architettura client-server la logica (o il codice) che forma un'applicazione è diviso in due o più componenti: un client che richiede di eseguire del lavoro (ad esempio, l'applicazione web di Gmail in esecuzione sul web browser), e uno o più server che soddisfano quella richiesta (ad esempio, il servizio "invia email" in esecuzione sui computer di Google in cloud).
 In questo esempio, le email in uscita sono inviate dal client (l'applicazione web in esecuzione sul web browser) a un server (i computer di Gmail, che inoltrano le email in uscita ai rispettivi destinatari).

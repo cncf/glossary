@@ -5,7 +5,7 @@ category: Concetto
 tags: ["infrastruttura", "fondamenti", ""]
 ---
 
-## Cos'è
+
 
 In un ambiente [Kubernetes](/it/kubernetes/), un pod è la più piccola unità di base di un'applicazione;
 rappresenta un blocco di costruzione essenziale per l'installazione e la gestione di applicazioni containerizzate.

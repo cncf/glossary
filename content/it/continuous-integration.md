@@ -5,7 +5,7 @@ category: Concetto
 tags: ["metodologia", "applicazione", ""]
 ---
 
-## Cos'è
+
 
 Continuous integration, spesso abbreviato CI, è la pratica di integrare le modifiche al codice il più regolarmente possibile. 
 La CI è il prerequisito per la [continuous delivery](/it/continuous-delivery/) (CD). 

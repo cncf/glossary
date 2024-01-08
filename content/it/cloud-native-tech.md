@@ -4,7 +4,7 @@ status: Completed
 category: Concetto
 ---
 
-## Cos'è
+
 
 Le tecnologie _cloud native_, a cui ci si riferisce anche con il termine _cloud native stack_, sono le tecnologie utilizzate per la creazione di [applicazioni _cloud native_](/it/cloud-native-apps/). Consentendo alle organizzazioni di implementare e gestire applicazioni scalabili in contesti moderni e dinamici quali le piattaforme cloud (pubbliche, private o ibride), mantengono la "promessa del cloud" e sfruttano al massimo i benefici del [_cloud computing_](/it/cloud-computing/). Sono progettate da zero con l'intento di impiegare le funzionalità di cloud computing e [container](/it/container/). Il [mesh di servizi](/it/service-mesh/), i [microservizi](/it/microservices/) e le [infrastrutture immutabili](/it/immutable-infrastructure/) sono esempi di questo approccio.
 

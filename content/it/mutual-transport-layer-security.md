@@ -5,7 +5,7 @@ category: Concetto
 tags: ["sicurezza", "networking", ""]
 ---
 
-## Cos'è
+
 
 Il Mutual TLS (mTLS) è una tecnica utilizzata per autenticare e criptare i messaggi inviati tra due [servizi](/it/service/).
 Il Mutual TLS è il protocollo [Transport Layer Security](/it/transport-layer-security/) (TLS) standard,

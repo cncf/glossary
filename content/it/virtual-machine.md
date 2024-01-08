@@ -4,7 +4,7 @@ status: Completed
 category: Tecnologia
 ---
 
-## Cos'è
+
 
 Una macchina virtuale (VM) è un computer e il suo sistema operativo che non è legato a un particolare componente hardware. Le macchine virtuali si basano sulla [virtualizzazione](/it/virtualization/) per suddividere un singolo computer fisico in più computer virtuali. Questa separazione consente alle organizzazioni e ai fornitori di infrastrutture di creare e distruggere VM senza influire sull'hardware sottostante.
 
