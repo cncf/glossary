@@ -1,59 +1,59 @@
 lang/ar:
 - changed-files:
-  - any-glob-to-any-file: 'content/ar/*'
+  - any-glob-to-any-file: 'content/ar/**'
 
 lang/bn:
 - changed-files:
-  - any-glob-to-any-file: 'content/bn/*'
+  - any-glob-to-any-file: 'content/bn/**'
 
 lang/de:
 - changed-files:
-  - any-glob-to-any-file: 'content/de/*'
+  - any-glob-to-any-file: 'content/de/**'
 
 lang/en:
 - changed-files:
-  - any-glob-to-any-file: 'content/en/*'
+  - any-glob-to-any-file: 'content/en/**'
 
 lang/es:
 - changed-files:
-  - any-glob-to-any-file: 'content/es/*'
+  - any-glob-to-any-file: 'content/es/**'
 
 lang/fr:
 - changed-files:
-  - any-glob-to-any-file: 'content/fr/*'
+  - any-glob-to-any-file: 'content/fr/**'
 
 lang/hi:
 - changed-files:
-  - any-glob-to-any-file: 'content/hi/*'
+  - any-glob-to-any-file: 'content/hi/**'
 
 lang/it:
 - changed-files:
-  - any-glob-to-any-file: 'content/it/*'
+  - any-glob-to-any-file: 'content/it/**'
 
 lang/ja:
 - changed-files:
-  - any-glob-to-any-file: 'content/ja/*'
+  - any-glob-to-any-file: 'content/ja/**'
 
 lang/ko:
 - changed-files:
-  - any-glob-to-any-file: 'content/ko/*'
+  - any-glob-to-any-file: 'content/ko/**'
 
 lang/pt:
 - changed-files:
-  - any-glob-to-any-file: 'content/pt-br/*'
+  - any-glob-to-any-file: 'content/pt-br/**'
 
 lang/ru:
 - changed-files:
-  - any-glob-to-any-file: 'content/ru/*'
+  - any-glob-to-any-file: 'content/ru/**'
 
 lang/tw:
 - changed-files:
-  - any-glob-to-any-file: 'content/zh-tw/*'
+  - any-glob-to-any-file: 'content/zh-tw/**'
 
 lang/ur:
 - changed-files:
-  - any-glob-to-any-file: 'content/ur/*'
+  - any-glob-to-any-file: 'content/ur/**'
 
 lang/zh:
 - changed-files:
-  - any-glob-to-any-file: 'content/zh-cn/*'
+  - any-glob-to-any-file: 'content/zh-cn/**'
