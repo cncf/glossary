@@ -17,9 +17,23 @@ other = "البحث في الموقع"
 [ui_in]
 other = "خلال"
 
-# Used in sentences such as "All Tags"
-[ui_all]
-other = "الكل"
+# Phrases for tags
+[ui_see_all_tags]
+other = "اعرض كل الوسوم"
+[ui_tag]
+other = "وسم"
+[ui_tags]
+other = "وسوم"
+[ui_search_by_tags]
+other = "تصفح بالوسوم"
+[ui_tags_intro]
+other = "صنفت جميع المصطلحات بوسومٍٍ مختلفة لتيسير البحث. طالع المصطلحات المصنفة بوسم بالنقر عليه أسفل."
+[ui_or_search_by_tags]
+other = "...أو ابحث عن وسم"
+[ui_select_all]
+other = "اختر الكل"
+[ui_deselect_all]
+other = "أَزِل الكل"
 
 # Footer text
 [footer_all_rights_reserved]
