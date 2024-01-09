@@ -5,8 +5,6 @@ category: concept
 tags: ["méthodologie", "application", ""]
 ---
 
-## Ce que c'est
-
 Le déploiement canari est une stratégie de déploiement qui commence avec deux environnements :
 l'un avec du trafic en direct et l'autre contenant le code mis à jour sans trafic en direct.
 Le trafic est progressivement déplacé de la version originale de l'application vers la version mise à jour.

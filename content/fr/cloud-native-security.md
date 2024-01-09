@@ -5,8 +5,6 @@ category: concept
 tags: ["sécurité", "", ""]
 ---
 
-## Ce que c'est
-
 La sécurité Cloud Native est une approche qui intègre la sécurité dans les [applications Cloud Natives](/fr/cloud-native-apps/).
 Il garantit que la sécurité fait partie du cycle de développement de l'application du développement jusqu'à la mise en production.
 La sécurité Cloud Native vise à garantir les mêmes standards que les modèles de sécurité traditionnels tout en s'adaptant aux particularités des environnements Cloud Natives, comme les infrastructures éphémères ainsi que les livraisons de code fréquentes.

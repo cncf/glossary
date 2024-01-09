@@ -5,8 +5,6 @@ category: concept
 tags: ["méthodologie", "application", ""]
 ---
 
-## Ce que c'est
-
 Le déploiement bleu/vert (ou Blue/Green) est une stratégie pour mettre à jour les systèmes informatiques en cours d'exécution avec un temps d'arrêt minimal.
 L'opérateur maintient deux environnements, appelés "bleu" et "vert".
 L'un sert le trafic de production (la version que tous les utilisateurs utilisent actuellement), tandis que l'autre est mis à jour.

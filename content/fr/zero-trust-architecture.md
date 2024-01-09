@@ -1,11 +1,9 @@
 ---
 title: Architecture Zéro Confiance
 status: Completed
-category: concepts
+category: Concept
 tags: ["sécurité", "", ""]
 ---
-
-## Ce que c'est
 
 L'architecture zéro confiance est une approche de conception et de mise en place des systèmes informatiques qui élimine complètement la notion de confiance. 
 Son principe fondamental repose sur le credo "ne jamais faire confiance, toujours vérifier", les dispositifs ou systèmes eux-mêmes, 

@@ -5,8 +5,6 @@ category: Concept
 tags: ["sécurité", "", ""]
 ---
 
-## Ce que c'est
-
 Le contrôle d'accès basé sur les rôles (RBAC) est une méthode de sécurité permettant de gérer l'accès des utilisateurs aux systèmes, réseaux ou ressources en fonction de leur rôle au sein d'une équipe ou d'une organisation. 
 Le RBAC donne aux administrateurs informatiques la possibilité d'identifier le niveau d'accès nécessaire pour tous les utilisateurs occupant une fonction spécifique, et de leur attribuer un rôle avec un ensemble prédéfini d'autorisations. 
 Les organisations utilisent le RBAC pour offrir à leurs employés des niveaux d'accès adaptés à leurs rôles et responsabilités.

@@ -5,8 +5,6 @@ category: concept
 tags: ["méthodologie", "application", ""]
 ---
 
-## Ce que c'est
-
 La livraison continue, souvent abrégée en CD, est un ensemble de pratiques
 dans lequel les modifications de code sont automatiquement déployées dans un environnement d'acceptation
 (ou, en cas de déploiement continu, en production).

@@ -5,8 +5,6 @@ category: concept
 tags: ["application", "méthodologie", ""]
 ---
 
-## Ce que c'est
-
 L'intégration continue, souvent abrégée en CI, est la pratique consistant à intégrer les modifications de code aussi régulièrement que possible.
 La CI est un prérequis à la [livraison continue](/fr/continuous-delivery/) (CD).
 Traditionnellement, le processus CI commence lorsque les modifications de code sont envoyées dans un système de contrôle de code source (Git, Mercurial ou Subversion),
