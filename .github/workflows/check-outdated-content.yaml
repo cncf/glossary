@@ -46,16 +46,16 @@ jobs:
         # Set L10n directory
         case "${L10N_BRANCH}" in
           dev-pt)
-          L10N_DIR="./content/pt-br/"
+          L10N_DIR="content/pt-br/"
           ;;
           dev-zh)
-          L10N_DIR="./content/zh-cn/"
+          L10N_DIR="content/zh-cn/"
           ;;
           dev-tw)
-          L10N_DIR="./content/zh-tw/"
+          L10N_DIR="content/zh-tw/"
           ;;
           *)
-          L10N_DIR="./content/${L10N_CODE}/"
+          L10N_DIR="content/${L10N_CODE}/"
           ;;
         esac
         echo "(DEBUG) L10N Directory: ${L10N_DIR}"
@@ -133,16 +133,16 @@ jobs:
             echo "(DEBUG) FILE_DIR: ${FILE_DIR}"
             echo "(DEBUG) FILE_NAME: ${FILE_NAME}"
             echo "(DEBUG) Localized file path: $L10N_FILE_PATH"
-            echo "(DEBUG) Original file path: ./content/en/${FILE_PATH}"
+            echo "(DEBUG) Original file path: content/en/${FILE_PATH}"
 
             # Create subdirectories
             mkdir -p ${OUTPUT_DIR}/${FILE_DIR}
             
             # Actually compare between the old and lastest English content and log diff in the file
-            if [[ -f "./content/en/${FILE_PATH}" ]]; then
+            if [[ -f "content/en/${FILE_PATH}" ]]; then
               # File exists
               # Check changes
-              git diff ${OLD_BRANCH}..${LATEST_BRANCH} -- ./content/en/${FILE_PATH} > temp.diff
+              git diff ${OLD_BRANCH}..${LATEST_BRANCH} -- content/en/${FILE_PATH} > temp.diff
 
               if [[ -s "temp.diff" ]]; then
                 echo "(DEBUG) ${FILE_PATH} is outdated."

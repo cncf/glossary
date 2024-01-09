@@ -2,7 +2,7 @@
 title: Entrega Contínua (CD)
 status: Completed
 category: conceito
-tags: ["aplicação", "metodologia", ""]
+tags: [metodologia", "aplicação", ""]
 ---
 
 ## O que é
