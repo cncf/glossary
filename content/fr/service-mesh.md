@@ -5,8 +5,6 @@ category: technology
 tags: ["réseau", "", ""]
 ---
 
-## Ce que c'est 
-
 Dans un monde de [microservices](/fr/microservices-architecture/), les applications sont découpées en plusieurs petits [services](/fr/service/) qui communiquent via 
 le réseau.
 Exactement comme votre réseau wifi, les réseaux informatiques sont intrinsèquement non fiables, piratables et souvent lents.
