@@ -5,11 +5,11 @@ Category: Technology
 tags: ["architecture", "", ""]
 ---
 
-Le serverless, que l'on pourrais traduire litérallement par "sans serveur", est un modèle de développement Cloud Native qui permet aux développeurs de construire et d'exécuter des applications sans avoir à gérer de serveurs.
+Le serverless, que l'on  pourrait traduire littéralement par "sans serveur", est un modèle de développement Cloud Native qui permet aux développeurs de construire et d'exécuter des applications sans avoir à gérer de serveurs.
 Bien que les serveurs existent toujours dans le paradigme serverless, ils sont [abstraits](/fr/abstraction/) du processus de développement de l'application.
-Un fournisseur de cloud s'occupe du travail routinier de mise à disposition, de maintenance et de [mise à l'échele](/fr/scalability/) de l'infrastructure.
+Un fournisseur de cloud s'occupe du travail routinier de mise à disposition, de maintenance et de [mise à l'échèle](/fr/scalability/) de l'infrastructure.
 Les développeurs peuvent facilement empaqueter leur code dans des [conteneurs](/fr/container/) pour le déployer.
-Une fois déployées, les applications serverless répondent à la demande et se mettent a l'échelle automatiquement.
+Une fois déployées, les applications serverless répondent à la demande et se mettent à l'échelle automatiquement.
 Les offres serverless des fournisseurs de cloud public sont généralement facturées à l'utilisation selon un modèle d'exécution piloté par les événements.
 Par conséquent, lorsqu'une fonction serverless est inutilisée, il n'y a pas de coûts associés.
 
@@ -26,6 +26,6 @@ Contrairement aux approches traditionnelles, l'architecture serverless ne lance 
 Lorsqu'un événement déclenche l'exécution du code de l'application, le fournisseur de cloud public alloue dynamiquement des ressources à ce code.
 L'utilisateur cesse de payer lorsque le code a fini de s'exécuter.
 Outre les avantages en termes de coûts et d'efficacité,
-le serverless libère les développeurs des tâches routinières et pénibles associées à la mise à l'échelle des applications et à la mise a disposition des serveurs.
+le serverless libère les développeurs des tâches routinières et pénibles associées à la mise à l'échelle des applications et à la mise à disposition des serveurs.
 Avec le serverless, les tâches de routine telles que la gestion du système d'exploitation et du système de fichiers, les correctifs de sécurité,
-l'équilibrage de la charge, la gestion de la capacité, la mise à l'échelle, la journalisation et la supervision sont toutes transférées à un fournisseur de services cloud.
+l'équilibrage de charge, la gestion de la capacité, la mise à l'échelle, la journalisation et la supervision sont toutes transférées à un fournisseur de services cloud.
