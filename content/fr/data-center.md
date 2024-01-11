@@ -6,7 +6,7 @@ tags: ["infrastructure", "fondamental", ""]
 ---
 
 Un centre de données (datacenter en anglais) est un bâtiment ou une installation spécialisée conçue pour héberger des ordinateurs, le plus souvent des serveurs.
-Ces centres de données sont généralement connectés à des lignes internet à haut débit, en particulier lorsqu'ils sont axés sur le [cloud computing] (/fr/cloud-computing/).
+Ces centres de données sont généralement connectés à des lignes internet à haut débit, en particulier lorsqu'ils sont axés sur le [cloud computing](/fr/cloud-computing/).
 Les bâtiments qui abritent les centres de données sont équipés pour maintenir le service même en cas d'événements défavorables, y compris des générateurs qui fournissent de l'électricité pendant les pannes et des climatiseurs puissants qui gardent les ordinateurs, produisant de la chaleur, au frais.
 
 ## Problème auquel il répond
@@ -21,9 +21,9 @@ C'est là qu'interviennent les centres de données.
 
 ## Quel en est l'utilité
 
-En connectant plusieurs serveurs, les utilisateurs peuvent créer un système distribué (/fr/distributed-systems/) qui fonctionne comme un "superordinateur".
+En connectant plusieurs serveurs, les utilisateurs peuvent créer un [système distribué](/fr/distributed-systems/) qui fonctionne comme un "superordinateur".
 En regroupant la puissance de plusieurs machines, il est désormais possible d'exécuter des applications beaucoup plus importantes ou traiter des tâches de calcul beaucoup plus complexes.
 Les centres de données font fonctionner la plupart des applications que nous utilisons quotidiennement.
 
-Les [clouds publics] (/fr/cloud-computing/) sont des centres de données qui louent leur capacité à leurs clients.
+Les [clouds publics](/fr/cloud-computing/) sont des centres de données qui louent leur capacité à leurs clients.
 Au cours des dernières années, nous avons assisté à une transition depuis des centres de données appartenant aux organisations elles-mêmes vers l'utilisation des clouds publics.
