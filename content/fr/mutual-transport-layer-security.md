@@ -11,7 +11,7 @@ au lieu de valider l'identité d'une seule connexion, les deux parties sont vali
 
 ## Problème auquel il répond
 
-Les [microservices] (/fr/microservices/) communiquent sur un réseau et, 
+Les [microservices](/fr/microservices-architecture/) communiquent sur un réseau et, 
 tout comme sur votre réseau wifi, les communications qui transitent par ce réseau peuvent être piratées. 
 Le mTLS garantit qu'aucune partie non autorisée ne peut écouter ou usurper des requêtes légitimes.
 
