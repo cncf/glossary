@@ -2,7 +2,7 @@
 title: Contêineres
 status: Completed
 category: tecnologia
-tags: ["aplicação", "", ""]
+tags: ["aplicação", "fundamento", ""]
 ---
 
 ## O que é
