@@ -34,4 +34,4 @@ Mikroservis mimarisi, bu zorluklara bir yanıttır.
 İşlevsellik farklı mikroservislere ayırmak, bunları bağımsız bir şekilde dağıtmayı, güncellemeyi ve ölçeklendirmeyi kolaylaştırır.
 Ayrıca farklı ekiplerin daha büyük bir uygulamanın küçük bir bölümünde aynı anda çalışmasına izin verir, böylece uygulamanın geri kalan kısmını yanlışlıkla olumsuz etkileme riskini azaltır.
 Mikroservis mimarisi birçok sorunu çözerken, operasyonel ek iş yükü de yaratır. Böylece dağıtmanız ve izlemeniz gereken şeyler büyük ölçüde artar.
-Birçok [bulut-tabanlı teknoloji](/cloud-native-tech/), mikroservisleri daha kolay dağıtmayı ve yönetmeyi amaçlar.
+Birçok [bulut-tabanlı teknoloji](../cloud-native-tech/), mikroservisleri daha kolay dağıtmayı ve yönetmeyi amaçlar.
