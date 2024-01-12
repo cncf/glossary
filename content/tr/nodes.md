@@ -23,6 +23,6 @@ Bu nedenle, düğümler, bir araya gelerek ortak bir hedefe ulaşmak için bir [
 ## Nasıl Yardımcı Olur
 
 Bir düğüm, bir kümeye atanabilen belirgin bir bilişim kaynağı (bellek, işlemci, ağ) sunar.
-[Cloud native](/cloud-native-tech/) bir platformda veya uygulamada bir düğüm, işi gerçekleştirebilen tek bir birimi temsil eder.
+[Cloud native](../cloud-native-tech/) bir platformda veya uygulamada bir düğüm, işi gerçekleştirebilen tek bir birimi temsil eder.
 İdeal olarak, her bir düğüm, belirli bir türdeki herhangi
 bir diğer düğümden ayırt edilemeyecek şekilde farklılık göstermez.
