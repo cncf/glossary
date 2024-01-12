@@ -13,7 +13,7 @@ L'Edge computing è un approccio di [sistema distribuito](/it/distributed-system
 
 Nell'ultimo decennio abbiamo assistito a un incremento dei dispositivi edge (ad esempio, telefoni cellulari, orologi intelligenti o sensori). 
 In determinati contesti, l'elaborazione dei dati in tempo reale diventa non solo una necessità, ma un'esigenza indispensabile. 
-Pensate alle auto a guida autonoma. 
+Basti pensare alle auto a guida autonoma. 
 Immaginate che i dati provenienti dai sensori dell'auto debbano essere trasferiti a un centro dati per l'elaborazione, prima di essere inviati nuovamente al veicolo in modo che possa reagire in modo appropriato. 
 La latenza di rete intrinseca potrebbe essere fatale. 
 Sebbene questo sia un esempio estremo, la maggior parte degli utenti non vorrebbe utilizzare un dispositivo intelligente incapace di fornire un feedback immediato.
