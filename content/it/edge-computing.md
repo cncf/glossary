@@ -4,7 +4,7 @@ status: Completed
 category: Tecnologia
 ---
 
-## Cos'è
+
 
 L'Edge computing è un approccio di [sistema distribuito](/it/distributed-systems/) che sposta parte della capacità di archiviazione e calcolo dal data center principale alla fonte dei dati. I dati raccolti vengono elaborati localmente (ad esempio, all'interno di una fabbrica, in un negozio o in tutta una città) anziché essere inviati a un data center centralizzato per l'elaborazione e l'analisi. Queste unità o dispositivi di elaborazione locali rappresentano l'edge (limite esterno) del sistema, mentre il centro dati ne è il fulcro. Il risultato elaborato all'edge viene poi inviato al centro dati principale per ulteriori elaborazioni. Esempi di edge computing sono i dispositivi da polso o i computer che analizzano il flusso del traffico.
 
