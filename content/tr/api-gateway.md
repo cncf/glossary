@@ -1,5 +1,4 @@
 ---
-
 title: API Geçidi
 status: Completed
 category: Teknoloji
