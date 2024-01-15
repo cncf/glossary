@@ -21,7 +21,7 @@ Questo porterebbe a un'esperienza utente negativa, poiché, come utenti, non vog
 
 ## In che modo aiuta
 
-Una risorsa Ingress consente di configurare come il traffico viene bilanciato e instradato verso i servizi di un'applicazione.
+Una risorsa ingress consente di configurare come il traffico viene bilanciato e instradato verso i servizi di un'applicazione.
 L'ingress controller è un server web, eseguito all'interno del cluster, che interpretando le regole definite nella risorsa ingress  
 consente un singolo punto di ingresso attraverso un URL (www.example-url.com) e gestisce l'instradamento effettivo e il bilanciamento in base a diversi percorsi URL (www.example-url.com/path).
 Spetta agli operatori del cluster decidere quale ingress controller utilizzare per l'esecuzione dell'applicazione web, scegliendo tra una serie di tecnologie possibili come Nginx, Traefik, HAProxy, ecc.
