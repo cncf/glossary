@@ -26,6 +26,6 @@ L'ingress controller è un server web, eseguito all'interno del cluster, che int
 consente un singolo punto di ingresso attraverso un URL (www.example-url.com) e gestisce l'instradamento effettivo e il bilanciamento in base a diversi percorsi URL (www.example-url.com/path).
 Spetta agli operatori del cluster decidere quale ingress controller utilizzare per l'esecuzione dell'applicazione web, scegliendo tra una serie di tecnologie possibili come Nginx, Traefik, HAProxy, ecc.
 Grazie a queste caratteristiche, anche quando un'applicazione è composta da più servizi, l'utente può accedervi utilizzando un singolo URL.
-Questo elimina la necessità di numerosi bilanciatori di carico separati a livello di infrastruttura e semplifica la configurazione delle regole del firewall e del bilanciatori di carico per ciascun servizio.
+Questo elimina la necessità di numerosi bilanciatori di carico separati a livello di infrastruttura e semplifica la configurazione delle regole del firewall e dei bilanciatori di carico per ciascun servizio.
 Centralizzando l'instradamento del traffico e la gestione delle configurazioni, Ingress fornisce una scalabilità ottimizzata, utilizzo efficiente delle risorse, 
 riduzione dei costi e migliora la gestibilità complessiva delle applicazioni in esecuzione in un cluster.
