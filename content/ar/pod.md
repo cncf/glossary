@@ -1,5 +1,4 @@
 ---
----
 title: سَنْفَة
 status: مكتملة
 category: مفهوم
