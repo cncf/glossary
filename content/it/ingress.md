@@ -12,7 +12,7 @@ l'ingress controller è un server web che esegue effettivamente il routing del t
 
 ## Quali problematiche affronta
 
-Le applicazioni web in ambienti cloud native, sono composte da diversi servizi e spesso è necessario che questi [servizi](/it/service/) siano accessibili via Internet per consentire agli utenti di visitarli tramite il loro browser.
+Le applicazioni web in ambienti cloud native sono composte da diversi servizi, e spesso è necessario che questi [servizi](/it/service/) siano accessibili via Internet per consentire agli utenti di visitarli tramite il loro browser.
 Per rendere accessibili questi servizi dell'applicazione agli utenti in ambiente [Kubernetes](/it/kubernetes/), è necessario esporre ciascun servizio dell'applicazione al mondo esterno.
 Il modo più diretto sarebbe utilizzare un servizio di bilanciamento del carico in Kubernetes.
 La creazione di un tale servizio comporta la generazione di un nuovo componente nell'infrastruttura sottostante;
