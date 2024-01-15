@@ -17,7 +17,7 @@ Per rendere accessibili questi servizi dell'applicazione agli utenti in ambiente
 Il modo più diretto sarebbe utilizzare un servizio di bilanciamento del carico in Kubernetes.
 La creazione di un tale servizio comporterebbe la generazione di un nuovo componente nell'infrastruttura sottostante;
 questo non solo introdurrebbe nuovi costi e oneri gestionali, ma ogni nuovo bilanciatore di carico creato avrebbe il proprio indirizzo IP esterno.
-Questo porta a un'esperienza utente negativa, poiché, come utenti, non vogliamo navigare su URL differenti per accedere a un'applicazione
+Questo porterebbe a un'esperienza utente negativa, poiché, come utenti, non vogliamo navigare su URL differenti per accedere a un'applicazione
 
 ## In che modo aiuta
 
