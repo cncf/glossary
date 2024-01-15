@@ -8,7 +8,7 @@ tags: ["fondamenti"]
 Un Ingress è un insieme di regole che aiuta a gestire il traffico Internet proveniente dall'esterno verso un container o un gruppo di container in esecuzione in un cluster.
 È composto da due elementi: la risorsa ingress e dall'ingress controller.
 La risorsa ingress è un file di configurazione e consente agli amministratori di configurare il routing del traffico esterno,
-l'ingress controller è un server web che esegue effettivamente il routing del traffico in base alla configurazione presente nella risorsa Ingress.
+l'ingress controller è un server web che esegue effettivamente il routing del traffico in base alla configurazione presente nella risorsa ingress.
 
 ## Quali problematiche affronta
 
