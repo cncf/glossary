@@ -5,8 +5,6 @@ category: concept
 tags: ["methodology", "networking", ""]
 ---
 
-## What it is
-
 Event streaming is an approach where software sends event data from one application to another to continuously communicate what they are doing.
 Picture a service broadcasting everything it does to all other services.
 Each activity taken by a service is referred to as an event, hence event streaming.

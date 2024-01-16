@@ -7,7 +7,7 @@ tags: ["fundamental", "architecture", "property"]
 
 
 La arquitectura débilmente acoplada es un tipo de arquitectura en donde los componentes individuales de una aplicación se construyen de manera independiente unos de los otros 
-(es el paradigma opuesto a la [arquitectura fuertemente acoplada](/tightly-coupled-architectures/)). 
+(es el paradigma opuesto a la [arquitectura fuertemente acoplada](/es/tightly-coupled-architectures/)). 
 Cada componente, a veces denominado [microservicio](/es/microservices/), 
 está diseñado para realizar una función específica de manera que pueda ser utilizado por cualquier número de servicios. 
 Este patrón es generalmente más lento de implementar que la arquitectura estrechamente acoplada, 

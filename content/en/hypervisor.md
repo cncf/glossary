@@ -5,8 +5,6 @@ category: Technology
 tags: ["application", "", ""]
 ---
 
-## What it is
-
 A hypervisor enables [virtualization](/virtualization/)
 by taking the advantage of [bare metal machine](/bare-metal-machine/) resources
 (CPU, Memory, Network, and Storage), dividing them into sub-parts, 
