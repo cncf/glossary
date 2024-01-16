@@ -5,36 +5,14 @@ category: concept
 tags: ["infrastructure", "fundamental", ""]
 ---
 
-## What it is
-
-Cloud computing offers compute resources like CPU, network, and disk capabilities on-demand over the internet, allowing users to access and use computing power in a remote physical location. 
-It extends beyond merely providing resources and we generally differentiate between private and public cloud. 
-These models differ based on the usage and accessibility of the cloud infrastructure.
-
-In a private cloud, the infrastructure is exclusively dedicated to a single organization, 
-and it can exist both on-premises (within the organization's physical location) or off-premises (hosted by a third-party service provider). 
-This setup offers more control over the infrastructure, data security, and regulatory compliance, 
-and can be customized to meet specific business needs.
-
-On the other hand, a public cloud is a shared infrastructure available for open public services, 
-where resources are owned and operated by third-party cloud service providers. 
-
-Additionally, a hybrid cloud model combines aspects of both private and public clouds. 
-This model enables businesses to leverage the advantages of both deployment models by integrating their private cloud with the public cloud. 
-This combination can be used for creating a balanced, flexible, and cost-effective cloud environment.
-
-Therefore, the distinction among cloud computing models isn't solely about whether the infrastructure is private or public. 
-It also involves the location of the infrastructure and the customization level it can offer, 
-as well as the possibility to create a hybrid solution that maximizes the benefits of both environments.
+Cloud computing is a method of providing computing resources such as CPU power, storage, and network capabilities via the internet. It allows users to leverage remote computing power located in distant data centers. There are two types: private cloud, dedicated to a single organization, and public cloud, open for general use.
 
 ## Problem it addresses
 
-Organizations traditionally faced two main challenges when attempting to expand computing power. 
-They could either acquire, support, and design (new) facilities to host their physical servers and network or expand and maintain existing ones. 
-Cloud computing solves that challenge by allowing organizations to outsource some of their computing needs. 
+Historically, organizations looking to increase their computing capacity faced a dilemma: either invest in new facilities for their servers and networks or upgrade existing ones. This process was time-consuming and resource-intensive.
 
 ## How it helps
 
-Cloud providers allow organizations to rent compute resources on-demand and pay for usage, delivering two key benefits.
-First, organizations can focus on their product or service without waiting, planning, and spending resources on new physical infrastructure. And second, they can simply [scale](/scalability/) on-demand as needed.
-Cloud computing allows organizations to adopt as much or as little infrastructure as they need.
+Cloud computing addresses this by enabling organizations to rent computing resources as needed, without the burden of managing physical infrastructure. This approach offers two main advantages. Firstly, it frees organizations to concentrate on their core business, eliminating delays and costs associated with setting up new infrastructure. Secondly, it provides the flexibility to [scale](/scalability/) resources up or down based on demand, aligning infrastructure needs closely with business requirements. Thus, cloud computing offers a practical solution for organizations to access the amount of infrastructure they need, when they need it, without overcommitting resources.
+
+---
