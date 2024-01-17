@@ -5,8 +5,6 @@ category: concept
 tags: ["architecture", "", ""]
 ---
 
-## Ce que c'est
-
 Un système distribué est un ensemble de composants autonomes connectés via un réseau, et qui apparaît à ses utilisateurs comme un seul système cohérent.
 La plupart du temps appelés [nœuds](/fr/nodes/), ces composants peuvent aussi bien être des machines physiques (des ordinateurs ou des téléphones portables par exemple) que des processus logiciels.
 Les nœuds sont programmés pour atteindre un objectif commun et échangent des messages via le réseau afin de collaborer.

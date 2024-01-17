@@ -5,8 +5,6 @@ category: technology
 tags: ["architecture", "fondamental", ""]
 ---
 
-## Ce que c'est
-
 Une API est un moyen pour les programmes informatiques d'interagir entre eux.
 Tout comme les humains interagissent avec un site web via une page web, une API permet aux programmes informatiques d'interagir les uns avec les autres.
 Contrairement aux interactions humaines, les APIs ont des contraintes sur ce qui peut ou non leur être demandé.
