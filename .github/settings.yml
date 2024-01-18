@@ -210,6 +210,9 @@ collaborators:
   - username: naonishijima
     permission: push
 
+  - username: Okabe-Junya
+    permission: push
+
   - username: yuichi-nakamura
     permission: push
 
