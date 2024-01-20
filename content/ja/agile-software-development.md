@@ -1,0 +1,31 @@
+---
+title: アジャイルソフトウェア開発
+status: Completed
+category: コンセプト
+tags: ["方法論", "", ""]
+---
+
+この文章は、繰り返しの開発サイクルと自己組織化チームを重視する一連の実践について述べています。
+プロジェクトの最後にのみ価値が生み出されるウォーターフォール型のプロジェクトとは対照的に、
+アジャイルソフトウェア開発は、継続的かつ段階的な価値の提供とプロセス自体の進化的な改善に焦点を当てています。
+
+## 解決すべき問題はなんですか
+
+ソフトウェアプロジェクトにおいて、すべての関係者に対して要件を定義し、それを伝え理解させることは非常に難しく、場合によっては不可能です。
+しかし、顧客は自分たちのソフトウェアプロジェクトが時間通りに、良い品質で、予算内で、範囲内で届けられることを望んでいます。
+その循環的な性質により、アジャイルソフトウェア開発は要件に継続的に適応することを可能にします。
+これはウォーターフォール型の戦略とは対照的で、他のすべての状況に適応することをより迅速に行うことができます。
+
+## どのように役に立つのでしょうか
+
+Agile software development contains all the phases of traditional (waterfall-like) strategies,
+like requirements engineering, planning, implementation, review, testing and delivery.
+The biggest difference is that the whole time span of a software project is sliced into iterations, which each contain all those phases.
+After each iteration, the created value can be reviewed with the customer and requirements can be adjusted towards the end goal.
+Additionally the development team retrospects on which actions items to take in order to improve the process itself.
+
+アジャイルソフトウェア開発は、従来の(ウォーターフォール型の)戦略の全てのフェーズを含んでいます。
+これには要件定義、計画、実装、レビュー、テスト、納品などが含まれます。
+最大の違いは、ソフトウェアプロジェクトの全期間がイテレーションに分割され、そのそれぞれが全てのフェーズを含むことです。
+各イテレーションの後、顧客と一緒に作成された価値をレビューし、最終目標に向けて要件を調整することができます。
+さらに、開発チームはプロセス自体を改善するために取るべき行動を振り返ります。
