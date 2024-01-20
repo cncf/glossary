@@ -18,12 +18,6 @@ tags: ["方法論", "", ""]
 
 ## どのように役に立つのでしょうか
 
-Agile software development contains all the phases of traditional (waterfall-like) strategies,
-like requirements engineering, planning, implementation, review, testing and delivery.
-The biggest difference is that the whole time span of a software project is sliced into iterations, which each contain all those phases.
-After each iteration, the created value can be reviewed with the customer and requirements can be adjusted towards the end goal.
-Additionally the development team retrospects on which actions items to take in order to improve the process itself.
-
 アジャイルソフトウェア開発は、従来の(ウォーターフォール型の)戦略の全てのフェーズを含んでいます。
 これには要件定義、計画、実装、レビュー、テスト、納品などが含まれます。
 最大の違いは、ソフトウェアプロジェクトの全期間がイテレーションに分割され、そのそれぞれが全てのフェーズを含むことです。
