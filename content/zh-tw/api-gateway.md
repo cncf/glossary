@@ -5,8 +5,6 @@ category: 技術
 tags: ["網路", "", ""]
 ---
 
-## 是什麼 {#what-it-is}
-
 [API](/zh-tw/application-programming-interface/) 閘道器是一個工具，
 它聚集了多應用程式的 API，使它們可以透過單一的入口存取。
 這使得組織能夠集中處理特定的功能（如身分驗證、授權或限制應用程式之間的請求數量）。
