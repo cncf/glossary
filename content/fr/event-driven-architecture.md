@@ -12,7 +12,7 @@ Cette architecture crée la structure dans laquelle les événements peuvent êt
 
 ## Problème auquel il répond
 
-À mesure que davantage de données sont mises à jour en temps réel, il devient de plus en plus complexe de trouver des moyens fiables pour garantir que les événements sont capturés et acheminés vers le [service](fr/service/) approprié qui doit traiter ces demandes.
+À mesure que davantage de données sont mises à jour en temps réel, il devient de plus en plus complexe de trouver des moyens fiables pour garantir que les événements sont capturés et acheminés vers le [service](/fr/service/) approprié qui doit traiter ces demandes.
 Les méthodes traditionnelles de gestion des événements n'offrent souvent aucune garantie que les messages sont correctement acheminés ou qu'ils ont effectivement été envoyés ou reçus. 
 Lors de la mise à l'échelle des applications, il devient plus difficile d'orchestrer les événements.
 
