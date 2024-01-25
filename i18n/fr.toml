@@ -1,0 +1,87 @@
+
+
+# UI strings. Buttons and similar.
+
+[ui_pager_prev]
+other = "Précédent"
+
+[ui_pager_next]
+other = "Suivant"
+
+[ui_read_more]
+other = "En savoir plus"
+
+[ui_search]
+other = "Rechercher sur ce site…"
+
+# Used in sentences such as "Posted in News"
+[ui_in]
+other = "dans"
+
+# Phrases for tags
+[ui_see_all_tags]
+other = "Voir tous les tags"
+[ui_tag]
+other = "Tag"
+[ui_tags]
+other = "Tags"
+[ui_search_by_tags]
+other = "Parcourir par Tags"
+[ui_tags_intro]
+other = "Nous avons catégorisé les termes du glossaire. Utilisez les filtres pour parcourir les termes par tag."
+[ui_or_search_by_tags]
+other = "...ou parcourir par tag"
+[ui_select_all]
+other = "Tout sélectionner"
+[ui_deselect_all]
+other = "Tout désélectionner"
+
+# Footer text
+[footer_all_rights_reserved]
+other = "Tous droits réservés"
+
+[footer_privacy_policy]
+other = "Politique de confidentialité"
+
+[footer_hub_button_text]
+other = "Tous les sites de la CNCF"
+
+# Post (blog, articles etc.)
+[post_byline_by]
+other = "Par"
+[post_created]
+other = "Créé"
+[post_last_mod]
+other = "Dernière modification"
+[post_edit_this]
+other = "Modifier cette page"
+[post_create_child_page]
+other = "Créer une page enfant"
+[post_create_issue]
+other = "Ouvrir un ticket"
+[post_create_project_issue]
+other = "Ouvrir un ticket de projet"
+[post_posts_in]
+other = "Postés dans"
+[post_reading_time]
+other = "minute(s) de lecture"
+
+# Print support
+[print_printable_section]
+other = "Ceci est la page d'impression multiple de cette section"
+[print_click_to_print]
+other = "Cliquer ici pour imprimer"
+[print_show_regular]
+other = "Retour à la vue standard de cette page"
+[print_entire_section]
+other = "Imprimer la section complète"
+
+# Feedback section
+[feedback_title]
+other = "Votre avis"
+[feedback_question]
+other = "Cette page était-elle utile ?"
+[feedback_answer_yes]
+other = "Oui"
+[feedback_answer_no]
+other = "Non"

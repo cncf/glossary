@@ -5,8 +5,6 @@ category: concept
 tags: ["", "", ""]
 ---
 
-## What it is
-
 A container image is an immutable, static file containing the dependencies for the creation of a [container](/container/). 
 These dependencies may include a single executable binary file, system libraries, 
 system tools, environment variables, and other required platform settings. 

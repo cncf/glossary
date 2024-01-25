@@ -73,17 +73,22 @@ collaborators:
   - username: Garima-Negi
     permission: push
 
-  - username: sayantani11
-    permission: push
-
-  - username: anubha-v-ardhan
-    permission: push
-
   - username: jayesh-srivastava
     permission: push
 
+  - username: abhay-raj19
+    permission: push
+
+  - username: aj11anuj
+    permission: push
+
+  - username: kumarankit999
+    permission: push
+
+  - username: bishal7679
+    permission: push
+
   # l10n de approvers
-  # Note: CathPag is both Maintainer (maintain) and de approver (push)
   # Note: iamNoah1 is both Maintainer (maintain) and de approver (push)
   - username: DaveVentura
     permission: push
@@ -172,6 +177,9 @@ collaborators:
   - username: sestegra
     permission: push
 
+  - username: guillaumebernard84
+    permission: push
+
   # l10n ur approvers
   - username: Saim-Safdar
     permission: push
@@ -180,6 +188,12 @@ collaborators:
     permission: push
 
   # l10n zh-tw approvers
+  - username: hwchiu
+    permission: push
+
+  - username: johnlinp
+    permission: push
+
   - username: pichuang
     permission: push
 
@@ -196,6 +210,12 @@ collaborators:
   - username: naonishijima
     permission: push
 
+  - username: Okabe-Junya
+    permission: push
+
+  - username: yuichi-nakamura
+    permission: push
+
   # l10n tr approvers
   - username: aliok
     permission: push
@@ -203,10 +223,20 @@ collaborators:
   - username: halil-bugol
     permission: push
 
-  - username: developer-guy
+  - username: rwxdash
     permission: push
 
   - username: eminalemdar
+    permission: push
+
+  # l10n ru approvers
+  - username: shurup
+    permission: push
+
+  - username: kirkonru
+    permission: push
+
+  - username: tym83
     permission: push
 
 branches:
@@ -283,9 +313,11 @@ branches:
         # hi approvers
         users:
          - Garima-Negi
-         - sayantani11
-         - anubha-v-ardhan
          - jayesh-srivastava
+         - abhay-raj19
+         - aj11anuj
+         - kumarankit999
+         - bishal7679
         teams: []
       enforce_admins: null
       required_linear_history: null
@@ -419,6 +451,7 @@ branches:
          - fydrah
          - Krast76
          - sestegra
+         - guillaumebernard84
         teams: []
       enforce_admins: null
       required_linear_history: null
@@ -451,6 +484,8 @@ branches:
         apps: []
         # zh-tw approvers
         users:
+         - hwchiu
+         - johnlinp
          - pichuang
          - ydFu
         teams: []
@@ -471,6 +506,8 @@ branches:
          - inductor
          - kaitoii11
          - naonishijima
+         - Okabe-Junya
+         - yuichi-nakamura
         teams: []
       enforce_admins: null
       required_linear_history: null
@@ -488,8 +525,26 @@ branches:
         users:
          - aliok
          - halil-bugol
-         - developer-guy
+         - rwxdash
          - eminalemdar
+        teams: []
+      enforce_admins: null
+      required_linear_history: null
+
+  # l10n branch for ru contents only
+  - name: dev-ru
+    protection:
+      required_pull_request_reviews:
+        required_approving_review_count: 2
+        require_code_owner_reviews: true
+      required_status_checks: null
+      restrictions:
+        apps: []
+        # ru approvers
+        users:
+         - shurup
+         - kirkonru
+         - tym83
         teams: []
       enforce_admins: null
       required_linear_history: null

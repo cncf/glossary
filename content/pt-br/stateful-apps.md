@@ -2,7 +2,7 @@
 title: Aplicações Stateful
 status: Completed
 category: conceito
-tags: ["fundamentos", "", ""]
+tags: ["fundamento", "aplicação", ""]
 ---
 
 ## O que é

@@ -15,7 +15,7 @@ Heroku, Cloud Foundry y App Engine son ejemplos de ofertas de PaaS.
 Para aprovechar los patrones de las aplicaciones nativas para la nube como son los [microservicios](/es/microservices/) o las [aplicaciones distribuidas](/es/distributed-apps/),
 los equipos de operaciones y los desarrolladores necesitan ser capaces de descargar un tiempo significativo de trabajo en operaciones y mantenimiento.
 Estos incluyen tareas como el aprovisionamiento de infraestructura,
-el manejo del [descubrimiento de servicios](/service-discovery/) y balanceo de cargas, y [escalamiento](/scalability/) de aplicaciones.
+el manejo del [descubrimiento de servicios](/es/service-discovery/) y balanceo de cargas, y [escalamiento](/es/scalability/) de aplicaciones.
 
 ## ¿Cómo ayuda?
 

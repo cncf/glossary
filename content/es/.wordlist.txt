@@ -180,6 +180,7 @@ md
 menu
 Mercurial
 mesh
+meshes
 methodology
 microservicio
 microservicios
