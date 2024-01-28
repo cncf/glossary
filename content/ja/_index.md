@@ -40,7 +40,7 @@ status: Completed
 [Noah Ispas](https://www.linkedin.com/in/noah-ispas-0665b42a/)、
 そして [Seokho Son](https://www.linkedin.com/in/seokho-son/)によってメンテナンスされています.
 
-クラウドネイティブ用語集の日本語化は、[Kaito Ii](https://github.com/kaitoii11)、[Kohei Ota](https://github.com/inductor)、[Yuishi Nakamura](https://github.com/yuichi-nakamura)、[MItabashi](https://github.com/bashi8128)、[HANABE926](https://github.com/HANABE926)、[Junya Okabe](https://github.com/Okabe-Junya)、[Akira Aiura](https://github.com/A-aiura)、[shizhenhu](https://github.com/shizhenhu)、[Nao Nishijima](https://github.com/naonishijima)の貢献を通じて開始されました。
+クラウドネイティブ用語集の日本語化は、[Kaito Ii](https://github.com/kaitoii11)、[Kohei Ota](https://github.com/inductor)、[Yuichi Nakamura](https://github.com/yuichi-nakamura)、[MItabashi](https://github.com/bashi8128)、[HANABE926](https://github.com/HANABE926)、[Junya Okabe](https://github.com/Okabe-Junya)、[Akira Aiura](https://github.com/A-aiura)、[shizhenhu](https://github.com/shizhenhu)、[Nao Nishijima](https://github.com/naonishijima)の貢献を通じて開始されました。
 クラウドネイティブ用語集の日本語への翻訳とローカライゼーションに興味のある方は、[#glossary-localization-japanese](https://app.slack.com/client/T08PSQ7BQ/C057F81GFUG) チャンネルにご参加ください。
 
 ## ライセンス
