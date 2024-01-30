@@ -10,7 +10,7 @@ Bien que les serveurs existent toujours dans le paradigme serverless, ils sont [
 Un fournisseur de cloud s'occupe du travail routinier de mise à disposition, de maintenance et de [mise à l'échèle](/fr/scalability/) de l'infrastructure.
 Les développeurs peuvent facilement empaqueter leur code dans des [conteneurs](/fr/container/) pour le déployer.
 Une fois déployées, les applications serverless répondent à la demande et se mettent à l'échelle automatiquement.
-Les offres serverless des fournisseurs de cloud public sont généralement facturées à l'utilisation selon un modèle d'exécution piloté par les événements.
+Les offres serverless des fournisseurs de cloud public sont généralement jaugés à l'utilisation au travers d'un modèle d'exécution basé sur des événements.
 Par conséquent, lorsqu'une fonction serverless est inutilisée, il n'y a pas de coûts associés.
 
 ## Problème auquel il répond
