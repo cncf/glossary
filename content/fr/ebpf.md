@@ -1,10 +1,10 @@
 ---
 title: eBPF
 status: Completed
-category: architecture
+category: ["architecture", "réseau", "sécurité"]
 ---
 
-eBPF, ou "extended Berkeley Packet Filter", est une technologie qui permet à de petits programmes ou scripts de s'exécuter au sein d'un environnement contrôlé dans l'espace du noyau d'un système Linux, sans avoir à modifier le code source du noyau ou à charger des modules dans le noyau Linux.
+eBPF, ou "extended Berkeley Packet Filter", est une technologie qui permet à de petits programmes ou scripts de s'exécuter au sein d'un environnement contrôlé dans l'espace du noyau (kernel en anglais) d'un système Linux, sans avoir à modifier le code source du noyau ou à charger des modules dans le noyau Linux.
 
 Un système Linux comporte deux espaces : l'espace du noyau et l'espace utilisateur.
 Le noyau représente le cœur du système d'exploitation et est la seule partie ayant un accès illimité au matériel.
@@ -12,8 +12,8 @@ Le noyau représente le cœur du système d'exploitation et est la seule partie 
 Les applications résidant dans l'espace utilisateur envoient une requête au noyau lorsqu'elles ont besoin de privilèges plus importants.
 Pour les applications qui nécessitent plus de flexibilité, comme un accès direct au matériel, le noyau peut être étendu grâce à ce que l'on appelle des "modules" pour le noyau.
 Cette approche permet d'étendre les fonctionnalités par défaut du noyau,
- permettant aux applications d'accéder plus directement aux composants sous-jacents.
- Cependant, cette approche introduit également des risques de sécurité, ce qui fait d'eBPF une alternative intéressante.
+ainsi les applications peuvent accéder plus directement aux composants sous-jacents.
+Cependant, cette approche introduit également des risques de sécurité, ce qui fait d'eBPF une alternative intéressante.
 
 ## Problème auquel il répond
 
