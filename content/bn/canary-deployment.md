@@ -2,7 +2,7 @@
 title: ক্যানারি ডিপ্লয়মেন্ট (Canary Deployment)
 status: Completed
 category: ধারণা
-tags: ["methodology", "application", ""]
+tags: ["পদ্ধতি", "অ্যাপ্লিকেশন", ""]
 ---
 
 ক্যানারি ডিপ্লয়মেন্ট হল একটি স্থাপনার কৌশল যা দুটি পরিবেশ দিয়ে শুরু হয়:
