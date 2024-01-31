@@ -2,7 +2,7 @@
 title: সার্ভিস ডিসকভারি (Service Discovery)
 status: Completed
 category: ধারণা
-tags: ["networking", "", ""]
+tags: ["নেটওয়ার্কিং", "", ""]
 ---
 
 সার্ভিস ডিসকভারি হল পৃথক দৃষ্টান্ত খোঁজার প্রক্রিয়া যা একটি পরিষেবা তৈরি করে। 
