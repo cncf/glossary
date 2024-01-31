@@ -17,7 +17,7 @@ Antes de que los contenedores fuesen relevantes, las organizaciones dependían d
 orquestar múltiples aplicaciones en una única [máquina Bare Metal](/es/bare-metal-machine/).
 Las máquinas virtuales son significativamente más pesadas que los contenedores y requieren de un hipervisor para su funcionamiento.
 Debido al almacenamiento, copias de seguridad y transferencia de estas plantillas de máquinas virtuales, la creación de las mismas también se trata de un proceso lento.
-Adicionalmente, las máquinas virtuales pueden sufrir variaciones en la configuración, lo cuál contradice el principio de [inmutabilidad](/es/immutable-infraestructura/).
+Adicionalmente, las máquinas virtuales pueden sufrir variaciones en la configuración, lo cuál contradice el principio de [inmutabilidad](/es/immutable-infrastructure/).
 
 ## ¿Cómo ayuda?
 
