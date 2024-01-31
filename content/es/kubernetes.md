@@ -11,7 +11,7 @@ Automatiza el ciclo de vida de las aplicaciones contenedorizadas en infraestruct
 Kubernetes gestiona [contenedores](/es/container/) en los [nodos](/es/nodes/) de un [clúster](/es/cluster/), agrupa muchos componentes de infraestructura, en ocasiones referidos como "primitivos", como una instancia de una aplicación, balanceadores de carga, almacenamiento persistente y otros, de manera que puedan integrarse en aplicaciones.
 
 Kubernetes permite la automatización y extensibilidad, permitiendo a los usuarios desplegar sus aplicaciones de una manera declarativa y reproducible.
-Kubernetes puede ser extendido a través de su [API](/es/aplicación-programming-interface/), permitiendo aprovechar la automatización de Kubernetes y hacer que sus herramientas sean más accesibles para profesionistas experimentados de Kubernetes.
+Kubernetes puede ser extendido a través de su [API](/es/application-programming-interface/), permitiendo aprovechar la automatización de Kubernetes y hacer que sus herramientas sean más accesibles para profesionistas experimentados de Kubernetes.
 
 ## Problema que aborda
 
@@ -20,7 +20,7 @@ La demanda de recursos de cómputo incrementa día con día y las organizaciones
 
 ## ¿Cómo ayuda?
 
-De manera parecida a las herramientas tradicionales de [infraestructura como código](/es/infraestructura-as-code/), Kubernetes ayuda con la automatización pero tiene la ventaja de trabajar con contenedores.
+De manera parecida a las herramientas tradicionales de [infraestructura como código](/es/infrastructure-as-code/), Kubernetes ayuda con la automatización pero tiene la ventaja de trabajar con contenedores.
 Los contenedores son más resistentes a fallas por diferencias en entornos a comparación con las [máquinas virtuales](/es/virtual-machine/) o físicas.
 
 Aún más, Kubernetes funciona declarativamente, lo que significa que, en lugar de que los operadores proporcionen las instrucciones sobre cómo realizar una acción, ellos describen, por lo general en archivos de manifiesto (por ejemplo, YAML), lo que quieren que se logre;

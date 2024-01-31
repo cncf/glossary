@@ -16,7 +16,7 @@ Como resultado, cuando una función sin servidor está inutilizada, no represent
 
 ## Problema que aborda
 
-En un modelo de [Infraestructura como Servicio](/es/infraestructura-as-a-service/),
+En un modelo de [Infraestructura como Servicio](/es/infrastructure-as-a-service/),
 los usuarios compran unidades de cómputo o capacidad de forma anticipada, es decir, se paga a un proveedor de nube pública por componentes de servidores de ejecución continua para las aplicaciones.
 Es responsabilidad del usuario luego aumentar la capacidad de cómputo durante periodos de alta demanda y
 reducirla cuando ya no sea necesaria.
