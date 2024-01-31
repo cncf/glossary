@@ -1,5 +1,5 @@
 ---
-title: Transport Layer seguridad (TLS)
+title: Transport Layer Security (TLS)
 status: Completed
 category: Concept
 tags: ["seguridad", "redes", ""]
