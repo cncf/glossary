@@ -7,7 +7,7 @@ tags: ["redes", "", ""]
 
 ## ¿Qué es?
 
-Un [API](/es/aplicación-programming-interface/) gateway es una herramienta que
+Un [API](/es/application-programming-interface/) gateway es una herramienta que
 concentra aplicaciones APIs únicas, centralizando a todas en un solo lugar.
 Esto permite a las organizaciones mover funciones clave,
 como puede ser la autenticación y la autorización o limitando el número de peticiones entre aplicaciones
