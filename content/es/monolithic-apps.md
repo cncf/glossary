@@ -2,7 +2,7 @@
 title: Aplicaciones monolíticas
 status: Completed
 category: Concepto
-tags: ["arquitectura", "fundamental", ""]
+tags: ["arquitectura", "fundamento", ""]
 ---
 
 ## ¿Qué es?
