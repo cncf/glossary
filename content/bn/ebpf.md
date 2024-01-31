@@ -2,7 +2,7 @@
 title: ইবিপিএফ(eBPF)
 status: Completed
 category: প্রযুক্তি
-tags: ["architecture"]
+tags: ["architecture", "networking", "security"]
 ---
 
 ইবিপিএফ(eBPF) , বা বর্ধিত বার্কলে প্যাকেট ফিল্টার (extended Berkeley Packet Filter), এমন একটি প্রযুক্তি যা কার্নেলের সোর্স কোড পরিবর্তন না করে বা লিনাক্স কার্নেল মডিউল লোড না করেই লিনাক্স সিস্টেমের কার্নেল স্পেসে ছোট, স্যান্ডবক্সড প্রোগ্রাম বা স্ক্রিপ্ট চালানোর অনুমতি দেয়।
