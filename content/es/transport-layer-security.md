@@ -5,9 +5,6 @@ category: Concept
 tags: ["seguridad", "redes", ""]
 ---
 
-
-## ¿Qué es?
-
 Garantiza la entrega segura de los datos enviados a través de Internet,
 evitando posibles seguimientos y/o alteraciones de los datos.
 Este protocolo es muy utilizado en aplicaciones como mensajería, correo electrónico, etc.

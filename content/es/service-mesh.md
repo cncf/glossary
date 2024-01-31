@@ -5,9 +5,6 @@ category: Tecnología
 tags: ["redes", "", ""]
 ---
 
-
-## ¿Qué es?
-
 En un mundo de [arquitectura de microservicios](/es/microservices-architecture/), las aplicaciones se dividen en múltiples [servicios](/es/service/) que se comunican a través de una red.
 Al igual que las redes de wifi, las redes de computadoras son poco confiables, proclives a ser atacadas y en muchos casos lentas.
 Las mallas de servicios (Service meshes) afrontan estos nuevos desafíos mediante el manejo de tráfico (por ejemplo la comunicación) entre servicios y
