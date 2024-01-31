@@ -2,7 +2,7 @@
 title: ঘটনা-চালিত স্থাপত্য (Event-Driven Architecture)
 status: Completed
 category: ধারণা
-tags: ["architecture", "", ""]
+tags: ["স্থাপত্য", "", ""]
 ---
 
 ঘটনা চালিত স্থাপত্য হল একটি সফ্টওয়্যার স্থাপত্য যা ঘটনা তৈরি, প্রক্রিয়াকরণ এবং ব্যবহারকে প্রচার করে।

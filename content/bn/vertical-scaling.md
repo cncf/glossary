@@ -2,7 +2,7 @@
 title: উল্লম্ব স্কেলিং (Vertical Scaling)
 status: Completed
 category: ধারণা
-tags: ["infrastructure", "", ""]
+tags: ["অবকাঠামো", "", ""]
 ---
 
 উল্লম্ব স্কেলিং, যা "উপর এবং নিচে স্কেলিং" নামেও পরিচিত, একটি কৌশল যেখানে

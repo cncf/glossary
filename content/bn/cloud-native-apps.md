@@ -2,7 +2,7 @@
 title: ক্লাউড নেটিভ অ্যাপস (Cloud Native Apps)
 status: Completed
 category: ধারণা
-tags: ["application", "fundamental", ""]
+tags: ["অ্যাপ্লিকেশন", "মৌলিক", ""]
 ---
 
 ক্লাউড নেটিভ অ্যাপ্লিকেশনগুলি বিশেষভাবে [ক্লাউড কম্পিউটিং (Cloud Computing)](/bn/cloud-computing/)-এ উদ্ভাবনের সুবিধা নেওয়ার জন্য ডিজাইন করা হয়েছে।

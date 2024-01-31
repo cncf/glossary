@@ -2,7 +2,7 @@
 title: পড (Pod)
 status: Completed
 category: ধারণা 
-tags: ["infrastructure", "fundamental", ""]
+tags: ["অবকাঠামো", "মৌলিক", ""]
 ---
 
 একটি [কুবারনেটিস (Kubernetes)](/bn/kubernetes/) পরিবেশের মধ্যে, একটি পড সবচেয়ে মৌলিক স্থাপনযোগ্য ইউনিট হিসাবে কাজ করে ।

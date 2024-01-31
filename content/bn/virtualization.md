@@ -2,7 +2,7 @@
 title: ভার্চুয়ালাইজেশন (Virtualization)
 status: completed
 category: প্রযুক্তি
-tags: ["fundamental", "infrastructure", "methodology"]
+tags: ["মৌলিক", "অবকাঠামো", "পদ্ধতি"]
 ---
 
 ভার্চুয়ালাইজেশন, ক্লাউড নেটিভ কম্পিউটিং প্রসঙ্গে,

@@ -1,8 +1,8 @@
 ---
 title: বহু মালিকানা (Multitenancy)
 status: Completed
-category: সম্পত্তি
-tags: ["architecture", "property", ""]
+category: বৈশিষ্ট্য
+tags: ["স্থাপত্য", "বৈশিষ্ট্য", ""]
 ---
 
 বহু মালিকানা (multitenancy) (বা মাল্টি-টেনেন্সি (multi-tenancy)) একটি একক সফ্টওয়্যার (software) ইনস্টলেশনকে (installation) বোঝায় যা একাধিক ভাড়াটেদের পরিষেবা দেয়।

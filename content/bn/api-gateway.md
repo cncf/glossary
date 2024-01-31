@@ -2,7 +2,7 @@
 title: API গেটওয়ে(API Gateway)
 status: Completed
 category: প্রযুক্তি
-tags: ["networking", "", ""]
+tags: ["নেটওয়ার্কিং", "", ""]
 ---
 
 একটি [API](/bn/application-programming-interface/) গেটওয়ে হল একটি টুল যা

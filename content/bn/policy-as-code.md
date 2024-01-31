@@ -2,7 +2,7 @@
 title: কোড হিসাবে নীতি (Policy as Code)
 status: Completed
 category: ধারণা
-tags: ["methodology", "", ""]
+tags: ["পদ্ধতি", "", ""]
 draft: 
 ---
 

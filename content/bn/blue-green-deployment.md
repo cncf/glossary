@@ -2,7 +2,7 @@
 title: নীল সবুজ স্থাপনা (Blue Green Deployment)
 status: Completed
 category: ধারণা
-tags: ["methodology", "application", ""]
+tags: ["পদ্ধতি", "অ্যাপ্লিকেশন", ""]
 ---
 
 ন্যূনতম ডাউনটাইম সহ চলমান কম্পিউটার সিস্টেম আপডেট করার জন্য নীল-সবুজ স্থাপনা একটি কৌশল।
