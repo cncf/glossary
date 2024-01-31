@@ -5,8 +5,6 @@ category: Tecnología
 tags: ["redes", "", ""]
 ---
 
-## ¿Qué es?
-
 Un servicio de Proxy intercepta tráfico desde o hacia un [servicio](/es/service/) determinado,
 aplicando algún tipo de lógica predefinida y luego envía ese tráfico hacia otro servicio.
 En esencia actúa como un agente intermedio que recolecta información referente al tráfico de red y/o aplica reglas al mismo.

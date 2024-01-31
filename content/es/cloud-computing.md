@@ -5,8 +5,6 @@ category: Concepto
 tags: ["infraestructura", "fundamental", ""]
 ---
 
-## ¿Qué es?
-
 La computación en la nube es un modelo que ofrece recursos informáticos como capacidades de CPU, red y disco bajo demanda a través de Internet.
 La computación en la nube brinda a los usuarios la capacidad de acceder y utilizar el poder de cómputo en una ubicación física remota.
 Los proveedores de la nube como AWS, GCP, Azure, DigitalOcean y otros ofrecen a terceros

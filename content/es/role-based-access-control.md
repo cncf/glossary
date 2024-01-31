@@ -4,8 +4,6 @@ status: Completed
 category: Concepto
 ---
 
-## ¿Qué es?
-
 El control de acceso basado en roles (RBAC, por sus siglas en inglés) es un método para regular el acceso al sistema y los recursos en función de los roles individuales de los usuarios dentro de una organización.
 Cada función laboral tiene un rol y permisos específicos.
 Por ejemplo, un miembro del equipo de marketing puede tener permiso para ver las ventas en proceso (permiso de *lectura*), pero no se le permitirá editarlas (permiso de *escritura*).

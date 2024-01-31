@@ -5,8 +5,6 @@ Category: Tecnología
 tags: ["arquitectura", "", ""]
 ---
 
-## ¿Qué es?
-
 Sin servidor (Serverless) es un modelo de desarrollo nativo en la nube que ayuda a los desarrolladores a
 crear y ejecutar aplicaciones sin tener que mantener servidores.
 Hay servidores en el modelo sin servidor, pero han sido [abstraídos](/es/abstraction/) del proceso de desarrollo.

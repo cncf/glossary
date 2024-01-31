@@ -5,8 +5,6 @@ category: Concepto
 tags: ["fundamental", "", ""]
 ---
 
-## ¿Qué es?
-
 Las tecnologías nativas para la nube, también denominadas como stack nativo para la nube,
 son las tecnologías que se utilizan para crear [aplicaciones nativas para la nube](/es/cloud-native-apps/).
 Estas tecnologías permiten a las organizaciones crear y ejecutar aplicaciones escalables en entornos modernos y dinámicos

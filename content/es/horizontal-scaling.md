@@ -5,8 +5,6 @@ category: Concepto
 tags: ["infraestructura", "", ""]
 ---
 
-## ¿Qué es?
-
 Escalado horizontal es una técnica donde la capacidad del sistema es incrementada agregando más [nodos](/es/nodes)
 en vez de agregar más recursos computacionales a nodos individuales (conocido como [escalado vertical](/es/vertical-scaling/)).
 Como ejemplo, digamos que tenemos un sistema con 4 GB de memoria y queremos incrementar su capacidad a 16 GB,

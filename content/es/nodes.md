@@ -5,8 +5,6 @@ category: Tecnología
 tags: ["infraestructura", "fundamental", ""]
 ---
 
-## ¿Qué es?
-
 Un nodo es un servidor que trabaja en conjunto a otros servidores, o nodos, para realizar una tarea común.
 Toma tu laptop, el módem y la impresora como ejemplo.
 Están conectados a través de tu red wifi comunicándose y colaborando, cada uno representa un nodo.

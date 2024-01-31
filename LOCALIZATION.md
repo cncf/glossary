@@ -133,11 +133,12 @@ Once the PR is merged, the localized content will go live on its website 🎉
 
 To join an existing team, hop on the #glossary-localizations and #glossary-localization-[language name] channels on the CNCF Slack. Introduce yourself, let the team know you want to contribute, and the team will take it from there.
 
-If the team seems inactive (no response after several days), reach out to @Seokho Son, @Catherine Paganini, @jmo, @Jihoon Seo or @Noah Ispas on the #glossary-localizations channel.  
+If the team seems inactive (no response after several days), reach out to @Seokho Son, @Jihoon Seo, @nate-double-u, or @Noah Ispas on the #glossary-localizations channel.  
 
 --- 
 
 # Localization team guidelines
+
 Every localization team may have its own process of working on localizing terms. However, here are some guidelines that are common for all localization teams:
 
 1. Only terms with the status `Completed` in the English version are ready to be localized.

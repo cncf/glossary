@@ -5,8 +5,6 @@ category: Concepto
 tags: ["arquitectura", "", ""]
 ---
 
-## ¿Qué es?
-
 Un sistema distribuido es una colección de elementos computacionales autónomos
 conectados entre sí a través de una red que se muestra a los usuarios como un sistema único coherente. 
 Conocidos generalmente como [nodos](/es/nodes/), estos elementos pueden ser dispositivos de hardware (por ejemplo, computadoras o teléfonos móviles) o procesos de software.

@@ -5,8 +5,6 @@ category: Concepto
 tags: ["aplicación", "metodología", ""]
 ---
 
-## ¿Qué es?
-
 Integración continua, o por sus siglas en ingles CI, es la práctica de integrar cambios en el código lo más frecuente posible.
 CI es un requisito para la [entrega continua](/es/continuous-delivery/) (CD).
 Tradicionalmente, el proceso de CI comienza cuando se envían los cambios en el código hacia un sistema de control de versiones (Git, Mercurial, o Subversion)

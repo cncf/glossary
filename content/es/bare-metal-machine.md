@@ -5,8 +5,6 @@ category: Tecnología
 tags: ["infraestructura", "", ""]
 ---
 
-## ¿Qué es?
-
 Bare metal se refiere a una computadora física, más específicamente un servidor, que tiene un solo sistema operativo.
 La distinción es importante en la informática moderna porque muchos, si no es que la mayoría, de los servidores son [máquinas virtuales](/es/virtual-machine/).
 Un servidor físico suele ser una computadora bastante grande con un potente hardware incorporado.

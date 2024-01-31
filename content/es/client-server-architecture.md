@@ -5,8 +5,6 @@ category: Concepto
 tags: ["arquitectura", "fundamental", ""]
 ---
 
-## ¿Qué es?
-
 En una arquitectura cliente-servidor, la lógica (o código) que constituye una aplicación se divide en dos o más componentes:
 un cliente que solicita trabajo por hacer
 (por ejemplo, la aplicación web Gmail que se ejecuta en su navegador web),

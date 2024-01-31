@@ -2,6 +2,7 @@
 title: অ্যাজাইল সফটওয়্যার ডেভেলপমেন্ট (Agile Software Development)
 status: Completed
 category: ধারণা
+tags: ["methodology", "", ""]
 ---
 
 ## এটা কি

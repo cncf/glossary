@@ -5,8 +5,6 @@ category: Tecnología
 tags: ["fundamental", "infraestructura", ""]
 ---
 
-## ¿Qué es?
-
 Una máquina virtual (VM según sus siglas en Inglés) es una computadora y su sistema operativo
 no relacionados a un hardware específico.
 Las máquinas virtuales utilizan el método de [virtualización](/es/virtualization/) que crea múltiples computadoras virtuales dentro una sola computadora física.
