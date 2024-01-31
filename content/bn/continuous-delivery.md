@@ -2,7 +2,7 @@
 title: ক্রমাগত বিতরণ (Continuous Delivery) (CD)
 status: Completed
 category: ধারণা
-tags: ["methodology", "application", ""]
+tags: ["পদ্ধতি", "অ্যাপ্লিকেশন", ""]
 ---
 
 ক্রমাগত বিতরণ (continuous delivery), প্রায়ই CD হিসাবে সংক্ষিপ্ত, অনুশীলনের একটি সেট যেখানে কোডের পরিবর্তনগুলি স্বয়ংক্রিয়ভাবে একটি গ্রহণযোগ্য পরিবেশে স্থাপন করা হয় (অথবা, ক্রমাগত স্থাপনার (continuous deployment) ক্ষেত্রে, উৎপাদনে)। 
