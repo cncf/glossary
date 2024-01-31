@@ -1,8 +1,8 @@
 ---
 title: ফাংশন-এজ়-এ-সার্ভিস (Function as a Service) (FaaS)
 status: Completed
-category: প্রযুক্তিবিদ্যা
-tags: ["infrastructure", "", ""]
+category: প্রযুক্তি
+tags: ["অবকাঠামো", "", ""]
 ---
 
 ফাংশন-এজ়-এ-সার্ভিস
