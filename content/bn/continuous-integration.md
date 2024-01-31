@@ -2,7 +2,7 @@
 title: ক্রমাগত একীকরণ (Continuous Integration) (CI)
 status: Completed 
 category: ধারণা
-tags: ["application", "methodology", ""]
+tags: ["অ্যাপ্লিকেশন", "পদ্ধতি", ""]
 ---
 
 ক্রমাগত একীকরণ (Continuous integration), প্রায়ই CI হিসাবে সংক্ষেপে, যতটা সম্ভব নিয়মিত কোড পরিবর্তনগুলিকে একীভূত করার অনুশীলন। 
