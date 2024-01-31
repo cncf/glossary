@@ -29,16 +29,19 @@ status: Completed
 [Daniel Jones](https://www.linkedin.com/in/danieljoneseb/?originalSubdomain=uk), 
 [Jason Morgan](https://www.linkedin.com/in/jasonmorgan2/), 
 [Katelin Ramer](https://www.linkedin.com/in/katelinramer/), 
-[Mike Foster](https://www.linkedin.com/in/mfosterche/?originalSubdomain=ca), 
+[Mike Foster](https://www.linkedin.com/in/mfosterche/?originalSubdomain=ca)
 その他多くの貢献者による貢献が含まれています。
 全ての貢献者リストについては、[GitHub page](https://github.com/cncf/glossary/graphs/contributors) を参照してください。
 
 用語集は 
-[Catherine Paganini](https://www.linkedin.com/in/catherinepaganini/en/)、
-[Jason Morgan](https://www.linkedin.com/in/jasonmorgan2/)、
-[Jihoon Seo](https://www.linkedin.com/in/jihoon-seo/)、
-[Noah Ispas](https://www.linkedin.com/in/noah-ispas-0665b42a/)、
-そして [Seokho Son](https://www.linkedin.com/in/seokho-son/)によってメンテナンスされています.
+[Seokho Son](https://www.linkedin.com/in/seokho-son/),
+[Noah Ispas](https://www.linkedin.com/in/noah-ispas-0665b42a/), 
+[Jihoon Seo](https://www.linkedin.com/in/jihoon-seo/),
+[Nate W.](https://www.linkedin.com/in/nate-double-u/)
+そして[Jorge Castro](https://www.linkedin.com/in/jorge-castro2112/)によってメンテナンスされています。
+
+[Catherine Paganini](https://www.linkedin.com/in/catherinepaganini/en/), [Jason Morgan](https://www.linkedin.com/in/jasonmorgan2/)
+は名誉メンテナーであり、長年にわたる彼らの貴重な貢献に深く感謝しています。
 
 クラウドネイティブ用語集の日本語化は、[Kaito Ii](https://github.com/kaitoii11)、[Kohei Ota](https://github.com/inductor)、[Yuichi Nakamura](https://github.com/yuichi-nakamura)、[MItabashi](https://github.com/bashi8128)、[HANABE926](https://github.com/HANABE926)、[Junya Okabe](https://github.com/Okabe-Junya)、[Akira Aiura](https://github.com/A-aiura)、[shizhenhu](https://github.com/shizhenhu)、[Nao Nishijima](https://github.com/naonishijima)の貢献を通じて開始されました。
 クラウドネイティブ用語集の日本語への翻訳とローカライゼーションに興味のある方は、[#glossary-localization-japanese](https://app.slack.com/client/T08PSQ7BQ/C057F81GFUG) チャンネルにご参加ください。
