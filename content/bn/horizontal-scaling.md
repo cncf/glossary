@@ -2,7 +2,7 @@
 title: অনুভূমিক স্কেলিং (Horizontal Scaling)
 status: Completed
 category: ধারণা
-tags: ["infrastructure", "", ""]
+tags: ["অবকাঠামো", "", ""]
 ---
 
 অনুভূমিক স্কেলিং হল এমন একটি কৌশল যেখানে আরও [নোড](/bn/nodes/) যোগ করে একটি সিস্টেমের ক্ষমতা বৃদ্ধি করা হয়।
