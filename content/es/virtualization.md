@@ -2,7 +2,7 @@
 title: Virtualización
 status: completed
 category: Tecnología
-tags: ["fundamental", "infraestructura", "metodología"]
+tags: ["fundamento", "infraestructura", "metodología"]
 ---
 
 La virtualización, en el contexto de la computación nativa para la nube,

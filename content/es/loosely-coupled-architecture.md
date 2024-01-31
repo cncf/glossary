@@ -2,7 +2,7 @@
 title: Arquitectura débilmente acoplada
 status: Completed
 category: Propiedad
-tags: ["fundamental", "arquitectura", "propiedad"]
+tags: ["fundamento", "arquitectura", "propiedad"]
 ---
 
 

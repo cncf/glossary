@@ -2,7 +2,7 @@
 title: Computación en la Nube
 status: Completed
 category: Concepto
-tags: ["infraestructura", "fundamental", ""]
+tags: ["infraestructura", "fundamento", ""]
 ---
 
 La computación en la nube es un modelo que ofrece recursos informáticos como capacidades de CPU, red y disco bajo demanda a través de Internet.
