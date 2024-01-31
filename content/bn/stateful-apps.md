@@ -1,8 +1,8 @@
 ---
 title: স্টেটফুল অ্যাপস (Stateful Apps)
 status: Completed
-category: ধারণা
-tags: ["fundamental", "application", " "]
+category: বৈশিষ্ট্য
+tags: ["মৌলিক", "অ্যাপ্লিকেশন", "বৈশিষ্ট্য"]
 ---
 
 যখন আমরা স্টেটফুল (এবং স্টেটলেস) অ্যাপগুলি সম্পর্কে বলি,
