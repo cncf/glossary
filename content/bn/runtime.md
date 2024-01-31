@@ -2,7 +2,7 @@
 title: রানটাইম (Runtime)
 status: Completed
 category: ধারণা
-tags: ["application"]
+tags: ["অ্যাপ্লিকেশন"]
 ---
 
 সাধারণত  একটি রানটাইম সফ্টওয়্যারের একটি অংশকে কার্যকর করে।
