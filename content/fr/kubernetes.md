@@ -5,8 +5,6 @@ category: technology
 tags: ["infrastructure", "fondamental", ""]
 ---
 
-## Ce que c'est
-
 Kubernetes, souvent abrégé en k8s, est un orchestrateur de conteneurs open source.
 Il automatise le cycle de vie des applications conteneurisées sur des infrastructures modernes, fonctionnant comme un "Système d'exploitation de centre de données" qui gère des applications à travers un [système distribué](/fr/distributed-systems/).
 

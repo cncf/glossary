@@ -2,10 +2,8 @@
 title: কেওস ইঞ্জিনিয়ারিং (Chaos Engineering)
 status: Completed
 category: ধারণা
-tags: ["methodology", "", ""]
+tags: ["পদ্ধতি", "", ""]
 ---
-
-## এটা কি
 
 কেওস  ইঞ্জিনিয়ারিং (Chaos Engineering) বা CE হল [ডিস্ট্রিবিউটেড সিস্টেমে (distributed system)](/bn/distributed-systems/) পরীক্ষা করার শৃঙ্খলা যাতে কোলাহলপূর্ণ এবং অপ্রত্যাশিত পরিস্থিতি সহ্য করার জন্য সিস্টেমে ক্ষমতা তৈরি হয়।
 
