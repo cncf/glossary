@@ -5,8 +5,6 @@ category: technology
 tags: ["réseau", "", ""]
 ---
 
-## Ce que c'est
-
 Une passerelle d'[API](/fr/application-programming-interface/) est un outil qui regroupe des APIs d'applications individuelles, les rendant toutes disponibles en un seul endroit.
 Celà permet aux organisations de déplacer des fonctions clés, telles que l'authentification et l'autorisation ou la limitation du nombre de requêtes entre applications, vers un emplacement géré de manière centralisée.
 Une passerelle d'API fonctionne comme une interface commune pour les consommateurs d'API (souvent externes).

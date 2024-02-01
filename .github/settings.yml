@@ -210,6 +210,9 @@ collaborators:
   - username: naonishijima
     permission: push
 
+  - username: Okabe-Junya
+    permission: push
+
   - username: yuichi-nakamura
     permission: push
 
@@ -503,6 +506,7 @@ branches:
          - inductor
          - kaitoii11
          - naonishijima
+         - Okabe-Junya
          - yuichi-nakamura
         teams: []
       enforce_admins: null

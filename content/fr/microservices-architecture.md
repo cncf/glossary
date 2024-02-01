@@ -4,8 +4,6 @@ status: Completed
 tags: ["architecture", "fondamental", ""]
 ---
 
-## Ce que c'est
-
 Une architecture en microservices est une approche architecturale qui divise les applications en (micro)[services](/fr/service/) distincts et indépendants, chaque service étant focalisé sur une fonctionnalité spécifique. 
 Ces services fonctionnent en étroite collaboration, et l'utilisateur final a l'impression d'utiliser un seul service.
 Prenons Netflix comme exemple.
