@@ -1,8 +1,8 @@
 ---
 title: Ingress
-status: Feedback Appreciated
+status: Completed
 category: technology
-tags: ["fundamental", "", ""]
+tags: ["fundamental"]
 ---
 
 An Ingress is a set of rules that helps to manage internet traffic from outside into a container or a group of containers running in a cluster.

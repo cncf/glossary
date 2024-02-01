@@ -5,8 +5,6 @@ category: concept
 tags: ["infrastructure", "méthodologie", ""]
 ---
 
-## Ce que c'est
-
 L'infrastructure en tant que code est la pratique de stocker la définition d'infrastructure dans un ou plusieurs fichiers.
 Ceci remplace le modèle traditionnel où l'infrastructure en tant que service est provisionnée manuellement,
 habituellement au travers de scripts ou autres outils de configuration.
