@@ -47,8 +47,8 @@
 /i18n/it.toml @fsbaraglia @ugho16 @annalisag-spark @sistella
 
 # Approvers for Japanese contents
-/content/ja/ @inductor @naonishijima @kaitoii11 @yuichi-nakamura
-/i18n/ja.toml @inductor @naonishijima @kaitoii11 @yuichi-nakamura
+/content/ja/ @inductor @naonishijima @kaitoii11 @yuichi-nakamura @Okabe-Junya
+/i18n/ja.toml @inductor @naonishijima @kaitoii11 @yuichi-nakamura @Okabe-Junya
 
 # Approvers for Korean contents
 /content/ko/ @seokho-son @jihoon-seo @yunkon-kim

@@ -5,8 +5,6 @@ category: Concept
 tags: ["infrastructure", "fondamental", ""]
 ---
 
-## Ce que c'est
-
 Un nœud est un ordinateur qui travaille de concert avec d'autres ordinateurs, ou nœuds, pour accomplir une tâche commune.
 Prenons par exemple votre ordinateur portable, votre modem et votre imprimante.
 Ils sont tous connectés via votre réseau wifi, communiquant et collaborant ensemble, chacun représentant un nœud.
