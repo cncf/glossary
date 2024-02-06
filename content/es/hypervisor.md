@@ -2,7 +2,7 @@
 title: Hipervisor
 status: Feedback Appreciated
 category: Tecnología
-tags: ["application", "", ""]
+tags: ["aplicación", "", ""]
 ---
 
 Un hipervisor utiliza el concepto de [virtualización](/es/virtualization/)

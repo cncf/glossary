@@ -2,7 +2,7 @@
 title: Aplicaciones Distribuidas
 status: Completed
 category: Concepto
-tags: ["architecture", "", ""]
+tags: ["arquitectura", "", ""]
 ---
 
 Una aplicación distribuida es una aplicación en la que la funcionalidad se divide en múltiples partes independientes más pequeñas. 

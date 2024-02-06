@@ -2,7 +2,7 @@
 title: Malla de Servicios (Service Mesh)
 status: Completed
 category: Tecnología
-tags: ["networking", "", ""]
+tags: ["redes", "", ""]
 ---
 
 En un mundo de [arquitectura de microservicios](/es/microservices-architecture/), las aplicaciones se dividen en múltiples [servicios](/es/service/) que se comunican a través de una red.

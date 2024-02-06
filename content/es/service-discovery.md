@@ -2,7 +2,7 @@
 title: Descubrimiento de Servicio
 status: Completed
 category: Concepto
-tags: ["networking", "", ""]
+tags: ["redes", "", ""]
 ---
 
 El descubrimiento de servicio es el proceso de identificar instancias individuales que pertenecen a un mismo servicio.

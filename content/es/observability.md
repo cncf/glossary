@@ -2,7 +2,7 @@
 title: Observabilidad
 status: Completed
 category: Concepto
-tags: ["property", "", ""]
+tags: ["propiedad", "", ""]
 ---
 
 La observabilidad es la capacidad de generar y descubrir continuamente información procesable basada en señales del sistema bajo observación.

@@ -2,7 +2,7 @@
 title: Sistema Distribuido
 status: Completed
 category: Concepto
-tags: ["architecture", "", ""]
+tags: ["arquitectura", "", ""]
 ---
 
 Un sistema distribuido es una colección de elementos computacionales autónomos

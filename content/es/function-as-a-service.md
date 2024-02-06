@@ -2,7 +2,7 @@
 title: Función como Servicio (FaaS)
 status: Completed
 category: Tecnología
-tags: ["infrastructure", "", ""]
+tags: ["infraestructura", "", ""]
 ---
 
 La Función como Servicio (FaaS según sus siglas en Inglés) es un tipo de [servicio](/es/service/) [sin servidor](/es/serverless/) en la [computación en la nube](/es/cloud-computing/)

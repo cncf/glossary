@@ -2,7 +2,7 @@
 title: Máquina Bare Metal
 status: Completed
 category: Tecnología
-tags: ["infrastructure", "", ""]
+tags: ["infraestructura", "", ""]
 ---
 
 Bare metal se refiere a una computadora física, más específicamente un servidor, que tiene un solo sistema operativo.

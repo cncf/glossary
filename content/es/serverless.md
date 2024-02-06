@@ -2,7 +2,7 @@
 Title: Sin servidor (Serverless)
 Status: Completed
 Category: Tecnología
-tags: ["architecture", "", ""]
+tags: ["arquitectura", "", ""]
 ---
 
 Sin servidor (Serverless) es un modelo de desarrollo nativo en la nube que ayuda a los desarrolladores a

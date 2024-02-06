@@ -2,7 +2,7 @@
 title: Seguridad en Ingeniería del Caos
 status: Completed
 category: Concepto
-tags: ["security", "methodology", ""]
+tags: ["seguridad", "metodología", ""]
 ---
 
 Seguridad en Ingeniería del Caos, o SCE en Inglés, es una disciplina basada en la [Ingeniería del Caos](/es/chaos-engineering/).

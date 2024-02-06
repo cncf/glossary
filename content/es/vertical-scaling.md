@@ -2,7 +2,7 @@
 title: Escalado Vertical
 status: Completed
 category: Concepto
-tags: ["infrastructure", "", ""]
+tags: ["infraestructura", "", ""]
 ---
 
 El escalado vertical, también conocido como "agregar y reducir", es una técnica donde

@@ -2,7 +2,7 @@
 title: Transmisión de eventos
 status: Completed
 category: Concepto
-tags: ["methodology", "networking", ""]
+tags: ["metodología", "redes", ""]
 ---
 
 La transmisión de eventos es un enfoque en el que el software envía datos de eventos de una aplicación a otra para comunicar continuamente lo que esta haciendo.

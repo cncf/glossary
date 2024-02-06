@@ -2,7 +2,7 @@
 title: Escalado horizontal
 status: Completed
 category: Concepto
-tags: ["infrastructure", "", ""]
+tags: ["infraestructura", "", ""]
 ---
 
 Escalado horizontal es una técnica donde la capacidad del sistema es incrementada agregando más [nodos](/es/nodes)

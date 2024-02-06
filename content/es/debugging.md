@@ -2,7 +2,7 @@
 title: Depuración
 status: Completed
 category: concepto
-tags: ["application", "methodology", ""]
+tags: ["aplicación", "metodología", ""]
 ---
 
 La depuración es el proceso o actividad de encontrar y resolver bugs (o errores) de programas, software o sistemas informáticos para obtener el resultado deseado.

@@ -2,7 +2,7 @@
 title: Tenencia Múltiple (multitenancy)
 status: Feedback Appreciated
 category: Propiedad
-tags: ["architecture", "property", ""]
+tags: ["arquitectura", "propiedad", ""]
 ---
 
 Tenencia Múltiple (o multitenancy) se refiere a una única instalación de software que sirve a varios inquilinos.

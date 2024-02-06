@@ -2,7 +2,7 @@
 title: API Gateway
 status: Completed
 category: Tecnología
-tags: ["networking", "", ""]
+tags: ["redes", "", ""]
 ---
 
 Un [API](/es/application-programming-interface/) gateway es una herramienta que

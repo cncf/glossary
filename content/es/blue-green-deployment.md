@@ -2,7 +2,7 @@
 title: Despliegue Blue Green
 status: Completed
 category: Concepto
-tags: ["methodology", "application", ""]
+tags: ["metodología", "aplicación", ""]
 ---
 
 El despliegue Blue green es una estrategia para actualizar los sistemas informáticos en ejecución con un tiempo de inactividad mínimo.

@@ -2,7 +2,7 @@
 title: Contenerización
 status: Completed
 category: Tecnología
-tags: ["application", "", ""]
+tags: ["aplicación", "", ""]
 ---
 
 La contenerización es el proceso que consiste en empaquetar una aplicación y sus dependencias en una imagen de contenedor.

@@ -3,7 +3,7 @@ title: Control de versiones
 status: Deprecated
 category: Tecnología
 draft: true
-tags: ["methodology", "", ""]
+tags: ["metodología", "", ""]
 ---
 
 El control de versiones (o control de fuente) es la práctica de rastrear y gestionar los cambios en un documento.

@@ -2,7 +2,7 @@
 title: Integración Continua (CI)
 status: Completed 
 category: Concepto
-tags: ["application", "methodology", ""]
+tags: ["aplicación", "metodología", ""]
 ---
 
 Integración continua, o por sus siglas en ingles CI, es la práctica de integrar cambios en el código lo más frecuente posible.

@@ -2,7 +2,7 @@
 title: Infraestructura como Servicio (IaaS)
 status: Completed
 category: Tecnología
-tags: ["infrastructure", "", ""]
+tags: ["infraestructura", "", ""]
 ---
 
 Infraestructura como Servicio, o IaaS, es un modelo de servicio de [computación en la nube](/es/cloud_computing/) que

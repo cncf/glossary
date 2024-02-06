@@ -2,7 +2,7 @@
 title: Despliegue Continuo (CD)
 status: Completed
 category: Concepto
-tags: ["application", "methodology", ""]
+tags: ["aplicación", "metodología", ""]
 ---
 
 El despliegue continuo, a menudo abreviado como CD (por sus siglas en inglés _Continuous Deployment_), va un paso más allá que la [entrega continua](/es/continuous-delivery/)

@@ -2,7 +2,7 @@
 title: Servicio de Proxy
 status: Completed
 category: Tecnología
-tags: ["networking", "", ""]
+tags: ["redes", "", ""]
 ---
 
 Un servicio de Proxy intercepta tráfico desde o hacia un [servicio](/es/service/) determinado,

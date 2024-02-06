@@ -2,7 +2,7 @@
 title: Infraestructura como Código (IaC)
 status: Completed
 category: Concepto
-tags: ["infrastructure", "methodology", ""]
+tags: ["infraestructura", "metodología", ""]
 ---
 
 Infraestructura como código es una práctica para almacenar la definición de la infraestructura en uno o varios archivos.
