@@ -1,5 +1,5 @@
 ---
-शीर्षक: सर्विस प्रॉक्सी (Service Proxy)
+title: सर्विस प्रॉक्सी (Service Proxy)
 status: Completed
 category: टैकनोलजी
 tags: ["नेटवर्किंग"]
