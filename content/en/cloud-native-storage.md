@@ -14,7 +14,7 @@ to [stateful applications](/stateful-apps/), which rely on persistent data stora
 ## Problem it addresses
 
 [Cloud-native applications](/cloud-native-apps/) are commonly built using microservices.
-enabling individual scaling and deployment. While this approach grants flexibility and [scalability](/scalability/), it
+While this approach grants flexibility and [scalability](/scalability/), it
 poses unique storage challenges.
 
 Unlike traditional systems designed for [monolithic applications](/monolithic-apps/), cloud-native storage offers
