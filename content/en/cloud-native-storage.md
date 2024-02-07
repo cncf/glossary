@@ -9,7 +9,7 @@ tags: ["fundamental", "", ""]
 Cloud native storage is a specialized storage technology tailored to meet the demands of cloud native environments.
 It offers data storage solutions optimized for containerized applications running on platforms like
 [Kubernetes](/kubernetes/) or other cloud-native infrastructures. A cloud native storage platform primarily caters
-to stateful applications, which rely on persistent data storage. There are a number of different cloud-native storage
+to [stateful applications](/stateful-apps/), which rely on persistent data storage. 
 solutions available, including object storage, block storage, and file storage.
 
 ## Problem it addresses
