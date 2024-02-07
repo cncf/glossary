@@ -5,7 +5,6 @@ category: concept
 tags: ["fundamental", "", ""]
 ---
 
-## What it is
 
 Cloud native storage is a specialized storage technology tailored to meet the demands of cloud native environments.
 It offers data storage solutions optimized for containerized applications running on platforms like
