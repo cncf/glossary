@@ -136,7 +136,7 @@ description = "Das CNCF Cloud Native Glossar soll als Referenz für gängige Beg
 [languages.ar]
 title = "مصطلحات التطبيقات السحابية الأصيلة"
 description = "يهدف مشروع معجم التطبيقات السحابية الأصيلة تحت رعاية مؤسسة الحوسبة السحابية الأصيلة إلى استخدامه كمرجع للمصطلحات الشائعة المستخدمة عند الحديث عن التطبيقات السحابية الأصيلة."
-languageName ="Arabic"
+languageName ="العربية (Arabic)"
 contentDir = "content/ar"
 weight = 10
 time_format_default = "02.01.2006"
