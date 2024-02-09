@@ -1,5 +1,5 @@
 ---
-title: एज कंप्यूटिंग (Edge Computing)
+title: एज-कंप्यूटिंग (Edge Computing)
 status: Completed
 category: प्रौद्योगिकी
 ---
