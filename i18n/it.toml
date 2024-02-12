@@ -26,7 +26,7 @@ other = "Tag"
 [ui_tags]
 other = "Tags"
 [ui_search_by_tags]
-other = "Cerca per tags"
+other = "Cerca per tag"
 [ui_tags_intro]
 other = "Abbiamo categorizzato i termini del glossario. Usa i filtri per navigare i termini per tag."
 [ui_or_search_by_tags]
