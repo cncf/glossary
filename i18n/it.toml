@@ -20,7 +20,7 @@ other = "in"
 
 # Phrases for tags
 [ui_see_all_tags]
-other = "Vedi tutti i tags"
+other = "Vedi tutti i tag"
 [ui_tag]
 other = "Tag"
 [ui_tags]
