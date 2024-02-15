@@ -9,7 +9,7 @@ Cloud computing offers CPU power, storage, and network capabilities over the int
 
 ## Problem it addresses
 
-Historically, organizations looking to increase their computing capacity faced a dilemma: either invest in new facilities for their servers and networks or upgrade existing ones. This process was time-consuming and resource-intensive.
+Traditionally, organizations needing more computing capacity had to choose between costly investments in new server facilities or upgrades to existing infrastructure—a slow and resource-heavy process.
 
 ## How it helps
 
