@@ -5,7 +5,7 @@ category: concetto
 tags: ["networking", "", ""]
 ---
 
-## Che cos'è
+
 
 Il service discovery è il processo di individuazione delle singole istanze che compongono un servizio.
 Uno strumento di service discovery tiene traccia dei vari nodi o endpoint che compongono un servizio.

@@ -5,7 +5,7 @@ category: Concetto
 tags: ["infrastruttura", "", ""]
 ---
 
-## Cos'è
+
 
 La scalabilità verticale, è una tecnica in cui la capacita del sistema 
 viene aumentata aggiungendo CPU e memoria sui singoli [nodes](/it/nodes/) quando il carico di lavoro aumenta. 

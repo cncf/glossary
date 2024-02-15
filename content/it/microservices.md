@@ -4,7 +4,7 @@ status: Completed
 category: Concetto
 ---
 
-## Cos'è
+
 
 I microservizi sono un approccio moderno allo sviluppo di applicazioni che sfrutta le tecnologie native del cloud. Sebbene le applicazioni moderne, come Netflix, sembrino essere un'unica app, in realtà sono una raccolta di servizi più piccoli, tutti in stretta collaborazione. Ad esempio, una singola pagina che ti consente di accedere, cercare e visualizzare in anteprima i video è probabilmente alimentata da servizi più piccoli che ne gestiscono ciascuno un aspetto (ad esempio ricerca, autenticazione ed esecuzione di anteprime nel browser). In breve, i microservizi si riferiscono a un modello di architettura dell'applicazione solitamente in contrasto con le [applicazioni monolitiche](/it/monolithic-apps/).
 

@@ -5,7 +5,7 @@ category: Concetto
 tags: ["infrastruttura", "fondamenti", ""]
 ---
 
-## Cos'è
+
 
 Il cloud computing è un modello che offre risorse computazionali come CPU, rete e capacità di archiviazione su richiesta attraverso internet.
 Il cloud computing offre agli utenti la possibilità di accedere e utilizzare potenza di calcolo da remoto.

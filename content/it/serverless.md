@@ -5,7 +5,7 @@ Category: Tecnologia
 tags: ["architettura", "", ""]
 ---
 
-## Cos'è
+
 
 Il serverless è un modello di sviluppo cloud native che permette
 di costruire ed eseguire applicazioni senza la necessità di gestire i server.

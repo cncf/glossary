@@ -5,7 +5,7 @@ category: Concetto
 tags: ["metodologia", "applicazione", ""]
 ---
 
-## Cos'è
+
 
 Il Continuous deployment, o Distribuzione Continua, spesso abbreviato CD, è il passo successivo di [continuous delivery](/it/continuous-delivery/), o 
 ed esegue l'installazione del sofware finito direttamente in produzione.

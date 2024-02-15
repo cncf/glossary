@@ -5,7 +5,7 @@ category: Tecnologia
 tags: ["infrastruttura", "", ""]
 ---
 
-## Cos'è
+
 
 Function as a Service (FaaS) è un tipo di [servizio](/it/service/) di [cloud computing](/it/cloud-computing/) [serverless](/it/serverless/) 
 che consente l'esecuzione di codice in risposta agli eventi senza mantenere la complessa infrastruttura

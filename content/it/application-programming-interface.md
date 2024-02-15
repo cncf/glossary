@@ -5,7 +5,7 @@ category: tecnologia
 tags: ["architettura", "", ""]
 ---
 
-## Cos'è
+
 
 Un'API è un modo tramite il quale dei programmi informatici possono interagire tra di loro.
 Proprio come gli umani interagiscono con un sito tramite una pagina web, un'API permette ai programmi informatici di interagire gli uni con gli altri.

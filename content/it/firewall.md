@@ -5,7 +5,7 @@ category: Tecnologia
 tags: ["sicurezza", "", ""]
 ---
 
-## Cos'è
+
 
 Un firewall è un sistema che filtra il traffico di un network basandosi su regole specifiche.
 I firewall possono essere hardware, software, o una combinazione di entrambi.

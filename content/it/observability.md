@@ -5,7 +5,7 @@ category: concetto
 tags: ["metodologia", "applicazione", "infrastruttura"]
 ---
 
-## Cos'è
+
 
 L'osservabilità è la capacità di generare e scoprire continuamente spunti di intervento sulla base dei segnali provenienti dal sistema osservato.
 In altre parole, l'osservabilità permette agli utenti di comprendere lo stato di un sistema dai suoi risultati esterni e intervenire di conseguenza (correggendo).

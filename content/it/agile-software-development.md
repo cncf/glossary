@@ -4,7 +4,7 @@ status: Completed
 category: Concetto
 ---
 
-## Cos'è
+
 
 Un insieme di pratiche che enfatizzano i cicli di sviluppo iterativi e i team auto-organizzati. In contrasto con i progetti waterfall (a cascata) in cui il valore è generato solo alla fine del progetto, lo sviluppo agile del software si concentra su una consegna continua e incrementale del valore e sul miglioramento evolutivo del processo stesso.
 

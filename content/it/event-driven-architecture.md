@@ -4,7 +4,7 @@ status: Completed
 category: concetto
 ---
 
-## Cos'è
+
 
 Un'architettura basata sugli eventi è un paradigma di progettazione software che promuove la creazione, l'elaborazione e il consumo di eventi.
 Un evento è un qualunque cambiamento di stato di un'applicazione.

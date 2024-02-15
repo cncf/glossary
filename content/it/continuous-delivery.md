@@ -4,7 +4,7 @@ status: Completed
 category: Concetto
 ---
 
-## Cos'è
+
 La _Continuous Delivery_ (rilascio continuo), spesso abbreviata in CD, è un insieme di pratiche in cui le modifiche al codice vengono automaticamente implementate in un ambiente di accettazione (oppure, nel caso di distribuzione continua, in produzione). Parte integrante della CD sono le procedure per garantire che il software sia adeguatamente testato prima della distribuzione, nonché le modalità di ripristino in caso di necessità. L'integrazione continua (CI - da _Continuous Integration_) è il primo passo verso la distribuzione continua (vale a dire, le modifiche devono essere raggruppate in modo pulito prima di essere testate e implementate).
 
 ## Quali problematiche affronta

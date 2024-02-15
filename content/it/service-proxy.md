@@ -5,7 +5,7 @@ category: tecnologia
 tags: ["networking", "", ""]
 ---
 
-## Cos'è
+
 
 Un service proxy intercetta il traffico verso o proveniente da un determinato [servizio](/it/service/), 
 vi applica delle logiche, e in seguito inoltra quel traffico a un altro servizio.

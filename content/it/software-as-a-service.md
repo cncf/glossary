@@ -5,7 +5,7 @@ Category: Tecnologia
 tags: ["fondamentali", "piattaforma", ""]
 ---
 
-## Cos'è
+
 
 Un Software as a service (SaaS) permette agli utenti di connettersi e utilizzare servizi basati sul cloud tramite Internet.
 Esempi comuni sono le email, i calendari e gli strumenti da ufficio (come Gmail, Amazon Web Services, GitHub, Slack).

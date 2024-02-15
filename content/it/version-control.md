@@ -5,7 +5,7 @@ category: Tecnologia
 tags: ["metodologia", "", ""]
 ---
 
-## Cos'è
+
 
 Il controllo di versione (o controllo della sorgente) è la pratica di tracciare e gestire le modifiche a un documento. Si tratta di un sistema che registra i cambiamenti nel tempo di uno o più file, in modo da poter richiamare una specifica versione in futuro.
 

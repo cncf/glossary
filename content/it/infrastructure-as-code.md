@@ -4,7 +4,7 @@ status: Completed
 category: Concetto
 ---
 
-## Cos'è
+
 
 Con _infrastructure as code_ (IaC - Infrastruttura come Codice) si intende il processo di gestione e provisioning dell’infrastruttura attraverso file di definizione leggibili da una macchina: tratta la configurazione dell’infrastruttura alla stregua di software di programmazione. Questo sostituisce il modello tradizionale in cui l'infrastruttura come servizio viene creata manualmente, in genere tramite script di shell o altri strumenti di configurazione.
 

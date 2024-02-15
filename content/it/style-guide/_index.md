@@ -40,7 +40,7 @@ status:
 category: 
 ---
 
-## Cos'è
+
 
 Una breve spiegazione della tecnologia o del concetto. 
 
@@ -102,7 +102,7 @@ category: Concept
 
 Le definizioni categorizzate come **technology** e **concept** prevedono tre paragrafi distinti:
 
-- **Cos'è**: chiara e breve introduzione di quanto stiamo parlando. 
+- chiara e breve introduzione di quanto stiamo parlando. 
 - **Quali problematiche affronta**: il focus è sul problema e non sulla soluzione (proposta nel paragrafo successivo). Di fatto si cerca di evitare l'uso del termine che si sta spiegando e ci si concentra su *cosa* spinga ad avere bisogno della tecnologia o della pratica in questione. 
 - **In che modo aiuta**: in questa parte della definizione, si torna al termine che si sta spiegando e si chiarisce in che modo possa aiutare a risolvere il problema identificato. 
 
@@ -116,7 +116,7 @@ Quando opportuno, fa' riferimenti ad **esempi reali** che aiutino i lettori (sop
 
 Se vengono menzionati lemmi che sono già disponibili, ricordati di **inserire un link alla definizione presente nel Glossario** (è sufficiente farlo solo la prima volta che viene usato nel testo).
 
-**Esempio**: dà un'occhiata al paragrafo "Cos'è" del [lemma service mesh](/service-mesh/). Se noti, contiene link ai termini microservices, service, reliability e observability. Inoltre, il confronto tra le criticità del network in un ambiente a microservizi (qualcosa di tecnico con cui è difficile relazionarsi da non tecnici) con le problematiche di una rete wi-fi (un esempio che chiunque usi un portatile può capire) permette una migliore comprensione generale. Quando possibile, cerca di individuare una connessione simile tra i due mondi.
+**Esempio**: dà un'occhiata al paragrafo del [lemma service mesh](/service-mesh/). Se noti, contiene link ai termini microservices, service, reliability e observability. Inoltre, il confronto tra le criticità del network in un ambiente a microservizi (qualcosa di tecnico con cui è difficile relazionarsi da non tecnici) con le problematiche di una rete wi-fi (un esempio che chiunque usi un portatile può capire) permette una migliore comprensione generale. Quando possibile, cerca di individuare una connessione simile tra i due mondi.
 
 #### Inizia con un Word o un Google doc
 

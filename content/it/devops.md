@@ -4,7 +4,7 @@ status: Completed
 category: Concetto
 ---
 
-## Cos'è
+
 
 DevOps è una metodologia in cui i team sono responsabili dell'intero processo: dallo sviluppo delle applicazioni fino alle attività di installazione, configurazione e manutenzione in produzione, da cui DevOps. Il concetto va oltre l'implementazione di una serie di tecnologie e richiede un cambiamento completo nella cultura e nei processi. DevOps richiede gruppi di ingegneri che lavorano su piccoli componenti (invece di un'intera feature), diminuendo i passaggi di mano - una fonte comune di errori. 
 
