@@ -33,8 +33,10 @@ Il progetto del Glossario Cloud Native è un'iniziativa del Marketing Committee 
 e molti altri. 
 Per la lista completa fai riferimento a [questa pagina Github](https://github.com/cncf/glossary/graphs/contributors).
 
-La localizzazione del progetto in italiano è a cura di 
+La localizzazione del progetto in italiano è a cura di un gruppo di persone che hanno contribuito in varia misura e in tempi diversi:
 [Matteo Bisi](https://www.linkedin.com/in/matteobisi/),
+[Giulia Di Pietro](https://www.linkedin.com/in/giulia-dp/)
+[Meryem Fourdaous](https://www.linkedin.com/in/meryem-fourdaous-022346102/)
 [Annalisa Gennaro](https://www.linkedin.com/in/annalisagennaro/),
 [Paolo Martinoli](https://www.linkedin.com/in/paolo-e-m-martinoli/),
 [Simone Ragonesi](https://www.linkedin.com/in/simone-ragonesi-275567222/),
