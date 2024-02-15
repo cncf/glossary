@@ -5,7 +5,7 @@ category: concept
 tags: ["infrastructure", "fundamental", ""]
 ---
 
-Cloud computing is a method of providing computing resources such as CPU power, storage, and network capabilities via the internet. It allows users to leverage remote computing power located in distant data centers. There are two types: private cloud, dedicated to a single organization, and public cloud, open for general use.
+Cloud computing offers CPU power, storage, and network capabilities over the internet, enabling scalable and flexible access to resources across global data centers. It spans private clouds, dedicated to single organizations for security and control, and public clouds, open for widespread use, optimizing cost and scalability.
 
 ## Problem it addresses
 
