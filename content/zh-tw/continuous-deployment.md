@@ -5,8 +5,6 @@ category: 概念
 tags: ["應用程式", "方法論", ""]
 ---
 
-## 是什麼 {#what-it-is}
-
 持續部署，通常縮寫為 CD，它直接將完成的軟體部署到正式環境，比[持續交付](/zh-tw/continuous-delivery/)更進一步。
 持續部署（CD）與[持續整合](/zh-tw/continuous-integration/)（CI）緊密相關，通常被稱為 CI/CD。
 CI 流程用於測試對特定應用程式的變更是否正確，而 CD 流程則自動部署組織測試環境的程式碼變更到正式環境。
