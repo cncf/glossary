@@ -13,6 +13,9 @@ Traditionally, organizations needing more computing capacity had to choose betwe
 
 ## How it helps
 
-Cloud computing addresses this by enabling organizations to rent computing resources as needed, without the burden of managing physical infrastructure. This approach offers two main advantages. Firstly, it frees organizations to concentrate on their core business, eliminating delays and costs associated with setting up new infrastructure. Secondly, it provides the flexibility to [scale](https://github.com/ronitblenz/glossary/blob/cloud_computing/content/en/scalability.md) resources up or down based on demand, aligning infrastructure needs closely with business requirements. Thus, cloud computing offers a practical solution for organizations to access the amount of infrastructure they need, when they need it, without overcommitting resources.
+Organizations can use cloud computing to rent computing resources on demand without the burden of managing physical infrastructure. This strategy has two main advantages:
+- It removes the delays and expenses of establishing new infrastructure so organizations can concentrate on their core business.
+- Organizations can [scale](https://github.com/ronitblenz/glossary/blob/cloud_computing/content/en/scalability.md) their resources up or down based on demand, aligning infrastructure with business needs.
+Thus, cloud computing provides an efficient way for organizations to access necessary infrastructure flexibly and economically without excess commitment.
 
 ---
