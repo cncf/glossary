@@ -8,7 +8,7 @@ L'Edge Computing (informatique en périphérie) est une [architecture distribué
 Les données collectées sont traitées localement (par exemple, dans une usine, dans un magasin ou à travers toute une ville) plutôt que d'être envoyées à un centre de données centralisé pour traitement et analyse.
 Ces unités ou dispositifs de traitement locaux représentent la périphérie du système, tandis que le centre de données en est le centre.
 L'information calculée par ces unités périphériques est ensuite renvoyée au centre de données principal pour un traitement ultérieur.
-Parmi les exemples de Edge Computing, nous avons les bracelets connectés ("wrists gadgets"), ou les ordinateurs qui analysent le flux de circulation.
+Parmi les exemples de Edge Computing, nous avons les bracelets connectés, ou les ordinateurs qui analysent le flux de circulation.
 
 ## Problème auquel il répond
 
