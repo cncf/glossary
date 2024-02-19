@@ -1,5 +1,5 @@
 ---
-title: Edge Computing
+title: Informatique en Périphérie (Edge Computing)
 status: Completed
 category: Technology
 ---
@@ -23,5 +23,5 @@ Bien que cela soit un exemple extrême, la plupart des utilisateurs ne voudraien
 
 Comme décrit ci-dessus, pour que les dispositifs de périphérie de réseau soient utiles, ils doivent effectuer au moins une partie du traitement et de l'analyse localement pour fournir un retour d'information quasi instantanée aux utilisateurs.
 Cela est réalisé en déplaçant certaines ressources de stockage et de traitement du centre de données vers l'endroit où les données sont générées : le dispositif de périphérie de réseau.
-Les données traitées et non traitées sont ensuite envoyées au centre de données pour un traitement et un stockage ultérieur.
+Les données traitées et non traitées sont ensuite envoyées au centre de données pour un traitement et un stockage ultérieurs.
 En bref, l'efficacité et la vitesse sont les principaux moteurs de l'Edge Computing.
