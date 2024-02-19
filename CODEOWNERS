@@ -63,8 +63,8 @@
 /i18n/ru.toml @shurup @kirkonru @tym83
 
 # Approvers for Turkish contents
-/content/tr/ @aliok @halil-bugol @rwxdash @eminalemdar
-/i18n/tr.toml @aliok @halil-bugol @rwxdash @eminalemdar
+/content/tr/ @aliok @symys @rwxdash @eminalemdar
+/i18n/tr.toml @aliok @symys @rwxdash @eminalemdar
 
 # Approvers for Urdu contents
 /content/ur/ @Saim-Safdar @waleed318
