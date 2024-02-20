@@ -5,7 +5,7 @@ category: technologie
 tags: ["fondamental"]
 ---
 
-Un Ingress est un ensemble de règles qui participe à gérer le trafic Internet depuis l'extérieur vers un conteneur ou un groupe de conteneurs s'exécutant dans un cluster.
+Un Ingress, que l'on pourrais traduire par "point d'entrée", est un ensemble de règles qui participe à gérer le trafic Internet depuis l'extérieur vers un conteneur ou un groupe de conteneurs s'exécutant dans un cluster.
 Il se compose de deux éléments : la ressource Ingress et le contrôleur Ingress.
 La ressource Ingress est un fichier de configuration qui coexiste avec les autres fichiers manifestes et permet aux administrateurs de configurer le routage du trafic externe.
 Le contrôleur Ingress est le service qui, en utilisant des technologies web, assure le routage du trafic conformément à la configuration définie dans la ressource Ingress.
