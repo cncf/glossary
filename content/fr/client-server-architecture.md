@@ -2,7 +2,7 @@
 title: Architecture Client-Serveur
 status: Completed
 category: technology
-tags: ["architecture", "client", "server",""]
+tags: ["architecture", "fondamental", ""]
 ---
 Dans une architecture client-serveur, la logique (ou le code) qui constitue une application est séparée en deux composants minimum :
 - un client qui demande que le travail soit effectué (par exemple, l'application web Gmail exécutée dans votre navigateur web)
@@ -21,10 +21,11 @@ Imaginez que vous deviez télécharger tout le catalogue de produits d'Amazon su
 
 # Quelle en est l’utilité
 
-En mettant en œuvre la logique de l'application dans un serveur ou un service distant, les opérateurs peuvent mettre l'application à jour sans avoir à modifier la logique côté client.
+En mettant en œuvre la logique de l'application dans un serveur ou un service distant,
+les opérateurs peuvent mettre l'application à jour sans avoir à modifier la logique côté client.
 Cela signifie que les mises à jour peuvent être effectuées beaucoup plus fréquemment.
 Le stockage des données sur le serveur permet à de nombreux clients de voir et de partager les mêmes données.
-
 Considérez la différence entre l'utilisation d'un traitement de texte en ligne et celle d'un traitement de texte traditionnel hors ligne.
-Dans le premier cas, vos fichiers existent sur le serveur et peuvent être partagés avec d'autres utilisateurs qui les téléchargent simplement à partir du serveur.
+Dans le premier cas, vos fichiers existent sur le serveur et
+peuvent être partagés avec d'autres utilisateurs qui les téléchargent simplement à partir du serveur.
 Dans l'ancien monde, les fichiers devaient être copiés sur des supports amovibles (disquettes !) et partagés avec des individus.
