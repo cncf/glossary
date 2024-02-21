@@ -13,13 +13,13 @@ Dans cet exemple, les courriels sortants que vous écrivez sont envoyés par le 
 Cette approche diffère de celle des applications autonomes (telles que les applications de bureau) qui effectuent tout le travail en un seul endroit.
 Par exemple, un programme de traitement de texte comme Microsoft Word peut être installé et exécuté entièrement sur votre ordinateur.
 
-# Problème auquel cela répond
+## Problème auquel cela répond
 
 Une architecture client-serveur résout un problème majeur posé par les applications autonomes : les mises à jour régulières.
 Dans une application autonome, pour chaque mise à jour, les utilisateurs devraient télécharger et installer la dernière version.
 Imaginez que vous deviez télécharger tout le catalogue de produits d'Amazon sur votre propre ordinateur avant de pouvoir le parcourir !
 
-# Quelle en est l’utilité
+## Quelle en est l’utilité
 
 En mettant en œuvre la logique de l'application dans un serveur ou un service distant,
 les opérateurs peuvent mettre l'application à jour sans avoir à modifier la logique côté client.
