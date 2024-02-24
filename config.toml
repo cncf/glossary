@@ -164,6 +164,14 @@ weight = 13
 [languages.ja.params]
 description = "CNCF クラウドネイティブ用語集プロジェクトは、クラウドネイティブアプリケーションについて話すときに使われる一般的な用語のリファレンスとして使用することを目的としています。"
 
+[languages.tr]
+title = "Cloud Native Sözlüğü"
+description = "CNCF Cloud Native Sözlüğü projesi, cloud native uygulamalardan bahsederken kullanılan yaygın terimler için bir referans olarak kullanılmak üzere tasarlanmıştır."
+languageName ="Türkçe (Turkish)"
+contentDir = "content/tr"
+# Weight used for sorting.
+weight = 14
+
 [markup]
 [markup.goldmark]
 [markup.goldmark.renderer]
