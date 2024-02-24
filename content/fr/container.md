@@ -5,8 +5,6 @@ category: technology
 tags: ["application", "fondamental", ""]
 ---
 
-## Ce que c'est
-
 Un conteneur est un processus qui fonctionne avec des contraintes de ressources et de capacités gérées par le système d'exploitation d'un ordinateur.
 Les fichiers accessibles au processus du conteneur sont regroupés dans une image de conteneur.
 Les conteneurs sont exécutés les uns à côté des autres sur la même machine,
