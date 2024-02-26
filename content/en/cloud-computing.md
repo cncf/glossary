@@ -12,7 +12,7 @@ and public clouds, open for widespread use, optimizing cost and scalability.
 
 ## Problem it addresses
 
-Traditionally, organizations needing more computing capacity had to choose between costly investments in new server facilities or upgrades to existing infrastructure—a slow and resource-heavy process.
+Traditionally, organizations needing more computing capacity had to choose between costly investments in new server facilities or upgrades to existing infrastructure, a slow and resource-heavy process.
 
 ## How it helps
 
