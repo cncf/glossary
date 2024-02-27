@@ -14,7 +14,7 @@ ve kontrol düzleminin ne kadar kayıt ve işlemi desteklediği bu faktörlere b
 
 Ölçeklenebilir bir sistem, sisteme daha fazla kapasite eklemeyi kolaylaştırır.
 Burada, iki ölçeklendirme yaklaşımı arasında ayrım yaparız.
-Bir tarafta, artan yükün üstesinden gelmek için sisteme yeni düğümler ekleyen [yatay ölçeklendirme](#) bulunur.
+Bir tarafta, artan yükün üstesinden gelmek için sisteme yeni düğümler ekleyen yatay ölçeklendirme bulunur.
 Diğer tarafta, tek bir düğümü daha fazla işlem gerçekleştirecek şekilde
-(örn. makineye daha fazla bellek veya işlemci ekleyerek) güçlendiren [dikey ölçeklendirme](#) bulunur.
+(örn. makineye daha fazla bellek veya işlemci ekleyerek) güçlendiren dikey ölçeklendirme bulunur.
 Ölçeklenebilir bir sistem kolaylıkla değişebilir ve kullanıcı ihtiyaçlarını karşılayabilir.
