@@ -1,5 +1,5 @@
 ---
-title: Tightly Coupled Architectures
+title: Tightly Coupled Architecture
 status: Completed
 category: Property
 tags: ["fundamental", "architecture", "property"]
