@@ -1,0 +1,87 @@
+
+
+# UI strings. Buttons and similar.
+
+[ui_pager_prev]
+other = "Önceki"
+
+[ui_pager_next]
+other = "Sonraki"
+
+[ui_read_more]
+other = "Daha fazla"
+
+[ui_search]
+other = "Sitede ara…"
+
+# Used in sentences such as "Posted in News"
+[ui_in]
+other = "içinde"
+
+# Phrases for tags
+[ui_see_all_tags]
+other = "Tüm etiketleri gör"
+[ui_tag]
+other = "Etiket"
+[ui_tags]
+other = "Etiketler"
+[ui_search_by_tags]
+other = "Etiketlere gözat"
+[ui_tags_intro]
+other = "Sözlük terimlerini etiketledik. Filtreleri kullanarak terimleri etiketlere göre listeleyebilirsiniz."
+[ui_or_search_by_tags]
+other = "...veya etiketlere bak"
+[ui_select_all]
+other = "Tümünü seç"
+[ui_deselect_all]
+other = "Seçimi bırak"
+
+# Footer text
+[footer_all_rights_reserved]
+other = "Bütün haklar saklıdır"
+
+[footer_privacy_policy]
+other = "Gizlilik Politikası"
+
+[footer_hub_button_text]
+other = "Tüm CNCF siteleri"
+
+# Post (blog, articles etc.)
+[post_byline_by]
+other = "tarafından"
+[post_created]
+other = "oluşturuldu"
+[post_last_mod]
+other = "Son düzenleme"
+[post_edit_this]
+other = "Bu sayfayı düzenle"
+[post_create_child_page]
+other = "Alt sayfa oluştur"
+[post_create_issue]
+other = "Sorun bildir"
+[post_create_project_issue]
+other = "Proje sorunu bildir"
+[post_posts_in]
+other = "Şu kategorideki gönderiler: "
+[post_reading_time]
+other = "dakikalık okuma"
+
+# Print support
+[print_printable_section]
+other = "Şu anda bu kısmın birden çok sayfalı yazdırılabilir görünümünü görüyorsun."
+[print_click_to_print]
+other = "Yazdırmak için buraya tıkla"
+[print_show_regular]
+other = "Sayfanın normal görünümüne dön"
+[print_entire_section]
+other = "Tüm kısmı yazdır"
+
+# Feedback section
+[feedback_title]
+other = "Geri bildirim"
+[feedback_question]
+other = "Bu sayfa faydalı mıydı?"
+[feedback_answer_yes]
+other = "Evet"
+[feedback_answer_no]
+other = "Hayır"
