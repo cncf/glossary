@@ -68,85 +68,85 @@ description = "The CNCF Cloud Native Glossary Project is intended to be used as 
 #time_format_default = "02.01.2006"
 #time_format_blog = "02.01.2006"
 
-[languages.hi]
-contentDir = "content/hi"
-languageName = "हिन्दी (Hindi)"
-title = "क्लाउड नेटिव शब्दावली"
-weight = 2
-[languages.hi.params]
-description = "CNCF क्लाउड नेटिव शब्दावली परियोजना का उद्देश्य क्लाउड नेटिव एप्लिकेशन के बारे में बात करते समय प्रयोग किए जाने वाले सामान्य शब्दों के संदर्भ के रूप में उपयोग किया जाना है।"
-
-[languages.pt-br]
-contentDir = "content/pt-br"
-languageName = "Português"
-title = "Glossário Cloud Native"
-weight = 3
-[languages.pt-br.params]
-description = "O Projeto CNCF Glossário Cloud Native se destina a ser usado como uma referência para termos comuns usados ao falar sobre aplicações nativas de nuvem."
-
-[languages.it]
-contentDir = "content/it"
-languageName = "Italiano"
-title = "Glossario Cloud Native"
-weight = 4
-[languages.it.params]
-description = "Il progetto del Glossario CNCF Cloud Native è pensato per essere un riferimento per i termini comuni, usati nell'ambito delle applicazioni cloud native."
-
-[languages.ko]
-contentDir = "content/ko"
-languageName = "한국어 (Korean)"
-title = "클라우드 네이티브(Cloud Native) 용어집"
-weight = 5
-[languages.ko.params]
-description = "CNCF 클라우드 네이티브 용어집 프로젝트는 클라우드 네이티브 애플리케이션을 주제로 대화를 나눌 때 참조할 수 있는 공통의 용어 제공을 목표로 한다."
-
-[languages.es]
-contentDir = "content/es"
-languageName = "Español (Spanish)"
-title = "Cloud Native Glosario"
-weight = 6
-[languages.es.params]
-description = "El proyecto de CNCF Cloud Native Glosario pretende ser usado como una referencia para los terminos comunes usados cuando se habla acerca de las aplicaciones nativas para la nube."
-
-[languages.zh-cn]
-contentDir = "content/zh-cn"
-languageName = "简体中文 (Simplified Chinese)"
-title = "Cloud Native(云原生) Glossary"
-weight = 7
-[languages.zh-cn.params]
-description = "CNCF 云原生 Glossary 项目旨在用作讨论云原生应用程序时常用术语的参考"
-
 [languages.bn]
 contentDir = "content/bn"
 languageName = "বাংলা (Bengali)"
 title = "ক্লাউড নেটিভ শব্দকোষ"
-weight = 8
+weight = 2
 [languages.bn.params]
 description = "CNCF ক্লাউড নেটিভ শব্দকোষ প্রকল্পটি ক্লাউড নেটিভ অ্যাপ্লিকেশন সম্পর্কে কথা বলার সময় ব্যবহৃত সাধারণ পদগুলির জন্য একটি রেফারেন্স হিসাবে ব্যবহার করার উদ্দেশ্যে।"
-
-[languages.de]
-contentDir = "content/de"
-languageName = "Deutsch"
-title = "Cloud Native Glossar"
-weight = 9
-[languages.de.params]
-description = "Das CNCF Cloud Native Glossar soll als Referenz für gängige Begriffe dienen, die im Zusammenhang mit Cloud Native Anwendungen verwendet werden."
-
-[languages.ur]
-contentDir = "content/ur"
-languageName = "اردو (Urdu)"
-title = "کلاؤڈ کی مقامی لغت"
-weight = 10
-[languages.ur.params]
-description = "CNCF کلاؤڈ کی مقامی لغت کا مقصد کلاؤڈ مقامی ایپلی کیشنز کے بارے میں بات کرتے وقت استعمال ہونے والی عام اصطلاحات کے حوالے کے طور پر استعمال کرنا ہے۔"
 
 [languages.fr]
 contentDir = "content/fr"
 languageName = "Français (French)"
 title = "Glossaire Cloud Native"
-weight = 11
+weight = 3
 [languages.fr.params]
 description = "Le projet de Glossaire CNCF Cloud Native a pour objectif de référencer les termes courants utilisés dans les différentes applications Cloud Natives."
+
+[languages.de]
+contentDir = "content/de"
+languageName = "Deutsch (German)"
+title = "Cloud Native Glossar"
+weight = 4
+[languages.de.params]
+description = "Das CNCF Cloud Native Glossar soll als Referenz für gängige Begriffe dienen, die im Zusammenhang mit Cloud Native Anwendungen verwendet werden."
+
+[languages.hi]
+contentDir = "content/hi"
+languageName = "हिन्दी (Hindi)"
+title = "क्लाउड नेटिव शब्दावली"
+weight = 5
+[languages.hi.params]
+description = "CNCF क्लाउड नेटिव शब्दावली परियोजना का उद्देश्य क्लाउड नेटिव एप्लिकेशन के बारे में बात करते समय प्रयोग किए जाने वाले सामान्य शब्दों के संदर्भ के रूप में उपयोग किया जाना है।"
+
+[languages.it]
+contentDir = "content/it"
+languageName = "Italiano (Italian)"
+title = "Glossario Cloud Native"
+weight = 6
+[languages.it.params]
+description = "Il progetto del Glossario CNCF Cloud Native è pensato per essere un riferimento per i termini comuni, usati nell'ambito delle applicazioni cloud native."
+
+[languages.ja]
+contentDir = "content/ja"
+languageName = "日本語 (Japanese)"
+title = "クラウドネイティブ用語集"
+weight = 7
+[languages.ja.params]
+description = "CNCF クラウドネイティブ用語集プロジェクトは、クラウドネイティブアプリケーションについて話すときに使われる一般的な用語のリファレンスとして使用することを目的としています。"
+
+[languages.ko]
+contentDir = "content/ko"
+languageName = "한국어 (Korean)"
+title = "클라우드 네이티브(Cloud Native) 용어집"
+weight = 8
+[languages.ko.params]
+description = "CNCF 클라우드 네이티브 용어집 프로젝트는 클라우드 네이티브 애플리케이션을 주제로 대화를 나눌 때 참조할 수 있는 공통의 용어 제공을 목표로 한다."
+
+[languages.pt-br]
+contentDir = "content/pt-br"
+languageName = "Português (Portuguese)"
+title = "Glossário Cloud Native"
+weight = 9
+[languages.pt-br.params]
+description = "O Projeto CNCF Glossário Cloud Native se destina a ser usado como uma referência para termos comuns usados ao falar sobre aplicações nativas de nuvem."
+
+[languages.zh-cn]
+contentDir = "content/zh-cn"
+languageName = "简体中文 (Simplified Chinese)"
+title = "Cloud Native(云原生) Glossary"
+weight = 10
+[languages.zh-cn.params]
+description = "CNCF 云原生 Glossary 项目旨在用作讨论云原生应用程序时常用术语的参考"
+
+[languages.es]
+contentDir = "content/es"
+languageName = "Español (Spanish)"
+title = "Cloud Native Glosario"
+weight = 11
+[languages.es.params]
+description = "El proyecto de CNCF Cloud Native Glosario pretende ser usado como una referencia para los terminos comunes usados cuando se habla acerca de las aplicaciones nativas para la nube."
 
 [languages.zh-tw]
 contentDir = "content/zh-tw"
@@ -156,21 +156,21 @@ weight = 12
 [languages.zh-tw.params]
 description = "CNCF 雲端原生 Glossary 專案旨在用作討論雲端原生應用程式時常用術語的參考"
 
-[languages.ja]
-contentDir = "content/ja"
-languageName = "日本語 (Japanese)"
-title = "クラウドネイティブ用語集"
-weight = 13
-[languages.ja.params]
-description = "CNCF クラウドネイティブ用語集プロジェクトは、クラウドネイティブアプリケーションについて話すときに使われる一般的な用語のリファレンスとして使用することを目的としています。"
-
 [languages.tr]
 title = "Cloud Native Sözlüğü"
-description = "CNCF Cloud Native Sözlüğü projesi, cloud native uygulamalardan bahsederken kullanılan yaygın terimler için bir referans olarak kullanılmak üzere tasarlanmıştır."
 languageName ="Türkçe (Turkish)"
 contentDir = "content/tr"
-# Weight used for sorting.
+weight = 13
+[languages.tr.params]
+description = "CNCF Cloud Native Sözlüğü projesi, cloud native uygulamalardan bahsederken kullanılan yaygın terimler için bir referans olarak kullanılmak üzere tasarlanmıştır."
+
+[languages.ur]
+contentDir = "content/ur"
+languageName = "اردو (Urdu)"
+title = "کلاؤڈ کی مقامی لغت"
 weight = 14
+[languages.ur.params]
+description = "CNCF کلاؤڈ کی مقامی لغت کا مقصد کلاؤڈ مقامی ایپلی کیشنز کے بارے میں بات کرتے وقت استعمال ہونے والی عام اصطلاحات کے حوالے کے طور پر استعمال کرنا ہے۔"
 
 [markup]
 [markup.goldmark]
