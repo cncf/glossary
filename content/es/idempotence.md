@@ -2,7 +2,7 @@
 title: Idempotencia
 status: Completed
 category: Propiedad
-tags: ["property", "", ""]
+tags: ["propiedad", "", ""]
 ---
 
 En matemáticas o informática, la idempotencia describe una operación que siempre conduce al mismo resultado,
