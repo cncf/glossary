@@ -2,10 +2,10 @@
 title: Shift Left
 status: Completed
 category: Concept
-tags: ["methodologie", "", ""]
+tags: ["méthodologie", "", ""]
 ---
 
-Le terme "Left" dans "Shift Left" fait référence aux premiéres étapes dans le cycle de vie du développement logiciel,
+Le terme "Left" dans "Shift Left" fait référence aux premières étapes dans le cycle de vie du développement logiciel,
 en envisageant ce cycle comme une ligne où les étapes sont exécutées de gauche à droite.
 Le "Shift Left" est la pratique consistant à mettre en œuvre des tests, la sécurité ou d'autres pratiques de développement
 tôt dans le cycle de vie du développement logiciel plutôt que vers la fin.
@@ -24,7 +24,7 @@ en particulier si le logiciel a déjà été déployé en production.
 En adoptant une mentalité "Shift Left" pour le développement logiciel,
 les équipes peuvent mettre en œuvre des tests et la sécurité tout au long du cycle de développement.
 Et comme la responsabilité des tests et de la sécurité est partagée dans toute l'équipe de développement
-- des ingénieurs logiciels à l'assurance qualité en passant par les opérations -
+— des ingénieurs logiciels à l'assurance qualité en passant par les opérations —
 chacun joue un rôle dans la garantie de la stabilité et de la sécurité d'une application.
 
 De plus, le "Shift Left" permet une amélioration continue et
