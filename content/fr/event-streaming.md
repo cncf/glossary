@@ -19,7 +19,7 @@ Traditionnellement, Yahoo! Finance mettrait en œuvre des requêtes TCP individu
 Cela serait très inefficace car cela nécessiterait qu'une connexion soit créée pour chaque événement.
 À mesure que les données deviennent de plus en plus temps réel, mettre à l'échelle une telle solution devient inefficace.
 Ouvrir une seule connexion et permettre aux événements de circuler est idéal pour la collecte en temps réel.
-La quantité de données générées augmente de manière exponentielle et, avec cela, l'état des données est en constante évolution. Les développeurs et les utilisateurs doivent être en mesure de voir ces données en quasi-temps réel.
+La quantité de données générées augmente de manière exponentielle et, par conséquent, les changements de données sont extrêmement fréquents. Les développeurs et les utilisateurs doivent être en mesure de voir ces données en quasi-temps réel.
 
 ## Quel en est l'utilité
 
