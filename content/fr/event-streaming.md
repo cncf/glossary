@@ -24,6 +24,6 @@ La quantité de données générées augmente de manière exponentielle et, par 
 ## Quel en est l'utilité
 
 La diffusion d'événements en continu permet de communiquer les changements de données de la source au destinataire.
-Au lieu d'attendre que les services demandent des informations, le service diffuse en continu tous ses événements (ou activités).
+Au lieu d'attendre que les services demandent des informations, le service de diffusion propage en continu tous ses événements (ou activités).
 Il ne se préoccupe pas de ce qui arrive aux informations.
 Il fait simplement ce qu'il doit faire et les diffuse, restant ainsi complètement indépendant de tout autre service.
