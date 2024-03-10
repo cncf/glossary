@@ -1,5 +1,5 @@
 ---
-title: Shift Left
+title: Décalage vers la gauche (Shift Left)
 status: Completed
 category: Concept
 tags: ["méthodologie", "", ""]
@@ -7,11 +7,11 @@ tags: ["méthodologie", "", ""]
 
 Le terme "Left" dans "Shift Left" fait référence aux premières étapes dans le cycle de vie du développement logiciel,
 en envisageant ce cycle comme une ligne où les étapes sont exécutées de gauche à droite.
-Le "Shift Left" est la pratique consistant à mettre en œuvre des tests, la sécurité ou d'autres pratiques de développement
+Le décalage vers la gauche est la pratique consistant à mettre en œuvre des tests, la sécurité ou d'autres pratiques de développement
 tôt dans le cycle de vie du développement logiciel plutôt que vers la fin.
 
 Bien qu'à l'origine utilisé pour désigner le processus de test anticipé,
-le "Shift Left" peut désormais également s'appliquer à d'autres aspects du développement logiciel et du [DevOps](/fr/devops/), tels que la sécurité et le déploiement.
+le décalage vers la gauche peut désormais également s'appliquer à d'autres aspects du développement logiciel et du [DevOps](/fr/devops/), tels que la sécurité et le déploiement.
 
 ## Problème auquel il répond
 
@@ -21,13 +21,13 @@ en particulier si le logiciel a déjà été déployé en production.
 
 ## Quel en est l'utilité
 
-En adoptant une mentalité "Shift Left" pour le développement logiciel,
+En adoptant une mentalité décalage vers la gauche pour le développement logiciel,
 les équipes peuvent mettre en œuvre des tests et la sécurité tout au long du cycle de développement.
 Et comme la responsabilité des tests et de la sécurité est partagée dans toute l'équipe de développement
 — des ingénieurs logiciels à l'assurance qualité en passant par les opérations —
 chacun joue un rôle dans la garantie de la stabilité et de la sécurité d'une application.
 
-De plus, le "Shift Left" permet une amélioration continue et
+De plus, le décalage vers la gauche permet une amélioration continue et
 suit une approche de développement [agile](/fr/agile-software-development/) plutôt que linéaire (waterfall).
 
 Les équipes peuvent apporter de petites améliorations itératives et identifier les problèmes plus tôt.
@@ -36,4 +36,4 @@ dès la phase de conception et d'architecture.
 Tester tout au long du cycle de développement réduit le temps nécessaire pour les tests avant la publication d'un logiciel.
 
 De nombreux outils logiciels et solutions SaaS aident à déplacer ces pratiques vers la gauche.
-Cependant, le "shift left" peut également être mis en œuvre grâce à des processus améliorés et des changements culturels au sein d'une équipe.
+Cependant, le décalage vers la gauche peut également être mis en œuvre grâce à des processus améliorés et des changements culturels au sein d'une équipe.
