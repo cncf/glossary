@@ -5,7 +5,7 @@ category: Concept
 tags: ["méthodologie", "", ""]
 ---
 
-Le terme "Left" dans "Shift Left" fait référence aux premières étapes dans le cycle de vie du développement logiciel,
+Le terme "gauche" dans "décalage vers la gauche" fait référence aux premières étapes dans le cycle de vie du développement logiciel,
 en envisageant ce cycle comme une ligne où les étapes sont exécutées de gauche à droite.
 Le décalage vers la gauche est la pratique consistant à mettre en œuvre des tests, la sécurité ou d'autres pratiques de développement
 tôt dans le cycle de vie du développement logiciel plutôt que vers la fin.
