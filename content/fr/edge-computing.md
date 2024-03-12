@@ -4,7 +4,7 @@ status: Completed
 category: Technology
 ---
 
-L'Edge Computing (informatique en périphérie) est une [architecture distribuée](/fr/distributed-systems/) qui déplace une partie de la capacité de stockage et de calcul du centre de données principal vers la source de données.
+L'Edge Computing (informatique en périphérie) est une [architecture distribuée](/fr/distributed-systems/) qui déplace une partie de la capacité de stockage et de calcul du [centre de données](/fr/data-center/) principal vers la source de données.
 Les données collectées sont traitées localement (par exemple, dans une usine, dans un magasin ou à travers toute une ville) plutôt que d'être envoyées à un centre de données centralisé pour traitement et analyse.
 Ces unités ou dispositifs de traitement locaux représentent la périphérie du système, tandis que le centre de données en est le centre.
 L'information calculée par ces unités périphériques est ensuite renvoyée au centre de données principal pour un traitement ultérieur.
