@@ -10,7 +10,7 @@ Yaptığı her şeyi diğer tüm servislere yayınlayan bir servis düşünün.
 Bir servis tarafından gerçekleştirilen her faaliyet bir olay olarak adlandırılır, dolayısıyla olay akışı olarak adlandırılır. 
 Örneğin, NASDAQ her saniye hisse senedi ve ticari malların fiyatlandırılması hakkında güncellemeler alır. 
 Belirli bir stok setini takip eden bir uygulamanız olsaydı, bu bilgiyi neredeyse gerçek zamanlı olarak almak isterdiniz. 
-Yahoo! Finans, NASDAQ'tan çekilen ve uygulamalarındaki bilgileri (veya olayları) ona abone olan herhangi bir uygulamaya gönderen (veya akıtan) bir [API](/application-programming-interface/) sağlar. 
+Yahoo! Finans, NASDAQ'tan çekilen ve uygulamalarındaki bilgileri (veya olayları) ona abone olan herhangi bir uygulamaya gönderen (veya akıtan) bir [API](/tr/application-programming-interface/) sağlar. 
 Gönderilen veriler ve bu verilerdeki değişiklikler (hisse senedi fiyatları) olaylardır, bunları bir uygulamaya iletme süreci ise olay akışıdır.
 
 ## Hangi Sorunları Çözer
