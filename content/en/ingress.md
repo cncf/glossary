@@ -15,14 +15,14 @@ The ingress controller is the web server technology that actually performs the r
 Cloud Native web applications consist of multiple services, and often, those [services](/service/) need to be accessible over the internet for users to visit using their browser.
 To make these services user accessible while using [Kubernetes](/kubernetes/) to run this application, we need to expose each application service to the outside world.
 The most straightforward way would be to use a Kubernetes Load Balancer Service.
-Creating such a Kubernetes Load Balancer Service results in a new component on the underlying infrastructure.
+But creating such a service results in a new component on the underlying infrastructure.
 This not only introduces new costs and management overhead, but each newly created Load Balancer has its own external IP address.
 This leads to a bad user experience, because as a user, we don’t want to browse different URLs to access an application.
 
 ## How it helps
 
 An Ingress resource allows you to configure how traffic is balanced and routed to an application’s services.
-The ingress controller is a web server that allows for a single entry point through a URL (www.example-url.com) and does the actual routing and balancing based on different URL paths (www.example-url.com/path).
+The ingress controller exposes a single entry point through a URL (www.example-url.com) and does the actual routing and balancing based on different URL paths (www.example-url.com/path).
 An Ingress controller is a component that runs within the cluster and interprets the rules defined in the Ingress resource.
 It is up to the cluster operators where the web app runs to choose a specific Ingress controller from a set of possible technologies like Nginx, Traefik, HAProxy, etc.
 So now, if an application consists of multiple services, the user can access it using a single URL.
