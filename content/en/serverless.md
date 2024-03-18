@@ -7,17 +7,15 @@ tags: ["architecture", "", ""]
 
 ## What it is
 
-"Serverless Computing is a generic computing approach where servers are [abstracted](/abstraction/) from the user.
-All operational aspects like managing physical machines and providing VMs are tasks of the service provider.
-A service provider is typically a public cloud provider but also in-house IT departments can act as service providers for their own development teams.
-They offer interfaces for service users like SDKs, CLIs or OCI compliant runtimes where the focus is on code, configuration options or deploying/uploading artifacts.
-All offerings are pay-per-use.
-[Scaling](/scalability/) and provisioning of additional computing, storage or network resources happens without user interference based on the demand of the deployed applications and ecosystem services like data storage.
-A provider of a serverless platform pools resources and serves multiple users on the same physical machine.
-Tenants are isolated via virtualization approaches in particular [VMs](/virtual-machine/)." [(Manner 2023, p.520)](https://doi.org/10.1109/CLOUD60044.2023.00068)
+Serverless Computing [abstracts](/abstraction/) servers away from the user.
+Operational management falls to the service provider, including handling physical machines and VM provisioning.
+Service providers can be public cloud entities or internal IT departments serving their development teams.
+These providers offer user interfaces such as SDKs, CLIs, or OCI-compliant runtimes, focusing on code and deployment tasks.
+Charges are based on a pay-per-use model.
+[Scaling](/scalability/) and resource provisioning for computing, storage, or networking are automatically adjusted based on application demand without user intervention.
+A serverless platform provider consolidates resources to serve multiple users on a single physical machine, ensuring isolation through virtualization, especially with [VMs](/virtual-machine/).
 
-Serverless is therefore an umbrella term for all services with these characteristics.
-Serverless offerings range from [Platform-as-a-Service (PaaS)](/platform-as-a-service/) until [Software-as-a-Service (SaaS)](/software-as-a-service/).
+Serverless is a comprehensive term encompassing services with these attributes, extending from [Platform-as-a-Service (PaaS)](/platform-as-a-service/) to [Software-as-a-Service (SaaS)](/software-as-a-service/).
 
 ## Problem it addresses
 
