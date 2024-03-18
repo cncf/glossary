@@ -14,16 +14,10 @@ Consequently, FaaS platforms can implement a true pay-as-you-go billing approach
 
 ## Problem it addresses
 
-In a traditional on-premises scenario, a business manages and maintains its own data center.
-The business must invest in servers, storage, software, and other technologies
-and potentially hire IT staff or contractors to purchase, manage, and upgrade all the equipment and licenses.
-The data center has to be built to meet peak demand, even when workloads decline and those resources stand idle.
-Conversely, if the business grows quickly, the IT department might struggle to keep up.
-Under a standard [Infrastructure-as-a-Service (IaaS)](/infrastructure-as-a-service/) cloud computing model,
-users pre-purchase capacity units, meaning you pay a public cloud provider for always-on server components to run your apps.
-It’s the user’s responsibility to scale up server capacity during times of high demand
-and scale down when that capacity is no longer needed.
-The cloud infrastructure necessary to run an app is active even when the app isn’t being used.
+Traditionally, businesses have relied on maintaining on-premises data centers, necessitating substantial investment in hardware, software, and personnel.
+This setup demands resources to be scaled to peak demand, resulting in underutilized assets during downtimes.
+Moreover, rapid business growth can overwhelm IT capabilities, leading to operational inefficiencies.
+In contrast, [Infrastructure-as-a-Service (IaaS)](/infrastructure-as-a-service/) models, while offering cloud-based solutions, still place the onus of scaling resources on the user, requiring payment for continuous server availability irrespective of actual usage.
 
 ## How it helps
 
