@@ -21,11 +21,10 @@ In contrast, [Infrastructure-as-a-Service (IaaS)](/infrastructure-as-a-service/)
 
 ## How it helps
 
-FaaS gives developers an [abstraction](/abstraction/) for running web applications in response to events without managing servers.
-For example, uploading a file could trigger custom code that transcodes the file into various formats.
-FaaS infrastructure will auto-scale the code for heavy use,
-and the developer does not have to spend any time or resources building the code for [scalability](/scalability/).
-Billing is based on computation time alone, which means businesses do not have to pay when the functions are not in use.
-
-See also the glossary for [Serverless](/serverless/).
-Serverless and FaaS are often used as synonyms, but there is a difference.
+FaaS gives developers an [abstraction](/abstraction/) for running web applications in response to events, eliminating the need to manage server infrastructure.
+For example, an action such as uploading a file could trigger custom code that transcodes the file into various formats.
+The FaaS infrastructure automatically adjusts resources to match demand, freeing developers from the complexities of coding for [scalability](/scalability/).
+Charges apply solely for the duration of computation, ensuring no costs accrue when functions are inactive.
+	
+For more information, refer to the [Serverless](/serverless/) glossary entry.
+Although "serverless" and "FaaS" are often used as interchangeable terms, they embody distinct concepts.
