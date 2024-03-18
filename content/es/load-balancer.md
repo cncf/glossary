@@ -2,10 +2,8 @@
 title: Balanceador de Carga
 status: Feedback Appreciated
 category: Concepto
-tags: ["infrastructure", "networking", ""]
+tags: ["infraestructura", "redes", ""]
 ---
-
-## ¿Qué es?
 
 Un balanceador de carga es una herramienta que distribuye eficientemente las solicitudes entrantes entre varias instancias de una aplicación.
 Tome una arquitectura de [microservicio](/es/microservices/) como ejemplo, donde cada servicio se puede [escalar horizontalmente](/es/horizontal-scaling/).

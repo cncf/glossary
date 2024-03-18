@@ -2,7 +2,7 @@
 title: Virtualização
 status: completed
 category: tecnologia
-tags: ["fundamentos", "infraestrutura", ""]
+tags: ["fundamento", "infraestrutura", "metodologia"]
 ---
 
 ## O que é

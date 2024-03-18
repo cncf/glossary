@@ -2,10 +2,8 @@
 title: DevOps
 status: Completed
 category: Concepto
-tags: ["methodology", "", ""]
+tags: ["metodología", "", ""]
 ---
-
-## ¿Qué es?
 
 DevOps es una metodología en la que los equipos son dueños de todo el proceso, desde el desarrollo de la aplicación hasta las operaciones en producción, de ahí el término DevOps.
 Va más allá de implementar un conjunto de tecnologías y requiere un cambio completo en la cultura y los procesos.
@@ -13,7 +11,7 @@ DevOps requiere grupos de ingenieros que trabajen en componentes pequeños (en l
 
 ## Problema que aborda
 
-Tradicionalmente, en organizaciones complejas con [aplicaciones monolíticas](/es/monolithic-apps/) con arquitecturas [estrechamente acopladas](/tightly-coupled-architectures/),
+Tradicionalmente, en organizaciones complejas con [aplicaciones monolíticas](/es/monolithic-apps/) con arquitecturas [estrechamente acopladas](/es/tightly-coupled-architectures/),
 el trabajo generalmente se distribuía entre varios equipos.
 Esta fragmentación del desarrollo dio lugar a numerosos traspasos y largos plazos de entrega.
 Cada vez que un componente o alguna actualización estaba lista, se colocaba en una cola para el siguiente equipo.

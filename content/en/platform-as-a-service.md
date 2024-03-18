@@ -6,8 +6,6 @@ draft: true
 tags: ["fundamental", "platform", ""]
 ---
 
-## What it is
-
 A Platform as a Service, or PaaS, is an external platform for application development teams to deploy and run their apps. 
 Heroku, Cloud Foundry, App Engine are examples of PaaS offerings.
 

@@ -1,11 +1,9 @@
 ---
 title: বহু মালিকানা (Multitenancy)
 status: Completed
-category: সম্পত্তি
-tags: ["architecture", "property", ""]
+category: বৈশিষ্ট্য
+tags: ["স্থাপত্য", "বৈশিষ্ট্য", ""]
 ---
-
-## এটা কি
 
 বহু মালিকানা (multitenancy) (বা মাল্টি-টেনেন্সি (multi-tenancy)) একটি একক সফ্টওয়্যার (software) ইনস্টলেশনকে (installation) বোঝায় যা একাধিক ভাড়াটেদের পরিষেবা দেয়।
 ভাড়াটে হল একজন ব্যবহারকারী, অ্যাপ্লিকেশন (application), বা ব্যবহারকারী/অ্যাপ্লিকেশনের একটি গোষ্ঠী যারা তাদের নিজস্ব ডেটা সেটে (data set) কাজ করার জন্য সফ্টওয়্যারটি (software) ব্যবহার করে।
@@ -28,4 +26,4 @@ tags: ["architecture", "property", ""]
 
 ## সম্পর্কিত পদ
 
-বহু মালিকানা (multitenancy) [SaaS](/bn/software-as-a-service/) এর সমার্থক নয়, যদিও SaaS-এর বহু মালিকানা (multitenancy) হওয়া খুবই সাধারণ এবং এমনকি বহু মালিকানার (multitenancy) বৈশিষ্ট্য গুলি এর মূল সুবিধাগুলির মধ্যে একটি।
+বহু মালিকানা (multitenancy) SaaS এর সমার্থক নয়, যদিও SaaS-এর বহু মালিকানা (multitenancy) হওয়া খুবই সাধারণ এবং এমনকি বহু মালিকানার (multitenancy) বৈশিষ্ট্য গুলি এর মূল সুবিধাগুলির মধ্যে একটি।

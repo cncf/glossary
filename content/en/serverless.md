@@ -5,7 +5,6 @@ Category: Technology
 tags: ["architecture", "", ""]
 ---
 
-## What it is
 
 Serverless Computing [abstracts](/abstraction/) servers away from the user.
 Operational management falls to the service provider, including handling physical machines and VM provisioning.
@@ -31,4 +30,3 @@ Tasks such as operating system maintenance, security updates, load balancing, ca
 
 Refer to the [Function-as-a-Service (FaaS)](/function-as-a-service/) glossary entry for more information.
 Although "serverless" and "FaaS" are often used as interchangeable terms, they embody distinct concepts.
-

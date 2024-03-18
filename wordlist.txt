@@ -29,6 +29,8 @@ cd
 cdn
 changelog
 chatbot
+cgroup
+cgroups
 cio
 cka
 ckad
@@ -66,6 +68,7 @@ digitalocean
 dockerfile
 dockerhub
 docstrings
+eBPF
 edumco
 emoji
 engineerbetter
@@ -89,6 +92,7 @@ gmail
 gmail's
 hackable
 handoffs
+HAProxy
 highlight
 html
 http
@@ -131,12 +135,16 @@ mkdn
 mtls
 multitenancy
 multitenant
+namespace
+namespaces
 navbar
+Nginx
 observability
 oci
 oliveira
 opencontainers
 orchestrator
+orchestrators
 overdemand
 overprivileged
 paas
@@ -164,6 +172,7 @@ runtime
 runtimeerror
 runtimes
 saas
+sandboxed
 saneheaders
 sbates
 scalability
@@ -192,6 +201,7 @@ tilde
 tls
 tmp
 toolchain
+Traefik
 transcodes
 txt
 ubuntu
@@ -200,6 +210,8 @@ unencrypted
 utf
 valueerror
 vcs
+verifications
+verifier
 virtualized
 virtualizing
 vm
