@@ -24,13 +24,11 @@ Responsibility for adjusting server capacity to meet fluctuating demands falls o
 
 ## How it helps
 
-With serverless architecture, by contrast, services are launched only as needed.
-A public cloud provider dynamically allocates resources for these services.
-The user does not have to pay when the service does not run.
-In addition to the cost and efficiency benefits,
-serverless frees developers from routine and menial tasks associated with app scaling and server provisioning.
-With serverless, routine tasks such as managing the operating system and file system, security patches,
-load balancing, capacity management, scaling, logging, and monitoring are all outsourced to a cloud services provider.
+Serverless architecture introduces a more efficient approach, activating services solely upon demand.
+This model ensures dynamic resource allocation by a cloud provider, eliminating costs for unused services.
+Beyond financial and operational efficiencies, serverless technology relieves developers of the burdens of scaling applications and managing server infrastructure.
+Tasks such as operating system maintenance, security updates, load balancing, capacity planning, and monitoring are delegated to the cloud provider, streamlining the development process.
 
-See also the glossary for [Function-as-a-Service (FaaS)](/function-as-a-service/).
-Serverless and FaaS are often used as synonyms, but there is a difference.
+Refer to the [Function-as-a-Service (FaaS)](/function-as-a-service/) glossary entry for more information.
+Although "serverless" and "FaaS" are often used as interchangeable terms, they embody distinct concepts.
+
