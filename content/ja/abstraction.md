@@ -1,5 +1,5 @@
 ---
-title: Abstraction
+title: 抽象化
 status: Completed
 category: プロパティ
 tags: ["基礎", "", ""]
