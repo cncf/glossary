@@ -19,11 +19,8 @@ Serverless is a comprehensive term encompassing services with these attributes, 
 
 ## Problem it addresses
 
-Under a standard [Infrastructure-as-a-Service (IaaS)](/infrastructure-as-a-service/) [cloud computing](/cloud-computing/) model,
-users pre-purchase units of capacity, meaning you pay a public cloud provider for always-on server components to run your services.
-It’s the user’s responsibility to scale up server capacity during times of high demand and
-to scale down when that capacity is no longer needed.
-The cloud infrastructure necessary to run an app is active even when the app isn’t being used.
+In traditional [Infrastructure-as-a-Service (IaaS)](/infrastructure-as-a-service/) [cloud computing](/cloud-computing/) models, users commit to a predefined capacity, resulting in charges for continuous server availability regardless of actual use.
+Responsibility for adjusting server capacity to meet fluctuating demands falls on the user, maintaining active infrastructure even during idle periods.
 
 ## How it helps
 
