@@ -7,19 +7,10 @@ tags: ["infrastructure", "", ""]
 
 ## What it is
 
-"Function as a Service (FaaS) is a compute service model in line with other as a Service offerings.
-The core of this concept are event-triggered, single-scoped functions, i.e. cloud functions, which scale up and
-down on demand without user interaction.
-This [autoscaling](/auto-scaling/) property is one of the unique characteristics of FaaS.
-Such platforms conceptually start a single function instance for each request and tear this instance down again
-after the function is executed. Therefore,
-cloud functions are inherently stateless.
-Which means that platform providers are able to offer a genuine pay as-you-go billing model where users are only
-charged when the cloud function is running as instances scaled
-to zero results in no idling costs.
-Other comparable computing models like [Platform as a Service (PaaS)](/platform-as-a-service/) based offerings always
-have at least a single instance running to serve requests." [(Manner 2023, p.521)](https://doi.org/10.1109/CLOUD60044.2023.00068)
-
+Function as a Service (FaaS) is a cloud computing model that provides a platform for executing event-triggered functions, allowing for automatic scaling without manual intervention.
+At its essence, FaaS enables the deployment of individual functions that are activated by specific events, operate on a short-term basis, and then shut down, ensuring resources are not wasted.
+This model supports an [autoscaling](/auto-scaling/) feature, enabling a function instance to be initiated per request and terminated post-execution, emphasizing its stateless nature.
+Consequently, FaaS platforms can implement a true pay-as-you-go billing approach, eliminating costs when functions are dormant, distinguishing it from other models like [Platform as a Service (PaaS)](/platform-as-a-service/), which require continuous resource availability.
 
 ## Problem it addresses
 
