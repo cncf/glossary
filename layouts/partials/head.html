@@ -49,21 +49,18 @@
 {{ partial "hooks/head-end.html" . }}
 <!--To comply with GDPR, cookie consent scripts places in head-end must execute before Google Analytics is enabled -->
 {{ if hugo.IsProduction }}
-{{ if hasPrefix .Site.GoogleAnalytics "G-"}}
-{{ template "_internal/google_analytics.html" . }}
-{{ else }}
-{{ template "_internal/google_analytics_async.html" . }}
-{{ end }}
+  {{ if hasPrefix .Site.GoogleAnalytics "G-"}}
+    {{ template "_internal/google_analytics.html" . }}
+  {{ else }}
+    {{ template "_internal/google_analytics_async.html" . }}
+  {{ end }}
 
-<!-- also include GA4 property -->
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-T6VMPWFRDW"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-T6VMPWFRDW');
-</script>
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-WJJ7VKZ');</script>
+  <!-- End Google Tag Manager -->
 
 {{ end }}

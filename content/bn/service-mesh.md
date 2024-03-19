@@ -2,6 +2,7 @@
 title: সার্ভিস মেশ (Service Mesh)
 status: Completed
 category: প্রযুক্তি
+tags: ["নেটওয়ার্কিং", "", ""]
 ---
 
 ## এটা কি

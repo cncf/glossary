@@ -48,7 +48,6 @@ status:
 category: 
 ---
 
-## What it is
 
 A quick summary of the technology or concept.
 
@@ -80,7 +79,7 @@ Valid values are:
 - Feedback Appreciated 
 - Not Started
 
-You can always open an issue against a completed definition. While a definition is in flux, its status will be changed to *Feedback Appreciated*.
+You can always open an issue against a completed definition. While a definition is in flux, its status will be changed to *Feedback Appreciated*. Note that we should not localize the valid status values.
 
 ```md
 ---
@@ -118,11 +117,11 @@ tags: ["tag 1", "tag 2", ""]
 
 ### Definition
 
-#### Three subheadings
+#### Two subheadings
 
-The definitions for **technology** and **concept** categories contain three subheadings: 
+The definitions for **technology** and **concept** categories contain a quick summary and two subheadings: 
 
-- **What it is**: provide a short and clear overview of what we are talking about.
+- (quick summary) provide a short and clear overview of what we are talking about.
 - **Problem it addresses**: focus on the problem, not the solution (that comes in the next section). 
   Avoid mentioning the term that is defined. The problem focuses on *what* led us to need that thing. 
 - **How it helps**: now, come back to the term. How does it address the problem described above?
@@ -159,7 +158,7 @@ When appropriate, use **real-world examples** that help readers (especially non-
 
 When used in your definition, always **link to existing glossary terms** (only the first mention should be hyperlinked).
 
-**Example**: look at the “What it is” section of the [service mesh definition](/service-mesh/). 
+**Example**: look at the summary section of the [service mesh definition](/service-mesh/). 
 It links back to the definitions of microservices, service, reliability, and observability. 
 Additionally, it uses a real-world example comparing network challenges in a microservices environment (something non-technical people can't relate to) 
 to wifi problems (something anyone using a laptop can understand). 

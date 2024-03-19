@@ -3,10 +3,8 @@ Title: Software como Servicio (SaaS)
 Status: Deprecated
 Category: Tecnología
 draft: true
-tags: ["fundamental", "platform", ""]
+tags: ["fundamento", "plataforma", ""]
 ---
-
-## ¿Qué es?
 
 El software como servicio (SaaS) permite a los usuarios conectarse y utilizar servicios basados en la nube a través de Internet.
 Los ejemplos comunes son el correo electrónico, el calendario y las herramientas de oficina (como Gmail, Amazon Web Servicios, GitHub, Slack).

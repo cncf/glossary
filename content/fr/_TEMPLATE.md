@@ -5,8 +5,6 @@ category: concept
 ---
 
 
-## Ce que c'est
-
 Un bref descriptif de la technologie ou du concept.
 
 ## Problème auquel il répond

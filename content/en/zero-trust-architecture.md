@@ -5,8 +5,6 @@ category: Concept
 tags: ["security", "", ""]
 ---
 
-## What it is
-
 Zero trust architecture prescribes to an approach to the design and implementation of IT systems 
 where trust is completely removed. 
 The core principle being "never trust, always verify", devices or systems themselves, 
