@@ -17,7 +17,7 @@ sanal bir bilgisayar (VM) ve hatta bir [konteyner](../container/) olabilir.
 
 Bir uygulama tek bir makinede çalışabilir (ve birçok uygulama bunu yapar), ancak bununla bazı riskler beraberinde gelir.
 Özellikle, temel sistemdeki bir arıza uygulamayı bozabilir.
-Geliştiriciler bu sorunu çözmek için, her işlemin kendi düğümünde çalıştığı dağıtılmış uygulamalar oluşturmaya başladılar.
+Geliştiriciler bu sorunu çözmek için, her işlemin kendi düğümünde çalıştığı [dağıtılmış uygulamalar](/tr/distributed-apps/) oluşturmaya başladılar.
 Bu nedenle, düğümler, bir araya gelerek ortak bir hedefe ulaşmak için bir [küme](../cluster/) veya grup oluşturan uygulamaları veya işlemleri çalıştırırlar.
 
 ## Nasıl Yardımcı Olur
