@@ -8,8 +8,8 @@ tags: ["altyapı", "temel kavram", ""]
 ## Nedir
 
 Veri merkezi, çoğunlukla sunucular olmak üzere bilgisayarları barındırmak üzere tasarlanmış bina veya tesistir. 
-Veri merkezleri, özellikle bulut bilişime odaklandıklarında, yüksek hızlı internet hatlarına bağlanma eğilimindedirler. 
-Veri merkezlerini barındıran binalar, kesintiler sırasında güç sağlayan jeneratörler ve bilgisayarları serin tutan güçlü klimalar dahil olmak üzere olumsuz şartlarda bile hizmeti sürdürecek şekilde donatılmıştır. 
+Veri merkezleri, özellikle [bulut bilişime](/tr/cloud-computing/) odaklandıklarında, yüksek hızlı internet hatlarına bağlanma eğilimindedirler. 
+Veri merkezlerini barındıran binalar, kesintiler sırasında güç sağlayan jeneratörler ve bilgisayarları serin tutan güçlü klimalar dahil olmak üzere olumsuz şartlarda bile hizmeti sürdürecek şekilde donatılmıştır.
 
 ## Hangi Sorunları Çözer
 
@@ -21,7 +21,7 @@ Ancak Gmail ya da Netflix gibi büyük ölçekli uygulamaları düşünürseniz 
 
 ## Nasıl Yardımcı Olur
 
-Kullanıcılar çeşitli sunucuları birbirine bağlayarak bir “süper bilgisayar” gibi çalışan dağıtık bir sistem oluşturabilirler. 
-Birkaç makinenin gücü bir araya getirildiği için artık çok daha büyük uygulamalar çalıştırılabilir veya çok daha güçlü hesaplama görevleri gerçekleştirilebilir. Veri merkezleri günlük olarak kullandığımız çoğu uygulamaya güç sağlar. 
+Kullanıcılar çeşitli sunucuları birbirine bağlayarak bir “süper bilgisayar” gibi çalışan [dağıtık bir sistem](/tr/distributed-systems/) oluşturabilirler. 
+Birkaç makinenin gücü bir araya getirildiği için artık çok daha büyük uygulamalar çalıştırılabilir veya çok daha güçlü hesaplama görevleri gerçekleştirilebilir. Veri merkezleri günlük olarak kullandığımız çoğu uygulamaya güç sağlar.
 
-Genel bulutlar, müşterilerine kapasite kiralayan veri merkezleridir. Son yıllarda, kurumsal veri merkezlerinden buluta doğru bir geçiş gözlenmektedir.
+[Genel bulutlar](/tr/cloud-computing/), müşterilerine kapasite kiralayan veri merkezleridir. Son yıllarda, kurumsal veri merkezlerinden buluta doğru bir geçiş gözlenmektedir.
