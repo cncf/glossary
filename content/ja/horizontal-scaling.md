@@ -30,4 +30,4 @@ tags: ["インフラストラクチャー", "", ""]
 ## 関連する用語はありますか
 
 * [垂直スケーリング](/ja/vertical-scaling/)
-* [オートスケール](/ja/auto-scaling/)
+* [オートスケーリング](/ja/auto-scaling/)
