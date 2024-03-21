@@ -1,7 +1,7 @@
 ---
 title: Policy as Code (PaC)
 status: Completed
-category: concept
+category: コンセプト
 tags: ["方法論", "", ""]
 ---
 
