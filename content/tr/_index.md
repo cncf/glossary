@@ -32,8 +32,12 @@ Projenin Türkçe yerelleştirilmesi
 [Halil Bugöl](https://www.linkedin.com/in/halilbugol/),
 [Batuhan Apaydın](https://www.linkedin.com/in/bthnapydin/),
 [Emin Alemdar](https://www.linkedin.com/in/emin-alemdar/),
-[Şeyma Demir](https://www.linkedin.com/in/seymademir/)
-ve [Oğuzhan Özdemir](https://www.linkedin.com/in/aoguzhanozdemir) tarafından yürütülmektedir.
+[Şeyma Demir](https://www.linkedin.com/in/seymademir/),
+[Oğuzhan Özdemir](https://www.linkedin.com/in/aoguzhanozdemir),
+[Uğur Yılmaz](https://www.linkedin.com/in/uguryilmazdev/),
+[Zehra Karakaya](https://github.com/0ZeKa0),
+[Muhsin Özbek](https://tr.linkedin.com/in/muhsin-ozbek) ve
+[Yasin Herken](https://www.linkedin.com/in/yasin-herken/) tarafından yürütülmektedir.
 
 ## Lisans
 
