@@ -4,8 +4,6 @@ status: Completed
 category: Tecnología
 ---
 
-## ¿Qué es?
-
 Computación en el borde es un tipo de [sistema distribuido](/es/distributed-systems/) en el que una parte del procesamiento y almacenamiento de información se realiza en el origen de los datos.
 Esta información generada es procesada localmente (por ejemplo en una fábrica, en un negocio o a través de una ciudad) en vez de ser enviada a un centro de datos centralizado para procesamiento y análisis.
 Luego el resultado de ese procesamiento local es enviado al centro de datos principal para un procesamiento final.

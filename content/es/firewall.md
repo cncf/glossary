@@ -6,8 +6,6 @@ category: Tecnología
 tags: ["", "", ""]
 ---
 
-## ¿Qué es?
-
 Un Firewall es un sistema que filtra tráfico de red basándose en reglas específicas.
 Los Firewall pueden ser hardware, software o una combinación de ambos.
 
