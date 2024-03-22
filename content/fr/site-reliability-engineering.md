@@ -5,7 +5,7 @@ category: concept
 tags: ["méthodologie", "", ""]
 ---
 
-L'ingénierie de la fiabilité des sites (ou SRE pour Site Reliability Engineering en anglais) est une discipline qui combine l'exploitation informatique et le developpement logiciel.
+L'ingénierie de la fiabilité des sites (ou SRE pour Site Reliability Engineering en anglais) est une discipline qui combine l'exploitation informatique et le développement logiciel.
 Ce dernier est utilisé spécifiquement pour résoudre des problèmes d'infrastructure et d'exploitation informatique.
 En d'autres termes, au lieu de créer des fonctionnalités pour une application, les ingénieurs en fiabilité des sites construisent des systèmes pour faire fonctionner les applications.
 Il existe des similitudes avec le [DevOps](/fr/devops/), mais tandis que le DevOps se concentre sur la mise en production du code, le SRE s'assure que le code exécuté en production fonctionne correctement.
