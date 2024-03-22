@@ -28,5 +28,5 @@ L'infrastructure cloud nécessaire au fonctionnement d'une application reste act
 Le FaaS offre aux développeurs une [abstraction](/fr/abstraction/) permettant d'exécuter des applications web en réponse à des événements sans avoir à gérer de serveurs.
 Par exemple, le téléchargement d'un fichier peut déclencher un code personnalisé qui transcode le fichier dans différents formats.
 L'infrastructure FaaS dimensionnera automatiquement le code en cas d'utilisation intensive,
-et le développeur n'a pas besoin de consacrer du temps ou des ressources à l'élaboration du code pour la [scalabilité] (/fr/scalability/).
+et le développeur n'a pas besoin de consacrer du temps ou des ressources à l'élaboration du code pour la [capacité de mise à l'échelle](/fr/scalability/).
 La facturation est basée uniquement sur le temps de calcul, ce qui signifie que les organisations n'ont pas à payer lorsque les fonctions ne sont pas utilisées.
