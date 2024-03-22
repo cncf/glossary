@@ -20,6 +20,3 @@ toute application qui souhaite la trouver aura besoin d'un outil qui lui fournir
 Le mécanisme de découverte de services garde une trace des applications au sein du réseau afin qu'elles puissent se trouver mutuellement en cas de besoin.
 Il fournit une méthode courante pour trouver et potentiellement identifier les services individuels.
 Les moteurs de découverte de services sont des outils semblable à des bases de données qui stockent les informations sur les services existants et comment les localiser.
-
-
-
