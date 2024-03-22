@@ -29,6 +29,6 @@ The cloud infrastructure necessary to run an app is active even when the app isn
 
 FaaS gives developers an [abstraction](/abstraction/) for running web applications in response to events without managing servers. 
 For example, uploading a file could trigger custom code that transcodes the file into various formats. 
-FaaS will auto-scale the infrastructure for heavy use, 
+FaaS will auto-scale the underlying infrastructure that runs the application code for heavy use, 
 and the developer does not have to spend any time or resources building the code for [scalability](/scalability/). 
 Billing is based on computation time alone, which means businesses do not have to pay when the functions are not in use.
