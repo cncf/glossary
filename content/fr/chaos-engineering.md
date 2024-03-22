@@ -16,8 +16,8 @@ La capacité d'un système à tolérer les défaillances tout en assurant une qu
 est généralement une exigence du développement logiciel.
 Plusieurs aspects sont susceptibles d'entraîner des pannes d'une application,
 comme l'infrastructure, la plateforme ou d'autres parties d'une application ([microservice](/fr/microservices/)).
-Le déploiement très fréquent de nouvelles fonctionnalités dans l'environnement de production peut
-de production peut entraîner une forte probabilité de temps d'arrêt et d'incident critique
+Le déploiement très fréquent de nouvelles fonctionnalités dans l'environnement de production
+peut entraîner une forte probabilité d'indisponibilité et d'incident critique
 — avec des conséquences considérables pour l'entreprise.
 
 ## Quel en est l'utilité
