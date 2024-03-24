@@ -27,8 +27,7 @@ limitations under the License.
                     }
 
                     var query = $(this).val();
-                    var searchPage = "{{ "search/" | relLangURL }}?q=" + query;
-                    console.log(searchPage);
+                    var searchPage = $(this).data('search-page') + "?q=" + query;
                     document.location = searchPage;
 
                     return false;
