@@ -31,11 +31,32 @@
 		const q = urlParams.get('q');
 		if(q){
         setTimeout(function(){
-            console.log('Searching:'+q);
             pagefind.triggerSearch(q);
 			}, 1000);
 		}
+
+		$("#search input").on("input", function() {
+			var inputValue = $(this).val();
+			var queryStringVar = "q";
+			updateQueryString(queryStringVar, inputValue);
+		});
 	});
+
+	function updateQueryString(key, value) {
+		var baseUrl = window.location.href.split("?")[0];
+		var queryString = window.location.search.slice(1);
+		var urlParams = new URLSearchParams(queryString);
+
+		if (urlParams.has(key)) {
+			urlParams.set(key, value);
+		} else {
+			urlParams.append(key, value);
+		}
+
+		var newUrl = baseUrl + "?" + urlParams.toString();
+		// Update the browser history (optional)
+		window.history.pushState({}, null, newUrl);
+	}
 	</script>
 	
 </div>
