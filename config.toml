@@ -226,7 +226,7 @@ github_repo = "https://github.com/cncf/glossary"
 github_branch = "main"
 
 # Google Custom Search Engine ID. Remove or comment out to disable search.
-gcs_engine_id = "eda0239a7d3fd0d90"
+# gcs_engine_id = "eda0239a7d3fd0d90"
 
 # Enable Algolia DocSearch
 algolia_docsearch = false
