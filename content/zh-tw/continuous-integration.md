@@ -1,11 +1,9 @@
 ---
 title: 持續整合 (CI)
-status: Completed 
+status: Completed
 category: 概念
 tags: ["應用程式", "方法論", ""]
 ---
-
-## 是什麼 {#what-it-is}
 
 持續整合，通常縮寫為 CI，是盡可能定期整合程式碼更改的實踐方法。
 CI 是 [持續交付](/zh-tw/continuous-delivery/)（CD）的前置工作。
