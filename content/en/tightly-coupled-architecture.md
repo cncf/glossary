@@ -14,7 +14,7 @@ They also tend to require coordinated rollouts of components
 which can become a drag on developer productivity.
 
 Tightly coupled application architectures are a fairly traditional way of building applications. 
-While not necessarily consistent with all the best practices of [microservice](/microservices/) development 
+While not necessarily consistent with all the best practices of [microservice](/microservices-architecture/) development 
 they can be useful in specific circumstances. 
 They tend to be faster and simpler to implement and 
 much like [monolithic applications](/monolithic-apps/) they can speed up the initial development cycle.

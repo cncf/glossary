@@ -5,7 +5,6 @@ category: Technology
 tags: ["infrastructure", "", ""]
 ---
 
-
 Function as a Service (FaaS) is a cloud computing model that provides a platform for executing event-triggered functions, allowing for automatic scaling without manual intervention.
 At its essence, FaaS enables the deployment of individual functions that are activated by specific events, operate on a short-term basis, and then shut down, ensuring resources are not wasted.
 This model supports an [autoscaling](/auto-scaling/) feature, enabling a function instance to be initiated per request and terminated post-execution, emphasizing its stateless nature.

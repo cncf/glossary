@@ -21,4 +21,4 @@ Without a shared framework, it is challenging for applications to [scale](/scala
 
 APIs allow computer programs or applications to interact and share information in a defined and understandable manner. 
 They are the building blocks for modern applications and they provide developers with a way to integrate applications together. 
-Whenever you hear about [microservices](/microservices/) working together, you can infer that they interact via an API. 
+Whenever you hear about [microservices](/microservices-architecture/) working together, you can infer that they interact via an API. 
