@@ -14,7 +14,7 @@ Consequently, FaaS platforms can implement a true pay-as-you-go billing approach
 ## Problem it addresses
 
 Traditionally, businesses have relied on maintaining on-premises data centers, necessitating substantial investment in hardware, software, and personnel.
-This setup demands resources to be scaled to peak demand, resulting in underutilized assets during downtimes.
+This setup demands resources to be scaled to peak demand, resulting in underutilized assets during downtime.
 Moreover, rapid business growth can overwhelm IT capabilities, leading to operational inefficiencies.
 In contrast, [Infrastructure-as-a-Service (IaaS)](/infrastructure-as-a-service/) models, while offering cloud-based solutions, still place the onus of scaling resources on the user, requiring payment for continuous server availability irrespective of actual usage.
 
