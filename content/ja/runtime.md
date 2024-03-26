@@ -34,4 +34,4 @@ tags: ["アプリケーション", "", ""]
 - [クラウドネイティブ](https://glossary.cncf.io/ja/cloud-native-apps/)
 - [コンテナ化](https://glossary.cncf.io/ja/containerization/)
 - [コンテナオーケストレーション](https://glossary.cncf.io/ja/container-orchestration/)
-- [マイクロサービスアーキテクチャ](https://glossary.cncf.io/ja/microservices-architecture/)
+- [マイクロサービスアーキテクチャ](https://glossary.cncf.io/ja/microservices/)
