@@ -5,8 +5,6 @@ Category: tecnologia
 tags: ["arquitetura", "", ""]
 ---
 
-## O que é
-
 Serverless é um modelo de desenvolvimento nativo na nuvem que permite que desenvolvedores criem aplicações sem que seja necessário gerenciar servidores. Ainda existem servidores no modelo serverless, mas eles são [abstraídos](/pt-br/abstraction/) do desenvolvimento. Um provedor de computação em nuvem se encarrega do provisionamento, manutenção e [escala](/scalability/) da infraestrutura de servidores. Desenvolvedores podem simplesmente carregar o código em [contêineres](/pt-br/container/) para implantação. Uma vez implantadas, aplicações serverless respondem automaticamente à demanda, escalando para cima e para baixo conforme necessário. O preço cobrado por provedores de computação em nuvem para funções serverless geralmente é realizada com base na sua utilização sob demanda. Como resultado disto, quando uma função serverless não está em execução ela não tem custo algum.
 
 ## Problema relacionado
