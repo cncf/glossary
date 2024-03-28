@@ -38,7 +38,6 @@ Projenin Türkçe yerelleştirilmesi
 [Zehra Karakaya](https://www.linkedin.com/in/zehra-k-7b7a11300/),
 [Muhsin Özbek](https://tr.linkedin.com/in/muhsin-ozbek) ve
 [Yasin Herken](https://www.linkedin.com/in/yasin-herken/) tarafından yürütülmektedir.
- tarafından yürütülmektedir.
 
 ## Lisans
 
