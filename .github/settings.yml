@@ -220,7 +220,7 @@ collaborators:
   - username: aliok
     permission: push
 
-  - username: halil-bugol
+  - username: symys
     permission: push
 
   - username: rwxdash
@@ -524,7 +524,7 @@ branches:
         # tr approvers
         users:
          - aliok
-         - halil-bugol
+         - symys
          - rwxdash
          - eminalemdar
         teams: []
