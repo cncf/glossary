@@ -132,15 +132,6 @@ weight = 9
 [languages.de.params]
 description = "Das CNCF Cloud Native Glossar soll als Referenz für gängige Begriffe dienen, die im Zusammenhang mit Cloud Native Anwendungen verwendet werden."
 
-[languages.ar]
-title = "مصطلحات التطبيقات السحابية الأصيلة"
-description = "يهدف مشروع معجم التطبيقات السحابية الأصيلة تحت رعاية مؤسسة الحوسبة السحابية الأصيلة إلى استخدامه كمرجع للمصطلحات الشائعة المستخدمة عند الحديث عن التطبيقات السحابية الأصيلة."
-languageName ="العربية (Arabic)"
-contentDir = "content/ar"
-weight = 10
-time_format_default = "02.01.2006"
-time_format_blog = "02.01.2006"
-
 [languages.ur]
 contentDir = "content/ur"
 languageName = "اردو (Urdu)"
@@ -172,6 +163,15 @@ title = "クラウドネイティブ用語集"
 weight = 13
 [languages.ja.params]
 description = "CNCF クラウドネイティブ用語集プロジェクトは、クラウドネイティブアプリケーションについて話すときに使われる一般的な用語のリファレンスとして使用することを目的としています。"
+
+[languages.ar]
+title = "مصطلحات التطبيقات السحابية الأصيلة"
+description = "يهدف مشروع معجم التطبيقات السحابية الأصيلة تحت رعاية مؤسسة الحوسبة السحابية الأصيلة إلى استخدامه كمرجع للمصطلحات الشائعة المستخدمة عند الحديث عن التطبيقات السحابية الأصيلة."
+languageName ="العربية (Arabic)"
+contentDir = "content/ar"
+weight = 15
+time_format_default = "02.01.2006"
+time_format_blog = "02.01.2006"
 
 [markup]
 [markup.goldmark]
