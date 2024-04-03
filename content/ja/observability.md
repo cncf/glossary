@@ -1,5 +1,5 @@
 ---
-title: オブザーバビリティ
+title: オブザーバビリティ(可観測性)
 status: Completed
 category: コンセプト
 tags: ["プロパティ", "", ""]
