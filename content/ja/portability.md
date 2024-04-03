@@ -1,5 +1,5 @@
 ---
-title: ポータビリティ
+title: ポータビリティ(可搬性)
 status: Completed
 category: プロパティ
 tags: ["基礎", "プロパティ", ""]
