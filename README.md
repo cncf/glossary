@@ -50,6 +50,6 @@ git submodule update --init --recursive
 npm install
 ```
 
-You can then run the site using `npm run serve` (select "[Hugo]").
+You can then run the site using `npm run serve` (select "[Hugo]"). To have the site run locally with a functioning local search, run `npm run serve:with-pagefind`.
 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?repo=cncf/glossary)

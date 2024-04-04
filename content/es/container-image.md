@@ -5,8 +5,6 @@ category: Concepto
 tags: ["", "", ""]
 ---
 
-## ¿Qué es?
-
 Una imagen es un fichero estático e inmutable que contiene las dependencias para la creación de un [contenedor](/es/container/).
 Estas dependencias pueden incluir un archivo binario ejecutable, librerías del sistema,
 herramientas del sistema, variables de entorno y otras configuraciones de plataforma necesarias.

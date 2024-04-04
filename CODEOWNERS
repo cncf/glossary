@@ -39,16 +39,16 @@
 /i18n/fr.toml @huats @fydrah @Krast76 @sestegra @guillaumebernard84
 
 # Approvers for Hindi contents
-/content/hi/ @Garima-Negi @sayantani11 @anubha-v-ardhan @jayesh-srivastava
-/i18n/hi.toml @Garima-Negi @sayantani11 @anubha-v-ardhan @jayesh-srivastava
+/content/hi/ @Garima-Negi @jayesh-srivastava @abhay-raj19 @aj11anuj @kumarankit999 @bishal7679
+/i18n/hi.toml @Garima-Negi @jayesh-srivastava @abhay-raj19 @aj11anuj @kumarankit999 @bishal7679
 
 # Approvers for Italian contents
 /content/it/ @fsbaraglia @ugho16 @annalisag-spark @sistella
 /i18n/it.toml @fsbaraglia @ugho16 @annalisag-spark @sistella
 
 # Approvers for Japanese contents
-/content/ja/ @inductor @naonishijima @kaitoii11 @yuichi-nakamura
-/i18n/ja.toml @inductor @naonishijima @kaitoii11 @yuichi-nakamura
+/content/ja/ @inductor @naonishijima @kaitoii11 @yuichi-nakamura @Okabe-Junya
+/i18n/ja.toml @inductor @naonishijima @kaitoii11 @yuichi-nakamura @Okabe-Junya
 
 # Approvers for Korean contents
 /content/ko/ @seokho-son @jihoon-seo @yunkon-kim
@@ -59,12 +59,12 @@
 /i18n/pt-br.toml @edsoncelio @brunoguidone @jessicalins @MrErlison
 
 # Approvers for Russian contents
-/content/ru/ @shurup @kirkonru
-/i18n/ru.toml @shurup @kirkonru
+/content/ru/ @shurup @kirkonru @tym83
+/i18n/ru.toml @shurup @kirkonru @tym83
 
 # Approvers for Turkish contents
-/content/tr/ @aliok @halil-bugol @developer-guy @eminalemdar
-/i18n/tr.toml @aliok @halil-bugol @developer-guy @eminalemdar
+/content/tr/ @aliok @halil-bugol @rwxdash @eminalemdar
+/i18n/tr.toml @aliok @halil-bugol @rwxdash @eminalemdar
 
 # Approvers for Urdu contents
 /content/ur/ @Saim-Safdar @waleed318
@@ -75,5 +75,5 @@
 /i18n/zh-cn.toml @hanyuancheung @Jacob953 @Rocksnake @Submarinee
 
 # Approvers for Traditional Chinese contents
-/content/zh-tw/ @pichuang @ydFu @hwchiu @johnlinp
-/i18n/zh-tw.toml @pichuang @ydFu @hwchiu @johnlinp
+/content/zh-tw/ @tico88612 @ydFu @hwchiu @johnlinp
+/i18n/zh-tw.toml @tico88612 @ydFu @hwchiu @johnlinp

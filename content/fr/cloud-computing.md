@@ -5,8 +5,6 @@ category: concept
 tags: ["infrastructure", "fondamental", ""]
 ---
 
-## Ce que c'est
-
 Le cloud computing, ou informatique en nuage, ou encore infonuagique au Québec, offre des ressources informatiques telles que de la puissance de calcul, 
 du réseau et de l'espace de stockage à la demande sur Internet, permettant aux utilisateurs d'accéder à des ressources informatiques 
 situées dans un emplacement physique distant. Nous différencions généralement le cloud privé du cloud public, 

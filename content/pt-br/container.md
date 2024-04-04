@@ -2,10 +2,8 @@
 title: Contêineres
 status: Completed
 category: tecnologia
-tags: ["aplicação", "", ""]
+tags: ["aplicação", "fundamento", ""]
 ---
-
-## O que é
 
 Um contêiner é um processo em execução com restrições de recursos e capacidade gerenciadas pelo sistema operacional. Os arquivos disponíveis para o processo de contêiner são empacotados como uma imagem de contêiner. Os contêineres são executados um ao lado do outro na mesma máquina, mas normalmente o sistema operacional impede que os processos de contêiner separados interajam entre si.
 
