@@ -73,13 +73,19 @@ collaborators:
   - username: Garima-Negi
     permission: push
 
-  - username: sayantani11
-    permission: push
-
-  - username: anubha-v-ardhan
-    permission: push
-
   - username: jayesh-srivastava
+    permission: push
+
+  - username: abhay-raj19
+    permission: push
+
+  - username: aj11anuj
+    permission: push
+
+  - username: kumarankit999
+    permission: push
+
+  - username: bishal7679
     permission: push
 
   # l10n de approvers
@@ -204,6 +210,9 @@ collaborators:
   - username: naonishijima
     permission: push
 
+  - username: Okabe-Junya
+    permission: push
+
   - username: yuichi-nakamura
     permission: push
 
@@ -214,7 +223,7 @@ collaborators:
   - username: halil-bugol
     permission: push
 
-  - username: developer-guy
+  - username: rwxdash
     permission: push
 
   - username: eminalemdar
@@ -225,6 +234,9 @@ collaborators:
     permission: push
 
   - username: kirkonru
+    permission: push
+
+  - username: tym83
     permission: push
 
 branches:
@@ -301,9 +313,11 @@ branches:
         # hi approvers
         users:
          - Garima-Negi
-         - sayantani11
-         - anubha-v-ardhan
          - jayesh-srivastava
+         - abhay-raj19
+         - aj11anuj
+         - kumarankit999
+         - bishal7679
         teams: []
       enforce_admins: null
       required_linear_history: null
@@ -492,6 +506,7 @@ branches:
          - inductor
          - kaitoii11
          - naonishijima
+         - Okabe-Junya
          - yuichi-nakamura
         teams: []
       enforce_admins: null
@@ -510,7 +525,7 @@ branches:
         users:
          - aliok
          - halil-bugol
-         - developer-guy
+         - rwxdash
          - eminalemdar
         teams: []
       enforce_admins: null
@@ -529,6 +544,7 @@ branches:
         users:
          - shurup
          - kirkonru
+         - tym83
         teams: []
       enforce_admins: null
       required_linear_history: null

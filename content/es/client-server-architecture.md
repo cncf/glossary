@@ -2,10 +2,8 @@
 title: Arquitectura Cliente-Servidor
 status: Completed
 category: Concepto
-tags: ["architecture", "fundamental", ""]
+tags: ["arquitectura", "fundamento", ""]
 ---
-
-## ¿Qué es?
 
 En una arquitectura cliente-servidor, la lógica (o código) que constituye una aplicación se divide en dos o más componentes:
 un cliente que solicita trabajo por hacer

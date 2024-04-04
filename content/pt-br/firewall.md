@@ -1,11 +1,9 @@
 ---
 title: Firewall
-status: Completed
+status: Deprecated
 category: tecnologia
-tags: ["segurança", "", ""]
+tags: ["descontinuado", "", ""]
 ---
-
-## O que é
 
 Um firewall é um sistema que filtra o tráfego de rede com base em regras especificadas. Firewalls podem ser hardware, software ou uma combinação dos dois.
 
