@@ -1,30 +1,23 @@
 ---
-title: DevSecOps 
+title: DevSecOps
 status: Completed
-category: concept
-tags: ["methodology", "security", ""]
+category: コンセプト
+tags: ["方法論", "セキュリティ", ""]
 ---
 
-The term DevSecOps refers to a cultural merger of the development, operational, and security responsibilities. 
-It extends the [DevOps](/devops/) approach to include security priorities 
-with minimal to no disruption in the developer and operational workflow. 
-Like DevOps, DevSecOps is a cultural shift, pushed by the technologies adopted, with unique adoption methods.
+DevSecOpsという用語は、開発、運用、およびセキュリティの責任の文化的統合を指します。
+これは、開発と運用のワークフローを最小限に乱すことなく、セキュリティの優先順位を含むように[DevOps](/devops/)アプローチを拡張します。
+DevOpsと同様に、DevSecOpsは採用された技術によって推進される文化的変革であり、独自の適用方法があります。
 
-## Problem it addresses
+## 解決すべき問題はなんですか
 
-DevOps practices include [continuous integration](/continuous-integration/), [continuous delivery](/continuous-delivery/),
-and [continuous deployment](/continuous-deployment/) and accelerate application development and release cycles. 
-Unfortunately, automated release processes that fail to represent 
-all organizational stakeholders adequately can exacerbate existing issues. 
-A process that rapidly releases new software without considering security needs 
-can degrade an organization's security posture.
+DevOpsの実践には、[継続的インテグレーション](/continuous-integration/)、[継続的デリバリー](/continuous-delivery/)、および[継続的デプロイメント](/continuous-deployment/)が含まれ、アプリケーションの開発とリリースサイクルを加速します。
+残念ながら、自動化されたリリースプロセスが組織のすべてのステークホルダーを適切に表現できない場合には、既存の問題を悪化させる可能性があります。
+セキュリティのニーズを考慮せずに構築された新しいソフトウェアを迅速にリリースするプロセスは、組織のセキュリティ態勢を低下させる可能性があります。
 
-## How it helps
+## どのように役に立つのでしょうか
 
-DevSecOps focuses on breaking down team silos and promotes the creation of secure, automated workflows. 
-When selecting security applications, organizations must take advantage of 
-automated CI/CD workflows and policy enforcement that empower the developer. 
-The goal is not to be a blocker but to enforce security policies 
-while giving users accurate information on how to move their project forward. 
-When properly implemented, an organization will gain better team communication and 
-reduce security mishaps and associated costs.
+DevSecOpsは、チームのサイロを壊し、安全な自動化されたワークフローの作成を促進することに焦点を当てています。
+セキュリティアプリケーションを選択する際、組織は開発者を支援する自動化されたCI/CDワークフローとポリシーの施行を活用する必要があります。
+障害物になることではなく、セキュリティポリシーを施行しつつ、ユーザーにプロジェクトを前進させる方法に関する正確な情報を提供することが目標です。
+適切に実装された場合、組織はより良いチームコミュニケーションを得て、セキュリティ事故と関連コストを減らすことができます。
