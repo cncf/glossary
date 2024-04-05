@@ -1,29 +1,30 @@
-a---
-title: Event Streaming
+---
+title: イベントストリーミング
 status: Completed
-category: concept
-tags: ["methodology", "networking", ""]
+category: 概念
+tags: ["方法論", "ネットワーキング", ""]
 ---
 
-Event streaming is an approach where software sends event data from one application to another to continuously communicate what they are doing.
-Picture a service broadcasting everything it does to all other services.
-Each activity taken by a service is referred to as an event, hence event streaming.
-For example, NASDAQ gets updates on stock and commodities pricing every second.
-If you had an application that monitored a specific set of stocks, you would want to receive that information in near real-time.
-Yahoo! Finance provides an [API](/application-programming-interface/) that pulls from NASDAQ and sends (or streams) the information (or events) from their application to any application that subscribes to it.
-The data being sent as well as the changes in that data (stock prices) are the events while the process of delivering them to an application is event streaming.
+イベントストリーミングは、ソフトウェアが一つのアプリケーションから別のアプリケーションにイベントデータを送信し、何をしているかを継続的に通信するアプローチです。
+あるサービスが行うすべてのことを他のすべてのサービスにブロードキャストする様子を想像してください。
+サービスによって行われる各活動はイベントと呼ばれ、これがイベントストリーミングの由来です。
+たとえば、NASDAQは毎秒、株価と商品価格の更新を受け取ります。
+特定の株式セットを監視するアプリケーションを動かすとしたら、その情報をほぼリアルタイムで受け取りたいでしょう。
+Yahoo! Financeは、NASDAQから引っ張ってきたデータを引用し、その情報(またはイベント)を購読するアプリケーションに送信(またはストリーム)する[API](/ja/application-programming-interface/)を提供しています。
+送信されるデータおよびそのデータ(株価)の変化がイベントであり、それらをアプリケーションに配信するプロセスがイベントストリーミングです。
 
-## Problem it addresses
+## 解決すべき問題はなんですか
 
-Traditionally, Yahoo! Finance would use single TCP requests.
-This would be very inefficient as it would require a connection to be created for every event.
-As data becomes more real-time in nature, scaling such a solution becomes inefficient.
-Opening a connection once and allowing events to flow is ideal for real-time collection.
-The amount of data being generated is growing exponentially and with that, the data state is in constant flux. Developers and users need to be able to see that data in near real-time.
+従来、Yahoo! Financeは単一のTCPリクエストを使用していました。
+これは、イベントごとに接続を確立する必要があるため、非常に非効率的です。
+データがよりリアルタイム性を帯びるにつれて、そのような解決策をスケーリングすることは非効率的になります。
+接続を一度開いてイベントが流れるようにすることは、リアルタイム収集として理想的です。
+生成されるデータの量は指数関数的に増加しており、それに伴いデータの状態は絶えず変動しています。
+開発者とユーザーは、そのデータをほぼリアルタイムで見ることができる必要があります。
 
-## How it helps
+## どのように役に立つのでしょうか
 
-Event streaming allows data changes to be communicated from source to receiver.
-Instead of waiting for services to request information, the service continuously streams all its events (or activities).
-It isn't concerned about what happens to the information.
-It just does what it needs to do and broadcasts it, thus remaining completely independent of any other service.
+イベントストリーミングにより、データの変更をソースから受信者に通信できます。
+情報を要求するためにサービスが待つ代わりに、サービスはそのすべてのイベント(または活動)を継続的にストリームします。
+情報がどうなるかについては関心を持ちません。
+必要なことを行い、それをブロードキャストするだけで、他のどのサービスとも完全に独立しています。
