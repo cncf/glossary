@@ -1,7 +1,7 @@
 ---
 title: イベントストリーミング
 status: Completed
-category: 概念
+category: コンセプト
 tags: ["方法論", "ネットワーキング", ""]
 ---
 
