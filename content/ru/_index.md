@@ -36,7 +36,8 @@ status: Completed
 Полный список участников проекта можно найти на [отдельной странице](https://github.com/cncf/glossary/graphs/contributors) на GitHub.
 
 Хранителями глоссария являются:
-- [Noah Ispas](https://www.linkedin.com/in/noah-ispas-0665b42a/); 
+- [Seokho Son](https://www.linkedin.com/in/seokho-son/);
+- [Noah Ispas](https://www.linkedin.com/in/noah-ispas-0665b42a/);
 - [Jihoon Seo](https://www.linkedin.com/in/jihoon-seo/);
 - [Nate W.](https://www.linkedin.com/in/nate-double-u/);
 - [Jorge Castro](https://www.linkedin.com/in/jorge-castro2112/).
@@ -45,6 +46,13 @@ status: Completed
 и [Jason Morgan](https://www.linkedin.com/in/jasonmorgan2/)
 являются Почетными Хранителями, и мы глубоко признательны
 за их неоценимый вклад в развитие проекта на протяжении многих лет.
+
+Русскоязычная локализация глоссария Cloud Native была инициирована
+усилиями команды Russian Localization Team, изначальный состав которой
+сформировали [Кирилл Кононович](https://github.com/kirkonru),
+[Тимур Тукаев](https://github.com/tym83) и [Дмитрий Шурупов](https://www.linkedin.com/in/shurupov/).
+Со временем свой вклад в локализацию внесли и другие контрибьюторы,
+которым мы очень благодарны и всегда рады в канале [#glossary-localization-russian](https://cloud-native.slack.com/archives/C05G46RMQTX).
 
 ## Лицензия
 
