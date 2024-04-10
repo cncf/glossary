@@ -23,7 +23,9 @@ Kubernetesは[API](/ja/application-programming-interface/)を介して拡張可�
 従来の[Infrastracture as Code](/ja/infrastructure-as-code/)ツールと同様にKubernetesは自動化を支援しますが、コンテナを用いて動作するという利点があります。
 コンテナは[仮想マシン](/ja/virtual-machine/)や物理マシンよりも設定のずれに対する耐性があります。
 
-さらにKubernetesは宣言的に動作します。つまり、オペレータがマシンに何かを行う方法を指示するのではなく、インフラストラクチャーがどのようにあるべきかを記述します。これは通常、マニフェストファイル（例えばYAML）として記述されます。
+さらにKubernetesは宣言的に動作します。
+つまり、オペレータがマシンに何かを行う方法を指示するのではなく、インフラストラクチャーがどのようにあるべきかを記述します。
+これは通常、マニフェストファイル（例えばYAML）として記述されます。
 その後、Kubernetesが実行方法の詳細を管理します。
 これにより、KubernetesはInfrastracture as Codeと非常に互換性が高くなっています。
 
