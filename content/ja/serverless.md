@@ -1,33 +1,30 @@
 ---
-Title: Serverless
+Title: サーバーレス
 Status: Completed
-Category: Technology
-tags: ["architecture", "", ""]
+Category: テクノロジー
+tags: ["アーキテクチャ", "", ""]
 ---
 
-Serverless is a cloud native development model that allows developers to 
-build and run applications without having to manage servers. 
-While servers do still exist within the serverless paradigm, they are [abstracted](/abstraction/) away from the application development process.
-A cloud provider handles the routine work of provisioning, maintaining, and [scaling](/scalability/) the server infrastructure. 
-Developers can conveniently package their code into [containers](/container/) for deployment.
-Once deployed, serverless apps respond to demand and automatically scale up and down as needed. 
-Serverless offerings from public cloud providers are usually metered on-demand through an event-driven execution model. 
-Consequently, when a serverless function is in an idle state, there are no associated costs.
+サーバーレスは、開発者がサーバーの管理を気にすることなくアプリケーションの構築と実行を可能にするクラウドネイティブの開発モデルです。
+サーバーレスパラダイム内にサーバーは存在しますが、アプリケーション開発プロセスから[抽象化](/ja/abstraction/)されています。
+クラウドプロバイダーがサーバーインフラのプロビジョニング、維持、および[スケーリング](/ja/scalability/)の日常的な作業を処理します。
+開発者は、デプロイのためにコードを[コンテナ](/ja/container/)に便利にパッケージできます。
+一度デプロイされると、サーバーレスアプリは需要に応じて自動的にスケールアップおよびダウンします。
+パブリッククラウドプロバイダーからのサーバーレスの提供は通常、イベント駆動型の実行モデルによってオンデマンドで課金されます。
+その結果、サーバーレス機能がアイドル状態にあるとき、関連するコストは発生しません。
 
-## Problem it addresses
+## 解決すべき問題はなんですか
 
-Under a standard [Infrastructure-as-a-Service (IaaS)](/infrastructure-as-a-service/) [cloud computing](/cloud-computing/) model, 
-users pre-purchase units of capacity, meaning you pay a public cloud provider for always-on server components to run your apps. 
-It’s the user’s responsibility to scale up server capacity during times of high demand and 
-to scale down when that capacity is no longer needed. 
-The cloud infrastructure required to operate an application remains active even when the application is not in use.
+標準的な[Infrastructure as a Service(IaaS)](/ja/infrastructure-as-a-service/) [クラウドコンピューティング](/ja/cloud-computing/)モデルの下では、
+ユーザーはキャパシティの単位を事前に購入します。つまり、アプリを実行するために常時稼働するサーバーコンポーネントのためにパブリッククラウドプロバイダーに支払います。
+高需要時にサーバーのキャパシティをスケールアップしたり、
+キャパシティが必要なくなったときにスケールダウンしたりするのは、ユーザーの責任です。
+アプリケーションが使用されていないときであっても、アプリケーションを運用するために必要なクラウドインフラストラクチャーはアクティブなままです。
 
-## How it helps
+## どのように役に立つのでしょうか
 
-Contrasting with traditional approaches, the serverless architecture launches applications only when they are needed. 
-When an event triggers app code to run, the public cloud provider dynamically allocates resources for that code. 
-The user stops paying when the code finishes executing. 
-In addition to the cost and efficiency benefits, 
-serverless frees developers from routine and menial tasks associated with app scaling and server provisioning. 
-With serverless, routine tasks such as managing the operating system and file system, security patches, 
-load balancing, capacity management, scaling, logging, and monitoring are all offloaded to a cloud services provider.
+従来のアプローチとは対照的に、サーバーレスアーキテクチャは必要なときにのみアプリケーションを起動します。
+イベントがアプリコードの実行をトリガーすると、パブリッククラウドプロバイダーは、そのコードのためのリソースを動的に割り当てます。
+コードの実行が終了すると、ユーザーは支払いを停止します。
+コストと効率の利点に加えて、サーバーレスは開発者をアプリのスケーリングとサーバーのプロビジョニングに関連する日常的で単調なタスクから解放します。
+サーバーレスを使用すると、オペレーティングシステムとファイルシステムの管理、セキュリティパッチ、ロードバランシング、キャパシティ管理、スケーリング、ログ、監視などの日常的なタスクは、すべてクラウドサービスプロバイダーに委ねられます。
