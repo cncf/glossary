@@ -15,7 +15,7 @@ tags: ["アーキテクチャ", "", ""]
 
 ## 解決すべき問題はなんですか
 
-標準的な[Infrastructure as a Service(IaaS)](/ja/infrastructure-as-a-service/)の[クラウドコンピューティング](/ja/cloud-computing/)モデルでは、
+標準的な[Infrastructure as a Service (IaaS)](/ja/infrastructure-as-a-service/)の[クラウドコンピューティング](/ja/cloud-computing/)モデルでは、
 ユーザーはキャパシティの単位を事前に購入します。
 つまり、アプリを実行するために常時稼働するサーバーコンポーネントのためにパブリッククラウドプロバイダーに支払います。
 高需要時にサーバーのキャパシティをスケールアップしたり、キャパシティが必要なくなったときにスケールダウンしたりするのは、ユーザーの責任です。
