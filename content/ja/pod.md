@@ -2,7 +2,7 @@
 title: Pod
 status: Completed
 category: コンセプト
-tags: ["インフラストラクチャー", "基礎", ""]
+tags: ["インフラストラクチャ", "基礎", ""]
 ---
 
 [Kubernetes](/ja/kubernetes/)環境の中では、Podは最も基本的なデプロイ可能ユニットとして機能します。
