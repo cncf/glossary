@@ -132,11 +132,19 @@ weight = 9
 [languages.pt-br.params]
 description = "O Projeto CNCF Glossário Cloud Native se destina a ser usado como uma referência para termos comuns usados ao falar sobre aplicações nativas de nuvem."
 
+[languages.ru]
+contentDir = "content/ru"
+languageName = "Русский (Russian)"
+title = "Глоссарий Cloud Native"
+weight = 10
+[languages.ru.params]
+description = "Глоссарий Cloud Native — справочник по общим терминам, имеющим отношение к нативным облачным приложениям и технологиям. Разрабатывается фондом CNCF."
+
 [languages.zh-cn]
 contentDir = "content/zh-cn"
 languageName = "简体中文 (Simplified Chinese)"
 title = "Cloud Native(云原生) Glossary"
-weight = 10
+weight = 11
 [languages.zh-cn.params]
 description = "CNCF 云原生 Glossary 项目旨在用作讨论云原生应用程序时常用术语的参考"
 
@@ -144,7 +152,7 @@ description = "CNCF 云原生 Glossary 项目旨在用作讨论云原生应用�
 contentDir = "content/es"
 languageName = "Español (Spanish)"
 title = "Cloud Native Glosario"
-weight = 11
+weight = 12
 [languages.es.params]
 description = "El proyecto de CNCF Cloud Native Glosario pretende ser usado como una referencia para los terminos comunes usados cuando se habla acerca de las aplicaciones nativas para la nube."
 
@@ -152,7 +160,7 @@ description = "El proyecto de CNCF Cloud Native Glosario pretende ser usado como
 contentDir = "content/zh-tw"
 languageName = "繁體中文 (Traditional Chinese)"
 title = "Cloud Native(雲端原生) Glossary"
-weight = 12
+weight = 13
 [languages.zh-tw.params]
 description = "CNCF 雲端原生 Glossary 專案旨在用作討論雲端原生應用程式時常用術語的參考"
 
@@ -160,7 +168,7 @@ description = "CNCF 雲端原生 Glossary 專案旨在用作討論雲端原生�
 title = "Cloud Native Sözlüğü"
 languageName ="Türkçe (Turkish)"
 contentDir = "content/tr"
-weight = 13
+weight = 14
 [languages.tr.params]
 description = "CNCF Cloud Native Sözlüğü projesi, cloud native uygulamalardan bahsederken kullanılan yaygın terimler için bir referans olarak kullanılmak üzere tasarlanmıştır."
 
@@ -168,7 +176,7 @@ description = "CNCF Cloud Native Sözlüğü projesi, cloud native uygulamalarda
 contentDir = "content/ur"
 languageName = "اردو (Urdu)"
 title = "کلاؤڈ کی مقامی لغت"
-weight = 14
+weight = 15
 [languages.ur.params]
 description = "CNCF کلاؤڈ کی مقامی لغت کا مقصد کلاؤڈ مقامی ایپلی کیشنز کے بارے میں بات کرتے وقت استعمال ہونے والی عام اصطلاحات کے حوالے کے طور پر استعمال کرنا ہے۔"
 
