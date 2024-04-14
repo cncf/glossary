@@ -5,8 +5,6 @@ category: conceito
 tags: ["arquitetura", "", ""]
 ---
 
-## O que é
-
 Os microsserviços têm uma abordagem moderna para o desenvolvimento de aplicações que aproveita as tecnologias nativas da nuvem. 
 Embora as aplicações modernas, como a Netflix, pareçam ser uma única aplicação, elas são na verdade uma coleção de serviços menores - todos trabalhando em colaboração. 
 Por exemplo, uma única página que permite acessar, pesquisar e visualizar vídeos provavelmente é alimentada por serviços menores que lidam com um aspecto (por exemplo, pesquisa, autenticação e execução de visualizações no seu navegador). 

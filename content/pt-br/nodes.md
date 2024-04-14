@@ -5,8 +5,6 @@ category: conceito
 tags: ["infraestrutura", "fundamento", ""]
 ---
 
-## O que é
-
 Um nó é um computador que trabalha em conjunto com outros computadores, ou nós, para realizar uma tarefa comum. 
 Pegue seu laptop, modem e impressora, por exemplo. 
 Eles estão todos conectados pela sua rede wifi se comunicando e colaborando, cada um representando um nó. 

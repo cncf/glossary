@@ -5,8 +5,6 @@ Category: tecnologia
 tags: ["descontinuado", "", ""]
 ---
 
-## O que é
-
 O Software como Serviço (do inglês *Software as a service* - SaaS) permite que os usuários se conectem e usem serviços baseados em nuvem. Exemplos comuns são as ferramentas de e-mail, de calendário e de escritório (como Gmail, Amazon Web Services, GitHub, Slack). O SaaS fornece soluções completas de software com base de pagamento conforme o uso. Todas as tarefas de operações e manutenção, e dados do aplicativo, são tratadas pelo provedor de serviços.
 
 ## Problema relacionado
