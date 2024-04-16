@@ -5,30 +5,24 @@ category: Technology
 tags: ["infrastructure", "", ""]
 ---
 
-Function as a Service (FaaS) is a type of [serverless](/serverless/) [cloud computing](/cloud-computing/) [service](/service/) 
-that allows executing code in response to events 
-without maintaining the complex infrastructure 
-typically associated with building and launching [microservices](/microservices/) applications. 
-With FaaS, users manage only functions and data while the cloud provider manages the application. 
-This allows developers to get the functions they need without paying for services when code isn’t running.  
+Function as a Service (FaaS) is a cloud computing model that provides a platform for executing event-triggered functions, allowing for automatic scaling without manual intervention.
+At its essence, FaaS enables the deployment of individual functions that are activated by specific events, operate on a short-term basis, and then shut down, ensuring resources are not wasted.
+This model supports an [autoscaling](/auto-scaling/) feature, enabling a function instance to be initiated per request and terminated post-execution, emphasizing its stateless nature.
+Consequently, FaaS platforms can implement a true pay-as-you-go billing approach, eliminating costs when functions are dormant, distinguishing it from other models like [Platform as a Service (PaaS)](/platform-as-a-service/), which require continuous resource availability.
 
 ## Problem it addresses
 
-In a traditional on-premises scenario, a business manages and maintains its own data center. 
-The business must invest in servers, storage, software, and other technologies 
-and potentially hire an IT staff or contractors to purchase, manage, and upgrade all the equipment and licenses. 
-The data center has to be built to meet peak demand, even when workloads decline and those resources stand idle. 
-Conversely, if the business grows quickly, the IT department might struggle to keep up. 
-Under a standard [Infrastructure-as-a-Service (IaaS)](/infrastructure-as-a-service/) cloud computing model, 
-users pre-purchase capacity units, meaning you pay a public cloud provider for always-on server components to run your apps. 
-It’s the user’s responsibility to scale up server capacity during times of high demand 
-and scale down when that capacity is no longer needed. 
-The cloud infrastructure necessary to run an app is active even when the app isn’t being used.
+Traditionally, businesses have relied on maintaining on-premises data centers, necessitating substantial investment in hardware, software, and personnel.
+This setup demands resources to be scaled to peak demand, resulting in underutilized assets during downtime.
+Moreover, rapid business growth can overwhelm IT capabilities, leading to operational inefficiencies.
+In contrast, [Infrastructure-as-a-Service (IaaS)](/infrastructure-as-a-service/) models, while offering cloud-based solutions, still place the onus of scaling resources on the user, requiring payment for continuous server availability irrespective of actual usage.
 
 ## How it helps
 
-FaaS gives developers an [abstraction](/abstraction/) for running web applications in response to events without managing servers. 
-For example, uploading a file could trigger custom code that transcodes the file into various formats. 
-FaaS infrastructure will auto-scale the code for heavy use, 
-and the developer does not have to spend any time or resources building the code for [scalability](/scalability/). 
-Billing is based on computation time alone, which means businesses do not have to pay when the functions are not in use.
+FaaS gives developers an [abstraction](/abstraction/) for running web applications in response to events, eliminating the need to manage server infrastructure.
+For example, an action such as uploading a file could trigger custom code that transcodes the file into various formats.
+The FaaS infrastructure automatically adjusts resources to match demand, freeing developers from the complexities of coding for [scalability](/scalability/).
+Charges apply solely for the duration of computation, ensuring no costs accrue when functions are inactive.
+	
+For more information, refer to the [Serverless](/serverless/) glossary entry.
+Although "serverless" and "FaaS" are often used as interchangeable terms, they embody distinct concepts.

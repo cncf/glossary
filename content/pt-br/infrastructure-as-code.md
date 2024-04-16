@@ -5,8 +5,6 @@ category: conceito
 tags: ["infraestrutura", "metodologia", ""]
 ---
 
-## O que é
-
 Infraestrutura como código é a prática de armazenar a definição da infraestrutura como um ou mais arquivos. Isso substitui o modelo tradicional em que a infraestrutura como serviço era provisionada manualmente, geralmente por meio de scripts shell ou outras ferramentas de configuração.
 
 ## Problema relacionado

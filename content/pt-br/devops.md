@@ -5,8 +5,6 @@ category: conceito
 tags: ["metodologia", "", ""]
 ---
 
-## O que é
-
 DevOps é uma metodologia em que times são responsáveis por todo o processo desde o desenvolvimento da aplicação até a operação em produção, por isso o nome DevOps (Dev e Ops).
 Esta metodologia vai além da implementação de um conjunto de tecnologias, requer uma mudança profunda na cultura e nos processos. Além disso, DevOps orienta que o trabalho dos times seja focado em pequenos componentes (ao invés de uma funcionalidade completa), diminuindo as tranferências de responsabilidade ( _handoffs_ ), que são uma fonte comum de erros.
 

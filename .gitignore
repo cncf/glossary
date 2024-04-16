@@ -4,6 +4,7 @@ resources/
 node_modules/
 .hugo_build.lock
 .DS_Store
+pagefind
 
 # Local Netlify folder
 .netlify
