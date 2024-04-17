@@ -5,7 +5,7 @@ category: Concept
 tags: ["réseau", "", ""]
 ---
 
-La découverte de services est le processus permettant de découvrir les instances individuelles qui composent un service.
+La découverte de services est le processus permettant de découvrir les différentes instances qui composent un service.
 Un outil de découverte de service garde une trace des différents nœuds ou points de terminaison qui constituent un service.
 
 ## Problème auquel il répond
@@ -18,5 +18,5 @@ toute application qui souhaite la trouver aura besoin d'un outil qui lui fournir
 ## Quel en est l'utilité
 
 Le mécanisme de découverte de services garde une trace des applications au sein du réseau afin qu'elles puissent se trouver mutuellement en cas de besoin.
-Il fournit une méthode courante pour trouver et potentiellement identifier les services individuels.
+Il fournit une méthode simple pour trouver et potentiellement identifier les services individuels.
 Les moteurs de découverte de services sont des outils semblables à des bases de données qui stockent les informations sur les services existants et comment les localiser.
