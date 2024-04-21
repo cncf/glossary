@@ -1,6 +1,6 @@
 ---
 title: Contineous Integration
-status: Feedback erwünscht
+status: Completed
 category: Konzept
 ---
 
