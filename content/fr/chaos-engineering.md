@@ -5,7 +5,7 @@ category: concept
 tags: ["méthodologie", "", ""]
 ---
 
-L'ingénierie du chaos (Chaos Engineering ou CE en anglais) est la discipline qui consiste à expérimenter sur un [système distribué](/fr/distributed-systems/) en production
+L'ingénierie du chaos (Chaos Engineering ou CE en anglais) est la discipline qui consiste à éprouver un [système distribué](/fr/distributed-systems/) en production
 afin de renforcer la confiance dans la capacité du système à résister à des conditions turbulentes et inattendues.
 
 ## Problème auquel il répond
