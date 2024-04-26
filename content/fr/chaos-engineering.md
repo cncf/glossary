@@ -25,7 +25,7 @@ peut entraîner une forte probabilité d'indisponibilité et d'incident critique
 L'ingénierie du chaos est une technique permettant de répondre aux exigences de résilience.
 Elle est utilisée pour assurer la résilience contre les défaillances de l'infrastructure, de la plateforme et de l'application.
 Les ingénieurs du chaos utilisent des tests de chaos afin d'injecter de manière proactive des défaillances aléatoires
-pour vérifier qu'une application, une infrastructure ou une plateforme peut s'auto-réparer et que la défaillance n'a pas d'impact perceptible sur les clients.
+pour vérifier qu'une application, une infrastructure ou une plateforme peut s'auto-réparer et que la défaillance n'a pas d'impact perceptible pour les utilisateurs.
 Les expériences de chaos visent à découvrir les angles morts
 (par exemple sur les techniques de supervision ou de mise à l'échelle automatique) et d'améliorer la communication entre les équipes lors d'incidents critiques.
 Cette approche permet d'accroître la résilience et la confiance de l'équipe dans des systèmes complexes, en particulier de production.
