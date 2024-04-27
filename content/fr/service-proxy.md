@@ -5,7 +5,7 @@ category: technology
 tags: ["réseau", "", ""]
 ---
 
-Un proxy de service intercepte le trafic vers ou depuis un [service](/service/fr/) donné,
+Un proxy de service intercepte le trafic vers ou depuis un [service](/fr/service/) donné,
 lui applique une certaine logique, puis transmet ce trafic à un autre service.
 Il agit essentiellement comme un "intermédiaire" qui collecte des informations sur le trafic réseau et/ou lui applique des règles.
 
