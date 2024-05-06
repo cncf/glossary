@@ -12,7 +12,7 @@ Il existe des similitudes avec le [DevOps](/fr/devops/), mais tandis que le DevO
 
 ## Problème auquel il répond
 
-Garantir le fonctionnement [fiable] (/fr/reliability/) des applications requiert de nombreuses capacités,
+Garantir le fonctionnement [fiable](/fr/reliability/) des applications requiert de nombreuses capacités,
 de la surveillance des performances à la gestion des alertes, du débogage au dépannage.
 Sans ces capacités, les opérateurs de systèmes ne peuvent que réagir aux problèmes au lieu de travailler de manière proactive pour les éviter
 — Les indisponibilités ne sont plus qu'une question de temps.
