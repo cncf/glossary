@@ -32,7 +32,7 @@ Como operan dentro del espacio del kernel, las extensiones del kernel de Linux p
 
 Además, las extensiones del kernel tienen privilegios elevados y acceso directo a los recursos del sistema. Y si no están adecuadamente aseguradas, los atacantes pueden explotarlas.
 
-## Cómo ayuda
+## ¿Cómo ayuda?
 eBPF proporciona un entorno más controlado y contenido para ejecutar programas definidos por el usuario que las extensiones del kernel de Linux.
 Se ejecuta en un entorno aislado dentro del kernel, proporcionando aislamiento y mitigando riesgos. 
 Si se explota una vulnerabilidad o defecto en un programa eBPF, su impacto generalmente se limita al entorno aislado.
