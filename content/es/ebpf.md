@@ -10,8 +10,8 @@ eBPF, o Filtro de Paquetes Berkeley Extendido, es una tecnología que permite qu
 Un sistema Linux tiene dos espacios: el kernel y el espacio de usuario. 
 El kernel representa el sistema operativo y es la única parte con acceso ilimitado al hardware. 
 
-Las aplicaciones quedan en el espacio de usuario y, cuando necesitan permisos más elevados, envían una solicitud al kernel.
-
+Las aplicaciones quedan en el espacio de usuario y, cuando necesitan permisos más elevados,
+envían una solicitud al kernel.
 Para aplicaciones que requieren más flexibilidad, como el acceso directo al hardware, el kernel puede ser extendido mediante lo que se conoce como el enfoque de "extensiones del kernel de Linux". Este enfoque amplía la funcionalidad predeterminada del kernel, permitiendo a las aplicaciones un acceso más profundo a los componentes básicos. 
 
 Sin embargo, este enfoque también introduce riesgos de seguridad, lo que hace que eBPF sea una alternativa atractiva.
