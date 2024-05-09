@@ -1,5 +1,5 @@
 ---
-title: Applications sans état (Stateful Apps)
+title: Applications avec état (Stateful Apps)
 status: Completed
 category: Property
 tags: ["fondamental", "application", "propriété"]
