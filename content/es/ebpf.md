@@ -37,4 +37,4 @@ Además, antes de que un programa eBPF pueda comenzar a ejecutarse en el kernel,
 El componente verificador verifica el programa eBPF en busca de posibles violaciones de seguridad,
 como el acceso a memoria fuera de límites, ciclos infinitos y funciones del kernel no autorizadas.
 De esta manera, asegura que el programa no entre en un ciclos infinitos y provoque un fallo del kernel.
-Estos controles de seguridad hacen que eBPF sea una opción más segura para ejecutar aplicaciones en el kernel de Linux que las extensiones del kernel de Linux.
+Estos controles de seguridad hacen que eBPF sea una opción más segura para ejecutar aplicaciones en el kernel Linux que los módulos del kernel Linux.
