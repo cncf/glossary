@@ -30,7 +30,7 @@ Como operan dentro del espacio del kernel, los módulos del kernel Linux pueden 
 Además, los módulos del kernel tienen privilegios elevados y acceso directo a los recursos del sistema. Y si no están adecuadamente aseguradas, los atacantes pueden explotarlas.
 
 ## ¿Cómo ayuda?
-eBPF proporciona un entorno más controlado y contenido para ejecutar programas definidos por el usuario que las extensiones del kernel de Linux.
+eBPF proporciona un entorno más controlado y contenido para ejecutar programas definidos por el usuario que los módulos del kernel Linux.
 Se ejecuta en un entorno aislado dentro del kernel, proporcionando aislamiento y mitigando riesgos. 
 Si se explota una vulnerabilidad o defecto en un programa eBPF, su impacto generalmente se limita al entorno aislado.
 Además, antes de que un programa eBPF pueda comenzar a ejecutarse en el kernel, debe pasar por algunas verificaciones. 
