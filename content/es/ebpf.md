@@ -5,7 +5,7 @@ category: Tecnología
 tags: ["arquitectura", "redes", "seguridad"]
 ---
 
-eBPF, o "extended Berkeley Packet Filter", es una tecnología que permite a pequeños programas o scripts aislados ejecutarse en el espacio del kernel de un sistema Linux sin necesidad de cambiar el código fuente ni cargar módulos al kernel de Linux.
+eBPF, o "extended Berkeley Packet Filter", es una tecnología que permite a pequeños programas o scripts aislados ejecutarse en el espacio del kernel de un sistema Linux sin necesidad de cambiar el código fuente ni cargar módulos al kernel Linux.
 
 Un sistema Linux tiene dos espacios: el de kernel y el de usuario. 
 El kernel representa el sistema operativo y es la única parte
