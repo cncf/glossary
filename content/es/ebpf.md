@@ -25,7 +25,7 @@ lo solicita al kernel a través de una llamada al sistema conocida como "system 
 En la mayoría de los casos, este enfoque funciona bien. Sin embargo, hay casos en los que los desarrolladores requieren más flexibilidad para acceder al sistema a nivel bajo.
 La observabilidad, la seguridad y las redes son buenos ejemplos.
 Para lograrlo, podemos utilizar módulos del kernel Linux, ampliando la base del kernel sin modificar el código principal del kernel. 
-Si bien hay beneficios en el uso de extensiones del kernel de Linux, también introduce riesgos de seguridad. 
+Si bien hay beneficios en el uso de módulos del kernel Linux, también introduce riesgos de seguridad. 
 Como operan dentro del espacio del kernel, las extensiones del kernel de Linux pueden hacer que el kernel falle y, cuando el kernel falla, también lo hace toda la máquina.
 Además, las extensiones del kernel tienen privilegios elevados y acceso directo a los recursos del sistema. Y si no están adecuadamente aseguradas, los atacantes pueden explotarlas.
 
