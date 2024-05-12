@@ -21,7 +21,7 @@ Sin embargo, este enfoque también introduce riesgos de seguridad, lo que hace q
 
 ## Problema que soluciona
 Típicamente, las aplicaciones se ejecutan en el espacio de usuario y, si la aplicación requiere algunos privilegios del kernel (por ejemplo, para acceder a algún hardware),
-lo solicita al kernel a través de una llamada al sistema conocida como "llamada al sistema".  
+lo solicita al kernel a través de una llamada al sistema conocida como "system call".  
 En la mayoría de los casos, este enfoque funciona bien. Sin embargo, hay casos en los que los desarrolladores requieren más flexibilidad para acceder al sistema a nivel bajo.
 La observabilidad, la seguridad y las redes son buenos ejemplos.
 Para lograrlo, podemos utilizar módulos del kernel Linux, ampliando la base del kernel sin modificar el código principal del kernel. 
