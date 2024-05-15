@@ -122,6 +122,15 @@ collaborators:
   - username: arezk84
     permission: push
 
+  - username: mboukhalfa
+    permission: push
+
+  - username: seifrajhi
+    permission: push
+
+  - username: adowair
+    permission: push
+
   # l10n bn approvers
   - username: Arindam200
     permission: push
