@@ -13,7 +13,7 @@ the likelihood of conflicting changes and the need for interpersonal communicati
 
 ## Problem it Addresses
 
-Devolving an application into [microservices](/microservices/) increases its operational overhead 
+Devolving an application into [microservices](/microservices-architecture/) increases its operational overhead 
 — there are more things to test, deploy, and keep running. 
 Early in a product’s lifecycle, it may be advantageous to defer this complexity and build a monolithic application 
 until the product is determined successful.
