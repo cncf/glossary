@@ -5,7 +5,7 @@ category: ["methodology", "platform"]
 ---
 
 Platform engineering is the art of building tools and processes that empower software developers.  
-It's like creating a self-service station specifically designed to meet developers needs throughout the 
+It's like creating a self-service station specifically designed to meet developers' needs throughout the 
 software creation journey. By providing these tools and workflows, platform engineering helps developers 
 to work faster and more efficiently.
 
