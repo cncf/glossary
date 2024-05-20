@@ -12,4 +12,4 @@ Voici un exemple :
 Lorsque vous utilisez un moteur de recherche et que cette recherche est interrompue (par exemple, la fenêtre est fermée), les résultats de recherche sont perdus.
 Vous devrez tout recommencer.
 
-En revanche, les applications qui traitent les requêtes en tenant compte des interactions précédentes sont appelées [applications avec état](/fr/stateful-apps/).
+En revanche, les applications qui traitent les requêtes en tenant compte des interactions précédentes sont appelées [applications avec état](/fr/stateful-apps/) (stateful).
