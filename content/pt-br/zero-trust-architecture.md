@@ -5,8 +5,6 @@ category: conceito
 tags: ["segurança", "", ""]
 ---
 
-## O que é
-
 A arquitetura de confiança zero (do inglês "Zero trust architecture") prescreve uma abordagem para o projeto e implementação de sistemas de TI onde a confiança é completamente removida. O princípio central é "nunca confie, sempre verifique", dispositivos ou sistemas em si, enquanto se comunicam com outros componentes de um sistema, sempre se verificam antes de fazê-lo. Atualmente, em muitas redes, dentro da rede corporativa, os sistemas e dispositivos internos podem se comunicar livremente uns com os outros, pois estão dentro do perímetro confiável da rede corporativa. A arquitetura de confiança zero adota a abordagem oposta, que, embora dentro do perímetro da rede, os componentes dentro do sistema primeiro precisam passar pela verificação antes que qualquer comunicação seja feita.
 
 ## Problema relacionado
