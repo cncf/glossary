@@ -1,5 +1,5 @@
 ---
-title: Distributed Apps
+title: Распределенные приложения
 status: Completed
 category: concept
 tags: ["architecture", "", ""]
