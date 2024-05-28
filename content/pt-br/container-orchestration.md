@@ -6,7 +6,7 @@ category: conceito
 
 
 Orquestração de [Contêiners](/pt-br/container/) refere-se à gestão e automatização do ciclo de vida de aplicativos [contêinerizados](/pt-br/containerization/) em ambientes dinâmicos. 
-É executado através de um Orquestrador de Contêiners ([Kubernetes](/kubernetes) na maioria dos casos). Plataformas que possibilitam e facilitam a implantação controlada de multiplos aplicativos,  o seu [escalonamento](/pt-br/scalability/) automatizado, a recuperação automática em caso de falha e monitoramento.
+É executado através de um Orquestrador de Contêiners ([Kubernetes](/pt-br/kubernetes) na maioria dos casos). Plataformas que possibilitam e facilitam a implantação controlada de multiplos aplicativos,  o seu [escalonamento](/pt-br/scalability/) automatizado, a recuperação automática em caso de falha e monitoramento.
 A utilização do termo Orquestração serve neste contexto como metáfora para descrever o papel deste tipo de ferramenta na condução dos varios elementos, normalmente de natureza distribuída, como se fosse um verdadeiro maestro, onde cada contêiner se comporta como um músico da orquestra. 
 
 ## Problema relacionado
