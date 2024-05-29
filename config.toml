@@ -166,7 +166,7 @@ description = "CNCF 雲端原生 Glossary 專案旨在用作討論雲端原生�
 
 [languages.tr]
 title = "Cloud Native Sözlüğü"
-languageName ="Türkçe (Turkish)"
+languageName = "Türkçe (Turkish)"
 contentDir = "content/tr"
 weight = 14
 [languages.tr.params]
@@ -190,11 +190,16 @@ style = "tango"
 # Uncomment if you want your chosen highlight style used for code blocks without a specified language
 # guessSyntax = "true"
 
+[outputFormats.json]
+mediaType = "application/json"
+baseName = "index"
+
 # Everything below this are Site Params
 
 # Comment out if you don't want the "print entire section" link enabled.
-# [outputs]
+[outputs]
 # section = ["HTML", "print", "RSS"]
+home = ["HTML", "json"]
 
 [params]
 copyright = "The Linux Foundation®"

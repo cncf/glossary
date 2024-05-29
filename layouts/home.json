@@ -1,0 +1,15 @@
+{{- $.Scratch.Add "glossary" slice -}}
+
+{{- range .Pages -}}
+  {{- $.Scratch.Add "glossary"
+    (dict
+      "title" .Title
+      "title_en" (site.Sites.First.GetPage .File.Path).Title
+      "uri" .RelPermalink
+      "content" .Plain
+      "lastmod" .Lastmod
+      "category" .Params.category
+      "tags" .Params.tags) -}}
+{{- end -}}
+
+{{- $.Scratch.Get "glossary" | jsonify -}}
