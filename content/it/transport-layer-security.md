@@ -1,10 +1,9 @@
 ---
-title: TLS
+title: Transport Layer Security (TLS)
 status: Completed
 category: Concetto
+tags: ["sicurezza", "networking", ""]
 ---
-
-## Cos'è
 
 Il _Transport Layer Security_ (TLS) è un protocollo progettato per fornire maggiore sicurezza alla comunicazione su una rete. Garantisce la consegna sicura dei dati inviati su Internet, evitando possibili monitoraggi e/o alterazioni dei dati stessi. Questo protocollo è ampiamente utilizzato in applicazioni come messaggistica, e-mail, ecc.
 
