@@ -1,4 +1,4 @@
-add
+Add
 Agreement
 Amazon
 an
@@ -22,6 +22,7 @@ bare
 based
 becoming
 Benavides
+Berkeley
 blob
 blue
 branch
@@ -32,6 +33,7 @@ BVS
 BY
 CaaS
 calendar
+call
 Canary
 CAPEX
 Carol
@@ -95,6 +97,7 @@ directly
 Docs
 draft
 Dropbox
+eBPF
 edit
 ej
 empoderen
@@ -113,6 +116,7 @@ externalizar
 FaaS
 faltantes
 Feedback
+Filter
 Finance
 Firewall
 first
@@ -215,6 +219,7 @@ on-premises
 Open
 PaaS
 PaC
+packet
 Paganini
 platform
 Política
@@ -264,7 +269,7 @@ sobreescriba
 Sockets
 Spanish
 spell
-SRE
+sre
 SSL
 stack
 Started
@@ -276,6 +281,7 @@ submitting
 subrúbricas
 Subversion
 supercomputadoras
+system
 tags
 TCP
 technology
