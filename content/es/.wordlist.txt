@@ -1,4 +1,3 @@
-Here's the updated list with the words you provided added in alphabetical order:
 
 Agreement
 Amazon
@@ -34,9 +33,9 @@ BVS
 BY
 CaaS
 calendar
+call
 Canary
 CAPEX
-call
 Carol
 category
 Catherine
@@ -98,9 +97,9 @@ directly
 Docs
 draft
 Dropbox
+eBPF
 edit
 ej
-eBPF
 empoderen
 encriptados
 Engine
@@ -117,8 +116,8 @@ externalizar
 FaaS
 faltantes
 Feedback
-Finance
 Filter
+Finance
 Firewall
 first
 fix
@@ -140,6 +139,7 @@ González
 good
 Google
 help
+Here's the updated list with the words you provided added in alphabetical order:
 Heroku
 hide
 hipervisor
@@ -220,8 +220,8 @@ on-premises
 Open
 PaaS
 PaC
-Paganini
 packet
+Paganini
 platform
 Política
 portable
