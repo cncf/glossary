@@ -1,4 +1,5 @@
-add
+Here's the updated list with the words you provided added in alphabetical order:
+
 Agreement
 Amazon
 an
@@ -22,6 +23,7 @@ bare
 based
 becoming
 Benavides
+Berkeley
 blob
 blue
 branch
@@ -34,6 +36,7 @@ CaaS
 calendar
 Canary
 CAPEX
+call
 Carol
 category
 Catherine
@@ -97,6 +100,7 @@ draft
 Dropbox
 edit
 ej
+eBPF
 empoderen
 encriptados
 Engine
@@ -114,6 +118,7 @@ FaaS
 faltantes
 Feedback
 Finance
+Filter
 Firewall
 first
 fix
@@ -216,6 +221,7 @@ Open
 PaaS
 PaC
 Paganini
+packet
 platform
 Política
 portable
@@ -264,7 +270,7 @@ sobreescriba
 Sockets
 Spanish
 spell
-SRE
+sre
 SSL
 stack
 Started
@@ -276,6 +282,7 @@ submitting
 subrúbricas
 Subversion
 supercomputadoras
+system
 tags
 TCP
 technology
