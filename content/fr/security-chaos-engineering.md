@@ -8,14 +8,14 @@ tags: ["sécurité", "méthodologie", ""]
 La sécurité par l'ingénierie du chaos, ou SCE (Security Chaos Engineering en anglais), est une discipline basée sur l'[ingénierie du chaos](/fr/chaos-engineering/).
 La SCE réalise des tests de sécurité proactifs sur un système distribué
 pour accroître la confiance dans la capacité du système à faire face à des conditions instables et malveillantes.
-Les ingénieurs en sécurité du chaos utilisent en boucles des méthodes scientifique pour y parvenir,
+Les ingénieurs en sécurité du chaos utilisent, en boucle, des méthodes scientifiques pour y parvenir,
 comme la définition de l'état d'équilibre (steady-state), d'hypothèses, l'amélioration continue, l'apprentissage et la mise en œuvre de mesures d'atténuation.
 
 ## Problème auquel cela répond
 
 La principale priorité des ingénieurs en fiabilité des sites et des ingénieurs en cybersécurité est
 de rétablir le service le plus rapidement possible dans le but d'avoir un temps d'indisponibilité nul et de minimiser l'impact client.
-Les ingénieurs en fiabilité des sites et en cybersécurité gèrent à la fois les incidents avant et après la défaillance..
+Les ingénieurs en fiabilité des sites et en cybersécurité gèrent à la fois les incidents avant et après la défaillance.
 La plupart des problèmes de sécurité sont difficiles à découvrir et à corriger rapidement, ce qui affecte les fonctionnalités de l'application ou du système.
 De plus, les incidents de sécurité sont généralement difficiles à détecter pendant la phase de développement.
 
