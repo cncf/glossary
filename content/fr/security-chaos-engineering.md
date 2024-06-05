@@ -22,12 +22,12 @@ De plus, les incidents de sécurité sont généralement difficiles à détecter
 ## Quelle en est l’utilité
 
 La sécurité par l'ingénierie du chaos est construite autour des pratiques d'[observabilité](/fr/observability/) et de cyber-résilience.
-Elle vise à découvrir les "inconnus inconnus" et à renforcer la confiance dans le système,
+Elle vise à découvrir ce que l'on ne sait pas (unknown unknowns) et à renforcer la confiance dans le système,
 augmentant ainsi la cyber-résilience et améliorant l'observabilité.
 
 Les équipes d'ingénierie amélioreront progressivement la compréhension des problèmes de sécurité
 au sein d'infrastructures complexes, de plates-formes et de systèmes distribués.
 La SCE améliore la cyber-résilience de l'ensemble du produit, révèle des problèmes de sécurité cachés,
 expose les angles morts classiques et prépare les équipes aux cas critiques.
-Cette approche aide les ingénieurs en [SREs](/fr/site-reliability-engineering/), en [DevOps](/fr/devops/) et [DevSecOps](/fr/devsecops/)
+Cette approche aide les ingénieurs [SREs](/fr/site-reliability-engineering/), [DevOps](/fr/devops/) et [DevSecOps](/fr/devsecops/)
 à créer de la confiance dans le système, à augmenter la cyber-résilience et à améliorer l'observabilité.
