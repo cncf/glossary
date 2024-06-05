@@ -22,7 +22,7 @@ De plus, les incidents de sécurité sont généralement difficiles à détecter
 ## Quelle en est l’utilité
 
 La sécurité par l'ingénierie du chaos est construite autour des pratiques d'[observabilité](/fr/observability/) et de cyber-résilience.
-Elle vise à découvrir les "inconnus inconnus" et à renforcer la confiance dans le système,
+Elle vise à découvrir les "inconnus inconnues" et à renforcer la confiance dans le système,
 augmentant ainsi la cyber-résilience et améliorant l'observabilité.
 
 Les équipes d'ingénierie amélioreront progressivement la compréhension des problèmes de sécurité
