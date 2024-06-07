@@ -2,10 +2,8 @@
 title: হাইপারভাইজার (Hypervisor)
 status: Feedback Appreciated
 category: প্রযুক্তি
-tags: ["application", "", ""]
+tags: ["অ্যাপ্লিকেশন", "", ""]
 ---
-
-## এটা কি
 
 একটি হাইপারভাইজার [বেয়ার মেটাল মেশিন (bare metal machine)](/bn/bare-metal-machine/) সম্পদ (সিপিইউ (CPU), স্মৃতি (Memory), অন্তর্জাল (Network) এবং সঞ্চয়স্থান (Storage)) এর সুবিধা গ্রহণ করে [ভার্চুয়ালাইজেশন (virtualization)](/bn/virtualization/) সক্ষম করে, সেগুলিকে উপ-অংশে ভাগ করে এবং অন্তর্নিহিত হোস্ট (host) তার কর্মক্ষমতা সীমাতে না পৌঁছা পর্যন্ত [ভার্চুয়াল মেশিন (Virtual Machine (VM))](/bn/virtual-machine/) তৈরি করার জন্য সেই অনুযায়ী সংস্থান বরাদ্দ করে।
 

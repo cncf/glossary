@@ -5,31 +5,28 @@ Category: Technology
 tags: ["architecture", "", ""]
 ---
 
-## What it is
 
-Serverless is a cloud native development model that allows developers to 
-build and run applications without having to manage servers. 
-There are still servers in serverless, but they are [abstracted](/abstraction/) away from app development. 
-A cloud provider handles the routine work of provisioning, maintaining, and [scaling](/scalability/) the server infrastructure. 
-Developers can simply package their code in [containers](/container/) for deployment. 
-Once deployed, serverless apps respond to demand and automatically scale up and down as needed. 
-Serverless offerings from public cloud providers are usually metered on-demand through an event-driven execution model. 
-As a result, when a serverless function is sitting idle, it doesn’t cost anything.
+Serverless Computing [abstracts](/abstraction/) servers away from the user.
+Operational management falls to the service provider, including handling physical machines and VM provisioning.
+Service providers can be public cloud entities or internal IT departments serving their development teams.
+These providers offer user interfaces such as SDKs, CLIs, or OCI-compliant runtimes, focusing on code and deployment tasks.
+Charges are based on a pay-per-use model.
+[Scaling](/scalability/) and resource provisioning for computing, storage, or networking are automatically adjusted based on application demand without user intervention.
+A serverless platform provider consolidates resources to serve multiple users on a single physical machine, ensuring isolation through virtualization, especially with [VMs](/virtual-machine/).
+
+Serverless is a comprehensive term encompassing services with these attributes, extending from [Platform-as-a-Service (PaaS)](/platform-as-a-service/) to [Software-as-a-Service (SaaS)](/software-as-a-service/).
 
 ## Problem it addresses
 
-Under a standard [Infrastructure-as-a-Service (IaaS)](/infrastructure-as-a-service/) [cloud computing](/cloud-computing/) model, 
-users pre-purchase units of capacity, meaning you pay a public cloud provider for always-on server components to run your apps. 
-It’s the user’s responsibility to scale up server capacity during times of high demand and 
-to scale down when that capacity is no longer needed. 
-The cloud infrastructure necessary to run an app is active even when the app isn’t being used.
+In traditional [Infrastructure-as-a-Service (IaaS)](/infrastructure-as-a-service/) [cloud computing](/cloud-computing/) models, users commit to a predefined capacity, resulting in charges for continuous server availability regardless of actual use.
+Responsibility for adjusting server capacity to meet fluctuating demands falls on the user, maintaining active infrastructure even during idle periods.
 
 ## How it helps
 
-With serverless architecture, by contrast, apps are launched only as needed. 
-When an event triggers app code to run, the public cloud provider dynamically allocates resources for that code. 
-The user stops paying when the code finishes executing. 
-In addition to the cost and efficiency benefits, 
-serverless frees developers from routine and menial tasks associated with app scaling and server provisioning. 
-With serverless, routine tasks such as managing the operating system and file system, security patches, 
-load balancing, capacity management, scaling, logging, and monitoring are all offloaded to a cloud services provider.
+Serverless architecture introduces a more efficient approach, activating services solely upon demand.
+This model ensures dynamic resource allocation by a cloud provider, eliminating costs for unused services.
+Beyond financial and operational efficiencies, serverless technology relieves developers of the burdens of scaling applications and managing server infrastructure.
+Tasks such as operating system maintenance, security updates, load balancing, capacity planning, and monitoring are delegated to the cloud provider, streamlining the development process.
+
+Refer to the [Function-as-a-Service (FaaS)](/function-as-a-service/) glossary entry for more information.
+Although "serverless" and "FaaS" are often used as interchangeable terms, they embody distinct concepts.

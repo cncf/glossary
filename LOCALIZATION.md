@@ -57,25 +57,30 @@ Open a PR with the localization initiation following this example: https://githu
 
 To add a new language to the site, modify [config.toml](https://github.com/cncf/glossary/blob/main/config.toml#L54) (Note: localization teams should use their assigned development branch for this).
 
-The `[languages]` block of `config.toml` is used to set the language. For instance, `[languages.en]` stands for English and `[languages.ko]` for Korean language configuration. Go to the `[languages]` block in `config.toml` and add a new block for your language-specific configuration. For instance, the Korean localization team added its `[languages.ko]` block after the `[languages.en]` block.
+The `[languages]` block of `config.toml` is used to set the language. For instance, `[languages.en]` stands for English and `[languages.ko]` for Korean language configuration. Go to the `[languages]` block in `config.toml` and find a place for your new localization:
+
+ - The English language always stays first.
+ - Other languages are sorted based on the alphabetized English translation of their names (see how currently existing localizations are ordered as an example).
+ - Each localization is written in its own language followed by the English translation in parentheses — e.g., `한국어 (Korean)`.
+ - The `weight` parameter in the config is used for sorting (`1` is for English, `2` is for the alphabetically first language, `3` is for the second one, and so on).
+
+For instance, you're adding a new block for the Korean localization. You calculated its weight as 8. Find the language block with `weight = 7` and add your new block afterwards:
 
 - Example of `New language block for /config.toml`
   ```diff
   [languages]
-  [languages.en]
-  title = "Cloud Native Glossary"
-  description = "The CNCF Cloud Native Glossary Project is intended to be used as a reference for common terms used when talking about cloud native applications."
-  languageName ="English"
-  # Weight used for sorting.
-  weight = 1
+  ...
+  weight = 7
   
   +[languages.ko]
   +title = "클라우드 네이티브(Cloud Native) 용어집"
   +description = "CNCF 클라우드 네이티브 용어집 프로젝트는 클라우드 네이티브 애플리케이션에 대한 대화를 나눌 때 공통의 용어를 참조하여 사용하도록 하는 목적을 가지고 있다."
-  +languageName ="한국어(Korean)"
+  +languageName = "한국어 (Korean)"
   +contentDir = "content/ko"
-  +weight = 2
+  +weight = 8
   ```
+
+Since the `weight` values should always be kept consistent, please **remember to increment the weights** of all the languages following your newly added localization.
 
 #### 3-2. Adding a file for site strings
 
@@ -133,7 +138,7 @@ Once the PR is merged, the localized content will go live on its website 🎉
 
 To join an existing team, hop on the #glossary-localizations and #glossary-localization-[language name] channels on the CNCF Slack. Introduce yourself, let the team know you want to contribute, and the team will take it from there.
 
-If the team seems inactive (no response after several days), reach out to @Seokho Son, @Catherine Paganini, @jmo, @Jihoon Seo or @Noah Ispas on the #glossary-localizations channel.  
+If the team seems inactive (no response after several days), reach out to @Seokho Son, @Jihoon Seo, @nate-double-u, or @Noah Ispas on the #glossary-localizations channel.  
 
 --- 
 

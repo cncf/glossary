@@ -48,8 +48,6 @@ status:
 category:
 ---
 
-## ¿Qué es?
-
 Un breve resumen de la tecnología o concepto.
 
 ## Problema que aborda
@@ -99,14 +97,14 @@ Exceptuando "fundamental", que simplemente indica que el término referido es vi
 
 Las etiquetas existentes son:
 
-- application
-- architecture
-- fundamental
-- infrastructure
-- methodology
-- networking
-- property
-- security
+- aplicación
+- arquitectura
+- fundamento
+- infraestructura
+- metodología
+- redes
+- propiedad
+- seguridad
 
 ```md
 ---
@@ -159,7 +157,7 @@ Cuando corresponda, use **ejemplos del mundo real** que ayuden a los lectores (e
 
 Cuando se use en su definición, siempre **enlace a los términos existentes del glosario** (solo la primera mención debe tener un hipervínculo).
 
-**Ejemplo**: eche un vistazo a la sección "Qué es" de la [definición de service mesh](/service-mesh/).
+**Ejemplo**: eche un vistazo a la sección "Qué es" de la [definición de service mesh](/es/service-mesh/).
 Se vincula con las definiciones de microservicios, servicio, fiabilidad y observabilidad.
 Además, utiliza un ejemplo del mundo real que compara los desafíos de la red en un entorno de microservicios
 (algo con lo que las personas no técnicas no pueden relacionarse) con los problemas de wifi (algo que cualquiera que use una computadora portátil puede entender).
