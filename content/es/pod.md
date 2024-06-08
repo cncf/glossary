@@ -5,7 +5,7 @@ category: Concepto
 tags: ["infraestructura", "fundamento", ""]
 ---
 
-Dentro de un entorno de [Kubernetes](/kubernetes/), un pod actúa como la unidad más básica desplegable. Representa un bloque de construcción esencial para desplegar y administrar aplicaciones contenerizadas. Cada pod contiene una única instancia de la aplicación y puede albergar uno o más [contenedores](/container/). Kubernetes administra los pods como parte de un despliegue más grande y puede escalar los pods [vertical](/vertical-scaling/) u [horizontalmente](/horizontal-scaling/) según sea necesario.
+Dentro de un entorno de [Kubernetes](/kubernetes/), un pod actúa como la unidad más básica desplegable. Representa un bloque de construcción esencial para desplegar y administrar aplicaciones contenedorizadas. Cada pod contiene una única instancia de la aplicación y puede albergar uno o más [contenedores](/container/). Kubernetes administra los pods como parte de un despliegue más grande y puede escalar los pods [vertical](/vertical-scaling/) u [horizontalmente](/horizontal-scaling/) según sea necesario.
 
 Kubernetes gestiona los pods, garantizando su alta disponibilidad y escalabilidad mediante escalamiento [vertical](/vertical-scaling/) o [horizontal](/horizontal-scaling/) según sea necesario.
 
