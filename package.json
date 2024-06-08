@@ -22,7 +22,8 @@
     "seq": "bash -c 'for cmd in \"$@\"; do npm run $cmd || exit 1; done' - ",
     "serve": "netlify dev -c \"hugo serve --minify -DFE -w\"",
     "serve:with-pagefind": "hugo --baseURL=/ --theme=docsy && npm_config_yes=true npx pagefind --site 'public' --output-subdir '../static/pagefind' && npm run serve",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "npm run check:links",
+    "update:pkgs": "npx npm-check-updates -u"
   },
   "dependencies": {
     "lunr-languages": "^1.9.0"
@@ -30,13 +31,16 @@
   "devDependencies": {
     "autoprefixer": "^9.8.6",
     "hugo-extended": "^0.115.2",
-    "netlify-cli": "^15.9.0",
     "postcss-cli": "^7.1.2"
+  },
+  "optionalDependencies": {
+    "netlify-cli": "^17.26.1",
+    "npm-check-updates": "^16.14.20"
   },
   "enginesComment": "Ensure that engines.node value stays consistent with the project's .nvmrc",
   "engines": {
     "node": "20.x"
   },
   "gitHubActionCacheKey": "2024-06-08 - change this key to force cache refresh",
-  "spelling": "cSpell:ignore cncf docsy HTMLTEST hugo loglevel pagefind netlify nowrap prebuild precheck preinstall postbuild postget subdir -"
+  "spelling": "cSpell:ignore cncf docsy HTMLTEST hugo loglevel pagefind netlify nowrap pkgs prebuild precheck preinstall postbuild postget subdir -"
 }
