@@ -8,7 +8,7 @@
     "_check:links": "npm run __check:links",
     "_check:links:all": "HTMLTEST_ARGS='--log-level 1' npm run __check:links",
     "_get:no": "echo SKIPPING get operation",
-    "_get:submodule": "set -x && git submodule update --init ${DEPTH:- --depth 1}",
+    "_get:submodule": "set -x && git submodule update --init --recursive ${DEPTH:- --depth 1}",
     "_hugo": "hugo --cleanDestinationDir",
     "_prebuild": "npm run get:submodule",
     "_prepare:docsy": "echo 'Placeholder for when docsy is updated and we will do: cd themes/docsy && npm install'",
