@@ -1,0 +1,8 @@
+# cSpell:ignore pagefind regexs
+DirectoryPath: public
+# IgnoreDirectoryMissingTrailingSlash: true # FIXME
+IgnoreInternalEmptyHash: true # FIXME
+IgnoreDirs:
+  - ^(bn|de|es|fr|hi|it|ja|ko|pt.*?|ru|tr|ur|zh.*?)/
+IgnoreURLs: # list of regexs of paths or URLs to be ignored
+  - ^/pagefind
