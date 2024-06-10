@@ -1,6 +1,6 @@
 ---
 title: Sidecar Container
-status: Completed
+status: Feedback Appreciated
 category: concept
 ---
 
