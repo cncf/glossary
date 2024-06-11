@@ -19,6 +19,7 @@ Si cada uno de estos contenedores estrechamente relacionados se administrara ind
 Por ejemplo, el operador tendría que determinar repetidamente la ubicación de los contenedores relacionados para asegurarse que permanezcan juntos.
 Y aunque los ciclos de vida de estos contenedores relacionados necesitan estar sincronizados, solo se pueden administrar individualmente.
 
+
 ## ¿Cómo ayuda?
 
 Los Pods agrupan contenedores estrechamente vinculados en una única unidad, lo que simplifica significativamente las operaciones de contenedores.
