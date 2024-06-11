@@ -21,7 +21,8 @@ Y aunque los ciclos de vida de estos contenedores relacionados necesitan estar s
 
 ## ¿Cómo ayuda?
 
-Los Pods agrupan contenedores estrechamente vinculados en una única unidad, lo que simplifica significativamente las operaciones de contenedores. Por ejemplo, los contenedores auxiliares a menudo se suelen utilizar junto con el contenedor principal para agregar funcionalidades adicionales o configurar aspectos globales. 
+Los Pods agrupan contenedores estrechamente vinculados en una única unidad, lo que simplifica significativamente las operaciones de contenedores.
+Por ejemplo, los contenedores auxiliares a menudo se suelen utilizar junto con el contenedor principal para agregar funcionalidades adicionales o configurar aspectos globales. 
 Ejemplos de esto incluyen contenedores que inyectan y aplican configuraciones básicas al contenedor principal, 
 _sidecar_ (contenedores) que manejan el enrutamiento del tráfico de red para el contenedor principal (ver [malla de servicios](/es/service-mesh/))
 o contenedores que recolectan registros en conjunto con cada contenedor.
