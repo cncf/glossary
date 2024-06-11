@@ -218,7 +218,6 @@ PaC
 Paganini
 platform
 Pod
-pod
 pods
 Política
 portable
