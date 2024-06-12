@@ -28,3 +28,11 @@ There are limitations, however.
 Since containers share the same operating system, processes can be considered less secure than alternatives. 
 Containers also require limits on the shared resources. 
 To guarantee resources, administrators must constrain and limit memory and CPU usage so that other applications do not perform poorly.
+
+## Further Reading
+
+### In sign language
+
+While each country has its own sign language, we'd like to standardize signs as much as possible for new cloud native terms. When a cloud native term is composed of words that already exist in English, we'll use ASL (American Sign Language).
+
+{{< youtube 9acXLtLgbJg >}}
