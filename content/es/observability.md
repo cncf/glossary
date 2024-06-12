@@ -13,4 +13,4 @@ Estos sistemas observables son **observados** (o monitoreados) a través de herr
 
 Los sistemas observables proporcionan datos significativos y accionables a sus operadores, lo que les permite lograr resultados favorables (respuesta más rápida a incidentes, aumento de la productividad del desarrollador) y menos trabajo manual y tiempo de inactividad.
 
-Consecuentemente, cuán observable es un sistema afectará significativamente sus costos operativos y de desarrollo.
+Por consiguiente, cuán observable sea un sistema esto afectará significativamente sus costos operativos y de desarrollo.
