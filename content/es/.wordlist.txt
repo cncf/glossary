@@ -222,6 +222,8 @@ PaC
 packet
 Paganini
 platform
+Pod
+pods
 Política
 portable
 pr
