@@ -5,7 +5,7 @@ category: tecnologia
 tags: ["applicazione", "", ""]
 ---
 
-## Cos'è
+
 
 La containerizzazione è il processo di accorpamento di un'applicazione e le sue dipendenze in un'immagine container. Il processo di costruzione di un container richiede l'aderenza agli standard dell'[Open Container Initiative](https://opencontainers.org). Purché il risultato finale sia un'immagine container che aderisce a questi standard, lo strumento utilizzato per la containerizzazione non ha importanza.
 

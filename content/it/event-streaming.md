@@ -4,7 +4,7 @@ status: Completed
 category: Concetto
 ---
 
-## Cos'è
+
 
 L'_event streaming_ è un approccio nel quale un software invia i dati di un evento da un'applicazione a un'altra per comunicare costantemente cosa stanno facendo.
 Si immagini un servizio che trasmetta ogni cosa che faccia a tutti gli altri servizi.

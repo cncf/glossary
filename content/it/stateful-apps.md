@@ -5,7 +5,7 @@ category: Concetto
 tags: ["fondamentali", "basi"]
 ---
 
-## Cos'è
+
 
 Quando parliamo di applicazioni _stateful_ (letteralmente "a pieno stato") e stateless (letteralmente "senza stato"),
 il concetto di stato si riferisce a tutti i dati da salvare affinché l'applicazione funzioni come previsto.

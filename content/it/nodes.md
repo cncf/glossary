@@ -4,7 +4,7 @@ status: Completed
 category: Concetto
 ---
 
-## Cos'è
+
 
 Un nodo è un computer che lavora insieme ad altri computer, o nodi, per realizzare un compito comune. Prendi per esempio il tuo portatile, il modem e la stampante. Sono tutti collegati alla tua rete wireless che comunicano e collaborano: ognuno rappresenta un nodo. Nel [cloud computing](/it/cloud-computing/), un nodo può essere un computer fisico, un computer virtuale (chiamato [VM](/it/virtual-machine/)) o anche un [container](/it/container/).
 

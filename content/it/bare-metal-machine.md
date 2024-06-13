@@ -5,7 +5,7 @@ category: tecnologia
 tags: ["infrastruttura", "", ""]
 ---
 
-## Cos'è
+
 
 Bare metal (puro metallo) si riferisce a un computer fisico, più specificamente un server, che ha uno e un solo sistema operativo.
 Nell'informatica moderna questa distinzione è importante perché molti, se non la maggior parte, dei server sono [macchine virtuali](/it/virtual-machine/).

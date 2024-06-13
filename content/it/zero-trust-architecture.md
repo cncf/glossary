@@ -5,7 +5,7 @@ category: Concetto
 tags: ["sicurezza", "", ""]
 ---
 
-## Cos'è
+
 
 L'architettura Zero trust prevede di progettare e implementare sistemi IT con un approccio
 nel quale la fiducia è completamente rimossa.
