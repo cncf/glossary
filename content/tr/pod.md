@@ -21,14 +21,6 @@ Ve bu ilgili konteynerlerin yaşam döngülerinin senkronize edilmesi gerekmesin
 
 ## Nasıl Yardımcı Olur
 
-Pods bundle closely tied containers into a single unit, significantly simplifying container operations.
-For instance, auxiliary containers are often used alongside the main container to add additional functionalities or to set up global configurations. 
-Examples include containers that inject and apply basic settings to the main container, 
-_sidecar_ (containers) that handle network traffic routing for the main container (see [service mesh](/service-mesh/)), 
-or containers collecting logs in conjunction with each container.
-
-Memory and CPU allocation can be defined either on a pod level, allowing the containers inside to share resources in a flexible way, or per container.
-
 Pod'lar birbiriyle yakından bağlantılı konteynerleri tek bir birim halinde bir araya getirerek konteyner işlemlerini önemli ölçüde basitleştirir. 
 Örneğin, ek işlevler eklemek veya genel konfigürasyonlar oluşturmak için genellikle ana konteynerin yanında yardımcı konteynerler kullanılır. 
 Örnekler arasında ana konteynere temel ayarları enjekte eden ve uygulayan konteynerler, 
