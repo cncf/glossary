@@ -50,7 +50,7 @@ jobs:
 #     - name: Download output
 #       uses: actions/download-artifact@v3
     - name: Download output
-      uses: dawidd6/action-download-artifact@v3
+      uses: dawidd6/action-download-artifact@v5
       with:
         github_token: ${{secrets.GITHUB_TOKEN}}
         workflow: check-outdated-content.yaml
