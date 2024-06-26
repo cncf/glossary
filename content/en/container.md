@@ -12,8 +12,8 @@ tags: ["application", "fundamental", ""]
   When a cloud native term is composed of words that already exist in English, we'll use ASL (American Sign Language).
   <br>
   {{< youtube 9acXLtLgbJg >}}
-  <br>
 </details>
+<br>
 
 A container is a running process with resource and capability constraints managed by a computer’s operating system. 
 The files available to the container process are packaged as a container image. 
