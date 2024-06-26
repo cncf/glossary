@@ -5,6 +5,13 @@ category: technology
 tags: ["application", "fundamental", ""]
 ---
 
+<details>
+  <summary><h3>In sign language</h3></summary>
+  While each country has its own sign language, we'd like to standardize signs as much as possible for new cloud native terms.
+  When a cloud native term is composed of words that already exist in English, we'll use ASL (American Sign Language).
+  {{< youtube 9acXLtLgbJg >}}
+</details>
+
 A container is a running process with resource and capability constraints managed by a computer’s operating system. 
 The files available to the container process are packaged as a container image. 
 Containers run adjacent to each other on the same machine, 
