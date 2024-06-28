@@ -26,7 +26,7 @@
     "update:pkgs": "npx npm-check-updates -u"
   },
   "dependencies": {
-    "lunr-languages": "^1.9.0"
+    "lunr-languages": "^1.14.0"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.19",
@@ -35,7 +35,7 @@
     "postcss-cli": "^11.0.0"
   },
   "optionalDependencies": {
-    "netlify-cli": "^17.26.1",
+    "netlify-cli": "^17.30.0",
     "npm-check-updates": "^16.14.20"
   },
   "enginesComment": "Ensure that engines.node value stays consistent with the project's .nvmrc",
