@@ -8,7 +8,7 @@ menu:
 ---
 
 ## ようこそ
- 
+
 クラウドネイティブ用語集の貢献ガイドへようこそ。
 このプロジェクトに貢献できる方法はいくつかありますが、ここではその詳細を説明します：
 
@@ -17,7 +17,7 @@ menu:
 3) [既存の用語を更新する](#update-an-existing-term)
 4) [用語集を翻訳する](#help-localize-the-glossary)
 
-## CNCF用語集レビュー 
+## CNCF用語集レビュー
 
 この用語集のゴールは、複雑なことで有名なクラウドネイティブの空間をシンプルにすることで、より多くの人に親しんでもらうことです。
 
@@ -198,8 +198,10 @@ Slackでメンテナに新しい用語を提案したことを知らせてくだ
 
 用語集を目的の言語にローカライズするのを手伝うには、CNCF Slackワークスペースの [#glossary-localizations](https://cloud-native.slack.com/archives/C02N2RGFXDF) チャンネルに参加し、私たちにメッセージを送ってください。
 既存のチームに参加することも、新しいチームを作ることもできます。
-(何が必要かは、[ローカリゼーションガイド](https://github.com/cncf/glossary/blob/main/LOCALIZATION.md)を読んでください)。
-チームの貢献プロセスの詳細を収集するために、目的の言語の **How to contribute** ガイドをお読みください。
+(何が必要かは、[ローカライゼーションガイド](https://github.com/cncf/glossary/blob/main/LOCALIZATION.md)を読んでください)。
+チームの貢献プロセスの詳細を収集するために、目的の言語の **How to contribute** ガイドをお読みください[^1]。
+
+[^1]: 訳注: 日本語へのローカライゼーションをする際には、[CNCF日本語ローカライゼーション向けガイドライン](https://github.com/cncf/techdocs/blob/main/docs/localization/ja/README.md)を参考にしてください。
 
 ## スペルチェック {#spell-check}
 
