@@ -5,7 +5,7 @@ category: Technology
 tags: ["application", "", ""]
 ---
 
-Containerization is the packaging of software code with just the operating system (OS) libraries and dependencies required to run the code to create a single lightweight executable—called a container, that runs consistently on any infrastructure. More portable and resource-efficient than virtual machines (VMs). They have become the de facto compute units of modern cloud-native applications.
+Containerization is the process of packaging of application code including libraries and dependencies required to run the code into a single lightweight executable—called [container image](/container-image/). 
 ## Problem it addresses 
 
 Before [containers](/container/) became prevalent, organizations relied on [virtual machines](/virtual-machine/) (VMs) to 
