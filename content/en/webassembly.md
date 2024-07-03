@@ -11,7 +11,7 @@ WebAssembly (often abbreviated as Wasm) is a binary instruction format designed 
 It is a low-level bytecode format that can be executed in a virtual machine, typically integrated into web browsers. While originally developed for the web, Web Assembly is a Universal Runtime and sees applications in non-web environments such as IoT and edge devices. 
 
 ## Problem it addresses
-Traditional web applications are primarily built using JavaScript, which is an interpreted language.
+The LAMP (Linux Apache MySQL PHP) stack was the template for a web based application for many years. Later Javascript evolved to be the king of front end application development, and node.js based applications became the norm. As the technology around the web evolved it heavily favored interpreted languages, which are typically less performant than compiled languages even with the advancement in the technologies. 
 While JavaScript has improved over the years, it still faces performance limitations when executing computationally intensive tasks.
 With JavaScript, developers often need to rewrite their code to make it work across different platforms and environments. 
 
