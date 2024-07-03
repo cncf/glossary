@@ -13,7 +13,7 @@ It is a low-level bytecode format that can be executed in a virtual machine, typ
 ## Problem it addresses
 The LAMP (Linux Apache MySQL PHP) stack was the template for a web based application for many years. Later Javascript evolved to be the king of front end application development, and node.js based applications became the norm. As the technology around the web evolved it heavily favored interpreted languages, which are typically less performant than compiled languages even with the advancement in the technologies. 
 While JavaScript has improved over the years, it still faces performance limitations when executing computationally intensive tasks.
-With JavaScript, developers often need to rewrite their code to make it work across different platforms and environments. 
+Interpreted languages which are compiled at runtime often see performance and functionality issues as the code is excecuted across different environments. Where as compiled binaries typically run the same as long as they've compiled correctly. However historically a compiled binary has been less suited for the web environment. 
 
 ## How it helps
 WebAssembly provides a low-level binary format that can be executed at near-native speeds, enabling web applications to perform complex computations efficiently. 
