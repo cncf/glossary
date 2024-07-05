@@ -1,6 +1,6 @@
 ---
 title: WebAssembly
-status: Feedback Appreciated
+status: Completed
 category: Concept
 tags: ["Application", "", ""]
 ---
