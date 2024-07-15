@@ -1,5 +1,5 @@
 ---
-title: La sécurité par l'ingénierie du chaos
+title: Sécurité par l'ingénierie du chaos
 status: Completed
 category: concept
 tags: ["sécurité", "méthodologie", ""]
