@@ -5,8 +5,6 @@ category: conceito
 tags: ["metodologia", "aplicação", ""]
 ---
 
-## O que é
-
 O Blue-green deployment é uma estratégia para atualizar os sistemas de computador em execução com o mínimo de tempo de indisponibilidade. O operador mantém dois ambientes, chamados "blue" e "green".
 Um atende ao tráfego de produção (a versão que os usuários estão usando atualmente), enquanto o outro é atualizado. Depois que o teste é concluído no ambiente inativo (green), o tráfego de produção é redirecionado (geralmente com o uso de um baleanceador de carga - load balancer). Observe que blue-green deployment geralmente significa alternar os ambientes por completo, abrangendo muitos serviços, todos de uma vez. Confusamente, às vezes o termo é usado em relação a serviços individuais em um sistema. Para evitar essa ambiguidade, o termo "zero-downtime deployment" é preferido quando se refere a componentes individuais.
 

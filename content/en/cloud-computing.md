@@ -5,17 +5,21 @@ category: concept
 tags: ["infrastructure", "fundamental", ""]
 ---
 
-Cloud computing offers compute resources like CPU, network, and disk capabilities on-demand over the internet, allowing users to access and use computing power in a remote physical location. 
-We generally differentiate between private and public cloud, depending on whether the cloud infrastructure is exclusively dedicated to an organization or shared for open public services.
+Cloud computing offers CPU power, storage, and network capabilities over the internet, 
+enabling scalable and flexible access to resources across global data centers. 
+It spans private clouds, dedicated to single organizations for security and control, 
+and public clouds, open for widespread use, optimizing cost and scalability.
 
 ## Problem it addresses
 
-Organizations traditionally faced two main challenges when attempting to expand computing power. 
-They could either acquire, support, and design (new) facilities to host their physical servers and network or expand and maintain existing ones. 
-Cloud computing solves that challenge by allowing organizations to outsource some of their computing needs. 
+Traditionally, organizations needing more computing capacity had to choose between costly investments in new server facilities or upgrades to existing infrastructure, a slow and resource-heavy process.
 
 ## How it helps
 
-Cloud providers allow organizations to rent compute resources on-demand and pay for usage, delivering two key benefits.
-First, organizations can focus on their product or service without waiting, planning, and spending resources on new physical infrastructure. And second, they can simply [scale](/scalability/) on-demand as needed.
-Cloud computing allows organizations to adopt as much or as little infrastructure as they need.
+Organizations can use cloud computing to rent computing resources on demand without the burden of managing physical infrastructure. 
+This strategy has two main advantages:
+- It removes the delays and expenses of establishing new infrastructure so organizations can concentrate on their core business.
+- Organizations can [scale](https://github.com/ronitblenz/glossary/blob/cloud_computing/content/en/scalability.md) their resources up or down based on demand, aligning infrastructure with business needs.
+Thus, cloud computing provides an efficient way for organizations to access necessary infrastructure flexibly and economically without excess commitment.
+
+---
