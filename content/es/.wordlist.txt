@@ -52,6 +52,7 @@ CI
 cifrada
 CLA
 Client
+CLIs
 Cloud
 clúster
 clústeres
@@ -259,6 +260,7 @@ SaaS
 Salesforce
 SCE
 scripts
+SDK
 search
 Secure
 security
