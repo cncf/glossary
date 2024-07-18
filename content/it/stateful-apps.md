@@ -15,4 +15,4 @@ il concetto di stato si riferisce a tutti i dati da salvare affinché l'applicaz
 
 Oggi, la maggior parte delle applicazioni che usiamo sono almeno in parte stateful. Tuttavia, negli ambienti [cloud native](/it/cloud-native-apps/), le applicazioni stateful rappresentano una sfida, perché le applicazioni cloud native sono molto dinamiche. Le applicazioni sono rese scalabili verso l'alto o verso il basso, possono essere riavviate e spostate, ma devono comunque essere in grado di accedere al loro stato.
 
-Pertanto, le applicazioni stateful necessitano di un qualche tipo di storage accessibile, come i database.
+Pertanto, le applicazioni stateful necessitano di un qualche tipo di memoria accessibile, come ad esempio un database.
