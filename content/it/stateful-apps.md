@@ -1,5 +1,5 @@
 ---
-title: Stateful Apps
+title: Applicazioni stateful
 status: Completed
 category: Proprietà
 tags: ["fondamentali", "Proprietà", "applicazione"]
