@@ -2,7 +2,7 @@
 title: Mutualisation (Multitenancy)
 status: Completed
 category: Property
-tags: ["architecture", "property", ""]
+tags: ["architecture", "propriété", ""]
 ---
 
 La mutualisation (multitenancy en anglais) fait référence à une installation unique de logiciel utilisé par plusieurs locataires (tenant).
@@ -25,8 +25,8 @@ Cela augmente l'utilisation de ressources et l'effort de maintenance, et au fina
 Le logiciel mutualisé fournit à chaque locataire un environnement isolé (données de travail, configurations, liste d'identifiants, etc.),
 servant simultanément plusieurs locataires. Du point de vue du locataire, chacun à son installation logicielle dédiée,
 bien qu'en réalité, ils en partagent tous une seule. Tout cela est possible en exécutant le logiciel sur un serveur et en autorisant
-les colocataires à se connecter à celui-ci par le réseau et/ou par une [API](/fr/application-programming-interface.md) (faisant référence à une 
-[architecture client-serveur](/fr/client-server-architecture.md)).
+les colocataires à se connecter à celui-ci par une interface utilisateur et/ou par une [API](/fr/application-programming-interface/) (faisant référence à une 
+[architecture client-serveur](/fr/client-server-architecture/)).
 Avec les logiciels mutualisés, les colocataires partagent les mêmes ressources d'une même installation sans affecter les autres ou seulement
 d'une manière prédéfinie et contrôlée. Les resources économisées du côté du fournisseur du logiciel peuvent être répercutées aux locataires, réduisant
 de manière significative le coût du logiciel pour les utilisateurs (encore une fois, pensez aux emails ou aux éditeurs de documents en ligne).
@@ -34,4 +34,4 @@ de manière significative le coût du logiciel pour les utilisateurs (encore une
 ## Termes liés
 
 La mutualisation n'est pas un synonyme de SaaS,
-bien qu'il soit commun pour les SaaS d'être mutualisé et même de proposer la mutualisation comme un bénéfice majeur.
+bien qu'il soit commun pour les SaaS d'être mutualisés et même de proposer la mutualisation comme un bénéfice majeur.
