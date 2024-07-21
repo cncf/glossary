@@ -1,5 +1,5 @@
 ---
-title: Deploiement canari
+title: Déploiement canari
 status: Completed
 category: concept
 tags: ["méthodologie", "application", ""]
