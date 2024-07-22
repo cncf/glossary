@@ -17,17 +17,17 @@ Le terme « serverless » est un terme général qui englobe les services dotés
 
 ## Problème auquel il répond
 
-Dans le cadre d'un modèle standard d'[infrastructure en tant que service (IaaS)](/fr/infrastructure-as-a-service/) [cloud computing](/fr/cloud-computing/), les utilisateurs achètent à l'avance des unités de capacité,
-ce qui signifie que vous payez un fournisseur de cloud public pour des serveurs toujours actifs afin d'exécuter vos applications.
-Il incombe à l'utilisateur d'augmenter la capacité des serveurs en cas de forte demande et de la réduire lorsque cette capacité n'est plus nécessaire.
-L'infrastructure cloud nécessaire au fonctionnement d'une application reste active même lorsque l'application n'est pas utilisée.
+Dans le cadre d'un modèle standard d'[infrastructure en tant que service (IaaS)](/fr/infrastructure-as-a-service/) [cloud computing](/fr/cloud-computing/), les utilisateurs s'engagent sur une capacité prédéfinie,
+ce qui entraîne des frais pour la disponibilité continue du serveur, indépendamment de son utilisation réelle.
+La responsabilité d'ajuster la capacité de traitement du serveur pour répondre à la demande fluctuantes incombe à l'utilisateur, ce qui maintient l'infrastructure active même pendant les périodes d'inactivité.
 
 ## Quelle en est l'utilité
 
-Contrairement aux approches traditionnelles, l'architecture serverless ne lance les applications que lorsqu'elles sont nécessaires.
-Lorsqu'un événement déclenche l'exécution du code de l'application, le fournisseur de cloud public alloue dynamiquement des ressources à ce code.
-L'utilisateur cesse de payer lorsque le code a fini de s'exécuter.
-Outre les avantages en termes de coûts et d'efficacité,
-le serverless libère les développeurs des tâches routinières et pénibles associées à la mise à l'échelle des applications et à la mise à disposition des serveurs.
-Avec le serverless, les tâches de routine telles que la gestion du système d'exploitation et du système de fichiers, les correctifs de sécurité,
-l'équilibrage de charge, la gestion de la capacité, la mise à l'échelle, la journalisation et la supervision sont toutes transférées à un fournisseur de services cloud.
+L'architecture serverless permet une approche plus efficace, en activant les services uniquement à la demande.
+Ce modèle garantit une allocation dynamique des ressources par un fournisseur de cloud, éliminant ainsi les coûts liés aux services inutilisés.
+Outre des gains d'efficacité financière et opérationnelle,
+la technologie serverless soulage les développeurs des charges liées à la mise à l'échelle des applications et à la gestion de l'infrastructure des serveurs.
+Des tâches telles que la maintenance du système d'exploitation, les mises à jour de sécurité, l'équilibrage de la charge, la planification de la capacité et la surveillance sont déléguées au fournisseur de cloud, ce qui rationalise le processus de développement.
+
+Pour plus d'informations, voir l'entrée du glossaire [Fonction en tant que Service (FaaS)](/fr/function-as-a-service/).
+Bien que les termes « serverless » et « FaaS » soient souvent utilisés comme des termes interchangeables, ils correspondent à des concepts distincts.
