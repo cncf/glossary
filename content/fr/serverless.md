@@ -17,7 +17,7 @@ Le terme « serverless » est un terme général qui englobe les services dotés
 
 ## Problème auquel il répond
 
-Dans le cadre d'un modèle standard d'[infrastructure en tant que service (IaaS)](/fr/infrastructure-as-a-service/) [cloud computing](/fr/cloud-computing/), les utilisateurs s'engagent sur une capacité prédéfinie,
+Dans le cadre d'un modèle standard de [cloud computing](/fr/cloud-computing/) en [infrastructure en tant que service (IaaS)](/fr/infrastructure-as-a-service/), les utilisateurs s'engagent sur une capacité prédéfinie,
 ce qui entraîne des frais pour la disponibilité continue du serveur, indépendamment de son utilisation réelle.
 La responsabilité d'ajuster la capacité de traitement du serveur pour répondre à la demande fluctuantes incombe à l'utilisateur, ce qui maintient l'infrastructure active même pendant les périodes d'inactivité.
 
