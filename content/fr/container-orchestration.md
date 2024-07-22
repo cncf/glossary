@@ -4,14 +4,14 @@ status: Completed
 category: Concept
 ---
 
-L'orchestration de [Conteneurs](/fr/container/) fait référence à la gestion et à l'automatisation du cycle de vie d'applications conteneurisées au sein d'environnements dynamiques.
-Réalisée à l'aide d'un orchestrateur de conteneurs (la plupart du temps, [Kubernetes](/fr/kubernetes)), elle permet les déploiements, le passage à l'échelle (automatique), (l'auto-)remédiation et le monitoring.
+L'orchestration de [Conteneurs](/fr/container/) fait référence à la gestion et à l'automatisation du cycle de vie d'applications [conteneurisées](/fr/containerization/) au sein d'environnements dynamiques.
+Réalisée à l'aide d'un orchestrateur de conteneurs (la plupart du temps, [Kubernetes](/fr/kubernetes/)), elle permet les déploiements, le passage à l'échelle (automatique), (l'auto-)remédiation et le monitoring.
 L'orchestration est une métaphore:
 L'outil d'orchestration dirige les conteneurs tel un chef d'orchestre, s'assurant que chaque conteneur (ou musicien) fait ce qu'il doit faire.
 
 ## Problème auquel il répond
 
-Gérer manuellement des [microservices](/fr/microservices-architecture), la sécurité, et la communication réseaux à grande échelle — et des [systèmes distribués](/fr/distributed-systems) en général — est compliqué, pour ne pas dire impossible.
+Gérer manuellement des [microservices](/fr/microservices-architecture/), la sécurité, et la communication réseaux à grande échelle — et des [systèmes distribués](/fr/distributed-systems/) en général — est compliqué, pour ne pas dire impossible.
 L'orchestration de conteneurs permet aux utilisateurs d'automatiser toutes ces tâches de gestion.
 
 ## Quelle en est l'utilité
