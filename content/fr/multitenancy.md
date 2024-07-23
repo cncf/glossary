@@ -20,7 +20,7 @@ Dropbox, parmi tant d'autres qui sont complètement ou partiellement mutualisés
 Sans mutualisation, chaque locataire aurait besoin d'une installation logicielle qui lui est dédiée.
 Cela augmente l'utilisation de ressources et l'effort de maintenance, et au final le coût du logiciel.
 
-## Quel en est l'utilité
+## Quelle en est l'utilité
 
 Le logiciel mutualisé fournit à chaque locataire un environnement isolé (données de travail, configurations, liste d'identifiants, etc.),
 servant simultanément plusieurs locataires. Du point de vue du locataire, chacun à son installation logicielle dédiée,
