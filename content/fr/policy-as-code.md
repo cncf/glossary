@@ -16,7 +16,7 @@ ou de stocker des données en dehors d'une région géographique spécifique.
 Il est très laborieux et sujet aux erreurs pour les développeurs et les relecteurs de vérifier manuellement les applications et les infrastructures par rapport aux politiques documentées.
 Les processus manuels ne peuvent pas répondre aux exigences de réactivité et de mise à l'échelle des applications Cloud Natives.
 
-## Quel en est l'utilité
+## Quelle en est l'utilité
 
 La description des politiques sous forme de code permet la répétabilité et réduit les erreurs (contrairement à ce qui se fait manuellement).
 Un autre avantage de la politique en tant que code est que le code peut être géré par un système de contrôle de version comme Git. 

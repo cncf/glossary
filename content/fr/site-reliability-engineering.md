@@ -17,7 +17,7 @@ de la surveillance des performances à la gestion des alertes, du débogage au d
 Sans ces capacités, les opérateurs de systèmes ne peuvent que réagir aux problèmes au lieu de travailler de manière proactive pour les éviter
 — Les indisponibilités ne sont plus qu'une question de temps.
 
-## Quel en est l'utilité
+## Quelle en est l'utilité
 
 Une approche SRE minimise le coût, le temps et les efforts du processus de développement logiciel
 en améliorant continuellement le système sous-jacent.

@@ -19,7 +19,7 @@ Maintenant, imaginez que les données des capteurs de la voiture doivent être t
 La latence inhérente au réseau pourrait être fatale.
 Bien que cela soit un exemple extrême, la plupart des utilisateurs ne voudraient pas utiliser un appareil intelligent incapable de fournir un retour d'information instantané.
 
-## Quel en est l'utilité
+## Quelle en est l'utilité
 
 Comme décrit ci-dessus, pour que les dispositifs de périphérie de réseau soient utiles, ils doivent effectuer au moins une partie du traitement et de l'analyse localement pour fournir un retour d'information quasi instantanée aux utilisateurs.
 Cela est réalisé en déplaçant certaines ressources de stockage et de traitement du centre de données vers l'endroit où les données sont générées : le dispositif de périphérie de réseau.

@@ -25,7 +25,7 @@ Si l'utilisation des modules du noyau Linux présente des avantages, elle introd
 Parce qu'ils opèrent dans l'espace du noyau, les modules du noyau Linux peuvent faire planter le noyau, ce qui fait tomber toute la machine.
 En outre, les modules du noyau disposent de privilèges élevés et d'un accès direct aux ressources du système. S'ils ne sont pas correctement sécurisés, des attaquants peuvent les exploiter.
 
-## Quel en est l'utilité
+## Quelle en est l'utilité
 
 L'eBPF fournit un environnement plus contrôlé et plus restreint pour l'exécution de programmes définis par l'utilisateur par rapport aux modules du noyau Linux.
 Il s'exécute dans un environnement "bac à sable" au sein du noyau, ce qui permet une isolation et une atténuation des risques.

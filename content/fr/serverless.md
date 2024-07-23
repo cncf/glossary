@@ -20,7 +20,7 @@ ce qui signifie que vous payez un fournisseur de cloud public pour des serveurs 
 Il incombe à l'utilisateur d'augmenter la capacité des serveurs en cas de forte demande et de la réduire lorsque cette capacité n'est plus nécessaire.
 L'infrastructure cloud nécessaire au fonctionnement d'une application reste active même lorsque l'application n'est pas utilisée.
 
-## Quel en est l'utilité
+## Quelle en est l'utilité
 
 Contrairement aux approches traditionnelles, l'architecture serverless ne lance les applications que lorsqu'elles sont nécessaires.
 Lorsqu'un événement déclenche l'exécution du code de l'application, le fournisseur de cloud public alloue dynamiquement des ressources à ce code.

@@ -26,7 +26,7 @@ Les architectures monolithiques font parfois tomber les développeurs dans des p
 Les monolithes exigent également souvent que les développeurs comprennent l'ensemble du code avant d'y faire des modifications.
 L'architecture en microservices est une réponse à ces défis.
 
-## Quel en est l'utilité
+## Quelle en est l'utilité
 
 La séparation des fonctionnalités en différents microservices facilite leur déploiement, leur mise à jour et leur mise à l'échelle de manière indépendante.
 Cela permet également à différentes équipes de travailler simultanément sur une petite partie d'une application plus grande sans avoir d'impact involontairement négatif sur le reste de l'application.
