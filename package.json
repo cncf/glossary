@@ -25,9 +25,6 @@
     "test": "npm run check:links",
     "update:pkgs": "npx npm-check-updates -u"
   },
-  "dependencies": {
-    "lunr-languages": "^1.14.0"
-  },
   "devDependencies": {
     "autoprefixer": "^10.4.19",
     "hugo-extended": "^0.127.0",
