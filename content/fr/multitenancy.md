@@ -28,7 +28,7 @@ bien qu'en réalité, ils en partagent tous une seule. Tout cela est possible en
 les colocataires à se connecter à celui-ci par une interface utilisateur et/ou par une [API](/fr/application-programming-interface/) (faisant référence à une 
 [architecture client-serveur](/fr/client-server-architecture/)).
 Avec les logiciels mutualisés, les colocataires partagent les mêmes ressources d'une même installation sans affecter les autres ou seulement
-d'une manière prédéfinie et contrôlée. Les resources économisées du côté du fournisseur du logiciel peuvent être répercutées aux locataires, réduisant
+d'une manière prédéfinie et contrôlée. Les ressources économisées du côté du fournisseur du logiciel peuvent être répercutées aux locataires, réduisant
 de manière significative le coût du logiciel pour les utilisateurs (encore une fois, pensez aux emails ou aux éditeurs de documents en ligne).
 
 ## Termes liés
