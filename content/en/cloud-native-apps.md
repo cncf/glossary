@@ -14,7 +14,7 @@ Cloud native applications today include apps that run in a cloud provider’s da
 ## Problem it addresses
 
 Traditionally, on-premise environments provided compute resources in a fairly bespoke way. 
-Each datacenter had services that [tightly coupled](/tightly-coupled-architectures/) applications to specific environments, 
+Each datacenter had services that [tightly coupled](/tightly-coupled-architecture/) applications to specific environments, 
 often relying heavily on manual provisioning for infrastructure, like [virtual machines](/virtual-machine/) and services. 
 This, in turn, constrained developers and their applications to that specific datacenter. 
 Applications that weren't designed for the cloud couldn't take advantage of a cloud environment’s resiliency and scaling capabilities. 

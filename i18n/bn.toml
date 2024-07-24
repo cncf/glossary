@@ -20,21 +20,21 @@ other = "ভিতরে"
 
 # Phrases for tags
 [ui_see_all_tags]
-other = "See all tags"
+other = "সব ট্যাগ দেখুন"
 [ui_tag]
-other = "Tag"
+other = "ট্যাগ"
 [ui_tags]
-other = "Tags"
+other = "ট্যাগ"
 [ui_search_by_tags]
-other = "Browse by Tags"
+other = "ট্যাগ দ্বারা ব্রাউজ করুন"
 [ui_tags_intro]
-other = "We've categorized the glossary terms. Use the filters to browse terms by tag."
+other = "আমরা শব্দকোষ পদগুলোকে শ্রেণীবদ্ধ  করেছি । ট্যাগ দ্বারা পদগুলো ব্রাউজ করতে ফিল্টার ব্যবহার করুন ।"
 [ui_or_search_by_tags]
-other = "...or browse by tag"
+other = "...অথবা ট্যাগ দ্বারা ব্রাউজ করুন"
 [ui_select_all]
-other = "Select All"
+other = "সব গুলো নির্বাচিত করুন"
 [ui_deselect_all]
-other = "Deselect All"
+other = "সব গুলো অনির্বাচিত কর"
 
 # Footer text
 [footer_all_rights_reserved]

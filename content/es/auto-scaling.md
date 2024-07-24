@@ -2,7 +2,7 @@
 title: Autoescalado
 status: Completed
 category: Propiedad
-tags: ["infrastructure", "", ""]
+tags: ["infraestructura", "", ""]
 ---
 
 El autoescalado es la habilidad de un sistema para [escalar](/es/scalability) automáticamente, en términos de recursos computacionales.

@@ -5,8 +5,6 @@ category: conceito
 tags: ["arquitetura", "", ""]
 ---
 
-## O que é
-
 A arquitetura orientada por Eventos é uma arquitetura de software que promove a criação, o processamento, e o consumo de eventos.
 Um evento é qualquer alteração no estado de uma aplicação ou sistema.
 Por exemplo, solicitar uma corrida em um aplicativo de transporte representa um evento.

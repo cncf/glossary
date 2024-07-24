@@ -2,10 +2,8 @@
 title: Seguridad mutua de capa de transporte (mTLS)
 status: Completed
 category: Concepto
-tags: ["security", "networking", ""]
+tags: ["seguridad", "redes", ""]
 ---
-
-## ¿Qué es?
 
 La seguridad mutua de capa de transporte (mTLS en Inglés) es una técnica utilizada para autenticar y codificar mensajes enviados entre dos [servicios](/es/service).
 mTLS es el protocolo de [Seguridad de capa de transporte](/es/transport-layer-security/) (TLS) estándar pero,
