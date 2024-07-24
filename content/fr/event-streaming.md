@@ -21,7 +21,7 @@ Cela serait très inefficace car cela nécessiterait qu'une connexion soit cré�
 Ouvrir une seule connexion et permettre aux événements de circuler est idéal pour la collecte en temps réel.
 La quantité de données générées augmente de manière exponentielle et, par conséquent, les changements de données sont extrêmement fréquents. Les développeurs et les utilisateurs doivent être en mesure de voir ces données en quasi-temps réel.
 
-## Quel en est l'utilité
+## Quelle en est l'utilité
 
 La diffusion d'événements en continu permet de communiquer les changements de données de la source au destinataire.
 Au lieu d'attendre que les services demandent des informations, le service de diffusion propage en continu tous ses événements (ou activités).

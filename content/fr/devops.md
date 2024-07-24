@@ -24,7 +24,7 @@ Le rôle de chacun était ainsi de fournir le travail à l'équipe suivante, et 
 Une fois le code livré en production, ce dernier passé entre les mains de tellement de différents développeurs, ayant attendu dans tellement de files d'attente, il en devenait alors compliqué de tracer l'origine d'un problème en cas de dysfonctionnement du code.
 Le DevOps vient chambouler cette approche.
 
-## Quel en est l'utilité
+## Quelle en est l'utilité
 
 Avoir une seule équipe en charge du cycle de vie d'une application permet de
 minimiser les passations, réduisant ainsi les risques lors des déploiements en production, améliorant

@@ -15,7 +15,7 @@ Pour suivre la communication de service à service (c'est-à-dire le trafic rés
 potentiellement la transformer ou la rediriger, nous devons collecter des données.
 Traditionnellement, le code permettant la collecte de données et la gestion du trafic réseau étaient intégrés à chaque application.
 
-## Quel en est l'utilité
+## Quelle en est l'utilité
 
 Un proxy de service nous permet "d’externaliser" cette fonctionnalité.
 Il n'est plus nécessaire qu'elle réside à l'intérieur des applications.

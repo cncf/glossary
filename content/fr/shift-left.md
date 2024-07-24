@@ -19,7 +19,7 @@ Les problèmes de sécurité, les bugs et les défauts logiciels peuvent être p
 s'ils sont découverts tard dans le cycle de développement ou après le déploiement,
 en particulier si le logiciel a déjà été déployé en production.
 
-## Quel en est l'utilité
+## Quelle en est l'utilité
 
 En adoptant une mentalité décalage vers la gauche pour le développement logiciel,
 les équipes peuvent mettre en œuvre des tests et la sécurité tout au long du cycle de développement.

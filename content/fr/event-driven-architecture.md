@@ -16,7 +16,7 @@ Cette architecture crée la structure dans laquelle les événements peuvent êt
 Les méthodes traditionnelles de gestion des événements n'offrent souvent aucune garantie que les messages sont correctement acheminés ou qu'ils ont effectivement été envoyés ou reçus. 
 Lors de la mise à l'échelle des applications, il devient plus difficile d'orchestrer les événements.
 
-## Quel en est l'utilité
+## Quelle en est l'utilité
 
 Les architectures orientées événements établissent un hub central pour tous les événements (par exemple, Kafka). 
 Vous définissez ensuite les producteurs d'événements (la source) et les consommateurs (le récepteur), et le hub central des événements garantit le flux des événements. 

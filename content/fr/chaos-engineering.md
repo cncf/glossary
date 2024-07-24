@@ -20,7 +20,7 @@ Le déploiement très fréquent de nouvelles fonctionnalités dans l'environneme
 peut entraîner une forte probabilité d'indisponibilité et d'incident critique
 — avec des conséquences considérables pour l'entreprise.
 
-## Quel en est l'utilité
+## Quelle en est l'utilité
 
 L'ingénierie du chaos est une technique permettant de répondre aux exigences de résilience.
 Elle est utilisée pour assurer la résilience contre les défaillances de l'infrastructure, de la plateforme et de l'application.

@@ -15,7 +15,7 @@ Une application [conteneurisée](/fr/containerization/) finira probablement par 
 À chaque fois que cela se produit, elle aura une nouvelle adresse et
 toute application qui souhaite la trouver aura besoin d'un outil qui lui fournira les nouvelles informations de localisation.
 
-## Quel en est l'utilité
+## Quelle en est l'utilité
 
 Le mécanisme de découverte de services garde une trace des applications au sein du réseau afin qu'elles puissent se trouver mutuellement en cas de besoin.
 Il fournit une méthode simple pour trouver et potentiellement identifier les services individuels.

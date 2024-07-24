@@ -19,7 +19,7 @@ La création d'un tel service ajoute un nouveau composant dans l'infrastructure 
 Cela introduit non seulement de nouveaux coûts et une surcharge de gestion, mais chaque équilibreur de charge nouvellement créé a sa propre adresse IP externe.
 Cela conduit à une mauvaise expérience utilisateur, car en tant qu'utilisateur, nous ne voulons pas naviguer sur différentes URL pour accéder à une application.
 
-## Quel en est l'utilité
+## Quelle en est l'utilité
 
 Une ressource Ingress vous permet de configurer la façon dont le trafic est réparti et routé vers les services d'une application.
 Le contrôleur d'Ingress expose un seul point d'entrée accessible via une URL (www.example-url.com) et effectue le routage et la répartition en fonction de différents chemins d'URL (www.example-url.com/chemin).

@@ -15,7 +15,7 @@ Un environnement d'exécution de conteneurs implémente la spécification [Open 
 
 Sans l'abstraction d'un environnement d'exécution, l'application devrait prendre en considérations toutes les spécificités de chaque système d'exploitation, augmentant la complexité de l'exécution de l'application.
 
-## Quel en est l'utilité
+## Quelle en est l'utilité
 
 L'environnement d'exécution de conteneurs est un composant nécessaire des orchestrateurs de conteneurs tels que Kubernetes.
 Il gère le cycle de vie des conteneurs, et fait principalement trois choses.
