@@ -13,7 +13,7 @@ Em um ambiente nativo da nuvem, os componentes individuais normalmente são exec
 ## Problema relacionado
 
 A execução de uma aplicação em um único computador representa um único ponto de falha — se esse computador falhar, a aplicação ficará indisponível.
-As aplicações distribuídas são frequentemente contrárias as aplicações [monolíticas](/monolithic-apps/).
+As aplicações distribuídas são frequentemente contrárias as aplicações [monolíticas](/pt-br/monolithic-apps/).
 Uma aplicação monolítica pode ser mais difícil de escalar, pois os vários componentes não podem ser redimensionados de forma independente.
 Eles também podem reduzir a velocidade do desenvolvimento à medida que crescem, porque mais desenvolvedores precisam trabalhar em uma base de código compartilhada, que não tem necessariamente limites bem definidos.
 
