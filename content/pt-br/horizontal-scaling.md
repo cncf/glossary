@@ -1,12 +1,12 @@
 ---
-title: Horizontal Scaling
+title: Escalonamento Horizontal
 status: Completed
 category: Conceito
 tags: ["infrastructure", "", ""]
 ---
 
 Escalabilidade horizontal é uma técnica em que a capacidade de um sistema é aumentada adicionando mais [nós](/pt-br/nodes/)
-em vez de adicionar mais recursos de computação a nós individuais (sendo este último conhecido como [escalabilidade vertical](/pt-br/vertical-scaling/)).
+em vez de adicionar mais recursos de computação a nós individuais (sendo este último conhecido como [escalonamento vertical](/pt-br/vertical-scaling/)).
 Vamos supor que temos um sistema com 4GB de RAM e queremos aumentar sua capacidade para 16GB de RAM.
 Escalá-lo horizontalmente significa fazer isso adicionando 4 x 4GB de RAM em vez de trocar para um sistema de 16GB de RAM.
 
@@ -28,6 +28,5 @@ sem precisar aumentar a capacidade de qualquer nó em particular.
 
 ## Termos relacionados
 
-* [Escalabilidade Vertical](/pt-br/vertical-scaling/)
+* [Escalonamento Vertical](/pt-br/vertical-scaling/)
 * [Auto Scaling](/pt-br/auto-scaling/)
-* [Escalabilidade](/pt-br/scalability/)
