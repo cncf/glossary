@@ -10,7 +10,7 @@ em vez de adicionar mais recursos de computação a nós individuais (sendo este
 Vamos supor que temos um sistema com 4GB de RAM e queremos aumentar sua capacidade para 16GB de RAM.
 Escalá-lo horizontalmente significa fazer isso adicionando 4 x 4GB de RAM em vez de trocar para um sistema de 16GB de RAM.
 
-Essa abordagem melhora o desempenho de uma aplicação adicionando novas instâncias, ou n ós, para distribuir melhor a carga de trabalho.
+Essa abordagem melhora o desempenho de uma aplicação adicionando novas instâncias, ou nós, para distribuir melhor a carga de trabalho.
 Em outras palavras, ela visa diminuir a carga do servidor em vez de expandir a capacidade do servidor.
 
 ## Problema relacionado
