@@ -23,7 +23,7 @@ Introducir este estándar permite a los usuarios finales combinar cualquier *run
 
 ## Términos relacionados
 
-- [Cloud Native](https://glossary.cncf.io/cloud-native-apps/)
+- [Cloud Native](https://glossary.cncf.io/es/cloud-native-apps/)
 - [Containerization](https://glossary.cncf.io/containerization/)
 - [Container Orchestration](https://glossary.cncf.io/container-orchestration/)
 - [Microservices Architecture](https://glossary.cncf.io/microservices-architecture/)
