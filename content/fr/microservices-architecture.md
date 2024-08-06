@@ -22,7 +22,7 @@ L'augmentation du nombre d'inscriptions exige une plus grande capacité de la pa
 Traditionnellement (approche monolithique), l'ensemble de l'application devrait être [mise à l'échelle](/fr/scalability/) pour s'adapter à la demande - une utilisation très inefficace des ressources.
 
 Les architectures monolithiques font parfois tomber les développeurs dans des pièges de conception.
-Étant donné que tout le code se retrouve au même endroit, il est plus facile de rendre ce code [étroitement couplé](/fr/tightly-coupled-architectures/) et plus difficile d'appliquer le principe de séparation des responsabilités.
+Étant donné que tout le code se retrouve au même endroit, il est plus facile de rendre ce code [étroitement couplé](/fr/tightly-coupled-architecture/) et plus difficile d'appliquer le principe de séparation des responsabilités.
 Les monolithes exigent également souvent que les développeurs comprennent l'ensemble du code avant d'y faire des modifications.
 L'architecture en microservices est une réponse à ces défis.
 
