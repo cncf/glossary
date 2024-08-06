@@ -25,5 +25,5 @@ Introducir este estándar permite a los usuarios finales combinar cualquier *run
 
 - [Cloud Native](https://glossary.cncf.io/es/cloud-native-apps/)
 - [Contenerización](https://glossary.cncf.io/es/containerization/)
-- [Container Orchestration](https://glossary.cncf.io/container-orchestration/)
+- [Orquestación de Contenedores](https://glossary.cncf.io/es/container-orchestration/)
 - [Arquitectura de Microservicios](https://glossary.cncf.io/es/microservices-architecture/)
