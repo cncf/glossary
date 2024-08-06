@@ -21,7 +21,7 @@ Con el tiempo, diferentes productos de *container runtime* evolucionaron, llevan
 
 Introducir este estándar permite a los usuarios finales combinar cualquier *runtime* compatible con OCI con cualquier orquestador de contenedores compatible con OCI (como Kubernetes).
 
-## Related terms
+## Términos relacionados
 
 - [Cloud Native](https://glossary.cncf.io/cloud-native-apps/)
 - [Containerization](https://glossary.cncf.io/containerization/)
