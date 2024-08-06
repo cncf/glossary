@@ -5,10 +5,7 @@ category: Technology
 tags: ["application", "", ""]
 ---
 
-Containerization is the process of bundling an application and its dependencies into a container image. 
-The container build process requires adherence to the [Open Container Initiative](https://opencontainers.org) (OCI) standard. 
-As long as the output is a container image that adheres to this standard, which containerization tool is used doesn't matter.
-
+Containerization is the process of packaging of application code including libraries and dependencies required to run the code into a single lightweight executable—called [container image](/container-image/). 
 ## Problem it addresses 
 
 Before [containers](/container/) became prevalent, organizations relied on [virtual machines](/virtual-machine/) (VMs) to 

@@ -20,6 +20,7 @@ bracex
 brømsø
 bursty
 bvs
+bytecode
 caas
 capex
 caret
@@ -38,6 +39,7 @@ cks
 cncf
 cncf's
 codebase
+codebases
 codefences
 config
 cpu
@@ -112,6 +114,7 @@ jihoon
 jonasbn
 jones
 josé
+js
 katelin
 keda
 keys
@@ -151,6 +154,7 @@ paas
 pathconverter
 pavel
 pavelskipenes
+performant
 pre
 prem
 programmatically
@@ -217,7 +221,9 @@ virtualizing
 vm
 vms
 volkman
+wasm
 wcmatch
+webassembly
 wifi
 wordlist
 wordlists
