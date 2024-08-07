@@ -15,7 +15,7 @@ les techniques visant à accroître la résilience et la [fiabilité](/fr/reliab
 La capacité d'un système à tolérer les défaillances tout en assurant une qualité de service adéquate est
 généralement une exigence du développement logiciel.
 Plusieurs aspects sont susceptibles d'entraîner des pannes d'une application,
-comme l'infrastructure, la plateforme ou d'autres parties d'une application ([microservice](/fr/microservices-architecture/).
+comme l'infrastructure, la plateforme ou d'autres parties d'une application ([microservice](/fr/microservices-architecture/)).
 Le déploiement très fréquent de nouvelles fonctionnalités dans l'environnement de production
 peut entraîner une forte probabilité d'indisponibilité et d'incident critique
 — avec des conséquences considérables pour l'entreprise.
