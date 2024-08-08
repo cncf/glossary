@@ -7,7 +7,7 @@ tags: ["infrastructure", "", ""]
 
 Une Fonction en tant que Service, ou Function as a Service (FaaS) en anglais, est un type de [service](/fr/service/) de [cloud computing](/fr/cloud-computing/) [serverless](/fr/serverless/)
 qui permet d'exécuter du code en réponse à des événements sans maintenir l'infrastructure complexe
-généralement associée à la création et au lancement d'applications en [microservices](/microservices/).
+généralement associée à la création et au lancement d'applications en [microservices](/fr/microservices-architecture/).
 Avec le FaaS, les utilisateurs ne gèrent que les fonctions et les données, tandis que le fournisseur de services cloud gère l'application.
 Cela permet aux développeurs d'obtenir les fonctions dont ils ont besoin sans avoir à payer pour des services lorsque le code n'est pas en cours d'exécution.  
 
