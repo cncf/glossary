@@ -13,7 +13,7 @@ En el contexto de [cloud native](/es/cloud-native-apps/), *runtime* generalmente
 
 Sin la abstracción de un *container runtime*, la aplicación tendría que lidiar con toda la mecánica de cada sistema operativo, aumentando la complejidad de ejecutar la aplicación.
 
-**Cómo ayuda**
+## ¿Cómo ayuda?
 
 Los *container runtimes* son un componente necesario de los orquestadores de contenedores como Kubernetes. Manejan el ciclo de vida del contenedor, lo cual hace principalmente tres cosas. Primero, define cómo se especifican las imágenes de los contenedores y cómo el *runtime* puede recuperarlas. En segundo lugar, gestionan cómo estas imágenes se descomprimen, 
 se apilan, se montan y se ejecutan. Además, los *runtimes* gestionan los recursos de hardware, encargándose de todas estas acciones a nivel del sistema operativo. Esto incluye la asignación y la aislamiento de recursos.
