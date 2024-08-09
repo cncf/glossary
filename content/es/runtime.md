@@ -9,7 +9,7 @@ Un *runtime*, en general, ejecuta un fragmento de software. Es una [abstracción
 
 En el contexto de [cloud native](/es/cloud-native-apps/), *runtime* generalmente se refiere al *container runtime*. Un *container runtime* implementa específicamente la especificación de la [Open Container Initiative](https://opencontainers.org/) para asegurar un manejo consistente a través de diferentes tecnologías de orquestación de contenedores.
 
-**Problema que resuelve**
+## Problema que aborda
 
 Sin la abstracción de un *container runtime*, la aplicación tendría que lidiar con toda la mecánica de cada sistema operativo, aumentando la complejidad de ejecutar la aplicación.
 
