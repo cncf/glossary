@@ -1,7 +1,7 @@
 ---
 title: Runtime
 status: Completed
-category: concept
+category: Concepto
 tags: ["application", "", ""]
 ---
 
