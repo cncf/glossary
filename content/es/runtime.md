@@ -16,10 +16,14 @@ Un *container runtime* específicamente implementa la especificación de la [Ope
 Sin la abstracción de un *container runtime*, la aplicación tendría que lidiar con toda la mecánica de cada sistema operativo, aumentando la complejidad de ejecutar la aplicación.
 
 ## ¿Cómo ayuda?
-
-Los *container runtimes* son un componente necesario de los orquestadores de contenedores como Kubernetes. Manejan el ciclo de vida del contenedor, lo cual hace principalmente tres cosas. Primero, define cómo se especifican las imágenes de los contenedores y cómo el *runtime* puede recuperarlas. En segundo lugar, gestionan cómo estas imágenes se descomprimen, 
-se apilan, se montan y se ejecutan. Además, los *runtimes* gestionan los recursos de hardware, encargándose de todas estas acciones a nivel del sistema operativo. Esto incluye la asignación y la aislamiento de recursos.
-Con el tiempo, diferentes productos de *container runtime* evolucionaron, llevando a la Especificación OCI, que se convirtió en el estándar para los *container runtimes*.
+Los *container runtimes* son un componente necesario de los orquestadores de contenedores como Kubernetes.
+Manejan el ciclo de vida del contenedor, lo cual hace principalmente tres cosas.
+Primero, define cómo se especifican las imágenes de los contenedores y cómo el *runtime* puede recuperarlas.
+En segundo lugar, gestionan cómo estas imágenes se descomprimen, se apilan, se montan y se ejecutan.
+Por último, los *runtimes* gestionan los recursos de hardware, encargándose de todas estas acciones a nivel del sistema operativo.
+Esto incluye la asignación y el aislamiento de recursos.
+Con el tiempo, diferentes productos de *container runtime* evolucionaron, llevando a la Especificación OCI,
+que se convirtió en el estándar para los *container runtimes*.
 
 Introducir este estándar permite a los usuarios finales combinar cualquier *runtime* compatible con OCI con cualquier orquestador de contenedores compatible con OCI (como Kubernetes).
 
