@@ -2,7 +2,7 @@
 title: Runtime
 status: Completed
 category: Concepto
-tags: ["application", "", ""]
+tags: ["aplicación", "", ""]
 ---
 
 Un *runtime*, en general, ejecuta un fragmento de software.
