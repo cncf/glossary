@@ -168,9 +168,6 @@ collaborators:
   - username: huats
     permission: push
 
-  - username: fydrah
-    permission: push
-
   - username: Krast76
     permission: push
 
@@ -178,6 +175,9 @@ collaborators:
     permission: push
 
   - username: guillaumebernard84
+    permission: push
+
+  - username: seb-835
     permission: push
 
   # l10n ur approvers
@@ -448,10 +448,10 @@ branches:
         # fr approvers
         users:
          - huats
-         - fydrah
          - Krast76
          - sestegra
          - guillaumebernard84
+         - seb-835
         teams: []
       enforce_admins: null
       required_linear_history: null
