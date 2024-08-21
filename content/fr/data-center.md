@@ -19,7 +19,7 @@ Avant les centres de données, l'échelle de l'application était limitée par l
 Mais si vous pensez à des applications à grande échelle comme Gmail ou Netflix (l'application côté serveur, pas l'interface utilisateur que vous avez sur votre téléphone ou votre ordinateur), celles-ci ont besoin d'une capacité de calcul supérieure à celle qu'un seul ordinateur peut fournir.
 C'est là qu'interviennent les centres de données.
 
-## Quel en est l'utilité
+## Quelle en est l'utilité
 
 En connectant plusieurs serveurs, les utilisateurs peuvent créer un [système distribué](/fr/distributed-systems/) qui fonctionne comme un "superordinateur".
 En regroupant la puissance de plusieurs machines, il est désormais possible d'exécuter des applications beaucoup plus importantes ou traiter des tâches de calcul beaucoup plus complexes.
