@@ -16,7 +16,7 @@ Lorsque la demande est plus faible, ces ressources informatiques sont inutilisé
 Et si la charge de travail dépasse la demande prévue, il y a une pénurie de ressources informatiques pour traiter la charge de travail.
 Ce manque de capacité de mise à l'échelle entraîne une augmentation des coûts et une utilisation inefficace des ressources.
 
-## Quel en est l'utilité
+## Quelle en est l'utilité
 
 Avec l'IaaS, les entreprises peuvent éviter d'acheter et de maintenir la capacité de calcul et le centre de données pour leurs applications.
 Une infrastructure à la demande leur permet de louer des ressources informatiques en fonction de leurs besoins et de différer d'importantes dépenses d'investissement, tout en leur donnant la possibilité d'augmenter ou de réduire leur capacité.

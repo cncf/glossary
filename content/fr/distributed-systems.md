@@ -19,7 +19,7 @@ Sans calcul distribué, beaucoup d'applications sur lesquelles nous nous appuyon
 Traditionnellement, les systèmes  [passent à l'échelle](/fr/scalability/) verticalement, ce qui correspond à l'ajout de processeur ou de mémoire à une seule machine.
 Le passage à l'échelle vertical est chronophage, nécessite un temps d'arrêt, et atteint rapidement ses limites.
 
-## Quel en est l'utilité
+## Quelle en est l'utilité
 
 Les systèmes distribués permettent un [passage à l'échelle horizontal](/fr/horizontal-scaling/) (par exemple en ajoutant des nœuds au système lorsque nécessaire).
 Ceci peut être automatisé, permettant ainsi au système de gérer une croissance soudaine de charge de travail (workload) ou de consommation de ressources.

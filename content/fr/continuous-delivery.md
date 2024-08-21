@@ -21,7 +21,7 @@ Cependant, le faire manuellement se traduit par des coûts élevés pour chaque 
 Historiquement, pour éviter ces coûts, les organisations publiaient moins fréquemment,
 déployant plus de changements à la fois et augmentant le risque que quelque chose se passe mal.
 
-## Quel en est l'utilité
+## Quelle en est l'utilité
 
 Les stratégies CD créent un parcours entièrement automatisé vers la production
 qui teste et déploie le logiciel en utilisant diverses stratégies
