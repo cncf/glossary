@@ -16,7 +16,7 @@ En termes simples, elle vise à réduire la charge du serveur plutôt qu'à éte
 Lorsque la demande d'une application dépasse la capacité actuelle de l'instance de cette application, nous devons trouver un moyen de [mettre à l'échelle](/fr/scalability/) le système (ajouter de la capacité au système).
 Nous pouvons soit ajouter plus de nœuds au système (mise à l'échelle horizontale) soit ajouter plus de ressources informatiques aux nœuds existants (mise à l'échelle verticale).
 
-## Quel en est l'utilité
+## Quelle en est l'utilité
 
 La mise à l'échelle horizontale permet aux applications de s'étendre jusqu'aux limites fournies par le cluster sous-jacent.
 En ajoutant davantage d'instances au système, l'application peut traiter un plus grand nombre de requêtes.

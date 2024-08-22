@@ -15,7 +15,7 @@ técnicas para el incremento de la resiliencia del producto y de la [confiabilid
 La capacidad del sistema para tolerar fallos al mismo tiempo que aseguran una calidad de servicio adecuado
 suele ser un típico requerimiento de desarrollo de software.
 Existen muchos aspectos involucrados al momento de la indisponibilidad de una aplicación,
-como la infraestructura, la plataforma o otras partes del ecosistema de las aplicaciones basadas en ([microservicios](/es/microservices/)).
+como la infraestructura, la plataforma o otras partes del ecosistema de las aplicaciones basadas en ([microservicios](/es/microservices-architecture/)).
 La alta frecuencia de despliegues de funcionalidades hacia el ambiente productivo puede
 aumentar la posibilidad de un incidente crítico o estar fuera de línea,
 generando consecuencias considerables para el negocio.

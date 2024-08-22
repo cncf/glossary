@@ -9,7 +9,7 @@ Plataforma como serviço, ou PaaS, é uma plataforma externa para equipes de des
 
 ## Problema relacionado
 
-Para aproveitar os padrões nativos da nuvem, como [microsserviços](/microservices/) ou [aplicações distribuídas](/distributed-apps/), as equipes de operações e os desenvolvedores precisam ser capazes de descarregar uma grande quantidade de operações e trabalho de manutenção. Isso inclui tarefas como provisionamento de infraestrutura, manipulação de [descoberta de serviço](/service-discovery/), balanceamento de carga e [escalabilidade](/pt-br/scalability/) de aplicações.
+Para aproveitar os padrões nativos da nuvem, como [microsserviços](/pt-br/microservices-architecture/) ou [aplicações distribuídas](/distributed-apps/), as equipes de operações e os desenvolvedores precisam ser capazes de descarregar uma grande quantidade de operações e trabalho de manutenção. Isso inclui tarefas como provisionamento de infraestrutura, manipulação de [descoberta de serviço](/service-discovery/), balanceamento de carga e [escalabilidade](/pt-br/scalability/) de aplicações.
 
 ## Como isso ajuda
 

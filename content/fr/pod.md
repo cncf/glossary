@@ -18,7 +18,7 @@ Si chacun de ces conteneurs étroitement liés était géré individuellement, i
 Par exemple, l'opérateur devrait continuellement déterminer l'emplacement des conteneurs liés pour s'assurer qu'ils restent ensemble.
 Et bien que les cycles de vie de ces conteneurs liés doivent être synchronisés, ils ne peuvent être gérés qu'individuellement.
 
-## Quel en est l'utilité
+## Quelle en est l'utilité
 
 Les pods regroupent des conteneurs étroitement liés en une seule unité, ce qui simplifie considérablement la gestion des conteneurs.
 Par exemple, des conteneurs auxiliaires sont souvent utilisés parallèlement au conteneur principal pour ajouter des fonctionnalités supplémentaires ou pour mettre en place des configurations globales.

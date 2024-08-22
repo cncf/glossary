@@ -13,11 +13,11 @@ Aujourd'hui, les applications Cloud Natives incluent les applications qui foncti
 ## Problème auquel il répond
 
 Traditionnellement, les environnements hébergés dans des centres de données classiques fournissent des serveurs sur mesure.
-Chaque centre de données dispose de services qui  [associent étroitement ](/fr/tightly-coupled-architectures/) les applications à des environnements spécifiques, qui se basent souvent sur des infrastructures déployées à la main, par exemple des [machines virtuelles](/fr/virtual-machine/) et des services. Cela contraint les développeurs et leurs applications à un déploiement dans ce centre de données spécifique.
+Chaque centre de données dispose de services qui  [associent étroitement ](/fr/tightly-coupled-architecture/) les applications à des environnements spécifiques, qui se basent souvent sur des infrastructures déployées à la main, par exemple des [machines virtuelles](/fr/virtual-machine/) et des services. Cela contraint les développeurs et leurs applications à un déploiement dans ce centre de données spécifique.
 Les applications qui n'ont pas été conçues pour tirer avantage des environnements Cloud ne pourront pas bénéficier de ses avantages tels que la résilience et la mise à l'échelle.
 Par exemple, les applications nécessitant une intervention manuelle pour démarrer correctement ne pourront pas se mettre à l'échelle automatiquement ou automatiquement redémarrées en cas d'erreur. 
 
-## Quel en est l'utilité
+## Quelle en est l'utilité
 
 Bien qu'il n'y ait pas de solution miracle pour qu'une application soit définie comme Cloud Native, les applications
 Cloud Natives présentent des points en commun.
