@@ -18,7 +18,7 @@ Une application monolithique peut être plus difficile à mettre à l'échelle c
 Les applications monolithiques peuvent également devenir un frein à la vitesse de développement à mesure qu'elles grossissent,
 car davantage de développeurs doivent travailler sur une base de code partagée qui n'a pas toujours des limites bien définies.
 
-## Quel en est l'utilité
+## Quelle en est l'utilité
 
 En divisant une application en différents éléments et en les exécutant à différents endroits, le système global peut tolérer davantage de pannes.
 Cela permet également à une application de tirer parti des fonctionnalités de mise à l'échelle non disponibles pour une application ayant une instance unique,

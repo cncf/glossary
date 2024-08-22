@@ -16,7 +16,7 @@ sans [virtualisation](/fr/virtualization/), est ce que l'on appelle une machine 
 Associer un système d'exploitation à un ordinateur physique est le modèle original de l'informatique.
 Toutes les ressources de l'ordinateur physique sont disponibles directement pour le système d'exploitation et sans couche de virtualisation présente, aucune latence n'est induite par la traduction des instructions du système d'exploitation vers le matériel.
 
-## Quel en est l'utilité
+## Quelle en est l'utilité
 
 En dédiant toutes les ressources de calcul d'un ordinateur à un seul système d'exploitation,
 vous fournissez théoriquement les meilleures performances possibles au système d'exploitation.
