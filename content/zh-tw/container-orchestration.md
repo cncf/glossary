@@ -4,8 +4,6 @@ status: Completed
 category: 概念
 ---
 
-## 是什麼 {#what-it-is}
-
 [容器](/zh-tw/container/)協調指的是在動態的環境中自動管理容器化應用程式的生命週期。
 這通過一個容器協調器 (大多是 [Kubernetes](/zh-tw/kubernetes)) 來執行如部署、(自動)擴展、自我修復和監控。
 協調是一個隱喻用詞:
