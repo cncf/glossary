@@ -25,16 +25,14 @@
     "test": "npm run check:links",
     "update:pkgs": "npx npm-check-updates -u"
   },
-  "dependencies": {
-    "lunr-languages": "^1.9.0"
-  },
   "devDependencies": {
-    "autoprefixer": "^9.8.6",
-    "hugo-extended": "^0.115.2",
-    "postcss-cli": "^7.1.2"
+    "autoprefixer": "^10.4.19",
+    "hugo-extended": "^0.122.0",
+    "postcss": "^8.4.38",
+    "postcss-cli": "^11.0.0"
   },
   "optionalDependencies": {
-    "netlify-cli": "^17.26.1",
+    "netlify-cli": "^17.30.0",
     "npm-check-updates": "^16.14.20"
   },
   "enginesComment": "Ensure that engines.node value stays consistent with the project's .nvmrc",
