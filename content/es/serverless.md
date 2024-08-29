@@ -5,28 +5,28 @@ Category: Tecnología
 tags: ["arquitectura", "", ""]
 ---
 
-Sin servidor (Serverless) es un modelo de desarrollo nativo en la nube que ayuda a los desarrolladores a
-crear y ejecutar aplicaciones sin tener que mantener servidores.
-Hay servidores en el modelo sin servidor, pero han sido [abstraídos](/es/abstraction/) del proceso de desarrollo.
-Un proveedor de nube se encarga del aprovisionamiento, mantenimiento y [escalamiento](/es/scalability/) de la infraestructura de servidores.
-Luego los desarrolladores pueden empacar su código en [contenedores](/es/containers/) para el despliegue.
-Una vez desplegado el código, las aplicaciones sin servidor satisfacen la demanda y escalan automáticamente según sea necesario.
-La modalidad sin servidor en proveedores de nube públicas usualmente es una medida bajo demanda a través de un modelo de ejecución basado en eventos.
-Como resultado, cuando una función sin servidor está inutilizada, no representa costo alguno.
+
+La computación sin servidor [abstrae](/es/abstraction/) los servidores del usuario.
+La gestión operativa recae en el proveedor de servicios, incluido el manejo de máquinas físicas y el aprovisionamiento de Máquinas Virtuales.
+Los proveedores de servicios pueden ser entidades de nube pública o departamentos de TI internos que prestan servicios a sus equipos de desarrollo.
+Estos proveedores ofrecen interfaces de usuario como SDK, CLIs o tiempos de ejecución compatibles con OCI, centrándose en el código y las tareas de implementación.
+Los cargos se basan en un modelo de pago por uso.
+El [escalado](/es/scalability/) y el aprovisionamiento de recursos para cómputo, almacenamiento o redes, se ajustan automáticamente en función de la demanda de la aplicación sin intervención del usuario.
+Un proveedor de plataforma sin servidor consolida recursos para atender a múltiples usuarios en una única máquina física, garantizando el aislamiento mediante la virtualización, especialmente con [Máquinas Virtuales](/es/virtual-machine/).
+
+Sin servidor (Serverless) es un término integral que abarca servicios con estos atributos y se extiende desde [Plataforma como Servicio (PaaS)](/es/platform-as-a-service/) hasta [Software como Servicio (SaaS)]( /es/software-as-a-service/).
 
 ## Problema que aborda
 
-En un modelo de [Infraestructura como Servicio](/es/infrastructure-as-a-service/),
-los usuarios compran unidades de cómputo o capacidad de forma anticipada, es decir, se paga a un proveedor de nube pública por componentes de servidores de ejecución continua para las aplicaciones.
-Es responsabilidad del usuario luego aumentar la capacidad de cómputo durante periodos de alta demanda y
-reducirla cuando ya no sea necesaria.
-La infraestructura en la nube necesaria para ejecutar una aplicación está activa incluso cuando la aplicación no está en uso.
+En los modelos tradicionales de [Infraestructura como Servicio (IaaS)](/es/infrastructure-as-a-service/), [computación en la nube](/es/cloud-computing/), los usuarios se comprometen a una capacidad predefinida, lo que genera cargos por disponibilidad del servidor independientemente del uso real.
+La responsabilidad de ajustar la capacidad del servidor para satisfacer las demandas fluctuantes recae en el usuario, manteniendo la infraestructura activa incluso durante los períodos de inactividad.
 
 ## ¿Cómo ayuda?
 
-En contraste, con la arquitectura sin servidor las aplicaciones son ejecutadas solo cuando es necesario.
-Cuando un evento llama a una aplicación a ejecutarse, el proveedor de nube pública garantiza dinámicamente una serie de recursos para que se ejecute dicho código.
-Además del beneficio de costo y eficiencia,
-el modelo sin servidor libera a los desarrolladores de las tareas rutinarias asociadas al escalado y aprovisionamiento de servidores.
-Con el modelo sin servidor, las tareas rutinarias como mantenimiento de los sistemas operativos y sistemas de archivos, parches de seguridad,
-balanceo de carga, manejo de capacidad, escalado, auditoría y monitoreo pasan a estar en manos del proveedor de servicios de nube.
+La arquitectura sin servidor introduce un enfoque más eficiente, activando servicios únicamente según demanda.
+Este modelo garantiza la asignación dinámica de recursos por parte de un proveedor de nube, eliminando costos por servicios no utilizados.
+Más allá de la eficiencia financiera y operativa, la tecnología sin servidor alivia a los desarrolladores de la carga de escalar aplicaciones y administrar la infraestructura de servidores.
+Tareas como el mantenimiento del sistema operativo, las actualizaciones de seguridad, el equilibrio de carga, la capacidad de planificación y el monitoreo se delegan al proveedor de la nube, lo que agiliza el proceso de desarrollo.
+
+Consulta la entrada del glosario [Función como Servicio (FaaS)](/es/function-as-a-service/) para obtener más información.
+Aunque "sin servidor" y "FaaS" se utilizan a menudo como términos intercambiables, incorporan conceptos distintos.

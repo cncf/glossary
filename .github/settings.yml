@@ -125,6 +125,9 @@ collaborators:
   # l10n bn approvers
   - username: Arindam200
     permission: push
+    
+  - username: asem-hamid
+    permission: push
 
   - username: Imtiaz1234
     permission: push
@@ -168,9 +171,6 @@ collaborators:
   - username: huats
     permission: push
 
-  - username: fydrah
-    permission: push
-
   - username: Krast76
     permission: push
 
@@ -178,6 +178,9 @@ collaborators:
     permission: push
 
   - username: guillaumebernard84
+    permission: push
+
+  - username: seb-835
     permission: push
 
   # l10n ur approvers
@@ -390,6 +393,7 @@ branches:
         # bn approvers
         users:
          - Arindam200
+         - asem-hamid
          - Imtiaz1234
          - mitul3737
          - sajibAdhi
@@ -448,10 +452,10 @@ branches:
         # fr approvers
         users:
          - huats
-         - fydrah
          - Krast76
          - sestegra
          - guillaumebernard84
+         - seb-835
         teams: []
       enforce_admins: null
       required_linear_history: null
