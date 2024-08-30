@@ -5,14 +5,14 @@ category: Technology
 tags: ["infrastructure", "", ""]
 ---
 
-Une Fonction en tant que Service, ou Function as a Service (FaaS) en anglais, est un modèle de cloud computing qui fournit une plateforme pour l'exécution de fonctions déclenchées par des événements, ce qui permet une mise à l'échelle automatique sans intervention manuelle.
+Une Fonction en tant que Service, ou Function as a Service (FaaS) en anglais, est un modèle de [cloud computing](/fr/cloud-computing/) qui fournit une plateforme pour l'exécution de fonctions déclenchées par des événements, ce qui permet une mise à l'échelle automatique sans intervention manuelle.
 Par essence, le FaaS permet de déployer des fonctions individuelles qui sont activées par des événements spécifiques, fonctionnent à court terme, puis s'arrêtent, ce qui permet de ne pas gaspiller de ressources.
-Ce modèle prend en charge la [mise à l'échelle automatique]](/fr/auto-scaling/), permettant à une instance de fonction d'être lancée à la demande et terminée après exécution, ce qui souligne sa nature sans état (stateless).
+Ce modèle prend en charge la [mise à l'échelle automatique]](/fr/auto-scaling/), permettant à une instance de fonction d'être lancée à la demande et terminée après exécution, ce qui souligne sa nature [sans état]](/fr/stateless-apps/) (stateless).
 Par conséquent, les plateformes FaaS peuvent mettre en œuvre une véritable approche de facturation « à la demande », éliminant les coûts lorsque les fonctions sont dormantes, ce qui les distingue d'autres modèles tels que Platform as a Service (PaaS) qui requièrent une disponibilité continue des ressources.
 
 ## Problème auquel il répond
 
-Traditionnellement, les entreprises s'appuient sur la maintenance de centres de données sur site, ce qui nécessite des investissements substantiels en matériel, en logiciels et en personnel.
+Traditionnellement, les entreprises s'appuient sur la maintenance de [centres de données]](/fr/data-center/) sur site, ce qui nécessite des investissements substantiels en matériel, en logiciels et en personnel.
 Cette configuration exige que les ressources soient adaptées à la demande de crête, ce qui entraîne une sous-utilisation des ressources lorsqu'il y a moins d'activité.
 En outre, la croissance rapide de l'activité peut dépasser les capacités informatiques, ce qui entraîne des inefficacités opérationnelles.
 En revanche, les modèles d'[Infrastructure en tant que Service (IaaS)](/fr/infrastructure-as-a-service/), tout en offrant des solutions basées sur le cloud, font toujours peser sur l'utilisateur la responsabilité de la mise à l'échelle des ressources, en exigeant un paiement pour la disponibilité continue du serveur, indépendamment de l'utilisation réelle.
