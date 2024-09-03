@@ -6,7 +6,7 @@ category: concept
 
 The Sidecar Container is an implementation of the sidecar pattern. 
 An application deployed on a second container will run side by side 
-and share its lifecycle with a primary application running on a main container.
+and share its lifecycle with a primary application running on a main container. 
 
 ## Problem it addresses
 
