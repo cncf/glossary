@@ -18,7 +18,6 @@ collecting metrics to forward to a monitoring system.
 ## How it helps
 
 The term "sidecar" comes from the representation of a classic motorcycle with its attached sidecar. In this metaphor, the bike represents the main container and the sidecar the secondary container. 
-This heterogeneous approach consists of using a separated and isolated process running on a secondary container to address problems that aren't unique to a single application but rather to the entire platform where the application is running. 
-It enforces the principle of separation of concerns, centralised configuration, and best practices for governance. Besides its flexibility, it presents other advantages such as extending functionality without changing the main application's code, using different languages deployed on different runtimes, and sharing local resources between the core and the secondary applications. 
-
-When applied to Kubernetes deployments, this approach creates a relationship of one pod to many containers, meaning that operational actions used in the pod, such as creation, scaling, and termination, will be equally applied to all containers inside. 
+This approach consists of using a separated process running on a secondary container to address problems that aren't unique to a single application but rather to the entire platform where the application is running. 
+The Sidecar Container will share the same resources (storage, networking) as the main container. While doing this, it frees the main container to be focused on functional tasks or exposing business capabilities. As a secondary container, the "sidecar" takes care of platform related tasks such as logging, monitoring or security.   
+It enforces the principle of separation of concerns and provides extending functionality without changing the main application's code. 
