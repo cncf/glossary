@@ -10,8 +10,10 @@ and share its lifecycle with a primary application running on a main container.
 
 ## Problem it addresses
 
-There are scenarios where it is convenient to group [containers](/container/) to deal with problems related to the need to support cross-platform requirements or shared functionality. 
-Problems like logging, monitoring, tracing or [observability](/observability/) in general, and security, traffic management, networking and common configurations applicable to multiple applications. These shared functionalities can be implemented independently as services and run on separate containers.
+There are scenarios where it is convenient to group [containers](/container/) to deal with cross-platform requirements or shared functionality.
+Such scenarios include [observability](/observability/) topics like logging, monitoring, tracing, but also security, and networking. 
+For example, when multiple microservices have their sidecar containers acting as loging agents to collect and forward logs to a log server, or
+collecting metrics to forward to a monitoring system.
 
 ## How it helps
 
