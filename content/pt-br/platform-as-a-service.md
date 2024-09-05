@@ -13,4 +13,4 @@ Para aproveitar os padrões nativos da nuvem, como [microsserviços](/pt-br/micr
 
 ## Como isso ajuda
 
-A PaaS fornece ferramentas de infraestrutura para desenvolvedores de aplicações de maneira totalmente automatizada. O resultado é um desenvolvimento de app mais simples, rápido e seguro que dá aos desenvolvedores a liberdade de se concentrar no código da aplicação, sem terem que se preocupar em manter a infraestrutura. A PaaS também fornece monitoramento e [observabilidade](/observability/) que ajuda a garantir que as aplicações permaneçam íntegras.
+A PaaS fornece ferramentas de infraestrutura para desenvolvedores de aplicações de maneira totalmente automatizada. O resultado é um desenvolvimento de app mais simples, rápido e seguro que dá aos desenvolvedores a liberdade de se concentrar no código da aplicação, sem terem que se preocupar em manter a infraestrutura. A PaaS também fornece monitoramento e [observabilidade](/pt-br/observability/) que ajuda a garantir que as aplicações permaneçam íntegras.

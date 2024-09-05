@@ -9,7 +9,7 @@ Infraestrutura como código é a prática de armazenar a definição da infraest
 
 ## Problema relacionado
 
-A criação de aplicações nativa em nuvem requer que a infraestrutura seja descartável e reproduzível. Também precisa ser dimensionada sob demanda de maneira automatizada e repetível, preferencialmente sem intervenção humana. O provisionamento manual não atende aos requisitos de capacidade de resposta e [escalabilidade](/scalability/) das [aplicações nativas em nuvem](/pt-br/cloud-native-apps/). As alterações manuais na infraestrutura não são reproduzíveis, rapidamente encontram limites de escala e introduzem erros na configuração.
+A criação de aplicações nativa em nuvem requer que a infraestrutura seja descartável e reproduzível. Também precisa ser dimensionada sob demanda de maneira automatizada e repetível, preferencialmente sem intervenção humana. O provisionamento manual não atende aos requisitos de capacidade de resposta e [escalabilidade](/pt-br/scalability/) das [aplicações nativas em nuvem](/pt-br/cloud-native-apps/). As alterações manuais na infraestrutura não são reproduzíveis, rapidamente encontram limites de escala e introduzem erros na configuração.
 
 ## Como isso ajuda
 
