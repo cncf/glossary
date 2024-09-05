@@ -9,7 +9,7 @@ A entrega contínua, muitas vezes conhecida como CD, é um conjunto de práticas
 
 ## Problema relacionado
 
-Implantar atualizações [confiáveis](/reliability/) se torna um problema em escala. Idealmente, implantaríamos com mais frequência para oferecer melhor valor aos usuários finais. No entanto, fazê-lo manualmente se traduz em altos custos de transação para cada alteração. Historicamente, para evitar esses custos, as organizações lançam com menos frequência, implantando mais mudanças de uma só vez e aumentando o risco que algo dê errado.
+Implantar atualizações [confiáveis](/pt-br/reliability/) se torna um problema em escala. Idealmente, implantaríamos com mais frequência para oferecer melhor valor aos usuários finais. No entanto, fazê-lo manualmente se traduz em altos custos de transação para cada alteração. Historicamente, para evitar esses custos, as organizações lançam com menos frequência, implantando mais mudanças de uma só vez e aumentando o risco que algo dê errado.
 
 ## Como isso ajuda
 
