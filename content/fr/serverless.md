@@ -27,7 +27,7 @@ L'architecture serverless permet une approche plus efficace, en activant les ser
 Ce modèle garantit une allocation dynamique des ressources par un fournisseur de cloud, éliminant ainsi les coûts liés aux services inutilisés.
 Outre des gains d'efficacité financière et opérationnelle,
 la technologie serverless soulage les développeurs des charges liées à la mise à l'échelle des applications et à la gestion de l'infrastructure des serveurs.
-Des tâches telles que la maintenance du système d'exploitation, les mises à jour de sécurité, l'équilibrage de la charge, la planification de la capacité et la surveillance sont déléguées au fournisseur de cloud, ce qui rationalise le processus de développement.
+Des tâches telles que la maintenance du système d'exploitation, les mises à jour de sécurité, l'équilibrage de la charge, la planification de la capacité et la supervision sont déléguées au fournisseur de cloud, ce qui rationalise le processus de développement.
 
 Pour plus d'informations, voir l'entrée du glossaire [Fonction en tant que Service (FaaS)](/fr/function-as-a-service/).
 Bien que les termes « serverless » et « FaaS » soient souvent utilisés comme des termes interchangeables, ils correspondent à des concepts distincts.
