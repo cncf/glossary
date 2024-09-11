@@ -14,7 +14,7 @@ Par conséquent, les plateformes FaaS peuvent mettre en œuvre une véritable ap
 
 Traditionnellement, les entreprises s'appuient sur l'exploitation de [centres de données]](/fr/data-center/) sur site, ce qui nécessite des investissements substantiels en matériel, en logiciels et en personnel.
 Cette configuration exige que les ressources soient adaptées à la demande maximale, ce qui entraîne une sous-utilisation des ressources lorsqu'il y a moins d'activité.
-En outre, la croissance rapide de l'activité peut dépasser les capacités informatiques, ce qui entraîne des inefficacités opérationnelles.
+En outre, la croissance rapide de l'activité peut surcharger les capacités informatiques, ce qui entraîne des inefficacités opérationnelles.
 En revanche, les modèles d'[Infrastructure en tant que Service (IaaS)](/fr/infrastructure-as-a-service/), tout en offrant des solutions basées sur le cloud, font toujours peser sur l'utilisateur la responsabilité de la mise à l'échelle des ressources, en exigeant un paiement pour la disponibilité continue du serveur, indépendamment de l'utilisation réelle.
 
 ## Quelle en est l'utilité
