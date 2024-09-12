@@ -182,8 +182,7 @@ to get a feeling for the level of detail and difficulty and when examples are ap
 
 ## Sign Language Video Style Guide {#sign-language-style-guide}
 
-
-### If you are contributing a sign language video, please follow these guidelines to ensure our videos are clear, informative, and accessible to a wide audience (Including hearing community members).
+If you are contributing a sign language video, please follow these guidelines to ensure our videos are clear, informative, and accessible to a wide audience (Including hearing community members).
 
 
 ### Technical equipment
