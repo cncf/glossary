@@ -195,93 +195,73 @@ All you need is a high-resolution camera and a stand. A modern smartphone should
 
 
 
-* 
-Lighting: Frontal light
+* **Lighting:** Frontal light
 
 
-* 
-Background: Record in front of a flat, solid background so it doesn't distract from the signing, and ensure no distracting decorations are included.
+* **Background:** Record in front of a flat, solid background so it doesn't distract from the signing, and ensure no distracting decorations are included.
 
 
-* 
-Dress Code: Solid single-color top (no prints) contrasting your skin tone.
+* **Dress Code:** Solid single-color top (no prints) contrasting your skin tone.
 
 
-* 
-Camera Position: Head to elbow should be on the screen and the camera should be positioned near the eye's height. The camera should also be perpendicular to the background (the background behind you should not be slanted).
+* **Camera Position:** Head to elbow should be on the screen and the camera should be positioned near the eye's height. The camera should also be perpendicular to the background (the background behind you should not be slanted).
 
 
-* 
-Signing Space: Use as much space as possible, ensuring you have full signing space while sitting or standing.
+* **Signing Space:** Use as much space as possible, ensuring you have full signing space while sitting or standing.
 
 
-* 
-Sound: Mute the microphone (input audio) when possible to avoid involuntary background noise.
+* **Sound:** Mute the microphone (input audio) when possible to avoid involuntary background noise.
 
 ### Signing
 
 
 
-* 
-Clarity and Accuracy: Record the sign twice: frontally and from the side, and sign slowly enough, so non-signers can see and mimic it. 
+* **Clarity and Accuracy:** Record the sign twice: frontally and from the side, and sign slowly enough, so non-signers can see and mimic it. 
 
 
-* 
-Facial Expression: Use relaxed or neutral facial expressions. Mouthing or making grimaces is strongly discouraged. Maintain your eyes on the camera if possible.
+* **Facial Expression:** Use relaxed or neutral facial expressions. Mouthing or making grimaces is strongly discouraged. Maintain your eyes on the camera if possible.
 
 
-* 
-Frequency: Only one sign is enough for each video as playback can be looped. Repeating the sign in a video is unnecessary.
+* **Frequency:** Only one sign is enough for each video as playback can be looped. Repeating the sign in a video is unnecessary.
 
 
-* 
-Duration: The total length of the video should not be more than 7 seconds.
+* **Duration:** The total length of the video should not be more than 7 seconds.
 
 
-* 
-Fingerspelling: Use sign language for the word as much as possible as fingerspelling is the last resort, commonly reserved for abbreviated or short words.
+* **Fingerspelling:** Use sign language for the word as much as possible as fingerspelling is the last resort, commonly reserved for abbreviated or short words.
 
 
-* 
-Posture: While signing, only maintain frontal orientation with eyes facing the camera while positioned. Demonstrating signs using side orientation is unnecessary. When at rest, arms should be down with hands relaxed.
+* **Posture:** While signing, only maintain frontal orientation with eyes facing the camera while positioned. Demonstrating signs using side orientation is unnecessary. When at rest, arms should be down with hands relaxed.
 
 ### Tips
 
 
 
-* 
-Save storage space: Please remember the shorter the video, the smaller the file would be. The quicker it would be when uploading.
+* **Save storage space:** Please remember the shorter the video, the smaller the file would be. The quicker it would be when uploading.
 
 
-* 
-Mistakes are good: Keep the recording running while making several attempts. It is more likely you will find a good clip in between several tries and you would only need to trim the unwanted parts out. This is more efficient than making multiple recordings with one sign attempt in each.
+* **Mistakes are good:** Keep the recording running while making several attempts. It is more likely you will find a good clip in between several tries and you would only need to trim the unwanted parts out. This is more efficient than making multiple recordings with one sign attempt in each.
 
 
-* 
-Videos Examples: Please refer to the [CNCF Glossary: Cloud Native Signs](https://www.youtube.com/playlist?list=PLj6h78yzYM2PDlYnmfpRfKgcgBMb34kb5) playlist for examples. 
+* **Videos Examples:** Please refer to the [CNCF Glossary: Cloud Native Signs](https://www.youtube.com/playlist?list=PLj6h78yzYM2PDlYnmfpRfKgcgBMb34kb5) playlist for examples. 
 
 ### Post-Production
 
 
 
-* 
-Editing: If necessary, trim the beginning and the end.
+* **Editing:** If necessary, trim the beginning and the end.
 
 
-* 
-Label: At a minimum, the filename of the video should contain the glossary term of the sign before uploading.
+* **Label:** At a minimum, the filename of the video should contain the glossary term of the sign before uploading.
 
 
-* 
-Audio: Remove the entire audio feed if applicable.
+* **Audio:** Remove the entire audio feed if applicable.
 
 
-* 
-Upload: Please do not upload the videos to your personal YouTube as YouTube could potentially remove duplicate videos from all accounts using the same videos (to prevent monetizing abuse) as CNCF uses YouTube to upload final videos. 
+* **Upload:** Please do not upload the videos to your personal YouTube as YouTube could potentially remove duplicate videos from all accounts using the same videos (to prevent monetizing abuse) as CNCF uses YouTube to upload final videos. 
 
 
-* 
-Video upload on CNCF playlist: Share the video on the #glossary-sign-language Slack channel and ask for feedback. If approved, the Sign Language Glossary leads will help you upload the video to the CNCF Playlist. 
+* **Video upload on CNCF playlist:** Share the video on the #glossary-sign-language Slack channel and ask for feedback. If approved, the Sign Language Glossary leads will help you upload the video to the CNCF Playlist. 
 
 ## The review process: What to expect
 
