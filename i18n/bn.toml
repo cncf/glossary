@@ -55,11 +55,11 @@ other = "তৈরি হয়েছে"
 [post_last_mod]
 other = "সর্বশেষ পরিবর্তিত"
 [post_edit_this]
-other = "এই পৃষ্ঠাটি সম্পাদনা করুন"
+other = "এই পৃষ্ঠাটি এডিট করুন"
 [post_create_child_page]
 other = "চাইল্ড পেজ তৈরি করুন"
 [post_create_issue]
-other = "রিপোর্ট সমস্যা"
+other = "রিপোর্ট ইস্যু"
 [post_create_project_issue]
 other = "প্রকল্পের সমস্যা (issue) তৈরি করুন"
 [post_posts_in]
