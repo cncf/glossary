@@ -1,5 +1,5 @@
 ---
-title: Observability
+title: Наблюдаемость
 status: Completed
 category: concept
 tags: ["property", "", ""]
