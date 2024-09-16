@@ -14,10 +14,15 @@ of managing them yourself, allowing you to focus on creating your application.
 
 ## Problem it addresses
 
-PaaS tackles the challenge of setting up and maintaining the complex environment needed to develop applications. 
-By offering a pre-built environment, it eliminates the need for companies to spend time and resources on managing servers,
-storage, and development tools. This allows them to focus their efforts on what truly matters - creating innovative and 
-creative applications.
+PaaS (Platform as a Service) addresses the complexities of setting up and maintaining a development environment by providing
+a pre-built platform. This eliminates the need for companies to manage servers, storage, and development tools, 
+allowing them to focus on building innovative applications. PaaS often leverages IaaS (Infrastructure as a Service) or 
+bare metal to allocate dedicated infrastructure resources.
+
+By abstracting away the underlying infrastructure, PaaS offers a simplified interface for developers. 
+This abstraction allows companies to focus on application development without being burdened by the intricacies of 
+managing the underlying technology. PaaS provides a scalable and flexible environment, enabling businesses to easily adapt 
+to changing demands and grow their applications as needed.
  
 
 ## How it helps
