@@ -18,7 +18,7 @@ allowing developers to focus on the core task of writing innovative code.
 
 ## How it helps
 
-Platform engineering tackles the issue of inefficient software development by providing developers with a pre-built toolkit.
-This toolkit includes tools and automated processes that streamline common tasks. In essence, it eliminates the 
-need for developers to spend time on repetitive setup or configuration, 
-allowing them to focus on what matters most: Writing more innovative code.
+Platform engineering addresses the inefficiencies of software development by providing developers with 
+a pre-built toolkit. This toolkit, often built on top of infrastructure as a service (IaaS) or bare metal, 
+includes tools and automated processes that streamline common tasks. By abstracting away the complexities of 
+infrastructure management, platform engineering allows developers to focus on writing innovative code
