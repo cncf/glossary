@@ -5,8 +5,6 @@ category: conceito
 tags: ["aplicação", "fundamento", ""]
 ---
 
-## O que é
-
 As aplicações nativas em nuvem são projetadas especificamente para aproveitar as inovações em [computação em nuvem](/pt-br/cloud-computing/). Essas aplicações se integram facilmente às suas respectivas arquiteturas de nuvem, aproveitando, assim, os recursos e o [dimensionamento](/scalability/) da nuvem. Também se refere a aplicativos que aproveitam as inovações da infraestrutura impulsionadas pela computação em nuvem. Hoje, as aplicações nativas em nuvem incluem aplicativos que são executados tanto em datacenter de um provedor de nuvem pública, quanto em plataformas de nuvens privadas.
 
 ## Problema relacionado

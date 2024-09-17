@@ -2,10 +2,8 @@
 title: ক্রমাগত স্থাপনা (Continuous Deployment (CD))
 status: Completed
 category: ধারণা
-tags: ["application", "methodology", ""]
+tags: ["অ্যাপ্লিকেশন", "পদ্ধতি", ""]
 ---
-
-## এটা কি
 
 ক্রমাগত স্থাপনা (Continuous Deployment), প্রায়ই CD হিসাবে সংক্ষেপে, সরাসরি উৎপাদনে সমাপ্ত সফ্টওয়্যার (software) স্থাপনের মাধ্যমে [ক্রমাগত বিতরণ (Continuous Delivery)](/bn/continuous-delivery/) থেকে এক ধাপ এগিয়ে যায়।
 ক্রমাগত স্থাপনা (CD) [ক্রমাগত একীকরণ (Continuous Integration)](/bn/continuous-integration/) (CI) এর সাথে হাত মিলিয়ে যায় এবং প্রায়ই CI/CD হিসাবে উল্লেখ করা হয়।

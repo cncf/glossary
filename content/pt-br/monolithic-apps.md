@@ -5,8 +5,6 @@ category: conceito
 tags: ["arquitetura", "", ""]
 ---
 
-## O que é
-
 Uma aplicação monolítica contém todas as funcionalidades em um único programa. 
 Este é muitas vezes o lugar mais simples e fácil para começar ao fazer uma aplicação. 
 No entanto, uma vez que a aplicação cresce em complexidade, os monólitos podem se tornar difíceis de manter. 

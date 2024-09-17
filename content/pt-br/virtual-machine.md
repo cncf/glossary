@@ -5,8 +5,6 @@ category: tecnologia
 tags: ["fundamento", "infraestrutura", ""]
 ---
 
-## O que é
-
 Uma máquina virtual ou VM (do inglês "Virtual Machine") é a inexistência de vínculo de um computador e seu sistema operacional a um hardware específico. As VMs dependem da [virtualização](/pt-br/virtualization/) para transformar um único computador físico em vários computadores virtuais. Essa separação permite que organizações e provedores de infraestrutura criem e destruam facilmente VMs sem afetar o hardware fisicamente.
 
 ## Problema relacionado

@@ -4,8 +4,6 @@ status: Completed
 category: Concepto
 ---
 
-## ¿Qué es?
-
 La orquestación de [contenedores](/es/container/) se refiere al manejo y automatización del ciclo de vida de una aplicación contenedorizada en ambientes dinámicos.
 Es ejecutada a través de un orquestador de contenedores (por lo general, [Kubernetes](/es/kubernetes)), el cual ofrece despliegues, autoescalado, auto reparación y monitoreo.
 La orquestación es metafórica:

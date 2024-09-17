@@ -2,7 +2,7 @@
 title: পরিষেবা (Service)
 status: Completed
 category: ধারণা
-tags: ["application", "fundamental", ""]
+tags: ["অ্যাপ্লিকেশন", "মৌলিক", ""]
 ---
 
 দয়া করে মনে রাখবেন যে আইটি (IT)-তে, পরিষেবার একাধিক অর্থ রয়েছে।

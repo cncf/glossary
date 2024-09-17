@@ -2,10 +2,8 @@
 title: Aplicaciones monolíticas
 status: Completed
 category: Concepto
-tags: ["architecture", "fundamental", ""]
+tags: ["arquitectura", "fundamento", ""]
 ---
-
-## ¿Qué es?
 
 Una aplicación monolítica contiene toda la funcionalidad en un único programa desplegable.
 Suele ser el punto de partida más sencillo y fácil a la hora de crear una aplicación.

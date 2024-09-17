@@ -31,4 +31,4 @@ VMs allow you to use your existing physical hardware resources better
 by placing multiple virtual machines on a single physical machine. 
 Not bound to a particular physical machine, VMs are also more resilient than physical machines. 
 When a physical machine needs to go offline, 
-the VMs running on it can be moved to another machine with little to no downtime
+the VMs running on it can be moved to another machine with little to no downtime.

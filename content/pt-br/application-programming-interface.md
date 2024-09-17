@@ -5,8 +5,6 @@ category: tecnologia
 tags: ["arquitetura", "fundamento", ""]
 ---
 
-## O que é
-
 Uma API (interface de programação de aplicações - do inglês: applications protocol interface) é um modo como programas de computador interagem uns com os outros. Assim como humanos interagem com um site através de uma página web, uma API permite que programas de computador interajam uns com os outros. Ao contrário das interações humanas, as APIs possuem limitações sobre o que pode e o que não pode ser solicitado a elas. Essa interação limitada ajuda a criar uma comunicação estável e funcional entre programas.
 
 ## Problema relacionado

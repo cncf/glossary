@@ -5,8 +5,6 @@ category: conceito
 tags: ["metodologia", "aplicação", "infraestrutura"]
 ---
 
-## O que é
-
 Observabilidade é a capacidade de gerar e descobrir continuamente insights acionáveis com base em sinais do sistema sob observação. 
 Em outras palavras, a observabilidade permite que os usuários entendam o estado de um sistema a partir de sua saída externa e tome ação (corretiva).
 

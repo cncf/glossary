@@ -1,8 +1,8 @@
 ---
 title: শিথিল সংযোজিত স্থাপত্য (Loosely Coupled Architecture)
 status: Completed
-category: ধারণা
-tags: ["fundamental", "architecture", "property"]
+category: বৈশিষ্ট্য
+tags: ["মৌলিক", "স্থাপত্য", "বৈশিষ্ট্য"]
 ---
 
 শিথিল সংযোজিত স্থাপত্য হল সেই ধরনের স্থাপত্যশৈলী যেখানে প্রতিটি পৃথক উপাদান স্বাধীনভাবে তৈরি হয় ([ দৃঢ় সংবদ্ধ স্থাপত্য শৈলীর](/bn/tightly-coupled-architectures/) ঠিক বিপরীত )| অনেক সময় এর প্রতিটি উপাদানকে [মাইক্রোসার্ভিসেস আর্কিটেকচার](/bn/microservices-architecture/) হিসেবে চিহ্নিত করা যায় 

@@ -11,7 +11,7 @@ As long as the output is a container image that adheres to this standard, which 
 
 ## Problem it addresses 
 
-Before containers became prevalent, organizations relied on virtual machines (VMs) to 
+Before [containers](/container/) became prevalent, organizations relied on [virtual machines](/virtual-machine/) (VMs) to 
 orchestrate multiple applications on a single [bare-metal machine](/bare-metal-machine/). 
 VMs are significantly larger than containers and require a hypervisor to run. 
 Due to the storage, backup, and transfer of these larger VM templates, creating the VM templates is also slow. 

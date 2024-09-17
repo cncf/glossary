@@ -2,10 +2,8 @@
 title: Aplicaciones sin estado
 status: Feedback Appreciated
 category: Tecnología
-tags: ["fundamental", "application", ""]
+tags: ["fundamento", "aplicación", ""]
 ---
-
-## ¿Qué es?
 
 Una aplicación sin estado o independiente al estado, es la que no guarda ningún dato de sesión del cliente (estado) en el servidor donde la aplicación vive.
 Cada sesión del usuario se maneja como si fuese la primera vez y las respuestas no son dependientes de datos de la sesión anterior y

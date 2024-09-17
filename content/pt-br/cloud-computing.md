@@ -5,7 +5,6 @@ category: conceito
 tags: ["infraestrutura", "fundamento", ""]
 ---
 
-## O que é
 Computação em nuvem é um modelo que oferece recursos computacionais, como CPU, rede e disco, sob demanda através da internet. A computação em nuvem permite que usuários acessem e usem poder computacional a partir de um local físico remoto. Provedores de nuvem, como AWS, GCP, Azure, Digital Ocean e outros, oferecem a terceiros a capacidade de alugar acesso a recursos computacionais em múltiplas localizações geográficas.
 
 ## Problema relacionado

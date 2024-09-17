@@ -15,7 +15,7 @@ techniques to increase product resiliency and [reliability](/reliability/).
 A system's ability to tolerate failures while ensuring adequate service quality is 
 typically a software development requirement. 
 There are several aspects involved that could lead to outages of an application, 
-like infrastructure, platform or other moving parts of a ([microservice](/microservices/)-based) application. 
+like infrastructure, platform or other moving parts of a ([microservice](/microservices-architecture/)-based) application. 
 High-frequency deployment of new features to the production environment can 
 result in a high probability of downtime and a critical incident 
 — with considerable consequences to the business.

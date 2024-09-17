@@ -1,0 +1,87 @@
+
+
+# UI strings. Buttons and similar.
+
+[ui_pager_prev]
+other = "Пред."
+
+[ui_pager_next]
+other = "След."
+
+[ui_read_more]
+other = "Подробнее"
+
+[ui_search]
+other = "Поиск по сайту"
+
+# Used in sentences such as "Posted in News"
+[ui_in]
+other = "в"
+
+# Phrases for tags
+[ui_see_all_tags]
+other = "Смотреть все теги"
+[ui_tag]
+other = "Тег"
+[ui_tags]
+other = "Теги"
+[ui_search_by_tags]
+other = "Фильтр по тегам"
+[ui_tags_intro]
+other = "Термины глоссария разбиты по категориям. Используйте фильтры для просмотра терминов по тегам."
+[ui_or_search_by_tags]
+other = "фильтр по тегам"
+[ui_select_all]
+other = "Выбрать все"
+[ui_deselect_all]
+other = "Отменить выбор"
+
+# Footer text
+[footer_all_rights_reserved]
+other = "Все права защищены"
+
+[footer_privacy_policy]
+other = "Политика конфиденциальности"
+
+[footer_hub_button_text]
+other = "Все сайты CNCF"
+
+# Post (blog, articles etc.)
+[post_byline_by]
+other = "Автор"
+[post_created]
+other = "Создано"
+[post_last_mod]
+other = "Последнее изменение"
+[post_edit_this]
+other = "Редактировать страницу"
+[post_create_child_page]
+other = "Создать дочернюю страницу"
+[post_create_issue]
+other = "Сообщить об ошибке"
+[post_create_project_issue]
+other = "Создать Issue"
+[post_posts_in]
+other = "Публикации в"
+[post_reading_time]
+other = "минут(ы)"
+
+# Print support
+[print_printable_section]
+other = "Это многостраничный печатный вид данного раздела."
+[print_click_to_print]
+other = "Распечатать"
+[print_show_regular]
+other = "Вернуться к обычному виду"
+[print_entire_section]
+other = "Распечатать весь раздел"
+
+# Feedback section
+[feedback_title]
+other = "Обратная связь"
+[feedback_question]
+other = "Полезна ли эта страница?"
+[feedback_answer_yes]
+other = "Да"
+[feedback_answer_no]
+other = "Нет"

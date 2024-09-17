@@ -69,6 +69,8 @@ Antes de concluir la creación del pull request (PR), necesita firmar el [Contri
 
 También necesitará [verificar la firma de su commit](https://docs.github.com/en/authentication/managing-commit-signature-verification/about-commit-signature-verification) y activar el [modo vigilante](https://docs.github.com/en/authentication/managing-commit-signature-verification/displaying-verification-statuses-for-all-of-your-commits#about-vigilant-mode) en GitHub para comprobar el origen de su commit y mostrar el estado "verified".  
 
+![Verificar firma del commit](/images/how-to/verifying-signature.png)
+
 ## Proponer nuevos términos {#propose-new-terms}
 
 Puede proponer un nuevo término para que otros trabajen en él o crear una nueva definición usted mismo.
@@ -136,6 +138,9 @@ Copie el contenido…
 ![copiar contenido](/images/how-to/howto-08.png)
 
 Cambie de branch a "dev-es", regrese a la carpeta /content/ y seleccione "es". 
+
+![cambiar de branch](/images/content/es/switch-branch.png)
+
 Presione "Add file" y seleccione "Create new file."
 
 ![crear un archivo nuevo](/images/how-to/howto-09.png)
@@ -182,7 +187,7 @@ Esto abrirá directamente un issue. Explique qué cambio es necesario y por qué
 
 Para cambiar un término directamente, vaya a "Editar esta página".
 
-![edit this page](/images/how-to/howto-16.png)
+![editar esta página](/images/how-to/howto-16.png)
 
 Esto abrirá la página del término en GitHub. Realice sus cambios y envíe un PR.
 Consulte "Envío de un nuevo término" (más arriba en este documento) para obtener una descripción mas detallada (salte a la sección que habla acerca de markdown).
@@ -211,4 +216,3 @@ Para poder añadir nuevas palabras a la lista en español, siga los siguientes p
 
 Nótese que las palabras están en orden alfabético, le pedimos encarecidamente mantenga este orden. 
 La revisión ortográfica ignora el uso de mayúsculas y minúsculas. 
-

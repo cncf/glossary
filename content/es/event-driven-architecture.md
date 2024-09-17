@@ -2,10 +2,8 @@
 title: Arquitectura Basada en Eventos
 status: Completed
 category: Concepto
-tags: ["architecture", "", ""]
+tags: ["arquitectura", "", ""]
 ---
-
-## ¿Qué es?
 
 La arquitectura basada en eventos es una arquitectura de software que promueve la creación, procesamiento y consumo de eventos.
 Un evento es cualquier cambio en el estado de una aplicación.

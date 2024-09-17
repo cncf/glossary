@@ -5,8 +5,6 @@ category: conceito
 tags: [metodologia", "aplicação", ""]
 ---
 
-## O que é
-
 A entrega contínua, muitas vezes conhecida como CD, é um conjunto de práticas nas quais as alterações de código são implantadas automaticamente em um ambiente de aceitação (ou, no caso de implantação contínua, na produção). A entrega contínua inclui procedimentos cruciais para garantir que o software seja testado adequadamente antes da implantação e fornecer uma maneira de reverter as alterações, se necessário. A integração contínua (CI) é o primeiro passo para a entrega contínua (ou seja, as alterações precisam se fundir de forma limpa antes de serem testadas e implantadas).
 
 ## Problema relacionado

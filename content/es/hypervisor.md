@@ -2,10 +2,8 @@
 title: Hipervisor
 status: Feedback Appreciated
 category: Tecnología
-tags: ["application", "", ""]
+tags: ["aplicación", "", ""]
 ---
-
-## ¿Qué es?
 
 Un hipervisor utiliza el concepto de [virtualización](/es/virtualization/)
 aprovechando los recursos de la llamada [máquina bare metal](/es/bare-metal-machine/)

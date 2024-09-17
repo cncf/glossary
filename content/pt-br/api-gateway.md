@@ -5,8 +5,6 @@ category: conceito
 tags: ["redes", "", ""]
 ---
 
-## O que é
-
 Um gateway de [API](/pt-br/application-programming-interface/) é uma ferramenta que agrega aplicações APIs exclusivas, tornando-as todas disponíveis em um só lugar. Ele permite que as organizações movam funções importantes, como autenticação e autorização ou limitação do número de solicitações entre aplicativos, para um local com gerenciamento centralizado. Um gateway de API funciona como uma interface comum para consumidores de API (geralmente externos).
 
 ## Problema relacionado
