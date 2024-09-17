@@ -132,3 +132,23 @@
 		}
 	}
 }
+
+.hello-bar {
+    background: #000;
+    color: #fff;
+    font-size: .9em;
+    font-weight: 400;
+    letter-spacing: .24px;
+    line-height: 1.15;
+    padding: .4rem;
+    text-align: center;
+    width: 100%;
+	display: none;
+	z-index: 999;
+	position: relative;
+	a {
+		color: unset;
+		font-weight: 400;
+		text-decoration: underline;
+	}
+}
