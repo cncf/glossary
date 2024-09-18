@@ -1,5 +1,5 @@
 ---
-title: Узел
+title: Узлы
 status: Completed
 category: Concept
 tags: ["infrastructure", "fundamental", ""]
