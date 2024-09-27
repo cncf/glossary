@@ -6,7 +6,7 @@ tags: ["networking", "", ""]
 ---
 
 Bei einer [Microservice-Architektur](/microservices-architecture/) werden Anwendungen in mehrere kleinere [Services](/service/) aufgeteilt, die über ein Netzwerk kommunizieren.  
-Ähnlich wie WLAN-Netzwerke, sind auch Computernetzwerke von Natur aus unzuverlässig, angreifbar und können langsman sein. 
+Ähnlich wie WLAN-Netzwerke, sind auch Computernetzwerke von Natur aus unzuverlässig, angreifbar und können langsam sein. 
 Service Meshes bewältigen diese neuen Herausforderungen, indem sie den Datenverkehr (d. h. die Kommunikation) zwischen den Services verwalten und 
 [Zuverlässigkeit](/reliability/), [Beobachtbarkeit](/observability/) und Sicherheitsfunktionen einheitlich für alle Dienste hinzufügen.
 
