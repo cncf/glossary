@@ -16,7 +16,7 @@ Nach der Umstellung auf eine Microservices-Architektur haben es Softwareentwickl
 Das bedeutet, dass eine Menge Datenverkehr über das Netzwerk hin und her fließt. 
 Darüber hinaus müssen einzelne Anwendungen möglicherweise die Kommunikation verschlüsseln, um gesetzliche Anforderungen zu erfüllen. 
 Außerdem sind womöglich gemeinsame Metriken für Betriebsteams bereitzustellen oder detaillierte Einblicke in den Datenverkehr zu geben, um Probleme zu diagnostizieren. 
-Wenn jede dieser Funktionen in den einzelnen Services implementiert wird, führt das zu mangelnder Vereinheitlichung und hohem Abstimmungsbedarf und verlangsamt außerdem die Entwicklung neuer Funktionen.
+Wenn jede dieser Funktionen in den einzelnen Services implementiert wird, führt das zu mangelnder Vereinheitlichung, hohem Abstimmungsbedarf und verlangsamt außerdem die Entwicklung neuer Funktionen.
 
 ## How it helps
 
