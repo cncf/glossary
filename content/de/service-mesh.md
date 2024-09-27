@@ -12,7 +12,7 @@ Service Meshes bewältigen diese neuen Herausforderungen, indem sie den Datenver
 
 ## Problem it addresses
 
-Nach der Umstellung auf eine Microservices-Architektur haben es die Ingenieure mit vielen einzelnen Diensten, die alle miteinander kommunizieren müssen. 
+Nach der Umstellung auf eine Microservices-Architektur haben es Softwareentwickler mit vielen einzelnen Diensten zu tun, die alle miteinander kommunizieren müssen. 
 Das bedeutet, dass eine Menge Datenverkehr über das Netzwerk hin und her fließt. 
 Darüber hinaus müssen einzelne Anwendungen möglicherweise die Kommunikation verschlüsseln, um gesetzliche Anforderungen zu erfüllen. 
 Außerdem sind womöglich gemeinsame Metriken für Betriebsteams bereitzustellen oder detaillierte Einblicke in den Datenverkehr zu geben, um Probleme zu diagnostizieren. 
