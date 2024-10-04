@@ -11,8 +11,8 @@ Während der CI-Prozess, die Änderungen an der Codebasis validiert, stellt der 
 
 ## Welches Problem es löst
 
-Die Freigabe neuer Softwareversionen ohne Continous Deployment kann ein arbeitsintensiver und fehleranfälliger Prozess sein.
-Außerdem kann es Tage oder Wochen dauern, dass sie durchgeführt werden, da sie oft von anderen Abteilungen als die, die Software entwickelt.
+Die Freigaben neuer Softwareversionen ohne Continous Deployment kann ein arbeitsintensiver und fehleranfälliger Prozess sein.
+Außerdem können sie Tage oder Wochen dauern, da sie oft von anderen Abteilungen durchgeführt werden als die, die die Software entwickelt.
 Aufgrund dieser Probleme werden häufige Aktualisierungen auf dem Produktivsystem vermieden, was zu einer geringeren Reaktionsfähigkeit auf neue Anforderungen führt.
 
 ## Wie es das Problem löst
