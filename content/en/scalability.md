@@ -6,7 +6,7 @@ tags: ["fundamental", "property", ""]
 ---
 
 Scalability refers to how well a system can grow. 
-That is increasing the ability to do whatever the system is supposed to do. 
+That is increasing the ability to do whatever the system is supposed to do. Scalability is measured by the ratio of throughput gain to resource increase. In a well-designed scalable system both numbers should be proportional: a twofold allocation of resources should double the throughput.
 For example, a [Kubernetes](/kubernetes/) [cluster](/cluster/) scales by 
 increasing or reducing the number of [containerized](/containerization/) apps, 
 but that scalability depends on several factors. 
