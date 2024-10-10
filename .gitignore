@@ -1,10 +1,12 @@
 
-public/
-resources/
-node_modules/
-.hugo_build.lock
 .DS_Store
+.hugo_build.lock
+/public
+/resources
+node_modules/
+package-lock.json
 pagefind
+tmp/
 
 # Local Netlify folder
 .netlify
