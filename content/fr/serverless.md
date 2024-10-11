@@ -5,7 +5,7 @@ Category: Technology
 tags: ["architecture", "", ""]
 ---
 
-L'informatique serverless, que l'on pourrait traduire littéralement "sans serveur", [abstrait](/fr/abstraction/) les serveurs pour l'utilisateur.
+L'informatique serverless, que l'on pourrait traduire littéralement "sans serveur", [abstrait](/fr/abstraction/) les serveurs du point de vue de l'utilisateur.
 La gestion opérationnelle incombe au fournisseur de services, y compris la gestion des machines physiques et le provisionnement des machines virtuelles.
 Les fournisseurs de services peuvent être des fournisseurs de cloud public ou des équipes informatiques internes au service de leurs équipes de développement.
 Ces fournisseurs proposent des interfaces utilisateur telles que des SDK (Software Development Kit — Kit de Développement Logiciel), des CLI (Command Line Interface — interface en ligne de commande) ou des [runtimes](/fr/runtime/) conformes à l'OCI, en se concentrant les tâches de développement et de déploiement.
