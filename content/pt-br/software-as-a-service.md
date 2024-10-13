@@ -9,7 +9,7 @@ O Software como Serviço (do inglês *Software as a service* - SaaS) permite que
 
 ## Problema relacionado
 
-Tradicionalmente, o software de negócios é instalado em computadores individuais, exigindo que um administrador mantenha e atualize. Por exemplo: uma organização pode usar software local para gerenciamento de relacionamento com o cliente. Este software precisa ser comprado, instalado, protegido, mantido e atualizado regularmente pelo departamento interno de Tecnologia da Informação (TI), sobrecarregando a equipe de TI. O custo inicial associado a licenças, instalação e hardware potencialmente adicional pode ser proibitivo. Também pode ser difícil responder à demanda e a [escala](/scalability/) para cima e para baixo, conforme necessário, rapidamente em resposta ao crescimento ou mudança.
+Tradicionalmente, o software de negócios é instalado em computadores individuais, exigindo que um administrador mantenha e atualize. Por exemplo: uma organização pode usar software local para gerenciamento de relacionamento com o cliente. Este software precisa ser comprado, instalado, protegido, mantido e atualizado regularmente pelo departamento interno de Tecnologia da Informação (TI), sobrecarregando a equipe de TI. O custo inicial associado a licenças, instalação e hardware potencialmente adicional pode ser proibitivo. Também pode ser difícil responder à demanda e a [escala](/pt-br/scalability/) para cima e para baixo, conforme necessário, rapidamente em resposta ao crescimento ou mudança.
 
 ## Como isso ajuda
 
