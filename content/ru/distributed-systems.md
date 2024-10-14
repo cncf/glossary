@@ -1,5 +1,5 @@
 ---
-title: Distributed System
+title: Распределенная система
 status: Completed
 category: concept
 tags: ["architecture", "", ""]
