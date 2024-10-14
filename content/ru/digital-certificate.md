@@ -1,5 +1,5 @@
 ---
-title: Digital Certificate
+title: Цифровой сертификат
 status: Feedback Appreciated
 category: technology
 tags: ["security", "", ""]
