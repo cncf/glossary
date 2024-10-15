@@ -21,7 +21,7 @@ Par exemple, le déploiement bleu/vert serait approprié pour une boutique en li
 Dans ce cas, les deux doivent être modifiés en même temps.
 Si cela était fait sur le système de production, les clients remarqueraient une interruption de service.
 
-## Quel en est l'utilité
+## Quelle en est l'utilité
 
 Le déploiement bleu/vert est une stratégie appropriée pour les logiciels non Cloud Natives qui doivent être mis à jour avec un temps d'arrêt minimal.
 Cependant, son utilisation est normalement un "signe" que le logiciel hérité doit être redéveloppé afin que les composants puissent être mis à jour individuellement.

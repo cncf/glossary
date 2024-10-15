@@ -18,7 +18,7 @@ En particulier, une défaillance du système sous-jacent va perturber l'applicat
 Pour résoudre ce problème, les développeurs ont commencé à créer des [applications distribuées](/fr/distributed-apps/) où chaque processus s'exécute sur son propre nœud.
 Ainsi, les nœuds exécutent des applications ou des processus dans le cadre d'un groupe formant un [cluster](/fr/cluster/), c'est-à-dire un groupe de nœuds qui travaillent ensemble pour atteindre un objectif commun.
 
-## Quel en est l'utilité
+## Quelle en est l'utilité
 
 Un nœud vous fournit une unité de calcul distincte (mémoire, processeur, réseau) que vous pouvez attribuer à un cluster.
 Dans une plate-forme ou une application [Cloud Native](/fr/cloud-native-tech/), un nœud représente une unité unique qui peut effectuer un travail.

@@ -22,7 +22,7 @@ réglementaires, fournir des métriques pour les équipes opérationnelles et pr
 pour aider à diagnostiquer les problèmes.
 Si cela devait être géré au niveau de chaque application, chacune de ces fonctionnalités pourrait conduire à créer des frictions entre les équipes et ralentir le développement de nouvelles fonctionnalités.
 
-## Quel en est l'utilité
+## Quelle en est l'utilité
 
 Le maillage de services (services mesh) ajoute de la fiabilité, de l'observabilité et de la sécurité
 pour tous les services du cluster sans avoir à changer le code des services.

@@ -17,7 +17,7 @@ Elles pouvaient soit acquérir, financer et concevoir de (nouvelles) installatio
 soit étendre et entretenir celles qui existaient déjà. Le cloud computing résout ce dilemme 
 en permettant aux organisations d'externaliser une partie de leurs besoins informatiques.
 
-## Quel en est l'utilité
+## Quelle en est l'utilité
 
 Les fournisseurs de cloud permettent aux organisations de louer des ressources informatiques à la demande et de payer à l'utilisation, offrant deux avantages majeurs. 
 Premièrement, les organisations peuvent se concentrer sur leur produit ou service sans avoir à attendre, 

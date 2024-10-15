@@ -16,7 +16,7 @@ Les modèles de sécurité traditionnels ont été conçus avec des hypothèses 
 Les applications Cloud Natives changent fréquemment, utilisent beaucoup d'outils et de bibliothèques open source, elles tournent dans des infrastructures souvent contrôlées par un revendeur et elles sont sujettes à des changements d'infrastructures rapides.
 Les revues de code, les longs cycles d'assurance qualité, l'analyse des vulnérabilités des hôtes, et les révisions de sécurité de dernière minute ne se mettent pas à l'échelle avec les applications Cloud Natives.
 
-## Quel en est l'utilité
+## Quelle en est l'utilité
 
 La sécurité Cloud Native introduit une nouvelle façon de travailler qui protègent les applications
 en migrant depuis les modèles de sécurité traditionnels vers un modèle ou la sécurité est impliquée dans chaque étape du cycle de livraison.

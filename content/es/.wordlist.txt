@@ -1,4 +1,5 @@
-add
+accionables
+Add
 Agreement
 Amazon
 an
@@ -22,6 +23,7 @@ bare
 based
 becoming
 Benavides
+Berkeley
 blob
 blue
 branch
@@ -32,6 +34,7 @@ BVS
 BY
 CaaS
 calendar
+call
 Canary
 CAPEX
 Carol
@@ -49,6 +52,7 @@ CI
 cifrada
 CLA
 Client
+CLIs
 Cloud
 clúster
 clústeres
@@ -95,6 +99,7 @@ directly
 Docs
 draft
 Dropbox
+eBPF
 edit
 ej
 empoderen
@@ -113,6 +118,7 @@ externalizar
 FaaS
 faltantes
 Feedback
+Filter
 Finance
 Firewall
 first
@@ -161,6 +167,7 @@ Jones
 Kafka
 Katelin
 Kubernetes
+Landscape
 Language
 laptop
 Layer
@@ -188,6 +195,7 @@ Microsoft
 Mike
 mitigarse
 monitorea
+monitoreados
 monitorean
 monitorear
 monitoreará
@@ -215,8 +223,11 @@ on-premises
 Open
 PaaS
 PaC
+packet
 Paganini
 platform
+Pod
+pods
 Política
 portable
 pr
@@ -249,6 +260,7 @@ SaaS
 Salesforce
 SCE
 scripts
+SDK
 search
 Secure
 security
@@ -264,7 +276,7 @@ sobreescriba
 Sockets
 Spanish
 spell
-SRE
+sre
 SSL
 stack
 Started
@@ -276,6 +288,7 @@ submitting
 subrúbricas
 Subversion
 supercomputadoras
+system
 tags
 TCP
 technology

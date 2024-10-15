@@ -12,7 +12,7 @@ Le DevOps fait appel à un groupe d'ingénieurs travaillant sur des petits compo
 
 ## Problème auquel il répond
 
-Traditionnellement, dans les organisations complexes possédant des [applications monolithiques](/fr/monolithic-apps/) [fortement couplées](/fr/tightly-coupled-architectures/),
+Traditionnellement, dans les organisations complexes possédant des [applications monolithiques](/fr/monolithic-apps/) [fortement couplées](/fr/tightly-coupled-architecture/),
 le travail était généralement fragmenté entre plusieurs équipes.
 Ce fonctionnement menait à de nombreuses passations entre les équipes et allongeait les délais de livraison.
 À chaque nouveau composant ou nouvelle mise à jour, le résultat était mis en file d'attente pour la prochaine équipe.
@@ -24,7 +24,7 @@ Le rôle de chacun était ainsi de fournir le travail à l'équipe suivante, et 
 Une fois le code livré en production, ce dernier passé entre les mains de tellement de différents développeurs, ayant attendu dans tellement de files d'attente, il en devenait alors compliqué de tracer l'origine d'un problème en cas de dysfonctionnement du code.
 Le DevOps vient chambouler cette approche.
 
-## Quel en est l'utilité
+## Quelle en est l'utilité
 
 Avoir une seule équipe en charge du cycle de vie d'une application permet de
 minimiser les passations, réduisant ainsi les risques lors des déploiements en production, améliorant

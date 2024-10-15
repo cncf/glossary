@@ -14,7 +14,7 @@ Lorsque la demande d'une application dépasse la capacité actuelle de l'instanc
 Nous pouvons soit ajouter plus de ressources informatiques aux nœuds existants (mise à l'échelle verticale), soit ajouter plus de nœuds au système ([mise à l'échelle horizontale](/fr/horizontal-scaling/)).
 La [capacité de mise à l'échelle](/fr/scalability/) contribue à la compétitivité, à l'efficacité, à la réputation et à la qualité.
  
-## Quel en est l'utilité
+## Quelle en est l'utilité
 
 La mise à l'échelle verticale vous permet de redimensionner votre serveur sans modifier le code de l'application.
 Cela contraste avec la mise à l'échelle horizontale, où l'application doit être réplicable pour être mise à l'échelle, ce qui peut nécessiter des mises à jour du code.
