@@ -10,6 +10,8 @@ The files available to the container process are packaged as a container image.
 Containers run adjacent to each other on the same machine, 
 but typically the operating system prevents the separate container processes from interacting with each other.
 
+Note that "container" is an overloaded term. Whenever you use the word, check whether your audience uses the same definition.
+
 ## Problem it addresses
 
 Before containers were available, separate machines were necessary to run applications. 
