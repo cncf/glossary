@@ -23,8 +23,8 @@
 /i18n/ar.toml @TarekMSayed @same7ammar @AShabana @arezk84
 
 # Approvers for Bengali contents
-/content/bn/ @Arindam200 @Imtiaz1234 @mitul3737 @sajibAdhi
-/i18n/bn.toml @Arindam200 @Imtiaz1234 @mitul3737 @sajibAdhi
+/content/bn/ @Arindam200 @asem-hamid @Imtiaz1234 @mitul3737 @sajibAdhi
+/i18n/bn.toml @Arindam200 @asem-hamid @Imtiaz1234 @mitul3737 @sajibAdhi
 
 # Approvers for German contents
 /content/de/ @iamNoah1 @DaveVentura @CathPag @bcubk
@@ -35,8 +35,8 @@
 /i18n/es.toml @raelga @ramrodo @electrocucaracha @krol3 @92nqb
 
 # Approvers for French contents
-/content/fr/ @huats @fydrah @Krast76 @sestegra @guillaumebernard84
-/i18n/fr.toml @huats @fydrah @Krast76 @sestegra @guillaumebernard84
+/content/fr/ @huats @Krast76 @sestegra @guillaumebernard84 @seb-835
+/i18n/fr.toml @huats @Krast76 @sestegra @guillaumebernard84 @seb-835
 
 # Approvers for Hindi contents
 /content/hi/ @Garima-Negi @jayesh-srivastava @abhay-raj19 @aj11anuj @kumarankit999 @bishal7679
@@ -63,8 +63,8 @@
 /i18n/ru.toml @shurup @kirkonru @tym83
 
 # Approvers for Turkish contents
-/content/tr/ @aliok @halil-bugol @rwxdash @eminalemdar
-/i18n/tr.toml @aliok @halil-bugol @rwxdash @eminalemdar
+/content/tr/ @aliok @symys @rwxdash @eminalemdar
+/i18n/tr.toml @aliok @symys @rwxdash @eminalemdar
 
 # Approvers for Urdu contents
 /content/ur/ @Saim-Safdar @waleed318

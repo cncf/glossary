@@ -15,7 +15,7 @@ El conjunto de todos estos servicios [contenedorizados](/es/containerization/), 
 Un software que es ejecutado en un solo ordenador es un único punto de fallo
 — Si este ordenador falla, o alguien por accidente desconecta el cable de alimentación,
 algún sistema crítico para el negocio puede quedar fuera de funcionamiento.
-Es por esto que el software moderno se construye generalmente como [aplicaciones distribuidas](/es/distributed-apps), agrupadas en clústeres.
+Es por esto que el software moderno se construye generalmente como [aplicaciones distribuidas](/es/distributed-apps/), agrupadas en clústeres.
 
 ## ¿Cómo ayuda?
 

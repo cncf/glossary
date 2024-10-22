@@ -19,7 +19,7 @@ toutes les parties prenantes de l’organisation peuvent exacerber les problème
 Un processus qui publie rapidement de nouveaux logiciels sans tenir compte des besoins de sécurité
 peut dégrader la posture de sécurité d’une organisation.
 
-## Quel en est l'utilité
+## Quelle en est l'utilité
 
 DevSecOps se concentre sur la suppression des silos d'équipe et promeut la création de flux de travail sécurisés et automatisés.
 Lors de la sélection d'applications de sécurité, les organisations doivent tirer parti 

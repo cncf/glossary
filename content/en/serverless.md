@@ -9,12 +9,12 @@ tags: ["architecture", "", ""]
 Serverless Computing [abstracts](/abstraction/) servers away from the user.
 Operational management falls to the service provider, including handling physical machines and VM provisioning.
 Service providers can be public cloud entities or internal IT departments serving their development teams.
-These providers offer user interfaces such as SDKs, CLIs, or OCI-compliant runtimes, focusing on code and deployment tasks.
+These providers offer user interfaces such as SDKs, CLIs, or OCI-compliant [runtimes](/runtime/), focusing on code and deployment tasks.
 Charges are based on a pay-per-use model.
 [Scaling](/scalability/) and resource provisioning for computing, storage, or networking are automatically adjusted based on application demand without user intervention.
 A serverless platform provider consolidates resources to serve multiple users on a single physical machine, ensuring isolation through virtualization, especially with [VMs](/virtual-machine/).
 
-Serverless is a comprehensive term encompassing services with these attributes, extending from [Platform-as-a-Service (PaaS)](/platform-as-a-service/) to [Software-as-a-Service (SaaS)](/software-as-a-service/).
+Serverless is a comprehensive term encompassing services with these attributes, extending from Platform-as-a-Service (PaaS) to Software-as-a-Service (SaaS).
 
 ## Problem it addresses
 
