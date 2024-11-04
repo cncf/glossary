@@ -26,7 +26,7 @@ Additionally, it follows the following rules:
 ## Audience
 
 The Glossary is written for technical *and* non-technical audiences.
-Please explain definitions in simple terms, and don’t assume technical knowledge. More about this is below in [Definition](#definition).
+Please explain definitions in simple terms, and don’t assume technical knowledge. More about this is below in [Definition](#definition) and the [Sign Language Style Guide](#sign-language-style-guide).
 
 ## Minimum viable definition 
 
@@ -164,6 +164,8 @@ Additionally, it uses a real-world example comparing network challenges in a mic
 to wifi problems (something anyone using a laptop can understand). 
 Where possible, try to make that connection. 
 
+
+
 #### Start with a Google or Word doc
 
 We recommend starting with a Google or Word doc, letting it sit for a few days, and revisiting it. 
@@ -175,6 +177,90 @@ More about that in the [How To Contribute](/contribute/) doc.
 
 Before getting started, please read some published Glossary terms 
 to get a feeling for the level of detail and difficulty and when examples are appropriate.
+
+
+
+## Sign Language Video Style Guide {#sign-language-style-guide}
+
+If you are contributing a sign language video, please follow these guidelines to ensure our videos are clear, informative, and accessible to a wide audience (Including hearing community members).
+
+
+### Technical equipment
+
+All you need is a high-resolution camera and a stand. A modern smartphone should be enough.
+
+
+### Recording Setup
+
+
+
+* **Lighting:** Use frontal lighting to ensure your face and hands are well-lit.
+
+
+* **Background:** Record in front of a flat, solid background to avoid distractions from the signing. Ensure no distracting decorations are included.
+
+
+* **Dress Code:** Wear a solid, single-color top (no prints) that contrasts with your skin tone.
+
+
+* **Camera Position:** Ensure that your head to your elbows are visible on the screen, and position the camera at eye level. The camera should be perpendicular to the background so that it appears straight, not slanted.
+
+
+* **Signing Space:** Use as much space as possible to ensure you have full signing space while sitting or standing.
+
+
+* **Sound:** Mute the microphone (input audio) when possible to avoid involuntary background noise.
+
+### Signing
+
+
+
+* **Clarity and Accuracy:** Record the sign twice from a frontal orientation, signing slowly enough for non-signers to see and mimic it. Demonstrating signs from the side is unnecessary unless it adds clarity. 
+
+
+* **Facial Expression:** Use relaxed or neutral facial expressions. Mouthing or making grimaces is strongly discouraged. Maintain eye contact with the camera if possible.
+
+
+* **Frequency:** Only one sign is needed for each video, as playback can be looped. Repeating the sign in a video is unnecessary.
+
+
+* **Duration:** The total length of the video should not exceed 7 seconds.
+
+
+* **Fingerspelling:** Use sign language for the word as much as possible. Fingerspelling is the last resort, commonly reserved for abbreviated or short words.
+
+
+* **Posture:** Maintain a frontal orientation with eyes facing the camera while signing. Demonstrating signs using side orientation is unnecessary. When at rest, arms should be down with hands relaxed.
+
+### Tips
+
+
+
+* **Save storage space:** Please remember the shorter the video, the smaller the file would be. The faster it will upload.
+
+
+* **Mistakes are good:** Keep the recording running while making several attempts. It is more likely you will find a good clip in between tries, and you can trim the unwanted parts. This is more efficient than making multiple recordings with one sign attempt in each.
+
+
+* **Videos Examples:** Please refer to the [CNCF Glossary: Cloud Native Signs](https://www.youtube.com/playlist?list=PLj6h78yzYM2PDlYnmfpRfKgcgBMb34kb5) playlist for examples. 
+
+### Post-Production
+
+
+
+* **Editing:** If necessary, trim the beginning and the end of the video.
+
+
+* **Label:** At a minimum, the filename of the video should contain the glossary term of the sign before uploading. For example, kubernetes.mp4.
+
+
+* **Audio:** Remove the audio track entirely, if possible.
+
+
+* **Upload:** Share the video on the #glossary-sign-language Slack channel and ask for feedback. If approved, the Sign Language Glossary leads will help you upload the video to the CNCF Playlist. Please do not upload the videos to your personal YouTube as YouTube could potentially remove duplicate videos from all accounts using the same videos (to prevent monetizing abuse) as CNCF uses YouTube to upload final videos. 
+
+
+* **Video upload on CNCF playlist:** Share the video on the #glossary-sign-language Slack channel and ask for feedback. If approved, the Sign Language Glossary leads will help you upload the video to the CNCF Playlist. 
 
 ## The review process: What to expect
 
