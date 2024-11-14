@@ -15,7 +15,7 @@ to deal with cross-platform requirements or shared functionality.
 Such scenarios include [observability](/observability/) topics 
 like logging, monitoring, tracing, but also security, and networking. 
 For example, when multiple microservices have their sidecar containers 
-acting as loging agents to collect and forward logs to a log server, 
+acting as logging agents to collect and forward logs to a log server, 
 or collecting metrics to forward to a monitoring system.
 
 ## How it helps
