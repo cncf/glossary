@@ -28,8 +28,8 @@ This approach consists of using a separated process
 running on a secondary container to address problems 
 that aren't unique to a single application 
 but rather to the entire platform where the application is running. 
-The Sidecar Container will share the same resources, 
-- storage, networking - as the main container. 
+The Sidecar Container will share the same resources,
+including storage and networking, as the main container. 
 While doing this, it frees the main container to be focused on functional tasks 
 or exposing business capabilities. 
 As a secondary container, the "sidecar" takes care of platform related tasks 
