@@ -219,7 +219,7 @@ Solo necesitas una cámara de alta resolución y un soporte. Un teléfono inteli
 
 * **Ejemplos de videos:** Consulta la lista de reproducción [CNCF Glossary: Cloud Native Signs](https://www.youtube.com/playlist?list=PLj6h78yzYM2PDlYnmfpRfKgcgBMb34kb5) para obtener ejemplos.
 
-### Postproducción
+### Posproducción
 
 * **Edición:** Si es necesario, recorta el inicio y el final del video.
 
