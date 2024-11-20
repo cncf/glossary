@@ -80,6 +80,7 @@ create
 creating
 CRI
 CRM
+dactilológico
 Daniel
 Datadog
 DBaaS
@@ -140,6 +141,7 @@ Gmail
 González
 good
 Google
+guide
 help
 Heroku
 hide
@@ -271,6 +273,8 @@ Serverless
 service
 Shift
 sign
+signantes
+Signs
 Site
 Slack
 sobreescriba
@@ -282,6 +286,7 @@ SSL
 stack
 Started
 status
+style
 sub
 Subcommittee
 submit
@@ -330,3 +335,4 @@ Yahoo
 YAML
 you
 your
+YouTube
