@@ -13,7 +13,9 @@ and share its lifecycle with a primary application running on a main container.
 There are cross-platform situations where it is convenient to group [containers](/container/) 
 and their lifecycle to deal with scenarios 
 like logging, monitoring, tracing, but also security, and networking.
-Before this approach, logging would typically be implemented in the application code inside the container. This can lead to different ways to implement the logic, 
+Before this approach, logging would typically be implemented in the application code 
+inside the container. 
+This can lead to different ways to implement the logic, 
 depending on the developer or application, 
 normally resulting in more complex systems to maintain and govern. 
 For example, updating the logging logic might impact the application in runtime, 
