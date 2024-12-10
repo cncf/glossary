@@ -2,9 +2,8 @@
 title: Streaming de Eventos
 status: Completed
 category: conceito
+tags: ["metodologia", "rede", ""]
 ---
-
-## O que é
 
 O streaming de eventos é uma abordagem em que o software envia dados de eventos de uma aplicação para outra para comunicar continuamente o que eles estão fazendo.
 Imagine um serviço transmitindo tudo o que faz para todos os outros serviços.

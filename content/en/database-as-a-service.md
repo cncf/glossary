@@ -6,8 +6,6 @@ draft: true
 tags: ["", "", ""]
 ---
 
-## What it is
-
 Database-as-a-Service (DBaaS) is a service managed by a [cloud](/cloud-computing/) operator (public or private) 
 that supports applications without requiring the application team to 
 perform traditional database administration functions. 

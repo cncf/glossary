@@ -2,10 +2,8 @@
 title: Certificado Digital
 status: Feedback Appreciated
 category: Tecnología
-tags: ["security", "", ""]
+tags: ["seguridad", "", ""]
 ---
-
-## ¿Qué es?
 
 Un certificado (digital), también conocido como certificado de clave pública o certificado SSL(Secure Sockets Layer), es un documento digital utilizado para ayudar a proteger las comunicaciones que ocurren a través de la red.
 Los certificados nos permiten conocer la entidad en particular con la que nos estamos comunicando y si es quien dice ser.

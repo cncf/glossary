@@ -5,8 +5,6 @@ category: Concept
 tags: ["infrastructure", "", ""]
 ---
 
-## Ce que c'est
-
 La mise à l'échelle verticale, également connue sous le nom de "mise à l'échelle vers le haut et vers le bas", est une technique qui consiste à augmenter la capacité d'un système en ajoutant des processeurs et de la mémoire à chaque [nœud](/fr/nodes/) unitaire à mesure que la charge de travail augmente.
 Supposons que vous avez un ordinateur avec 4 Go de mémoire et que vous voulez augmenter sa capacité à 16 Go, la mise à l'échelle verticale consiste à passer à un système avec 16 Go de mémoire. (Veuillez vous référer à la [mise à l'échelle horizontale](/fr/horizontal-scaling/) pour une approche différente de mise à l'échelle.)
 
@@ -16,7 +14,7 @@ Lorsque la demande d'une application dépasse la capacité actuelle de l'instanc
 Nous pouvons soit ajouter plus de ressources informatiques aux nœuds existants (mise à l'échelle verticale), soit ajouter plus de nœuds au système ([mise à l'échelle horizontale](/fr/horizontal-scaling/)).
 La [capacité de mise à l'échelle](/fr/scalability/) contribue à la compétitivité, à l'efficacité, à la réputation et à la qualité.
  
-## Quel en est l'utilité
+## Quelle en est l'utilité
 
 La mise à l'échelle verticale vous permet de redimensionner votre serveur sans modifier le code de l'application.
 Cela contraste avec la mise à l'échelle horizontale, où l'application doit être réplicable pour être mise à l'échelle, ce qui peut nécessiter des mises à jour du code.

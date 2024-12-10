@@ -5,8 +5,6 @@ category: conceito
 tags: ["metodologia", "", ""]
 ---
 
-## O que é
-
 Esquerda em Shift Left se refere aos estágios iniciais no ciclo de desenvolvimento de software,
 pensando no ciclo como uma linha onde os estágios são executados da esquerda para a direita.
 Shift left é a prática de implementar testes, segurança ou outras práticas de desenvolvimento

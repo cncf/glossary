@@ -73,13 +73,19 @@ collaborators:
   - username: Garima-Negi
     permission: push
 
-  - username: sayantani11
-    permission: push
-
-  - username: anubha-v-ardhan
-    permission: push
-
   - username: jayesh-srivastava
+    permission: push
+
+  - username: abhay-raj19
+    permission: push
+
+  - username: aj11anuj
+    permission: push
+
+  - username: kumarankit999
+    permission: push
+
+  - username: bishal7679
     permission: push
 
   # l10n de approvers
@@ -118,6 +124,9 @@ collaborators:
 
   # l10n bn approvers
   - username: Arindam200
+    permission: push
+    
+  - username: asem-hamid
     permission: push
 
   - username: Imtiaz1234
@@ -162,9 +171,6 @@ collaborators:
   - username: huats
     permission: push
 
-  - username: fydrah
-    permission: push
-
   - username: Krast76
     permission: push
 
@@ -172,6 +178,9 @@ collaborators:
     permission: push
 
   - username: guillaumebernard84
+    permission: push
+
+  - username: seb-835
     permission: push
 
   # l10n ur approvers
@@ -204,6 +213,9 @@ collaborators:
   - username: naonishijima
     permission: push
 
+  - username: Okabe-Junya
+    permission: push
+
   - username: yuichi-nakamura
     permission: push
 
@@ -211,10 +223,10 @@ collaborators:
   - username: aliok
     permission: push
 
-  - username: halil-bugol
+  - username: symys
     permission: push
 
-  - username: developer-guy
+  - username: rwxdash
     permission: push
 
   - username: eminalemdar
@@ -225,6 +237,9 @@ collaborators:
     permission: push
 
   - username: kirkonru
+    permission: push
+
+  - username: tym83
     permission: push
 
 branches:
@@ -301,9 +316,11 @@ branches:
         # hi approvers
         users:
          - Garima-Negi
-         - sayantani11
-         - anubha-v-ardhan
          - jayesh-srivastava
+         - abhay-raj19
+         - aj11anuj
+         - kumarankit999
+         - bishal7679
         teams: []
       enforce_admins: null
       required_linear_history: null
@@ -376,6 +393,7 @@ branches:
         # bn approvers
         users:
          - Arindam200
+         - asem-hamid
          - Imtiaz1234
          - mitul3737
          - sajibAdhi
@@ -434,10 +452,10 @@ branches:
         # fr approvers
         users:
          - huats
-         - fydrah
          - Krast76
          - sestegra
          - guillaumebernard84
+         - seb-835
         teams: []
       enforce_admins: null
       required_linear_history: null
@@ -492,6 +510,7 @@ branches:
          - inductor
          - kaitoii11
          - naonishijima
+         - Okabe-Junya
          - yuichi-nakamura
         teams: []
       enforce_admins: null
@@ -509,8 +528,8 @@ branches:
         # tr approvers
         users:
          - aliok
-         - halil-bugol
-         - developer-guy
+         - symys
+         - rwxdash
          - eminalemdar
         teams: []
       enforce_admins: null
@@ -529,6 +548,7 @@ branches:
         users:
          - shurup
          - kirkonru
+         - tym83
         teams: []
       enforce_admins: null
       required_linear_history: null

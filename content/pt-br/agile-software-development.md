@@ -5,8 +5,6 @@ category: conceito
 tags: ["metodologia", "", ""]
 ---
 
-## O que é
-
 Um conjunto de práticas que enfatizam ciclos de desenvolvimento iterativo e equipes auto-organizadas. Em contraste com projetos do tipo cascata, onde o valor é gerado apenas no final de um projeto, o desenvolvimento ágil de software se concentra em uma entrega incremental e contínua de valor e na melhoria evolutiva do próprio processo.
 
 ## Problema relacionado

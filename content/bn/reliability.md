@@ -1,8 +1,8 @@
 ---
 title: নির্ভরযোগ্যতা (Reliability)
 status: Completed
-category: সম্পত্তি
-tags: ["fundamental", "property", ""]
+category: বৈশিষ্ট্য
+tags: ["মৌলিক", "বৈশিষ্ট্য", ""]
 ---
 
 

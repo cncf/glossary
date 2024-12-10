@@ -1,6 +1,6 @@
 ---
 title: Platform as a Service (PaaS)
-status: Completed
+status: Deprecated
 category: Tecnologia
 ---
 

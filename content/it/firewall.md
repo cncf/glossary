@@ -1,6 +1,6 @@
 ---
 title: Firewall
-status: Completed
+status: Deprecated
 category: Tecnologia
 tags: ["sicurezza", "", ""]
 ---

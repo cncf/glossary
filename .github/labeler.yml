@@ -1,40 +1,59 @@
 lang/ar:
-- content/ar/**
+- changed-files:
+  - any-glob-to-any-file: 'content/ar/**'
 
 lang/bn:
-- content/bn/**
+- changed-files:
+  - any-glob-to-any-file: 'content/bn/**'
 
 lang/de:
-- content/de/**
+- changed-files:
+  - any-glob-to-any-file: 'content/de/**'
 
 lang/en:
-- content/en/**
+- changed-files:
+  - any-glob-to-any-file: 'content/en/**'
 
 lang/es:
-- content/es/**
+- changed-files:
+  - any-glob-to-any-file: 'content/es/**'
 
 lang/fr:
-- content/fr/**
+- changed-files:
+  - any-glob-to-any-file: 'content/fr/**'
 
 lang/hi:
-- content/hi/**
+- changed-files:
+  - any-glob-to-any-file: 'content/hi/**'
 
 lang/it:
-- content/it/**
+- changed-files:
+  - any-glob-to-any-file: 'content/it/**'
 
 lang/ja:
-- content/ja/**
+- changed-files:
+  - any-glob-to-any-file: 'content/ja/**'
 
 lang/ko:
-- content/ko/**
+- changed-files:
+  - any-glob-to-any-file: 'content/ko/**'
 
 lang/pt:
-- content/pt-br/**
+- changed-files:
+  - any-glob-to-any-file: 'content/pt-br/**'
+
+lang/ru:
+- changed-files:
+  - any-glob-to-any-file: 'content/ru/**'
 
 lang/tw:
-- content/zh-tw/**
+- changed-files:
+  - any-glob-to-any-file: 'content/zh-tw/**'
+
+lang/ur:
+- changed-files:
+  - any-glob-to-any-file: 'content/ur/**'
 
 lang/zh:
-- content/zh-cn/**
-
-
+- changed-files:
+  - any-glob-to-any-file: 'content/zh-cn/**'

@@ -5,8 +5,6 @@ category: Technology
 tags: ["application", "", ""]
 ---
 
-## Ce que c'est
-
 La conteneurisation est l'action de regrouper une application et ses dépendances dans une image de conteneur.
 Le processus de construction du conteneur nécessite de respecter le standard de l'[Open Container Initiative](https://opencontainers.org) (OCI).
 Du moment que le résultat est une image qui respecte ce standard, l'outil de conteneurisation qui sera utilisé n'a pas d'importance.
@@ -18,7 +16,7 @@ Les VMs sont sensiblement plus grosses que les conteneurs et nécessitent un hyp
 À cause du stockage, des sauvegardes et du transfert de ces gros modèles de VM, la création des modèles de VM est également longue.
 De plus, les VMs peuvent souffrir d'une dérive de configuration ce qui enfreint le principe de l'[immuabilité](/fr/immutable-infrastructure/).
 
-## Quel en est l'utilité
+## Quelle en est l'utilité
 
 Les images de conteneurs sont légères (par opposition aux VM traditionnelles) et
 le processus de conteneurisation nécessite un fichier qui liste les dépendances.

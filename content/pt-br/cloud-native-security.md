@@ -5,8 +5,6 @@ category: conceito
 tags: ["segurança", "", ""]
 ---
 
-## O que é
-
 A segurança nativa da nuvem é uma abordagem que transforma a segurança em [aplicações nativas em nuvem](/pt-br/cloud-native-apps/). Isso garante que a segurança faça parte de todo o ciclo de vida do aplicativo, desde o desenvolvimento até a produção. A segurança nativa da nuvem busca garantir os mesmos padrões que os modelos de segurança tradicionais, enquanto se adapta aos detalhes dos ambientes nativos da nuvem, ou seja, mudanças rápidas de código e infraestrutura altamente efêmera. A segurança nativa da nuvem está altamente relacionada à prática chamada [DevSecOps](/devsecops/).
 
 ## Problema relacionado

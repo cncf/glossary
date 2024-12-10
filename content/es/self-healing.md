@@ -2,7 +2,7 @@
 title: Recuperación Automática
 status: Completed
 category: Propiedad
-tags: ["infrastructure", "property"]
+tags: ["infraestructura", "propiedad"]
 ---
 
 Un sistema de reparación automática puede resolver ciertos tipos de fallos sin requerir intervención humana.

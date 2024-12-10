@@ -1,8 +1,8 @@
 ---
 title: অপরিবর্তনীয় পরিকাঠামো (Immutable Infrastructure)
 status: Completed
-category: সম্পত্তি
-tags: ["infrastructure", "property", ""]
+category: বৈশিষ্ট্য
+tags: ["অবকাঠামো", "বৈশিষ্ট্য", ""]
 ---
 
 অপরিবর্তনীয় অবকাঠামো বলতে কম্পিউটার অবকাঠামো বোঝায়

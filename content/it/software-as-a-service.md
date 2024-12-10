@@ -1,6 +1,6 @@
 ---
 Title: Software as a Service (SaaS)
-Status: Completed
+Status: Deprecated
 Category: Tecnologia
 tags: ["fondamentali", "piattaforma", ""]
 ---

@@ -34,7 +34,7 @@ body:
           required: true
         - label: The term has not already been declined in the past. [(shift+click to check)](https://github.com/cncf/glossary/issues?q=is%3Aissue+is%3Aclosed+label%3A%22triage%2Fnot+accepted%22)
           required: false
-        - label: The term does not already exist in the [glossary](https://glossary.cncf.io).
+        - label: The term does not already exist in the [glossary](https://glossary.cncf.io) as a completed term, nor does it exist in [this directory](https://github.com/cncf/glossary/tree/main/content/en) as an incomplete term. (If the status of the term is `Feedback Appreciated`, consider updating the term.)
           required: true
         - label: I understand that maintainers will assess if the term should be part of the Glossary. (Please be patient)
           required: true

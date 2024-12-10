@@ -5,8 +5,6 @@ category: Tecnología
 tags: ["", "", ""]
 ---
 
-## ¿Qué es?
-
 Un servicio administrado es una solución de software en la que las operaciones y gestión son manejadas por un tercero.
 Algunos ejemplos incluyen Bases de Datos como Servicio como Amazon RDS o un servicio de monitoreo externo como Datadog.
 

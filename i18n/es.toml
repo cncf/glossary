@@ -26,7 +26,7 @@ other = "Etiqueta"
 [ui_tags]
 other = "Etiquetas"
 [ui_search_by_tags]
-other = "Browse by Tags"
+other = "Navegar por Etiquetas"
 [ui_tags_intro]
 other = "Hemos clasificado los términos del glosario. Utiliza los filtros para buscar términos por etiqueta."
 [ui_or_search_by_tags]

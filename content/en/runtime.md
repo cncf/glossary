@@ -5,8 +5,6 @@ category: concept
 tags: ["application", "", ""]
 ---
 
-## What it is
-
 A runtime, in general, executes a piece of software.
 It is an [abstraction](/abstraction/) of the underlying operating system that translates the program's commands into respective actions for the operating system. 
 

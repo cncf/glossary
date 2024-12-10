@@ -5,8 +5,6 @@ category: concept
 tags: ["methodology", "application", ""]
 ---
 
-## What it is
-
 Canary deployments is a deployment strategy that starts with two environments: 
 one with live traffic and the other containing the updated code without live traffic. 
 The traffic is gradually moved from the original version of the application to the updated version. 

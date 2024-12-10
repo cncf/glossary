@@ -6,8 +6,6 @@ draft: true
 tags: ["platform", "", ""]
 ---
 
-## What it is
-
 Containers-as-a-Service (CaaS) is a cloud service that helps manage and deploy apps 
 using [container](/container/)-based [abstraction](/abstraction/). 
 This service can be deployed on-premises or in the cloud. 

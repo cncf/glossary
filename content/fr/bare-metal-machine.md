@@ -5,8 +5,6 @@ category: technology
 tags: ["infrastructure", "", ""]
 ---
 
-## Ce que c'est
-
 Une machine physique, ou machine bare metal, fait référence à un ordinateur physique, plus précisément à un serveur, qui possède un et un seul système d'exploitation.
 En informatique moderne, la plupart des serveurs sont des [machines virtuelles](/fr/virtual-machine/), il est donc important de faire cette distinction. 
 Un serveur physique est généralement un ordinateur assez gros qui intègre du matériel puissant.
@@ -18,7 +16,7 @@ sans [virtualisation](/fr/virtualization/), est ce que l'on appelle une machine 
 Associer un système d'exploitation à un ordinateur physique est le modèle original de l'informatique.
 Toutes les ressources de l'ordinateur physique sont disponibles directement pour le système d'exploitation et sans couche de virtualisation présente, aucune latence n'est induite par la traduction des instructions du système d'exploitation vers le matériel.
 
-## Quel en est l'utilité
+## Quelle en est l'utilité
 
 En dédiant toutes les ressources de calcul d'un ordinateur à un seul système d'exploitation,
 vous fournissez théoriquement les meilleures performances possibles au système d'exploitation.

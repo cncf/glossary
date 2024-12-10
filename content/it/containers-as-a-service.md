@@ -1,6 +1,6 @@
 ---
 title: Containers as a Service
-status: Completed
+status: Deprecated
 category: Tecnologia
 tags: ["platform", "", ""]
 ---
@@ -17,5 +17,5 @@ Senza servizi CaaS, i team di sviluppo software devono distribuire, gestire e mo
 
 ## In che modo aiuta
 
-Quando si distribuiscono applicazioni containerizzate su una piattaforma CaaS, gli utenti acquisiscono visibilità sulle performance del sistema attraverso aggregazioni di log e strumenti di monitoraggio. I servizi CaaS includono anche funzionalità incorporate per l'[auto scaling](/it/auto-scaling/) e la gestione dell'orchestrazione. Ciò permette ai team di costruire [sistemi distribuiti](/it/distributed-systems/) ad alta visibilità e alta disponibilità. Inoltre, consentendo rapide distribuzioni, i servizi CaaS aumentano la velocità dei team di sviluppo. Mentre i container assicurano un obiettivo di distribuzione uniforme, i servizi CaaS diminuiscono i costi operativi a livello ingegneristico riducendo le risorse [DevOps](/it/devops/) necessarie per gestire una distribuzione.
+Quando si distribuiscono applicazioni containerizzate su una piattaforma CaaS, gli utenti acquisiscono visibilità sulle performance del sistema attraverso aggregazioni di log e strumenti di monitoraggio. I servizi CaaS includono anche funzionalità incorporate per l'[autoscaling](/it/auto-scaling/) e la gestione dell'orchestrazione. Ciò permette ai team di costruire [sistemi distribuiti](/it/distributed-systems/) ad alta visibilità e alta disponibilità. Inoltre, consentendo rapide distribuzioni, i servizi CaaS aumentano la velocità dei team di sviluppo. Mentre i container assicurano un obiettivo di distribuzione uniforme, i servizi CaaS diminuiscono i costi operativi a livello ingegneristico riducendo le risorse [DevOps](/it/devops/) necessarie per gestire una distribuzione.
 
