@@ -2,7 +2,7 @@
 title: Confiabilidade
 status: Completed
 category: propriedade
-tags: ["fundamentos", "", ""]
+tags: ["fundamento", "propriedade", ""]
 ---
 
 Do ponto de vista nativo da nuvem, a confiabilidade refere-se ao quão bem um sistema responde a falhas. 

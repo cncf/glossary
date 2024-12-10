@@ -2,10 +2,8 @@
 title: Arquitectura de Confianza Cero
 status: Completed
 category: Concepto
-tags: ["security", "", ""]
+tags: ["seguridad", "", ""]
 ---
-
-## ¿Qué es?
 
 La arquitectura de confianza cero se refiere a un enfoque del diseño y la implementación de sistemas informáticos donde la confianza se elimina por completo.
 El principio fundamental de "nunca confiar, siempre verificar" implica que los dispositivos o sistemas, al comunicarse con otros componentes, siempre deben verificarse a sí mismos antes de hacerlo.

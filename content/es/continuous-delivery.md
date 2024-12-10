@@ -2,10 +2,8 @@
 title: Entrega Continua (CD)
 status: Completed
 category: Concepto
-tags: ["methodology", "application", ""]
+tags: ["metodología", "aplicación", ""]
 ---
-
-## ¿Qué es?
 
 La entrega continua, a menudo abreviada como CD, es un conjunto de prácticas
 en las que los cambios de código se despliegan automáticamente en un entorno de aceptación

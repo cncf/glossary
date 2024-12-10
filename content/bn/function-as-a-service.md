@@ -1,11 +1,9 @@
 ---
 title: ফাংশন-এজ়-এ-সার্ভিস (Function as a Service) (FaaS)
 status: Completed
-category: প্রযুক্তিবিদ্যা
-tags: ["infrastructure", "", ""]
+category: প্রযুক্তি
+tags: ["অবকাঠামো", "", ""]
 ---
-
-## এটা কি
 
 ফাংশন-এজ়-এ-সার্ভিস
 একটি পরিষেবা হিসাবে ফাংশন (FaaS) হল এক প্রকার [সার্ভারলেস](/bn/serverless/) [ক্লাউড কম্পিউটিং](/bn/cloud-computing/) [সর্বিস](/bn/service/) 

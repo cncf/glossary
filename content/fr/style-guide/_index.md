@@ -48,7 +48,7 @@ Un bref descriptif de la technologie ou du concept.
 
 Quelques lignes à propos du problème qu'il adresse.
 
-## Quel en est l'utilité
+## Quelle en est l'utilité
 
 Quelques lignes sur comment le problème est résolu.
 ```
@@ -107,7 +107,7 @@ Les définitions pour les catégories **technology** et **concept** contiennent 
 - **Ce que c'est** : fournis une explication claire et concise de ce dont nous parlons.
 - **Problème qu'il adresse** : se concentre sur le problème, pas la solution (cela vient dans la section suivante).
   Pour faire simple, éviter de mentionner le terme qui est défini. Le problème nous aide à nous concentrer sur *ce qui* nous a mené à avoir besoin de ce terme.
-- **Quel en est l'utilité**: maintenant, revenir sur le terme en lui-même. Comment est-ce qu'il adresse le problème décrit précédemment ?
+- **Quelle en est l'utilité**: maintenant, revenir sur le terme en lui-même. Comment est-ce qu'il adresse le problème décrit précédemment ?
 
 Noter que les propriétés ne nécessitent pas de section séparée. Un définition suffira.
 
