@@ -5,8 +5,6 @@ category: Technology
 tags: ["fondamental", "infrastructure", ""]
 ---
 
-## Ce que c'est
-
 Une machine virtuelle (VM) est un ordinateur et son système d'exploitation
 qui n'est pas lié à un matériel particulier.
 Les VMs s'appuient sur la [virtualisation](/fr/virtualization/) pour découper un unique ordinateur physique en plusieurs ordinateurs virtuels.

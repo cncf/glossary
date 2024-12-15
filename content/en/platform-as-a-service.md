@@ -6,14 +6,12 @@ draft: true
 tags: ["fundamental", "platform", ""]
 ---
 
-## What it is
-
 A Platform as a Service, or PaaS, is an external platform for application development teams to deploy and run their apps. 
 Heroku, Cloud Foundry, App Engine are examples of PaaS offerings.
 
 ## Problem it addresses
 
-To take advantage of cloud native patterns like [microservices](/microservices/) or [distributed applications](/distributed-apps/), 
+To take advantage of cloud native patterns like [microservices](/microservices-architecture/) or [distributed applications](/distributed-apps/), 
 operations teams and developers need to be able to offload a significant amount of operations and maintenance work. 
 These include tasks like provisioning infrastructure, 
 handling [service discovery](/service-discovery/) and load balancing, and [scaling](/scalability/) applications.

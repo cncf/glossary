@@ -1,0 +1,87 @@
+
+
+# UI strings. Buttons and similar.
+
+[ui_pager_prev]
+other = "前へ"
+
+[ui_pager_next]
+other = "次へ"
+
+[ui_read_more]
+other = "続きを読みます"
+
+[ui_search]
+other = "サイト検索…"
+
+# Used in sentences such as "Posted in News"
+[ui_in]
+other = "に"
+
+# Phrases for tags
+[ui_see_all_tags]
+other = "全てのタグを見ます"
+[ui_tag]
+other = "Tag"
+[ui_tags]
+other = "Tags"
+[ui_search_by_tags]
+other = "タグで閲覧します"
+[ui_tags_intro]
+other = "用語集の用語を分類しています。フィルターを使って、タグごとに用語を閲覧することができます。"
+[ui_or_search_by_tags]
+other = "...またはタグで閲覧します"
+[ui_select_all]
+other = "全てを選択します"
+[ui_deselect_all]
+other = "全ての選択を解除します"
+
+# Footer text
+[footer_all_rights_reserved]
+other = "All Rights Reserved"
+
+[footer_privacy_policy]
+other = "プライバシーポリシー"
+
+[footer_hub_button_text]
+other = "全てのCNCFサイト"
+
+# Post (blog, articles etc.)
+[post_byline_by]
+other = "によって"
+[post_created]
+other = "作成されました"
+[post_last_mod]
+other = "最終更新日"
+[post_edit_this]
+other = "このページを編集します"
+[post_create_child_page]
+other = "子ページを作成します"
+[post_create_issue]
+other = "issueを報告します"
+[post_create_project_issue]
+other = "プロジェクトissueを作成します"
+[post_posts_in]
+other = "内の投稿"
+[post_reading_time]
+other = "読んだ時間(分)"
+
+# Print support
+[print_printable_section]
+other = "このセクションの複数ページ印刷用ビューです"
+[print_click_to_print]
+other = "印刷する場合はこちらをクリックしてください"
+[print_show_regular]
+other = "このページの通常の表示に戻ります"
+[print_entire_section]
+other = "セクション全体をプリントします"
+
+# Feedback section
+[feedback_title]
+other = "フィードバック"
+[feedback_question]
+other = "このページは役に立ちましたか？"
+[feedback_answer_yes]
+other = "はい"
+[feedback_answer_no]
+other = "いいえ"
