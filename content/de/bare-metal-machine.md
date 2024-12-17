@@ -4,8 +4,6 @@ status: Completed
 category: Technologie
 ---
 
-## Was es ist
-
 Bare Metal beschreibt einen physischen Computer, der als Server verwendet wird und leistungsstarke Hardware besitzt.
 Demgegenüber stehen virtuelle Maschinen, die einen Großteil der Server ausmachen. 
 

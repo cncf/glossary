@@ -4,8 +4,6 @@ status: Completed
 category: Konzept
 ---
 
-## Was es ist
-
 Autoskalierung ist die Fähigkeit eines Systems, automatisch zu skalieren, typischerweise in Bezug auf die Rechenressourcen.
 Bei einem System mit automatischer Skalierung werden Ressourcen bei Bedarf automatisch hinzugefügt, um schwankenden Nutzeranforderungen gerecht zu werden. 
 Der Prozess der Autoskalierung variiert und ist so konfigurierbar, dass die Skalierung auf der Grundlage verschiedener Metriken, wie z.B. Speicher oder Prozesszeit, erfolgt.
