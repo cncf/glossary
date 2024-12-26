@@ -4,8 +4,6 @@ status: Completed
 category: Konzept
 ---
 
-## Was es ist
-
 Cloud Native Technologien, auch als Cloud Native Stack bezeichnet, sind Technologien, 
 die für die Entwicklung von Cloud Nativen Applikationen verwendet werden. 
 Diese Technologien ermöglichen es Organisationen, skalierbare Anwendungen in modernen und dynamischen Umgebungen wie Public-, Privat- und Hybrid-Clouds zu entwickeln und zu betreiben. 
