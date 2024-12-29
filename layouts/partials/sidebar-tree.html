@@ -77,13 +77,17 @@
 {{- end }}
 
 <script>
-	document.addEventListener("DOMContentLoaded", function () {
-	  const activeLink = document.querySelector(".td-sidebar-nav__section .active");
-	  if (activeLink) {
-		activeLink.scrollIntoView({
-		  behavior: "smooth",
-		  block: "center",
-		});
-	  }
-	});
-	</script>
+document.addEventListener("DOMContentLoaded", function () {
+  const sidebar = document.querySelector("#td-section-nav"); 
+  const activeLink = sidebar?.querySelector(".td-sidebar-nav__section .active"); 
+
+  if (activeLink && sidebar) {
+    const sidebarTop = sidebar.scrollTop; 
+    const activeLinkOffset = activeLink.offsetTop; 
+    sidebar.scrollTo({
+      top: activeLinkOffset - sidebar.clientHeight / 2 + activeLink.offsetHeight / 2,
+      behavior: "smooth",
+    });
+  }
+});
+</script>
