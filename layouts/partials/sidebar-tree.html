@@ -13,7 +13,7 @@
   </form>
   <div class="search-by-tag">
     <a href="{{ relref . "/tags" }}">{{ T "ui_or_search_by_tags" }}</a>
-  </div>  
+  </div>
   {{ else -}}
   <div id="content-mobile">
   <form class="td-sidebar__search d-flex align-items-center">
@@ -75,3 +75,19 @@
   {{- end }}
 </li>
 {{- end }}
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const sidebar = document.querySelector("#td-section-nav"); 
+  const activeLink = sidebar?.querySelector(".td-sidebar-nav__section .active"); 
+
+  if (activeLink && sidebar) {
+    const sidebarTop = sidebar.scrollTop; 
+    const activeLinkOffset = activeLink.offsetTop; 
+    sidebar.scrollTo({
+      top: activeLinkOffset - sidebar.clientHeight / 2 + activeLink.offsetHeight / 2,
+      behavior: "smooth",
+    });
+  }
+});
+</script>
