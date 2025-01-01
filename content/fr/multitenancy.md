@@ -1,5 +1,5 @@
 ---
-title: Mutualisation (Multitenancy)
+title: Mutualisation (multitenancy)
 status: Completed
 category: Property
 tags: ["architecture", "propriété", ""]
