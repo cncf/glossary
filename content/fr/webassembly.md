@@ -6,7 +6,7 @@ tags: ["Application", "", ""]
 ---
 
 WebAssembly (souvent abrégé en Wasm) est un format d'instructions binaires conçu comme une cible de compilation portable pour des langages de haut niveau tels que C, C++, Rust et d'autres. Il permet le déploiement d'applications clientes et serveur sur le web.
-Il s'agit d'un format de code à octets (bytecode en anglais) de bas niveau qui peut être exécuté dans une machine virtuelle, généralement intégrée aux navigateurs web. Bien qu'initialement développé pour le web, WebAssembly est un moteur d'exécution universel et est utilisé dans des environnements autres que le web, tels que l'internet des objets (IoT en anglais) et l'informatique en périphérie (Edge Computing en anglais).
+Il s'agit d'un format de code à octets (bytecode en anglais) de bas niveau qui peut être exécuté dans une machine virtuelle, généralement intégrée aux navigateurs web. Bien qu'initialement développé pour le web, WebAssembly est un moteur d'exécution universel et est utilisé dans des environnements autres que le web, tels que l'Internet des Objets (IoT en anglais) et l'informatique en périphérie (Edge Computing en anglais).
 
 ## Problème auquel il répond
 
