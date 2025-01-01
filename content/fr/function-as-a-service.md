@@ -8,7 +8,7 @@ tags: ["infrastructure", "", ""]
 Une Fonction en tant que Service, ou Function as a Service (FaaS) en anglais, est un modèle de [cloud computing](/fr/cloud-computing/) qui fournit une plateforme pour l'exécution de fonctions déclenchées par des événements, ce qui permet une mise à l'échelle automatique sans intervention manuelle.
 Par essence, le FaaS permet de déployer des fonctions individuelles qui sont activées par des événements spécifiques, fonctionnent à court terme, puis s'arrêtent, ce qui permet de ne pas gaspiller de ressources.
 Ce modèle prend en charge la [mise à l'échelle automatique]](/fr/auto-scaling/), permettant à une instance de fonction d'être lancée à la demande et terminée après exécution, ce qui souligne sa nature [sans état]](/fr/stateless-apps/) (stateless).
-Par conséquent, les plateformes FaaS peuvent mettre en œuvre une véritable approche de facturation « à la demande », éliminant les coûts lorsque les fonctions sont dormantes, ce qui les distingue d'autres modèles tels que Platform as a Service (PaaS) qui requièrent une disponibilité continue des ressources.
+Par conséquent, les plateformes FaaS peuvent mettre en œuvre une véritable approche de facturation "à la demande", éliminant les coûts lorsque les fonctions sont dormantes, ce qui les distingue d'autres modèles tels que Platform as a Service (PaaS) qui requièrent une disponibilité continue des ressources.
 
 ## Problème auquel il répond
 
@@ -25,4 +25,4 @@ L'infrastructure FaaS ajuste automatiquement les ressources en fonction de la de
 Les frais s'appliquent uniquement pendant la durée d'exécution, ce qui garantit qu'aucun coût ne s'accumule lorsque les fonctions sont inactives.
 
 Pour plus d'informations, consultez l'entrée du glossaire [Serverless](/fr/serverless/).
-Bien que les termes « serverless » et « FaaS » soient souvent utilisés comme des termes interchangeables, ils incarnent des concepts distincts.
+Bien que les termes "serverless" et "FaaS" soient souvent utilisés comme des termes interchangeables, ils incarnent des concepts distincts.

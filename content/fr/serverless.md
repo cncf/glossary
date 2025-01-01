@@ -13,7 +13,7 @@ La facturation est basée sur un modèle de paiement à l'utilisation.
 [La mise à l'échelle](/fr/scalability/) et les ressources allouées pour le calcul, le stockage ou le réseau sont automatiquement ajustées en fonction des besoins de l'application, sans intervention de l'utilisateur.
 Un fournisseur de plateforme serverless consolide les ressources pour servir plusieurs utilisateurs sur une seule machine physique, en garantissant l'isolation par la virtualisation, en particulier grâce à des [VM](/fr/virtual-machine/).
 
-Le terme « serverless » est un terme général qui englobe les services dotés de ces attributs et qui s'étend de Platform-as-a-Service (PaaS) à Software-as-a-Service (SaaS)
+Le terme "serverless" est un terme général qui englobe les services dotés de ces attributs et qui s'étend de Platform-as-a-Service (PaaS) à Software-as-a-Service (SaaS)
 
 ## Problème auquel il répond
 
@@ -30,4 +30,4 @@ la technologie serverless soulage les développeurs des charges liées à la mis
 Des tâches telles que la maintenance du système d'exploitation, les mises à jour de sécurité, l'équilibrage de la charge, la planification de la capacité et la supervision sont déléguées au fournisseur de cloud, ce qui rationalise le processus de développement.
 
 Pour plus d'informations, voir l'entrée du glossaire [Fonction en tant que Service (FaaS)](/fr/function-as-a-service/).
-Bien que les termes « serverless » et « FaaS » soient souvent utilisés comme des termes interchangeables, ils correspondent à des concepts distincts.
+Bien que les termes "serverless" et "FaaS" soient souvent utilisés comme des termes interchangeables, ils correspondent à des concepts distincts.
