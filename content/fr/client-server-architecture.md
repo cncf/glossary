@@ -1,5 +1,5 @@
 ---
-title: Architecture client-cerveur
+title: Architecture client-serveur
 status: Completed
 category: technology
 tags: ["architecture", "fondamental", ""]
