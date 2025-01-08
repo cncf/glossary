@@ -1,5 +1,5 @@
 ---
-title: Découverte de services (Service Discovery)
+title: Découverte de services (service discovery)
 status: Completed
 category: Concept
 tags: ["réseau", "", ""]

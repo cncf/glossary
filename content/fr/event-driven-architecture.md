@@ -1,5 +1,5 @@
 ---
-title: Architecture Orientée Événements (Event-Driven Architecture)
+title: Architecture orientée événements (Event-Driven Architecture)
 status: Completed
 category: concept
 tags: ["architecture", "", ""]

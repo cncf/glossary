@@ -1,5 +1,5 @@
 ---
-title: Architecture Fortement Couplée
+title: Architecture fortement couplée
 status: Completed
 category: Property
 tags: ["fondamental", "architecture", "propriété"]
