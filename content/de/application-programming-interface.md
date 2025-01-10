@@ -4,8 +4,6 @@ status: Completed
 category: Technologie
 ---
 
-## Was es ist
-
 APIs regeln die Kommunikation zwischen Softwareanwendungen.
 Im weiteren Sinne kann man das mit einem Gespräch zwischen zwei Personen vergleichen.
 In diesem Beispiel wäre eine API die konkrete Sprache, die gesprochen wird.
