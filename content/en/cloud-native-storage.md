@@ -2,7 +2,7 @@
 title: Cloud Native Storage
 status: Feedback Appreciated
 category: concept
-tags: ["fundamental", "", ""]
+tags: ["storage", "", ""]
 ---
 
 
