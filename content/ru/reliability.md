@@ -1,5 +1,5 @@
 ---
-title: Reliability
+title: Надежность
 status: Completed
 category: property
 tags: ["fundamental", "property", ""]
