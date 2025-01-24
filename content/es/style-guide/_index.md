@@ -26,7 +26,7 @@ Adicionalmente, sigue las siguientes reglas:
 ## Audiencia
 
 El Glosario está escrito para una audiencia técnica y no técnica.
-Asegúrese de que las definiciones sean explicadas en términos simples y no asuma conocimientos técnicos. Más acerca de eso a continuación en [Definición](#definition) y en la [Guía de estilo para lengua de señas](#sign-language-style-guide).
+Asegúrese de que las definiciones sean explicadas en términos simples y no asuma conocimientos técnicos. Más acerca de eso a continuación en Definición.
 
 ## Contenido mínimo viable
 
@@ -174,62 +174,6 @@ Más sobre eso en el documento [Cómo contribuir](/es/contribute/).
 
 Antes de comenzar, lea algunos de los términos publicados del Glosario
 para tener una idea del nivel de detalle y dificultad y cuándo los ejemplos son apropiados.
-
-## Guía de Estilo para Videos en Lengua de Señas {#sign-language-style-guide}
-
-Si deseas contribuir con un video en lengua de señas, sigue estas pautas para garantizar que los videos sean claros, informativos y accesibles para una audiencia amplia (incluyendo miembros de la comunidad oyente).
-
-### Equipo técnico
-
-Solo necesitas una cámara de alta resolución y un soporte. Un teléfono inteligente moderno debería ser suficiente.
-
-### Configuración de grabación
-
-* **Iluminación:** Utiliza luz frontal para asegurar que tu rostro y manos estén bien iluminados.
-
-* **Fondo:** Graba frente a un fondo plano y sólido para evitar distracciones visuales mientras se realizan las señas. Asegúrate de no incluir decoraciones llamativas.
-
-* **Código de vestimenta:** Usa una prenda de un solo color (sin estampados) que contraste con tu tono de piel.
-
-* **Posición de la cámara:** Asegúrate de que tu cabeza y tus codos sean visibles en la pantalla, y posiciona la cámara a la altura de los ojos. La cámara debe estar perpendicular al fondo, de modo que no se vea inclinada.
-
-* **Espacio para señas:** Usa el mayor espacio posible para garantizar que tengas suficiente área para realizar las señas mientras estás sentado o de pie.
-
-* **Sonido:** Silencia el micrófono (entrada de audio) cuando sea posible para evitar ruidos de fondo involuntarios.
-
-### Señalización
-
-* **Claridad y precisión:** Graba la seña dos veces desde una orientación frontal, realizando los movimientos lo suficientemente despacio como para que las personas no signantes puedan observarlos y replicarlos. No es necesario mostrar señas desde el costado, a menos que aporte claridad.
-
-* **Expresión facial:** Mantén expresiones faciales relajadas o neutrales. Evita mover los labios o hacer gestos exagerados. Mantén el contacto visual con la cámara siempre que sea posible.
-
-* **Frecuencia:** Cada video solo debe contener una seña, ya que la reproducción se puede hacer en bucle. Repetir la seña dentro del mismo video no es necesario.
-
-* **Duración:** La duración total del video no debe superar los 7 segundos.
-
-* **Deletreo dactilológico:** Usa lengua de señas para la palabra siempre que sea posible. El deletreo dactilológico es la última opción, y generalmente se reserva para abreviaturas o palabras cortas.
-
-* **Postura:** Mantén una orientación frontal con la mirada hacia la cámara mientras realizas las señas. No es necesario mostrar las señas desde un lado. Al descansar, mantén los brazos hacia abajo con las manos relajadas.
-
-### Consejos
-
-* **Ahorrar espacio de almacenamiento:** Recuerda que cuanto más corto sea el video, menor será el tamaño del archivo y más rápido se podrá cargar.
-
-* **Los errores son útiles:** Mantén la grabación activa mientras haces varios intentos. Es más probable que encuentres un clip adecuado entre los intentos, y luego puedes recortar las partes no deseadas. Esto es más eficiente que grabar múltiples videos con un solo intento de seña en cada uno.
-
-* **Ejemplos de videos:** Consulta la lista de reproducción [CNCF Glossary: Cloud Native Signs](https://www.youtube.com/playlist?list=PLj6h78yzYM2PDlYnmfpRfKgcgBMb34kb5) para obtener ejemplos.
-
-### Posproducción
-
-* **Edición:** Si es necesario, recorta el inicio y el final del video.
-
-* **Etiqueta:** Como mínimo, el nombre del archivo del video debe incluir el término del glosario correspondiente a la seña antes de subirlo. Por ejemplo, `kubernetes.mp4`.
-
-* **Audio:** Elimina por completo la pista de audio, si es posible.
-
-* **Subida:** Comparte el video en el canal de Slack **#glossary-sign-language** y solicita retroalimentación. Si el video es aprobado, los líderes del Glosario de Lengua de Señas te ayudarán a subirlo a la lista de reproducción de CNCF. Por favor, no subas los videos a tu cuenta personal de YouTube, ya que YouTube podría eliminar videos duplicados de todas las cuentas que usen los mismos videos (para evitar abusos de monetización). CNCF utiliza YouTube para subir los videos finales.
-
-* **Subida de videos en la lista de reproducción de CNCF:** Comparte el video en el canal de Slack **#glossary-sign-language** y solicita retroalimentación. Si el video es aprobado, los líderes del Glosario de Lengua de Señas te ayudarán a subirlo a la lista de reproducción de CNCF.
 
 ## El proceso de revisión: qué esperar
 
