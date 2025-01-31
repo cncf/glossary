@@ -2,10 +2,8 @@
 title: Shift Left
 status: Completed
 category: Concepto
-tags: ["methodology", "", ""]
+tags: ["metodología", "", ""]
 ---
-
-## ¿Qué es?
 
 El Desplazamiento a la Izquierda (Shift Left) se refiere a las etapas anteriores en un ciclo de vida de desarrollo de software,
 pensando en el ciclo de vida como una línea donde las etapas se ejecutan de izquierda a derecha.

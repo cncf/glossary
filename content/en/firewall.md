@@ -6,8 +6,6 @@ category: Technology
 tags: ["", "", ""]
 ---
 
-## What it is
-
 A firewall is a system that filters network traffic on the basis of specified rules. 
 Firewalls can be hardware, software, or a combination of the two.
 
@@ -15,7 +13,7 @@ Firewalls can be hardware, software, or a combination of the two.
 
 By default, a network will allow anyone to enter and depart as long as they follow the network's routing rules. 
 Because of this default behavior, securing a network is challenging. 
-For example, in a [microservices](/microservices/)-based banking app, the services communicate with one another 
+For example, in a [microservices](/microservices-architecture/)-based banking app, the services communicate with one another 
 by transmitting highly sensitive financial data through their network. 
 A malicious actor may infiltrate the network, intercept communication, and do damage if there was no firewall in place.
  

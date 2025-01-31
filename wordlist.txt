@@ -20,6 +20,7 @@ bracex
 brømsø
 bursty
 bvs
+bytecode
 caas
 capex
 caret
@@ -38,6 +39,7 @@ cks
 cncf
 cncf's
 codebase
+codebases
 codefences
 config
 cpu
@@ -92,6 +94,7 @@ gmail
 gmail's
 hackable
 handoffs
+HAProxy
 highlight
 html
 http
@@ -111,6 +114,7 @@ jihoon
 jonasbn
 jones
 josé
+js
 katelin
 keda
 keys
@@ -137,6 +141,7 @@ multitenant
 namespace
 namespaces
 navbar
+Nginx
 observability
 oci
 oliveira
@@ -149,6 +154,7 @@ paas
 pathconverter
 pavel
 pavelskipenes
+performant
 pre
 prem
 programmatically
@@ -199,6 +205,7 @@ tilde
 tls
 tmp
 toolchain
+Traefik
 transcodes
 txt
 ubuntu
@@ -214,7 +221,9 @@ virtualizing
 vm
 vms
 volkman
+wasm
 wcmatch
+webassembly
 wifi
 wordlist
 wordlists
@@ -230,3 +239,7 @@ TCP
 TCP/IP
 UDP
 HTTP/3
+CLI
+CLIs
+SDK
+SDKs

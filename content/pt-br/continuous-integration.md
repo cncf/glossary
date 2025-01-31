@@ -5,8 +5,6 @@ category: conceito
 tags: ["aplicação", "metodologia", ""]
 ---
 
-## O que é
-
 A integração contínua (continuous integration - CI), é a prática de integrar mudanças de código da maneira mais regular possível. A integração contínua é um pré-requisito para a [entrega contínua](/pt-br/continuous-delivery/). Tradicionalmente, o processo de integração contínua começa quando as alterações do código são confirmadas em um sistema de controle de código-fonte (Git, Mercurial ou Subversion) e termina com o artefato testado e pronto para ser consumido por um sistema de entrega contínua.
 
 ## Problema relacionado

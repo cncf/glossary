@@ -2,10 +2,8 @@
 title: Escalado Vertical
 status: Completed
 category: Concepto
-tags: ["infrastructure", "", ""]
+tags: ["infraestructura", "", ""]
 ---
-
-## ¿Qué es?
 
 El escalado vertical, también conocido como "agregar y reducir", es una técnica donde
 la capacidad de un sistema es incrementada agregando CPU y memoria a [nodos](/es/nodes/) individuales a medida que la carga de trabajo aumenta.

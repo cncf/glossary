@@ -2,10 +2,8 @@
 title: Desarrollo ágil de software
 status: Completed
 category: Concepto
-tags: ["methodology", "", ""]
+tags: ["metodología", "", ""]
 ---
-
-## ¿Qué es?
 
 Un conjunto de prácticas que enfatizan el ciclo de desarrollo iterativo y equipos auto-organizados.
 En contraste con proyectos tradicionales en cascada donde el valor se genera solo al final del proyecto,
