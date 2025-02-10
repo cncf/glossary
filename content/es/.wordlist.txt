@@ -32,6 +32,7 @@ bugs
 Business
 BVS
 BY
+bytecode
 CaaS
 calendar
 call
@@ -63,6 +64,8 @@ commit
 Committee
 community
 Completed
+computacionalmente
+Computing
 concept
 confiabilidad
 confiablemente
@@ -100,10 +103,12 @@ Docs
 draft
 Dropbox
 eBPF
+Edge
 edit
 ej
 empoderen
 encriptados
+end
 Engine
 Engineering
 English
@@ -127,6 +132,7 @@ Foster
 foundation
 Foundry
 framework
+front
 frontend
 fundamentals
 gateway
@@ -157,16 +163,20 @@ inmutable
 integration
 interface
 io
+IoT
 issue
 issues
 Jason
+JavaScript
 Jihoon
 jmo
 join
 Jones
+js
 Kafka
 Katelin
 Kubernetes
+LAMP
 Landscape
 Language
 laptop
@@ -204,6 +214,7 @@ Morgan
 mTLS
 multitenancy
 multitenant
+MySQL
 NASDAQ
 Native
 needed
@@ -212,6 +223,7 @@ Network
 networking
 new
 Nicolas
+Node
 Not
 nótese
 OCI
@@ -225,6 +237,7 @@ PaaS
 PaC
 packet
 Paganini
+PHP
 platform
 Pod
 pods
@@ -256,7 +269,7 @@ requests
 resiliencia
 Rodolfo
 Runtime
-runtimes
+Rust
 SaaS
 Salesforce
 SCE
@@ -320,6 +333,8 @@ virtualización
 virtualizados
 VM
 vs
+Wasm
+WebAssembly
 weight
 wifi
 Word
