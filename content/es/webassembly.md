@@ -18,7 +18,6 @@ Los lenguajes interpretados que son compilados en tiempo de ejecución a menudo 
 
 WebAssembly provee un formato binario de bajo nivel que puede ser ejecutado a velocidades casi nativas, permitiendo a las aplicaciones web ejecuciones computacionales complejas de forma eficiente.
 Esto permite a los desarrolladores construir aplicaciones web sin abandonar sus habilidades existentes en lenguajes como C, C++, Rust y otros.
-
-Abre nuevas posibilidades y permite a los desarrolladores reusar las bases de código existente y librerías. También, los módulos de WebAssembly pueden correr consistentemente a lo largo de navegadores, sistemas operativos y dispositivos diferentes, reduciendo la necesidad de código específico de una plataforma.
-
+Abre nuevas posibilidades y permite a los desarrolladores reusar las bases de código existente y librerías.
+También, los módulos de WebAssembly pueden correr consistentemente a lo largo de navegadores, sistemas operativos y dispositivos diferentes, reduciendo la necesidad de código específico de una plataforma.
 Por encima de todo, WebAssembly se dirige a las limitaciones de rendimiento, restricciones del lenguaje, portabilidad de código, aspectos de seguridad, tamaño de código e incidentes de tiempo de carga proveyendo un entorno más robusto y flexible para el desarrollo de aplicaciones web.
