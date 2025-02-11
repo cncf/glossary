@@ -10,8 +10,8 @@ Es un formato bytecode de bajo nivel que puede ser ejecutado en una máquina vir
 
 ## Problema que resuelve
 
-Por muchos años, el stack LAMP (Linux, Apache, MySQL y PHP) fue la plantilla para las aplicaciones basadas en la web. Luego, JavaScript se convirtió en el rey del desarrollo de aplicaciones front-end y las aplicaciones basadas en Node.js se convirtieron en la norma. 
-A medida que la tecnología relacionada con la web evolucionó, favoreció fuertemente a lenguajes interpretados que son típicamente menos eficientes en rendimiento que los lenguajes compilados, inclusive con los avances tecnológicos Aunque JavaScript ha mejorado a través de los años, todavía tiene limitaciones de rendimiento cuando ejecuta tareas computacionalmente intensivas.
+Por muchos años, el stack LAMP (Linux, Apache, MySQL y PHP) fue la plantilla para las aplicaciones basadas en la web. Luego, JavaScript se convirtió en el rey del desarrollo de aplicaciones front-end y las aplicaciones basadas en Node.js se convirtieron en la norma. A medida que la tecnología relacionada con la web evolucionó, favoreció fuertemente a lenguajes interpretados que son típicamente menos eficientes en rendimiento que los lenguajes compilados, inclusive con los avances tecnológicos.
+Aunque JavaScript ha mejorado a través de los años, todavía tiene limitaciones de rendimiento cuando ejecuta tareas computacionalmente intensivas.
 Los lenguajes interpretados que son compilados en tiempo de ejecución a menudo tiene problemas de rendimiento y funcionalidad cuando el código es ejecutado en diferentes entornos. Por el contrario, binarios compilados típicamente corren de la misma manera si fueron compilados correctamente. Sin embargo, históricamente, un binario compilado suele ser menos adecuado para un entorno web.
 
 ## ¿Cómo ayuda?
