@@ -18,4 +18,4 @@ tags: ["application", "methodology", ""]
 ## संबंधित शब्द
 
 [कंटीन्यूअस इंटीग्रेशन](/hi/continuous-integration/)
-[कंटीन्यूअस डिलीवरी]((/hi/continuous-delivery/)
+[कंटीन्यूअस डिलीवरी](/hi/continuous-delivery/)
