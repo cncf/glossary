@@ -22,3 +22,7 @@ Event-driven architectures establish a central hub for all events (e.g., Kafka).
 You then define the event producers (source) and consumers (receiver), and the central event hub guarantees the flow of events.
 This architecture ensures that services remain decoupled and events are properly routed from the producer to the consumer.
 The producer will take the incoming event, usually by HTTP protocol, then route the event information.
+
+## Challenges
+
+Error handling and data loss are two main challenges of using event-driven architecture.
