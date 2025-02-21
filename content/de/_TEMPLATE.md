@@ -1,10 +1,8 @@
 ---
 title: Vorlage für Definition
-status: Feedback erwünscht
+status: Feedback Appreciated
 category: Konzept
 ---
-
-## Was es ist
 
 Eine kurze Zusammenfassung. 
 
