@@ -27,5 +27,5 @@ increasing the number of servers allowing for more video streaming and scaling b
 * [Horizontal Scaling](/horizontal-scaling/)
 * [Vertical Scaling](/vertical-scaling/)
 
-{{< sign-section >}}
+{{% sign-section %}}
 {{< youtube cGONmC1smaM >}}

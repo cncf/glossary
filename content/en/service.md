@@ -11,5 +11,5 @@ How or even if services differ from microservices is nuanced and different peopl
 For a high-level definition, we'll treat them as the same. 
 Please refer to the [microservices](/microservices-architecture/) definition.
 
-{{< sign-section >}}
+{{% sign-section %}}
 {{< youtube rE5OCe3upMo >}}
