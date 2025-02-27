@@ -26,18 +26,18 @@
     "update:pkgs": "npx npm-check-updates -u"
   },
   "devDependencies": {
-    "autoprefixer": "^10.4.19",
+    "autoprefixer": "^10.4.20",
     "hugo-extended": "^0.122.0",
-    "postcss": "^8.4.38",
+    "postcss": "^8.5.3",
     "postcss-cli": "^11.0.0"
   },
   "optionalDependencies": {
-    "netlify-cli": "^17.30.0",
-    "npm-check-updates": "^16.14.20"
+    "netlify-cli": "^19.0.0",
+    "npm-check-updates": "^17.1.15"
   },
   "enginesComment": "Ensure that engines.node value stays consistent with the project's .nvmrc",
   "engines": {
-    "node": "20.x"
+    "node": "22.x"
   },
   "gitHubActionCacheKey": "2024-06-08 - change this key to force cache refresh",
   "spelling": "cSpell:ignore cncf docsy HTMLTEST hugo loglevel pagefind netlify nowrap pkgs prebuild precheck preinstall postbuild postget subdir -"
