@@ -26,3 +26,9 @@ increasing the number of servers allowing for more video streaming and scaling b
 
 * [Horizontal Scaling](/horizontal-scaling/)
 * [Vertical Scaling](/vertical-scaling/)
+
+## In sign language
+
+While each country has its own sign language, we'd like to standardize signs as much as possible for new cloud native terms. When a cloud native term is composed of words that already exist in English, we'll use American Sign Language (ASL).
+
+{{< youtube cGONmC1smaM >}}
