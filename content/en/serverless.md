@@ -31,8 +31,4 @@ Tasks such as operating system maintenance, security updates, load balancing, ca
 Refer to the [Function-as-a-Service (FaaS)](/function-as-a-service/) glossary entry for more information.
 Although "serverless" and "FaaS" are often used as interchangeable terms, they embody distinct concepts.
 
-## In sign language
-
-While each country has its own sign language, we'd like to standardize signs as much as possible for new cloud native terms. When a cloud native term is composed of words that already exist in English, we'll use American Sign Language (ASL).
-
-{{< youtube rbyBgXqCN2k >}}
+{{< sign-language rbyBgXqCN2k >}}

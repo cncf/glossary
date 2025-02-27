@@ -85,3 +85,15 @@ other = "Was this page helpful?"
 other = "Yes"
 [feedback_answer_no]
 other = "No"
+
+# Sign language section
+[sign_language_header]
+other = "In sign language"
+
+[sign_language_info]
+other = """
+While each country has its own sign language, 
+we'd like to standardize signs as much as possible for new cloud native terms.
+When a cloud native term is composed of words that already exist in English, 
+we'll use American Sign Language (ASL).
+"""

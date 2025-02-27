@@ -33,8 +33,4 @@ Not bound to a particular physical machine, VMs are also more resilient than phy
 When a physical machine needs to go offline, 
 the VMs running on it can be moved to another machine with little to no downtime.
 
-## In sign language
-
-While each country has its own sign language, we'd like to standardize signs as much as possible for new cloud native terms. When a cloud native term is composed of words that already exist in English, we'll use American Sign Language (ASL).
-
-{{< youtube Fq-kda8kIHg >}}
+{{< sign-language Fq-kda8kIHg >}}
