@@ -29,4 +29,6 @@ Since containers share the same operating system, processes can be considered le
 Containers also require limits on the shared resources. 
 To guarantee resources, administrators must constrain and limit memory and CPU usage so that other applications do not perform poorly.
 
-{{< sign-language meUtsFU7ndo >}}
+
+{{< sign-section >}}
+{{< youtube meUtsFU7ndo >}}

@@ -10,4 +10,6 @@ If we have a [distributed system](/distributed-systems/) that keeps working as i
 On the other hand, if it fails easily and operators need to intervene manually to keep it running, it is unreliable. 
 The goal of [cloud native applications](/cloud-native-apps/) is to build inherently reliable systems.
 
-{{< sign-language pQluo2FG2eA >}}
+
+{{< sign-section >}}
+{{< youtube pQluo2FG2eA >}}

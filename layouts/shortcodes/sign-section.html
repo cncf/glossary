@@ -1,0 +1,13 @@
+<!-- layouts/shortcodes/sign-section.html -->
+<!-- 
+  This shortcode displays the header and information for a sign language section.
+  It's typically followed by the built-in Hugo youtube shortcode to add the related video.
+  
+  Example usage:
+  \{\{< sign-section >\}\}
+  \{\{< youtube VIDEO_ID >\}\}
+-->
+
+{{ $header := printf "## %s" (i18n "sign_language_header") }}
+{{ $content := printf "%s\n\n%s" $header (i18n "sign_language_info") }}
+{{ $content | markdownify }}
