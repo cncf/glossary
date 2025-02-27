@@ -85,3 +85,10 @@ other = "Was this page helpful?"
 other = "Yes"
 [feedback_answer_no]
 other = "No"
+
+# Sign language section
+[sign_language_header]
+other = "In sign language (ASL)"
+[sign_language_info]
+# Markdown explaining the video or leave as a blank space for no explanation.
+other = " "
