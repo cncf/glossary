@@ -1,0 +1,19 @@
+{{/*
+
+  Usage: {{% sign-language VIDEO_ID %}}
+
+  */ -}}
+
+{{ $youtube := "" -}}
+{{ $videoID := .Get 0 -}}
+{{ if $videoID -}}
+  {{ $youtube = printf "{{< youtube %s >}}" $videoID }}
+{{ else -}}
+  {{ warnf "%s: Shortcode 'sign-language' requires a video ID as argument" .Page.Path -}}
+{{ end -}}
+
+## {{ i18n "sign_language_header" }}
+
+{{ i18n "sign_language_info" }}
+
+{{ $.Page.RenderString $youtube }}

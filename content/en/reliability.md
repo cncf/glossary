@@ -11,5 +11,4 @@ On the other hand, if it fails easily and operators need to intervene manually t
 The goal of [cloud native applications](/cloud-native-apps/) is to build inherently reliable systems.
 
 
-{{% sign-section %}}
-{{< youtube pQluo2FG2eA >}}
+{{% sign-language pQluo2FG2eA %}}

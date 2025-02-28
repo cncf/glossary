@@ -30,5 +30,4 @@ Containers also require limits on the shared resources.
 To guarantee resources, administrators must constrain and limit memory and CPU usage so that other applications do not perform poorly.
 
 
-{{% sign-section %}}
-{{< youtube meUtsFU7ndo >}}
+{{% sign-language meUtsFU7ndo %}}

@@ -32,5 +32,4 @@ Refer to the [Function-as-a-Service (FaaS)](/function-as-a-service/) glossary en
 Although "serverless" and "FaaS" are often used as interchangeable terms, they embody distinct concepts.
 
 
-{{% sign-section %}}
-{{< youtube rbyBgXqCN2k >}}
+{{% sign-language rbyBgXqCN2k %}}
