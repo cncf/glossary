@@ -9,11 +9,14 @@
 {{ if $videoID -}}
   {{ $youtube = printf "{{< youtube %s >}}" $videoID }}
 {{ else -}}
-  {{ warnf "%s: Shortcode 'sign-section' requires a video ID as argument" .Page.Path -}}
+  {{ $page := (and .Page.File .Page.File.Path) | default .Page.Title -}}
+  {{ warnf "%s: Shortcode 'sign-language-section' requires a video ID as argument" $page -}}
 {{ end -}}
 
 ## {{ i18n "sign_language_header" }}
 
-{{ trim " " (i18n "sign_language_info") }}
-
+<div class="sign-language__video">
 {{ $.Page.RenderString $youtube }}
+</div>
+
+{{ i18n "sign_language_info" }}

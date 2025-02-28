@@ -88,7 +88,13 @@ other = "No"
 
 # Sign language section
 [sign_language_header]
-other = "In sign language (ASL)"
+other = "In sign language"
 [sign_language_info]
-# Markdown explaining the video or leave as a blank space for no explanation.
-other = " "
+other = """
+**Note**:
+While each country has its own sign language we, the
+[Deaf/Hoh Working Group](https://contribute.cncf.io/accessibility/deaf-and-hard-of-hearing/),
+aim to standardize signs for new cloud-native terms. When a cloud-native term
+consists of words that already exist in English, we will use
+[American Sign Language](https://www.nidcd.nih.gov/health/american-sign-language) (ASL).
+"""
