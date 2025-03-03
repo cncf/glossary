@@ -21,4 +21,4 @@ Sin un marco compartido, la [escalabilidad](/es/scalability/) y la integración 
 
 Las APIs permiten a los programas o aplicaciones interactuar y compartir información en una manera definida y entendible.
 Estas están construidas en bloques para aplicaciones modernas y proveen a los desarrolladores una manera de integrar aplicaciones.
-Siempre que escuche acerca de [microservicios](/es/microservices/) trabajando en conjunto, se puede inferir que están interactuando a través de una API.
+Siempre que escuche acerca de [microservicios](/es/microservices-architecture/) trabajando en conjunto, se puede inferir que están interactuando a través de una API.
