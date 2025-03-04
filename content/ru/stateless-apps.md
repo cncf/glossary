@@ -1,5 +1,5 @@
 ---
- title: Stateless Apps
+ title: Stateless-приложения
  status: Completed
  category: Property
  tags: ["fundamental", "application", "property"]
