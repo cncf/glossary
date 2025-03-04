@@ -1,5 +1,5 @@
 ---
-title: Shift Left
+title: Сдвиг влево
 status: Completed
 category: Concept
 tags: ["methodology", "", ""]
