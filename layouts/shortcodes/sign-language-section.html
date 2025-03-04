@@ -5,18 +5,25 @@
   */ -}}
 
 {{ $youtube := "" -}}
+{{ $youTubeHTML := "" -}}
 {{ $videoID := .Get 0 -}}
 {{ if $videoID -}}
-  {{ $youtube = printf "{{< youtube %s >}}" $videoID }}
+  {{ $youtube = printf "{{< youtube id=\"%s?mute=1\" >}}" $videoID -}}
+  {{/* Once we upgrade Hugo to 0.125.7:
+      $youtube = printf "{{< youtube id=%s mute=true >}}" $videoID
+    */ -}}
+  {{ $youTubeHTML = trim ($.Page.RenderString $youtube)  " \n" -}}
 {{ else -}}
   {{ $page := (and .Page.File .Page.File.Path) | default .Page.Title -}}
-  {{ warnf "%s: Shortcode 'sign-language-section' requires a video ID as argument" $page -}}
+  {{ $msg := printf "%s: Shortcode 'sign-language-section' requires a video ID as argument" $page -}}
+  {{ warnf $msg -}}
+  {{ $youTubeHTML = printf "<p class='p-3 bg-warning'><b>INTERNAL ERROR</b>: %s</p>" $msg -}}
 {{ end -}}
 
 ## {{ i18n "sign_language_header" }}
 
 <div class="sign-language__video">
-{{ $.Page.RenderString $youtube }}
+  {{- $youTubeHTML | safeHTML -}}
 </div>
 
 {{ i18n "sign_language_info" }}
