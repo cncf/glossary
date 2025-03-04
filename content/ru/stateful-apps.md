@@ -1,5 +1,5 @@
 ---
-title: Stateful Apps
+title: Stateful-приложения
 status: Completed
 category: Property
 tags: ["fundamental", "application", "property"]
