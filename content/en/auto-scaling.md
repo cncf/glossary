@@ -27,4 +27,4 @@ increasing the number of servers allowing for more video streaming and scaling b
 * [Horizontal Scaling](/horizontal-scaling/)
 * [Vertical Scaling](/vertical-scaling/)
 
-{{% sign-language cGONmC1smaM %}}
+{{% sign-language-section cGONmC1smaM %}}
