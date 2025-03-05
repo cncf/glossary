@@ -1,5 +1,5 @@
 ---
-title: Applications Distribuées
+title: Applications distribuées
 status: Completed
 category: concept
 tags: ["architecture", "", ""]

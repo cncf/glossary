@@ -1,5 +1,5 @@
 ---
-title: Mise à l'échelle verticale (Vertical Scaling)
+title: Mise à l'échelle verticale (vertical scaling)
 status: Completed
 category: Concept
 tags: ["infrastructure", "", ""]

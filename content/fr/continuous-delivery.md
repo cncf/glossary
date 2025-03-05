@@ -1,5 +1,5 @@
 ---
-title: Livraison Continue (Continuous Delivery)
+title: Livraison continue (Continuous Delivery)
 status: Completed
 category: concept
 tags: ["méthodologie", "application", ""]
