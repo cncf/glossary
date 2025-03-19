@@ -1,5 +1,5 @@
 ---
-title: Mise à l'échelle verticale (Vertical Scaling)
+title: Mise à l'échelle verticale (vertical scaling)
 status: Completed
 category: Concept
 tags: ["infrastructure", "", ""]
@@ -11,9 +11,9 @@ Supposons que vous avez un ordinateur avec 4 Go de mémoire et que vous voulez a
 ## Problème auquel il répond
 
 Lorsque la demande d'une application dépasse la capacité actuelle de l'instance de cette application, nous devons trouver un moyen de [mettre à l'échelle](/fr/scalability/) le système (ajouter de la capacité au système).
-Nous pouvons soit ajouter plus de ressources informatiques aux nœuds existants (mise à l'échelle verticale), soit ajouter plus de nœuds au système ([mise à l'échelle horizontale](/fr/horizontal-scaling/)).
+Nous pouvons soit ajouter plus de ressources informatiques aux nœuds existants (mise à l'échelle verticale), soit ajouter plus de nœuds au système (mise à l'échelle horizontale).
 La [capacité de mise à l'échelle](/fr/scalability/) contribue à la compétitivité, à l'efficacité, à la réputation et à la qualité.
- 
+
 ## Quelle en est l'utilité
 
 La mise à l'échelle verticale vous permet de redimensionner votre serveur sans modifier le code de l'application.

@@ -1,5 +1,5 @@
 ---
-title: Ingénierie du Chaos (Chaos Engineering)
+title: Ingénierie du chaos (Chaos Engineering)
 status: Completed
 category: concept
 tags: ["méthodologie", "", ""]

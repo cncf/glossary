@@ -1,5 +1,5 @@
 ---
-title: Machine Physique (Bare Metal)
+title: Machine physique (bare metal)
 status: Completed
 category: technology
 tags: ["infrastructure", "", ""]
