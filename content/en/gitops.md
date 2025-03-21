@@ -1,29 +1,38 @@
 ---
 title: GitOps
-status: Feedback Appreciated
+status: Completed
 category: Concept
 tags: ["methodology", "", ""]
 ---
 
-GitOps is a set of best practices based on [shared principles](https://opengitops.dev/), 
-applied to a workflow that depends on software agents that 
-enable automation to reconcile a declared system state or configuration in a git repository.
-These software agents and practices are used to execute a cohesive workflow that 
+GitOps is a set of best practices for managing software systems  
+from the beginning of the development workflow, all the way to deployment
+based on [shared (OpenGitOps) principles](https://opengitops.dev/).
+
+GitOps requires the desired state or configuration of the system to 
+be stored in a source control system like Git.
+These practices are then used to execute a cohesive workflow that 
 leverages a source control system like Git as the “single source of truth” and 
 extends this practice to applications, infrastructure, and operational procedures.
 
 ## Problem it addresses
 
-Existing processes for infrastructure configuration management can face challenges 
-such as configuration drift, failed deployments, relying on a system's previous state for success, 
-missing documentation, or unknown development history.
-Adopting a GitOps workflow can help alleviate these issues, among several others.
+Existing processes for configuration management can face 
+challenges such as configuration drift, failed deployments, inconsistency 
+across different infrastructure, or unknown development history.
+Emphasising on continues deployment and delivery, 
+a GitOps workflow can help alleviate these issues, 
+among several others.
 
 ## How it helps
 
 GitOps is a paradigm that can be applied to a workflow 
 to help manage an application and cloud system infrastructure. 
-It enables organizations several advantages 
-such as better coordination, transparency, stability, and reliability of a system.
-Operating in a close loop ensures the current live state of a system matches 
-against the desired target state, specified in the git repository.
+Moreover, it helps organizations to manage the entire infrastructure 
+and application development and deployment lifecycle using a 
+single and unified tool.
+
+GitOps brings organizations several other advantages 
+such as transparency and traceability of changes, 
+reliability and security through declarative states,
+and rollback, revert and self-healing attributes.
