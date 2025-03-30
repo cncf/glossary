@@ -39,8 +39,7 @@ The Glossary is maintained by
 [Seokho Son](https://www.linkedin.com/in/seokho-son/),
 [Noah Ispas](https://www.linkedin.com/in/noah-ispas-0665b42a/),
 [Jihoon Seo](https://www.linkedin.com/in/jihoon-seo/),
-[Nate W.](https://www.linkedin.com/in/nate-double-u/),
-and [Jorge Castro](https://www.linkedin.com/in/jorge-castro2112/).
+[Nate W.](https://www.linkedin.com/in/nate-double-u/).
 
 [Catherine Paganini](https://www.linkedin.com/in/catherinepaganini/en/),
 and [Jason Morgan](https://www.linkedin.com/in/jasonmorgan2/)
