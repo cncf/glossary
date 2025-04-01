@@ -1,6 +1,6 @@
 ---
 title: Cloud Native Storage
-status: Feedback Appreciated
+status: Completed
 category: concept
 tags: ["storage", "", ""]
 ---
