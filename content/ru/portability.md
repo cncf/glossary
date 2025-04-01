@@ -1,5 +1,5 @@
 ---
-title: Portability
+title: Портируемость
 status: Completed
 category: Property
 tags: ["fundamental", "property", ""]
