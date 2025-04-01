@@ -6,9 +6,10 @@ tags: ["infrastructure", "", ""]
 ---
 
 La mise à l'échelle horizontale est une technique qui consiste à augmenter la capacité d'un système en ajoutant plus de [nœuds](/fr/nodes/) au lieu d'ajouter plus de ressources informatiques à des nœuds unitaires (ce dernier étant connu sous le nom de [mise à l'échelle verticale (Vertical Scaling)](/fr/vertical-scaling/)).
-Supposons que nous avons un système avec 4 Go de mémoire et que nous voulons augmenter sa capacité à 16 Go, la mise à l'échelle horizontale consiste à ajouter 4 × 4 Go de mémoire plutôt que de passer à un système avec 16 Go de mémoire.
+Supposons que nous avons un système avec 4 Go de mémoire et que nous voulons augmenter sa capacité à 16 Go.
+La mise à l'échelle horizontale consiste à ajouter 3 nœuds avec 4 Go de mémoire plutôt que de passer à un système avec 16 Go de mémoire.
 
-Cette approche améliore les performances d'une application en ajoutant de nouvelles instances, ou [nœuds](/fr/nodes/), pour mieux répartir la charge de travail.
+Cette approche améliore les performances d'une application en ajoutant de nouvelles instances, ou nœuds, pour mieux répartir la charge de travail.
 En termes simples, elle vise à réduire la charge du serveur plutôt qu'à étendre la capacité du serveur unitaire.
 
 ## Problème auquel il répond
