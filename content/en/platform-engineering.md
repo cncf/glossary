@@ -1,6 +1,6 @@
 ---
 title: Platform Engineering
-status: Feedback Appreciated
+status: Completed
 category: ["methodology", "platform"]
 ---
 
