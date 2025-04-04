@@ -19,6 +19,6 @@ allowing developers to focus on the core task of writing innovative code.
 ## How it helps
 
 Platform engineering addresses the inefficiencies of software development by providing developers with 
-a pre-built toolkit. This toolkit, often built on top of infrastructure as a service (IaaS) or bare metal, 
+a pre-built toolkit. This toolkit, often built on top of infrastructure as a service ([IaaS](/infrastructure-as-a-service/)) or [bare metal](/bare-metal-machine/), 
 includes tools and automated processes that streamline common tasks. By abstracting away the complexities of 
 infrastructure management, platform engineering allows developers to focus on writing innovative code
