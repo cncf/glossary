@@ -14,7 +14,9 @@ SRE garantisce che il codice in produzione funzioni correttamente.
 
 ## Quali problematiche affronta
 
-Per garantire che le applicazioni funzionino in modo [affidabile](/it/reliability/), sono necessarie molteplici funzionalità, dal monitoraggio delle prestazioni, agli allarmi, al debug di errori e problemi. Senza questi elementi, gli sviluppatori possono solo reagire ai problemi anziché lavorare in modo proattivo per evitarli: il verificarsi di interruzioni di servizio sarà solo questione di tempo.
+Per garantire che le applicazioni funzionino in modo [affidabile](/it/reliability/), sono necessarie molteplici funzionalità, 
+dal monitoraggio delle prestazioni, agli allarmi, al debug di errori e problemi. 
+Senza questi elementi, gli operatori del sistema possono solo reagire ai problemi anziché lavorare in modo proattivo per evitarli: il verificarsi di interruzioni di servizio è solo questione di tempo.
 
 ## In che modo aiuta
 
