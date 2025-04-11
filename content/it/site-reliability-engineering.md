@@ -20,4 +20,7 @@ Senza questi elementi, gli operatori del sistema possono solo reagire ai problem
 
 ## In che modo aiuta
 
-Un approccio SRE riduce al minimo i costi, i tempi e gli sforzi del processo di sviluppo del software migliorando in modo continuo l’infrastruttura. Il sistema misura e monitora continuamente l'infrastruttura e i componenti dell'applicazione. Quando qualcosa va storto, il sistema indica ai SRE quando, dove e come risolvere il problema. Questo approccio aiuta a creare sistemi software altamente [scalabili](/it/scalability/) e affidabili, automatizzando le attività operative.
+Un approccio SRE riduce al minimo i costi, i tempi e gli sforzi del processo di sviluppo del software migliorando in modo continuo l’infrastruttura. 
+Il sistema misura e monitora continuamente l'infrastruttura e i componenti dell'applicazione. 
+Quando qualcosa va storto, il sistema indica ai SRE quando, dove e come risolvere il problema. 
+Questo approccio aiuta a creare sistemi software altamente [scalabili](/it/scalability/) e affidabili, automatizzando le attività operative.
