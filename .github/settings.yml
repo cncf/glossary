@@ -103,7 +103,10 @@ collaborators:
   - username: ugho16
     permission: push
 
-  - username: annalisag-spark
+  - username: matteobisi
+    permission: push
+
+  - username: SaraTrap
     permission: push
 
   - username: sistella
