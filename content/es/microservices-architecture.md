@@ -1,7 +1,7 @@
 ---
 title: Arquitectura de Microservicios
 status: Completed
-tags: ["arquitectura", "fundamento", ""]
+tags: ["arquitectura", "básico", ""]
 ---
 
 Una arquitectura de microservicios es un enfoque arquitectónico que divide las aplicaciones en (micro)[servicios](/es/service/) individuales e independientes, donde cada servicio se centra en una funcionalidad específica.
@@ -25,7 +25,6 @@ Las arquitecturas monolíticas también hacen que los desarrolladores tengan la 
 Como todo el código está en el mismo sitio, es más fácil hacer que ese código esté [estrechamente acoplado](/es/tightly-coupled-architectures/) y más difícil aplicar el principio de separación de preocupaciones.
 Los monolitos también suelen requerir que los desarrolladores entiendan todo el código base antes de desplegar cualquier funcionalidad.
 La arquitectura de microservicios es una respuesta a estos retos.
-
 
 ## ¿Cómo ayuda?
 

@@ -2,7 +2,7 @@
 title: Aplicaciones Nativas para la Nube
 status: Completed
 category: Concepto
-tags: ["aplicación", "fundamento", ""]
+tags: ["aplicación", "básico", ""]
 ---
 
 Las aplicaciones nativas para la nube están diseñadas específicamente para aprovechar las innovaciones en [computación en la nube](/es/cloud-computing/).

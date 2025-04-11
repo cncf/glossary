@@ -2,7 +2,7 @@
 title: Interfaz de programación de aplicaciones (API)
 status: Completed
 category: Tecnología
-tags: ["arquitectura", "fundamento", ""]
+tags: ["arquitectura", "básico", ""]
 ---
 
 Una API es una manera en la que los programas de computadoras interactúan entre sí.
