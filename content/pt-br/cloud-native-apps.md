@@ -1,5 +1,5 @@
 ---
-title: Aplicações Nativas em Nuvem 
+title: Aplicações Nativas em Nuvem
 status: Completed
 category: conceito
 tags: ["aplicação", "fundamento", ""]
@@ -9,7 +9,7 @@ As aplicações nativas em nuvem são projetadas especificamente para aproveitar
 
 ## Problema relacionado
 
-Tradicionalmente, os ambientes locais forneciam recursos de computação de maneira bastante personalizada. Cada datacenter tinha seus serviços [fortemente acoplados](/tightly-coupled-architectures/) aos aplicativos e a ambientes específicos, muitas vezes contando com o provisionamento manual para infraestrutura, como serviços e [máquinas virtuais](/pt-br/virtual-machine/). Isso, por sua vez, restringiu os desenvolvedores e seus aplicativos a esse datacenter específico. Aplicativos que não foram projetados para a nuvem não poderiam aproveitar os recursos de resiliência e dimensionamento de um ambiente em nuvem. Por exemplo, os aplicativos que exigem intervenção manual para iniciar corretamente não podem escalar automaticamente, nem podem ser reiniciados automaticamente em caso de falha.
+Tradicionalmente, os ambientes locais forneciam recursos de computação de maneira bastante personalizada. Cada datacenter tinha seus serviços [fortemente acoplados](/pt-br/tightly-coupled-architecture/) aos aplicativos e a ambientes específicos, muitas vezes contando com o provisionamento manual para infraestrutura, como serviços e [máquinas virtuais](/pt-br/virtual-machine/). Isso, por sua vez, restringiu os desenvolvedores e seus aplicativos a esse datacenter específico. Aplicativos que não foram projetados para a nuvem não poderiam aproveitar os recursos de resiliência e dimensionamento de um ambiente em nuvem. Por exemplo, os aplicativos que exigem intervenção manual para iniciar corretamente não podem escalar automaticamente, nem podem ser reiniciados automaticamente em caso de falha.
 
 ## Como isso ajuda
 

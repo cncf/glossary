@@ -4,7 +4,7 @@ status: Completed
 category: Tecnologia
 ---
 
-A computação de borda é um modelo de [sistema distribuído](/pt-br/distributed-systems) que transfere parte da capacidade de armazenamento e processamento do [*data center*](/pt-br/data-center) principal para as fontes de dados.
+A computação de borda é um modelo de [sistema distribuído](/pt-br/distributed-systems/) que transfere parte da capacidade de armazenamento e processamento do [*data center*](/pt-br/data-center/) principal para as fontes de dados.
 Os dados coletados são processados localmente (por exemplo, em uma fábrica, em uma loja ou em toda uma cidade) em vez de serem enviados para um *data center* centralizado para processamento e análise.
 Essas unidades ou dispositivos de processamento locais representam a borda do sistema, enquanto o *data center* é o seu centro.
 A saída processada na borda é então enviada de volta para o *data center* principal para processamento adicional.

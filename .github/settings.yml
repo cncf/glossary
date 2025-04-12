@@ -125,6 +125,9 @@ collaborators:
   # l10n bn approvers
   - username: Arindam200
     permission: push
+    
+  - username: asem-hamid
+    permission: push
 
   - username: Imtiaz1234
     permission: push
@@ -390,6 +393,7 @@ branches:
         # bn approvers
         users:
          - Arindam200
+         - asem-hamid
          - Imtiaz1234
          - mitul3737
          - sajibAdhi

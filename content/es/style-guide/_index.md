@@ -3,8 +3,8 @@ title: Guía de estilos
 toc_hide: true
 status: Completed
 menu:
- main:
-   weight: 10
+  main:
+    weight: 10
 ---
 
 Esta guía de estilos te ayudará a entender la audiencia del Glosario, la estructura de las definiciones, el nivel de detalle requerido, y como mantener un estilo consistente.
@@ -15,7 +15,7 @@ Adicionalmente, sigue las siguientes reglas:
 1. Utilice un lenguaje sencillo y accesible, evitando la jerga técnica y palabras de moda.
 2. [Evite el lenguaje coloquial](https://en.wikipedia.org/wiki/Colloquialism)
 3. [Use un lenguaje literal y concreto](https://guidetogrammar.org/grammar/composition/abstract.htm)
-4. [Omite contracciones](https://en.wikipedia.org/wiki/Contraction_(grammar))
+4. [Omite contracciones](<https://en.wikipedia.org/wiki/Contraction_(grammar)>)
 5. [Use la voz pasiva con moderación](https://www.ef.com/ca/english-resources/english-grammar/passive-voice/)
 6. [Trate de formular declaraciones en forma positiva](https://examples.yourdictionary.com/positive-sentence-examples.html)
 7. [Sin signos de exclamación fuera de las comillas](https://www.grammarly.com/blog/exclamation-mark/)
@@ -32,7 +32,7 @@ Asegúrese de que las definiciones sean explicadas en términos simples y no asu
 
 Nuestro objetivo es facilitar la comprensión de términos nativos de nube a cualquiera.
 Por lo tanto, nos focalizamos en la simplicidad.
-Lo que significa utilizar lenguaje simple y conciso con ejemplos que cualquiera que usa tecnología pueda identificarse, pero también proveyendo un *contenido mínimo viable*, al menos desde un punto de vista técnico.
+Lo que significa utilizar lenguaje simple y conciso con ejemplos que cualquiera que usa tecnología pueda identificarse, pero también proveyendo un _contenido mínimo viable_, al menos desde un punto de vista técnico.
 No queremos ahorrar en contexto o ejemplos - que ayudan al lector a entender el concepto - pero si el detalle técnico no es necesario para entender lo explicado, no serán incluidos.
 El objetivo es no complicar las cosas. Una vez que el lector entienda el concepto básico, otros recursos ayudarán a ahondar.
 Esa parte está fuera del control de este Glosario.
@@ -65,6 +65,7 @@ La etiqueta **title** siempre estará en la parte superior de una definición y 
 
 ```md
 ---
+
 title: Plantilla de Definición
 ```
 
@@ -78,10 +79,11 @@ Los valores válidos son:
 - Feedback Appreciated (Retroalimentación solicitada)
 - Not Started (Sin iniciar)
 
-Siempre puede abrir un issue a una definición completa. Mientras una definición está cambiando, su estado cambiará a *Feedback Appreciated*.
+Siempre puede abrir un issue a una definición completa. Mientras una definición está cambiando, su estado cambiará a _Feedback Appreciated_.
 
 ```md
 ---
+
 title: Plantilla de Definición
 status: Feedback Appreciated
 ```
@@ -91,7 +93,7 @@ status: Feedback Appreciated
 La **etiqueta** vendrá a continuación de la sección status.
 Para que las etiquetas sean de ayuda para el usuario, deberemos usarlas de manera estricta.
 Agregar demasiadas etiquetas terminará por diluir su significado.
-Exceptuando "fundamental", que simplemente indica que el término referido es vital para entender otros conceptos de Cloud Native, la mayoría de los términos utilizara solo una etiqueta.
+Exceptuando "básico", que simplemente indica que el término referido es vital para entender otros conceptos de Cloud Native, la mayoría de los términos utilizara solo una etiqueta.
 
 **Nota**: Por favor no cree nuevas etiquetas a menos que sean aprobadas por los mantenedores. Cuando agregue etiquetas, asegúrese de que estén correctamente deletreadas como se lista a continuación (en singular, sin errores).
 
@@ -99,7 +101,7 @@ Las etiquetas existentes son:
 
 - aplicación
 - arquitectura
-- fundamento
+- básico
 - infraestructura
 - metodología
 - redes
@@ -122,7 +124,7 @@ Las definiciones de las categorías **technology** y **concept** contienen tres 
 
 - **Qué es**: proporciona una descripción breve y clara de lo que estamos hablando.
 - **Problema que aborda**: enfócate en el problema, no en la solución (que viene en la siguiente sección).
- De hecho, evite mencionar el término que se esta definiendo. El problema se centra en *qué* nos llevó a necesitar esto.
+  De hecho, evite mencionar el término que se esta definiendo. El problema se centra en _qué_ nos llevó a necesitar esto.
 - **Cómo ayuda**: ahora, vuelve al término. ¿Cómo aborda el problema descrito anteriormente?
 
 Tenga en cuenta que la etiqueta **properties** no requiere secciones separadas.Una definición será suficiente.
@@ -153,7 +155,7 @@ El Glosario tiene como objetivo **explicar conceptos complejos en palabras senci
 Siempre tenga en cuenta a la audiencia cuando redacte su definición.
 Evite usar términos de la industria y palabras de moda; probablemente se encontrará volviendo a ellos y es posible que deba corregirlos automáticamente.
 
-Cuando corresponda, use **ejemplos del mundo real** que ayuden a los lectores (especialmente a los no técnicos) a comprender mejor *cuándo* y *por qué* el concepto que está explicando es relevante.
+Cuando corresponda, use **ejemplos del mundo real** que ayuden a los lectores (especialmente a los no técnicos) a comprender mejor _cuándo_ y _por qué_ el concepto que está explicando es relevante.
 
 Cuando se use en su definición, siempre **enlace a los términos existentes del glosario** (solo la primera mención debe tener un hipervínculo).
 

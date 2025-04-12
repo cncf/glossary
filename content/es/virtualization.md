@@ -2,7 +2,7 @@
 title: Virtualización
 status: completed
 category: Tecnología
-tags: ["fundamento", "infraestructura", "metodología"]
+tags: ["básico", "infraestructura", "metodología"]
 ---
 
 La virtualización, en el contexto de la computación nativa para la nube,
@@ -10,7 +10,7 @@ refiere al proceso de tomar una computadora física, algunas veces llamada servi
 y permitirle ejecutar múltiples sistemas operativos aislados.
 Estos sistemas operativos aislados y sus recursos computacionales dedicados (CPU, memoria y red) son
 referidos como máquinas virtuales.
-Cuando hablamos de una [máquina virtual](/es/virtual-machine), estamos hablando de una computadora definida por software.
+Cuando hablamos de una [máquina virtual](/es/virtual-machine/), estamos hablando de una computadora definida por software.
 Algo que luce y actúa como una computadora real pero comparte hardware con otras máquinas virtuales.
 La [computación en la nube](/es/cloud-computing/) está principalmente basada en la tecnología de virtualización.
 Como ejemplo, se puede rentar una computadora a AWS - una computadora que es en realidad una máquina virtual.

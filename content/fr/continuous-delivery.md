@@ -1,5 +1,5 @@
 ---
-title: Livraison Continue (Continuous Delivery)
+title: Livraison continue (Continuous Delivery)
 status: Completed
 category: concept
 tags: ["méthodologie", "application", ""]
@@ -10,7 +10,7 @@ dans lequel les modifications de code sont automatiquement déployées dans un e
 (ou, en cas de déploiement continu, en production).
 La CD comprend des procédures pour garantir que le logiciel est correctement testé
 avant le déploiement et fournit un moyen de revenir en arrière sur les modifications si nécessaire.
-L'intégration continue (CI) est la première étape vers la livraison continue
+L'[intégration continue](/fr/continuous-integration/) (CI) est la première étape vers la livraison continue
 (c'est-à-dire que les modifications doivent fusionner proprement avant d'être testées et déployées).
 
 ## Problème auquel il répond
@@ -21,7 +21,7 @@ Cependant, le faire manuellement se traduit par des coûts élevés pour chaque 
 Historiquement, pour éviter ces coûts, les organisations publiaient moins fréquemment,
 déployant plus de changements à la fois et augmentant le risque que quelque chose se passe mal.
 
-## Quel en est l'utilité
+## Quelle en est l'utilité
 
 Les stratégies CD créent un parcours entièrement automatisé vers la production
 qui teste et déploie le logiciel en utilisant diverses stratégies

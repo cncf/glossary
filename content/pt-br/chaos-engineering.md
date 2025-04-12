@@ -9,7 +9,7 @@ A Engenharia do Caos, ou CE, é a disciplina de experimentar em um [sistema dist
 
 ## Problema relacionado
 
-As práticas de [SRE](/pt-br/site-reliability-engineering/) e [DevOps](/pt-br/devops/)focam em técnicas para aumentar a resiliência e [confiabilidade](/pt-br/reliability/) do produto. A capacidade de um sistema de tolerar falhas enquanto garante qualidade de serviço adequada é tipicamente um requisito de desenvolvimento de software. Existem vários aspectos envolvidos que podem levar a falhas de um aplicativo, como infraestrutura, plataforma ou outras partes móveis de um aplicativo baseado em [microserviços](/pt-br/microservices/). A implantação frequente de novos recursos no ambiente de produção pode aumentar a probabilidade de tempo de inatividade e um incidente crítico — com consequências consideráveis para o negócio.
+As práticas de [SRE](/pt-br/site-reliability-engineering/) e [DevOps](/pt-br/devops/)focam em técnicas para aumentar a resiliência e [confiabilidade](/pt-br/reliability/) do produto. A capacidade de um sistema de tolerar falhas enquanto garante qualidade de serviço adequada é tipicamente um requisito de desenvolvimento de software. Existem vários aspectos envolvidos que podem levar a falhas de um aplicativo, como infraestrutura, plataforma ou outras partes móveis de um aplicativo baseado em [microserviços](/pt-br/microservices-architecture/). A implantação frequente de novos recursos no ambiente de produção pode aumentar a probabilidade de tempo de inatividade e um incidente crítico — com consequências consideráveis para o negócio.
 
 ## Como ajuda
 

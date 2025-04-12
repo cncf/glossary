@@ -17,7 +17,7 @@ Chaque machine nécessitait son propre système d'exploitation, qui utilisait du
 tout cela pour faire fonctionner une simple application.
 De plus, la maintenance, la mise à jour et le lancement d'un système d'exploitation sont des sources de travail en plus.
 
-## Quel en est l'utilité
+## Quelle en est l'utilité
 
 Les conteneurs partagent le même système d'exploitation et ses ressources machine,
 et se partagent donc la charge additionnelle des ressources dues au système d'exploitation, ce qui permet un usage efficace de la machine physique.

@@ -13,4 +13,4 @@ Uma API (interface de programação de aplicações - do inglês: applications p
 
 ## Como isso ajuda
 
-APIs permitem que programas de computador ou aplicações interajam e compartilhem informações de uma maneira definida e compreensível. Elas são os blocos de construção para as aplicações modernas e fornecem aos desenvolvedores uma maneira de integrar aplicações. Sempre que você ouvir sobre [microsserviços](/microservices/) você pode inferir que eles interagem uns com os outros por meio de uma API.
+APIs permitem que programas de computador ou aplicações interajam e compartilhem informações de uma maneira definida e compreensível. Elas são os blocos de construção para as aplicações modernas e fornecem aos desenvolvedores uma maneira de integrar aplicações. Sempre que você ouvir sobre [microsserviços](/pt-br/microservices-architecture/) você pode inferir que eles interagem uns com os outros por meio de uma API.

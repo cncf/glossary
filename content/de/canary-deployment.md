@@ -4,8 +4,6 @@ status: Completed
 category: Konzept
 ---
 
-## Was es ist
-
 Das Canary-Deployment ist eine Deployment-Strategy, die bei einem neuen Release, zwei Umgebungen einbezieht: Die produktive Umgebung und eine Umgebung, welche die neue Version einer Anwendung enthält. 
 Der Datenverkehr wird nun schrittweise von der aktuell produktiven Umgebung auf die Umgebung mit der neuen Version der Anwendung gelenkt. 
 Zunächst kann damit begonnen werden, 1% des Echtzeit-Datenverkehrs zu verschieben, dann 10%, 25% und so weiter, bis der gesamte Datenverkehr über die aktualisierte Version erfolgt. 

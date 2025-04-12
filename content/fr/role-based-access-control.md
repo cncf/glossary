@@ -15,7 +15,7 @@ Le RBAC répond au défi de contrôler les ressources auxquelles les membres de 
 Les administrateurs doivent veiller à ce que chaque utilisateur dispose des autorisations adéquates pour accéder aux ressources nécessaires. 
 Cette tâche peut devenir fastidieuse et sujette aux erreurs en l'absence d'un mécanisme structuré de gestion des accès.
 
-## Quel en est l'utilité
+## Quelle en est l'utilité
 
 Le RBAC offre aux équipes informatiques la possibilité de gérer aisément les autorisations de tous les utilisateurs d'un groupe simultanément, ou d'apporter rapidement des ajustements au niveau d'accès d'un utilisateur individuel en lui attribuant ou en supprimant un rôle. 
 Cette approche garantit la sécurité des données sensibles et veille à ce que les employés n'aient accès qu'aux informations nécessaires à l'exécution de leurs tâches professionnelles. 
