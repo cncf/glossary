@@ -2,7 +2,7 @@
 title: Aplicaciones con estado
 status: Completed
 category: Concepto
-tags: ["fundamento", "aplicación", ""]
+tags: ["básico", "aplicación", ""]
 ---
 
 Cuando hablamos de aplicaciones con estado (y [sin estado](/es/stateless-apps/)),

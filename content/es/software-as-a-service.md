@@ -3,7 +3,7 @@ Title: Software como Servicio (SaaS)
 Status: Deprecated
 Category: Tecnología
 draft: true
-tags: ["fundamento", "plataforma", ""]
+tags: ["básico", "plataforma", ""]
 ---
 
 El software como servicio (SaaS) permite a los usuarios conectarse y utilizar servicios basados en la nube a través de Internet.

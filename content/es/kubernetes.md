@@ -2,7 +2,7 @@
 title: Kubernetes
 status: Completed
 category: Tecnología
-tags: ["infraestructura", "fundamento", ""]
+tags: ["infraestructura", "básico", ""]
 ---
 
 Kubernetes, comúnmente abreviado como K8s, es un orquestador de contenedores de código abierto.

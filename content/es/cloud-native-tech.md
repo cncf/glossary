@@ -2,7 +2,7 @@
 title: Tecnología Nativa para la Nube
 status: Completed
 category: Concepto
-tags: ["fundamental", "", ""]
+tags: ["básico", "", ""]
 ---
 
 Las tecnologías nativas para la nube, también denominadas como stack nativo para la nube,

@@ -2,7 +2,7 @@
 title: Clúster
 status: Completed
 category: Concepto
-tags: ["infraestructura", "fundamento", ""]
+tags: ["infraestructura", "básico", ""]
 ---
 
 Un clúster es un grupo de ordenadores o aplicaciones que trabajan juntos hacia un objetivo común.

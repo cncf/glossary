@@ -2,7 +2,7 @@
 title: Nodos
 status: Completed
 category: Tecnología
-tags: ["infraestructura", "fundamento", ""]
+tags: ["infraestructura", "básico", ""]
 ---
 
 Un nodo es un servidor que trabaja en conjunto a otros servidores, o nodos, para realizar una tarea común.
