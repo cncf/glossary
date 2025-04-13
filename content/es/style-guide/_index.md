@@ -26,7 +26,7 @@ Adicionalmente, sigue las siguientes reglas:
 ## Audiencia
 
 El Glosario está escrito para una audiencia técnica y no técnica.
-Asegúrese de que las definiciones sean explicadas en términos simples y no asuma conocimientos técnicos. Más acerca de eso a continuación en [Definición](#definition) y en la [Guía de estilo para lengua de señas](#sign-language-style-guide).
+Asegúrese de que las definiciones sean explicadas en términos simples y no asuma conocimientos técnicos. Más acerca de eso a continuación en [Definición](#definición) y en la [Guía de estilo para lengua de señas](#sign-language-style-guide).
 
 ## Contenido mínimo viable
 
