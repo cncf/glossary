@@ -99,7 +99,7 @@ Las etiquetas existentes son:
 
 - aplicación
 - arquitectura
-- fundamento
+- básico
 - infraestructura
 - metodología
 - redes
