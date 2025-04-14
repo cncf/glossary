@@ -264,7 +264,7 @@ All you need is a high-resolution camera and a stand. A modern smartphone should
 
 ## The review process: What to expect
 
-Please note that we are currently only three maintainers doing this in their spare time. 
+Please note that we are currently only a handfull maintainers doing this in their spare time. 
 Occasionally, we'll be able to review terms quickly; on other occasions, it may take some time—we appreciate your patience. 
 If you have any questions, please contact us in the #glossary Slack channel 
 (for where and how to find it, please refer to our [How To Contribute](/contribute/) doc).
