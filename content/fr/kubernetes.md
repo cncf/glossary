@@ -18,7 +18,7 @@ Kubernetes est extensible via ses [API](/fr/application-programming-interface/),
 L'automatisation de l'infrastructure et la gestion de configuration déclarative sont des concepts importants depuis longtemps, mais ils sont devenus omniprésents depuis que le [cloud computing](/fr/cloud-computing/) a gagné en popularité.
 À mesure que la demande de ressources de calcul augmente et que les organisations ont besoin de plus de capacités avec moins d'ingénieurs, les nouvelles technologies et les méthodes de travail doivent répondre à cette demande.
 
-## Quel en est l'utilité
+## Quelle en est l'utilité
 
 Comme pour les outils traditionnels d'[infrastructure en tant que code](/fr/infrastructure-as-code/), Kubernetes aide à l'automatisation, mais a l'avantage de fonctionner avec des conteneurs.
 Les conteneurs sont plus résistants aux écarts de configuration que les [machines virtuelles](/fr/virtual-machine/) ou physiques.

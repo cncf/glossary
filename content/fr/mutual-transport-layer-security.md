@@ -15,7 +15,7 @@ Les [microservices](/fr/microservices-architecture/) communiquent sur un réseau
 tout comme sur votre réseau wifi, les communications qui transitent par ce réseau peuvent être piratées. 
 Le mTLS garantit qu'aucune partie non autorisée ne peut écouter ou usurper des requêtes légitimes.
 
-## Quel en est l'utilité
+## Quelle en est l'utilité
 
 mTLS garantit que le trafic est sécurisé et digne de confiance dans les deux sens entre un client et un serveur, 
 Il fournit une couche de sécurité supplémentaire aux utilisateurs qui se connectent à un réseau ou à des applications. 

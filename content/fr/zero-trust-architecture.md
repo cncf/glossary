@@ -1,5 +1,5 @@
 ---
-title: Architecture Zéro Confiance
+title: Architecture zéro confiance
 status: Completed
 category: Concept
 tags: ["sécurité", "", ""]
@@ -23,7 +23,7 @@ L'attaquant se trouve alors à l'intérieur du périmètre "de confiance" du ré
 Dans une architecture zéro confiance, la confiance est éliminée, réduisant ainsi la surface d'attaque, 
 car un attaquant est contraint de se soumettre à une vérification avant de pouvoir progresser dans le système.
 
-## Quel en est l'utilité
+## Quelle en est l'utilité
 
 L'adoption d'une architecture zéro confiance présente le principal avantage d'augmenter la sécurité tout en réduisant la surface d'attaque. 
 En éliminant la notion de confiance de votre système d'entreprise, 

@@ -5,7 +5,7 @@ category: concept
 tags: ["infrastructure", "fundamental", ""]
 ---
 
-Cloud computing offers CPU power, storage, and network capabilities over the internet, 
+Cloud computing offers CPU power, storage, and network capabilities, 
 enabling scalable and flexible access to resources across global data centers. 
 It spans private clouds, dedicated to single organizations for security and control, 
 and public clouds, open for widespread use, optimizing cost and scalability.

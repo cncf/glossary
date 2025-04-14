@@ -4,8 +4,6 @@ status: Completed
 category: Konzept
 ---
 
-## Was es ist
-
 Bei einer Client-Server-Architektur ist eine Anwendung in zwei oder mehr Komponenten aufgeteilt. Dabei wird unterschieden zwischen Clients und Servern. 
 Ein Client fordert die Erledigung einer Aufgabe bei einem Server an und der Server wiederum nimmt diese Anfrage entgegen und bearbeitet die Aufgabe. 
 Ein Beispiel dafür ist Google Mail. Der Client ist in diesem Fall die Webanwendung bzw. die UI, die im Browser des Nutzers ausgeführt wird. 
