@@ -44,7 +44,7 @@ collaborators:
   - username: nate-double-u
     permission: admin
 
-  - username: castrojo
+  - username: hlipsig
     permission: push
 
   # Localization approvers
