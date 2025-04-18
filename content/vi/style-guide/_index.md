@@ -115,7 +115,7 @@ tags: ["tag 1", "tag 2", ""]
 ---
 ```
 
-### Định nghĩa
+### Định nghĩa {#definition}
 
 #### Hai phần phụ
 
