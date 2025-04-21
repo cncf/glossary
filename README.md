@@ -1,4 +1,5 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/ba021536-b074-49b8-8981-7a0d19882970/deploy-status)](https://app.netlify.com/sites/cncfglossary/deploys)
+From Owner Romeo Rosete ![Project Velocity-1745275764389](https://github.com/user-attachments/assets/128dfab7-fd80-4949-af0a-184c147adde3)
 
 # Cloud Native Glossary
 
