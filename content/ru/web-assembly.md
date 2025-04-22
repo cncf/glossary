@@ -1,6 +1,6 @@
 ---
-title: Шаблон для определений
-status: Feedback Appreciated
+title: WebAssembly
+status: Completed
 category: concept
 ---
 
