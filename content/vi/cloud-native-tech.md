@@ -5,7 +5,7 @@ category: Concept
 tags: ["fundamental", "", ""]
 ---
 
-Công nghệ cloud native, hay còn gọi là hệ sinh thái cloud native (cloud native stack), là tập hợp các công nghệ được sử dụng để xây dựng [ứng dụng cloud native](/cloud-native-apps/). Chúng cho phép các tổ chức phát triển và vận hành các ứng dụng có khả năng mở rộng trong môi trường hiện đại và linh hoạt như các hệ thống đám mây công cộng, riêng tư hoặc kết hợp, đồng thời tận dụng tối đa lợi ích của [điện toán đám mây](/cloud-computing/). Những công nghệ này được thiết kế từ đầu để khai thác toàn diện khả năng của điện toán đám mây, và bao gồm các thành phần như container, service mesh, kiến trúc vi mô (microservices), và cơ sở hạ tầng bất biến (immutable infrastructure).
+Công nghệ cloud native, hay còn gọi là hệ sinh thái cloud native (cloud native stack), là tập hợp các công nghệ được sử dụng để xây dựng [ứng dụng cloud native](/cloud-native-apps/). Chúng cho phép các tổ chức phát triển và vận hành các ứng dụng có khả năng mở rộng trong môi trường hiện đại và linh hoạt như các hệ thống đám mây công cộng, riêng tư hoặc kết hợp, đồng thời tận dụng tối đa lợi ích của [điện toán đám mây](/cloud-computing/). Những công nghệ này được thiết kế từ đầu để khai thác toàn diện khả năng của điện toán đám mây, và bao gồm các thành phần như container, service mesh, microservices, và cơ sở hạ tầng bất biến (immutable infrastructure).
 
 ## Vấn đề mà công nghệ này giải quyết
 
