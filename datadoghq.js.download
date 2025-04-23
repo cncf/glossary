@@ -1,0 +1,16 @@
+// Copyright The Linux Foundation and each contributor to LFX.
+// SPDX-License-Identifier: MIT
+
+(function (h, o, u, n, d) {
+  h = h[d] = h[d] || {
+    q: [],
+    onReady: function (c) {
+      h.q.push(c);
+    }
+  };
+  d = o.createElement(u);
+  d.async = 1;
+  d.src = n;
+  n = o.getElementsByTagName(u)[0];
+  n.parentNode.insertBefore(d, n);
+})(window, document, 'script', 'https://www.datadoghq-browser-agent.com/us1/v5/datadog-rum.js', 'DD_RUM');
