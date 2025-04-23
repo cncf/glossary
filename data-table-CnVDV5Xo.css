@@ -1,0 +1,4 @@
+.pagination-actions span[data-v-b7192d49]{cursor:pointer}.icon-disabled[data-v-b7192d49]{opacity:.5;cursor:not-allowed!important}/*!
+* Copyright The Linux Foundation and each contributor to LFX.
+* SPDX-License-Identifier: MIT
+*/:root{--custom-color-red: red;--pagination-text-color: #807f83;--table-header-bg: #d3dce3;--table-header-color: #1b3952;--table-body-color: #333333}.lf-data-table-card{border-radius:4px;border:1px solid #e0e0e0;background-color:#fff;-webkit-box-sizing:border-box;box-sizing:border-box}.b-table .table thead tr th{font-size:.8125rem;line-height:1.25rem;font-weight:700;text-transform:capitalize;color:var(--table-header-color);background:var(--table-header-bg)!important;padding:1rem}.b-table .table tbody{font-size:.8125rem;line-height:1.25rem;color:var(--table-body-color)}.b-table .table tbody td{padding:1.5rem 1rem}
