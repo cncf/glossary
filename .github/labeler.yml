@@ -57,3 +57,7 @@ lang/ur:
 lang/zh:
 - changed-files:
   - any-glob-to-any-file: 'content/zh-cn/**'
+
+lang/vi:
+- changed-files:
+  - any-glob-to-any-file: 'content/vi/**'
