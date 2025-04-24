@@ -5,7 +5,7 @@ category: Concept
 tags: ["methodology", "", ""]
 ---
 
-GitOps is a set of practices for managing software applications and infrastructure by continuously defining their desired states in a version control system such as Git.
+GitOps is a set of practices for managing software applications and infrastructure by continuously evaluating and reconciling their desired states as defined in a version control system such as Git against their actual state. Reconciling states includes changing the resources to match the defined state via deployment or updates.
 
 In GitOps, the state or configuration of a system is fully described in files stored in version control.
 These files drive automated processes that align the live system with the defined state, ensuring consistency across applications, infrastructure, and operational tasks.
