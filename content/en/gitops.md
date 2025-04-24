@@ -14,6 +14,7 @@ The source of truth is evaluated by the automated processes that align the live 
 
 Traditional approaches to managing infrastructure and application configurations can result in configuration drift, failed deployments, inconsistent environments, deployment failures, and difficulty tracking historical changes.
 These issues can cause instability and increase maintenance overhead.
+Configuration drift can be hard to detect and resolve without a source of truth governing it, increasing time to resolve outages or failures. 
 
 ## How it helps
 
