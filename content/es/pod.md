@@ -2,7 +2,7 @@
 title: Pod
 status: Completed
 category: Concepto
-tags: ["infraestructura", "básico", ""]
+tags: ["infraestructura", "fundamentos", ""]
 ---
 
 Dentro de un entorno de [Kubernetes](/es/kubernetes/), un Pod actúa como la unidad más básica desplegable. 

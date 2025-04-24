@@ -34,7 +34,7 @@ Nuestro objetivo es facilitar la comprensión de términos nativos de nube a cua
 Por lo tanto, nos focalizamos en la simplicidad.
 Lo que significa utilizar lenguaje simple y conciso con ejemplos que cualquiera que usa tecnología pueda identificarse, pero también proveyendo un *contenido mínimo viable*, al menos desde un punto de vista técnico.
 No queremos ahorrar en contexto o ejemplos - que ayudan al lector a entender el concepto - pero si el detalle técnico no es necesario para entender lo explicado, no serán incluidos.
-El objetivo es no complicar las cosas. Una vez que el lector entienda el concepto básico, otros recursos ayudarán a ahondar.
+El objetivo es no complicar las cosas. Una vez que el lector entienda el concepto fundamental, otros recursos ayudarán a ahondar.
 Esa parte está fuera del control de este Glosario.
 
 ## Plantilla de definición
@@ -99,7 +99,7 @@ Las etiquetas existentes son:
 
 - aplicación
 - arquitectura
-- básico
+- fundamentos
 - infraestructura
 - metodología
 - redes

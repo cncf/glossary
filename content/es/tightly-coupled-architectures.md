@@ -2,7 +2,7 @@
 title: Arquitecturas fuertemente acopladas
 status: Completed
 category: Propiedad
-tags: ["básico", "arquitectura", "propiedad"]
+tags: ["fundamentos", "arquitectura", "propiedad"]
 ---
 
 La arquitectura fuertemente acoplada es un tipo de arquitectura donde los componentes individuales de la aplicación son interdependientes 

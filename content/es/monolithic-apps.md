@@ -2,7 +2,7 @@
 title: Aplicaciones monolíticas
 status: Completed
 category: Concepto
-tags: ["arquitectura", "básico", ""]
+tags: ["arquitectura", "fundamentos", ""]
 ---
 
 Una aplicación monolítica contiene toda la funcionalidad en un único programa desplegable.

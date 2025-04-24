@@ -2,7 +2,7 @@
 title: Fiabilidad
 status: Completed
 category: Propiedad
-tags: ["básico", "propiedad", ""]
+tags: ["fundamentos", "propiedad", ""]
 ---
 
 Desde una perspectiva nativa a la nube, fiabilidad se refiere a qué tan bien un sistema responde ante las fallas. 

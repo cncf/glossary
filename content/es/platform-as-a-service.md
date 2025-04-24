@@ -2,7 +2,7 @@
 title: Plataforma como Servicio (PaaS)
 status: Deprecated
 category: Tecnología
-tags: ["básico", "plataforma", ""]
+tags: ["fundamentos", "plataforma", ""]
 ---
 
 Una plataforma como servicio, o PaaS, es una plataforma externa usada por los equipos de desarrollo de aplicaciones para desplegar y correr sus aplicaciones.

@@ -2,7 +2,7 @@
 title: Máquina Virtual
 status: Completed
 category: Tecnología
-tags: ["básico", "infraestructura", ""]
+tags: ["fundamentos", "infraestructura", ""]
 ---
 
 Una máquina virtual (VM según sus siglas en Inglés) es una computadora y su sistema operativo
