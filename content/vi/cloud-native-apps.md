@@ -8,7 +8,7 @@ tags: ["application", "fundamental", ""]
 Các ứng dụng Cloud Native được thiết kế đặc biệt để tận dụng các đổi mới trong [điện toán đám mây](/cloud-computing/).  
 Những ứng dụng này dễ dàng tích hợp với kiến trúc đám mây tương ứng, tận dụng hiệu quả tài nguyên và khả năng [mở rộng](/scalability/) mà môi trường đám mây mang lại.  
 Thuật ngữ này cũng chỉ các ứng dụng tận dụng những đổi mới trong hạ tầng do điện toán đám mây mang lại.  
-Ngày nay, các ứng dụng cloud native bao gồm cả những ứng dụng chạy trong trung tâm dữ liệu của nhà cung cấp đám mây và trên các nền tảng cloud native triển khai tại chỗ (on-premise).
+Ngày nay, các ứng dụng cloud native bao gồm cả những ứng dụng chạy trong trung tâm dữ liệu của nhà cung cấp đám mây và trên các nền tảng cloud native triển khai on-premise.
 
 ## Vấn đề nó giải quyết
 
