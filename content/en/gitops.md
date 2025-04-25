@@ -11,7 +11,8 @@ Reconciling states includes changing the resources to match the defined state vi
 
 In GitOps, the state or configuration of a system is fully described in files stored in the source of truth, usually the version control system. 
 It could, however, be another source of truth, such as a Kubernetes Operator or Artifact Storage.
-The source of truth is evaluated by the automated processes that align the live system with the defined state. These processes adjust the live system as needed, ensuring consistency across applications, infrastructure, and operational tasks.
+The source of truth is evaluated by the automated processes that align the live system with the defined state. 
+These processes adjust the live system as needed, ensuring consistency across applications, infrastructure, and operational tasks.
 
 ## Problem it addresses
 
