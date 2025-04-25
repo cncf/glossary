@@ -2,7 +2,7 @@
 title: Escalabilidad
 status: Completed
 category: Propiedad
-tags: ["fundamento", "propiedad", ""]
+tags: ["fundamentos", "propiedad", ""]
 ---
 
 La escalabilidad se refiere a que tan bien puede crecer un sistema.
