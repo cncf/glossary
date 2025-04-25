@@ -24,4 +24,5 @@ Configuration drift can be hard to detect and resolve without a source of truth 
 
 GitOps helps organizations manage the entire infrastructure, application development, and deployment lifecycle using a single and unified process.
 
-GitOps brings organizations several other advantages, such as transparency and traceability of changes, reliability and security through declarative states, and rollback, revert, and self-healing attributes.
+GitOps brings organizations several other advantages, such as transparency and traceability of changes, reliability 
+and security through declarative states, and rollback, revert, and self-healing attributes.
