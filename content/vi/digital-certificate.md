@@ -2,7 +2,7 @@
 title: Digital Certificate
 status: Completed
 category: Concept
-tags: ["Architecture",""]
+tags: ["Security",""]
 ---
 
 Một chứng chỉ số (digital certificate) — thường được gọi là chứng chỉ khóa công khai hoặc chứng chỉ SSL — là một tài liệu điện tử được dùng để đảm bảo an toàn cho các giao tiếp qua mạng.
