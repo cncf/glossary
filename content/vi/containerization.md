@@ -12,7 +12,7 @@ Containerization (đóng gói dưới dạng container) là quá trình đóng g
 Trước khi [container](/container/) trở nên phổ biến, các tổ chức thường sử dụng [máy ảo (VM)](/virtual-machine/) để điều phối nhiều ứng dụng trên cùng một [máy vật lý (bare-metal)](/bare-metal-machine/).
 Máy ảo có kích thước lớn hơn container rất nhiều và cần một hypervisor để chạy.
 Do kích thước lớn của các mẫu máy ảo, việc lưu trữ, sao lưu và truyền tải cũng trở nên chậm chạp.
-Hơn nữa, máy ảo còn có nguy cơ gặp phải vấn đề "trôi cấu hình" (configuration drift), vi phạm nguyên tắc [hạ tầng bất biến](/immutable-infrastructure/).
+Hơn nữa, máy ảo còn có nguy cơ gặp phải vấn đề "sai lệch cấu hình" (configuration drift), vi phạm nguyên tắc [hạ tầng bất biến](/immutable-infrastructure/).
 
 ## Lợi ích mà nó mang lại
 
