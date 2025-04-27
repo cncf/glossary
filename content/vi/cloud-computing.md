@@ -7,8 +7,8 @@ tags: ["infrastructure", "fundamental", ""]
 
 Điện toán đám mây cung cấp sức mạnh xử lý CPU, lưu trữ dữ liệu và khả năng kết nối mạng, 
 cho phép truy cập tài nguyên linh hoạt và dễ dàng mở rộng trên các trung tâm dữ liệu toàn cầu. 
-Mô hình này bao gồm đám mây riêng, được thiết kế riêng cho từng tổ chức nhằm đảm bảo an toàn và kiểm soát tối ưu, 
-cũng như đám mây công cộng, phục vụ đông đảo người dùng để tối ưu hóa chi phí và khả năng mở rộng.
+Mô hình này bao gồm đám mây riêng, được thiết kế riêng cho từng tổ chức nhằm đảm sự an toàn và có thể kiểm soát, 
+cũng như đám mây chung, phục vụ đông đảo người dùng để tối ưu hóa chi phí và khả năng mở rộng.
 
 ## Vấn đề mà nó giải quyết
 
