@@ -2,7 +2,7 @@
 title: DevSecOps
 status: Completed
 category: Concept
-tags: ["Methodology", "security",""]
+tags: ["methodology", "security", ""]
 ---
 
 DevSecOps là khái niệm chỉ sự kết hợp văn hóa giữa các trách nhiệm về phát triển, vận hành và bảo mật.
@@ -11,11 +11,11 @@ Giống như DevOps, DevSecOps cũng là một sự thay đổi về tư duy và
 
 ## Vấn đề nó giải quyết
 
-Các thực hành DevOps bao gồm [Continuous integration (CI)](/continuous-integration/), [Continuous Delivery (CD)](/continuous-delivery/), và [Continuous Deployment (CD)](/continuous-deployment/), giúp tăng tốc quá trình phát triển và phát hành ứng dụng.
+Các thực hành DevOps bao gồm [tích hợp liên tục](/continuous-integration/), [chuyển giao liên tục](/continuous-delivery/), và [triển khai liên tục )](/continuous-deployment/), giúp tăng tốc quá trình phát triển và phát hành ứng dụng.
 Tuy nhiên, nếu quy trình tự động phát hành phần mềm không cân nhắc đầy đủ lợi ích của tất cả các bên liên quan trong tổ chức, nó có thể làm trầm trọng thêm những vấn đề vốn đã tồn tại.
 Một quy trình chỉ tập trung vào việc phát hành nhanh phần mềm mới mà bỏ qua các yêu cầu về bảo mật có thể làm suy yếu mức độ an toàn tổng thể của tổ chức.
 
-## Lợi ích của nó
+## Lợi ích mang lại
 
 DevSecOps tập trung vào việc phá bỏ các "bức tường" ngăn cách giữa các nhóm và thúc đẩy xây dựng quy trình làm việc tự động, an toàn ngay từ đầu.
 Khi lựa chọn các công cụ bảo mật, tổ chức cần tận dụng khả năng tự động hóa của quy trình CI/CD và cơ chế áp chính sách bảo mật một cách chủ động, giúp nhà phát triển có thêm sức mạnh, thay vì bị cản trở.
