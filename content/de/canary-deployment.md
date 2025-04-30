@@ -1,5 +1,5 @@
 ---
-title: Canary Deploment
+title: Canary Deployment
 status: Completed
 category: Konzept
 ---
