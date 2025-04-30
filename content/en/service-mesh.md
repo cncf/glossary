@@ -10,16 +10,6 @@ Just like your wifi network, computer networks are intrinsically unreliable, hac
 Service meshes address this new set of challenges by managing traffic (i.e., communication) between services and 
 adding [reliability](/reliability/), [observability](/observability/), and security features uniformly across all services.
 
-### Implementation Models
-
-The traditional [Sidecar Container](/sidecar-container/) model deploys a dedicated proxy alongside each microservice instance in its pod, 
-handling L3–L7 functions on a per-service basis​. In this approach, every service instance carries its own proxy, 
-which adds CPU/memory overhead and operational complexity as the mesh scales
-
-Where by contrast, Sidecarless Service Mesh rethinks the architecture by removing the need to run proxy containers alongside each service. 
-Instead, it shifts the traffic control responsibilities to a centralized system operating at the host level, 
-typically by leveraging powerful kernel technologies such as [eBPF](/ebpf/) (extended Berkeley Packet Filter).
-
 ## Problem it addresses
 
 Having moved to a microservices architecture, engineers are now dealing with hundreds, 
@@ -35,12 +25,14 @@ each one of these features will cause friction between teams and slow down devel
 Service meshes add reliability, observability, and security features 
 uniformly across all services across a cluster without requiring code changes. 
 Before service meshes, that functionality had to be encoded into every single service, 
-becoming a potential source of bugs and technical debt.
+becoming a potential source of bugs and technical debt. In the [Sidecar Container](/sidecar-container/) model, each microservice pod is paired with its own proxy. 
+This per-service proxy intercepts L3–L7 traffic, enforcing load-balancing, mutual TLS, tracing and 
+metrics on a fine-grained basis. While this approach offers maximal policy flexibility and 
+service-specific routing, it also incurs additional CPU and memory overhead for every proxy and 
+increases operational complexity as the mesh grows.
 
-By leveraging eBPF to run mesh logic in the kernel rather than in sidecar containers, 
-a sidecarless service mesh centralizes all proxy functions at the node level, 
-replacing thousands of sidecars with a small number of host-level agents​.  
-This dramatically cuts resource consumption and eliminates extra network hops, 
-thereby lowering latency and improving application performance.
-Finally, because overhead no longer grows directly with each new service instance, 
-the architecture scales smoothly as microservices count rises​.  
+A **Sidecarless** design, on the other hand, runs data-plane logic directly in the Linux kernel and 
+combines mesh functionality into a small group of host-level agents that make use of kernel features like [eBPF](/ebpf/). 
+By doing away with per-pod proxies, this method drastically reduces resource usage and removes unnecessary network hops, 
+which lowers latency and boosts performance. Because overhead remains constant regardless of pod count and there are fewer agents to deploy, 
+teams benefit from simplified operations and linear scalability as service numbers increase.
