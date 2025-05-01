@@ -1,5 +1,5 @@
 ---
-title: Virtual Machine
+title: Máy Ảo
 status: Completed
 category: Technology
 tags: ["fundamental", "infrastructure", ""]
