@@ -21,4 +21,4 @@ mTLS đảm bảo rằng lưu lượng truy cập được bảo mật và đán
 cung cấp một lớp bảo mật bổ sung cho người dùng đăng nhập vào mạng hoặc ứng dụng.
 Nó cũng xác minh các kết nối với các thiết bị không tuân theo quy trình 
 đăng nhập thông thường, chẳng hạn như các thiết bị Internet vạn vật (IoT).
-Các cuộc tấn công như tấn công trên đường truyền, tấn công giả mạo, nhồi thông tin đăng nhập, tấn công vét cạn (brute force), v.v. có thể được ngăn chặn bởi mTLS.
+Các cuộc tấn công như tấn công trên đường truyền, tấn công giả mạo, nhồi thông tin xác thực, tấn công vét cạn (brute force), v.v. có thể được ngăn chặn bởi mTLS.
