@@ -6,7 +6,7 @@ tags: ["Proprietà", "", ""]
 ---
 
 
-L'osservabilità è una proprietà di un sistema che definisce il grado in cui il sistema può generare informazioni utili,
+L'osservabilità è una proprietà di un sistema che definisce il grado in cui il sistema può generare informazioni utili.
 permette agli utenti di comprendere lo stato di un sistema dai suoi risultati esterni e intervenire di conseguenza (correggendo).
 
 I sistemi informatici vengono misurati osservando sia segnali di basso livello, come la CPU, la memoria e lo spazio su disco, sia segnali di più alto livello e di business, 
