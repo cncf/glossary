@@ -16,4 +16,5 @@ Un elenco di questi strumenti può essere visualizzato nella sezione osservabili
 
 I sistemi osservabili forniscono dati significativi e utilizzabili dai loro operatori, permettendo loro di raggiungere risultati favorevoli (risposta agli incidenti più rapida, maggiore produttività di chi sviluppa) 
 con meno lavoro e minori tempi di inattività.
+
 In conclusione, quanto sia osservabile un sistema influenzerà significativamente i suoi costi operativi e di sviluppo.
