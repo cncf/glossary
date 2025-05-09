@@ -5,7 +5,7 @@ category: Concept
 tags: ["infrastructure", "fundamental", "architecture"]
 ---
 
-A cluster is a group of computers, or applications that are referred to as [Nodes](/nodes/) and work together towards a common goal. 
+A cluster is a group of computers or applications called [Nodes](/nodes/) that work together towards a common goal.
 In the context of cloud native computing, the term is often applied when talking about a [Kubernetes](/kubernetes/) cluster. 
 It can be seen as a specific kind of a [distributed system](/distributed-systems/), where the nodes are a bit more tightly coupled. 
 
