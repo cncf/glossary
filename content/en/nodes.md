@@ -2,7 +2,7 @@
 title: Nodes
 status: Completed
 category: Concept
-tags: ["infrastructure", "fundamental", ""]
+tags: ["infrastructure", "fundamental", "architecture"]
 ---
 
 A node is a computer that works in concert with other computers, or nodes, to accomplish a common task. 
