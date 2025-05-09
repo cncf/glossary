@@ -2,23 +2,19 @@
 title: Osservabilità
 status: Completed
 category: concetto
-tags: ["metodologia", "applicazione", "infrastruttura"]
+tags: ["Proprietà", "", ""]
 ---
 
-## Cos'è
 
-L'osservabilità è la capacità di generare e scoprire continuamente spunti di intervento sulla base dei segnali provenienti dal sistema osservato.
-In altre parole, l'osservabilità permette agli utenti di comprendere lo stato di un sistema dai suoi risultati esterni e intervenire di conseguenza (correggendo).
+L'osservabilità è una proprietà di un sistema che definisce il grado in cui il sistema può generare informazioni utili.
+Permette agli utenti di comprendere lo stato di un sistema sulla base dei suoi risultati, ed all'occorrenza di intervenire per correggerlo.
 
-## Quali problematiche affronta
+I sistemi informatici vengono misurati osservando sia segnali di basso livello, come la CPU, la memoria e lo spazio su disco, sia segnali di più alto livello e di business, 
+come i tempi di risposta delle API, gli errori, il numero di transazioni per secondo, ecc.
+Questi sistemi osservabili sono monitorati tramite strumenti specializzati, chiamati strumenti di osservabilità. 
+Un elenco di questi strumenti può essere visualizzato nella sezione osservabilità del [CNCF Cloud Native Landscape](https://landscape.cncf.io/?group=projects-and-products&view-mode=card#observability-and-analysis--observability).
 
-I sistemi informatici vengono misurati osservando sia segnali di basso livello, come la CPU, la memoria e lo spazio su disco, sia segnali di più alto livello e di business, come i tempi di risposta delle API, gli errori, il numero di transazioni per secondo, ecc.
+I sistemi osservabili forniscono dati significativi e utilizzabili dai loro operatori, permettendo loro di raggiungere risultati favorevoli (risposta agli incidenti più rapida, maggiore produttività di chi sviluppa) 
+con meno lavoro e minori tempi di inattività.
 
-L'osservabilità di un sistema ha un impatto significativo sui suoi costi operativi e di sviluppo.
-I sistemi osservabili forniscono dati significativi e fruibili agli operatori, consentendo loro di ottenere risultati favorevoli (risposta più rapida agli incidenti, aumento della produttività degli sviluppatori) e di ridurre la quantità di lavoro e i tempi di inattività.
-
-## In che modo aiuta
-
-È fondamentale capire che un maggior numero di informazioni non si traduce necessariamente in un sistema più osservabile.
-Infatti, a volte la quantità di informazioni generata da dun sistema può rendere più difficile identificare segnali di salute significativi dal rumore generato dall'applicazione.
-L'osservabilità richiede i dati giusti al momento giusto perché l'utente giusto (umano o software) possa prendere le decisioni giuste.
+In conclusione, quanto sia osservabile un sistema influenzerà significativamente i suoi costi operativi e di sviluppo.
