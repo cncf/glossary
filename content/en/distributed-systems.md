@@ -2,7 +2,7 @@
 title: Distributed System
 status: Completed
 category: concept
-tags: ["architecture", "", ""]
+tags: ["architecture", "infrastructure", "fundamental"]
 ---
 
 A distributed system is a collection of autonomous computing elements 
