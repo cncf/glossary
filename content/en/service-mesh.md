@@ -23,4 +23,5 @@ Before service meshes, that functionality had to be encoded into every single se
 This per-service proxy intercepts L3–L7 traffic, enforcing load-balancing, mutual TLS, tracing and metrics on a fine-grained basis. While this approach offers maximal policy flexibility and service-specific routing, it also incurs additional CPU and memory overhead for every proxy and increases operational complexity as the mesh grows.
 
 A **Sidecarless** design, on the other hand, runs data-plane logic directly in the Linux kernel and combines mesh functionality into a small group of host-level agents that make use of kernel features like [eBPF](/ebpf/).
-By doing away with per-pod proxies, this method drastically reduces resource usage and removes unnecessary network hops, which lowers latency and boosts performance. Because overhead remains constant regardless of pod count and there are fewer agents to deploy, teams benefit from simplified operations and linear scalability as service numbers increase.
+By doing away with per-pod proxies, this method drastically reduces resource usage and removes unnecessary network hops, which lowers latency and boosts performance.
+Because overhead remains constant regardless of pod count and there are fewer agents to deploy, teams benefit from simplified operations and linear scalability as service numbers increase.
