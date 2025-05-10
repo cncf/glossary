@@ -1,5 +1,5 @@
 ---
-title: Immutable Infrastructure
+title: Hạ tầng bất biến (Immutable Infrastructure)
 status: Completed
 category: property
 tags: ["infrastructure", "property", ""]
