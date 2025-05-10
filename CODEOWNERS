@@ -71,8 +71,8 @@
 /i18n/ur.toml @Saim-Safdar @waleed318
 
 # Approvers for Vietnamese contents
-/content/vi/ @ntheanh201 @thuanpham582002
-/i18n/vi.toml @ntheanh201 @thuanpham582002
+/content/vi/ @ntheanh201 @thuanpham582002 @thaomike
+/i18n/vi.toml @ntheanh201 @thuanpham582002 @thaomike
 
 # Approvers for Simplified Chinese contents
 /content/zh-cn/ @hanyuancheung @Jacob953 @Rocksnake @Submarinee
