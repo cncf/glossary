@@ -30,5 +30,5 @@ khi kẻ tấn công giờ đây buộc phải xác minh trước khi đi sâu h
 
 Áp dụng Kiến trúc Zero Trust mang lại lợi ích chính là tăng cường bảo mật
 với việc giảm bề mặt tấn công.
-Loại bỏ sự tin tưởng khỏi hệ thống doanh nghiệp của bạn giờ đây làm tăng số lượng và sức mạnh của các cổng bảo mật
+Loại bỏ sự tin tưởng khỏi hệ thống doanh nghiệp của bạn giờ đây làm tăng số lượng và sức mạnh của các hàng rào bảo mật
 mà kẻ tấn công phải vượt qua để có thể truy cập vào các khu vực khác của hệ thống.
