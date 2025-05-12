@@ -11,9 +11,7 @@ It can be seen as a specific kind of [distributed systems](/distributed-systems/
 
 ## Problem it addresses 
 
-Software that runs on a single computer presents a single point of failure 
-— if that computer crashes, or someone accidentally unplugs the power cable, 
-then some business-critical system may be taken offline. 
+Software that runs on a single computer presents a single point of failure — if that computer crashes, or someone accidentally unplugs the power cable, then some business-critical system may be taken offline. 
 That's why modern software is generally built as [distributed applications](/distributed-apps/), grouped together as clusters. 
 
 ## How it helps
@@ -21,6 +19,5 @@ That's why modern software is generally built as [distributed applications](/dis
 Clustered, distributed applications run across multiple machines, eliminating a single point of failure. 
 But building distributed systems is really hard. 
 In fact, it's a computer science discipline in its own right. 
-The need for global systems and years of trial and error led to the development of a new kind of tech stack: 
-[cloud native technologies](/cloud-native-tech/). 
+The need for global systems and years of trial and error led to the development of a new kind of tech stack: [cloud native technologies](/cloud-native-tech/). 
 These new technologies are the building blocks that make the operation and creation of distributed systems easier.
