@@ -2,6 +2,7 @@
 title: वितरित ऐप्स (Distributed Apps)
 status: Completed
 category: संकल्पना
+tags: ["architecture", "", ""]
 ---
 
 ## यह क्या है
