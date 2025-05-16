@@ -11,7 +11,9 @@ It can be seen as a specific kind of [distributed system](/distributed-systems/)
 
 ## Problem it addresses 
 
-Software that runs on a single computer presents a single point of failure — if that computer crashes, or someone accidentally unplugs the power cable, then some business-critical system may be taken offline. 
+Software that runs on a single computer presents a single point of failure — 
+if that computer crashes, or someone accidentally unplugs the power cable, 
+then some business-critical system may be taken offline. 
 That's why modern software is generally built as [distributed applications](/distributed-apps/), grouped together as clusters. 
 
 ## How it helps
