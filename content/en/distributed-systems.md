@@ -27,4 +27,6 @@ Distributed systems allow for [horizontal scaling](/horizontal-scaling/) (e.g. a
 This can be automated allowing a system to handle a sudden increase in workload or resource consumption. 
 
 A non-distributed system exposes itself to risks of failure because if one machine fails, the entire system fails. 
-A distributed system can be designed in such a way that, even if some machines go down, the overall system can still keep working to produce the same result.
+A distributed system can be designed in such a way that, 
+even if some machines go down, 
+the overall system can still keep working to produce the same result.
