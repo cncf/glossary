@@ -51,7 +51,7 @@ Before beginning your Glossary contributor journey, be sure to complete the foll
 
 ## Best practices {#best-practices}
 
-To facilitate the reviewing process, please use [semantic line breaks](https://sembr.org/) (e.g., one line per sentence).
+To facilitate the reviewing process, please use [semantic line breaks](https://sembr.org).
 We recommend checking out this [markdown cheat sheet](https://www.markdownguide.org/cheat-sheet/) 
 to correctly format Markdown text in GitHub (e.g., hyperlink, bold, italic).
 And when naming .md files, please use lowercase letters and hyphens instead of spaces to separate words and avoid parenthesis.
