@@ -1,5 +1,5 @@
 ---
-title: Containerization
+title: Container hóa (Containerization)
 status: Completed
 category: Technology
 tags: ["application", "", ""]
