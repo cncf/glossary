@@ -11,7 +11,7 @@ thường thông qua các shell script hoặc công cụ cấu hình khác.
 
 ## Vấn đề mà nó giải quyết
 
-Việc xây dựng ứng dụng theo hướng cloud native đòi hỏi hạ tầng phải có khả năng có thể loại bỏ(disposable) và reproducible (có thể tái tạo).
+Việc xây dựng ứng dụng theo hướng cloud native đòi hỏi hạ tầng phải có khả năng có thể loại bỏ (disposable) và reproducible (có thể tái tạo).
 Hạ tầng cũng cần để [mở rộng](/scalability/) theo nhu cầu một cách tự động và lặp lại, thậm chí không cần sự can thiệp của con người.
 Việc cấp phát thủ công không đáp ứng được yêu cầu về tốc độ phản hồi và nhu cầu mở rộng của [cloud native applications](/cloud-native-apps/).
 Các thay đổi hạ tầng thủ công không thể tái tạo, nhanh chóng gặp giới hạn về quy mô và dễ gây ra lỗi cấu hình.
