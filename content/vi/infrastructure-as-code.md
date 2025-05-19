@@ -16,7 +16,7 @@ Hạ tầng cũng cần để [mở rộng](/scalability/) theo nhu cầu một 
 Việc cấp phát thủ công không đáp ứng được yêu cầu về tốc độ phản hồi và nhu cầu mở rộng của [cloud native applications](/cloud-native-apps/).
 Các thay đổi hạ tầng thủ công không thể tái tạo, nhanh chóng gặp giới hạn về quy mô và dễ gây ra lỗi cấu hình.
 
-## Lợi ích
+## Lợi ích mang lại
 
 Bằng cách biểu diễn các tài nguyên trung tâm dữ liệu như server, load balancer, subnet dưới dạng code,
 đội ngũ hạ tầng có thể có một nguồn cấu hình duy nhất (single source of truth) cho toàn bộ hệ thống,
