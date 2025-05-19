@@ -5,7 +5,7 @@ category: Technology
 tags: ["infrastructure", "", ""]
 ---
 
-Dịch vụ cơ sở hạ tầng (Infrastructure as a Service), hay IaaS, là một mô hình dịch vụ [điện toán đám mây](/cloud-computing/) cung cấp các tài nguyên tính toán, lưu trữ và mạng (có thể là [vật lý](/bare-metal-machine/) hoặc [ảo hóa](/virtualization/)) theo nhu cầu và thanh toán theo mức sử dụng thực tế. Các nhà cung cấp điện toán đám mây sở hữu và vận hành phần cứng, phần mềm, cung cấp cho khách hàng dưới dạng đám mây công khai(public), riêng tư(private) hoặc linh hoạt(hybrid).
+Dịch vụ cơ sở hạ tầng (Infrastructure as a Service), hay IaaS, là một mô hình dịch vụ [điện toán đám mây](/cloud-computing/) cung cấp các tài nguyên tính toán, lưu trữ và mạng (có thể là [vật lý](/bare-metal-machine/) hoặc [ảo hóa](/virtualization/)) theo nhu cầu và thanh toán theo mức sử dụng thực tế. Các nhà cung cấp điện toán đám mây sở hữu và vận hành phần cứng, phần mềm, cung cấp cho khách hàng dưới dạng đám mây công khai (public), riêng tư (private) hoặc linh hoạt (hybrid).
 
 ## Vấn đề mà nó giải quyết
 
