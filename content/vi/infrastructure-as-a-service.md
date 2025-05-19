@@ -11,7 +11,7 @@ Dịch vụ cơ sở hạ tầng (Infrastructure as a Service), hay IaaS, là m�
 
 Trong các hệ thống on-premise truyền thống, tổ chức thường gặp khó khăn trong việc sử dụng hiệu quả tài nguyên tính toán. Các trung tâm dữ liệu phải được xây dựng để đáp ứng nhu cầu tiềm năng cực đại , dù chỉ sử dụng 1% thời gian. Khi nhu cầu thấp, tài nguyên bị bỏ phí. Nếu khối lượng công việc tăng đột biến vượt dự đoán, sẽ thiếu tài nguyên để xử lý. Việc này dẫn đến chi phí tăng cao và sử dụng tài nguyên không hiệu quả do thiếu sự linh hoạt khi mở rộng.
 
-## Lợi ích mang lại"
+## Lợi ích mang lại
 
 Với IaaS, tổ chức không cần mua sắm và duy trì máy chủ hay không gian trung tâm dữ liệu cho ứng dụng. Hạ tầng theo nhu cầu cho phép thuê tài nguyên khi cần thiết, trì hoãn các khoản đầu tư lớn ban đầu (CAPEX), đồng thời mang lại sự linh hoạt để mở rộng hoặc thu hẹp quy mô.
 
