@@ -44,7 +44,7 @@ With solid existing definitions in English, less experienced contributors can lo
 
 Before beginning your Glossary contributor journey, be sure to complete the following steps:
 
-1. Create a [GitHub account](https://docs.github.com/en/get-started/signing-up-for-github/signing-up-for-a-new-github-account), if you don't have one already. 
+1. Create a [GitHub account](https://docs.github.com/en/get-started/signing-up-for-github/signing-up-for-a-new-github-account) if you don't have one already. 
 2. (If you are developing on your own local development environment) 
 Set [`user.name`](https://docs.github.com/en/get-started/git-basics/setting-your-username-in-git#setting-your-git-username-for-every-repository-on-your-computer) and 
 [`user.email`](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-email-preferences/setting-your-commit-email-address#setting-your-email-address-for-every-repository-on-your-computer) 
