@@ -51,7 +51,7 @@ Set [`user.name`](https://docs.github.com/en/get-started/git-basics/setting-your
 correctly in git config.
 3. Whenever you create a commit using the `git commit` command, 
 add the `-s` option to add a DCO signature to the commit. 
-Alternatively you could add an alias to your `gitconfig` by running `git config --global alias.ci "commit -s"`
+Alternatively, you could add an alias to your `gitconfig` by running `git config --global alias.ci "commit -s"`
 
 ## Best practices {#best-practices}
 
