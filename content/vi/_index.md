@@ -48,7 +48,7 @@ và [Junya Okabe](https://www.linkedin.com/in/junya-okabe/).
 là những Maintainer Danh dự, và chúng tôi vô cùng biết ơn
 những đóng góp quý báu của họ trong suốt những năm qua.
 
-Bản dịch tiếng Việt của Cloud Native Glossary đã được khởi xướng nhờ sự đóng góp của [The Anh Nguyen](https://www.linkedin.com/in/ntheanh201/), [Thuan Pham Tien](https://www.linkedin.com/in/tienthuan05082002/), [Phuong Thao Nguyen](https://www.linkedin.com/in/nguyenphuongthao0/), [trieungoctam](https://www.linkedin.com/in/trieungoctam/), [Huan Nguyen Danh](https://www.linkedin.com/in/huannd2301/). Nếu bạn quan tâm đến việc dịch và bản địa hóa Cloud Native Glossary sang tiếng Việt, vui lòng tham gia kênh [#glossary-localization-vietnamese](https://cloud-native.slack.com/archives/C08NAHYA6KX).
+Bản dịch tiếng Việt của Cloud Native Glossary đã được khởi xướng nhờ sự đóng góp của [The Anh Nguyen](https://www.linkedin.com/in/ntheanh201/), [Thuan Pham Tien](https://www.linkedin.com/in/tienthuan05082002/), [Phuong Thao Nguyen](https://www.linkedin.com/in/nguyenphuongthao0/), [trieungoctam](https://www.linkedin.com/in/trieungoctam/), [Huan Nguyen Danh](https://www.linkedin.com/in/huannd2301/), [Trung Thi Phuong](https://www.linkedin.com/in/phuong-trung-thi-9bba12215/). Nếu bạn quan tâm đến việc dịch và bản địa hóa Cloud Native Glossary sang tiếng Việt, vui lòng tham gia kênh [#glossary-localization-vietnamese](https://cloud-native.slack.com/archives/C08NAHYA6KX).
 
 ## Giấy phép
 
