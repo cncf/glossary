@@ -10,7 +10,7 @@ Quy trình tự động mở rộng có thể khác nhau và có thể cấu hì
 
 Trước đây, hạ tầng và ứng dụng được thiết kế để tính đến mức sử dụng hệ thống cao nhất. Kiến trúc này khiến nhiều tài nguyên bị sử dụng không hiệu quả và thiếu khả năng co giãn trước sự thay đổi lượng nhu cầu người dùng. Sự thiếu linh hoạt này dẫn đến chi phí cao hơn cho doanh nghiệp và mất doanh thu do hệ thống ngừng hoạt động khi vượt quá tải.
 
-Bằng cách tận dụng điện toán đám mây, [ảo hoá](/virtualization/) và [đóng gói trong container](/containerization/) các ứng dụng cùng các phần phụ thuộc, các tổ chức có thể xây dựng ứng dụng có khả năng mở rộng theo nhu cầu người dùng. Họ có thể theo dõi nhu cầu sử dụng ứng dụng và tự động mở rộng, mang lại trải nghiệm người dùng tối ưu.
+Bằng cách tận dụng điện toán đám mây, [ảo hoá](/virtualization/) và [container hóa](/containerization/) các ứng dụng cùng các phần phụ thuộc, các tổ chức có thể xây dựng ứng dụng có khả năng mở rộng theo nhu cầu người dùng. Họ có thể theo dõi nhu cầu sử dụng ứng dụng và tự động mở rộng, mang lại trải nghiệm người dùng tối ưu.
 Lấy ví dụ về sự gia tăng lượt xem mà Netflix ghi nhận vào mỗi tối thứ Sáu. Mở rộng theo chiều ngang (autoscaling out) có nghĩa là tự động bổ sung thêm tài nguyên: ví dụ, tăng số lượng máy chủ để cho phép phát video nhiều hơn, và thu hẹp lại khi mức sử dụng trở về bình thường.
 
 ## Thuật ngữ liên quan
