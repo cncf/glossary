@@ -1,6 +1,6 @@
 ---
 title: Ứng dụng phân tán
-status: Feedback Appreciated
+status: Completed
 category: concept
 tags: ["architecture", "", ""]
 ---
