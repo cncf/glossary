@@ -44,10 +44,14 @@ With solid existing definitions in English, less experienced contributors can lo
 
 Before beginning your Glossary contributor journey, be sure to complete the following steps:
 
-1. Create a [GitHub account](https://docs.github.com/en/get-started/signing-up-for-github/signing-up-for-a-new-github-account), if you don't have one already. 
-2. Sign the [Contributor License Agreement](https://docs.linuxfoundation.org/lfx/easycla/v2-current/contributors) (CLA). 
-3. [Verify your commit signature](https://docs.github.com/en/authentication/managing-commit-signature-verification/about-commit-signature-verification)
-4. Enable [vigilant mode](https://docs.github.com/en/authentication/managing-commit-signature-verification/displaying-verification-statuses-for-all-of-your-commits#about-vigilant-mode) in your GitHub account to display the "Verified" status on your commits. 
+1. Create a [GitHub account](https://docs.github.com/en/get-started/signing-up-for-github/signing-up-for-a-new-github-account) if you don't have one already. 
+2. (If you are developing on your own local development environment) 
+Set [`user.name`](https://docs.github.com/en/get-started/git-basics/setting-your-username-in-git#setting-your-git-username-for-every-repository-on-your-computer) and 
+[`user.email`](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-email-preferences/setting-your-commit-email-address#setting-your-email-address-for-every-repository-on-your-computer) 
+correctly in git config.
+3. Whenever you create a commit using the `git commit` command, 
+add the `-s` option to add a DCO signature to the commit. 
+Alternatively, you could add an alias to your `gitconfig` by running `git config --global alias.ci "commit -s"`.
 
 ## Best practices {#best-practices}
 
