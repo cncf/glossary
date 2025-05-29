@@ -15,5 +15,5 @@ Hosts typically have a "hostname" value as well as an IP address so they can be 
 on the network. 
 
 How or even if hosts substantially differ from nodes is nuanced and different people may 
-have different opinions. For a high-level definition, we'll treat them as the same. 
-Please refer to [the nodes definition](/nodes).
+have different opinions. For this high-level definition, we'll treat them as the same. 
+Please refer to [the nodes definition](/nodes/).
