@@ -1,6 +1,6 @@
 ---
 title: ডিজিটাল সার্টিফিকেট
-status: Feedback Appreciated
+status: Completed
 category: প্রযুক্তি
 tags: ["নিরাপত্তা"]
 ---
