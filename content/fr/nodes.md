@@ -21,6 +21,6 @@ Ainsi, les nœuds exécutent des applications ou des processus dans le cadre d'u
 ## Quelle en est l'utilité
 
 Un nœud vous fournit une unité de calcul distincte (mémoire, processeur, réseau) que vous pouvez attribuer à un cluster.
-Dans une plate-forme ou une application [Cloud Native](/fr/cloud-native-tech/), un nœud représente une unité unique qui peut effectuer un travail.
+Dans une plateforme ou une application [Cloud Native](/fr/cloud-native-tech/), un nœud représente une unité unique qui peut effectuer un travail.
 Idéalement, les nœuds individuels sont indifférenciés, c'est-à-dire que
 tout nœud d'un type particulier est indiscernable de tout autre nœud du même type.

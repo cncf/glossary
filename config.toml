@@ -180,6 +180,14 @@ weight = 15
 [languages.ur.params]
 description = "CNCF کلاؤڈ کی مقامی لغت کا مقصد کلاؤڈ مقامی ایپلی کیشنز کے بارے میں بات کرتے وقت استعمال ہونے والی عام اصطلاحات کے حوالے کے طور پر استعمال کرنا ہے۔"
 
+[languages.vi]
+languageName = "Tiếng Việt (Vietnamese)"
+title = "Từ Điển Thuật Ngữ Cloud Native"
+contentDir = "content/vi"
+weight = 16
+[languages.vi.params]
+description = "Dự án Từ Điển Thuật Ngữ Cloud Native CNCF được xây dựng nhằm mục đích làm tài liệu tham khảo cho các thuật ngữ phổ biến khi thảo luận về các ứng dụng cloud native."
+
 [markup]
 [markup.goldmark]
 [markup.goldmark.renderer]

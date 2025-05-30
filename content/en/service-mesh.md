@@ -26,3 +26,19 @@ Service meshes add reliability, observability, and security features
 uniformly across all services across a cluster without requiring code changes. 
 Before service meshes, that functionality had to be encoded into every single service, 
 becoming a potential source of bugs and technical debt.
+
+The [Sidecar Container](/sidecar-container/) model pairs each [pod](/pod/) with a proxy.
+This per-pod proxy intercepts and manages network traffic, 
+enforces security policies, balances workloads, 
+and collects performance data for each service. 
+While this approach offers excellent control and service-specific traffic management,
+it also uses more computing resources and becomes more complex to manage as your system grows.
+
+A **Sidecarless** design, on the other hand,
+moves the aforementioned mesh functionality to the operating system level by using kernel features like [eBPF](/ebpf/).
+By doing away with per-pod proxies,
+this method drastically reduces resource usage and removes unnecessary network hops,
+which lowers latency and boosts performance.
+Because overhead remains constant regardless of pod count and there are fewer agents to deploy,
+teams benefit from simplified operations and linear scalability as workload increases.
+

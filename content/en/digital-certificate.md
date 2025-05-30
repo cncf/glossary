@@ -1,6 +1,6 @@
 ---
 title: Digital Certificate
-status: Feedback Appreciated
+status: Completed
 category: technology
 tags: ["security", "", ""]
 ---
