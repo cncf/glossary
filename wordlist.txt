@@ -96,6 +96,7 @@ hackable
 handoffs
 HAProxy
 highlight
+hostname
 html
 http
 https
