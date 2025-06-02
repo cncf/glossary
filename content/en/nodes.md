@@ -2,14 +2,15 @@
 title: Nodes
 status: Completed
 category: Concept
-tags: ["infrastructure", "fundamental", ""]
+tags: ["infrastructure", "fundamental", "architecture"]
 ---
 
 A node is a computer that works in concert with other computers, or nodes, to accomplish a common task. 
 Take your laptop, modem, and printer, for example. 
 They are all connected over your wifi network communicating and collaborating, each representing one node. 
 In [cloud computing](/cloud-computing/), a node can be a physical computer, 
-a virtual computer, referred to as a [VM](/virtual-machine/), or even a [container](/container/).
+a virtual computer, referred to as a [VM](/virtual-machine/), 
+or even a [container](/container/).
 
 ## Problem it addresses
 
@@ -22,5 +23,4 @@ Thus, nodes run apps or processes as part of a group forming a [cluster](/cluste
 
 A node gives you a distinct unit of compute (memory, CPU, network) that you can assign to a cluster. 
 In a [cloud native](/cloud-native-tech/) platform or app a node represents a single unit that can perform work. 
-Ideally, individual nodes are undifferentiated in that 
-any one node of a particular type is indistinguishable from any other node of the same type.
+Ideally, individual nodes are undifferentiated in that any one node of a particular type is indistinguishable from any other node of the same type.

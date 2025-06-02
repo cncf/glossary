@@ -1,6 +1,6 @@
 ---
 title: Certificado Digital
-status: Feedback Appreciated
+status: Completed
 category: Tecnología
 tags: ["seguridad", "", ""]
 ---
