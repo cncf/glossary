@@ -44,7 +44,7 @@ collaborators:
   - username: nate-double-u
     permission: admin
 
-  - username: castrojo
+  - username: hlipsig
     permission: push
 
   # Localization approvers
@@ -57,9 +57,6 @@ collaborators:
     permission: push
 
   # l10n pt approvers
-  - username: edsoncelio
-    permission: push
-
   - username: brunoguidone
     permission: push
 
@@ -103,7 +100,10 @@ collaborators:
   - username: ugho16
     permission: push
 
-  - username: annalisag-spark
+  - username: matteobisi
+    permission: push
+
+  - username: SaraTrap
     permission: push
 
   - username: sistella
@@ -296,7 +296,6 @@ branches:
         apps: []
         # pt approvers
         users:
-         - edsoncelio
          - brunoguidone
          - jessicalins
          - MrErlison

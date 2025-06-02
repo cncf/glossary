@@ -17,3 +17,10 @@ matrix:
       ignores:
       - code
       - pre
+  - pyspelling.filters.context:
+      context_visible_first: true
+      delimiters:
+      - open: '{{<'
+        close: '>}}'
+      - open: '{{%'
+        close: '%}}'

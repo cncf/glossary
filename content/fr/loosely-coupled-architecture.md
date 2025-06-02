@@ -1,5 +1,5 @@
 ---
-title: Architecture Faiblement Couplée
+title: Architecture faiblement couplée
 status: Completed
 category: Property
 tags: ["fondamental", "architecture", "propriété"]

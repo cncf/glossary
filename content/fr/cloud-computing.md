@@ -1,5 +1,5 @@
 ---
-title: Cloud Computing
+title: Cloud computing
 status: Completed
 category: concept
 tags: ["infrastructure", "fondamental", ""]

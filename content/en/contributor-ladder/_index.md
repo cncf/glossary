@@ -31,7 +31,10 @@ Please refer to the [How to Contribute](/contribute/) and [Style Guide](/style-g
 ## 2. Approvers
 
 Approvers provide feedback on PRs and approve them. Any active contributor can become an approver (see [Becoming an approver](#becoming-an-approver)). 
-The Glossary differentiates between two approvers: (1) approvers for the English Glossary and (2) approvers for localization teams.
+The Glossary differentiates between two approvers: 
+
+1. approvers for the English Glossary and 
+2. approvers for localization teams.
 
 Glossary approvers are expected to:
 
@@ -44,7 +47,7 @@ If an approver is no longer interested in or cannot perform the above duties, th
 
 ### English Glossary Approvers
 
-There are three types of approvers:
+There are three types of English Glossary approvers:
 
 1) Approvers with a strong technical background,
 2) Approvers with solid writing skills,
@@ -65,7 +68,6 @@ Any localization approver can also become an approver for the English Glossary i
 ### Becoming an Approver
 
 Approver candidates should have a proven track record of submitting high-quality PRs and helping others get their PRs in a mergeable state. 
-If their timezone permits, they should also regularly attend the [Glossary Working Group meetings](https://www.cncf.io/calendar/).
 
 To become an approver, start by expressing interest to existing maintainers. 
 Existing maintainers will then ask you to demonstrate the qualifications above by contributing PRs, doing reviews, and doing other such tasks under their guidance. 
@@ -80,40 +82,23 @@ There are certain expectations for maintainers, including:
 - Be an active and responsive approver (see above),
 - Help maintain the repository, including site configuration, permission, issue-template, GitHub workflow, among others,
 - Monitor the Glossary Slack channels and help out whenever possible,
-- Regularly attend the [Glossary Working Group meetings](https://www.cncf.io/calendar/) (if timezone permits)
-
-If a maintainer is no longer interested in or cannot perform the duties listed above, they should move themselves to emeritus status.
 
 ### Becoming a Maintainer
 
 Maintainers should have a proven track record of being successful approvers and submitting high-quality PRs. 
-If their timezone permits, they should also regularly attend the Glossary Working Group meetings.
 
 To become a maintainer, start by expressing interest to existing maintainers. 
 Existing maintainers will then ask you to demonstrate the qualifications above by contributing PRs, doing reviews, and doing other such tasks under their guidance. 
 After some time of working together, maintainers will decide whether to grant maintainer status. 
 This decision will be based on demonstrated level of proficiency and responsiveness.
 
-## 4. Community Managers
-
-Community managers help foster a welcoming and engaging community. Any community member can become a community manager. They are expected to:
-
-- Welcome new members and ensure they get the information they need,
-- Help answer questions from the community or identify someone who can help,
-- Moderate conversations on Slack.
-
-### Become a Community Manager
-
-Anyone can become a Glossary community manager. 
-Community managers must have a solid understanding of the contribution and localization process and enjoy interacting and helping others. 
-To become a community manager, start by expressing interest to existing maintainers. 
-After an onboarding/trial period, maintainers will decide whether to grant community manager status based on performance. 
-
 ## Involuntary Removal
 
 Involuntary removal of a contributor happens when responsibilities and requirements aren't met. 
 This may include repeated patterns of inactivity, extended periods of inactivity, and/or a violation of the code of conduct. 
-This process is important because it protects the community and its deliverables while also opening up opportunities for new contributors to step in.
+This process is important because it protects the community and its deliverables while also opening up opportunities for new contributors to step in. 
+
+The grace period will be something between 15-30 days where the maintainers will actively try to reactivate an unresponsive contributor. In case of a localization team if an approver becomes unresponsive leading to a minority of nesseccary approvers, localization contributors will be asked to step up to become an approver.
 
 ## Stepping Down/Emeritus Process
 
@@ -122,4 +107,4 @@ moving to emeritus status (completely stepping away from the project).
 
 ## Stepping Back Into a Role
 
-If and when someone is available to step back into a previous contributor role, project leadership can arrange and consider this.
+If and when someone is available to step back into a previous contributor role, the maintainers can arrange and consider this.
