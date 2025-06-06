@@ -12,13 +12,13 @@ Especially when we talk about more complex stateful applications like databases 
 
 When we want to run a complex stateful application like a database cluster for instance, 
 we need to take care of a lot of operational tasks in order to keep it up and running. 
-This is escpecially true for properties like the high availability and the zero downtime. 
+This is especially true for properties like the high availability and the zero downtime. 
 How does the cluster behave in case of an update, or failure? 
 How can we securely scale it up or down? 
 These are things that are very specific to the type of technology, 
 because not every database cluster for instance behaves the same way in case of scaling or failure. 
 That is why Kubernetes cannot provide a general handling of these scenarios. 
-Also, this knowledge is usually usually known and executed by a human adminstrator or also called operator.  
+Also, this knowledge is usually usually known and executed by a human administrator or also called operator.  
 But in the highly automated cloud native world we cannot always afford to be dependent on manual interactions of a person to do these critical operations. 
 
 ## How it helps
