@@ -23,4 +23,4 @@ Senza un framework condiviso, per le applicazioni è difficile implementare la [
 
 Le API permettono ai programmi o alle applicazioni di interagire e condividere informazioni in modo definito e comprensibile.
 Sono gli elementi costitutivi delle moderne applicazioni e forniscono agli sviluppatori un modo per integrarle tra loro.
-Ogni volta che si dice che i [microservizi](/it/microservices/) lavorano insieme, si può assumere che interagiscano tramite un'API.
+Ogni volta che si dice che i [microservizi](/it/microservices-architecture/) lavorano insieme, si può assumere che interagiscano tramite un'API.
