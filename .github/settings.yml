@@ -223,13 +223,13 @@ collaborators:
   - username: aliok
     permission: push
 
-  - username: symys
+  - username: canogluonur
     permission: push
 
-  - username: rwxdash
+  - username: mertssmnoglu
     permission: push
 
-  - username: eminalemdar
+  - username: alianait
     permission: push
 
   # l10n ru approvers
@@ -527,9 +527,9 @@ branches:
         # tr approvers
         users:
          - aliok
-         - symys
-         - rwxdash
-         - eminalemdar
+         - canogluonur
+         - mertssmnoglu
+         - alianait
         teams: []
       enforce_admins: null
       required_linear_history: null
