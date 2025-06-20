@@ -4,13 +4,13 @@ status: Feedback Appreciated
 category: concept
 ---
 
-Kubernetes is great at running [stateless](/stateless-apps/) applications, 
-but when it comes to [stateful](/stateful-apps/) applications it becomes a bit more complicated. 
-Especially when we talk about more complex stateful applications like databases or [clusters](/cluster/). 
+A Kubernetes Operator is a helper program that runs inside a Kubernetes cluster 
+and extends its capabilities without modifying the core code, 
+enabling the automated installation and management of complex applications and resources.
 
 ## Problem it addresses
 
-When we want to run a complex stateful application like a database cluster for instance, 
+When we want to run a complex [stateful](/stateful-apps/) application like a database cluster for instance, 
 we need to take care of a lot of operational tasks in order to keep it up and running. 
 This is especially true for properties like the high availability and the zero downtime. 
 How does the cluster behave in case of an update, or failure? 
