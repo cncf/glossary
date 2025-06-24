@@ -2,7 +2,7 @@
 title: Rol Tabanlı Erişim Kontrolü (RBAC)
 status: Completed
 category: concept
-tags: ["Güvenlik", "", ""]
+tags: ["güvenlik", "", ""]
 ---
 
 Rol tabanlı erişim kontrolü (RBAC), kullanıcıların sistemlere, ağlara veya kaynaklara erişimini, ekip içindeki veya daha büyük bir organizasyon içindeki rollerine dayalı olarak yöneten bir güvenlik yöntemidir. RBAC, BT yöneticilerine belirli bir iş fonksiyonuna sahip tüm kullanıcılar için gerekli erişim seviyesini belirleme ve bu kullanıcılara önceden tanımlanmış izin kümesine sahip bir rol atama yetkisi verir. Organizasyonlar, çalışanlara rollerine ve sorumluluklarına uygun şekilde düzenlenmiş değişken erişim seviyeleri sağlamak için RBAC'i kullanır
