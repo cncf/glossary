@@ -1,6 +1,6 @@
 ---
 title: Çalışma Zamanı (Runtime)
-status: Tamamlandı
+status: Completed
 category: kavram
 tags: ["uygulama", "", ""]
 ---
