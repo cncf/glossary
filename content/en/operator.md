@@ -2,6 +2,7 @@
 title: Kubernetes Operator
 status: Completed
 category: concept
+tags: ["infrastructure"]
 ---
 
 A Kubernetes Operator is a helper program that runs inside a Kubernetes cluster 
