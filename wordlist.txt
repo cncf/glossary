@@ -145,7 +145,6 @@ navbar
 Nginx
 observability
 oci
-okabe
 oliveira
 opencontainers
 orchestrator
@@ -236,8 +235,6 @@ DBaaS
 DBA
 Ispas
 Jihoon
-Junya
-Okabe
 Seo
 TCP
 TCP/IP

@@ -128,7 +128,7 @@ The definitions for **technology** and **concept** categories contain a quick su
 
 Note that **properties** don't require separate sections. A definition will suffice. 
 
-Please use **semantic line breaks** (one sentence per line) to ease review. 
+Please use [**semantic line breaks**](https://sembr.org) to ease review. 
 
 #### Quality is paramount
 
