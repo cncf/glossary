@@ -44,7 +44,7 @@ collaborators:
   - username: nate-double-u
     permission: admin
 
-  - username: castrojo
+  - username: hlipsig
     permission: push
 
   # Localization approvers
@@ -57,9 +57,6 @@ collaborators:
     permission: push
 
   # l10n pt approvers
-  - username: edsoncelio
-    permission: push
-
   - username: brunoguidone
     permission: push
 
@@ -103,7 +100,10 @@ collaborators:
   - username: ugho16
     permission: push
 
-  - username: annalisag-spark
+  - username: matteobisi
+    permission: push
+
+  - username: SaraTrap
     permission: push
 
   - username: sistella
@@ -223,13 +223,13 @@ collaborators:
   - username: aliok
     permission: push
 
-  - username: symys
+  - username: canogluonur
     permission: push
 
-  - username: rwxdash
+  - username: mertssmnoglu
     permission: push
 
-  - username: eminalemdar
+  - username: alianait
     permission: push
 
   # l10n ru approvers
@@ -296,7 +296,6 @@ branches:
         apps: []
         # pt approvers
         users:
-         - edsoncelio
          - brunoguidone
          - jessicalins
          - MrErlison
@@ -528,9 +527,9 @@ branches:
         # tr approvers
         users:
          - aliok
-         - symys
-         - rwxdash
-         - eminalemdar
+         - canogluonur
+         - mertssmnoglu
+         - alianait
         teams: []
       enforce_admins: null
       required_linear_history: null
