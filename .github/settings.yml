@@ -76,9 +76,6 @@ collaborators:
   - username: abhay-raj19
     permission: push
 
-  - username: aj11anuj
-    permission: push
-
   - username: kumarankit999
     permission: push
 
@@ -317,7 +314,6 @@ branches:
          - Garima-Negi
          - jayesh-srivastava
          - abhay-raj19
-         - aj11anuj
          - kumarankit999
          - bishal7679
         teams: []
