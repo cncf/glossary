@@ -55,8 +55,8 @@
 /i18n/ko.toml @seokho-son @jihoon-seo @yunkon-kim
 
 # Approvers for Portuguese contents
-/content/pt-br/  @brunoguidone @jessicalins @MrErlison
-/i18n/pt-br.toml @brunoguidone @jessicalins @MrErlison
+/content/pt-br/  @brunoguidone @jessicalins
+/i18n/pt-br.toml @brunoguidone @jessicalins
 
 # Approvers for Russian contents
 /content/ru/ @shurup @kirkonru @tym83
