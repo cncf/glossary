@@ -1,544 +1,545 @@
 # Get more info on the settings.yaml here:https://github.com/apps/settings
 repository:
-    # See https://developer.github.com/v3/repos/#edit for all available settings.
+  # See https://developer.github.com/v3/repos/#edit for all available settings.
 
-    # The name of the repository. Changing this will rename the repository
-    name: glossary
+  # The name of the repository. Changing this will rename the repository
+  name: glossary
 
-    # A short description of the repository that will show up on GitHub
-    description: The CNCF Cloud Native Glossary Project aims to define cloud native concepts in clear and simple language, making them accessible to anyone —  whether they have a technical background or not (https://glossary.cncf.io).
+  # A short description of the repository that will show up on GitHub
+  description: The CNCF Cloud Native Glossary Project aims to define cloud native concepts in clear and simple language, making them accessible to anyone —  whether they have a technical background or not (https://glossary.cncf.io).
 
-    # A URL with more information about the repository
-    homepage: https://glossary.cncf.io/
-
-    # Collaborators: give specific users access to this repository.
-    # see /governance/roles.md for details on write access policy
-    # note that the permissions below may provide wider access than needed for
-    # a specific role, and we trust these individuals to act according to their
-    # role. If there are questions, please contact one of the chairs.
+  # A URL with more information about the repository
+  homepage: https://glossary.cncf.io/
+  
+  # Collaborators: give specific users access to this repository.
+  # see /governance/roles.md for details on write access policy
+  # note that the permissions below may provide wider access than needed for
+  # a specific role, and we trust these individuals to act according to their
+  # role. If there are questions, please contact one of the chairs.
 collaborators:
-    # Chairs
-    - username: caniszczyk
-      permission: admin
+  # Chairs
+  - username: caniszczyk
+    permission: admin
 
-    - username: jasonmorgan
-      permission: admin
+  - username: jasonmorgan
+    permission: admin
 
-    - username: CathPag
-      permission: maintain
+  - username: CathPag
+    permission: maintain
+    
+  - username: seokho-son
+    permission: admin
+  
+  - username: jihoon-seo
+    permission: admin
+
+  - username: iamNoah1
+    permission: admin
+  
+  - username: thetwopct
+    permission: push
+
+  # English approvers (approver for all files in repository)
+
+  - username: nate-double-u
+    permission: admin
+
+  - username: hlipsig
+    permission: push
+
+  # Localization approvers
+  
+  # l10n ko approvers
+  # Note: seokho-son is both Maintainer (maintain) and Korean approver (push)
+  # Note: jihoon-seo is both Maintainer (maintain) and Korean approver (push)
+
+  - username: yunkon-kim
+    permission: push
+
+  # l10n pt approvers
+  - username: brunoguidone
+    permission: push
+
+  - username: jessicalins
+    permission: push
+
+  # l10n hi approvers
+  - username: Garima-Negi
+    permission: push
+
+  - username: jayesh-srivastava
+    permission: push
 
-    - username: seokho-son
-      permission: admin
+  - username: abhay-raj19
+    permission: push
 
-    - username: jihoon-seo
-      permission: admin
+  - username: kumarankit999
+    permission: push
 
-    - username: iamNoah1
-      permission: admin
+  - username: bishal7679
+    permission: push
 
-    - username: thetwopct
-      permission: push
+  # l10n de approvers
+  # Note: iamNoah1 is both Maintainer (maintain) and de approver (push)
+  - username: DaveVentura
+    permission: push
+    
+  - username: bcubk
+    permission: push
 
-    # English approvers (approver for all files in repository)
+  # l10n it approvers
+  - username: fsbaraglia
+    permission: push
 
-    - username: nate-double-u
-      permission: admin
+  - username: ugho16
+    permission: push
 
-    - username: hlipsig
-      permission: push
+  - username: matteobisi
+    permission: push
 
-    # Localization approvers
+  - username: SaraTrap
+    permission: push
 
-    # l10n ko approvers
-    # Note: seokho-son is both Maintainer (maintain) and Korean approver (push)
-    # Note: jihoon-seo is both Maintainer (maintain) and Korean approver (push)
+  - username: sistella
+    permission: push
 
-    - username: yunkon-kim
-      permission: push
+  # l10n ar approvers
+  - username: TarekMSayed
+    permission: push
 
-    # l10n pt approvers
-    - username: brunoguidone
-      permission: push
+  - username: same7ammar
+    permission: push
 
-    - username: jessicalins
-      permission: push
+  - username: AShabana
+    permission: push
 
-    # l10n hi approvers
-    - username: Garima-Negi
-      permission: push
+  - username: arezk84
+    permission: push
 
-    - username: jayesh-srivastava
-      permission: push
+  # l10n bn approvers
+  - username: Arindam200
+    permission: push
+    
+  - username: asem-hamid
+    permission: push
 
-    - username: abhay-raj19
-      permission: push
+  - username: Imtiaz1234
+    permission: push
 
-    - username: kumarankit999
-      permission: push
+  - username: mitul3737
+    permission: push
+    
+  - username: sajibAdhi
+    permission: push
+    
+  # l10n es approvers
+  - username: raelga
+    permission: push
 
-    - username: bishal7679
-      permission: push
+  - username: ramrodo
+    permission: push
+    
+  - username: electrocucaracha
+    permission: push
 
-    # l10n de approvers
-    # Note: iamNoah1 is both Maintainer (maintain) and de approver (push)
-    - username: DaveVentura
-      permission: push
+  - username: krol3
+    permission: push
 
-    - username: bcubk
-      permission: push
+  - username: 92nqb
+    permission: push
 
-    # l10n it approvers
-    - username: fsbaraglia
-      permission: push
+  # l10n zh-cn approvers
+  - username: hanyuancheung
+    permission: push
 
-    - username: ugho16
-      permission: push
+  - username: Jacob953
+    permission: push
 
-    - username: matteobisi
-      permission: push
+  - username: Rocksnake
+    permission: push
 
-    - username: SaraTrap
-      permission: push
+  - username: Submarinee
+    permission: push
 
-    - username: sistella
-      permission: push
+  # l10n fr approvers
+  - username: huats
+    permission: push
 
-    # l10n ar approvers
-    - username: TarekMSayed
-      permission: push
+  - username: Krast76
+    permission: push
 
-    - username: same7ammar
-      permission: push
+  - username: sestegra
+    permission: push
 
-    - username: AShabana
-      permission: push
+  - username: guillaumebernard84
+    permission: push
 
-    - username: arezk84
-      permission: push
+  - username: seb-835
+    permission: push
 
-    # l10n bn approvers
-    - username: Arindam200
-      permission: push
+  # l10n ur approvers
+  - username: Saim-Safdar
+    permission: push
 
-    - username: asem-hamid
-      permission: push
+  - username: waleed318
+    permission: push
 
-    - username: Imtiaz1234
-      permission: push
+  # l10n zh-tw approvers
+  - username: hwchiu
+    permission: push
 
-    - username: mitul3737
-      permission: push
+  - username: johnlinp
+    permission: push
 
-    - username: sajibAdhi
-      permission: push
+  - username: pichuang
+    permission: push
 
-    # l10n es approvers
-    - username: raelga
-      permission: push
+  - username: ydFu
+    permission: push
 
-    - username: ramrodo
-      permission: push
+  # l10n ja approvers
+  - username: inductor
+    permission: push
 
-    - username: electrocucaracha
-      permission: push
+  - username: kaitoii11
+    permission: push
 
-    - username: krol3
-      permission: push
+  - username: naonishijima
+    permission: push
 
-    - username: 92nqb
-      permission: push
+  - username: Okabe-Junya
+    permission: push
 
-    # l10n zh-cn approvers
-    - username: hanyuancheung
-      permission: push
+  - username: yuichi-nakamura
+    permission: push
 
-    - username: Jacob953
-      permission: push
+  # l10n tr approvers
+  - username: aliok
+    permission: push
 
-    - username: Rocksnake
-      permission: push
+  - username: canogluonur
+    permission: push
 
-    - username: Submarinee
-      permission: push
+  - username: mertssmnoglu
+    permission: push
 
-    # l10n fr approvers
-    - username: huats
-      permission: push
+  - username: alianait
+    permission: push
 
-    - username: Krast76
-      permission: push
+  # l10n ru approvers
+  - username: shurup
+    permission: push
 
-    - username: sestegra
-      permission: push
+  - username: kirkonru
+    permission: push
 
-    - username: guillaumebernard84
-      permission: push
-
-    - username: seb-835
-      permission: push
-
-    # l10n ur approvers
-    - username: Saim-Safdar
-      permission: push
-
-    - username: waleed318
-      permission: push
-
-    # l10n zh-tw approvers
-    - username: hwchiu
-      permission: push
-
-    - username: johnlinp
-      permission: push
-
-    - username: pichuang
-      permission: push
-
-    - username: ydFu
-      permission: push
-
-    # l10n ja approvers
-    - username: inductor
-      permission: push
-
-    - username: kaitoii11
-      permission: push
-
-    - username: naonishijima
-      permission: push
-
-    - username: Okabe-Junya
-      permission: push
-
-    - username: yuichi-nakamura
-      permission: push
-
-    # l10n tr approvers
-    - username: aliok
-      permission: push
-
-    - username: canogluonur
-      permission: push
-
-    - username: mertssmnoglu
-      permission: push
-
-    - username: alianait
-      permission: push
-
-    # l10n ru approvers
-    - username: shurup
-      permission: push
-
-    - username: kirkonru
-      permission: push
-
-    - username: tym83
-      permission: push
+  - username: tym83
+    permission: push
 
 branches:
-    # Default branch of this repository for configurations and English contents
-    - name: main
-      protection:
-          required_pull_request_reviews:
-              required_approving_review_count: 2
-              require_code_owner_reviews: true
-          required_status_checks: null
-          restrictions:
-              apps: []
-              # En approvers (including Chairs)
-              users:
-                  - caniszczyk
-                  - jasonmorgan
-                  - CathPag
-                  - seokho-son
-                  - iamNoah1
-                  - jihoon-seo
-                  - nate-double-u
-                  - castrojo
-              teams: []
-          enforce_admins: null
-          required_linear_history: null
 
-    # l10n branch for Korean contents only
-    - name: dev-ko
-      protection:
-          required_pull_request_reviews:
-              required_approving_review_count: 2
-              require_code_owner_reviews: true
-          required_status_checks: null
-          restrictions:
-              apps: []
-              # Ko approvers
-              users:
-                  - seokho-son
-                  - jihoon-seo
-                  - yunkon-kim
-              teams: []
-          enforce_admins: null
-          required_linear_history: null
+  # Default branch of this repository for configurations and English contents
+  - name: main
+    protection:
+      required_pull_request_reviews:
+        required_approving_review_count: 2
+        require_code_owner_reviews: true
+      required_status_checks: null
+      restrictions:
+        apps: []
+        # En approvers (including Chairs)
+        users:
+         - caniszczyk
+         - jasonmorgan
+         - CathPag
+         - seokho-son
+         - iamNoah1
+         - jihoon-seo
+         - nate-double-u
+         - castrojo
+        teams: []
+      enforce_admins: null
+      required_linear_history: null
 
-    # l10n branch for pt contents only
-    - name: dev-pt
-      protection:
-          required_pull_request_reviews:
-              required_approving_review_count: 2
-              require_code_owner_reviews: true
-          required_status_checks: null
-          restrictions:
-              apps: []
-              # pt approvers
-              users:
-                  - brunoguidone
-                  - jessicalins
-              teams: []
-          enforce_admins: null
-          required_linear_history: null
+  # l10n branch for Korean contents only
+  - name: dev-ko
+    protection:
+      required_pull_request_reviews:
+        required_approving_review_count: 2
+        require_code_owner_reviews: true
+      required_status_checks: null
+      restrictions:
+        apps: []
+        # Ko approvers
+        users:
+         - seokho-son
+         - jihoon-seo
+         - yunkon-kim
+        teams: []
+      enforce_admins: null
+      required_linear_history: null
 
-    # l10n branch for hi contents only
-    - name: dev-hi
-      protection:
-          required_pull_request_reviews:
-              required_approving_review_count: 2
-              require_code_owner_reviews: true
-          required_status_checks: null
-          restrictions:
-              apps: []
-              # hi approvers
-              users:
-                  - Garima-Negi
-                  - jayesh-srivastava
-                  - abhay-raj19
-                  - kumarankit999
-                  - bishal7679
-              teams: []
-          enforce_admins: null
-          required_linear_history: null
+  # l10n branch for pt contents only
+  - name: dev-pt
+    protection:
+      required_pull_request_reviews:
+        required_approving_review_count: 2
+        require_code_owner_reviews: true
+      required_status_checks: null
+      restrictions:
+        apps: []
+        # pt approvers
+        users:
+         - brunoguidone
+         - jessicalins
+        teams: []
+      enforce_admins: null
+      required_linear_history: null
 
-    # l10n branch for de contents only
-    - name: dev-de
-      protection:
-          required_pull_request_reviews:
-              required_approving_review_count: 2
-              require_code_owner_reviews: true
-          required_status_checks: null
-          restrictions:
-              apps: []
-              # de approvers
-              users:
-                  - iamNoah1
-                  - DaveVentura
-                  - bcubk
-              teams: []
-          enforce_admins: null
-          required_linear_history: null
+  # l10n branch for hi contents only
+  - name: dev-hi
+    protection:
+      required_pull_request_reviews:
+        required_approving_review_count: 2
+        require_code_owner_reviews: true
+      required_status_checks: null
+      restrictions:
+        apps: []
+        # hi approvers
+        users:
+         - Garima-Negi
+         - jayesh-srivastava
+         - abhay-raj19
+         - kumarankit999
+         - bishal7679
+        teams: []
+      enforce_admins: null
+      required_linear_history: null
 
-    # l10n branch for it contents only
-    - name: dev-it
-      protection:
-          required_pull_request_reviews:
-              required_approving_review_count: 2
-              require_code_owner_reviews: true
-          required_status_checks: null
-          restrictions:
-              apps: []
-              # it approvers
-              users:
-                  - fsbaraglia
-                  - ugho16
-                  - annalisag-spark
-                  - sistella
-              teams: []
-          enforce_admins: null
-          required_linear_history: null
+  # l10n branch for de contents only
+  - name: dev-de
+    protection:
+      required_pull_request_reviews:
+        required_approving_review_count: 2
+        require_code_owner_reviews: true
+      required_status_checks: null
+      restrictions:
+        apps: []
+        # de approvers
+        users:
+         - iamNoah1
+         - DaveVentura
+         - bcubk
+        teams: []
+      enforce_admins: null
+      required_linear_history: null
 
-    # l10n branch for ar contents only
-    - name: dev-ar
-      protection:
-          required_pull_request_reviews:
-              required_approving_review_count: 2
-              require_code_owner_reviews: true
-          required_status_checks: null
-          restrictions:
-              apps: []
-              # ar approvers
-              users:
-                  - TarekMSayed
-                  - same7ammar
-                  - AShabana
-                  - arezk84
-              teams: []
-          enforce_admins: null
-          required_linear_history: null
+  # l10n branch for it contents only
+  - name: dev-it
+    protection:
+      required_pull_request_reviews:
+        required_approving_review_count: 2
+        require_code_owner_reviews: true
+      required_status_checks: null
+      restrictions:
+        apps: []
+        # it approvers
+        users:
+         - fsbaraglia
+         - ugho16
+         - annalisag-spark
+         - sistella
+        teams: []
+      enforce_admins: null
+      required_linear_history: null
 
-    # l10n branch for bn contents only
-    - name: dev-bn
-      protection:
-          required_pull_request_reviews:
-              required_approving_review_count: 2
-              require_code_owner_reviews: true
-          required_status_checks: null
-          restrictions:
-              apps: []
-              # bn approvers
-              users:
-                  - Arindam200
-                  - asem-hamid
-                  - Imtiaz1234
-                  - mitul3737
-                  - sajibAdhi
-              teams: []
-          enforce_admins: null
-          required_linear_history: null
+  # l10n branch for ar contents only
+  - name: dev-ar
+    protection:
+      required_pull_request_reviews:
+        required_approving_review_count: 2
+        require_code_owner_reviews: true
+      required_status_checks: null
+      restrictions:
+        apps: []
+        # ar approvers
+        users:
+         - TarekMSayed
+         - same7ammar
+         - AShabana
+         - arezk84
+        teams: []
+      enforce_admins: null
+      required_linear_history: null
 
-    # l10n branch for es contents only
-    - name: dev-es
-      protection:
-          required_pull_request_reviews:
-              required_approving_review_count: 2
-              require_code_owner_reviews: true
-          required_status_checks: null
-          restrictions:
-              apps: []
-              # es approvers
-              users:
-                  - raelga
-                  - ramrodo
-                  - electrocucaracha
-                  - krol3
-                  - 92nqb
-              teams: []
-          enforce_admins: null
-          required_linear_history: null
+  # l10n branch for bn contents only
+  - name: dev-bn
+    protection:
+      required_pull_request_reviews:
+        required_approving_review_count: 2
+        require_code_owner_reviews: true
+      required_status_checks: null
+      restrictions:
+        apps: []
+        # bn approvers
+        users:
+         - Arindam200
+         - asem-hamid
+         - Imtiaz1234
+         - mitul3737
+         - sajibAdhi
+        teams: []
+      enforce_admins: null
+      required_linear_history: null
 
-    # l10n branch for zh-cn contents only
-    - name: dev-zh
-      protection:
-          required_pull_request_reviews:
-              required_approving_review_count: 2
-              require_code_owner_reviews: true
-          required_status_checks: null
-          restrictions:
-              apps: []
-              # zh-cn approvers
-              users:
-                  - hanyuancheung
-                  - Jacob953
-                  - Rocksnake
-                  - Submarinee
-              teams: []
-          enforce_admins: null
-          required_linear_history: null
+  # l10n branch for es contents only
+  - name: dev-es
+    protection:
+      required_pull_request_reviews:
+        required_approving_review_count: 2
+        require_code_owner_reviews: true
+      required_status_checks: null
+      restrictions:
+        apps: []
+        # es approvers
+        users:
+         - raelga
+         - ramrodo
+         - electrocucaracha
+         - krol3
+         - 92nqb
+        teams: []
+      enforce_admins: null
+      required_linear_history: null
 
-    # l10n branch for fr contents only
-    - name: dev-fr
-      protection:
-          required_pull_request_reviews:
-              required_approving_review_count: 2
-              require_code_owner_reviews: true
-          required_status_checks: null
-          restrictions:
-              apps: []
-              # fr approvers
-              users:
-                  - huats
-                  - Krast76
-                  - sestegra
-                  - guillaumebernard84
-                  - seb-835
-              teams: []
-          enforce_admins: null
-          required_linear_history: null
+  # l10n branch for zh-cn contents only
+  - name: dev-zh
+    protection:
+      required_pull_request_reviews:
+        required_approving_review_count: 2
+        require_code_owner_reviews: true
+      required_status_checks: null
+      restrictions:
+        apps: []
+        # zh-cn approvers
+        users:
+         - hanyuancheung
+         - Jacob953
+         - Rocksnake
+         - Submarinee
+        teams: []
+      enforce_admins: null
+      required_linear_history: null
 
-    # l10n branch for ur contents only
-    - name: dev-ur
-      protection:
-          required_pull_request_reviews:
-              required_approving_review_count: 2
-              require_code_owner_reviews: true
-          required_status_checks: null
-          restrictions:
-              apps: []
-              # ur approvers
-              users:
-                  - Saim-Safdar
-                  - waleed318
-              teams: []
-          enforce_admins: null
-          required_linear_history: null
+  # l10n branch for fr contents only
+  - name: dev-fr
+    protection:
+      required_pull_request_reviews:
+        required_approving_review_count: 2
+        require_code_owner_reviews: true
+      required_status_checks: null
+      restrictions:
+        apps: []
+        # fr approvers
+        users:
+         - huats
+         - Krast76
+         - sestegra
+         - guillaumebernard84
+         - seb-835
+        teams: []
+      enforce_admins: null
+      required_linear_history: null
+      
+  # l10n branch for ur contents only
+  - name: dev-ur
+    protection:
+      required_pull_request_reviews:
+        required_approving_review_count: 2
+        require_code_owner_reviews: true
+      required_status_checks: null
+      restrictions:
+        apps: []
+        # ur approvers
+        users:
+         - Saim-Safdar
+         - waleed318
+        teams: []
+      enforce_admins: null
+      required_linear_history: null
 
-    # l10n branch for zh-tw contents only
-    - name: dev-tw
-      protection:
-          required_pull_request_reviews:
-              required_approving_review_count: 2
-              require_code_owner_reviews: true
-          required_status_checks: null
-          restrictions:
-              apps: []
-              # zh-tw approvers
-              users:
-                  - hwchiu
-                  - johnlinp
-                  - pichuang
-                  - ydFu
-              teams: []
-          enforce_admins: null
-          required_linear_history: null
+  # l10n branch for zh-tw contents only
+  - name: dev-tw
+    protection:
+      required_pull_request_reviews:
+        required_approving_review_count: 2
+        require_code_owner_reviews: true
+      required_status_checks: null
+      restrictions:
+        apps: []
+        # zh-tw approvers
+        users:
+         - hwchiu
+         - johnlinp
+         - pichuang
+         - ydFu
+        teams: []
+      enforce_admins: null
+      required_linear_history: null
 
-    # l10n branch for ja contents only
-    - name: dev-ja
-      protection:
-          required_pull_request_reviews:
-              required_approving_review_count: 2
-              require_code_owner_reviews: true
-          required_status_checks: null
-          restrictions:
-              apps: []
-              # ja approvers
-              users:
-                  - inductor
-                  - kaitoii11
-                  - naonishijima
-                  - Okabe-Junya
-                  - yuichi-nakamura
-              teams: []
-          enforce_admins: null
-          required_linear_history: null
+  # l10n branch for ja contents only
+  - name: dev-ja
+    protection:
+      required_pull_request_reviews:
+        required_approving_review_count: 2
+        require_code_owner_reviews: true
+      required_status_checks: null
+      restrictions:
+        apps: []
+        # ja approvers
+        users:
+         - inductor
+         - kaitoii11
+         - naonishijima
+         - Okabe-Junya
+         - yuichi-nakamura
+        teams: []
+      enforce_admins: null
+      required_linear_history: null
+      
+  # l10n branch for tr contents only
+  - name: dev-tr
+    protection:
+      required_pull_request_reviews:
+        required_approving_review_count: 2
+        require_code_owner_reviews: true
+      required_status_checks: null
+      restrictions:
+        apps: []
+        # tr approvers
+        users:
+         - aliok
+         - canogluonur
+         - mertssmnoglu
+         - alianait
+        teams: []
+      enforce_admins: null
+      required_linear_history: null
 
-    # l10n branch for tr contents only
-    - name: dev-tr
-      protection:
-          required_pull_request_reviews:
-              required_approving_review_count: 2
-              require_code_owner_reviews: true
-          required_status_checks: null
-          restrictions:
-              apps: []
-              # tr approvers
-              users:
-                  - aliok
-                  - canogluonur
-                  - mertssmnoglu
-                  - alianait
-              teams: []
-          enforce_admins: null
-          required_linear_history: null
-
-    # l10n branch for ru contents only
-    - name: dev-ru
-      protection:
-          required_pull_request_reviews:
-              required_approving_review_count: 2
-              require_code_owner_reviews: true
-          required_status_checks: null
-          restrictions:
-              apps: []
-              # ru approvers
-              users:
-                  - shurup
-                  - kirkonru
-                  - tym83
-              teams: []
-          enforce_admins: null
-          required_linear_history: null
+  # l10n branch for ru contents only
+  - name: dev-ru
+    protection:
+      required_pull_request_reviews:
+        required_approving_review_count: 2
+        require_code_owner_reviews: true
+      required_status_checks: null
+      restrictions:
+        apps: []
+        # ru approvers
+        users:
+         - shurup
+         - kirkonru
+         - tym83
+        teams: []
+      enforce_admins: null
+      required_linear_history: null
