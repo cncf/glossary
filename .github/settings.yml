@@ -63,9 +63,6 @@ collaborators:
   - username: jessicalins
     permission: push
 
-  - username: MrErlison
-    permission: push
-
   # l10n hi approvers
   - username: Garima-Negi
     permission: push
@@ -295,7 +292,6 @@ branches:
         users:
          - brunoguidone
          - jessicalins
-         - MrErlison
         teams: []
       enforce_admins: null
       required_linear_history: null
