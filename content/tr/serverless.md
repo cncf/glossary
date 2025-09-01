@@ -23,5 +23,3 @@ Sunucusuz, bu özelliklere sahip hizmetleri kapsayan kapsamlı bir terimdir ve P
 Sunucusuz Bilişim mimari, servisleri yalnızca isteğe bağlı olarak aktive ederek daha verimli bir yaklaşım sunar. Bu model, bulut sağlayıcısı tarafından dinamik kaynak tahsisi sağlayarak kullanılmayan servisler için maliyetleri ortadan kaldırır. Mali ve operasyonel verimlilikler ötesinde, serverless teknolojisi geliştiricileri uygulamaları ölçekleme ve sunucu altyapısını yönetme yüklerinden kurtarır. İşletim sistemi bakımı, güvenlik güncellemeleri, yük dengeleme, kapasite planlaması ve izleme gibi görevler bulut sağlayıcısına devredilir ve geliştirme işlemi kolaylaştırılır.
 
 Daha fazla bilgi için [Function-as-a-Service (FaaS)](/tr/function-as-a-service/) sözlük maddesine bakın. "Serverless" ve "FaaS" genellikle birbirinin yerine geçen terimler olarak kullanılsa da, farklı kavramları temsil ederler.
-
-{{% sign-language-section rbyBgXqCN2k %}}
