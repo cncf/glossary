@@ -1,5 +1,5 @@
 ---
-title: Déploiement Continu (Continuous Deployment)
+title: Déploiement continu (Continuous Deployment)
 status: Completed
 category: concept
 tags: ["application", "méthodologie", ""]

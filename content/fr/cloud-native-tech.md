@@ -22,8 +22,8 @@ Les inconvénients des modèles d'exploitation informatiques traditionnels.
 Les défis incluent les difficultés à créer des applications évolutives, tolérantes aux pannes et qui sont
 capable de se réparer toute seule. Il adresse également l'utilisation inefficace de ressources entre autres.
 
-## Quel en est l'utilité
+## Quelle en est l'utilité
 
 Bien que chaque technologie réponde à un problème très spécifique,
-en tant que groupe, les technologies Cloud Natives permettent de créer des systèmes faiblement couplés qui sont résilients, gérables et observables..
+en tant que groupe, les technologies Cloud Natives permettent de créer des [systèmes faiblement couplés](/fr/loosely-coupled-architecture/) qui sont résilients, gérables et observables.
 Combiné à une automatisation robuste, elles permettent aux ingénieurs de faire des changements à fort impact de manière fréquente et prévisible avec un minimum d'effort.

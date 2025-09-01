@@ -13,25 +13,26 @@ If you'd like to help with the glossary we'd love to have your contributions! Pl
 ## Acknowledgements
 
 The Cloud Native Glossary was initiated by the CNCF Marketing Committee
-(Business Value Subcommittee) and includes contributions from 
-[Catherine Paganini](https://www.linkedin.com/in/catherinepaganini/en/), 
-[Chris Aniszczyk](https://www.linkedin.com/in/caniszczyk/), 
-[Daniel Jones](https://www.linkedin.com/in/danieljoneseb/?originalSubdomain=uk), 
-[Jason Morgan](https://www.linkedin.com/in/jasonmorgan2/), 
-[Katelin Ramer](https://www.linkedin.com/in/katelinramer/), 
-[Mike Foster](https://www.linkedin.com/in/mfosterche/?originalSubdomain=ca), 
-and many more contributors. 
+(Business Value Subcommittee) and includes contributions from
+[Catherine Paganini](https://www.linkedin.com/in/catherinepaganini/en/),
+[Chris Aniszczyk](https://www.linkedin.com/in/caniszczyk/),
+[Daniel Jones](https://www.linkedin.com/in/danieljoneseb/?originalSubdomain=uk),
+[Jason Morgan](https://www.linkedin.com/in/jasonmorgan2/),
+[Katelin Ramer](https://www.linkedin.com/in/katelinramer/),
+[Mike Foster](https://www.linkedin.com/in/mfosterche/?originalSubdomain=ca),
+and many more contributors.
 For a complete contributor list, please refer to [this GitHub page](https://github.com/cncf/glossary/graphs/contributors).
 
-The Glossary is maintained by 
+The Glossary is maintained by
 [Seokho Son](https://www.linkedin.com/in/seokho-son/),
-[Noah Ispas](https://www.linkedin.com/in/noah-ispas-0665b42a/), 
+[Noah Ispas](https://www.linkedin.com/in/noah-ispas-0665b42a/),
 [Jihoon Seo](https://www.linkedin.com/in/jihoon-seo/),
 [Nate W.](https://www.linkedin.com/in/nate-double-u/),
-and [Jorge Castro](https://www.linkedin.com/in/jorge-castro2112/).
+and [Junya Okabe](https://www.linkedin.com/in/junya-okabe/).
 
 [Catherine Paganini](https://www.linkedin.com/in/catherinepaganini/en/),
-and [Jason Morgan](https://www.linkedin.com/in/jasonmorgan2/)
+[Jason Morgan](https://www.linkedin.com/in/jasonmorgan2/) and
+[Jorge Castro](https://www.linkedin.com/in/jorge-castro2112/)
 are Emeritus Maintainers, and we are deeply grateful
 for their invaluable contributions over the years.
 
@@ -43,13 +44,11 @@ All code contributions are under the Apache 2.0 license. Documentation is distri
 
 To improve the Cloud Native Glossary site itself, install a local copy with these instructions. Note you must have [npm](https://www.npmjs.com/) and [Hugo](https://gohugo.io/) installed.
 
-```
+```sh
 git clone https://github.com/cncf/glossary.git
-cd glossary
-git submodule update --init --recursive
 npm install
 ```
 
-You can then run the site using `npm run serve` (select "[Hugo]").
+You can then run the site using `npm run serve` (select "[Hugo]"). To have the site run locally with a functioning local search, run `npm run serve:with-pagefind`.
 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?repo=cncf/glossary)

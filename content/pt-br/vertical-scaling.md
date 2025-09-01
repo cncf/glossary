@@ -5,8 +5,6 @@ category: conceito
 tags: ["infraestrutura", "", ""]
 ---
 
-## O que é
-
 O escalonamento vertical, também conhecido como "escalonamento para cima e para baixo", é uma técnica em que a capacidade de um sistema adiciona CPU e memória aos [nós](/nodes/) individuais à medida que a carga de trabalho aumenta. Digamos que você tenha um computador de 4GB de RAM e queira aumentar sua capacidade para 16GB de RAM, escalar verticalmente significa mudar para um sistema de 16GB de RAM. (Consulte [escalonamento horizontal](/horizontal-scaling/) para obter uma abordagem de dimensionamento diferente.)
 
 ## Problema relacionado

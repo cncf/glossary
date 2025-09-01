@@ -4,8 +4,6 @@ status: Completed
 category: Konzept
 ---
 
-## Was es ist
-
 Ein Container ist eine virtuelle isolierte Umgebung, die als Prozess mit Ressourcen- und Kapazitätsbeschränkungen auf einem Computer läuft und von dessen Betriebssystem verwaltet wird. 
 Dabei werden dem Container virtuelle Ressourcen des Hosts reserviert und zugeordnet.
 Es können mehrere Container auf derselben Maschine laufen und es wird von der Container-Engine sichergestellt, 

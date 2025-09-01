@@ -5,8 +5,6 @@ category: conceito
 tags: ["segurança", "rede", ""]
 ---
 
-## O que é
-
 Transport Layer Security (TLS) é um protocolo projetado para fornecer maior segurança à comunicação através de uma rede. Garante a entrega segura de dados enviados pela Internet, evitando possíveis monitoramentos e/ou alterações dos dados. Este protocolo é amplamente utilizado em aplicações como mensagens, e-mail, etc.
 
 ## Problema relacionado
