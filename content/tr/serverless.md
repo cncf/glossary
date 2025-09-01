@@ -5,11 +5,7 @@ Category: Teknoloji
 tags: ["mimari", "", ""]
 ---
 
-Sunucusuz Bilişim, sunucuları kullanıcıdan [soyutlar](/tr/abstraction/).
-
-Operasyonel yönetim, fiziksel makinelerin ve sanal makine kaynak tahsisinin yönetimi dahil olmak üzere servis sağlayıcısının sorumluluğundadır. Servis sağlayıcıları genel bulut kuruluşları veya geliştirme takımlarına hizmet veren şirket içi şirket için BT departmanları olabilir. Bu sağlayıcılar SDK'lar, CLI'lar veya OCI uyumlu [runtime'lar](/tr/runtime) gibi kullanıcı arayüzleri sunarak kod ve dağıtım görevlerine odaklanır. Ücretlendirme kullanıma göre ödeme yapmak modeline dayanır.
-
-Bilişim kaynakları, depolama veya ağ için [ölçekleme](/tr/scalability/) ve kaynak tahsisi, kullanıcı müdahalesi olmadan uygulama talebine göre otomatik olarak ayarlanır. Serverless platform sağlayıcısı, özellikle [sanal makinelerle](/tr/virtual-machine/) sanallaştırma yoluyla izolasyonu sağlayarak, tek bir fiziksel makinede birden fazla kullanıcıya hizmet vermek için kaynakları birleştirir.
+Sunucusuz Bilişim, sunucuları kullanıcıdan [soyutlar](/tr/abstraction/). Operasyonel yönetim, fiziksel makinelerin ve sanal makine kaynak tahsisinin yönetimi dahil olmak üzere servis sağlayıcısının sorumluluğundadır. Servis sağlayıcıları genel bulut kuruluşları veya geliştirme takımlarına hizmet veren şirket içi şirket için BT departmanları olabilir. Bu sağlayıcılar SDK'lar, CLI'lar veya OCI uyumlu [runtime'lar](/tr/runtime) gibi kullanıcı arayüzleri sunarak kod ve dağıtım görevlerine odaklanır. Ücretlendirme kullanıma göre ödeme yapmak modeline dayanır. Bilişim kaynakları, depolama veya ağ için [ölçekleme](/tr/scalability/) ve kaynak tahsisi, kullanıcı müdahalesi olmadan uygulama talebine göre otomatik olarak ayarlanır. Serverless platform sağlayıcısı, özellikle [sanal makinelerle](/tr/virtual-machine/) sanallaştırma yoluyla izolasyonu sağlayarak, tek bir fiziksel makinede birden fazla kullanıcıya hizmet vermek için kaynakları birleştirir.
 
 Sunucusuz, bu özelliklere sahip hizmetleri kapsayan kapsamlı bir terimdir ve Platform-as-a-Service (PaaS)'tan Software-as-a-Service (SaaS)'a kadar uzanır.
 
