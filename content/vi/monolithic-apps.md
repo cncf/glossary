@@ -14,7 +14,7 @@ khi thay đổi mã nguồn tăng lên, đồng thời đòi hỏi nhiều hơn 
 
 ## Vấn đề mà nó giải quyết
 
-Phát triển phần mềm theo hướng [microservices](/vi/microservices-architecture/) 
+Phát triển phần mềm theo hướng [microservices](/microservices-architecture/) 
 làm tăng nguồn lực vận hành, do có nhiều thành phần cần kiểm thử, triển khai, và duy trì hoạt động.
 Do đó trong giai đoạn đầu của vòng đời sản phẩm, việc phát triển ứng dụng 
 theo hướng nguyên khối cho đến khi sản phẩm hoạt động như mong muốn, 
