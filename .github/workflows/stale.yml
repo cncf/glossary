@@ -27,7 +27,7 @@ jobs:
     timeout-minutes: 1 # Default: 360 
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/stale@v9.1.0
+      - uses: actions/stale@v10.0.0
         with:
           repo-token: ${{ secrets.GITHUB_TOKEN }}
           stale-issue-message: 'This issue/PR is stale because it has been inactive for 60 days. This issue/PR will be closed automatically with additional 20 days of inactivity. If an update/comment occur on stale issue/PR, the stale label will be removed and the timer will restart. Closed issue/PR can be reopened if necessary.'
