@@ -4,7 +4,6 @@ status: Completed
 category: concept
 tags: ["altyapı", "temel kavram", ""]
 ---
-## Nedir
 
 [Kubernetes](/tr/kubernetes/) ortamında bir pod, en temel dağıtılabilir birim olarak işlev görür. 
 Konteynerleştirilmiş uygulamaları dağıtmak ve yönetmek için önemli bir yapı taşını temsil eder. 

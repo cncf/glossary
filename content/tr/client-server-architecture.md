@@ -5,8 +5,6 @@ category: concept
 tags: ["mimari", "temel kavram", ""]
 ---
 
-## Nedir
-
 İstemci-sunucu mimarisinde, bir uygulamayı oluşturan mantık (veya kod) iki veya daha fazla bileşen arasında bölünür. 
 Bunlar, işin yapılmasını isteyen bir istemci (örn. web tarayıcınızda çalışan Gmail web uygulaması) ve bu isteği karşılayan bir veya daha fazla sunucudur (örn. Google’ın buluttaki bilgisayarlarında çalışan “e-posta gönder” servisi). 
 Bu örnekte, yazdığınız e-postalar istemci (web tarayıcınızda çalışan uygulaması) tarafından bir sunucuya (Gmail’in giden e-postalarınızı alıcılarına ileten bilgisayarları) gönderilir.

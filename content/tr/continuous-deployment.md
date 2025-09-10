@@ -5,8 +5,6 @@ category: concept
 tags: ["uygulama", "yöntem", ""]
 ---
 
-## Nedir
-
 Genellikle CD olarak kısaltılan sürekli dağıtım (continuous deployment), tamamlanmış yazılımı doğrudan üretime dağıtarak [sürekli teslimattan (continuous delivery)](/tr/continuous-delivery/) bir adım daha ileri gider. 
 Sürekli dağıtım (CD), [sürekli entegrasyon (CI)](/tr/continuous-integration/) ile birlikte ele alınır ve genellikle CI/CD olarak adlandırılır. 
 CI süreci, uygulamada yapılan değişikliklerin geçerli olup olmadığını test eder ve CD süreci, kod değişikliklerini bir organizasyonun testten üretime, tüm ortamlarına otomatik olarak dağıtır.

@@ -4,8 +4,6 @@ status: Completed
 tags: ["altyapı", "temel kavram", ""]
 ---
 
-## Nedir
-
 Mikroservis mimarisi, uygulamaları birbirinden bağımsız (mikro)servislere ayıran, her bir servisin belirli bir işlevselliğe odaklandığı bir mimari yaklaşımdır.
 Bu servisler birbirleriyle yakın bir şekilde çalışır ve kullanıcıya tek bir sistem gibi görünür.
 Netflix'i bir örnek olarak alalım.
