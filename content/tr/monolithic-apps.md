@@ -5,8 +5,6 @@ category: concept
 tags: ["mimari", "temel kavram", ""]
 ---
 
-## Nedir
-
 Monolitik bir uygulama, tüm işlevselliği tek bir dağıtılabilir programda içerir. 
 Bu genellikle bir uygulamayı oluştururken en basit ve en kolay başlangıç noktasıdır. 
 Ancak uygulama büyüyüp karmaşıklaştıkça monolitik uygulamaların bakımı zorlaşabilir. 

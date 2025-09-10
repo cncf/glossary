@@ -5,8 +5,6 @@ category: concept
 tags: ["yöntem", "", ""]
 ---
 
-## Nedir
-
 Çevik yazılım geliştirme, tekrarlayan geliştirme döngülerini ve kendi kendini organize eden ekipleri vurgulayan bir dizi uygulamadır. 
 Değerin yalnızca projenin sonunda üretildiği şelale tarzı projelerin aksine, çevik yazılım geliştirme, 
 değerin sürekli ve kademeli olarak sunulmasına ve sürecin kendisinin evrimsel olarak gelişimine odaklanır.

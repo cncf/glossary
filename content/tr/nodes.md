@@ -5,8 +5,6 @@ category: Concept
 tags: ["altyapı", "temel kavram", ""]
 ---
 
-## Nedir
-
 Bir düğüm, ortak bir görevi gerçekleştirmek için diğer bilgisayarlar veya düğümlerle birlikte çalışan bir bilgisayardır.
 Örneğin, dizüstü bilgisayarınız, modeminiz ve yazıcınızı düşünün.
 Hepsi wifi ağınız üzerinden bağlıdır, iletişim kurar ve işbirliği yapar; her biri bir düğümü temsil eder.

@@ -5,8 +5,6 @@ category: Technology
 tags: ["altyapı", "temel kavram", ""]
 ---
 
-## Nedir
-
 Veri merkezi, çoğunlukla sunucular olmak üzere bilgisayarları barındırmak üzere tasarlanmış bina veya tesistir. 
 Veri merkezleri, özellikle [bulut bilişime](/tr/cloud-computing/) odaklandıklarında, yüksek hızlı internet hatlarına bağlanma eğilimindedirler. 
 Veri merkezlerini barındıran binalar, kesintiler sırasında güç sağlayan jeneratörler ve bilgisayarları serin tutan güçlü klimalar dahil olmak üzere olumsuz şartlarda bile hizmeti sürdürecek şekilde donatılmıştır.

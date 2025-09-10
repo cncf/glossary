@@ -5,8 +5,6 @@ category: concept
 tags: ["yöntem", "uygulama", ""]
 ---
 
-## Nedir
-
 Genellikle CD olarak kısaltılan sürekli teslimat (continuous delivery), 
 kod değişikliklerinin otomatik olarak bir kabul ortamına dağıtıldığı (veya sürekli dağıtım (continuous deployment) 
 durumunda üretime otomatik olarak dağıtıldığı) bir dizi uygulamadır. 

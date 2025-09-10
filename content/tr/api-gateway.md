@@ -5,8 +5,6 @@ category: Teknoloji
 tags: ["ağ", "", ""]
 ---
 
-## Nedir
-
 [API](../application-programming-interface/) geçidi, benzersiz uygulama API’lerini bir araya toplayarak hepsinin tek bir yerde kullanılabilir olmasını sağlayan bir araçtır. Organizasyonların kimlik doğrulama, yetkilendirme ve istek sayısını sınırlandırma gibi temel işlevlerin merkezi bir konumdan yönetilmesini sağlar. Bir API geçidi, API tüketicilerine yönelik ortak bir arayüz işlevi görür. 
 
 ## Hangi Sorunları Çözer

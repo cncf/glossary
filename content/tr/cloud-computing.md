@@ -5,8 +5,6 @@ category: Kavram
 tags: ["altyapı", "temel kavram", ""]
 ---
 
-## Nedir
-
 Bulut bilişim, internet üzerinden isteğe bağlı olarak CPU, ağ ve disk kapasiteleri gibi bilişim kaynaklarının sunulduğu, kullanıcıların uzaktaki fiziksel bir konumda bilgi işlem gücüne erişebildiği ve kullanabildiği bir hizmettir.
 Genellikle, bulut altyapısının bir organizasyona ayrılmış olup olmadığına veya genele açık hizmetlerde paylaşılıp paylaşılmadığına bağlı olarak, özel veya genel bulut şeklinde bir ayrım yapılır.
 

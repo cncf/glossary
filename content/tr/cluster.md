@@ -5,8 +5,6 @@ category: Concept
 tags: ["altyapı", "temel kavram", ""]
 ---
 
-## Nedir
-
 Küme, ortak bir amaç doğrultusunda birlikte çalışan bir grup bilgisayar ve uygulamadır. Cloud native bilişimi bağlamında "küme" kavramı çoğunlukla Kubernetes için kullanılır. [Kubernetes](/tr/kubernetes/) kümesi, genellikle farklı makinelerde olacak şekilde, kendi [konteynerlerini](/tr/containerization/) kullanarak çalışan bir dizi servisten (veya iş yükünden) oluşur. Bir ağ üzerinden bağlanan tüm bu konteynerli servisler bir kümeyi temsil eder.
 
 

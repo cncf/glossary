@@ -5,8 +5,6 @@ category: concept
 tags: ["yöntem", "", ""]
 ---
 
-## Nedir
-
 Site Güvenilirlik Mühendisliği / Site Reliability Engineering (SRE), operasyon ve yazılım mühendisliğini bir araya getiren bir disiplindir.
 Özetle, yazılım mühendisliğinin altyapı ve operasyon işlerine uygulanmasıdır.
 SRE mühendisleri ürün özellikleri geliştirmek yerine, uygulamaları çalıştırmak için sistemler oluştururlar.

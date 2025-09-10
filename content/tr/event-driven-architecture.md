@@ -5,8 +5,6 @@ category: concept
 tags: ["mimari", "", ""]
 ---
 
-## Nedir
-
 Olaya dayalı mimari, olayların üretilmesini, işlenmesini ve kullanılmasını destekleyen bir yazılım mimarisidir. 
 Olay, bir uygulamanın durumunda meydana gelen herhangi bir değişikliktir. 
 Örneğin, bir araç paylaşım uygulamasında araç çağırmak bir olayı temsil eder. 
