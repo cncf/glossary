@@ -5,8 +5,6 @@ category: Konzept
 tags: ["methodology", "application", ""]
 ---
 
-## Was es ist
-
 Blue-Green-Deployment ist eine Strategie zur Aktualisierung von produktiven Anwendungen. 
 Der Fokus liegt darauf, Ausfallszeiten zu minimieren oder gänzlich zu vermeiden.
 In der Regel bezieht sich der Begriff Blue-Green-Deployment auf die Aktualisierung einer gesamten Anwendung

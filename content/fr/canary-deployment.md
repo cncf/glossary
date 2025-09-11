@@ -1,5 +1,5 @@
 ---
-title: Deploiement canari
+title: Déploiement canari
 status: Completed
 category: concept
 tags: ["méthodologie", "application", ""]
@@ -23,7 +23,7 @@ De même, si quelque chose ne va pas avec le code mis à jour, le trafic en dire
 Peu importe la rigueur de la stratégie de test, il y aura toujours des bugs qui seront découverts en production.
 Le fait de basculer 100% du trafic d'une version d'application vers une autre peut intensifier l'impact des défaillances sur les utilisateurs.
 
-## Quel en est l'utilité
+## Quelle en est l'utilité
 
 Les déploiements canaris permettent aux organisations de voir comment se comporte le nouveau logiciel dans des scénarios réels
 avant de transférer un trafic significatif vers la nouvelle version.

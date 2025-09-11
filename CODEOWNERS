@@ -6,12 +6,12 @@
 
 # These owners will be default owners for everything in this repository.
 # These owners consist of Maintainers
-* @caniszczyk @seokho-son @iamNoah1 @jihoon-seo @nate-double-u
+* @caniszczyk @seokho-son @iamNoah1 @jihoon-seo @nate-double-u @Okabe-Junya
 
 
 # Approvers for English content
-/content/en/ @caniszczyk @seokho-son @iamNoah1 @jihoon-seo @nate-double-u @castrojo
-/i18n/en.toml @caniszczyk @seokho-son @iamNoah1 @jihoon-seo @nate-double-u @castrojo
+/content/en/ @caniszczyk @seokho-son @iamNoah1 @jihoon-seo @nate-double-u @Okabe-Junya @hlipsig
+/i18n/en.toml @caniszczyk @seokho-son @iamNoah1 @jihoon-seo @nate-double-u @Okabe-Junya @hlipsig
 
 
 # These are the owners (approvers) for localization contents
@@ -23,8 +23,8 @@
 /i18n/ar.toml @TarekMSayed @same7ammar @AShabana @arezk84
 
 # Approvers for Bengali contents
-/content/bn/ @Arindam200 @Imtiaz1234 @mitul3737 @sajibAdhi
-/i18n/bn.toml @Arindam200 @Imtiaz1234 @mitul3737 @sajibAdhi
+/content/bn/ @Arindam200 @asem-hamid @Imtiaz1234 @mitul3737 @sajibAdhi
+/i18n/bn.toml @Arindam200 @asem-hamid @Imtiaz1234 @mitul3737 @sajibAdhi
 
 # Approvers for German contents
 /content/de/ @iamNoah1 @DaveVentura @CathPag @bcubk
@@ -35,16 +35,16 @@
 /i18n/es.toml @raelga @ramrodo @electrocucaracha @krol3 @92nqb
 
 # Approvers for French contents
-/content/fr/ @huats @fydrah @Krast76 @sestegra @guillaumebernard84
-/i18n/fr.toml @huats @fydrah @Krast76 @sestegra @guillaumebernard84
+/content/fr/ @huats @Krast76 @sestegra @guillaumebernard84 @seb-835
+/i18n/fr.toml @huats @Krast76 @sestegra @guillaumebernard84 @seb-835
 
 # Approvers for Hindi contents
-/content/hi/ @Garima-Negi @jayesh-srivastava @abhay-raj19 @aj11anuj @kumarankit999 @bishal7679
-/i18n/hi.toml @Garima-Negi @jayesh-srivastava @abhay-raj19 @aj11anuj @kumarankit999 @bishal7679
+/content/hi/ @Garima-Negi @jayesh-srivastava @abhay-raj19 @bishal7679
+/i18n/hi.toml @Garima-Negi @jayesh-srivastava @abhay-raj19 @bishal7679
 
 # Approvers for Italian contents
-/content/it/ @fsbaraglia @ugho16 @annalisag-spark @sistella
-/i18n/it.toml @fsbaraglia @ugho16 @annalisag-spark @sistella
+/content/it/ @fsbaraglia @ugho16 @matteobisi @SaraTrap @sistella
+/i18n/it.toml @fsbaraglia @ugho16 @matteobisi @SaraTrap @sistella
 
 # Approvers for Japanese contents
 /content/ja/ @inductor @naonishijima @kaitoii11 @yuichi-nakamura @Okabe-Junya
@@ -55,8 +55,8 @@
 /i18n/ko.toml @seokho-son @jihoon-seo @yunkon-kim
 
 # Approvers for Portuguese contents
-/content/pt-br/ @edsoncelio @brunoguidone @jessicalins @MrErlison
-/i18n/pt-br.toml @edsoncelio @brunoguidone @jessicalins @MrErlison
+/content/pt-br/  @brunoguidone @jessicalins
+/i18n/pt-br.toml @brunoguidone @jessicalins
 
 # Approvers for Russian contents
 /content/ru/ @shurup @kirkonru @tym83
@@ -70,10 +70,14 @@
 /content/ur/ @Saim-Safdar @waleed318
 /i18n/ur.toml @Saim-Safdar @waleed318
 
+# Approvers for Vietnamese contents
+/content/vi/ @ntheanh201 @thuanpham582002 @thaomike
+/i18n/vi.toml @ntheanh201 @thuanpham582002 @thaomike
+
 # Approvers for Simplified Chinese contents
 /content/zh-cn/ @hanyuancheung @Jacob953 @Rocksnake @Submarinee
 /i18n/zh-cn.toml @hanyuancheung @Jacob953 @Rocksnake @Submarinee
 
 # Approvers for Traditional Chinese contents
-/content/zh-tw/ @pichuang @ydFu @hwchiu @johnlinp
-/i18n/zh-tw.toml @pichuang @ydFu @hwchiu @johnlinp
+/content/zh-tw/ @tico88612 @ydFu @hwchiu @johnlinp
+/i18n/zh-tw.toml @tico88612 @ydFu @hwchiu @johnlinp

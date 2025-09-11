@@ -5,8 +5,6 @@ category: conceito
 tags: ["aplicação", "metodologia", ""]
 ---
 
-## O que é
-
 Implantação contínua (continuous deployment - CD), vai um passo além da entrega contínua ao implantar o software finalizado diretamente na produção. A implantação contínua anda de mãos dadas com a [entrega contínua](/pt-br/continuous-delivery/) e é frequentemente referida como _CI/CD_. O processo de CI testa se as alterações feitas em um determinado aplicativo são válidas, e o processo de CD implanta automaticamente as mudanças de código através dos ambientes de uma organização, desde teste até a produção.
 
 ## Problema relacionado

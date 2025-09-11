@@ -44,7 +44,7 @@ collaborators:
   - username: nate-double-u
     permission: admin
 
-  - username: castrojo
+  - username: hlipsig
     permission: push
 
   # Localization approvers
@@ -57,16 +57,10 @@ collaborators:
     permission: push
 
   # l10n pt approvers
-  - username: edsoncelio
-    permission: push
-
   - username: brunoguidone
     permission: push
 
   - username: jessicalins
-    permission: push
-
-  - username: MrErlison
     permission: push
 
   # l10n hi approvers
@@ -77,9 +71,6 @@ collaborators:
     permission: push
 
   - username: abhay-raj19
-    permission: push
-
-  - username: aj11anuj
     permission: push
 
   - username: kumarankit999
@@ -103,7 +94,10 @@ collaborators:
   - username: ugho16
     permission: push
 
-  - username: annalisag-spark
+  - username: matteobisi
+    permission: push
+
+  - username: SaraTrap
     permission: push
 
   - username: sistella
@@ -124,6 +118,9 @@ collaborators:
 
   # l10n bn approvers
   - username: Arindam200
+    permission: push
+    
+  - username: asem-hamid
     permission: push
 
   - username: Imtiaz1234
@@ -168,9 +165,6 @@ collaborators:
   - username: huats
     permission: push
 
-  - username: fydrah
-    permission: push
-
   - username: Krast76
     permission: push
 
@@ -178,6 +172,9 @@ collaborators:
     permission: push
 
   - username: guillaumebernard84
+    permission: push
+
+  - username: seb-835
     permission: push
 
   # l10n ur approvers
@@ -293,10 +290,8 @@ branches:
         apps: []
         # pt approvers
         users:
-         - edsoncelio
          - brunoguidone
          - jessicalins
-         - MrErlison
         teams: []
       enforce_admins: null
       required_linear_history: null
@@ -315,7 +310,6 @@ branches:
          - Garima-Negi
          - jayesh-srivastava
          - abhay-raj19
-         - aj11anuj
          - kumarankit999
          - bishal7679
         teams: []
@@ -390,6 +384,7 @@ branches:
         # bn approvers
         users:
          - Arindam200
+         - asem-hamid
          - Imtiaz1234
          - mitul3737
          - sajibAdhi
@@ -448,10 +443,10 @@ branches:
         # fr approvers
         users:
          - huats
-         - fydrah
          - Krast76
          - sestegra
          - guillaumebernard84
+         - seb-835
         teams: []
       enforce_admins: null
       required_linear_history: null

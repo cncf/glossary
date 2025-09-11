@@ -11,7 +11,7 @@ DevOps calls for groups of engineers that work on small components (versus an en
 
 ## Problem it addresses
 
-Traditionally, in complex organizations with [tightly-coupled](/tightly-coupled-architectures/) [monolithic apps](/monolithic-apps/), 
+Traditionally, in complex organizations with [tightly-coupled](/tightly-coupled-architecture/) [monolithic apps](/monolithic-apps/), 
 work was generally fragmented between multiple groups. 
 This led to numerous handoffs and long lead times. 
 Each time a component or update was ready, it was placed in a queue for the next team. 

@@ -4,8 +4,6 @@ status: Completed
 category: Konzept
 ---
 
-## Was es ist
-
 Agile Softwareentwicklung beschreibt ein Vorgehensmodell der Softwareentwicklung, 
 bei der die Arbeit in Iterationen und selbstorganisierte Teams im Vordergrund stehen. 
 Im Vergleich zu wasserfallartigen Projekten, bei denen die Ergebnisse erst am Ende eines Projekts entstehen, 

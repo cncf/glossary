@@ -17,7 +17,7 @@ La prise en charge de TLS par les applications serveurs et clientes garantit
 que les données transmises entre elles sont chiffrées et ne peuvent pas être consultées par des tiers.
 
 
-## Quel en est l'utilité
+## Quelle en est l'utilité
 
 TLS utilise une combinaison de techniques de chiffrement qui assurent la sécurité lors de la transmission de données sur un réseau. 
 TLS permet une connexion chiffrée entre une application cliente et un serveur, par exemple un navigateur web et un site bancaire. 

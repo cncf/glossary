@@ -11,7 +11,7 @@ instead of validating the identity of just one connection, both sides are valida
 
 ## Problem it addresses
 
-[Microservices](/microservices/) communicate over a network and, 
+[Microservices](/microservices-architecture/) communicate over a network and, 
 just like your wifi network, communication in transit over that network can be hacked. 
 mTLS ensures that no unauthorized party can listen in on or impersonate legitimate requests.
 

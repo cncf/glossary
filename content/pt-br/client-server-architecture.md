@@ -5,8 +5,6 @@ category: conceito
 tags: ["arquitetura", "fundamento", ""]
 ---
 
-## O que é
-
 Em uma arquitetura cliente-servidor (client-server), a lógica (ou código) que compõe uma aplicação é dividida entre dois ou mais componentes: O Cliente, que solicita uma função a ser executada (por exemplo, o site do Gmail sendo executado no seu navegador) e um ou mais servidores que atendam essa requisição (por exemplo, o serviço "enviar-email" executado nos computadores do Google na nuvem). Neste exemplo, os e-mails que você escreve são enviandos pelo cliente (aplicação web sendo executada no seu navegador) para o servidor (computadores do Gmail, que encaminham seus e-mails para os destinatários).
 Isso contrasta com aplicativos independentes (como aplicativos de desktop) que fazem todo o trabalho em um só lugar. Por exemplo, um programa de processamento de texto como o Microsoft Word pode ser instalado e executado inteiramente em seu computador.
 
