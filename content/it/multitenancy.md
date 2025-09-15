@@ -2,9 +2,9 @@
 title: Multitenancy
 status: Completed
 category: Proprietà
+tags: ["architettura", "Proprietà", ""]
 ---
 
-## Cos'è
 
 Multitenancy (o multi-tenancy) si riferisce a una singola installazione software che serve più _tenant_. Un tenant può essere un utente, un'applicazione o un gruppo di utenti/applicazioni che utilizzano il software per operare sul proprio set di dati. Questi tenant non condividono dati (a meno che non siano espressamente istruiti in tal modo dal proprietario) e possono non essere a conoscenza l'uno dell'altro.  
 
