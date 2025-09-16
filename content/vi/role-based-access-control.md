@@ -18,7 +18,6 @@ cũng như các hành động họ được thực hiện, đặc biệt khi s�
 Quản trị viên cần đảm bảo rằng mọi người dùng có đúng quyền hạn đối với những tài nguyên mà họ cần.
 Nếu thiếu một cơ chế kiểm soát truy cập có cấu trúc, công việc này sẽ trở nên rườm rà và dễ sai sót.
 
-
 ## Lợi ích mang lại
 
 RBAC cung cấp cho đội ngũ CNTT khả năng quản lý quyền truy cập cho toàn bộ người dùng trong nhóm, hoặc nhanh chóng 
