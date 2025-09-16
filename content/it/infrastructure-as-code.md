@@ -2,15 +2,15 @@
 title: Infrastructure as Code
 status: Completed
 category: Concetto
+tags: ["infrastruttura", "metodologia", ""]
 ---
 
-## Cos'è
 
 Con _infrastructure as code_ (IaC - Infrastruttura come Codice) si intende il processo di gestione e provisioning dell’infrastruttura attraverso file di definizione leggibili da una macchina: tratta la configurazione dell’infrastruttura alla stregua di software di programmazione. Questo sostituisce il modello tradizionale in cui l'infrastruttura come servizio viene creata manualmente, in genere tramite script di shell o altri strumenti di configurazione.
 
 ## Quali problematiche affronta
 
-La creazione di applicazioni native sul cloud richiede che l'infrastruttura sia a perdere e riproducibile. Deve essere inoltre scalabile su richiesta in modo automatizzato e ripetibile, potenzialmente senza intervento umano. Il provisioning manuale, infatti, non può soddisfare i requisiti di reattività e scalabilità delle applicazioni cloud native. Le modifiche manuali all'infrastruttura non sono riproducibili, si scontrano presto con i limiti in termini di scalabilità e introducono il rischio di errori di configurazione. 
+La creazione di applicazioni native sul cloud richiede che l'infrastruttura sia a perdere e riproducibile. Deve essere inoltre [scalabile](/it/scalability/) su richiesta in modo automatizzato e ripetibile, potenzialmente senza intervento umano. Il provisioning manuale, infatti, non può soddisfare i requisiti di reattività e scalabilità delle [applicazioni cloud native](/it/cloud_native_apps/). Le modifiche manuali all'infrastruttura non sono riproducibili, si scontrano presto con i limiti in termini di scalabilità e introducono il rischio di errori di configurazione. 
 
 ## In che modo aiuta
 
