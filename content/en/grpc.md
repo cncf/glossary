@@ -5,7 +5,7 @@ category: concept
 tags: [methodology, network]
 ---
 
-gRPC is a modern, open-source, high-performance Remote Procedure Call (RPC) framework that can run in any environment. 
+[gRPC](https://grpc.io/) is a modern, open-source, high-performance Remote Procedure Call (RPC) framework that can run in any environment. 
 It uses HTTP/2 for transport, Protocol Buffers (protobuf) for interface definition and serialization, and provides features such as bi-directional streaming, flow control, header compression, and multiplexing.
 
 ## Problem it solves?
