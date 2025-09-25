@@ -2,7 +2,7 @@
 title: gRPC
 status: Completed
 category: concept
-tags: ["methodology", "network", ""]
+tags: [methodology, network]
 ---
 
 gRPC is a modern, open-source, high-performance Remote Procedure Call (RPC) framework that can run in any environment. 
