@@ -5,8 +5,6 @@ category: concept
 tags: ["yöntem", "uygulama", ""]
 ---
 
-## Nedir
-
 Canary deployment, biri canlı trafiğe sahip orijinal kodu diğeri ise canlı trafik olmadan güncellenmiş kodu içeren iki ortamla başlayan bir dağıtım stratejisidir. 
 Trafik, uygulamanın orijinal sürümünden güncellenmiş sürümüne kademeli olarak taşınır. 
 Canlı trafiğin %1’ini taşıyarak başlanabilir, sonrasında %10, %25 gibi kademeli artışlarla tüm trafik güncellenmiş sürümde çalışana kadar böyle devam edilebilir. 

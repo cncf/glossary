@@ -5,8 +5,6 @@ category: technology
 tags: ["altyapı", "temel kavram", ""]
 ---
 
-## Nedir
-
 Kubernetes, genellikle K8s olarak kısaltılan, açık kaynaklı bir konteyner orkestratörüdür.
 Modern altyapılarda konteynerleştirilmiş uygulamaların yaşam döngüsünü otomatikleştirir ve bir "veri merkezi işletim sistemi" olarak işlev görerek uygulamaları [dağıtık bir sistem](/tr/distributed-systems/) üzerinde yönetir.
 

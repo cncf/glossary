@@ -5,8 +5,6 @@ category: Teknoloji
 tags: ["uygulama", "", ""]
 ---
 
-## Nedir
-
 Konteynerleştirme, bir uygulamayı ve bağımlılıklarını bir konteyner imajına paketleme sürecidir.
 Konteyner oluşturma süreci, [Open Container Initiative](https://opencontainers.org/) (OCI) standardına uygun olmayı gerektirir.
 Bu standarta uygun bir konteyner imajı üretiliyorsa, hangi konteynerleştirme aracının kullanıldığı önemli değildir.

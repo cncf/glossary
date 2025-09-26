@@ -5,8 +5,6 @@ category: Kavram
 tags: ["temel kavram", "", ""]
 ---
 
-## Nedir
-
 Cloud native yığını olarak da adlandırılan cloud native teknolojileri, [cloud native uygulamaları](/tr/cloud-native-apps/) oluşturmak için kullanılan teknolojilerdir.
 Bu teknolojiler kuruluşlar için genel, özel ve hibrit bulut ortamları gibi modern ve dinamik ortamlarda ölçeklenebilir uygulamalar oluşturmaya ve çalıştırmaya olanak tanırken [bulut bilişimin](/tr/cloud-computing/) yararlarını en üst düzeye çıkarırlar.
 Bulut bilişimin yeteneklerinden yararlanmak için sıfırdan tasarlanmışlardır ve konteynerler, servis ağları, mikro servisler ve sabit altyapı bu yaklaşımın örnekleridir.

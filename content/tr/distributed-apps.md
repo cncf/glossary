@@ -5,8 +5,6 @@ category: concept
 tags: ["mimari", "", ""]
 ---
 
-## Nedir
-
 Dağıtık uygulama, işlevselliğin birden fazla küçük, bağımsız parçaya bölündüğü bir uygulamadır. 
 Dağıtık uygulamalar genellikle daha büyük bir uygulama içinde farklı sorunları ele alan tekil mikro servislerden oluşur. Cloud native ortamında, tekil bileşenler genellikle bir küme üzerinde konteyner olarak çalışır.
 

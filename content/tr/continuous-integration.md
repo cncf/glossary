@@ -5,8 +5,6 @@ category: concept
 tags: ["uygulama", "yöntem", ""]
 ---
 
-## Nedir
-
 Genellikle CI olarak kısaltılan sürekli entegrasyon (continuous integration), kod değişikliklerini mümkün olduğunca düzenli olarak entegre etme uygulamasıdır. 
 CI, [sürekli teslimat (continuous delivery - CD)](/tr/continuous-delivery/) için ilk adımdır. 
 CI süreci, kod değişikliklerinin bir kaynak kontrol sistemine (Git, Mercurial veya Subversion) gönderilmesiyle başlar ve test edilmiş bir yapının CD sistemi tarafından kullanılmaya hazır hale gelmesiyle sona erer.
