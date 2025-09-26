@@ -1,0 +1,96 @@
+# UI strings. Buttons and similar.
+
+[ui_pager_prev]
+other = "قبلی"
+
+[ui_pager_next]
+other = "بعدی"
+
+[ui_read_more]
+other = "مطالعه بیشتر"
+
+[ui_search]
+other = "جست‌وجو در واژه‌نامه …"
+
+# Used in sentences such as "Posted in News"
+[ui_in]
+other = "در"
+
+# Phrases for tags
+[ui_see_all_tags]
+other = "مشاهده همه تگ‌ها"
+[ui_tag]
+other = "تگ"
+[ui_tags]
+other = "تگ‌ها"
+[ui_search_by_tags]
+other = "مرور بر اساس تگ‌ها"
+[ui_tags_intro]
+other = "اصطلاحات واژه‌نامه را دسته‌بندی کرده‌ایم. با استفاده از فیلترها اصطلاحات را بر اساس Tag مرور کنید."
+[ui_or_search_by_tags]
+other = "یا بر اساس تگ مرور کنید"
+[ui_select_all]
+other = "انتخاب همه"
+[ui_deselect_all]
+other = "لغو انتخاب همه"
+
+# Footer text
+[footer_all_rights_reserved]
+other = "کلیه حقوق محفوظ است"
+
+[footer_privacy_policy]
+other = "سیاست حریم خصوصی"
+
+[footer_hub_button_text]
+other = "همه سایت‌های CNCF"
+
+# Post (blog, articles etc.)
+[post_byline_by]
+other = "توسط"
+[post_created]
+other = "ایجاد شده"
+[post_last_mod]
+other = "آخرین ویرایش"
+[post_edit_this]
+other = "ویرایش این صفحه"
+[post_create_child_page]
+other = "ایجاد Child page"
+[post_create_issue]
+other = "گزارش Issue"
+[post_create_project_issue]
+other = "ایجاد Issue پروژه"
+[post_posts_in]
+other = "نوشته‌ها در"
+[post_reading_time]
+other = "دقیقه مطالعه"
+
+# Print support
+[print_printable_section]
+other = "این نمای چاپی چندصفحه‌ای این بخش است."
+[print_click_to_print]
+other = "برای چاپ اینجا کلیک کنید"
+[print_show_regular]
+other = "بازگشت به نمای عادی این صفحه"
+[print_entire_section]
+other = "چاپ کل بخش"
+
+# Feedback section
+[feedback_title]
+other = "بازخورد شما"
+[feedback_question]
+other = "آیا این متن مفید بود؟"
+[feedback_answer_yes]
+other = "بله"
+[feedback_answer_no]
+other = "خیر"
+
+# Sign language section
+[sign_language_header]
+other = "به زبان اشاره"
+[sign_language_info]
+other = """
+**توجه**:
+با اینکه هر کشور زبان اشاره خودش را دارد،
+ما یعنی [Deaf/Hoh Working Group](https://contribute.cncf.io/accessibility/deaf-and-hard-of-hearing/)،
+هدفمان استانداردسازی Signها برای اصطلاحات جدید cloud-native جهت استفاده جهانی است.
+"""
