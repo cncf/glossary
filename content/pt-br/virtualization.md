@@ -5,8 +5,6 @@ category: tecnologia
 tags: ["fundamento", "infraestrutura", "metodologia"]
 ---
 
-## O que é
-
 A virtualização, no contexto da computação nativa da nuvem, refere-se ao processo de pegar um computador físico, às vezes chamado de servidor, e permitir que ele execute vários sistemas operacionais isolados. Esses sistemas operacionais isolados e seus recursos de computação dedicados (CPU, memória e rede) são chamados de máquinas virtuais ou VMs (do inglês "Virtual Machine"). Quando falamos de uma máquina virtual, estamos falando de um computador definido por software. Algo que parece e age como um computador real, mas está compartilhando hardware com outras máquinas virtuais. Por exemplo, você pode alugar um "computador" da AWS - esse computador na verdade é uma VM.
 
 ## Problema relacionado

@@ -1,5 +1,5 @@
 ---
-title: Applications Monolithiques
+title: Applications monolithiques
 status: Completed
 category: concept
 tags: ["architecture", "fondamental", ""]

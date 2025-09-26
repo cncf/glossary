@@ -2,10 +2,8 @@
 title: Canary Deployment
 status: Completed
 category: Concepto
-tags: ["methodology", "application", ""]
+tags: ["metodología", "aplicación", ""]
 ---
-
-## ¿Qué es?
 
 Canary deployment es una estrategia de despliegue que comienza con dos entornos:
 uno con tráfico y otro que contiene el código actualizado sin tráfico.
