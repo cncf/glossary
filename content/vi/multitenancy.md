@@ -27,7 +27,7 @@ Các phần mềm multitenant cung cấp cho mỗi tenant một môi trường r
 phục vụ đồng thời nhiều tenants cùng lúc. Ở góc nhìn của tenant, mỗi tenant giống như đang có một bản cài đặt phần mềm riêng,
 trong khi thực tế tất cả đều đang dùng chung cùng một phần mềm. Điều này là nhờ phần mềm được chạy trên các máy chủ và cho phép
 các tenants kết nối đến nó qua mạng thông qua một giao diện và/hoặc [API](/application-programming-interface/) 
-(xem thêm [Kiến trúc máy khách-máy chủ](/client-server-architecture/)).
+(xem thêm [Kiến trúc máy khách-máy chủ](/vi/client-server-architecture/)).
 Với các phần mềm multitenant, các tenants chia sẻ chung tài nguyên cho một bản cài đặt duy nhất mà không ảnh hưởng đến nhau 
 hoặc chỉ tương tác trong phạm vi được định nghĩa sẵn và có kiểm soát.
 Việc tiết kiệm tài nguyên ở phía nhà cung cấp phần mềm giúp giảm chi phí phần mềm cho người dùng 
