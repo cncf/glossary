@@ -144,7 +144,7 @@ jobs:
         echo "The end of report" >> report.md
         
     - name: Create an issue from the report
-      uses: peter-evans/create-issue-from-file@v5
+      uses: peter-evans/create-issue-from-file@v6
       with:
         title: "[${{ env.L10N_CODE }}] A report to track and reflect updates of English content"
         content-filepath: report.md
