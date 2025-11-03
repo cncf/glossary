@@ -43,8 +43,8 @@
 /i18n/hi.toml @Garima-Negi @jayesh-srivastava @abhay-raj19 @bishal7679
 
 # Approvers for Italian contents
-/content/it/ @fsbaraglia @ugho16 @matteobisi @SaraTrap @sistella
-/i18n/it.toml @fsbaraglia @ugho16 @matteobisi @SaraTrap @sistella
+/content/it/ @fsbaraglia @ugho16 @SaraTrap @sistella
+/i18n/it.toml @fsbaraglia @ugho16 @SaraTrap @sistella
 
 # Approvers for Japanese contents
 /content/ja/ @inductor @naonishijima @kaitoii11 @yuichi-nakamura @Okabe-Junya
