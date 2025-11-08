@@ -19,7 +19,7 @@ Glossary 提供了一個所有參與者使用且供應商保持中立的平台�
 歡迎所有遵守本專案宗旨和章程的參與者做出貢獻。
 
 任何希望貢獻的人都可以提交 GitHub 議題或創建拉取請求。
-請確保您遵循[風格指南](/zh-tw/style-guide/)，閱讀[如何參與貢獻](/zh-tw/contribute/)文件，加入 [CNCF Slack](https://communityinviter.com/apps/cloud-native/cncf)工作區，並加入 [#glossary](https://cloud-native.slack.com/archives/C02TX20MQBB)頻道。
+請確保您遵循[風格指南](/content/zh-tw/style-guide/)，閱讀[如何參與貢獻](/zh-tw/contribute/)文件，加入 [CNCF Slack](https://communityinviter.com/apps/cloud-native/cncf)工作區，並加入 [#glossary](https://cloud-native.slack.com/archives/C02TX20MQBB)頻道。
 
 也有一個 [#glossary-localizations](https://cloud-native.slack.com/archives/C02N2RGFXDF)頻道，提供想將 Glossary 翻譯為其本地化語言的人們使用。
 
