@@ -22,6 +22,6 @@ Protocol Buffers provide compact and efficient binary serialization, which reduc
 
 For **microservices**, gRPC simplifies service-to-service communication and scales well in polyglot environments. 
 Its **bi-directional streaming** makes it suitable not just for request/response patterns but also for real-time event-driven use cases such as log aggregation, IoT telemetry, or live data pipelines. 
-While it is not a replacement for [event streaming](./event-streaming.md) platforms like Kafka, gRPC often complements them by providing fast, low-latency RPC communication at the service layer.  
+While it is not a replacement for [event streaming](/event-streaming/) platforms like Kafka, gRPC often complements them by providing fast, low-latency RPC communication at the service layer.  
 
 Built-in primitives such as deadlines, metadata, and interceptors support robust, production-grade communication across heterogeneous environments.
