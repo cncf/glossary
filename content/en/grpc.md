@@ -12,7 +12,7 @@ It uses HTTP/2 for transport, Protocol Buffers (protobuf) for interface definiti
 
 gRPC addresses common [distributed-systems](/distributed-systems/) challenges such as inefficient text-based payloads, inconsistent service contracts across languages, limited streaming support, and high-latency multiplexing over HTTP/1.1. 
 It also reduces boilerplate by generating code from a single source of truth.
-In modern [microservices architectures](./microservices-architecture.md), these issues become critical as services frequently communicate with each other. 
+In modern [microservices architectures](/microservices-architecture/), these issues become critical as services frequently communicate with each other. 
 gRPC offers a consistent, high-performance way for services written in different languages to interoperate, without relying on verbose REST/JSON payloads or inconsistent APIs.
 
 
