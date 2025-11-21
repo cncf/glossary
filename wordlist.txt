@@ -20,6 +20,7 @@ bracex
 brømsø
 bursty
 bvs
+bytecode
 caas
 capex
 caret
@@ -38,6 +39,7 @@ cks
 cncf
 cncf's
 codebase
+codebases
 codefences
 config
 cpu
@@ -92,7 +94,9 @@ gmail
 gmail's
 hackable
 handoffs
+HAProxy
 highlight
+hostname
 html
 http
 https
@@ -111,6 +115,8 @@ jihoon
 jonasbn
 jones
 josé
+js
+junya
 katelin
 keda
 keys
@@ -137,8 +143,10 @@ multitenant
 namespace
 namespaces
 navbar
+Nginx
 observability
 oci
+okabe
 oliveira
 opencontainers
 orchestrator
@@ -149,6 +157,7 @@ paas
 pathconverter
 pavel
 pavelskipenes
+performant
 pre
 prem
 programmatically
@@ -180,6 +189,7 @@ seo
 seokho
 serverless
 sexualized
+sidecarless
 signup
 signups
 skipenes
@@ -199,6 +209,7 @@ tilde
 tls
 tmp
 toolchain
+Traefik
 transcodes
 txt
 ubuntu
@@ -214,7 +225,9 @@ virtualizing
 vm
 vms
 volkman
+wasm
 wcmatch
+webassembly
 wifi
 wordlist
 wordlists
@@ -225,8 +238,15 @@ DBaaS
 DBA
 Ispas
 Jihoon
+Junya
+Okabe
 Seo
 TCP
 TCP/IP
 UDP
 HTTP/3
+CLI
+CLIs
+SDK
+SDKs
+CRDs

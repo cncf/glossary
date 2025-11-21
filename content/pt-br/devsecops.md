@@ -2,10 +2,8 @@
 title: DevSecOps 
 status: Completed
 category: conceito
-tags: ["metodologia", "", ""]
+tags: ["metodologia", "segurança", ""]
 ---
-
-## O que é
 
 O termo DevSecOps refere-se a uma fusão cultural das responsabilidades de desenvolvimento, operação e de segurança. 
 Ele estende a abordagem [DevOps](/pt-br/devops/) para incluir prioridades de segurança com interrupção mínima ou nenhuma no fluxo de trabalho operacional e do desenvolvedor. 

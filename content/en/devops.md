@@ -5,15 +5,13 @@ category: concept
 tags: ["methodology", "", ""]
 ---
 
-## What it is
-
 DevOps is a methodology in which teams own the entire process from application development to production operations, hence DevOps. 
 It goes beyond implementing a set of technologies and requires a complete shift in culture and processes. 
 DevOps calls for groups of engineers that work on small components (versus an entire feature), decreasing handoffs – a common source of errors. 
 
 ## Problem it addresses
 
-Traditionally, in complex organizations with [tightly-coupled](/tightly-coupled-architectures/) [monolithic apps](/monolithic-apps/), 
+Traditionally, in complex organizations with [tightly-coupled](/tightly-coupled-architecture/) [monolithic apps](/monolithic-apps/), 
 work was generally fragmented between multiple groups. 
 This led to numerous handoffs and long lead times. 
 Each time a component or update was ready, it was placed in a queue for the next team. 

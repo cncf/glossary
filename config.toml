@@ -33,28 +33,28 @@ blog = "/:section/:year/:month/:day/:slug/"
 
 ## Configuration for BlackFriday markdown parser: https://github.com/russross/blackfriday
 [blackfriday]
-plainIDAnchors = true
-hrefTargetBlank = true
 angledQuotes = false
+hrefTargetBlank = true
 latexDashes = true
+plainIDAnchors = true
 
 # Image processing configuration.
 [imaging]
-resampleFilter = "CatmullRom"
-quality = 75
 anchor = "smart"
+quality = 75
+resampleFilter = "CatmullRom"
 
 [services]
 [services.googleAnalytics]
 # Comment out the next line to disable GA tracking. Also disables the feature described in [params.ui.feedback].
-id = "UA-140890431-2"
+# id = "UA-140890431-2"
 
 # Language configuration
 
 [languages]
 [languages.en]
+languageName = "English"
 title = "Cloud Native Glossary"
-languageName ="English"
 # Weight used for sorting.
 weight = 1
 [languages.en.params]
@@ -68,88 +68,135 @@ description = "The CNCF Cloud Native Glossary Project is intended to be used as 
 #time_format_default = "02.01.2006"
 #time_format_blog = "02.01.2006"
 
-[languages.hi]
-title = "क्लाउड नेटिव शब्दावली"
-languageName ="हिन्दी (Hindi)"
-contentDir = "content/hi"
-weight = 2
-[languages.hi.params]
-description = "CNCF क्लाउड नेटिव शब्दावली परियोजना का उद्देश्य क्लाउड नेटिव एप्लिकेशन के बारे में बात करते समय प्रयोग किए जाने वाले सामान्य शब्दों के संदर्भ के रूप में उपयोग किया जाना है।"
-
-[languages.pt-br]
-title = "Glossário Cloud Native"
-languageName = "Português"
-contentDir =  "content/pt-br"
-weight = 3
-[languages.pt-br.params]
-description = "O Projeto CNCF Glossário Cloud Native se destina a ser usado como uma referência para termos comuns usados ao falar sobre aplicações nativas de nuvem."
-
-[languages.it]
-title = "Glossario Cloud Native"
-languageName = "Italiano"
-contentDir = "content/it"
-weight = 4
-[languages.it.params]
-description = "Il progetto del Glossario CNCF Cloud Native è pensato per essere un riferimento per i termini comuni, usati nell'ambito delle applicazioni cloud native."
-
-[languages.ko]
-title = "클라우드 네이티브(Cloud Native) 용어집"
-languageName ="한국어 (Korean)"
-contentDir = "content/ko"
-weight = 5
-[languages.ko.params]
-description = "CNCF 클라우드 네이티브 용어집 프로젝트는 클라우드 네이티브 애플리케이션을 주제로 대화를 나눌 때 참조할 수 있는 공통의 용어 제공을 목표로 한다."
-
-[languages.es]
-title = "Cloud Native Glosario"
-languageName ="Español (Spanish)"
-contentDir = "content/es"
-weight = 6
-[languages.es.params]
-description = "El proyecto de CNCF Cloud Native Glosario pretende ser usado como una referencia para los terminos comunes usados cuando se habla acerca de las aplicaciones nativas para la nube."
-
-[languages.zh-cn]
-title = "Cloud Native(云原生) Glossary"
-languageName ="简体中文 (Simplified Chinese)"
-contentDir = "content/zh-cn"
-weight = 7
-[languages.zh-cn.params]
-description = "CNCF 云原生 Glossary 项目旨在用作讨论云原生应用程序时常用术语的参考"
-
 [languages.bn]
-title = "ক্লাউড নেটিভ শব্দকোষ"
-languageName = "বাংলা (Bengali)"
 contentDir = "content/bn"
-weight = 8
+languageName = "বাংলা (Bengali)"
+title = "ক্লাউড নেটিভ শব্দকোষ"
+weight = 2
 [languages.bn.params]
 description = "CNCF ক্লাউড নেটিভ শব্দকোষ প্রকল্পটি ক্লাউড নেটিভ অ্যাপ্লিকেশন সম্পর্কে কথা বলার সময় ব্যবহৃত সাধারণ পদগুলির জন্য একটি রেফারেন্স হিসাবে ব্যবহার করার উদ্দেশ্যে।"
 
+[languages.fr]
+contentDir = "content/fr"
+languageName = "Français (French)"
+title = "Glossaire Cloud Native"
+weight = 3
+[languages.fr.params]
+description = "Le projet de Glossaire CNCF Cloud Native a pour objectif de référencer les termes courants utilisés dans les différentes applications Cloud Natives."
+
 [languages.de]
-title = "Cloud Native Glossar"
-languageName ="Deutsch"
 contentDir = "content/de"
-weight = 9
+languageName = "Deutsch (German)"
+title = "Cloud Native Glossar"
+weight = 4
 [languages.de.params]
 description = "Das CNCF Cloud Native Glossar soll als Referenz für gängige Begriffe dienen, die im Zusammenhang mit Cloud Native Anwendungen verwendet werden."
 
-[languages.ur]
-title = "کلاؤڈ کی مقامی لغت"
-languageName ="اردو (Urdu)"
-contentDir = "content/ur"
+[languages.hi]
+contentDir = "content/hi"
+languageName = "हिन्दी (Hindi)"
+title = "क्लाउड नेटिव शब्दावली"
+weight = 5
+[languages.hi.params]
+description = "CNCF क्लाउड नेटिव शब्दावली परियोजना का उद्देश्य क्लाउड नेटिव एप्लिकेशन के बारे में बात करते समय प्रयोग किए जाने वाले सामान्य शब्दों के संदर्भ के रूप में उपयोग किया जाना है।"
+
+[languages.it]
+contentDir = "content/it"
+languageName = "Italiano (Italian)"
+title = "Glossario Cloud Native"
+weight = 6
+[languages.it.params]
+description = "Il progetto del Glossario CNCF Cloud Native è pensato per essere un riferimento per i termini comuni, usati nell'ambito delle applicazioni cloud native."
+
+[languages.ja]
+contentDir = "content/ja"
+languageName = "日本語 (Japanese)"
+title = "クラウドネイティブ用語集"
+weight = 7
+[languages.ja.params]
+description = "CNCF クラウドネイティブ用語集プロジェクトは、クラウドネイティブアプリケーションについて話すときに使われる一般的な用語のリファレンスとして使用することを目的としています。"
+
+[languages.ko]
+contentDir = "content/ko"
+languageName = "한국어 (Korean)"
+title = "클라우드 네이티브(Cloud Native) 용어집"
+weight = 8
+[languages.ko.params]
+description = "CNCF 클라우드 네이티브 용어집 프로젝트는 클라우드 네이티브 애플리케이션을 주제로 대화를 나눌 때 참조할 수 있는 공통의 용어 제공을 목표로 한다."
+
+[languages.pt-br]
+contentDir = "content/pt-br"
+languageName = "Português (Portuguese)"
+title = "Glossário Cloud Native"
+weight = 9
+[languages.pt-br.params]
+description = "O Projeto CNCF Glossário Cloud Native se destina a ser usado como uma referência para termos comuns usados ao falar sobre aplicações nativas de nuvem."
+
+[languages.ru]
+contentDir = "content/ru"
+languageName = "Русский (Russian)"
+title = "Глоссарий Cloud Native"
 weight = 10
+[languages.ru.params]
+description = "Глоссарий Cloud Native — справочник по общим терминам, имеющим отношение к нативным облачным приложениям и технологиям. Разрабатывается фондом CNCF."
+
+[languages.zh-cn]
+contentDir = "content/zh-cn"
+languageName = "简体中文 (Simplified Chinese)"
+title = "Cloud Native(云原生) Glossary"
+weight = 11
+[languages.zh-cn.params]
+description = "CNCF 云原生 Glossary 项目旨在用作讨论云原生应用程序时常用术语的参考"
+
+[languages.es]
+contentDir = "content/es"
+languageName = "Español (Spanish)"
+title = "Cloud Native Glosario"
+weight = 12
+[languages.es.params]
+description = "El proyecto de CNCF Cloud Native Glosario pretende ser usado como una referencia para los terminos comunes usados cuando se habla acerca de las aplicaciones nativas para la nube."
+
+[languages.zh-tw]
+contentDir = "content/zh-tw"
+languageName = "繁體中文 (Traditional Chinese)"
+title = "Cloud Native(雲端原生) Glossary"
+weight = 13
+[languages.zh-tw.params]
+description = "CNCF 雲端原生 Glossary 專案旨在用作討論雲端原生應用程式時常用術語的參考"
+
+[languages.tr]
+title = "Cloud Native Sözlüğü"
+languageName ="Türkçe (Turkish)"
+contentDir = "content/tr"
+weight = 14
+[languages.tr.params]
+description = "CNCF Cloud Native Sözlüğü projesi, cloud native uygulamalardan bahsederken kullanılan yaygın terimler için bir referans olarak kullanılmak üzere tasarlanmıştır."
+
+[languages.ur]
+contentDir = "content/ur"
+languageName = "اردو (Urdu)"
+title = "کلاؤڈ کی مقامی لغت"
+weight = 15
 [languages.ur.params]
 description = "CNCF کلاؤڈ کی مقامی لغت کا مقصد کلاؤڈ مقامی ایپلی کیشنز کے بارے میں بات کرتے وقت استعمال ہونے والی عام اصطلاحات کے حوالے کے طور پر استعمال کرنا ہے۔"
 
+[languages.vi]
+languageName = "Tiếng Việt (Vietnamese)"
+title = "Từ Điển Thuật Ngữ Cloud Native"
+contentDir = "content/vi"
+weight = 16
+[languages.vi.params]
+description = "Dự án Từ Điển Thuật Ngữ Cloud Native CNCF được xây dựng nhằm mục đích làm tài liệu tham khảo cho các thuật ngữ phổ biến khi thảo luận về các ứng dụng cloud native."
 
 [markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
-  [markup.highlight]
-      # See a complete list of available styles at https://xyproto.github.io/splash/docs/all.html
-      style = "tango"
-      # Uncomment if you want your chosen highlight style used for code blocks without a specified language
-      # guessSyntax = "true"
+[markup.goldmark]
+[markup.goldmark.renderer]
+unsafe = true
+[markup.highlight]
+# See a complete list of available styles at https://xyproto.github.io/splash/docs/all.html
+style = "tango"
+# Uncomment if you want your chosen highlight style used for code blocks without a specified language
+# guessSyntax = "true"
 
 # Everything below this are Site Params
 
@@ -168,13 +215,13 @@ images = ["images/cncf-glossary-social.jpg"]
 # This menu appears only if you have at least one [params.versions] set.
 version_menu = "Releases"
 
-# Flag used in the "version-banner" partial to decide whether to display a 
+# Flag used in the "version-banner" partial to decide whether to display a
 # banner on every page indicating that this is an archived version of the docs.
 # Set this flag to "true" if you want to display the banner.
 archived_version = false
 
 # The version number for the version of the docs represented in this doc set.
-# Used in the "version-banner" partial to display a version number for the 
+# Used in the "version-banner" partial to display a version number for the
 # current doc set.
 version = "0.0"
 
@@ -192,10 +239,10 @@ github_repo = "https://github.com/cncf/glossary"
 
 # Uncomment this if you have a newer GitHub repo with "main" as the default branch,
 # or specify a new value if you want to reference another branch in your GitHub links
-github_branch= "main"
+github_branch = "main"
 
 # Google Custom Search Engine ID. Remove or comment out to disable search.
-gcs_engine_id = "eda0239a7d3fd0d90"
+# gcs_engine_id = "eda0239a7d3fd0d90"
 
 # Enable Algolia DocSearch
 algolia_docsearch = false
@@ -226,15 +273,15 @@ footer_about_disable = true
 [params.ui.feedback]
 enable = true
 # The responses that the user sees after clicking "yes" (the page was helpful) or "no" (the page was not helpful).
-yes = 'Thank you! Please <a href="https://github.com/cncf/glossary/issues/new">let us know if you have any suggestions</a>.'
 no = 'Thanks for your feedback. Please <a href="https://github.com/cncf/glossary/issues/new">tell us how we can improve</a>.'
+yes = 'Thank you! Please <a href="https://github.com/cncf/glossary/issues/new">let us know if you have any suggestions</a>.'
 
 # Adds a reading time to the top of each doc.
-# If you want this feature, but occasionally need to remove the Reading time from a single page, 
+# If you want this feature, but occasionally need to remove the Reading time from a single page,
 # add "hide_readingtime: true" to the page's front matter
 [params.ui.readingtime]
 enable = false
 
 [taxonomies]
-tag = "tags"
 category = "categories"
+tag = "tags"

@@ -2,10 +2,8 @@
 title: Debugging
 status: Completed
 category: conceito
-tags: ["aplicação", "", ""]
+tags: ["aplicação", "metodologia", ""]
 ---
-
-## O que é
 
 Debugging é o processo ou atividade de encontrar e resolver bugs (ou erros) de programas de computador, software ou sistemas para obter o resultado desejado. 
 Um bug é um defeito ou um problema que leva a resultados incorretos ou inesperados.

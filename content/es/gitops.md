@@ -2,10 +2,8 @@
 title: GitOps
 status: Feedback Appreciated
 category: Concepto
-tags: ["methodology", "", ""]
+tags: ["metodología", "", ""]
 ---
-
-## ¿Qué es?
 
 GitOps es un conjunto de buenas prácticas basadas en unos [principios comunes](https://opengitops.dev/),
 aplicados a un flujo de trabajo que depende de agentes de software que
