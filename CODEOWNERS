@@ -34,6 +34,10 @@
 /content/es/ @raelga @ramrodo @electrocucaracha @krol3 @92nqb
 /i18n/es.toml @raelga @ramrodo @electrocucaracha @krol3 @92nqb
 
+# Approvers for Persian contents
+/content/fa/ @xehrad @Parsabz
+/i18n/fa.toml @xehrad @Parsabz
+
 # Approvers for French contents
 /content/fr/ @huats @Krast76 @sestegra @guillaumebernard84 @seb-835
 /i18n/fr.toml @huats @Krast76 @sestegra @guillaumebernard84 @seb-835
