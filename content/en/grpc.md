@@ -32,7 +32,7 @@ It also addresses common [distributed-systems](/distributed-systems/) challenges
 | **Browser Support** | Limited* | Excellent | Good |
 | **Best For** | Service-to-service, real-time | General APIs, public APIs | Enterprise systems |
 
-*gRPC traditionally requires HTTP/2, which browser JavaScript doesn't fully support, though gRPC-web addresses this.
+gRPC traditionally requires HTTP/2, which browser JavaScript doesn't fully support, though gRPC-web addresses this.
 
 
 ## How it helps
