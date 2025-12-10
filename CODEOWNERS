@@ -6,12 +6,12 @@
 
 # These owners will be default owners for everything in this repository.
 # These owners consist of Maintainers
-* @caniszczyk @seokho-son @iamNoah1 @jihoon-seo @nate-double-u @Okabe-Junya
+* @caniszczyk @seokho-son @jihoon-seo @nate-double-u @Okabe-Junya
 
 
 # Approvers for English content
-/content/en/ @caniszczyk @seokho-son @iamNoah1 @jihoon-seo @nate-double-u @Okabe-Junya @hlipsig
-/i18n/en.toml @caniszczyk @seokho-son @iamNoah1 @jihoon-seo @nate-double-u @Okabe-Junya @hlipsig
+/content/en/ @caniszczyk @seokho-son @jihoon-seo @nate-double-u @Okabe-Junya @hlipsig
+/i18n/en.toml @caniszczyk @seokho-son @jihoon-seo @nate-double-u @Okabe-Junya @hlipsig
 
 
 # These are the owners (approvers) for localization contents
