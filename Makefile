@@ -35,12 +35,14 @@ serve:
 		--gc
 
 production-build:
-	npx hugo mod get
+	npx hugo mod clean
+	npx hugo mod tidy
 	npx hugo --minify
 	npx -y pagefind --site public
 
 preview-build:
-	npx hugo mod get
+	npx hugo mod clean
+	npx hugo mod tidy
 	npx hugo \
 		--baseURL $(DEPLOY_PRIME_URL) \
 		--buildDrafts \
