@@ -25,7 +25,7 @@ serve:
 		--disableFastRender \
 		--buildDrafts \
 		--buildFuture \
-		--ignoreCache
+		--ignoreCache \
 		--printI18nWarnings \
 		--printMemoryUsage \
 		--printPathWarnings \
@@ -35,12 +35,12 @@ serve:
 		--gc
 
 production-build:
-	npm run get:submodule
+	npx hugo mod get
 	npx hugo --minify
 	npx -y pagefind --site public
 
 preview-build:
-	git submodule update --init --recursive
+	npx hugo mod get
 	npx hugo \
 		--baseURL $(DEPLOY_PRIME_URL) \
 		--buildDrafts \
