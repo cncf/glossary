@@ -35,17 +35,16 @@ serve:
 		--gc
 
 production-build:
-	npx hugo mod clean
-	npx hugo mod tidy
+	npx hugo mod clean --all
+	npx hugo mod get github.com/google/docsy@v0.7.2 github.com/google/docsy/dependencies@v0.7.2
 	npx hugo --minify
 	npx -y pagefind --site public
 
 preview-build:
-	npx hugo mod clean
-	npx hugo mod tidy
-	npx hugo \
+	npx hugo mod clean --all
+	npx hugo mod get github.com/google/docsy@v0.7.2 github.com/google/docsy/dependencies@v0.7.2
+	npx hugo --minify \
 		--baseURL $(DEPLOY_PRIME_URL) \
 		--buildDrafts \
-		--buildFuture \
-		--minify
+		--buildFuture
 	npx -y pagefind --site public
