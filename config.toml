@@ -3,7 +3,6 @@ title = "Cloud Native Glossary"
 
 enableRobotsTXT = true
 
-# Hugo Modules configuration (replaces theme = ["docsy"])
 # See: https://www.docsy.dev/docs/get-started/docsy-as-module/
 
 # Will give values to .Lastmod etc.
