@@ -3,7 +3,6 @@ title = "Cloud Native Glossary"
 
 enableRobotsTXT = true
 
-# See: https://www.docsy.dev/docs/get-started/docsy-as-module/
 
 # Will give values to .Lastmod etc.
 enableGitInfo = true
