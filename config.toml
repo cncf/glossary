@@ -279,6 +279,7 @@ category = "categories"
 tag = "tags"
 
 # Hugo Modules configuration
+# See: https://www.docsy.dev/docs/get-started/docsy-as-module/
 # Must be placed after [languages] section
 [module]
   [module.hugoVersion]
