@@ -161,7 +161,7 @@ jobs:
         ls -al ${OUTPUT_DIR}
         
     - name: Upload output
-      uses: actions/upload-artifact@v5
+      uses: actions/upload-artifact@v6
       with:
         name: ${{ env.L10N_CODE }}-outdated-checking-result
         path: ${{ env.OUTPUT_DIR }}/
