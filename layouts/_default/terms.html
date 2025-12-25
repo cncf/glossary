@@ -33,7 +33,7 @@
                     <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
                     <div>
                         <p>
-                        {{ replace ( .Summary | markdownify ) "What it is" "" }}..
+                        {{ replace .Summary "What it is" "" | plainify | truncate 200 }}..
                         </p>
                     </div>
                 </div>
