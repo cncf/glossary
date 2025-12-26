@@ -32,9 +32,7 @@
                 <div class="{{ $.Scratch.Get "tag_classes" }} hide" data-show-count="0">
                     <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
                     <div>
-                        <p>
-                        {{ replace .Summary "What it is" "" | plainify | truncate 200 }}..
-                        </p>
+                        <p>{{ replace .Summary "What it is" "" | plainify | truncate 500 "..." }}</p>
                     </div>
                 </div>
             {{ end }}
