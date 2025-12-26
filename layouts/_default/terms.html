@@ -10,7 +10,7 @@
 
     <div class="canonical-tag-container">
         {{ range $tags }}
-            {{ $tagid := printf "tag-%s" ( replace .Page.Title " " "-" ) }}
+            {{ $tagid := printf "tag-%s" ( replace .Page.Title " " "-" | lower ) }}
             <button id="{{ $tagid  }}" class="canonical-tag" data-target="{{ $tagid  }}">{{ title .Page.Title }}</button>
         {{ end }}
         <span><button class="button-reset-to-text" id="select-all-tags">{{ T "ui_select_all" }}</button></span>
@@ -32,9 +32,7 @@
                 <div class="{{ $.Scratch.Get "tag_classes" }} hide" data-show-count="0">
                     <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
                     <div>
-                        <p>
-                        {{ replace ( .Summary | markdownify ) "What it is" "" }}..
-                        </p>
+                        <p>{{ replace .Summary "What it is" "" | plainify | truncate 500 "..." }}</p>
                     </div>
                 </div>
             {{ end }}
