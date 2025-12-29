@@ -7,27 +7,21 @@
     "_build": "npm run _hugo -- -e dev -DEF --baseURL \"${DEPLOY_PRIME_URL:-http://localhost}\"",
     "_check:links": "npm run __check:links",
     "_check:links:all": "HTMLTEST_ARGS='--log-level 1' npm run __check:links",
-    "_get:no": "echo SKIPPING get operation",
-    "_get:submodule": "set -x && git submodule update --init --recursive ${DEPTH:- --depth 1}",
     "_hugo": "hugo --cleanDestinationDir",
-    "_prebuild": "npm run get:submodule",
-    "_prepare:docsy": "echo 'Placeholder for when docsy is updated and we will do: cd themes/docsy && npm install'",
-    "build": "npm run _build",
+    "_prebuild": "hugo mod clean --all && hugo mod get github.com/google/docsy@v0.6.0 github.com/google/docsy/dependencies@v0.6.0",
+    "build": "npm run _prebuild && npm run _build",
     "check:links": "npm run _check:links",
-    "get:submodule": "npm run _get:${GET:-submodule}",
-    "postget:submodule": "git submodule",
-    "prebuild": "npm run _prebuild",
     "precheck:links": "npm run build",
-    "prepare": "npm run seq -- get:submodule _prepare:docsy",
+    "prepare": "hugo mod clean --all && hugo mod get github.com/google/docsy@v0.6.0 github.com/google/docsy/dependencies@v0.6.0",
     "seq": "bash -c 'for cmd in \"$@\"; do npm run $cmd || exit 1; done' - ",
     "serve": "netlify dev -c \"hugo serve --minify -DFE -w\"",
-    "serve:with-pagefind": "hugo --baseURL=/ --theme=docsy && npm_config_yes=true npx pagefind --site 'public' --output-subdir '../static/pagefind' && npm run serve",
+    "serve:with-pagefind": "hugo --baseURL=/ && npm_config_yes=true npx pagefind --site 'public' --output-subdir '../static/pagefind' && npm run serve",
     "test": "npm run check:links",
     "update:pkgs": "npx npm-check-updates -u"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.20",
-    "hugo-extended": "^0.122.0",
+    "hugo-extended": "^0.146.0",
     "postcss": "^8.5.3",
     "postcss-cli": "^11.0.0"
   },
@@ -39,6 +33,6 @@
   "engines": {
     "node": "22.x"
   },
-  "gitHubActionCacheKey": "2024-06-08 - change this key to force cache refresh",
-  "spelling": "cSpell:ignore cncf docsy HTMLTEST hugo loglevel pagefind netlify nowrap pkgs prebuild precheck preinstall postbuild postget subdir -"
+  "gitHubActionCacheKey": "2024-12-12 - change this key to force cache refresh",
+  "spelling": "cSpell:ignore cncf docsy HTMLTEST hugo loglevel pagefind netlify nowrap pkgs prebuild precheck preinstall postbuild subdir -"
 }
