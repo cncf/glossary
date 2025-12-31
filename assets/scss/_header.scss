@@ -35,6 +35,10 @@
 				height: 40px;
 			}
 		}
+		// Hide text title since logo SVG already contains the title
+		.navbar-brand__name {
+			display: none;
+		}
 	}
 
 	// Main nav bar.
