@@ -85,7 +85,8 @@
         ) true false
   -}}
   {{ $mid := printf "m-%s" ($s.RelPermalink | anchorize) }}
-  {{ $pages := where $s.Pages "Params.toc_hide" "ne" true -}}
+  {{/* Only show completed terms in sidebar (matching v0.6 behavior) */}}
+  {{ $pages := ( (where $s.Pages ".Params.status" "Completed") | union (where $s.Pages ".Params.status" "completed") ) | intersect (where $s.Pages ".Params.toc_hide" "!=" true) -}}
   {{ $withChild := gt (len $pages) 0 -}}
   {{ $manualLink := $s.RelPermalink -}}
   {{ with $s.Params.manualLink -}}
@@ -110,7 +111,7 @@
   {{- end }}
   {{- if $withChild }}
   <ul class="ul-{{ add $ulNr 1 }}{{ if (not (or $show $p.Site.Params.ui.sidebar_menu_foldable )) }} collapse{{ end }}">
-    {{ range $pages -}}
+    {{ range $pages.ByTitle -}}
       {{ if (le (len .Title) $sidebarMenuTruncate) -}}
         {{ template "section-tree-nav-section" (dict "page" $p "section" . "shouldDelayActive" $shouldDelayActive "sidebarMenuTruncate" $sidebarMenuTruncate "ulNr" (add $ulNr 1) "ulShow" $ulShow) }}
       {{ else -}}
