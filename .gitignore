@@ -11,3 +11,4 @@ _vendor/
 
 # Local Netlify folder
 .netlify
+config.bat
