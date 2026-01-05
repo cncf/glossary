@@ -1,0 +1,126 @@
+{{ $context := .context -}}
+{{ $sidebarRoot := .sidebarRoot -}}
+{{ $sidebarRootID := .sidebarRootID -}}
+{{ $cacheSidebar := .cacheSidebar -}}
+
+{{ with $context -}}
+
+{{/* When the sidebar is cached, "active" class is set client side. */ -}}
+{{ $shouldDelayActive := $cacheSidebar -}}
+
+<div id="td-sidebar-menu" class="td-sidebar__inner{{ if $shouldDelayActive }} d-none{{ end }}">
+  {{ if not .Site.Params.ui.sidebar_search_disable -}}
+
+  <form class="td-sidebar__search d-flex align-items-center">
+    {{ partial "search-input.html" . }}
+    <button class="hamburger" type="button" aria-label="Toggle Menu" data-bs-toggle="collapse" data-bs-target="#td-section-nav" aria-controls="td-docs-nav" aria-expanded="false" aria-label="Toggle section navigation">
+      <span class="hamburger-box">
+        <span class="hamburger-inner"></span>
+      </span>
+    </button>
+  </form>
+  <div class="search-by-tag">
+    <a href="{{ "tags/" | relLangURL }}">...or browse by tag</a>
+  </div>
+
+  {{- else -}}
+
+  <div id="content-mobile">
+  <form class="td-sidebar__search d-flex align-items-center">
+    {{ partial "search-input.html" . }}
+    <button class="hamburger" type="button" aria-label="Toggle Menu" data-bs-toggle="collapse" data-bs-target="#td-section-nav" aria-controls="td-docs-nav" aria-expanded="false" aria-label="Toggle section navigation">
+      <span class="hamburger-box">
+        <span class="hamburger-inner"></span>
+      </span>
+    </button>
+  </form>
+  </div>
+  <div id="content-desktop"></div>
+
+  {{- end }}
+  {{/* */ -}}
+
+  <nav class="td-sidebar-nav collapse
+        {{- if .Site.Params.ui.sidebar_search_disable }} td-sidebar-nav--search-disabled{{ end -}}
+        {{- if .Site.Params.ui.sidebar_menu_foldable }} foldable-nav{{ end }}" {{/**/ -}}
+      id="td-section-nav"
+      {{- if .Site.Params.ui.sidebar_root_enabled }} data-sidebar-root-id="{{ $sidebarRootID }}"{{ end -}}
+    >
+    {{ if and .Site.Params.ui.sidebar_lang_menu (gt (len .Site.Home.Translations) 0) -}}
+    <div class="td-sidebar-nav__section nav-item d-block d-lg-none">
+      {{ partial "navbar-lang-selector.html" . }}
+    </div>
+    {{ end -}}
+    {{/* Always use Site.Home as navRoot to show glossary terms on all pages (matching v0.6 behavior) */}}
+    {{/* Ignore $sidebarRoot to ensure terms are always shown in sidebar */}}
+    {{ $navRoot := .Site.Home -}}
+    {{ $ulNr := 0 -}}
+    {{ $ulShow := .Site.Params.ui.ul_show | default 1 -}}
+    {{ $sidebarMenuTruncate := .Site.Params.ui.sidebar_menu_truncate | default 100 -}}
+    <ul class="td-sidebar-nav__section pe-md-3 ul-{{ $ulNr }}">
+      {{ template "section-tree-nav-section" (dict "page" . "section" $navRoot "shouldDelayActive" $shouldDelayActive "sidebarMenuTruncate" $sidebarMenuTruncate "ulNr" $ulNr "ulShow" (add $ulShow 1)) }}
+    </ul>
+  </nav>
+</div>
+
+{{- end }}{{/* with $context */ -}}
+
+{{ define "section-tree-nav-section" -}}
+  {{/* cSpell:ignore manuallink manuallinkrelref manuallinktitle */ -}}
+  {{ $s := .section -}}
+  {{ $p := .page -}}
+  {{ $shouldDelayActive := .shouldDelayActive -}}
+  {{ $sidebarMenuTruncate := .sidebarMenuTruncate -}}
+  {{ $treeRoot := cond (eq .ulNr 0) true false -}}
+  {{ $ulNr := .ulNr -}}
+  {{ $ulShow := .ulShow -}}
+  {{ $active := and (not $shouldDelayActive) (eq $s $p) -}}
+  {{ $activePath := and (not $shouldDelayActive) (or (eq $p $s) ($p.IsDescendant $s)) -}}
+  {{ $show := cond
+        (or
+          (lt $ulNr $ulShow)
+          $activePath
+          (and (not $shouldDelayActive) (eq $s.Parent $p.Parent))
+          (and (not $shouldDelayActive) (eq $s.Parent $p))
+        ) true false
+  -}}
+  {{ $mid := printf "m-%s" ($s.RelPermalink | anchorize) }}
+  {{/* Only show completed terms in sidebar (matching v0.6 behavior) */}}
+  {{ $pages := ( (where $s.Pages ".Params.status" "Completed") | union (where $s.Pages ".Params.status" "completed") ) | intersect (where $s.Pages ".Params.toc_hide" "!=" true) -}}
+  {{ $withChild := gt (len $pages) 0 -}}
+  {{ $manualLink := $s.RelPermalink -}}
+  {{ with $s.Params.manualLink -}}
+    {{ $manualLink = . -}}
+  {{ end -}}
+  {{ with $s.Params.manualLinkRelref -}}
+    {{ $manualLink = relref $s . -}}
+  {{ end -}}
+  {{ $manualLinkTitle := $s.LinkTitle -}}
+  {{ with $s.Params.manualLinkTitle -}}
+    {{ $manualLinkTitle = . -}}
+  {{ end -}}
+
+<li class="td-sidebar-nav__section-title td-sidebar-nav__section{{ if $withChild }} with-child{{ else }} without-child{{ end }}{{ if $activePath }} active-path{{ end }}{{ if (not (or $show $p.Site.Params.ui.sidebar_menu_foldable )) }} collapse{{ end }}" id="{{ $mid }}-li">
+  {{ if (and $p.Site.Params.ui.sidebar_menu_foldable (ge $ulNr 1)) -}}
+  <input type="checkbox" id="{{ $mid }}-check"{{ if $activePath}} checked{{ end }}/>
+  <label for="{{ $mid }}-check"><a href="{{ $manualLink }}"{{ if ne $s.LinkTitle $manualLinkTitle }} title="{{ $manualLinkTitle }}"{{ end }}{{ with $s.Params.manualLinkTarget }} target="{{ . }}"{{ if eq . "_blank" }} rel="noopener"{{ end }}{{ end }} class="align-left ps-0 {{ if $active}} active{{ end }} td-sidebar-link{{ if $s.IsPage }} td-sidebar-link__page{{ else }} td-sidebar-link__section{{ end }}{{ if $treeRoot }} tree-root{{ end }}" id="{{ $mid }}"><span class="{{ if $active }}td-sidebar-nav-active-item{{ end }}">{{ $s.LinkTitle }}</span></a></label>
+  {{ else -}}
+    {{ if not $treeRoot }}
+    <a href="{{ $manualLink }}"{{ if ne $s.LinkTitle $manualLinkTitle }} title="{{ $manualLinkTitle }}"{{ end }}{{ with $s.Params.manualLinkTarget }} target="{{ . }}"{{ if eq . "_blank" }} rel="noopener"{{ end }}{{ end }} class="align-left ps-0{{ if $active}} active{{ end }} td-sidebar-link{{ if $s.IsPage }} td-sidebar-link__page{{ else }} td-sidebar-link__section{{ end }}{{ if $treeRoot }} tree-root{{ end }}" id="{{ $mid }}"><span class="{{ if $active }}td-sidebar-nav-active-item{{ end }}">{{ $s.LinkTitle }}</span></a>
+    {{- end }}
+  {{- end }}
+  {{- if $withChild }}
+  <ul class="ul-{{ add $ulNr 1 }}{{ if (not (or $show $p.Site.Params.ui.sidebar_menu_foldable )) }} collapse{{ end }}">
+    {{ range $pages.ByTitle -}}
+      {{ if (le (len .Title) $sidebarMenuTruncate) -}}
+        {{ template "section-tree-nav-section" (dict "page" $p "section" . "shouldDelayActive" $shouldDelayActive "sidebarMenuTruncate" $sidebarMenuTruncate "ulNr" (add $ulNr 1) "ulShow" $ulShow) }}
+      {{ else -}}
+        {{ if $p.Site.Params.ui.sidebar_menu_truncate_warn -}}
+          {{ warnf "%.40s title [%.40s] > ui.sidebar_menu_truncate: title has %d chars which is > %d. Consider trimming. See https://www.docsy.dev/docs/adding-content/navigation/#menu-size-limit" .Path .Title (len .Title) $sidebarMenuTruncate -}}
+        {{ end -}}
+      {{ end -}}
+    {{ end -}}
+  </ul>
+  {{- end }}
+</li>
+{{ end -}}
