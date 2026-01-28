@@ -10,7 +10,7 @@ Think of it as a highly optimized way for one program to request and receive dat
 Unlike traditional approaches like REST APIs that use text-based messages, gRPC uses a compact binary format, making communication faster and more efficient. 
 It uses HTTP/2 for transport, Protocol Buffers (protobuf) for interface definition and serialization, and provides features such as bi-directional streaming, flow control, header compression, and multiplexing.
 
-## Problem it solves
+## Problem it addresses
 
 Imagine two applications that need to communicate frequently—like a mobile app talking to a server, or different backend services coordinating with each other. 
 Traditional text-based approaches (like REST with JSON) work but can be slow and wasteful because text is verbose and requires extra processing. 
