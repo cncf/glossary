@@ -31,7 +31,7 @@
   },
   "enginesComment": "Ensure that engines.node value stays consistent with the project's .nvmrc",
   "engines": {
-    "node": "22.x"
+    "node": "24.x"
   },
   "gitHubActionCacheKey": "2024-12-12 - change this key to force cache refresh",
   "spelling": "cSpell:ignore cncf docsy HTMLTEST hugo loglevel pagefind netlify nowrap pkgs prebuild precheck preinstall postbuild subdir -"
