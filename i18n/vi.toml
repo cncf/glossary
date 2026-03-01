@@ -94,3 +94,24 @@ Mặc dù mỗi quốc gia có ngôn ngữ ký hiệu riêng,
 [Nhóm Làm việc Người Khiếm thính/Lãng tai](https://contribute.cncf.io/accessibility/deaf-and-hard-of-hearing/)
 của chúng tôi hướng tới việc chuẩn hóa các ký hiệu cho các thuật ngữ cloud-native mới để sử dụng toàn cầu.
 """
+# Tag translations (defaults)
+[tag_application]
+other = "Application"
+[tag_architecture]
+other = "Architecture"
+[tag_fundamental]
+other = "Fundamental"
+[tag_infrastructure]
+other = "Infrastructure"
+[tag_methodology]
+other = "Methodology"
+[tag_networking]
+other = "Networking"
+[tag_platform]
+other = "Platform"
+[tag_property]
+other = "Property"
+[tag_security]
+other = "Security"
+[tag_storage]
+other = "Storage"
