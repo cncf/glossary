@@ -2,10 +2,8 @@
 title: Implantação Canário
 status: Completed
 category: conceito
-tags: ["aplicação", "", ""]
+tags: ["metodologia", "aplicação", ""]
 ---
-
-## O que é
 
 Implantação Canário é uma estratégia de implantação que começa com dois ambientes: um com tráfego e outro contendo o código atualizado sem tráfego. O tráfego é gradualmente movido da versão original do aplicativo para a versão atualizada. Pode começar movendo 1% do tráfego, depois 10%, 25% e assim por diante, até que tudo esteja passando pela versão atualizada. As organizações podem testar a nova versão do software em produção, obter feedback, diagnosticar erros e reverter rapidamente para a versão estável, se necessário.
 

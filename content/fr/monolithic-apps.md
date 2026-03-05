@@ -1,11 +1,9 @@
 ---
-title: Applications Monolithiques
+title: Applications monolithiques
 status: Completed
 category: concept
 tags: ["architecture", "fondamental", ""]
 ---
-
-## Ce que c'est
 
 Une application monolithique contient toutes les fonctionnalités au sein d'un unique logiciel déployable.
 C'est souvent la manière la plus simple pour commencer le développement d'une application.

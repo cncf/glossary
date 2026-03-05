@@ -1,11 +1,9 @@
 ---
-title: Machine Virtuelle
+title: Machine virtuelle
 status: Completed
 category: Technology
 tags: ["fondamental", "infrastructure", ""]
 ---
-
-## Ce que c'est
 
 Une machine virtuelle (VM) est un ordinateur et son système d'exploitation
 qui n'est pas lié à un matériel particulier.

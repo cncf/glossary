@@ -5,8 +5,6 @@ category: conceito
 tags: ["metodologia", "", ""]
 ---
 
-## O que é
-
 Engenharia de Confiabilidade de Sites (do inglês *Site Reliability Engineering* - SRE) é uma disciplina que combina operações e engenharia de software. Este último é aplicado especificamente a problemas de infraestrutura e operações. Ou seja, em vez de criar recursos do produto, os Engenheiros de Confiabilidade criam sistemas para rodar aplicativos. Existem semelhanças com o DevOps, mas enquanto o DevOps se concentra em colocar o código em produção, o SRE garante que o código em execução na produção funcione corretamente.
 
 ## Problema relacionado

@@ -5,8 +5,6 @@ category: technology
 tags: ["application", "fundamental", ""]
 ---
 
-## What it is
-
 A container is a running process with resource and capability constraints managed by a computer’s operating system. 
 The files available to the container process are packaged as a container image. 
 Containers run adjacent to each other on the same machine, 
@@ -30,3 +28,5 @@ There are limitations, however.
 Since containers share the same operating system, processes can be considered less secure than alternatives. 
 Containers also require limits on the shared resources. 
 To guarantee resources, administrators must constrain and limit memory and CPU usage so that other applications do not perform poorly.
+
+{{% sign-language-section meUtsFU7ndo %}}

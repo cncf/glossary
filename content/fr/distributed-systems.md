@@ -5,8 +5,6 @@ category: concept
 tags: ["architecture", "", ""]
 ---
 
-## Ce que c'est
-
 Un système distribué est un ensemble de composants autonomes connectés via un réseau, et qui apparaît à ses utilisateurs comme un seul système cohérent.
 La plupart du temps appelés [nœuds](/fr/nodes/), ces composants peuvent aussi bien être des machines physiques (des ordinateurs ou des téléphones portables par exemple) que des processus logiciels.
 Les nœuds sont programmés pour atteindre un objectif commun et échangent des messages via le réseau afin de collaborer.
@@ -21,7 +19,7 @@ Sans calcul distribué, beaucoup d'applications sur lesquelles nous nous appuyon
 Traditionnellement, les systèmes  [passent à l'échelle](/fr/scalability/) verticalement, ce qui correspond à l'ajout de processeur ou de mémoire à une seule machine.
 Le passage à l'échelle vertical est chronophage, nécessite un temps d'arrêt, et atteint rapidement ses limites.
 
-## Quel en est l'utilité
+## Quelle en est l'utilité
 
 Les systèmes distribués permettent un [passage à l'échelle horizontal](/fr/horizontal-scaling/) (par exemple en ajoutant des nœuds au système lorsque nécessaire).
 Ceci peut être automatisé, permettant ainsi au système de gérer une croissance soudaine de charge de travail (workload) ou de consommation de ressources.

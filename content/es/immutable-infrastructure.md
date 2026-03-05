@@ -2,7 +2,7 @@
 title: Infraestructura inmutable
 status: Completed
 category: Propiedad
-tags: ["infrastructure", "property", ""]
+tags: ["infraestructura", "propiedad", ""]
 ---
 
 Infraestructura inmutable se refiere a la infraestructura informática

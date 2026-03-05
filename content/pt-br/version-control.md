@@ -1,11 +1,9 @@
 ---
 title: Controle de Versão
-status: Completed
+status: Deprecated
 category: tecnologia
-tags: ["metodologia", "", ""]
+tags: ["descontinuado", "", ""]
 ---
-
-## O que é
 
 O controle de código (ou controle de versão) é a prática de rastrear e gerenciar alterações de um documento. É um sistema que registra alterações de um arquivo ou conjunto de arquivos ao longo do tempo para que você possa recuperar versões específicas mais tarde.
 

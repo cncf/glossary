@@ -5,8 +5,6 @@ category: Concept
 tags: ["fundamental", "", ""]
 ---
 
-## What it is
-
 Cloud native technologies, also referred to as the cloud native stack, 
 are the technologies used to build [cloud native applications](/cloud-native-apps/). 
 These technologies enable organizations to build and run scalable applications in modern and dynamic environments 
@@ -28,6 +26,6 @@ as well as inefficient resource utilization, among others.
 ## How it helps
 
 While each technology addresses a very specific problem, 
-as a group, cloud native technologies enable loosely coupled systems that are resilient, manageable, and observable. 
+as a group, cloud native technologies enable [loosely coupled systems](/loosely-coupled-architecture/) that are resilient, manageable, and observable. 
 Combined with robust automation, they allow engineers to make high-impact changes frequently and predictably with minimal toil. 
 Desirable traits of cloud native systems are easier to achieve with the cloud native stack.

@@ -2,10 +2,8 @@
 title: Aplicaciones con estado
 status: Completed
 category: Concepto
-tags: ["fundamental", "application", ""]
+tags: ["fundamento", "aplicación", ""]
 ---
-
-## ¿Qué es?
 
 Cuando hablamos de aplicaciones con estado (y [sin estado](/es/stateless-apps/)),
 éste estado se refiere a cualquier dato que la aplicación necesita almacenar para funcionar.

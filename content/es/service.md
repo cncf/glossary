@@ -2,7 +2,7 @@
 title: Servicio
 status: Completed
 category: Concepto
-tags: ["application", "fundamental", ""]
+tags: ["aplicación", "fundamento", ""]
 ---
 
 Es importante señalar que en TI, el término 'servicio' tiene diversos significados.

@@ -85,3 +85,14 @@ other = "Was this page helpful?"
 other = "Yes"
 [feedback_answer_no]
 other = "No"
+
+# Sign language section
+[sign_language_header]
+other = "In sign language"
+[sign_language_info]
+other = """
+**Note**:
+While each country has its own sign language we,
+the [Deaf/Hoh Working Group](https://contribute.cncf.io/accessibility/deaf-and-hard-of-hearing/),
+aim to standardize signs for new cloud-native terms for global use.
+"""

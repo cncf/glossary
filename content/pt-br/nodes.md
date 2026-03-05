@@ -2,10 +2,8 @@
 title: Nós
 status: Completed
 category: conceito
-tags: ["arquitetura", "", ""]
+tags: ["infraestrutura", "fundamento", ""]
 ---
-
-## O que é
 
 Um nó é um computador que trabalha em conjunto com outros computadores, ou nós, para realizar uma tarefa comum. 
 Pegue seu laptop, modem e impressora, por exemplo. 

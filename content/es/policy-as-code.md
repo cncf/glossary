@@ -2,11 +2,9 @@
 title: Política como código (PaC)
 status: Feedback Appreciated
 category: Concepto
-tags: ["methodology", "", ""]
+tags: ["metodología", "", ""]
 draft: true
 ---
-
-## ¿Qué es?
 
 Política como código es la práctica de almacenar la definición de políticas en uno o más archivos de manera que se pueda procesar y sea legible por máquina.
 Esto reemplaza el modelo tradicional en el que las políticas se documentan en forma legible por humanos, en documentos separados.

@@ -1,4 +1,4 @@
 ---
 title: অনুসন্ধান ফলাফল
-layout: অনুসন্ধান
+layout: search
 ---

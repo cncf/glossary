@@ -2,10 +2,8 @@
 title: Centro de Datos
 status: Completed
 category: Tecnología
-tags: ["infrastructure", "fundamental", ""]
+tags: ["infraestructura", "fundamento", ""]
 ---
-
-## ¿Qué es?
 
 Un centro de datos es un edificio diseñado específicamente para almacenar computadoras, habitualmente referidas como servidores.
 Estos centros de datos suelen estar conectados a líneas de Internet de alta velocidad, especialmente en el caso de los centros de datos para [computación en la nube](/es/cloud-computing/).

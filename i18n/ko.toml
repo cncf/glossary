@@ -16,25 +16,25 @@ other = "이 사이트 검색하기…"
 
 # Used in sentences such as "Posted in News"
 [ui_in]
-other = "내부"
+other = "에"
 
 # Phrases for tags
 [ui_see_all_tags]
-other = "See all tags"
+other = "모든 태그 보기"
 [ui_tag]
-other = "Tag"
+other = "태그"
 [ui_tags]
-other = "Tags"
+other = "태그"
 [ui_search_by_tags]
-other = "Browse by Tags"
+other = "태그로 탐색"
 [ui_tags_intro]
-other = "We've categorized the glossary terms. Use the filters to browse terms by tag."
+other = "용어집 항목들을 태그로 분류했습니다. 태그로 탐색하려면 필터를 사용하세요."
 [ui_or_search_by_tags]
-other = "...or browse by tag"
+other = "… 또는 태그로 탐색"
 [ui_select_all]
-other = "Select All"
+other = "모두 선택"
 [ui_deselect_all]
-other = "Deselect All"
+other = "모두 선택 해제"
 
 # Footer text
 [footer_all_rights_reserved]
@@ -45,13 +45,13 @@ other = "개인 정보 처리 방침"
 
 
 [footer_hub_button_text]
-other = "All CNCF Sites"
+other = "모든 CNCF 사이트"
 
 # Post (blog, articles etc.)
 [post_byline_by]
-other = "의해서"
+other = "의해"
 [post_created]
-other = "생성된"
+other = "작성"
 [post_last_mod]
 other = "최근 수정"
 [post_edit_this]
@@ -65,11 +65,11 @@ other = "프로젝트 이슈 생성하기"
 [post_posts_in]
 other = "포스트된 곳"
 [post_reading_time]
-other = "읽은 시간(분)"
+other = "읽는 데 걸리는 시간(분)"
 
 # Print support
 [print_printable_section]
-other = "이 섹션을 다중 페이지로 프린트할 수 있는 화면 보기."
+other = "이 섹션을 다중 페이지로 프린트할 수 있는 화면 보기"
 [print_click_to_print]
 other = "프린트하기"
 [print_show_regular]

@@ -1,8 +1,8 @@
 ---
 title: শক্তভাবে সংযোজিত স্থাপত্য (Tightly Coupled Architectures)
 status: Completed
-category: সম্পত্তি
-tags: ["fundamental", "architecture", "property"]
+category: বৈশিষ্ট্য
+tags: ["মৌলিক", "স্থাপত্য", "বৈশিষ্ট্য"]
 ---
 
 শক্তভাবে সংযোজিত স্থাপত্য হল সেই ধরনের একটি স্থাপত্য শৈলী যেখানে বেশ কয়েকটি অ্যাপ্লিকেশন উপাদান পরস্পর নির্ভরশীল

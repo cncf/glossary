@@ -2,10 +2,8 @@
 title: Contenedores
 status: Completed
 category: Tecnología
-tags: ["application", "fundamental", ""]
+tags: ["aplicación", "fundamento", ""]
 ---
-
-## ¿Qué es?
 
 Un contenedor es un proceso en ejecución con restricciones de recursos y capacidades administrado por el sistema operativo de una computadora.
 Los archivos disponibles del contenedor se empaquetan como una imagen de contenedor. 
