@@ -40,6 +40,28 @@ other = "Deseleccionar todas"
 [footer_all_rights_reserved]
 other = "Todos los derechos reservados"
 
+# Tag translations
+[tag_application]
+other = "Aplicación"
+[tag_architecture]
+other = "Arquitectura"
+[tag_fundamental]
+other = "Fundamental"
+[tag_infrastructure]
+other = "Infraestructura"
+[tag_methodology]
+other = "Metodología"
+[tag_networking]
+other = "Redes"
+[tag_platform]
+other = "Plataforma"
+[tag_property]
+other = "Propiedad"
+[tag_security]
+other = "Seguridad"
+[tag_storage]
+other = "Almacenamiento"
+
 [footer_privacy_policy]
 other = "Política de privacidad"
 

@@ -11,12 +11,13 @@
     <div class="canonical-tag-container">
         {{ range $tags }}
             {{ $tagid := printf "tag-%s" ( replace .Page.Title " " "-" | lower ) }}
-            <button id="{{ $tagid  }}" class="canonical-tag" data-target="{{ $tagid  }}">{{ title .Page.Title }}</button>
+            {{ $key := printf "tag_%s" (lower .Page.Title) }}
+            {{ $name := i18n $key }}
+            {{ if eq $name $key }}
+              {{ $name = title .Page.Title }}
+            {{ end }}
+            <button id="{{ $tagid  }}" class="canonical-tag" data-target="{{ $tagid  }}">{{ $name }}</button>
         {{ end }}
-        <span><button class="button-reset-to-text" id="select-all-tags">{{ T "ui_select_all" }}</button></span>
-        <span><button class="button-reset-to-text" id="deselect-all-tags">{{ T "ui_deselect_all" }}</button></span>
-    </div>
-    
     {{ $glossary_items := (where .Site.Pages "Params.status" "Completed") | union (where .Site.Pages "Params.status" "completed") }}
     {{ with $glossary_items }}
         {{ $glossary_terms := sort . "Title" "asc" }}

@@ -88,6 +88,13 @@ Since the `weight` values should always be kept consistent, please **remember to
 For a new localization, add a file `i18n/<localization>.toml` based on `i18n/en.toml`.
 `other = "<English site strings>"` in `i18n/<localization>.toml` can be translated.
 
+> **Tip:** the glossary UI uses a set of fixed tags (application, architecture,
+> fundamental, infrastructure, methodology, networking, platform, property,
+> security, storage). To ensure the tags page and filters are localized, add
+> translation keys for each of these (e.g. `tag_application`,
+> `tag_fundamental`, etc.). The default English values can be used as a
+> starting point.
+
 #### 3-3. Adding a new localization directory
 
 Translated Glossary terms are saved in the appropriate language directory inside `/content/`.

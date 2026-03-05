@@ -86,3 +86,25 @@ other = "کیا یہ صفحہ مددگار تھا؟"
 other = "جی ہاں"
 [feedback_answer_no]
 other = "نہیں"
+
+# Tag translations (defaults)
+[tag_application]
+other = "Application"
+[tag_architecture]
+other = "Architecture"
+[tag_fundamental]
+other = "Fundamental"
+[tag_infrastructure]
+other = "Infrastructure"
+[tag_methodology]
+other = "Methodology"
+[tag_networking]
+other = "Networking"
+[tag_platform]
+other = "Platform"
+[tag_property]
+other = "Property"
+[tag_security]
+other = "Security"
+[tag_storage]
+other = "Storage"

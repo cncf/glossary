@@ -86,3 +86,25 @@ other = "이 페이지가 도움이 되었나요?"
 other = "네"
 [feedback_answer_no]
 other = "아니오"
+
+# Tag translations (defaults)
+[tag_application]
+other = "Application"
+[tag_architecture]
+other = "Architecture"
+[tag_fundamental]
+other = "Fundamental"
+[tag_infrastructure]
+other = "Infrastructure"
+[tag_methodology]
+other = "Methodology"
+[tag_networking]
+other = "Networking"
+[tag_platform]
+other = "Platform"
+[tag_property]
+other = "Property"
+[tag_security]
+other = "Security"
+[tag_storage]
+other = "Storage"
