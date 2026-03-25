@@ -196,6 +196,10 @@ style = "tango"
 # section = ["HTML", "print", "RSS"]
 
 [params]
+enableGlossaryChatbot = true
+[params.author]
+name = "CNCF Glossary"
+email = "glossary@cncf.io"
 copyright = "The Linux Foundation®"
 privacy_policy = "https://www.linuxfoundation.org/privacy"
 

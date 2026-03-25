@@ -17,7 +17,8 @@
     "serve": "netlify dev -c \"hugo serve --minify -DFE -w\"",
     "serve:with-pagefind": "hugo --baseURL=/ && npm_config_yes=true npx pagefind --site 'public' --output-subdir '../static/pagefind' && npm run serve",
     "test": "npm run check:links",
-    "update:pkgs": "npx npm-check-updates -u"
+    "update:pkgs": "npx npm-check-updates -u",
+     "generate:glossary": "node scripts/generateGlossary.js"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.20",
