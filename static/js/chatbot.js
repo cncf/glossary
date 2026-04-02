@@ -54,27 +54,60 @@
       .sort((a, b) => b.score - a.score)
       .slice(0, 5);
   }
-
   function renderResults(results, query) {
-    const output = document.getElementById('glossary-chatbot-output');
+  const output = document.getElementById('glossary-chatbot-output');
 
-    if (!results.length) {
-      output.innerHTML = `
-        <div class="glossary-chatbot-empty">
-          I couldn’t find a glossary match for
-          "<strong>${escapeHtml(query)}</strong>".
-          Try another cloud native term or
-          <a href="/">browse the glossary</a>.
-        </div>
-      `;
-      return;
-    }
-
+  if (!results.length) {
     output.innerHTML = `
-      <div class="glossary-chatbot-summary">
-        Showing ${results.length} matching glossary entr${results.length === 1 ? 'y' : 'ies'}.
+      <div class="glossary-chatbot-empty">
+        I couldn’t find a glossary match for
+        "<strong>${escapeHtml(query)}</strong>".
+        Try another cloud native term or
+        <a href="/">browse the glossary</a>.
       </div>
-      ${results.map(result => `
+    `;
+    return;
+  }
+
+  const fullText = results[0]?.content || "";
+  const maxLength = 150;
+  const cutIndex = fullText.lastIndexOf(' ', maxLength);
+
+  const overview =
+    fullText.length > maxLength
+      ? `${fullText.slice(0, cutIndex > 0 ? cutIndex : maxLength)}...`
+      : fullText;
+
+  const topTitle = results[0]?.title || "";
+
+  const remainingResults = results
+  .slice(1)
+  .filter(item => item.title !== topTitle) 
+  .filter((item, index, self) =>
+    index === self.findIndex(r => r.title === item.title)
+  );
+
+  output.innerHTML = `
+    <div class="glossary-chatbot-overview">
+      <strong>Overview</strong>
+      <div>${escapeHtml(overview)}</div>
+    </div>
+
+    <div class="glossary-chatbot-result">
+      <div class="glossary-chatbot-result-title">
+        <a href="${results[0].url}">${escapeHtml(results[0].title)}</a>
+      </div>
+      <div class="glossary-chatbot-result-body">
+        ${escapeHtml(results[0].content)}
+      </div>
+    </div>
+
+    ${remainingResults.length ? `
+      <div class="glossary-chatbot-summary">
+        Matching Results
+      </div>
+
+      ${remainingResults.map(result => `
         <div class="glossary-chatbot-result">
           <div class="glossary-chatbot-result-title">
             <a href="${result.url}">${escapeHtml(result.title)}</a>
@@ -84,10 +117,10 @@
           </div>
         </div>
       `).join('')}
-    `;
-  }
-
-  function injectStyles() {
+    ` : ""}
+  `;
+}
+    function injectStyles() {
     const style = document.createElement('style');
     style.textContent = `
       #glossary-chatbot {
@@ -205,7 +238,11 @@
         font-size: 14px;
         line-height: 1.5;
       }
-
+     .glossary-chatbot-overview {
+      margin-bottom: 10px;
+      font-size: 14px;
+      line-height: 1.5;
+     }
       @media (max-width: 640px) {
         #glossary-chatbot {
           right: 12px;
@@ -217,7 +254,7 @@
           width: 100%;
           max-width: 100%;
         }
-      }
+        }
     `;
     document.head.appendChild(style);
   }
@@ -274,12 +311,18 @@
       toggle.style.display = 'inline-flex';
     }
 
-    function runSearch() {
-      const query = input.value.trim();
-      if (!query) return;
-      const results = searchGlossary(query);
-      renderResults(results, query);
-    }
+   function runSearch() {
+  const query = input.value.trim();
+  const output = document.getElementById('glossary-chatbot-output');
+
+  if (!query) {
+    output.innerHTML = '';
+    return;
+  }
+
+  const results = searchGlossary(query);
+  renderResults(results, query);
+}
 
     toggle.addEventListener('click', openPanel);
     closeBtn.addEventListener('click', closePanel);
