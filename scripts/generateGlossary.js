@@ -8,6 +8,7 @@ const OUTPUT_FILE = path.join(OUTPUT_DIR, 'glossary.json');
 const SKIP_FILES = new Set([
   '_index.md',
   '_TEMPLATE.md',
+  'search.md',   // Hugo UI page, not a glossary term — has no content body
 ]);
 
 const SKIP_DIRS = new Set([
