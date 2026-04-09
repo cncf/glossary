@@ -1,7 +1,7 @@
 ---
 title: Multitenancy
 status: Completed
-category: Property
+category: Özellik
 tags: ["mimari", "özellik", ""]
 ---
 Çoklu kiracılık birden fazla kiracıya hizmet veren tek bir yazılım kurulumunu ifade eder. Kiracı, 
