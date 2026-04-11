@@ -71,7 +71,7 @@
   function expandAcronyms(text) {
     return (text || "")
       .replace(/[^\w\s]/g, " ")
-      .replace(/\b(\w{1,6})\b/gi, match => ACRONYM_MAP[match.toLowerCase()] || match)
+      .replace(/\b(\w{1,15})\b/gi, match => ACRONYM_MAP[match.toLowerCase()] || match)
       .trim();
   }
 
@@ -461,13 +461,12 @@
       @media (max-width: 640px) {
         #glossary-chatbot {
           right: 12px;
-          left: 12px;
           bottom: 96px;
           z-index: 10001;
         }
 
         #glossary-chatbot-panel {
-          width: 100%;
+          width: calc(100vw - 24px);
           max-width: 100%;
           max-height: calc(100vh - 140px);
         }
