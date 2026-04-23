@@ -2,7 +2,7 @@
 title: Servis
 status: Completed
 category: kavram
-tags: ["uygulama", "fundamental", ""]
+tags: ["uygulama", "temel", ""]
 ---
 
 BT'de servis teriminin birden fazla anlamı olduğunu lütfen unutmayın. 
