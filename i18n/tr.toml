@@ -88,7 +88,7 @@ other = "Hayır"
 
 # Sign language section
 [sign_language_header]
-other = "In sign language"
+other = "İşaret dilinde"
 [sign_language_info]
 other = """
 **Not**:
