@@ -3,6 +3,9 @@ name: Links
 on:
   pull_request:
 
+permissions:
+  contents: read
+
 jobs:
   build-and-check-links:
     name: CHECK LINKS

@@ -9,6 +9,9 @@ on:
     paths:
       - 'content/en/**.md'
 
+permissions:
+  contents: read
+
 jobs:
   check-outdated-content:
     name: Check outdated content
