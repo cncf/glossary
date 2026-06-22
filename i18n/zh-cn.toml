@@ -20,21 +20,21 @@ other = "里面"
 
 # Phrases for tags
 [ui_see_all_tags]
-other = "See all tags"
+other = "查看所有标签"
 [ui_tag]
-other = "Tag"
+other = "标签"
 [ui_tags]
-other = "Tags"
+other = "标签"
 [ui_search_by_tags]
-other = "Browse by Tags"
+other = "按标签浏览"
 [ui_tags_intro]
-other = "We've categorized the glossary terms. Use the filters to browse terms by tag."
+other = "我们已经将词汇分类。使用筛选器按标签浏览词汇。"
 [ui_or_search_by_tags]
-other = "...or browse by tag"
+other = "...或按标签浏览"
 [ui_select_all]
-other = "Select All"
+other = "全选"
 [ui_deselect_all]
-other = "Deselect All"
+other = "取消全选"
 
 # Footer text
 [footer_all_rights_reserved]

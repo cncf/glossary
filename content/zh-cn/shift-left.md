@@ -2,7 +2,7 @@
 title: 左移 (Shift Left)
 status: Completed
 category: Concept
-tags: ["methodology", "", ""]
+tags: ["方法论", "", ""]
 ---
 
 ## 是什么
