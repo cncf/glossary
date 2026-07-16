@@ -1,5 +1,5 @@
 ---
-title: Machine Virtuelle
+title: Machine virtuelle
 status: Completed
 category: Technology
 tags: ["fondamental", "infrastructure", ""]

@@ -5,8 +5,6 @@ category: concept
 tags: ["yöntem", "uygulama", ""]
 ---
 
-## Nedir
-
 Blue green deployment, çalışan bilgisayar sistemlerini minimum sistem kesintisiyle güncellemeye yönelik bir stratejidir. Operatör, “blue” ve “green” olarak adlandırılan iki ortamın devamlılığını sağlar. 
 Biri canlı trafiğe hizmet ederken (tüm kullanıcıların o an kullandığı sürüm), diğeri güncellenir. 
 Aktif olmayan (green) ortamda testler tamamlandıktan sonra, canlı trafiğe geçilir (genellikle bir yük dengeleyici kullanarak). 

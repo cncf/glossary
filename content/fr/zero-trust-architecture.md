@@ -1,5 +1,5 @@
 ---
-title: Architecture Zéro Confiance
+title: Architecture zéro confiance
 status: Completed
 category: Concept
 tags: ["sécurité", "", ""]

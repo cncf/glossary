@@ -5,8 +5,6 @@ category: technology
 tags: ["uygulama", "temel kavram", ""]
 ---
 
-## Nedir
-
 Konteyner, bir bilgisayarın işletim sistemi tarafından yönetilen, kaynak ve yetenek kısıtlamalarına sahip, çalışan bir işlemdir.
 Konteyner işlemi içerisinde erişilebilir olan dosyalar konteyner imajı olarak paketlenmiştir.
 Konteynerler aynı makinede birbirlerine bitişik olarak çalışır,

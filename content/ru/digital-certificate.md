@@ -1,6 +1,6 @@
 ---
 title: Цифровой сертификат
-status: Feedback Appreciated
+status: Completed
 category: technology
 tags: ["security", "", ""]
 ---

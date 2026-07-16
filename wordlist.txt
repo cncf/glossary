@@ -96,6 +96,7 @@ hackable
 handoffs
 HAProxy
 highlight
+hostname
 html
 http
 https
@@ -115,6 +116,7 @@ jonasbn
 jones
 josé
 js
+junya
 katelin
 keda
 keys
@@ -144,6 +146,7 @@ navbar
 Nginx
 observability
 oci
+okabe
 oliveira
 opencontainers
 orchestrator
@@ -186,6 +189,7 @@ seo
 seokho
 serverless
 sexualized
+sidecarless
 signup
 signups
 skipenes
@@ -234,6 +238,8 @@ DBaaS
 DBA
 Ispas
 Jihoon
+Junya
+Okabe
 Seo
 TCP
 TCP/IP
@@ -243,3 +249,4 @@ CLI
 CLIs
 SDK
 SDKs
+CRDs

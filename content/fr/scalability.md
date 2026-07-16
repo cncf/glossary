@@ -1,5 +1,5 @@
 ---
-title: Capacité de mise à l'échelle (Scalabilité)
+title: Capacité de mise à l'échelle (scalabilité)
 status: Completed
 category: property
 tags: ["fondamental", "propriété", ""]

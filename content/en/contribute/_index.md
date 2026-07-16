@@ -44,14 +44,18 @@ With solid existing definitions in English, less experienced contributors can lo
 
 Before beginning your Glossary contributor journey, be sure to complete the following steps:
 
-1. Create a [GitHub account](https://docs.github.com/en/get-started/signing-up-for-github/signing-up-for-a-new-github-account), if you don't have one already. 
-2. Sign the [Contributor License Agreement](https://docs.linuxfoundation.org/lfx/easycla/v2-current/contributors) (CLA). 
-3. [Verify your commit signature](https://docs.github.com/en/authentication/managing-commit-signature-verification/about-commit-signature-verification)
-4. Enable [vigilant mode](https://docs.github.com/en/authentication/managing-commit-signature-verification/displaying-verification-statuses-for-all-of-your-commits#about-vigilant-mode) in your GitHub account to display the "Verified" status on your commits. 
+1. Create a [GitHub account](https://docs.github.com/en/get-started/signing-up-for-github/signing-up-for-a-new-github-account) if you don't have one already. 
+2. (If you are developing on your own local development environment) 
+Set [`user.name`](https://docs.github.com/en/get-started/git-basics/setting-your-username-in-git#setting-your-git-username-for-every-repository-on-your-computer) and 
+[`user.email`](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-email-preferences/setting-your-commit-email-address#setting-your-email-address-for-every-repository-on-your-computer) 
+correctly in git config.
+3. Whenever you create a commit using the `git commit` command, 
+add the `-s` option to add a DCO signature to the commit. 
+Alternatively, you could add an alias to your `gitconfig` by running `git config --global alias.ci "commit -s"`.
 
 ## Best practices {#best-practices}
 
-To facilitate the reviewing process, please use [semantic line breaks](https://sembr.org/) (e.g., one line per sentence).
+To facilitate the reviewing process, please use [semantic line breaks](https://sembr.org).
 We recommend checking out this [markdown cheat sheet](https://www.markdownguide.org/cheat-sheet/) 
 to correctly format Markdown text in GitHub (e.g., hyperlink, bold, italic).
 And when naming .md files, please use lowercase letters and hyphens instead of spaces to separate words and avoid parenthesis.
@@ -62,9 +66,7 @@ Read our [Style Guide](/style-guide/) to understand our guidelines for formattin
 
 ## Join the Glossary community! {#join-the-glossary-community}
 
-If you want to contribute regularly, consider joining our monthly Glossary Working Group meetings. 
-You can find the meeting details in the [CNCF calendar](https://www.cncf.io/calendar/). 
-You can also connect with the maintainers and fellow contributors in our [#glossary](https://cloud-native.slack.com/archives/C02TX20MQBB) channel on the CNCF Slack 
+Connect with the maintainers and fellow contributors in our [#glossary](https://cloud-native.slack.com/archives/C02TX20MQBB) channel on the CNCF Slack 
 — we'd love to meet you! 
 
 ## Work on an existing issue {#work-on-an-existing-issue}
@@ -84,7 +86,7 @@ Once you select a term to work on, comment on the issue.
 ![Claiming an issue](/images/how-to/claiming-an-issue.png)
 
 Additionally, notify the maintainers on the [#glossary](https://cloud-native.slack.com/archives/C02TX20MQBB) channel of the CNCF Slack workspace and 
-tag _@iamnoah_, _@nate-double-u_, _@Seokho Son_, _@Jihoon Seo_, and/or _@castrojo_ to be sure they don't miss it.
+tag _@iamnoah_, _@nate-double-u_, _@Seokho Son_, _@Jihoon Seo_ and/or _@Junya Okabe_ to be sure they don't miss it.
 
 For the next steps, please refer to the [Submitting a new term (creating a PR)](#submitting-a-new-term) section.
 
@@ -125,7 +127,7 @@ Next, the maintainers will triage the issue.
 That means they will assess if the term should be part of the Glossary. 
 Not every term will be admitted. To be included in the Glossary, they should be established and widely-used cloud native concepts.
 
-Please let the maintainers know that you've proposed a new term on Slack and tag _@iamnoah_, _@nate-double-u_, _@Seokho Son_, _@Jihoon Seo_, and/or _@castrojo_ so that they don't miss it.
+Please let the maintainers know that you've proposed a new term on Slack and tag _@iamnoah_, _@nate-double-u_, _@Seokho Son_, _@Jihoon Seo_ and/or _@Junya Okabe_ so that they don't miss it.
 If you want to work on the definition, let the maintainers know and they'll assign it to you.
 
 ### Submitting a new term (creating a PR) {#submitting-a-new-term}

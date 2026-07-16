@@ -25,7 +25,7 @@ Cloud Native Sözlüğü, CNCF repository’sinin [varsayılan stil kılavuzunu]
 ## Hedef Kitle
 
 Sözlük, teknik ve teknik olmayan herkes için yazılmıştır. Lütfen tanımları basit terimlerle açıklayın ve okuyucunun teknik bilgiye sahip olduğunu varsaymayın.
-Konu ile ilgili daha fazla bilgi aşağıda [Tanım](#tanım) bölümünde yer almaktadır.
+Konu ile ilgili daha fazla bilgi aşağıda [Tanım](#tanım) bölümünde ve [İşaret Dili Video Stil Rehberi](#sign-language-style-guide) bölümünde yer almaktadır.
 
 ## Asgari geçerli tanım
 
@@ -48,7 +48,6 @@ status:
 category:
 ---
 
-## Nedir
 
 Teknoloji veya konseptin hızlı bir özeti.
 
@@ -120,17 +119,17 @@ tags: ["tag 1", "tag 2", ""]
 
 ### Tanım
 
-#### Üç alt başlık
+#### İki alt başlık
 
-**Teknoloji** ve **konsept** kategorisindeki tanımlarda üç alt başlık mevcuttur:
+**Teknoloji** ve **konsept** kategorisindeki tanımlarda iki alt başlık mevcuttur:
 
-- **Nedir**: Konu hakkında kısa ve açık bir genel özet verin.
+- (Hızlı Özet) Ne hakkında konuştuğumuza kısa ve net bir genel bakış sağlayın.
 - **Hangi Sorunları Çözer**: Çözüme değil, probleme odaklanın. Çözüm bir sonraki bölümde olacaktır. Tanımlanan terimden bahsetmekten kaçının. Bahsettiğimiz problemler, *nelerin* bizi tanımladığımız kavrama ulaştırdığına odaklanın.
 - **Nasıl Yardımcı Olur**: Şimdi, tanımladığımız terime dönerek yukarıda bahsettiğimiz problemleri nasıl ele aldığından bahsedin.
 
 Özelliklerin ayrı bölümler gerektirmediğini unutmayın. Bir tanım yeterli olacaktır.
 
-İncelemeyi kolaylaştırmak için lütfen satır başına bir cümle, yani [anlama bağlı satır sonları](https://sembr.org/) kullanmaya gayret gösterin.
+İncelemeyi kolaylaştırmak için lütfen [anlama bağlı satır sonları](https://sembr.org/) kullanmaya gayret gösterin.
 
 #### Kalite her şeyden önemli
 
@@ -169,6 +168,46 @@ Bir dönem üzerinde çalışırken başka bir kimsenin PR göndermediğinden em
 [Nasıl Katkıda Bulunulur](/tr/contribute/) belgesinde bununla ilgili daha fazla bilgi bulabilirsiniz.
 
 Başlamadan önce, ayrıntı düzeyi, zorluk düzeyi ve örneklerin ne zaman uygun olduğu konusunda bir fikir edinmek için lütfen yayınlanmış bazı Sözlük terimlerini okuyun.
+
+## İşaret Dili Video Stil Rehberi {#sign-language-style-guide}
+
+İşaret dili videosu gönderiyorsanız, videolarımızın net, bilgilendirici ve geniş bir izleyici kitlesine (işitme engelli olmayanlar dahil) erişilebilir olmasını sağlamak için lütfen aşağıdaki yönergeleri izleyin.
+
+### Teknik ekipman
+
+Tek ihtiyacınız olan yüksek çözünürlüklü bir kamera ve bir stand. Modern bir akıllı telefon yeterli olacaktır.
+
+### Kayıt ayarları
+
+- **Işıklandırma**: Yüzünüzün ve ellerinizin iyi aydınlanması için önden gelen ışık kullanın.
+- **Arka plan**: İşaret dilinin net görünmesi için düz ve tek renkli bir arka plan önünde kayıt yapın. Dikkat dağıtıcı dekorasyonlar bulundurmayın.
+- **Kıyafet Kuralları**: Cilt renginizle kontrast oluşturan, tek renkli (desensiz) bir üst kıyafet giyin.
+- **Kamera Konumu**: Başınızdan dirseklere kadar ekran içinde olacak şekilde konumlandırın ve kamerayı göz hizasına yerleştirin. Kamera arka plana dik olmalı, arka plan eğik görünmemelidir.
+- **İşaret Dili Alanı**: Otururken veya ayakta dururken tam işaret dili alanını gösterecek şekilde mümkün olduğunca geniş bir alan kullanın.
+- **Ses**: İstenmeyen arka plan gürültülerini önlemek için mümkünse mikrofonu kapatın.
+
+### İşaret Dili
+
+- **Açıklık ve Doğruluk**: İşareti önden, iki kez ve yeterince yavaş şekilde yaparak kaydedin. Böylece işitme engelli olmayan kişiler de hareketleri rahatça görebilir ve taklit edebilir. Yan açıdan gösterim, sadece ek netlik sağlıyorsa kullanılmalıdır.  
+- **Yüz İfadesi**: Rahat veya nötr yüz ifadeleri kullanın. Ağız hareketleri veya abartılı mimikler önerilmez. Mümkünse kameraya göz teması kurun.  
+- **Tekrar Sıklığı**: Her video yalnızca bir işaret içermelidir. Tekrar tekrar göstermeye gerek yoktur; video döngüye alınabilir.  
+- **Süre**: Toplam video süresi **7 saniyeyi geçmemelidir**.  
+- **Parmak Alfabesi (Fingerspelling)**: Mümkün olduğunda kelimenin işaret dili karşılığını kullanın. Parmak alfabesi yalnızca kısaltmalar veya kısa kelimeler için son çare olarak kullanılmalıdır.  
+- **Duruş**: İşareti yaparken vücudunuz öne dönük, gözler kameraya bakacak şekilde olmalıdır. Yan gösterim gerekmez. Dinlenme pozisyonunda kollar aşağıda, eller rahat olmalıdır.  
+
+### İpuçları
+
+- **Depolama alanı tasarrufu**: Video ne kadar kısa olursa dosya boyutu o kadar küçük olur ve yükleme süresi kısalır.  
+- **Hatalar sorun değil**: Kaydı birkaç kez deneyerek tek seferde yapın. Böylece arada iyi bir çekim yakalayabilir ve diğer kısımları kesebilirsiniz. Her deneme için ayrı video çekmek zaman kaybıdır.  
+- **Video örnekleri**: Örnekler için [CNCF Glossary: Cloud Native Signs](https://www.youtube.com/playlist?list=PLj6h78yzYM2PDlYnmfpRfKgcgBMb34kb5) oynatma listesini inceleyin.  
+
+### Post-Prodüksiyon
+
+- **Düzenleme**: Gerekirse videonun başını ve sonunu kırpın.  
+- **Etiketleme**: Dosya adında en azından işaretin karşılık geldiği terim yer almalıdır (ör. `kubernetes.mp4`).  
+- **Ses**: Mümkünse ses parçasını tamamen kaldırın.  
+- **Yükleme**: Videoyu **#glossary-sign-language** Slack kanalında paylaşın ve geri bildirim isteyin. Onaylandığında, İşaret Dili Sözlüğü ekibi videonun CNCF oynatma listesine yüklenmesine yardımcı olacaktır. Kendi YouTube hesabınıza yüklemeyin; YouTube aynı videoları birden fazla kanalda tespit ederse tüm hesaplardan silebilir.  
+- **CNCF oynatma listesine yükleme**: Yükleme süreci yine **#glossary-sign-language** kanalı üzerinden ekibin onayı ile ilerler.  
 
 ## İnceleme süreci: Ne beklemeli?
 

@@ -5,8 +5,6 @@ category: concept
 tags: ["mimari", "", ""]
 ---
 
-## Nedir
-
 Dağıtık sistem, kullanıcılara tek bir sistem olarak görünen, bir ağ üzerinden birbirine bağlanan otonom bilgi işlem ögeleri topluluğudur. 
 Genel olarak düğüm olarak adlandırılan bu bileşenler, donanım cihazları ya da yazılım süreçleri olabilir. 
 Düğümler ortak bir hedefe ulaşmak için programlanır ve birlikte çalışmak için ağ üzerinden bilgi alışverişinde bulunurlar.

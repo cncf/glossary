@@ -6,8 +6,6 @@ category: Teknoloji
 tags: ["mimari", "temel kavram", ""]
 ---
 
-## Nedir
-
 API, bilgisayar programlarının birbirleriyle etkileşime girmesinin bir yoludur. İnsanların bir web sitesiyle web sayfası aracılığıyla etkileşime girmesi gibi bilgisayar programları API aracılığıyla birbirleriyle etkileşime girer. İnsan etkileşimlerinin aksine, API’lerin kendilerinden ne istenip ne istenmeyeceği konusunda sınırlamaları vardır. Bu sınırlamalar, programlar arasındaki iletişimin istikrarlı ve işlevsel olmasına yardımcı olur.
 
 ## Hangi Sorunları Çözer

@@ -1,5 +1,5 @@
 ---
-title: Informatique en Périphérie (Edge Computing)
+title: Informatique en périphérie (Edge Computing)
 status: Completed
 category: Technology
 ---

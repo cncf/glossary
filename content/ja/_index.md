@@ -18,7 +18,7 @@ status: Completed
 
 
 貢献したい人は、GitHubのissueを提出するか、プルリクエストを作成することができます。
-[スタイルガイド](/ja/style-guide/)に従うことを確認し、[貢献の方法](/ja/contribute/)ドキュメントを読み, CNCF Slackの[#glossary](https://cloud-native.slack.com/archives/C02TX20MQBB) チャンネルに参加してください。
+[スタイルガイド](/ja/style-guide/)に従うことを確認し、[貢献の方法](/ja/contribute/)ドキュメントを読み、[CNCF Slack](https://slack.cncf.io)ワークスペースに参加し、[#glossary](https://cloud-native.slack.com/archives/C02TX20MQBB)チャンネルに参加してください。
 また、用語集を母国語に翻訳する手伝いをしたい人のために、[#glossary-localizations](https://cloud-native.slack.com/archives/C02N2RGFXDF) チャンネルがあります。
 
 ## 謝辞
@@ -33,14 +33,16 @@ status: Completed
 その他多くの貢献者による貢献が含まれています。
 全ての貢献者リストについては、[GitHub page](https://github.com/cncf/glossary/graphs/contributors) を参照してください。
 
-用語集は 
+用語集は
 [Seokho Son](https://www.linkedin.com/in/seokho-son/),
-[Noah Ispas](https://www.linkedin.com/in/noah-ispas-0665b42a/), 
 [Jihoon Seo](https://www.linkedin.com/in/jihoon-seo/),
 [Nate W.](https://www.linkedin.com/in/nate-double-u/)
-そして[Jorge Castro](https://www.linkedin.com/in/jorge-castro2112/)によってメンテナンスされています。
+そして[Junya Okabe](https://www.linkedin.com/in/junya-okabe/)によってメンテナンスされています。
 
-[Catherine Paganini](https://www.linkedin.com/in/catherinepaganini/en/), [Jason Morgan](https://www.linkedin.com/in/jasonmorgan2/)
+[Catherine Paganini](https://www.linkedin.com/in/catherinepaganini/en/),
+[Jason Morgan](https://www.linkedin.com/in/jasonmorgan2/),
+[Jorge Castro](https://www.linkedin.com/in/jorge-castro2112/)そして
+[Noah Ispas](https://www.linkedin.com/in/noah-ispas-0665b42a/)
 は名誉メンテナーであり、長年にわたる彼らの貴重な貢献に深く感謝しています。
 
 クラウドネイティブ用語集の日本語化は、[Kaito Ii](https://github.com/kaitoii11)、[Kohei Ota](https://github.com/inductor)、[Yuichi Nakamura](https://github.com/yuichi-nakamura)、[MItabashi](https://github.com/bashi8128)、[HANABE926](https://github.com/HANABE926)、[Junya Okabe](https://github.com/Okabe-Junya)、[Akira Aiura](https://github.com/A-aiura)、[shizhenhu](https://github.com/shizhenhu)、[Nao Nishijima](https://github.com/naonishijima)の貢献を通じて開始されました。

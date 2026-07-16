@@ -85,3 +85,14 @@ other = "Bu sayfa faydalı mıydı?"
 other = "Evet"
 [feedback_answer_no]
 other = "Hayır"
+
+# Sign language section
+[sign_language_header]
+other = "İşaret dilinde"
+[sign_language_info]
+other = """
+**Not**:
+Her ülkenin kendine ait bir işaret dili olsa da,
+biz, [Sağır/İşitme Engelli Çalışma Grubu](https://contribute.cncf.io/accessibility/deaf-and-hard-of-hearing/),
+küresel kullanım için yeni bulut tabanlı terimler için işaretleri standartlaştırmayı amaçlıyoruz.
+"""

@@ -19,7 +19,7 @@ Traditionnellement, le code permettant la collecte de données et la gestion du 
 
 Un proxy de service nous permet "d’externaliser" cette fonctionnalité.
 Il n'est plus nécessaire qu'elle réside à l'intérieur des applications.
-Au lieu de cela, elle est désormais intégrée à la couche plate-forme (où vos applications s’exécutent).
+Au lieu de cela, elle est désormais intégrée à la couche plateforme (où vos applications s’exécutent).
 
 Agissant comme des gardiens entre les services, les proxys donnent un aperçu du type de communication en cours.
 En fonction de leur observations, ils déterminent où envoyer une demande particulière ou même la refusent complètement.

@@ -4,7 +4,7 @@ status: Completed
 category: concept
 tags: ["güvenlik", "", ""]
 ---
-Cloud Native güvenliği, güvenliği Cloud Native uygulamalara entegre eden bir yaklaşımdır. Güvenliğin geliştirmeden üretime kadar tüm uygulama yaşam döngüsünün bir parçası olmasını sağlar. Cloud Native güvenliği, hızlı kod değişiklikleri ve son derece geçici altyapı gibi cloud native ortamlarının özelliklerine uyum sağlamaya çalışırken geleneksel güvenlik modelleriyle aynı standartları sağlamayı amaçlamaktadır. Cloud native güvenliği, DevSecOps (development, security, operations) adındaki yöntemle büyük ölçüde alakalıdır.
+Cloud Native güvenliği, güvenliği [Cloud Native uygulamalara](/tr/cloud-native-apps/) entegre eden bir yaklaşımdır. Güvenliğin geliştirmeden üretime kadar tüm uygulama yaşam döngüsünün bir parçası olmasını sağlar. Cloud Native güvenliği, hızlı kod değişiklikleri ve son derece geçici altyapı gibi cloud native ortamlarının özelliklerine uyum sağlamaya çalışırken geleneksel güvenlik modelleriyle aynı standartları sağlamayı amaçlamaktadır. Cloud native güvenliği, DevSecOps (development, security, operations) adındaki yöntemle büyük ölçüde alakalıdır.
 
 ## Hangi Problemi Çözer
 Geleneksel güvenlik modelleri artık geçerli olmayan bir dizi varsayımla oluşturulmuştur. Cloud Native uygulamalar sık sık değişir, çok sayıda açık kaynak araç ve kütüphaneler kullanır, genellikle sunucu tarafından kontrol edilen altyapıda çalıştırılır ve hızlı altyapı değişikliklerine maruz kalır.. Kod gözden geçirmeleri, uzun kalite güvence döngüleri, ana bilgisayar tabanlı güvenlik açığı taraması ve son dakikada güvenlik için gözden geçirmeler, cloud native uygulamalarıyla ölçeklenemez. 

@@ -1,5 +1,5 @@
 ---
-title: Intégration Continue (CI)
+title: Intégration continue (CI)
 status: Completed 
 category: concept
 tags: ["application", "méthodologie", ""]

@@ -1,0 +1,22 @@
+{{/*
+
+  Usage: {{% sign-language-section VIDEO_ID %}}
+
+  */ -}}
+
+{{ $youtube := "" -}}
+{{ $videoID := .Get 0 -}}
+{{ if $videoID -}}
+  {{ $youtube = printf "{{< youtube id=\"%s?mute=1\" >}}" $videoID -}}
+{{ else -}}
+  {{ $page := (and .Page.File .Page.File.Path) | default .Page.Title -}}
+  {{ warnf "%s: Shortcode 'sign-language-section' requires a video ID as argument" $page -}}
+{{ end -}}
+
+## {{ i18n "sign_language_header" }}
+
+<div class="sign-language__video">
+{{ $.Page.RenderString $youtube }}
+</div>
+
+{{ i18n "sign_language_info" }}

@@ -1,5 +1,5 @@
 ---
-title: Décalage vers la gauche (Shift Left)
+title: Décalage vers la gauche (shift left)
 status: Completed
 category: Concept
 tags: ["méthodologie", "", ""]

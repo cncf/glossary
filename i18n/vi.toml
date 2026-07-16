@@ -1,0 +1,96 @@
+# UI strings. Buttons and similar.
+
+[ui_pager_prev]
+other = "Trước"
+
+[ui_pager_next]
+other = "Tiếp"
+
+[ui_read_more]
+other = "Xem thêm"
+
+[ui_search]
+other = "Tìm kiếm..."
+
+# Used in sentences such as "Posted in News"
+[ui_in]
+other = "trong"
+
+# Phrases for tags
+[ui_see_all_tags]
+other = "Xem tất cả thẻ"
+[ui_tag]
+other = "Thẻ"
+[ui_tags]
+other = "Các thẻ"
+[ui_search_by_tags]
+other = "Duyệt theo thẻ"
+[ui_tags_intro]
+other = "Chúng tôi đã phân loại các thuật ngữ. Sử dụng bộ lọc để duyệt các thuật ngữ theo thẻ."
+[ui_or_search_by_tags]
+other = "...hoặc duyệt theo thẻ"
+[ui_select_all]
+other = "Chọn tất cả"
+[ui_deselect_all]
+other = "Bỏ chọn tất cả"
+
+# Footer text
+[footer_all_rights_reserved]
+other = "Bảo lưu mọi quyền"
+
+[footer_privacy_policy]
+other = "Chính sách bảo mật"
+
+[footer_hub_button_text]
+other = "Tất cả trang CNCF"
+
+# Post (blog, articles etc.)
+[post_byline_by]
+other = "Bởi"
+[post_created]
+other = "Đã tạo"
+[post_last_mod]
+other = "Cập nhật lần cuối"
+[post_edit_this]
+other = "Chỉnh sửa trang này"
+[post_create_child_page]
+other = "Tạo trang con"
+[post_create_issue]
+other = "Báo cáo vấn đề"
+[post_create_project_issue]
+other = "Tạo vấn đề dự án"
+[post_posts_in]
+other = "Bài viết trong"
+[post_reading_time]
+other = "phút đọc"
+
+# Print support
+[print_printable_section]
+other = "Đây là chế độ xem có thể in nhiều trang của phần này."
+[print_click_to_print]
+other = "Nhấn vào đây để in"
+[print_show_regular]
+other = "Quay lại chế độ xem thường"
+[print_entire_section]
+other = "In toàn bộ phần"
+
+# Feedback section
+[feedback_title]
+other = "Phản hồi"
+[feedback_question]
+other = "Trang này có hữu ích không?"
+[feedback_answer_yes]
+other = "Có"
+[feedback_answer_no]
+other = "Không"
+
+# Sign language section
+[sign_language_header]
+other = "Bằng ngôn ngữ ký hiệu"
+[sign_language_info]
+other = """
+**Lưu ý**:
+Mặc dù mỗi quốc gia có ngôn ngữ ký hiệu riêng,
+[Nhóm Làm việc Người Khiếm thính/Lãng tai](https://contribute.cncf.io/accessibility/deaf-and-hard-of-hearing/)
+của chúng tôi hướng tới việc chuẩn hóa các ký hiệu cho các thuật ngữ cloud-native mới để sử dụng toàn cầu.
+"""

@@ -25,5 +25,5 @@ capable de se réparer toute seule. Il adresse également l'utilisation ineffica
 ## Quelle en est l'utilité
 
 Bien que chaque technologie réponde à un problème très spécifique,
-en tant que groupe, les technologies Cloud Natives permettent de créer des systèmes faiblement couplés qui sont résilients, gérables et observables..
+en tant que groupe, les technologies Cloud Natives permettent de créer des [systèmes faiblement couplés](/fr/loosely-coupled-architecture/) qui sont résilients, gérables et observables.
 Combiné à une automatisation robuste, elles permettent aux ingénieurs de faire des changements à fort impact de manière fréquente et prévisible avec un minimum d'effort.

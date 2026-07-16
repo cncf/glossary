@@ -1,5 +1,5 @@
 ---
-title: Maillage de services (Service Mesh)
+title: Maillage de services (service mesh)
 status: Completed
 category: technology
 tags: ["réseau", "", ""]

@@ -10,7 +10,7 @@ bazen sunucu olarak da adlandırılan fiziksel bir bilgisayarın
 birden fazla yalıtılmış işletim sistemi çalıştırmasına imkan sağlayan süreci ifade eder.
 Bu yalıtılmış işletim sistemleri ve bu sistemler için ayrılmış bilişim kaynakları (işlemci, bellek, ve ağ),
 sanal makineler (Virtual Machines) veya VM’ler olarak adlandırılır.
-Bir [sanal makine](#)den bahsettiğimizde, yazılım ile tanımlanmış bir bilgisayardan bahsediyoruz.
+Bir sanal makineden bahsettiğimizde, yazılım ile tanımlanmış bir bilgisayardan bahsediyoruz.
 Bu, gerçek bir bilgisayar gibi görünen ve davranan ancak donanımı diğer sanal makinelerle paylaşan bir şeydir.
 [Bulut bilişim](/tr/cloud-computing/), aslında sanallaştırma teknolojisi tarafından desteklenmektedir.
 Örnek olarak, AWS'den bir "bilgisayar" kiralayabilirsiniz; bu bilgisayar aslında bir VM'dir.

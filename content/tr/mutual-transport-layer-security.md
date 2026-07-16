@@ -5,7 +5,7 @@ category: Concept
 tags: ["güvenlik", "ağ", ""]
 ---
 
-Karşılıklı TLS (mTLS), iki servis arasında gönderilen mesajların kimliğini doğrulamak ve şifrelemek için kullanılan bir tekniktir. mTLS, TLS protokolüdür ama yalnızca bir bağlantının kimliğini doğrulamak yerine her iki tarafınki de doğrulanır.
+Karşılıklı TLS (mTLS), iki servis arasında gönderilen mesajların kimliğini doğrulamak ve şifrelemek için kullanılan bir tekniktir. mTLS, [TLS protokolüdür](/tr/transport-layer-security/) ama yalnızca bir bağlantının kimliğini doğrulamak yerine her iki tarafınki de doğrulanır.
 
 ## Hangi Problemi Çözer
 

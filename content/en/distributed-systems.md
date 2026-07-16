@@ -2,7 +2,7 @@
 title: Distributed System
 status: Completed
 category: concept
-tags: ["architecture", "", ""]
+tags: ["architecture", "infrastructure", "fundamental"]
 ---
 
 A distributed system is a collection of autonomous computing elements 
@@ -28,4 +28,5 @@ This can be automated allowing a system to handle a sudden increase in workload 
 
 A non-distributed system exposes itself to risks of failure because if one machine fails, the entire system fails. 
 A distributed system can be designed in such a way that, 
-even if some machines go down, the overall system can still keep working to produce the same result.
+even if some machines go down, 
+the overall system can still keep working to produce the same result.
