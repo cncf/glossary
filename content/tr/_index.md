@@ -37,7 +37,7 @@ Projenin Türkçe yerelleştirilmesi
  [Uğur Yılmaz](https://www.linkedin.com/in/uguryilmazdev/),
 [Zehra Karakaya](https://www.linkedin.com/in/zehra-k-7b7a11300/),
 [Onur Canoğlu](https://www.linkedin.com/in/onurcanoglu/),
-[Ayşe Beyaz](https://www.linkedin.com/in/ay%C5%9Fe-beyaz-191b08230/),
+[Ayşe Beyaz](https://www.linkedin.com/in/aysebeyaz/),
 [Mert Şişmanoğlu](https://www.linkedin.com/in/mertssmnoglu/),
 [Muhsin Özbek](https://tr.linkedin.com/in/muhsin-ozbek) ve
 [Yasin Herken](https://www.linkedin.com/in/yasin-herken/) tarafından yürütülmektedir.
