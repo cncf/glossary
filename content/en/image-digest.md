@@ -2,11 +2,12 @@
 title: Image Digest
 status: Completed
 category: concept
-tags: ["application", "fundamental", ""]
+tags: ["application", "security"]
 ---
 
-An image digest is a unique, content-based identifier for a [container image](/container/),
-represented as a cryptographic hash (typically SHA-256) of the image's manifest.
+An image digest is a unique, content-addressable identity for a [container image](/container-image/),
+represented as a cryptographic hash (typically SHA-256) of the image's manifest, as defined in the
+[OCI Image Specification](https://specs.opencontainers.org/image-spec/#overview).
 Unlike an image tag, which is a mutable human-readable label that can be reassigned,
 an image digest is immutable — it permanently and uniquely identifies the exact content of an image.
 
@@ -24,7 +25,11 @@ An image digest provides a guaranteed, tamper-evident way to reference a contain
 Because the digest is derived from the content of the image itself,
 any change to the image produces a different digest.
 By referencing an image using its digest (e.g., `myapp@sha256:abc123...`),
-teams ensure they are always running the exact same image,
-regardless of what happens to its tag.
+teams ensure they are always running the exact same image, regardless of what happens to its tag.
 This is especially important for security audits, reproducible builds,
-and [supply chain](/cloud-native-security/) integrity in production environments.
+and supply chain integrity in production environments.
+
+## Related terms
+
+- [Container](/container/)
+- [Container Image](/container-image/)
