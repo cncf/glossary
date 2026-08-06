@@ -32,4 +32,4 @@ gRPC allows programs to send and receive information at the same time,
 like having a conversation instead of exchanging letters.
 For example, in a ride-sharing app, 
 a driver's phone can continuously send location updates 
-while receiving new passenger requests and route changes at the same time.
+while receiving new passenger requests and route changes.
