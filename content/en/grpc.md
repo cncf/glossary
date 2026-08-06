@@ -5,7 +5,7 @@ category: technology
 tags: ["networking", ""]
 ---
 
-Google Remote Procedure Calls or [gRPC](https://grpc.io/) is a way for different programs to talk to each other over a network.
+[gRPC](https://grpc.io/) is a way for different programs to talk to each other over a network.
 Think of it like a phone system where one program can call another and request information or ask it to do something.
 Unlike older methods that send messages as text (which is slow and uses more data), 
 gRPC sends messages in a compact format that computers can read faster.
