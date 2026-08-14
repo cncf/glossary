@@ -18,6 +18,9 @@ on:
       - dev-es
   workflow_dispatch:
 
+permissions:
+  contents: read
+
 jobs:
   check-spanish-spellcheck:
     name: Run PySpelling tool to verify spanish spelling issues
