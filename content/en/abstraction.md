@@ -19,5 +19,5 @@ Systems typically have multiple abstraction layers.
 This significantly simplifies development. 
 When programming, developers build components compatible with a particular abstraction layer and 
 don't have to worry about all underlying specifics that can be very heterogeneous. 
-If it works with the abstraction layer, it works with the system 
-— no matter what's under the hood. 
+If it works with the abstraction layer, it works with the system- 
+no matter what's under the hood. 
