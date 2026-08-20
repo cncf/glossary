@@ -93,6 +93,7 @@ gitops
 gmail
 gmail's
 gRPC
+grpc
 hackable
 handoffs
 HAProxy
