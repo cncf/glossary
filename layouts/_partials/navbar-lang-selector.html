@@ -1,0 +1,17 @@
+{{/* Link directly to documentation etc., if possible. */ -}}
+{{ $langPage := cond (gt (len .Translations) 0) . .Site.Home -}}
+<div class="td-lang-menu dropdown">
+  <a class="nav-link dropdown-toggle td-lang-menu__title" href="#" role="button"
+    data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+    <span class="td-lang-menu__title-text">{{ $langPage.Language.LanguageName }}</span>
+    <span class="td-lang-menu__title-code">{{ $langPage.Language.Lang | upper }}</span>
+  </a>
+  {{/* Only show translations, not the current language */ -}}
+  <ul class="dropdown-menu">
+    {{ range $langPage.Translations -}}
+    <li>
+      <a class="dropdown-item" href="{{ .RelPermalink }}">{{ .Language.LanguageName }}</a>
+    </li>
+    {{ end -}}
+  </ul>
+</div>
