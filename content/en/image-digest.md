@@ -24,13 +24,13 @@ security risks; for example, a compromised tag could silently deliver a maliciou
 
 ## How it helps
 
-An image digest provides a guaranteed, tamper-evident way to reference a container image.
-Because the digest is derived from the content of the image itself,
-any change to the image produces a different digest.
-By referencing an image using its digest (e.g., `myapp@sha256:abc123...`),
-teams ensure they are always running the exact same image, regardless of what happens to its tag.
-This is especially important for security audits, reproducible builds,
-and supply chain integrity in production environments.
+An image digest provides a guaranteed, tamper-evident way to reference a
+container image. Because the digest is derived from the image content itself,
+any change to the image produces a different digest. By referencing an image by
+digest (e.g., `myapp@sha256:abc123...`), teams ensure they always run the exact
+same image, regardless of what happens to its tag. This is especially important
+for security audits, reproducible builds, and supply chain integrity in
+production environments.
 
 ## Related terms
 
