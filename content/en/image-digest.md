@@ -5,14 +5,14 @@ category: concept
 tags: ["application", "security"]
 ---
 
-If an image tag is like a nickname that can be reassigned to different people over time,
-an image digest is like a fingerprint: it always points to one specific, unchangeable image.
-
-An image digest is a unique, content-addressable identity for a [container image](/container-image/),
-represented as a cryptographic hash (typically SHA-256) of the image's manifest, as defined in the
+An image digest is a unique, content-addressable identifier for a
+[container image](/container-image/). It is a cryptographic hash (typically
+SHA-256) of the image’s manifest, as defined in the
 [OCI Image Specification](https://specs.opencontainers.org/image-spec/#overview).
-Unlike an image tag, which is a mutable human-readable label that can be reassigned,
-an image digest is immutable — it permanently and uniquely identifies the exact content of an image.
+Suppose an image tag is like a nickname: a mutable, human-readable label you can
+reassign to a different image at any time. An image digest is like a
+fingerprint: it is immutable and always identifies the exact content of one
+image.
 
 ## Problem it addresses
 
