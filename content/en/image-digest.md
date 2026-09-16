@@ -18,7 +18,7 @@ image.
 
 Container images are commonly referenced by tags (e.g., `myapp:v1.0` or `myapp:latest`).
 Tags are convenient, but they are mutable: a registry owner can push a different image
-under the same tag at any time. This means that two deployments using `myapp:latest`
+under the same tag at any time. This means two deployments using `myapp:latest`
 may run entirely different software, making reproducibility difficult and introducing
 security risks — for example, a compromised tag could silently deliver a malicious image.
 
