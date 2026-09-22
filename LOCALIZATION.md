@@ -116,7 +116,7 @@ Before opening a PR, ensure the website with the updated configuration works by 
 
 ![image](https://user-images.githubusercontent.com/5966944/150203331-c535a95c-c36e-4c01-85a8-5261ce6f70de.png)
 
-Open a PR (ex: https://github.com/cncf/glossary/pull/291) and wait for it to be reviewed by the [maintainers](https://github.com/cncf/glossary/blob/main/CODEOWNERS#L6).
+Open a PR (ex: https://github.com/cncf/glossary/pull/291) and wait for it to be reviewed by the [maintainers](https://github.com/cncf/glossary/blob/main/.github/CODEOWNERS#L6).
 
 ### 4. Localizing and adding minimum required terms
 
