@@ -50,7 +50,7 @@ jobs:
 #     - name: Download output
 #       uses: actions/download-artifact@v3
     - name: Download output
-      uses: dawidd6/action-download-artifact@v24
+      uses: dawidd6/action-download-artifact@d63b86af1b34672e53c440b1b83979861906bad7 # v24
       with:
         github_token: ${{secrets.GITHUB_TOKEN}}
         workflow: check-outdated-content.yaml
@@ -144,7 +144,7 @@ jobs:
         echo "The end of report" >> report.md
         
     - name: Create an issue from the report
-      uses: peter-evans/create-issue-from-file@v6
+      uses: peter-evans/create-issue-from-file@fca9117c27cdc29c6c4db3b86c48e4115a786710 # v6.0.0
       with:
         title: "[${{ env.L10N_CODE }}] A report to track and reflect updates of English content"
         content-filepath: report.md
