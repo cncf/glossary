@@ -189,11 +189,30 @@ style = "tango"
 # Uncomment if you want your chosen highlight style used for code blocks without a specified language
 # guessSyntax = "true"
 
-# Everything below this are Site Params
+# Output formats.
+# Every content page is also published as Markdown (<page URL>index.md), and
+# each language root gets an llms.txt index, so AI agents can read the glossary
+# without scraping HTML. Navigational pages (search, tags) stay HTML-only; their
+# agent directive points to llms.txt instead. Templates: layouts/all.md,
+# layouts/home.md, layouts/home.llms.txt. Spec: https://agentdocsspec.com/spec/web/
+[outputs]
+home = ["HTML", "RSS", "markdown", "LLMS"]
+section = ["HTML", "RSS", "markdown"]
+page = ["HTML", "markdown"]
 
-# Comment out if you don't want the "print entire section" link enabled.
-# [outputs]
-# section = ["HTML", "print", "RSS"]
+[outputFormats.LLMS]
+mediaType = "text/plain"
+baseName = "llms"
+isPlainText = true
+notAlternative = true
+
+# The search page is client-rendered and has no content to publish as Markdown.
+[[cascade]]
+outputs = ["HTML"]
+[cascade._target]
+path = "/search"
+
+# Everything below this are Site Params
 
 [params]
 copyright = "The Linux Foundation®"

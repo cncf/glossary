@@ -1,0 +1,21 @@
+{{- /*
+  Agent-facing pointer to the site's llms.txt index, emitted only when the
+  site publishes one (LLMS output on the home page). Hidden from visual and
+  assistive presentation with Bootstrap's clip-rect .sr-only (not display:none,
+  which HTML-to-Markdown converters strip). Placed first in <body> so agents
+  reading the page find it ahead of any navigation.
+
+  Adapted from Docsy v0.17.0, theme/layouts/_partials/llms-directive.html
+  (Apache-2.0): https://github.com/google/docsy/blob/v0.17.0/theme/layouts/_partials/llms-directive.html
+  Changes: .sr-only instead of .visually-hidden (Bootstrap 4), absolute URLs,
+  "glossary" wording. Once the site is on Docsy 0.15 or later, delete this
+  partial and the call in _default/baseof.html; the theme provides both.
+*/ -}}
+{{ with site.Home.OutputFormats.Get "LLMS" -}}
+<div class="sr-only" aria-hidden="true" data-pagefind-ignore>
+  For AI agents: a glossary index is available at {{ .Permalink }}.
+  {{- with $.OutputFormats.Get "markdown" }}
+  This page has a Markdown version at {{ .Permalink }}.
+  {{- end }}
+</div>
+{{ end -}}
