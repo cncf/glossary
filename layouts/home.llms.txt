@@ -1,0 +1,59 @@
+{{- /*
+  llms.txt index (https://llmstxt.org/), one per language at the site root.
+  Lists every completed glossary term with a short definition, linking to the
+  Markdown version of each page. Mirrors the sitemap's rule of publishing only
+  pages whose status is Completed. URLs are absolute because llms.txt is copied
+  and cached by tools that drop its source URL.
+*/ -}}
+{{- $terms := slice -}}
+{{- range .Site.RegularPages -}}
+  {{- if eq (lower (strings.TrimSpace (printf "%v" (default "" .Params.status)))) "completed" -}}
+    {{- $terms = $terms | append . -}}
+  {{- end -}}
+{{- end -}}
+{{- $terms = sort $terms "RelPermalink" -}}
+{{- $sections := slice -}}
+{{- range .Site.Sections -}}
+  {{- if eq (lower (strings.TrimSpace (printf "%v" (default "" .Params.status)))) "completed" -}}
+    {{- $sections = $sections | append . -}}
+  {{- end -}}
+{{- end -}}
+{{- $sections = sort $sections "RelPermalink" -}}
+{{- $homeURL := .Permalink -}}
+{{- with .OutputFormats.Get "markdown" }}{{ $homeURL = .Permalink }}{{ end -}}
+# {{ .Site.Title | strings.TrimSpace }}
+
+> {{ .Site.Params.description | strings.TrimSpace | replaceRE `\s+` " " }}
+
+Every link below points to the Markdown version of a page; remove the trailing `index.md` for the HTML version.
+Definitions are licensed under CC BY 4.0.
+
+## Terms
+{{ range $terms }}
+{{- $url := .Permalink }}
+{{- with .OutputFormats.Get "markdown" }}{{ $url = .Permalink }}{{ end }}
+{{- $summary := .Summary | plainify | htmlUnescape | strings.TrimSpace | replaceRE `\s+` " " | truncate 160 }}
+- [{{ .Title | strings.TrimSpace }}]({{ $url }}){{ with $summary }}: {{ . }}{{ end }}
+{{- end }}
+
+## About this glossary
+
+- [{{ .Title | strings.TrimSpace }}]({{ $homeURL }})
+{{- range $sections }}
+{{- $url := .Permalink }}
+{{- with .OutputFormats.Get "markdown" }}{{ $url = .Permalink }}{{ end }}
+- [{{ .Title | strings.TrimSpace }}]({{ $url }})
+{{- end }}
+{{- $others := slice }}
+{{- range .Site.Sites }}{{ if ne .Language.Lang $.Site.Language.Lang }}{{ $others = $others | append . }}{{ end }}{{ end }}
+{{- with $others }}
+
+## Optional
+{{ range . }}
+{{- $label := .Language.LanguageName }}
+{{- $title := .Title | strings.TrimSpace }}
+{{- with .Home.OutputFormats.Get "LLMS" }}
+- [{{ $label }}]({{ .Permalink }}): {{ $title }}
+{{- end }}
+{{- end }}
+{{- end }}
