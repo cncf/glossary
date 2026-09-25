@@ -2,6 +2,14 @@
   Markdown output for regular pages and sections (glossary terms, contribute
   pages, and so on). Mirrors _default/content.html: title, description, body,
   then a short footer for attribution.
+
+  Reference design: Docsy v0.17.0 theme/layouts/all.md (Apache-2.0),
+  https://github.com/google/docsy/blob/v0.17.0/theme/layouts/all.md
+  This template differs on purpose: absolute URLs (the AFDocs spec warns on
+  relative links in served Markdown) and a footer with source and license,
+  so it stays in place after the Docsy upgrade. The "Last modified" line
+  reproduces the text of Docsy's page-meta-lastmod.html partial so the
+  Markdown and HTML versions of a page carry the same content.
 */ -}}
 # {{ .Title | strings.TrimSpace }}
 

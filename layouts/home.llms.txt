@@ -4,6 +4,12 @@
   Markdown version of each page. Mirrors the sitemap's rule of publishing only
   pages whose status is Completed. URLs are absolute because llms.txt is copied
   and cached by tools that drop its source URL.
+
+  Reference design: Docsy v0.17.0 theme/layouts/index.llms.txt (Apache-2.0),
+  https://github.com/google/docsy/blob/v0.17.0/theme/layouts/index.llms.txt
+  Docsy's index lists the home page, main menu, and doc sections. A glossary
+  is only useful to an agent if the index lists the terms themselves, so this
+  template is site-specific and stays in place after the Docsy upgrade.
 */ -}}
 {{- $terms := slice -}}
 {{- range .Site.RegularPages -}}
