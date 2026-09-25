@@ -1,12 +1,15 @@
 // Unit tests for the markdown-negotiation edge function. Runs the handler
 // directly with a stubbed fetch and context; no Netlify runtime needed.
 //
-//   node --test netlify/edge-functions/markdown-negotiation.test.ts
+//   node --test test/markdown-negotiation.test.ts
+//
+// Lives outside netlify/edge-functions/ on purpose: Netlify deploys every
+// file in that directory as an edge function.
 
 import { test, beforeEach, afterEach } from "node:test";
 import assert from "node:assert/strict";
 
-import handler from "./markdown-negotiation.ts";
+import handler from "../netlify/edge-functions/markdown-negotiation.ts";
 
 const SITE = "https://glossary.cncf.io";
 const MD_BODY = "# Containers\n\nA container is a running process.\n";
