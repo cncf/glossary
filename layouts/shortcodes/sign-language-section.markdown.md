@@ -15,7 +15,7 @@
 
 ## {{ i18n "sign_language_header" }}
 
-{{ with $videoID }}Video: https://www.youtube.com/watch?v={{ . }}
+{{ with $videoID }}Video: <https://www.youtube.com/watch?v={{ . }}>
 
 {{ end -}}
 {{ i18n "sign_language_info" }}
