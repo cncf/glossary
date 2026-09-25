@@ -190,10 +190,11 @@ style = "tango"
 # guessSyntax = "true"
 
 # Output formats.
-# Every page is also published as Markdown (<page URL>index.md), and each
-# language root gets an llms.txt index, so AI agents can read the glossary
-# without scraping HTML. Templates: layouts/all.md, layouts/home.md,
-# layouts/home.llms.txt. Spec: https://agentdocsspec.com/spec/web/
+# Every content page is also published as Markdown (<page URL>index.md), and
+# each language root gets an llms.txt index, so AI agents can read the glossary
+# without scraping HTML. Navigational pages (search, tags) stay HTML-only; their
+# agent directive points to llms.txt instead. Templates: layouts/all.md,
+# layouts/home.md, layouts/home.llms.txt. Spec: https://agentdocsspec.com/spec/web/
 [outputs]
 home = ["HTML", "RSS", "markdown", "LLMS"]
 section = ["HTML", "RSS", "markdown"]
