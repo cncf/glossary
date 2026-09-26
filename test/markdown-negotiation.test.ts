@@ -19,14 +19,18 @@ const markdownPages = new Set([`${SITE}/container/index.md`, `${SITE}/ja/contain
 
 const realFetch = globalThis.fetch;
 let fetched: string[] = [];
+let fetchedMethods: string[] = [];
 
 beforeEach(() => {
   fetched = [];
-  globalThis.fetch = async (input: RequestInfo | URL) => {
+  fetchedMethods = [];
+  globalThis.fetch = async (input: RequestInfo | URL, init?: RequestInit) => {
     const url = String(input instanceof Request ? input.url : input);
+    const method = init?.method ?? (input instanceof Request ? input.method : "GET");
     fetched.push(url);
+    fetchedMethods.push(method);
     if (markdownPages.has(url)) {
-      return new Response(MD_BODY, {
+      return new Response(method === "HEAD" ? null : MD_BODY, {
         status: 200,
         headers: { "content-type": "text/markdown; charset=UTF-8", "cache-control": "public,max-age=0,must-revalidate" },
       });
@@ -44,8 +48,8 @@ const context = {
   next: async () => new Response(NEXT_MARKER, { status: 200, headers: { "content-type": "text/html" } }),
 } as unknown as import("@netlify/edge-functions").Context;
 
-const run = (path: string, accept?: string) =>
-  handler(new Request(SITE + path, { headers: accept === undefined ? {} : { accept } }), context);
+const run = (path: string, accept?: string, method = "GET") =>
+  handler(new Request(SITE + path, { method, headers: accept === undefined ? {} : { accept } }), context);
 
 test("serves index.md when Accept includes text/markdown", async () => {
   const res = await run("/container/", "text/markdown");
@@ -97,4 +101,29 @@ test("falls through to the normal response when no index.md exists", async () =>
 
 test("does not treat 'text/markdownish' as a match", async () => {
   assert.equal(await run("/container/", "text/markdownish"), undefined);
+});
+
+// LOCKED: regression for #3697 review (q=0 means "not acceptable", RFC 9110 12.5.1)
+test("bypasses when text/markdown is listed with q=0", async () => {
+  assert.equal(await run("/container/", "text/markdown;q=0"), undefined);
+  assert.equal(await run("/container/", "text/html, text/markdown; q=0.000"), undefined);
+  assert.equal(await run("/container/", "text/markdown;q=nonsense"), undefined);
+  assert.deepEqual(fetched, []);
+});
+
+// LOCKED: regression for #3697 review (only GET/HEAD may be answered with the Markdown sibling)
+test("bypasses methods other than GET and HEAD", async () => {
+  assert.equal(await run("/container/", "text/markdown", "POST"), undefined);
+  assert.equal(await run("/container/", "text/markdown", "OPTIONS"), undefined);
+  assert.deepEqual(fetched, []);
+});
+
+// LOCKED: regression for #3697 review (HEAD must stay HEAD)
+test("forwards HEAD to the Markdown sibling and returns no body", async () => {
+  const res = await run("/container/", "text/markdown", "HEAD");
+  assert.ok(res instanceof Response);
+  assert.equal(res.status, 200);
+  assert.equal(res.headers.get("content-type"), "text/markdown; charset=utf-8");
+  assert.equal(await res.text(), "");
+  assert.deepEqual(fetchedMethods, ["HEAD"]);
 });
