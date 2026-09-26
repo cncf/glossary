@@ -10,7 +10,7 @@
 // Spec: https://agentdocsspec.com/spec/web/ (Markdown Availability, content
 // negotiation).
 
-import type { Context } from "@netlify/edge-functions";
+import type { Config, Context } from "@netlify/edge-functions";
 
 // Only clean page URLs (a trailing slash) can have a Markdown sibling. Files
 // (anything with an extension) and the client-rendered search page do not.
@@ -45,11 +45,11 @@ export default async (request: Request, context: Context) => {
   const markdown = await fetch(new URL(url.pathname + "index.md", url), {
     method: request.method,
     headers: { accept: "text/markdown" },
-  });
+  }).catch(() => undefined);
 
-  if (!markdown.ok) {
-    // No Markdown sibling (taxonomy pages, redirects, 404s): fall through to
-    // the normal response for this URL.
+  if (!markdown?.ok) {
+    // No Markdown sibling (taxonomy pages, redirects, 404s) or the fetch
+    // failed: fall through to the normal response for this URL.
     return context.next();
   }
 
@@ -60,3 +60,8 @@ export default async (request: Request, context: Context) => {
 
   return new Response(markdown.body, { status: 200, headers });
 };
+
+// Routing (path and Accept condition) lives in netlify.toml; Netlify merges it
+// with this. Fail open: if the function itself errors, serve the page as usual
+// rather than Netlify's generic error page.
+export const config: Config = { onError: "bypass" };
