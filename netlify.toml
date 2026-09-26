@@ -18,3 +18,13 @@ command = "make preview-build"
 
 [context.branch-deploy]
 command = "make preview-build"
+
+# Serve a page's Markdown version to clients that ask for it with
+# `Accept: text/markdown` (AI agents). The header condition means the function
+# never runs for browsers; the CDN serves HTML as before.
+[[edge_functions]]
+function = "markdown-negotiation"
+path = "/*"
+excludedPath = ["/*.*", "/search/", "/*/search/"]
+[edge_functions.header]
+accept = "text/markdown"
