@@ -127,3 +127,13 @@ test("forwards HEAD to the Markdown sibling and returns no body", async () => {
   assert.equal(await res.text(), "");
   assert.deepEqual(fetchedMethods, ["HEAD"]);
 });
+
+// LOCKED: regression for #3697 (fail open: a failed sibling fetch must not become an error page)
+test("falls through to the normal response when fetching the Markdown sibling throws", async () => {
+  globalThis.fetch = async () => {
+    throw new TypeError("network error");
+  };
+  const res = await run("/container/", "text/markdown");
+  assert.ok(res instanceof Response);
+  assert.equal(await res.text(), NEXT_MARKER);
+});
