@@ -38,7 +38,13 @@ Definitions are licensed under CC BY 4.0.
 {{ range $terms }}
 {{- $url := .Permalink }}
 {{- with .OutputFormats.Get "markdown" }}{{ $url = .Permalink }}{{ end }}
-{{- $summary := .Summary | plainify | htmlUnescape | strings.TrimSpace | replaceRE `\s+` " " | truncate 160 }}
+{{- /* Definition = the first paragraph of the rendered body. Not .Summary: it
+       is word-count based, so for CJK languages (no word spaces) it runs on
+       into the next sections, and for it/hi/bn it swallows the "What it is"
+       heading that precedes the definition. truncate HTML-escapes plain
+       strings, so unescape after it as well. */ -}}
+{{- $summary := "" }}
+{{- with findRE `(?s)<p>.*?</p>` .Content 1 }}{{ $summary = index . 0 | plainify | htmlUnescape | strings.TrimSpace | replaceRE `\s+` " " | truncate 160 | htmlUnescape }}{{ end }}
 - [{{ .Title | strings.TrimSpace }}]({{ $url }}){{ with $summary }}: {{ . }}{{ end }}
 {{- end }}
 
