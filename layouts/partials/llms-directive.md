@@ -5,5 +5,5 @@
 */ -}}
 {{- with site.Home.OutputFormats.Get "LLMS" -}}
 > For AI agents: the complete glossary index is at [llms.txt]({{ .Permalink }}).
-> Markdown versions of every page are available by appending `index.md` to the page URL.
+> Markdown versions of every glossary page are available by appending `index.md` to the page URL.
 {{- end -}}
