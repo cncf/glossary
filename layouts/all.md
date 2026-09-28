@@ -22,13 +22,6 @@
 
 {{ . }}
 {{- end }}
-{{- with .Pages }}
-
-## Pages in this section
-{{ range . }}
-- [{{ .Title | strings.TrimSpace }}]({{ with .OutputFormats.Get "markdown" }}{{ .Permalink }}{{ else }}{{ .Permalink }}{{ end }})
-{{- end }}
-{{- end }}
 
 ---
 
