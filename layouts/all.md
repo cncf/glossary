@@ -30,7 +30,7 @@
 - Status: {{ . }}
 {{- end }}
 {{- if not .Lastmod.IsZero }}
-- Last modified {{ .Lastmod.Format (site.Params.time_format_default | default "January 2, 2006") }}
+- {{ T "post_last_mod" }} {{ .Lastmod.Format (site.Params.time_format_default | default "January 2, 2006") }}
   {{- /* The commit subject is arbitrary text; quote it verbatim in a code span
          so backticks, asterisks, or angle brackets in it are not parsed as
          Markdown. Per CommonMark, the fence must be longer than any backtick
