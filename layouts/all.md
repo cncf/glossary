@@ -49,6 +49,7 @@
   {{- end }}
 {{- end }}
 {{- with .File }}
-- Source: {{ site.Params.github_repo }}/blob/{{ site.Params.github_branch }}/content/{{ site.Language.Lang }}/{{ .Path }}
+{{- /* Two Hindi source files have spaces in their names; encode them or the link breaks. */}}
+- Source: {{ site.Params.github_repo }}/blob/{{ site.Params.github_branch }}/content/{{ site.Language.Lang }}/{{ replace .Path " " "%20" }}
 {{- end }}
 - License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
