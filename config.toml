@@ -196,9 +196,21 @@ style = "tango"
 # agent directive points to llms.txt instead. Templates: layouts/all.md,
 # layouts/home.md, layouts/home.llms.txt. Spec: https://agentdocsspec.com/spec/web/
 [outputs]
-home = ["HTML", "RSS", "markdown", "LLMS"]
+home = ["HTML", "RSS", "markdown", "LLMS", "HEADERS"]
 section = ["HTML", "RSS", "markdown"]
 page = ["HTML", "markdown"]
+
+# Netlify _headers (root only): X-Robots-Tag: noindex for the Markdown version
+# of every page whose HTML is NOINDEX (status not Completed). Template:
+# layouts/home.headers.
+[mediaTypes."text/netlify"]
+delimiter = ""
+
+[outputFormats.HEADERS]
+mediaType = "text/netlify"
+baseName = "_headers"
+isPlainText = true
+notAlternative = true
 
 [outputFormats.LLMS]
 mediaType = "text/plain"
