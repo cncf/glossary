@@ -1,0 +1,17 @@
+{{- /*
+  Netlify _headers: the HTML of a non-completed page carries a NOINDEX robots
+  meta; its Markdown version has no <head>, so send the same signal as a header.
+  Only the default-language home emits rules (Netlify reads the root file).
+*/ -}}
+{{- if eq site.Language.Lang site.Sites.Default.Language.Lang -}}
+{{- range site.Sites -}}
+{{- range .Pages -}}
+{{- if not (eq (lower (strings.TrimSpace (printf "%v" (default "" .Params.status)))) "completed") -}}
+{{- with .OutputFormats.Get "markdown" }}
+{{ .RelPermalink }}
+  X-Robots-Tag: noindex
+{{- end -}}
+{{- end -}}
+{{- end -}}
+{{- end }}
+{{ end -}}
