@@ -128,6 +128,31 @@ test("forwards HEAD to the Markdown sibling and returns no body", async () => {
   assert.deepEqual(fetchedMethods, ["HEAD"]);
 });
 
+// LOCKED: regression for #3697 review (a leading "//" must not send the sibling fetch to another origin)
+test("keeps the sibling fetch on the request origin for a double-slash path", async () => {
+  const res = await run("//attacker.example/", "text/markdown");
+  assert.deepEqual(fetched, [`${SITE}//attacker.example/index.md`]);
+  assert.ok(res instanceof Response);
+  assert.equal(await res.text(), NEXT_MARKER);
+});
+
+// LOCKED: regression for #3697 review (qvalue must match RFC 9110 12.4.2 grammar and range)
+test("bypasses when the text/markdown qvalue is malformed or out of range", async () => {
+  assert.equal(await run("/container/", "text/markdown;q=0.5junk"), undefined);
+  assert.equal(await run("/container/", "text/markdown;q=1.5"), undefined);
+  assert.equal(await run("/container/", "text/markdown;q=0.5000"), undefined);
+  assert.equal(await run("/container/", "text/markdown;q="), undefined);
+  assert.deepEqual(fetched, []);
+});
+
+test("serves Markdown for well-formed non-zero qvalues", async () => {
+  for (const q of ["1", "1.000", "0.001", "0.5"]) {
+    const res = await run("/container/", `text/markdown;q=${q}`);
+    assert.ok(res instanceof Response, `q=${q}`);
+    assert.equal(res.headers.get("content-type"), "text/markdown; charset=utf-8", `q=${q}`);
+  }
+});
+
 // LOCKED: regression for #3697 (fail open: a failed sibling fetch must not become an error page)
 test("falls through to the normal response when fetching the Markdown sibling throws", async () => {
   globalThis.fetch = async () => {

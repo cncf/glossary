@@ -17,15 +17,21 @@ import type { Config, Context } from "@netlify/edge-functions";
 const isPageURL = (pathname: string): boolean =>
   pathname.endsWith("/") && !/(^|\/)search\/$/.test(pathname);
 
+// RFC 9110 12.4.2: qvalue = ( "0" [ "." 0*3DIGIT ] ) / ( "1" [ "." 0*3("0") ] )
+const QVALUE = /^(?:0(?:\.\d{0,3})?|1(?:\.0{0,3})?)$/;
+
 // True when the Accept header lists text/markdown with a non-zero quality.
-// `q=0` means "not acceptable" (RFC 9110, 12.5.1).
+// `q=0` means "not acceptable" (RFC 9110, 12.5.1); a malformed qvalue is
+// treated the same way rather than guessed at.
 const prefersMarkdown = (accept: string | null): boolean =>
   accept !== null &&
   accept.split(",").some((range) => {
     const [mediaType, ...params] = range.split(";").map((part) => part.trim());
     if (mediaType.toLowerCase() !== "text/markdown") return false;
     const q = params.find((param) => /^q=/i.test(param));
-    return q === undefined || Number.parseFloat(q.slice(2)) > 0;
+    if (q === undefined) return true;
+    const value = q.slice(2);
+    return QVALUE.test(value) && Number(value) > 0;
   });
 
 // The Markdown sibling can only stand in for a read.
@@ -42,7 +48,13 @@ export default async (request: Request, context: Context) => {
     return;
   }
 
-  const markdown = await fetch(new URL(url.pathname + "index.md", url), {
+  // Mutate a copy of the request URL rather than resolving a string: a
+  // pathname starting with "//" would otherwise parse as a scheme-relative
+  // URL and send the fetch to another origin.
+  const sibling = new URL(url);
+  sibling.pathname = url.pathname + "index.md";
+
+  const markdown = await fetch(sibling, {
     method: request.method,
     headers: { accept: "text/markdown" },
   }).catch(() => undefined);
@@ -56,7 +68,7 @@ export default async (request: Request, context: Context) => {
   const headers = new Headers(markdown.headers);
   headers.set("content-type", "text/markdown; charset=utf-8");
   headers.set("vary", "Accept");
-  headers.set("x-markdown-source", url.pathname + "index.md");
+  headers.set("x-markdown-source", sibling.pathname);
 
   return new Response(markdown.body, { status: 200, headers });
 };
