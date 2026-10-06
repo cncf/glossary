@@ -49,7 +49,7 @@ sont des Mainteneurs Émérites, et nous leur sommes profondément reconnaissant
 Enfin, la traduction et localisation française du Glossaire Cloud Native sont réalisées et maintenues par
 [Christophe Sauthier](https://www.linkedin.com/in/christophesauthier/),
 [Flavien Hardy](https://www.linkedin.com/in/flavien-h-93208a18b/),
-[Ludovic Logiou](https://www.linkedin.com/in/ludovic-%F0%9F%92%BB-logiou-98123978/),
+[Ludovic Logiou](https://www.linkedin.com/in/ludovic-logiou-98123978/),
 [Stéphane Este-Gracias](https://www.linkedin.com/in/sestegra/),
 [Guillaume Bernard](https://www.linkedin.com/in/gbernardit/),
 et divers contributeurs.
