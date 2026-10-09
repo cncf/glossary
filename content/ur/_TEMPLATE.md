@@ -1,6 +1,6 @@
 ---
 title: ڈیفینیشن ٹیمپلیٹ (Definition Template)
-status: Completed
+status: Feedback Appreciated
 category: تصور
 ---
 
