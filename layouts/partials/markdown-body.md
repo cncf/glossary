@@ -21,6 +21,11 @@
     {{- end -}}
   {{- end -}}
 {{- end -}}
+{{- /* Goldmark turns `## Title {#id}` into <h2 id="id">; .RenderShortcodes
+       leaves the attribute as text, which CommonMark readers show literally
+       and cannot link to. Put a portable anchor before the heading instead
+       so in-page links to the id keep working. */ -}}
+{{- $body = replaceRE `(?m)^(#{1,6} .*?)[ \t]*\{#([A-Za-z0-9_-]+)\}[ \t]*$` "<a id=\"${2}\"></a>\n\n${1}" $body -}}
 {{- $body = replaceRE `\]\(/` (printf "](%s/" $root) $body -}}
 {{- $body = replaceRE `\]\(\.\./` (printf "](%s" $parent) $body -}}
 {{- $body = replaceRE `((?:src|href)=")/` (printf "${1}%s/" $root) $body -}}
