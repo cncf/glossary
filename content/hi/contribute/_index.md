@@ -4,7 +4,7 @@ toc_hide: true
 status: Completed
 menu:
   main:
-    weight: 10
+    weight: 20
 ---
 
 क्लाउड नेटिव शब्दावली के लिए सभी सामग्री [इस GitHub रेपो](https://github.com/cncf/glossary) में संग्रहीत है। यहाँ आपको [इशू](https://github.com/cncf/glossary/issues), [PRs](https://github.com/cncf/glossary/pulls) और [चर्चाओं](https://github.com/cncf/glossary/discussions) की सूची मिलेगी।
