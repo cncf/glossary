@@ -14,7 +14,7 @@ Los cargos se basan en un modelo de pago por uso.
 El [escalado](/es/scalability/) y el aprovisionamiento de recursos para cómputo, almacenamiento o redes, se ajustan automáticamente en función de la demanda de la aplicación sin intervención del usuario.
 Un proveedor de plataforma sin servidor consolida recursos para atender a múltiples usuarios en una única máquina física, garantizando el aislamiento mediante la virtualización, especialmente con [Máquinas Virtuales](/es/virtual-machine/).
 
-Sin servidor (Serverless) es un término integral que abarca servicios con estos atributos y se extiende desde [Plataforma como Servicio (PaaS)](/es/platform-as-a-service/) hasta [Software como Servicio (SaaS)]( /es/software-as-a-service/).
+Sin servidor (Serverless) es un término integral que abarca servicios con estos atributos y se extiende desde [Plataforma como Servicio (PaaS)](/es/platform-as-a-service/) hasta Software como Servicio (SaaS).
 
 ## Problema que aborda
 
