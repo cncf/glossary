@@ -71,7 +71,7 @@ Glossary 還有本地化審核者。這些是本地化團隊（翻譯 Glossary �
 
 ## 3. 維護者 {#maintainers}
 
-維護者是可以批准並合併 PR 的審核者。任何人都可以成為 Glossary 的維護者（參見[成為維護者](#becoming-a-maintainer)）。 
+維護者是可以批准並合併 PR 的審核者。任何人都可以成為 Glossary 的維護者（參見[成為維護者](#becoming-an-maintainers)）。 
 維護者有一些期望，包括：
 
 - 成為一個積極和負責任的審核者（參見上文），
