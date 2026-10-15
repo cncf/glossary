@@ -1,0 +1,22 @@
+name: Unit tests
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  unit-tests:
+    name: UNIT TESTS
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-node@v7
+        with:
+          node-version-file: .nvmrc
+      # No npm install: the tests only use node: builtins and type-only
+      # imports, which Node 24 strips at load time.
+      - run: npm run test:unit
