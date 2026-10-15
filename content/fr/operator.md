@@ -22,7 +22,7 @@ Mais dans le monde Cloud Native, fortement automatisé, on ne peut pas toujours 
 ## Quelle en est l'utilité
 
 L'opérateur Kubernetes est, au fond, une abstraction, un modèle, qui permet de créer des ressources utiles pour traiter les problèmes décrits ci-dessus.
-En général, les opérateurs existants fournissent un ensemble de nouvelles ressources, appelées CRD (Custom Resource Definition), ainsi que des composants chargés de faire en sorte que l'état réel du cluster corresponde en permanence à l'état souhaité.
+En général, les opérateurs existants fournissent un ensemble de nouvelles ressources, appelées définitions de ressources personnalisées (CRD : Custom Resource Definitions), ainsi que des composants chargés de faire en sorte que l'état réel du cluster corresponde en permanence à l'état souhaité.
 Prenons l'exemple d'un opérateur de cluster de bases de données : ces composants savent exactement comment faire évoluer ce cluster à la hausse ou à la baisse, et que faire en cas de panne, etc.
 Ainsi, il n'est pas nécessaire de maîtriser cette technologie pour l'utiliser dans un cluster Kubernetes et profiter de la mise à l'échelle ou d'autres fonctionnalités spécifiques.
 
