@@ -1,5 +1,5 @@
 ---
-title: 블루 그린 배포 (Blue Green Deployment)
+title: 블루-그린 배포 (Blue Green Deployment)
 status: Completed
 category: 개념
 tags: ["방법론", "애플리케이션", ""]
