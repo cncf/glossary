@@ -8,7 +8,7 @@ tags: ["基本原理", "屬性", ""]
 可擴展性指的是一個系統能夠擴大成長的能力，
 也就是增加系統執行其預定功能的能力。
 舉例來說，
-[Kubernetes](/zh-tw/kubernetes/) [叢集]((/zh-tw/cluster/))透過增減[容器化](/zh-tw/containerization/)應用程式的數量來擴展，
+[Kubernetes](/zh-tw/kubernetes/) [叢集](/zh-tw/cluster/)透過增減[容器化](/zh-tw/containerization/)應用程式的數量來擴展，
 但這種可擴展性取決於幾項因素。
 它擁有多少個[節點](/zh-tw/nodes/)？
 每個節點可以處理多少個[容器](/zh-tw/container/)？
