@@ -20,19 +20,30 @@ const isPageURL = (pathname: string): boolean =>
 // RFC 9110 12.4.2: qvalue = ( "0" [ "." 0*3DIGIT ] ) / ( "1" [ "." 0*3("0") ] )
 const QVALUE = /^(?:0(?:\.\d{0,3})?|1(?:\.0{0,3})?)$/;
 
-// True when the Accept header lists text/markdown with a non-zero quality.
-// `q=0` means "not acceptable" (RFC 9110, 12.5.1); a malformed qvalue is
-// treated the same way rather than guessed at.
-const prefersMarkdown = (accept: string | null): boolean =>
-  accept !== null &&
-  accept.split(",").some((range) => {
-    const [mediaType, ...params] = range.split(";").map((part) => part.trim());
-    if (mediaType.toLowerCase() !== "text/markdown") return false;
-    const q = params.find((param) => /^q=/i.test(param));
-    if (q === undefined) return true;
-    const value = q.slice(2);
-    return QVALUE.test(value) && Number(value) > 0;
-  });
+// quality() and prefersMarkdown() come from @jihoon-seo's review of #3697:
+// https://github.com/cncf/glossary/pull/3697#discussion_r4225549340
+//
+// Quality the Accept header gives a media type: 0 when it is not listed, or
+// listed with q=0 or a malformed qvalue (RFC 9110, 12.5.1).
+const quality = (accept: string, type: string): number =>
+  Math.max(
+    0,
+    ...accept.split(",").map((range) => {
+      const [mediaType, ...params] = range.split(";").map((part) => part.trim());
+      if (mediaType.toLowerCase() !== type) return 0;
+      const q = params.find((param) => /^q=/i.test(param));
+      const value = q === undefined ? "1" : q.slice(2);
+      return QVALUE.test(value) ? Number(value) : 0;
+    }),
+  );
+
+// True when the client accepts text/markdown and does not rank an explicitly
+// listed text/html above it (wildcards such as */* are not considered).
+const prefersMarkdown = (accept: string | null): boolean => {
+  if (accept === null) return false;
+  const markdown = quality(accept, "text/markdown");
+  return markdown > 0 && markdown >= quality(accept, "text/html");
+};
 
 // The Markdown sibling can only stand in for a read.
 const isReadMethod = (method: string): boolean => method === "GET" || method === "HEAD";
