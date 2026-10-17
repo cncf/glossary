@@ -81,7 +81,7 @@ Glossary 還有本地化審核者。這些是本地化團隊（翻譯 Glossary �
 
 如果一個維護者不再對上述職責感興趣或不能執行，則應自行移動到名譽狀態。
 
-### 成為維護者 {#becoming-an-maintainers}
+### 成為維護者 {#becoming-a-maintainer}
 
 維護者應該有成功的審核者和提交高品質 PR 的良好記錄。 
 如果時區允許，他們還應該定期參加 Glossary 工作組會議。
