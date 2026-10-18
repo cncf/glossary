@@ -1,7 +1,8 @@
 // Unit tests for the markdown-negotiation edge function. Runs the handler
 // directly with a stubbed fetch and context; no Netlify runtime needed.
 //
-//   node --test test/markdown-negotiation.test.ts
+//   npm run test:unit                              (all unit tests; CI runs this)
+//   node --test test/markdown-negotiation.test.ts  (this file only)
 //
 // Lives outside netlify/edge-functions/ on purpose: Netlify deploys every
 // file in that directory as an edge function.
@@ -151,6 +152,16 @@ test("serves Markdown for well-formed non-zero qvalues", async () => {
     assert.ok(res instanceof Response, `q=${q}`);
     assert.equal(res.headers.get("content-type"), "text/markdown; charset=utf-8", `q=${q}`);
   }
+});
+
+// LOCKED: regression for #3697 review (an explicitly higher-ranked text/html wins, RFC 9110 12.5.1)
+// Test from @jihoon-seo's review: https://github.com/cncf/glossary/pull/3697#discussion_r4225549340
+test("bypasses when text/html is ranked above text/markdown", async () => {
+  assert.equal(await run("/container/", "text/html, text/markdown;q=0.1"), undefined);
+  assert.deepEqual(fetched, []);
+  const tie = await run("/container/", "text/markdown, text/html");
+  assert.ok(tie instanceof Response);
+  assert.equal(tie.headers.get("content-type"), "text/markdown; charset=utf-8");
 });
 
 // LOCKED: regression for #3697 (fail open: a failed sibling fetch must not become an error page)

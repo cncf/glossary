@@ -17,7 +17,8 @@
     "seq": "bash -c 'for cmd in \"$@\"; do npm run $cmd || exit 1; done' - ",
     "serve": "netlify dev -c \"hugo serve --minify -DFE -w\"",
     "serve:with-pagefind": "hugo --baseURL=/ && npm_config_yes=true npx pagefind --site 'public' --output-subdir '../static/pagefind' && npm run serve",
-    "test": "npm run check:links",
+    "test": "npm run test:unit && npm run check:links",
+    "test:unit": "node --test \"test/**/*.test.ts\"",
     "update:pkgs": "npx npm-check-updates -u"
   },
   "devDependencies": {
