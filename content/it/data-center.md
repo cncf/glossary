@@ -24,5 +24,5 @@ queste hanno bisogno di più capacità di elaborazione di quanta ne possa fornir
 Collegando fra di loro vari server, gli utenti possono creare un [sistema distribuito](/it/distributed-systems/) che funziona come un supercomputer. 
 Utilizzando la potenza di diverse macchine, ora possiamo eseguire applicazioni molto più grandi o elaborare attività computazionali molto più elevate. 
 All'interno dei data center vengono eseguite la maggior parte delle applicazioni che utilizziamo quotidianamente.
-I [cloud pubblici](it/cloud-computing) sono data center che affittano la capacità computazionale ai propri clienti. 
+I [cloud pubblici](/it/cloud-computing/) sono data center che affittano la capacità computazionale ai propri clienti. 
 Durante gli ultimi anni, abbiamo assistito a un passaggio dai data center di proprietà delle aziende al cloud.
