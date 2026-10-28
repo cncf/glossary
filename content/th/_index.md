@@ -20,20 +20,20 @@ status: Completed
 เรายินดีรับการมีส่วนร่วมจากทุกคนที่ปฏิบัติตามวัตถุประสงค์และกฎบัตรของโครงการ
 
 ทุกคนที่ต้องการมีส่วนร่วมสามารถสร้าง GitHub issue หรือ pull request ได้
-โปรดปฏิบัติตาม[คู่มือสไตล์](/style-guide/) อ่านเอกสาร[วิธีการมีส่วนร่วม](/contribute/) เข้าร่วม [CNCF Slack](https://slack.cncf.io) และเข้าร่วมช่อง [#glossary](https://cloud-native.slack.com/archives/C02TX20MQBB)
-นอกจากนี้ยังมีช่อง [#glossary-localizations](https://cloud-native.slack.com/archives/C02N2RGFXDF) สำหรับผู้ที่ต้องการช่วยแปลอภิธานศัพท์เป็นภาษาของตน
+โปรดปฏิบัติตาม[คู่มือรูปแบบเอกสาร](/style-guide/) อ่าน[แนวทางการมีส่วนร่วม](/contribute/) เข้าร่วม [CNCF Slack](https://slack.cncf.io) และเข้าร่วมช่องห้องสนทนา [#glossary](https://cloud-native.slack.com/archives/C02TX20MQBB)
+นอกจากนี้ยังมีช่องห้องสนทนา [#glossary-localizations](https://cloud-native.slack.com/archives/C02N2RGFXDF) สำหรับผู้ที่ต้องการช่วยแปลอภิธานศัพท์เป็นภาษาท้องถิ่น
 
 ## กิตติกรรมประกาศ
 
-อภิธานศัพท์ Cloud Native ริเริ่มโดย CNCF Marketing Committee (Business Value Subcommittee) และมีผู้ร่วมพัฒนาดังนี้
+อภิธานศัพท์ Cloud Native ริเริ่มโดย CNCF Marketing Committee (Business Value Subcommittee) และมีผู้ร่วมจัดทำดังนี้
 [Catherine Paganini](https://www.linkedin.com/in/catherinepaganini/en/),
 [Chris Aniszczyk](https://www.linkedin.com/in/caniszczyk/),
 [Daniel Jones](https://www.linkedin.com/in/danieljoneseb/?originalSubdomain=uk),
 [Jason Morgan](https://www.linkedin.com/in/jasonmorgan2/),
 [Katelin Ramer](https://www.linkedin.com/in/katelinramer/),
 [Mike Foster](https://www.linkedin.com/in/mfosterche/?originalSubdomain=ca)
-และผู้ร่วมพัฒนาอีกหลายท่าน
-สามารถดูรายชื่อผู้ร่วมพัฒนาทั้งหมดได้ที่[หน้า GitHub นี้](https://github.com/cncf/glossary/graphs/contributors)
+และผู้ร่วมจัดทำอีกหลายท่าน
+สามารถดูรายชื่อผู้ร่วมจัดทำทั้งหมดได้ที่[หน้า GitHub นี้](https://github.com/cncf/glossary/graphs/contributors)
 
 อภิธานศัพท์นี้ดูแลโดย
 [Seokho Son](https://www.linkedin.com/in/seokho-son/),
