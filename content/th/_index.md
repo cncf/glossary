@@ -7,7 +7,7 @@ status: Completed
 
 อภิธานศัพท์ Cloud Native มุ่งทำให้โลกของ cloud native ซึ่งขึ้นชื่อเรื่องความซับซ้อนเข้าใจได้ง่ายขึ้น
 ไม่เพียงสำหรับผู้เชี่ยวชาญด้านเทคนิค แต่รวมถึงผู้ที่ทำงานด้านธุรกิจด้วย
-เพื่อให้บรรลุเป้าหมายนี้ เราเน้นความเรียบง่าย (เช่น ใช้ภาษาที่เข้าใจง่าย หลีกเลี่ยงศัพท์การตลาด ยกตัวอย่างที่ทุกคนที่ใช้เทคโนโลยีเชื่อมโยงได้ และตัดรายละเอียดที่ไม่จำเป็นออก)
+เพื่อให้บรรลุเป้าหมายนี้ เราเน้นความเรียบง่าย เช่น ใช้ภาษาที่เข้าใจง่าย หลีกเลี่ยงศัพท์การตลาด ยกตัวอย่างที่ทุกคนที่ใช้เทคโนโลยีเชื่อมโยงได้ และตัดรายละเอียดที่ไม่จำเป็นออก
 อภิธานศัพท์นี้เป็นโครงการที่นำโดย Business Value Subcommittee (BVS) ของ CNCF
 
 <p><img class="mt-3" src="/images/homepage/kubecon.jpg" alt="ผู้คนกำลังรับชมการบรรยายที่ Kubecon"></p>
@@ -25,14 +25,14 @@ status: Completed
 
 ## กิตติกรรมประกาศ
 
-อภิธานศัพท์ Cloud Native ริเริ่มโดย CNCF Marketing Committee (Business Value Subcommittee) และมีผู้ร่วมจัดทำดังนี้
+อภิธานศัพท์ Cloud Native ริเริ่มโดย CNCF Marketing Committee (Business Value Subcommittee) โดยมีผู้ร่วมจัดทำ ได้แก่
 [Catherine Paganini](https://www.linkedin.com/in/catherinepaganini/en/),
 [Chris Aniszczyk](https://www.linkedin.com/in/caniszczyk/),
 [Daniel Jones](https://www.linkedin.com/in/danieljoneseb/?originalSubdomain=uk),
 [Jason Morgan](https://www.linkedin.com/in/jasonmorgan2/),
 [Katelin Ramer](https://www.linkedin.com/in/katelinramer/),
 [Mike Foster](https://www.linkedin.com/in/mfosterche/?originalSubdomain=ca)
-และผู้ร่วมจัดทำอีกหลายท่าน
+รวมถึงผู้ร่วมจัดทำอีกหลายท่าน
 สามารถดูรายชื่อผู้ร่วมจัดทำทั้งหมดได้ที่[หน้า GitHub นี้](https://github.com/cncf/glossary/graphs/contributors)
 
 อภิธานศัพท์นี้ดูแลโดย
@@ -42,11 +42,11 @@ status: Completed
 [Nate W.](https://www.linkedin.com/in/nate-double-u/)
 และ [Junya Okabe](https://www.linkedin.com/in/junya-okabe/)
 
+นอกจากนี้ ขอขอบคุณผู้ดูแลโครงการกิตติมศักดิ์ (Emeritus Maintainers) ได้แก่
 [Catherine Paganini](https://www.linkedin.com/in/catherinepaganini/en/),
 [Jason Morgan](https://www.linkedin.com/in/jasonmorgan2/) และ
 [Jorge Castro](https://www.linkedin.com/in/jorge-castro2112/)
-เป็น Maintainer กิตติมศักดิ์ และเราขอขอบคุณอย่างยิ่ง
-สำหรับการมีส่วนร่วมอันทรงคุณค่าตลอดหลายปีที่ผ่านมา
+สำหรับการมีส่วนร่วมอันทรงคุณค่าและการสนับสนุนโครงการตลอดหลายปีที่ผ่านมา
 
 ## สัญญาอนุญาต
 
