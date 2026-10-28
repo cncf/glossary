@@ -1,0 +1,96 @@
+# UI strings. Buttons and similar.
+
+[ui_pager_prev]
+other = "ก่อนหน้า"
+
+[ui_pager_next]
+other = "ถัดไป"
+
+[ui_read_more]
+other = "อ่านเพิ่มเติม"
+
+[ui_search]
+other = "ค้นหา..."
+
+# Used in sentences such as "Posted in News"
+[ui_in]
+other = "ใน"
+
+# Phrases for tags
+[ui_see_all_tags]
+other = "ดูแท็กทั้งหมด"
+[ui_tag]
+other = "แท็ก"
+[ui_tags]
+other = "แท็ก"
+[ui_search_by_tags]
+other = "เรียกดูตามแท็ก"
+[ui_tags_intro]
+other = "เราได้จัดหมวดหมู่คำศัพท์ไว้แล้ว ใช้ตัวกรองเพื่อเรียกดูคำศัพท์ตามแท็ก"
+[ui_or_search_by_tags]
+other = "...หรือเรียกดูตามแท็ก"
+[ui_select_all]
+other = "เลือกทั้งหมด"
+[ui_deselect_all]
+other = "ยกเลิกการเลือกทั้งหมด"
+
+# Footer text
+[footer_all_rights_reserved]
+other = "สงวนลิขสิทธิ์"
+
+[footer_privacy_policy]
+other = "นโยบายความเป็นส่วนตัว"
+
+[footer_hub_button_text]
+other = "เว็บไซต์ทั้งหมดของ CNCF"
+
+# Post (blog, articles etc.)
+[post_byline_by]
+other = "โดย"
+[post_created]
+other = "สร้างเมื่อ"
+[post_last_mod]
+other = "แก้ไขล่าสุดเมื่อ"
+[post_edit_this]
+other = "แก้ไขหน้านี้"
+[post_create_child_page]
+other = "สร้างหน้าย่อย"
+[post_create_issue]
+other = "แจ้งปัญหา"
+[post_create_project_issue]
+other = "สร้าง issue ของโปรเจกต์"
+[post_posts_in]
+other = "โพสต์ใน"
+[post_reading_time]
+other = "นาทีในการอ่าน"
+
+# Print support
+[print_printable_section]
+other = "นี่คือมุมมองสำหรับพิมพ์หลายหน้าของส่วนนี้"
+[print_click_to_print]
+other = "คลิกที่นี่เพื่อพิมพ์"
+[print_show_regular]
+other = "กลับไปยังมุมมองปกติ"
+[print_entire_section]
+other = "พิมพ์ทั้งส่วน"
+
+# Feedback section
+[feedback_title]
+other = "ข้อเสนอแนะ"
+[feedback_question]
+other = "หน้านี้มีประโยชน์หรือไม่"
+[feedback_answer_yes]
+other = "มีประโยชน์"
+[feedback_answer_no]
+other = "ไม่มีประโยชน์"
+
+# Sign language section
+[sign_language_header]
+other = "ในภาษามือ"
+[sign_language_info]
+other = """
+**หมายเหตุ**:
+แม้แต่ละประเทศจะมีภาษามือเป็นของตนเอง
+[กลุ่มทำงานผู้พิการทางการได้ยิน/หูตึง](https://contribute.cncf.io/accessibility/deaf-and-hard-of-hearing/)
+ของเรามุ่งมั่นที่จะกำหนดสัญลักษณ์มาตรฐานสำหรับคำศัพท์ cloud native ใหม่ ๆ เพื่อให้ใช้ได้ทั่วโลก
+"""
