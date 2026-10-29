@@ -91,6 +91,6 @@ other = "ในภาษามือ"
 other = """
 **หมายเหตุ**:
 แม้แต่ละประเทศจะมีภาษามือเป็นของตนเอง
-[กลุ่มทำงานผู้พิการทางการได้ยิน/หูตึง](https://contribute.cncf.io/accessibility/deaf-and-hard-of-hearing/)
+[Deaf & Hard of Hearing Working Group](https://contribute.cncf.io/accessibility/deaf-and-hard-of-hearing/)
 ของเรามุ่งมั่นที่จะกำหนดสัญลักษณ์มาตรฐานสำหรับคำศัพท์ cloud native ใหม่ ๆ เพื่อให้ใช้ได้ทั่วโลก
 """
