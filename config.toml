@@ -179,6 +179,14 @@ weight = 16
 [languages.vi.params]
 description = "Dự án Từ Điển Thuật Ngữ Cloud Native CNCF được xây dựng nhằm mục đích làm tài liệu tham khảo cho các thuật ngữ phổ biến khi thảo luận về các ứng dụng cloud native."
 
+[languages.th]
+contentDir = "content/th"
+languageName = "ไทย (Thai)"
+title = "อภิธานศัพท์ Cloud Native"
+weight = 17
+[languages.th.params]
+description = "โครงการอภิธานศัพท์ Cloud Native ของ CNCF จัดทำขึ้นเพื่อใช้เป็นข้อมูลอ้างอิงสำหรับคำศัพท์ที่ใช้กันทั่วไปเมื่อพูดถึงแอปพลิเคชัน cloud native"
+
 [markup]
 [markup.goldmark]
 [markup.goldmark.renderer]

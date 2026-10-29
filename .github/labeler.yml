@@ -61,3 +61,7 @@ lang/zh:
 lang/vi:
 - changed-files:
   - any-glob-to-any-file: 'content/vi/**'
+
+lang/th:
+- changed-files:
+  - any-glob-to-any-file: 'content/th/**'
