@@ -6,7 +6,7 @@ tags: ["application", "fundamental", ""]
 ---
 
 Konteyner imajı, bir [konteynerin](/tr/container/) oluşturulması için gerekli tüm bağımlılıkları içeren, değiştirilemez (immutable) ve statik bir dosyadır.
-Bu bağımlılıklar tek bir yürütülebilir ikili (binary) dosya, sistem kütüphaneleri, sistem araçları, ortam değişkenleri ve diğer gerekli platform ayarlarını kapsayabilir.
+Bu bağımlılıklar tek bir yürütülebilir ikili (binary) dosya, sistem kütüphaneleri, sistem araçları, ortam değişkenleri ve diğer gerekli platform ayarlarını içerebilir.
 Konteyner imajları bir uygulamanın [konteynerleştirilmesi](/tr/containerization/) sonucunda ortaya çıkar ve genellikle konteyner kayıt defterlerinde (registry) saklanır.
 Buradan indirilerek bir Konteyner Çalışma Zamanı Arayüzü (CRI) aracılığıyla yalıtılmış bir işlem olarak çalıştırılabilirler.
 Bir konteyner imaj çerçevesi, Açık Konteyner Girişimi (Open Container Initiative - OCI) tarafından tanımlanan standart şemaya uygun olmalıdır.
