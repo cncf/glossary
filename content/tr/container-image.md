@@ -1,8 +1,8 @@
 ---
 title: Konteyner İmajı
 status: Completed
-category: concept
-tags: ["application", "fundamental", ""]
+category: Kavram
+tags: ["uygulama", "temel kavram", ""]
 ---
 
 Konteyner imajı, bir [konteynerin](/tr/container/) oluşturulması için gerekli tüm bağımlılıkları içeren, değiştirilemez (immutable) ve statik bir dosyadır.
@@ -15,9 +15,9 @@ Bir konteyner imaj çerçevesi, Açık Konteyner Girişimi (Open Container Initi
 
 Geleneksel mimaride uygulama sunucuları ortam bazında ayrı ayrı yapılandırılır ve uygulamalar bu sunuculara dağıtılır.
 Ortamlar arasındaki en ufak bir yapılandırma uyuşmazlığı sorunlara yol açar ve sıklıkla kesintilere ya da başarısız dağıtımlara neden olur.
-Bir uygulamanın çalışma ortamının yinelenebilir ve açıkça tanımlanmış olması gerekir;
-aksi takdirde ortama bağlı hata olasılığı artar.
-Uygulama ortamları yetersiz veya tutarsız yapılandırıldığında, uygulamaların yatay ve dikey ölçeklenmesi zorlaşır.
+Bir uygulamanın ortamı, tekrarlanabilir ve iyi tanımlanmış olmalıdır;
+aksi takdirde, ortamla ilgili hataların ortaya çıkma olasılığı artar.
+Uygulama ortamları yetersiz veya hatalı yapılandırıldığında, uygulamaların [yatay](/horizontal-scaling/) ve [dikey](/vertical-scaling/) ölçeklendirilmesi zorlaşır.
 
 ## Nasıl Yardımcı Olur
 
