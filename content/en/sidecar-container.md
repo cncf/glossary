@@ -33,5 +33,5 @@ While doing this, it frees the main container to be focused on functional tasks
 or exposing business capabilities. 
 
 For example, when multiple microservices have their sidecar containers 
-acting as logging agents reading from the same directory, 
-the main application is writing its logs to.
+acting as logging agents, reading from the same directory that the 
+main application is writing its logs to.
