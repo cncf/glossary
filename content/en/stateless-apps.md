@@ -6,7 +6,7 @@
 ---
 
 Stateless applications handle each request independently without remembering any previous interactions or user data.
-Data from previous interactions is referred to as state since that data isn’t stored anywhere, these apps are state*less*. 
+Data from previous interactions is referred to as state. Since these apps don’t store that data anywhere, they are state*less*.
 Here's an example: 
 When you use a search engine, and that search is interrupted (e.g., the window is closed), those search results are lost. 
 You'll need to start all over.
