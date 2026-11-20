@@ -86,3 +86,14 @@ other = "क्या यह पृष्ठ उपयोगी था?"
 other = "हां"
 [feedback_answer_no]
 other = "नहीं"
+
+# Sign language section
+[sign_language_header]
+other = "संकेत भाषा में"
+[sign_language_info]
+other = """
+**नोट**:
+हर देश की अपनी संकेत भाषा होती है; हम,
+[Deaf/Hoh Working Group](https://contribute.cncf.io/accessibility/deaf-and-hard-of-hearing/),
+वैश्विक उपयोग के लिए नए क्लाउड-नेटिव शब्दों के लिए संकेतों को मानकीकृत करने का प्रयास करते हैं।
+"""
