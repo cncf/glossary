@@ -11,7 +11,7 @@ tags: ["安全", "", ""]
 
 ## 解决的问题
 
-[SRE](/zh-cn/site_reliability_engineering/) 和 [DevOps](/zh-cn/devops/) 实践侧重于提高产品弹性和 [可靠性](/zh-cn/reliability/) 的技术。
+[SRE](/zh-cn/site-reliability-engineering/) 和 [DevOps](/zh-cn/devops/) 实践侧重于提高产品弹性和 [可靠性](/zh-cn/reliability/) 的技术。
 系统在故障容灾时确保服务质量的能力通常是对软件开发提出的要求。这里涉及到几个方面可能导致应用程序中断，例如基础设施、平台或（基于[微服务](/zh-cn/microservices/)）的应用程序的其他部分。
 高频地持续部署新功能到生产环境会增加服务中断和恶性事件发生的可能性，乃至于对业务产生重大影响。
 
