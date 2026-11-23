@@ -1,7 +1,8 @@
 ---
 title:  सर्विस डिस्कवरी  (Service Discovery)
-status: completed
+status: Completed
 category: अवधारणा
+tags: ["networking", "", ""]
 ---
 
 ## यह क्या है 
